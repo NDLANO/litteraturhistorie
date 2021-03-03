@@ -1,5 +1,5 @@
 window.litteraturhistorieDictionaryNb = {
   general: {
-    testText: "Dette er en test",
+    title: "NDLA Litteraturhistorie",
   },
 };
