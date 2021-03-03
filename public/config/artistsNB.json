@@ -1,0 +1,567 @@
+{
+  "bakgrunnsinfo": {
+    "KUNSTNER": [
+      {
+        "NAVN": "Marie de France",
+        "FRA": 1130,
+        "TIL": 1200,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": "• <b>Marie de France</b> (ca. 1130–1200) regnes for den første kvinnelige franske dikteren. Vi vet lite om henne. Kanskje ble hun født i området rundt Paris. Hun var velutdannet, skrev både på latin og fransk, og hun arbeidet i England. \r\n• Marie de France er mest kjent for <i>Les Lais</i>, en samling av tolv noveller på vers. Stoffet er hentet fra keltiske sagn og eventyr. Fortellingene handler for det meste om kjærlighet og om ulike hindringer de elskende kan møte.\r\n• Tekstene hennes er oversatt til mange språk, også til norsk. Den norske utgaven heter <i>Strengleikar</i> og var opprinnelig et bestillingsverk av kong Håkon Håkonsson, som var spesielt interessert i fransk litteratur."        
+      },
+      {
+        "NAVN": "Snorre Sturlason",
+        "FRA": 1178,
+        "TIL": 1241,
+        "TYPE": 1,
+        "STED": 1,
+        "OMTALE": "• Islendingen <b>Snorre Sturlason</b> (1179-1241)  var både diktar, høvding, historikar og jurist. Han er den mest kjende diktaren frå norrøn tid. \r\n• Det er Snorre som har gitt oss historiekunnskap om dei aller eldste tider.\r\n• Snorre kom i konflikt med den norske kongen Håkon Håkonsson og blei myrda på garden sin i 1241 av kongens sendemenn.\r\n• Hovudverket til Snorre er  <i>Den yngre Edda</i> eller <i>Snorre-Edda</i>. Det er ei innføring i norrøn mytologi og ei lærebok i skaldedikting.\r\n• <i>Snorres kongesoger</i> fortel om dei norske kongane fram til 1177."        
+      },
+      {
+        "NAVN": "Dante Alighieri",
+        "FRA": 1265,
+        "TIL": 1321,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": "• <b>Dante Alighieri</b> (1265–1321) var italiensk forfatter og filosof. Han var en av de første dikterne i middelalderen som skrev på morsmålet i stedet for latin.\r\n• Eposet <i>Den guddommelige komedie</i> (<i>La Divina Commedia</i>) regnes for det mest storslåtte diktverket i middelalderen. Her skildrer Dante sin egen (tenkte) reise gjennom helvete, skjærsild og til slutt død. Samtidig fletter han inn tanker om både religion, filosofi, vitenskap og politikk.\r\n• Den som viser seg for Dante gjennom helvete og skjærsild, er den store romerske dikteren Vergil. Dante hadde nok Vergils epos <i>Æneiden</i> i tankene da han skrev sin egen tekst. Vergils helt Æneas reiser nemlig selv ned i dødsriket og forteller hva han ser der. \r\n• Dantes respekt for Vergil peker fram mot renessansens gjenoppdagelse av antikken.\r\n• I 1302 kom Dante i konflikt med pavekirken og ble forvist fra Firenze. Han døde som politisk flyktning i Ravenna i 1321."
+      },
+      {
+        "NAVN": "Francesco Petrarca",
+        "FRA": 1304,
+        "TIL": 1374,
+        "TYPE": 3,
+        "STED": 2,
+        "OMTALE": "• <b>Francesco Petrarca</b> (1304-1374) er ein av dei fremste renessanseforfattarane. Han er òg ein av dei første humanistane, sterkt interessert i antikkens kultur.\r\n• Petrarca skriv både på latin og på italiensk, og han er nær venn med Giovanni Boccaccio, ein annan framståande humanist. Begge har eit ønskje om å spreie humanistiske tankar og idear.\r\n• I dag er Petrarca mest kjend for dikta på italiensk. I boka <i>Canzoniere</i> har han samla 366 dikt. Nokre av dei handlar om heimplassen hans, men dei fleste er sonettar og kjærleiksdikt til ei idealkvinne han kallar Laura. \r\n• Petrarca er eit førebilete for andre diktarar, og sonetten blir derfor ei populær diktform.\r\n• <i>Italia mia</i> (<i>mitt Italia</i>) er Petrarcas uttrykk for patriotisme og kjærleik til landet, ei kjensle som ikkje er vanleg å uttrykkje i mellomalderen."
+      },
+      {
+        "NAVN": "Giovanni Boccaccio",
+        "FRA": 1313,
+        "TIL": 1375,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": "• <b>Giovanni Boccaccio</b> (1313- 1375) var poet og forfattar frå Firenze.\r\n• Boccaccio blir rekna som ein stor humanist fordi han fokuserte på mennesket sjølv, og mindre på mennesket sitt forhold til Gud.\r\n• Han er hugsa som forfattaren av <i>Decameronen</i>, ei bok som inneheld 100 forteljingar med erotisk tilsnitt.\r\n• <i>Deca</i> tyder tid og <i>hemera</i> tyder dag.\r\n• Alle forteljingane (novellene) har sitt opphav i året 1348, då sju menn og tre kvinner flykta frå pesten i Firenze og slo seg ned i ein herskapsvilla på landet for ikkje å bli smitta.\r\n• For å få tida til å gå, fortel dei historier til kvarandre, ti om dagen i ti dagar.\r\n• Alle forteljingane er prega av erotikk og humor, og mange har ein brodd til dei geistlege.\r\n• Decameronen kom på norsk i 1934."
+      },
+      {
+        "NAVN": "Filippo Brunelleschi",
+        "FRA": 1377,
+        "TIL": 1446,
+        "TYPE": 3,
+        "STED": 2,
+        "OMTALE": "• <b>Filippo Brunelleschi</b> (1377–1446) var en av de store renessansearkitektene. Så godt som alle arbeidene hans er å finne i Firenze. \r\n• Hittebarnshospitalet i Firenze, som er tegnet av Brunelleschi, regnes for den første virkelige renessansebygningen.\r\n• Brunelleschi har også konstruert kuppelen på domkirken i Firenze (Santa Maria del Fiore). Kuppelen måler 39,5 m i diameter og er et mesterstykke.\r\n• Brunelleschi oppdaget sentralperspektivet, en teknikk for å skape romvirkning i et bilde. Oppdagelsen hans fikk stor betydning for malerkunsten i Europa."
+      },
+      {
+        "NAVN": "Leonardo da Vinci",
+        "FRA": 1452,
+        "TIL": 1519,
+        "TYPE": 3,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Leonardo da Vinci</b> (1452–1519) var maler, bildehogger, arkitekt, oppfinner og vitenskapsmann. Han kom fra byen Firenze i Italia.\r\n• I dag er han mest kjent som maler. De fleste kjenner nok til maleriene ”Mona Lisa” og ”Nattverden”.\r\n• Men Leonardo da Vinci var dyktig på mange områder. Som oppfinner konstruerte han helikoptre og andre framtidsrettete farkoster på tegnebrettet. Som vitenskapsmann arbeidet han blant annet med astronomi, optikk og anatomi. \r\n• Han var spesielt interessert i menneskekroppen. Det kjente bildet ”Den vitruviske mann” er en studie av kroppens idealproporsjoner."
+        }
+      },
+      {
+        "NAVN": "Erasmus frå Rotterdam",
+        "FRA": 1466,
+        "TIL": 1536,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Erasmus av Rotterdam</b> (1466–1536) regnes for en av de største humanistene på 1500-tallet.\r\n• Han kritiserte kirken i flere av sine skrifter, blant annet i <i>Erasmusbibelen</i>, som er en kritisk utgave av det greske nytestamentet. Merknadene hans til bibelteksten var ikke bare faglige, Erasmus kommenterte også samtidige forhold ved kirken som han mente var klanderverdige. \r\n• Denne kritikken la grunnlaget for bibelgranskingen utover på 1500-tallet. \r\n• Erasmus mente at kirken måtte forandres innenfra, han ønsket ikke noe brudd."
+        }
+      },
+      {
+        "NAVN": "Michelangelo",
+        "FRA": 1475,
+        "TIL": 1564,
+        "TYPE": 3,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Michelangelo Buonarroti</b> (1475–1564) var både skulptør, maler, arkitekt og ingeniør. \r\n• Han regnes for å være en av de største kunstnerne som noensinne har levd.\r\n• Michelangelo er kanskje mest kjent for utsmykkingen av alterveggen i Det sixtinske kapell i Roma. Som arkitekt arbeidet han med utformingen av Peterskirken."
+        }
+      },
+      {
+        "NAVN": "Martin Luther",
+        "FRA": 1483,
+        "TIL": 1546,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Martin Luther</b> (1483–1546) var en tysk munk og teolog som kom i konflikt med den katolske kirken. \r\n• Kirken krevde at de troende skulle oppfylle mange religiøse plikter, og at de godtok plassen i samfunnet som Gud hadde gitt dem. Bare slik kunne de få del i frelsen. \r\n• Luther derimot mente at mennesket var helt avhengig av Guds nåde, og at det bare kunne frelses gjennom troen på Jesus Kristus. Gjerningene våre kunne ikke sikre oss frelse. \r\n• Derfor var Luther også sterkt imot at kirken solgte avlatsbrev for å finansiere byggingen av Peterskirken i Roma. Avlatsbrev var brev fra paven som gav mottakerne tilgivelse for sine synder, mot at de for eksempel gav penger til et godt formål.\r\n• En annen viktig tanke hos Luther var at bare Bibelen var kilde for troen og for kunnskap om Gud. Luther oversatte Bibelen til tysk, slik at folk kunne lese boka selv. Seinere ble Bibelen også oversatt til engelsk og andre språk.\r\n• Luther mente at hver enkelt må ha frihet til å finne ut hva som er Guds vilje. Han utfordret dermed autoriteten til de kirkelige myndighetene. \r\n• Luther ble lyst i bann (utstøtt fra den katolske kirken).  Opprøret hans førte seinere til reformasjonen og til brudd med den katolske kirken."
+        }
+      },
+      {
+        "NAVN": "Mattis Størsson",
+        "FRA": 1500,
+        "TIL": 1569,
+        "TYPE": 1,
+        "STED": 1
+      },
+      {
+        "NAVN": "Absalon Pederssøn Beyer",
+        "FRA": 1528,
+        "TIL": 1575,
+        "TYPE": 1,
+        "STED": 1,
+        "OMTALE": {
+          "html": "• <b>Absalon Pedersson Beyer</b> (1528-1575) er ein av tre norske humanistar.\r\n• Han var prest og tilhøyrde det humanistiske miljøet kring katedralskulen i Bergen.\r\n• Absalon Pedersson Beyer skreiv <i>Bergens Kapitelbog</i> som er ei nedskriving av dagleglivet i Bergen kring 1560.\r\n• Enka etter humanisten Absalon, Anne Pedersdotter, blei skulda for hekseri og ho vart brent på bål i 1890."
+        }
+      },
+      {
+        "NAVN": "Michel de Montaigne",
+        "FRA": 1533,
+        "TIL": 1592,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": ""
+      },
+      {
+        "NAVN": "Jens Nilsson",
+        "FRA": 1538,
+        "TIL": 1600,
+        "TYPE": 1,
+        "STED": 1,
+        "OMTALE": {
+          "html": "• <b>Jens Nilsson</b> (1538-1600) er den tredje humanisten. Han var opprinneleg dansk, men voks opp i Oslo. Difor vert han rekna som humanisten kring oslo-miljøet.\r\n• Han var også skulemann, men blei seinare biskop.\r\n• Hovudverket til Jens Nilsson er <i>Biskop Jens Nilssøns visitatbøger og reiseoptegnelser</i>. Her fortel han om reiser han gjorde som biskop."
+        }
+      },
+      {
+        "NAVN": "Peder Clausson Friis",
+        "FRA": 1545,
+        "TIL": 1614,
+        "TYPE": 1,
+        "STED": 1,
+        "OMTALE": {
+          "html": "• <b>Peder Clausson Friis</b> (1545-1614) tilhøyrde det humanistiske miljøet kring katedralskulen i Stavanger.\r\n• Han kom frå Lindesnes på Sørlandet og skreiv ei geografibok med tittelen <i>Norrigis Bescriffuelse</i>.\r\n• Peder Clausson Friis omsette også tekstar frå norrønt til dansk, blant anna <i>Snorres kongesoger</i>."
+        }
+      },
+      {
+        "NAVN": "Miguel de Cervantes",
+        "FRA": 1547,
+        "TIL": 1616,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": ""
+      },
+      {
+        "NAVN": "William Shakespeare",
+        "FRA": 1564,
+        "TIL": 1616,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>William Shakespeare</b> (1564-1616) kom frå Stratford-on-Avon i England.\r\n• Han var skodespelar og vart sidan ein stor dramatikar. \r\n• Shakespeare vert rekna som renessansediktar fordi han fokuserer meir på mennesket sjølv enn på mennesket sitt forhold til gud.\r\n• I dag vert Shakespeare rekna som engelsk nasjonalforfattar og kanskje verdas største dramatikar.\r\n• Han skreiv 38 skodespel og 154 sonettar. I tillegg fleire dikt.\r\n• Dei mest kjende skodespela er <i>Richard 3</i>, komedien <i>Kjøpmannen i Venedig</i>, og tragediane <i>Romeo og Julie</i>,  <i>Macbeth</i> og <i>Hamlet</i>."
+        }
+      },
+      {
+        "NAVN": "John Donne",
+        "FRA": 1572,
+        "TIL": 1631,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": ""
+      },
+      {
+        "NAVN": "Francisco de Quevedo",
+        "FRA": 1580,
+        "TIL": 1645,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Francisco de Quevedo</b> (1580–1645) var en spansk lyriker og romanforfatter fra barokktida. Han skrev flere typer dikt, både kjærlighetsdikt og religiøse dikt i barokk stil.\r\n• Quevedo er også kjent som satiriker og dyrker av <i>pikareskromanen</i>, en sjanger som stammer fra spansk barokk. ”Picaro” på spansk betyr skjemt, og pikareskromanen er en type skjemteroman som oftest handler om en eventyrlysten omstreifer. På vegen møter han pussige utfordringer og farer, og han må derfor bruke kløkt og fantasi for å ta seg fram.\r\n• Quevedo hører til de fremste spanske lyrikerne på 1600-tallet, men han skrev også religiøse, filosofiske og politiske skrifter."
+        }
+      },
+      {
+        "NAVN": "John Milton",
+        "FRA": 1608,
+        "TIL": 1674,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>John Milton</b> (1608–1674), engelsk dikter. Milton skulle egentlig bli prest, men studerte i stedet språk. Han skrev dikt på engelsk, italiensk og latin, blant annet julesalmen ”On the Morning of Christ’s Nativity”.\r\n• I mange år var Milton latinsk sekretær for statsråden i utenrikssaker, og i denne perioden gav han ut flere religiøse og polemiske skrifter. Det førte til at han kom i konflikt med kongemakta. Han ble også svaksynt og seinere blind, og gikk da over til å skrive mer religiøse og lyriske skrifter.\r\n• Hovedverket hans er eposet <i>Paradise Lost</i> (1667), på norsk: <i>Det tapte paradis</i>. Det blir regnet som et mesterverk i engelsk litteratur. Eposet kan leses som et motstykke til Dantes <i>Divina Commedia</i> (<i>Den guddommelige komedie</i>). \r\n• Milton skrev også <i>Paradise Regained</i> (1671), ”det gjenvunne paradiset”."
+        }
+      },
+      {
+        "NAVN": "Jean Baptiste Molière",
+        "FRA": 1622,
+        "TIL": 1673,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Jean Baptiste Molière</b> (1622–1673), fransk forfatter og skuespiller. Etternavnet er et pseudonym for Poquelin. Molière regnes som verdens fremste komedieforfatter. Han arbeidet i høyt tempo og produserte minst en komedie i året.\r\n• Molière var påvirket av italiensk komedietradisjon, samtidig som han holdt seg til de klassiske idealene fra antikken. Han kunne også bryte de klassiske kravene om å underholde og more publikum.\r\n• Molière var inspirator for mange forfattere, og Ludvig Holberg var en av dem som hentet kunnskap og motivasjon fra komediene hans."
+        }
+      },
+      {
+        "NAVN": "Blaise Pascal",
+        "FRA": 1623,
+        "TIL": 1662,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Blaise Pascal</b> (1623–1662), fransk filosof, matematiker, naturforsker og skribent. Som ung filosof var han inspirert av Descartes, men seinere ble han religiøst påvirket. \r\n• I 1657 skrev Pascal <i>Lettres provinciales</i>. Brevene vakte stor oppmerksomhet og regnes fortsatt som klassisistiske verk i Frankrike. Tekstene ble forbudt av pavekirken.\r\n• I 1669, etter at Pascal var død, utkom <i>Pensées sur la religion</i>, en samling notater og aforismer. Boka foreligger på norsk med tittelen <i>Tanker</i>, oversatt av Ivar Welle. Her går Pascal i rette med katolsk kristendom, og tankene har mye til felles med det vi finner hos Søren Kierkegaard. \r\n• <i>Pensées</i> (<i>Tanker</i>) hører til de mest leste bøkene i Frankrike, og Blaise Pascal blir regnet som en stor åndshøvding."
+        }
+      },
+      {
+        "NAVN": "John Locke",
+        "FRA": 1632,
+        "TIL": 1704,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>John Locke</b> (1632–1704), engelsk filosof, regnet som den første britiske empiristen. Locke var en foregangsmann i opplysningstida når det gjaldt å utvikle en ny tenkemåte og et nytt verdensbilde.\r\n• Lockes ideer har hatt stor betydning for utviklingen av politisk filosofi, særlig liberalismen. Mange av forfatterne fra opplysningstida, for eksempel Voltaire og Rousseau, er påvirket av Locke.\r\n• Sentrale verk er <i>Letter concerning Tolerance</i> (1689) og <i>An Essay concerning Human Understanding</i> (1690). Begge disse filosofiske skriftene handler om at religion ikke må tvinges på folket, og at det er fornuft og ikke autoritet som skal avgjøre hva som er rett."
+        }
+      },
+      {
+        "NAVN": "Thomas Kingo",
+        "FRA": 1634,
+        "TIL": 1703,
+        "TYPE": 1,
+        "STED": 1,
+        "OMTALE": ""
+      },
+      {
+        "NAVN": "Dorothe Engelbretsdotter",
+        "FRA": 1634,
+        "TIL": 1716,
+        "TYPE": 1,
+        "STED": 1,
+        "OMTALE": {
+          "html": "• <b>Dorothe Engelbretsdotter</b> (1634-1716) er ein av dei største salmediktarane på 1600-talet. Ho er òg Noregs første kjende kvinnelege forfattar. \r\n• Dorothe er fødd i Bergen der far hennar er sokneprest ved domkyrkja. I ung alder gifter ho seg med ein prest, og dei får ni barn saman. Dorothe blir tidleg enke. \r\n• Dorothe Engelbretsdotter skriv både salmar, høvesdikt og rimbrev. Ho er ein populær og respektert forfattar både i Noreg og i Danmark i samtida si.\r\n• Hovudverket hennar er <i>Siælens Sang-Offer</i>, ei samling salmar som kjem i meir enn tjue opplag til saman. Suksessen gjer at ho kan leve av diktinga si ein periode. \r\n• Framleis er Dorothe Engelbretsdotter representert med to salmar i <i>Salmeboka til Den norske kyrkja</i>."
+        }
+      },
+      {
+        "NAVN": "Jean Racine",
+        "FRA": 1639,
+        "TIL": 1699,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Jean Racine</b> (1639–1699), fransk dramatiker fra den klassisistiske perioden. Sammen med Molière og Corneille regnes Racine som opphavsmann til 1700-tallets tragedie, som bygde på antikkens krav til diktning med sammenfall i tid, sted og handling. \r\n• De første tragediene av Racine, <i>La Thébiade</i> (1664) og <i>Alexandre le grand</i> (1665), er preget av den klassisistiske stilen med mye ytre handling. Racine oppnådde større suksess med tragediene <i>Andromaque</i> (1667) og <i>Britannicus</i> (1669). Han skrev også en komedie, <i>Les Plaideurs</i> (1668). \r\n• I slutten av 1670-årene ble Racine utnevnt til historieskriver for Ludvig 14. Han stiftet da familie og gav seg som dramatiker."
+        }
+      },
+      {
+        "NAVN": "Isaac Newton",
+        "FRA": 1643,
+        "TIL": 1727,
+        "TYPE": 3,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Isaac Newton</b> (1643–1727), engelsk matematiker, fysiker, kjemiker og naturfilosof. Newton regnes som en av de største vitenskapsmenn gjennom tidene. Han er mest kjent for den revolusjonerende påvisningen av tyngdeloven.\r\n• Newton var en representant for opplysningstida, og oppdagelsene hans bygde på erfaring (empirisme) og menneskelig forstand mer enn på blind autoritetstro.\r\n• Hovedverket hans er <i>Philosophiae Naturalis Principia Mathematica</i>, også kalt <i>Principia</i> (1687). Med dette verket la Newton grunnlaget for den klassiske mekanikken. Innenfor fagområdet er det gjerne snakk om Newtons første, andre og tredje lov.\r\n• To andre viktige verk av Isaac Newton er <i>Philosophical Transactions</i> (1672) og <i>Opticks</i> (1704)."
+        }
+      },
+      {
+        "NAVN": "Petter Dass",
+        "FRA": 1647,
+        "TIL": 1707,
+        "TYPE": 1,
+        "STED": 1,
+        "OMTALE": ""
+      },
+      {
+        "NAVN": "Daniel Defoe",
+        "FRA": 1660,
+        "TIL": 1731,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Daniel Defoe</b> (1660–1731), engelsk forfatter som ble verdensberømt for romanen <i>Robinson Crusoe</i> (1719). Boka er en fortelling om sjømannen Alexander Selkirk, som blir satt i land på ei øde øy og ikke blir oppdaget og reddet før etter fire år.\r\n• Boka <i>Robinson Crusoe</i> fikk mange lesere og regnes for den første realistiske romanen i verdenslitteraturen. Begrepet <i>robinsonade</i> blir brukt om det å klare seg på egen hånd og leve av det som kan utvinnes av naturen. \r\n• Romanen ble utgitt på norsk i 1899. Seinere er det kommet flere utgaver. Det er også laget filmversjoner av fortellingen om Robinson Crusoe.\r\n• Defoe skrev flere historiske verk, blant annet ei reisehåndbok over Storbritannia, en guide med historiske kilder."
+        }
+      },
+      {
+        "NAVN": "Jonathan Swift",
+        "FRA": 1667,
+        "TIL": 1745,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Jonathan Swift</b> (1667–1745), irsk-engelsk forfatter og prest som er mest kjent for romanen <i>Gullivers reiser</i> (1726). Boka handler om en sjøreise der uvær og storm fører Gulliver på ville veier, og han kommer til steder ingen har hørt om. Fortellingen har mye til felles med <i>Niels Klims underjordiske reise</i> av Ludvig Holberg.\r\n• Swift var satiriker, og fortellingen om Gulliver er egentlig en bitende kritikk av kirke og stat. Romanen er seinere forkortet og omgjort til barnebok.\r\n• <i>A Tale of a Tub</i> (<i>Historien om en tønne</i>) fra 1704 er også satirisk i grunnformen. Fortellingen er laget som en fabel, der Swift kritiserer kirken for ikke å ta ansvar for hungersnøden i Irland."
+        }
+      },
+      {
+        "NAVN": "Ludvig Holberg",
+        "FRA": 1685,
+        "TIL": 1754,
+        "TYPE": 1,
+        "STED": 1,
+        "OMTALE": ""
+      },
+      {
+        "NAVN": "Charles-Louis Montesquieu",
+        "FRA": 1689,
+        "TIL": 1755,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Charles-Louis Montesquieu</b> (1689–1755), fransk filosof og forfatter. Han er mest kjent for boka <i>de L´Esprit des Lois</i> (<i>Lovens ånd</i>), der han redegjør for maktfordelingsprinsippet. Det vil si prinsippet om at all politisk makt må fordeles mellom en lovgivende, en utøvende og en dømmende makt.\r\n• Montesquieu var en sentral representant for opplysningstida, og ideene hans fikk stor betydning for de hendingene som førte til at eneveldet falt, og seinere for framveksten av et demokratisk Frankrike.\r\n• Montesquieus tanker har også hatt innvirkning på teoriene om menneskerettigheter, slik de blant annet kommer til uttrykk i FNs menneskerettighetserklæring."
+        }
+      },
+      {
+        "NAVN": "François-Marie Voltaire",
+        "FRA": 1694,
+        "TIL": 1778,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>François-Marie Voltaire</b> (1694–1778), fransk filosof, historiker, vitenskapsmann og forfatter. Han regnes som den fremste filosofen i opplysningstida og en forkjemper for menneskerettighetene.\r\n• Voltaire var opposisjonell og en kritiker av det franske eneveldet tidlig på 1700-tallet. Han ble fengslet og landsforvist til England. Her kom han i kontakt med John Locke og Isaac Newton, og det påvirket tenkningen hans i liberalistisk retning. \r\n• Voltaire influerte på tida han levde i, og satte spor etter seg i ettertid. Han trodde på et fritt og rettferdig samfunn, og han mente at veien å gå var å bygge på kunnskap, fornuft og den frie tanken. \r\n• Et velkjent utsagn av Voltaire går på retten til å kunne ytre seg: <i>«Jeg er helt uenig med deg, men jeg vil kjempe til døden for retten din til å si det du sier.»</i>"
+        }
+      },
+      {
+        "NAVN": "Adam Smith",
+        "FRA": 1723,
+        "TIL": 1790,
+        "TYPE": 3,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Adam Smith</b> (1723–1790), skotsk økonom og filosof som fikk stor betydning for framveksten av økonomisk liberalisme. Han regnes som grunnleggeren av sosialøkonomi både som vitenskap og fag.\r\n• Smith mente at forutsetningen for økonomisk vekst var at de næringsdrivende kunne kjøpe og selge varer i et fritt marked, uten statlig styring. Et slikt system ville utvikle seg videre gjennom markedet, mente han.\r\n• Denne tenkemåten kaller vi gjerne <i>økonomisk liberalisme</i>, og den rommer en idé om at staten skal være tjener for individet. Dette er nye tanker som bryter med tidligere tiders samfunnsoppfatning. \r\n• Smiths ideer om økonomisk styring fikk stor innflytelse på utviklingen av industrisamfunnet i Storbritannia på 1800-tallet."
+        }
+      },
+      {
+        "NAVN": "Johan Herman Wessel",
+        "FRA": 1742,
+        "TIL": 1785,
+        "TYPE": 1,
+        "STED": 1,
+        "OMTALE": ""
+      },
+      {
+        "NAVN": "Johan Nordahl Brun",
+        "FRA": 1745,
+        "TIL": 1816,
+        "TYPE": 1,
+        "STED": 1,
+        "OMTALE": ""
+      },
+      {
+        "NAVN": "Johann Wolfgang von Goethe",
+        "FRA": 1749,
+        "TIL": 1832,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Johann Wolfgang von Goethe</b> (1749–1832), tysk forfatter som regnes for den største i Tyskland i den romantiske perioden. Han var også utdannet jurist og arbeidet som advokat og rådgiver i statsadministrasjonen.\r\n• Hovedverket er <i>Faust</i>, et drama som Goethe arbeidet med gjennom storparten av forfatterskapet sitt. Dette verket regnes som et av de største i tysk litteratur. Faust er gjendiktet til norsk av Åse-Marie Nesse: <i>Faust, del 1</i> (1993) og <i>Faust, del 2</i> (1999).\r\n• Det var likevel romanen <i>Die Leiden des jungen Werthers</i> (1774) som gjorde Goethe verdensberømt (norsk tittel: <i>Den unge Werthers lidelser</i>). Boka handler om ulykkelig kjærlighet, og Goethe ble beskyldt for å være både umoralsk og blasfemisk i samtida. I ettertid er Goethe opphøyd til Tysklands nasjonaldikter.\r\n• Goethe er også kjent som lyriker, og André Bjerke og Hartvig Kiran har gjort flere gjendiktninger."
+        }
+      },
+      {
+        "NAVN": "William Wordsworth",
+        "FRA": 1770,
+        "TIL": 1850,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>William Wordsworth</b> (1770–1850), engelsk lyriker fra den første romantiske perioden. Sammen med Samuel Taylor Coleridge (1772–1834) gav han ut diktsamlingen <i>Lyrical Ballads</i> (1798). Boka ble seinere regnet for innledningen til den engelske romantikken. \r\n• Wordsworth er en representant for den poesien som vender tilbake til naturen og lengselen etter forgangne tider. I diktene hans møter vi enkle personer som han skildrer i et enkelt språk. Bak ligger troen på det guddommelige, både i mennesket og i naturen.\r\n• Flere av diktene til Wordsworth er gjendiktet til norsk, for eksempel ”Vi er sju” (”We are seven”), ”Ho var ei draumsyn” (”She was a phantom of delight”), ”Skrive på Westminster-brua” (”Composed upon Westminster bridge”) og ”Til gjøken” (”To the cuckoo”)."
+        }
+      },
+      {
+        "NAVN": "Nikolai F.S. Grundtvig",
+        "FRA": 1783,
+        "TIL": 1872,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Nikolai F.S. Grundtvig</b> (1783–1872), dansk prest, pedagog, folkeopplyser og salmedikter. \r\n• For danskene er Grundtvig en sentral person i alt som har med kirke, folkeopplysning og identitet å gjøre. I Norge er han først og fremst kjent som grunnlegger av folkehøgskolen og representant for den frilynte kristendommen.\r\n• Den første folkehøgskolen ble etablert i Danmark i 1844. Tjue år seinere (1864) fikk vi Gausdal folkehøgskole.\r\n• Grundtvigs idé var å utvikle en skole som ikke var ensidig teoretisk, men som satte utviklingen av mennesket i sentrum. Han mente at samtalen var viktig, og la derfor mindre vekt på skriftlige fag enn det som var vanlig i latinskolen.\r\n• Tankegodset til Grundtvig fikk stor betydning for utviklingen av åndslivet i Norge i andre halvdel av 1800-tallet. Partiet Venstre var en pådriver for disse ideene og for utviklingen av den folkelige bevegelsen som har fått navnet <i>grundtvigianismen</i>."
+        }
+      },
+      {
+        "NAVN": "Lord Byron",
+        "FRA": 1788,
+        "TIL": 1824,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Lord Byron</b> (1788–1824), engelsk forfatter og poet. Han tilhører samme unge romantiske generasjon som Keats og Shelley.\r\n• Byron skrev dikt, men han er også kjent for sine dramatiske versefortellinger og skuespill. Hovedverket er eposet <i>Don Juan</i> (1819–1824), som handler om en ung helt fra Sevilla på eventyrreise rundt om i Europa. \r\n• <i>Don Juan</i> er gjendiktet til norsk av Geir Uthaug. Ellers finnes flere av tekstene til Byron i antologier for videregående skole."
+        }
+      },
+      {
+        "NAVN": "Percy Shelley",
+        "FRA": 1792,
+        "TIL": 1822,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Percy Shelley</b> (1792–1822), engelsk forfatter som tilhører samme unge generasjon av romantikere som Keats og Byron.\r\n• Kjente dikt av Shelley er ”Ode to the West Wind” og ”To a Skylark”. Han er også kjent for det greskinspirerte dramaet <i>Prometheus  Unbound</i> (1820), norsk utgave: <i>Den løste Prometevs</i>.\r\n• Flere av Shelleys tekster er gjendiktet til norsk. <i>Ode til Vestenvinden</i> finnes i flere versjoner og står i ulike antologier. Både Hartvig Kiran, André Bjerke og Geir Uthaug har gjendiktet Shelley."
+        }
+      },
+      {
+        "NAVN": "Maurits Christopher Hansen",
+        "FRA": 1794,
+        "TIL": 1842,
+        "TYPE": 1,
+        "STED": 1,
+        "OMTALE": ""
+      },
+      {
+        "NAVN": "John Keats",
+        "FRA": 1795,
+        "TIL": 1821,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>John Keats</b> (1795–1821), engelsk forfatter. Til tross for sitt korte liv regnes han som en av de største engelske lyrikerne fra den romantiske perioden. \r\n• Keats tilhører samme diktergenerasjon som Lord Byron og Shelley tidlig på 1800-tallet. De representerer alle den romantiske poesien som er utpreget estetisk, naturfokusert og følsom.\r\n• Kjente tekster av Keats er de fire odene ”To a Nightingale”, ”On a Grecian Urn”, ”On Melancholy” og ”To Autumn”. \r\n• Både Nordahl Grieg og Geir Uthaug har gjendiktet flere av diktene hans til norsk."
+        }
+      },
+      {
+        "NAVN": "Heinrich Heine",
+        "FRA": 1797,
+        "TIL": 1856,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Heinrich Heine</b> (1797–1856), tysk forfatter. Heine hadde jødiske foreldre, og i en periode var det derfor vanskelig for han å få gitt ut bøker. \r\n• Heine var en stor romantisk lyriker og er kjent for vakre dikt som ”Die Lorelei” og ”Im wunderschönen Monat Mai”. Mange av de mest kjente diktene er samlet i <i>Buch der Lieder</i> (1827), gjendiktet av Herman Wildenvey i <i>Sangenes bok</i> (1929). Flere av Heines dikt er tonesatt av Schubert og Schumann. \r\n• I en tiårsperiode bodde Heine i Frankrike. Da han returnerte, prøvde han å formidle fransk kultur og liberalisme i Tyskland, men det møtte motstand. \r\n• Heine er kjent for sin frisinnete liberalisme og et kritisk samfunnssyn. Han hadde en romantisk ironi som kom til uttrykk gjennom noe av det samme ”tvisynet” som Vinje er kjent for."
+        }
+      },
+      {
+        "NAVN": "Olea Krøger",
+        "FRA": 1801,
+        "TIL": 1855,
+        "TYPE": 1,
+        "STED": 1,
+        "OMTALE": ""
+      },
+      {
+        "NAVN": "Victor Hugo",
+        "FRA": 1802,
+        "TIL": 1885,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Victor Hugo</b> (1802–1885), fransk forfatter. Han var også politiker og medlem av nasjonalforsamlingen.\r\n• Hugo var en representant for de svake og kjempet for å få bort dødsstraffen. Da Napoleon 3. kom til makta i 1851, flyttet han til øya Jersey og levde der og skrev i tjue år. \r\n• Bøkene til Victor Hugo vant stor popularitet i Frankrike, og han var regnet som nasjonaldikter i lang tid.\r\n• De mest kjente verkene er <i>Ringeren i Notre-Dame</i> og <i>Les Misérables</i> (<i>De elendige</i>). Det er laget film av begge bøkene flere ganger. \r\n• <i>Les Misérables</i> er gjort til musikal i nyere tid, og i 1996 laget Walt Disney en tegnefilm av <i>Ringeren i Notre-Dame</i>."
+        }
+      },
+      {
+        "NAVN": "Magnus Landstad",
+        "FRA": 1802,
+        "TIL": 1880,
+        "TYPE": 1,
+        "STED": 1,
+        "OMTALE": ""
+      },
+      {
+        "NAVN": "Hans Christian Andersen",
+        "FRA": 1805,
+        "TIL": 1875,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Hans Christian Andersen</b> (1805–1875), dansk forfatter som er best kjent for sine kunsteventyr. Han skrev i flere sjangrer, men det er eventyrene som har gjort han verdensberømt.\r\n• H.C. Andersen var en ettertraktet gjest og oppleser ved hoffene rundt om i Europa, og han fikk tildelt ordener og titler.\r\n• De samlede verkene utgjør i alt femten bind og kom ut i perioden 1876–1880. Her finner vi mange av de mest kjente eventyrene: ”Fyrtøiet”, ”Prindsessen på Ærten”, ”Den lille Havfrue”, ”Keiserens nye Klæder”, ”Den standhaftige Tindsoldat”, ”Den grimme Ælling” og ”Den lille Pige med Svovelstikkerne”. \r\n• Eventyrene er oversatt til mer enn hundre språk, og mange av dem er blitt til teater, tegnefilmer og balletter rundt omkring i verden. Kunsteventyrene til H.C. Andersen er fortsatt populære og blir ofte lest."
+        }
+      },
+      {
+        "NAVN": "John Stuart Mill",
+        "FRA": 1806,
+        "TIL": 1873,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>John Stuart Mill</b> (1806–1873), engelsk filosof og økonom, foregangsmann for sosialliberalismen på 1800-tallet.\r\n• Mill var også en talsmann for <i>utilitarismen</i>, en moralfilosofisk retning som søker å formulere etiske og sosiale problemstillinger slik at de tilfredsstiller empiriske krav. Vi kan også snakke om en samfunnsnyttig filosofi.\r\n• Mange av bøkene til Mill dreier seg om frigjøring generelt og om kvinnens rettigheter spesielt. Mye er trolig skrevet sammen med kona Harriet Mill. \r\n• Mill arbeidet for likestilling mellom kjønnene og for allmenn stemmerett."
+        }
+      },
+      {
+        "NAVN": "Johan Sebastian Welhaven",
+        "FRA": 1807,
+        "TIL": 1873,
+        "TYPE": 1,
+        "STED": 1,
+        "OMTALE": ""
+      },
+      {
+        "NAVN": "Henrik Wergeland",
+        "FRA": 1808,
+        "TIL": 1845,
+        "TYPE": 1,
+        "STED": 1,
+        "OMTALE": ""
+      },
+      {
+        "NAVN": "Peter Christen Asbjørnsen",
+        "FRA": 1812,
+        "TIL": 1885,
+        "TYPE": 1,
+        "STED": 1,
+        "OMTALE": ""
+      },
+      {
+        "NAVN": "Chales Dickens",
+        "FRA": 1812,
+        "TIL": 1870,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Charles Dickens</b> (1812–1870), engelsk roman- og novelleforfatter som ble verdensberømt for sine gripende fortellinger og minneverdige figurer. Dickens var svært populær og fikk mange lesere både i og utenfor England.\r\n• <i>David Copperfield</i> (1850) er kanskje den mest kjente boka av Dickens. Andre kjente verk er Oliver Twist (1838) og novellen «A Christmas Carol» (1843), på norsk: «En julefortelling».\r\n• Inskripsjonen på grava hans lyder slik: «He was a sympathiser to the poor, the suffering, and the oppressed; and by his death, one of England’s greatest writers is lost to the world.»"
+        }
+      },
+      {
+        "NAVN": "Jørgen Moe",
+        "FRA": 1813,
+        "TIL": 1882,
+        "TYPE": 1,
+        "STED": 1,
+        "OMTALE": ""
+      },
+      {
+        "NAVN": "Camilla Collett",
+        "FRA": 1813,
+        "TIL": 1895,
+        "TYPE": 1,
+        "STED": 1,
+        "OMTALE": ""
+      },
+      {
+        "NAVN": "Søren Kierkegaard",
+        "FRA": 1813,
+        "TIL": 1855,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Søren Kierkegaard</b> (1813–1855), dansk filosof og teolog, regnes for grunnleggeren av moderne eksistensfilosofi, også kalt <i>eksistensialismen</i>. \r\n• Eksistensialismen legger vekt på spørsmål knyttet til livssynsfilosofi og de vanskelige sidene ved livet. Kierkegaard er opptatt av fenomenet angst, som han har en lang avhandling om. \r\n• Sentralt hos Kierkegaard står menneskets frihet til å kunne velge. Men det å velge fritar ikke for ansvar. Mennesket må derfor selv ta ansvar for egne valg.\r\n• Kierkegaard vender seg mer og mer til den kristne eksistensialismen, men mener kristen tro er en privatsak. I den filosofiske avhandlingen <i>Stadier paa Livets Vej</i> (1845) tar han for seg fire livsfaser, der den siste fasen er den religiøse. \r\n• Tenkningen hans har hatt mye å si både for forfattere og eksistensfilosofer i nyere tid. Jean-Paul Sartre, den fremste eksistensialisten i vår tid, var også påvirket av Kierkegaard."
+        }
+      },
+      {
+        "NAVN": "Karl Marx",
+        "FRA": 1818,
+        "TIL": 1883,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Karl Marx</b> (1818–1883), tysk filosof og grunnlegger av den sosialistiske retningen <i>marxisme</i>. Marx studerte i Bonn og Berlin og ble påvirket av <i>hegelianerne</i> (en gruppe som dyrket Hegels filosofi). \r\n• Marx var avismann og redaktør før han kom i kontakt med Friedrich Engels. Sammen forfattet de <i>Det kommunistiske manifest</i> i 1848. I 1849 reiste Marx til London og ble der resten av livet. I 1864 var han med på å stifte den internasjonale arbeiderassosiasjonen, seinere kjent under navnet <i>Den første internasjonale</i>. \r\n• Hovedverket til Marx er <i>Das Kapital</i>. Det første bindet kom i 1867, de to neste i 1885 og 1894 (utgitt av Engels etter at Marx var død). Grunntanken i marxismen er at det alltid finnes to stridende samfunnsklasser, der den undertrykte klassen prøver å kaste den dominerende, mens den dominerende klassen prøver å holde på makta. Denne typen tenkning har vært grunnlaget for samfunnssystemer som <i>kommunisme</i> og <i>sosialisme</i>. \r\n• Begrepet <i>materialistisk historieoppfatning</i> er hentet fra Marx. Denne retningen ser den historiske utviklingen som et samspill mellom produksjonskrefter, produksjonsforhold og ideologi. Den marxistiske historieoppfatningen er derfor først og fremst en lære om klassekamp. Tenkemåten har i stor grad preget de samfunnsvitenskapelige fagene, spesielt innenfor sosiologi."
+        }
+      },
+      {
+        "NAVN": "Friedrich Engels",
+        "FRA": 1820,
+        "TIL": 1895,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Friedrich Engels</b> (1820–1895), tysk filosof, økonom og politiker. Engels dro til England for å studere, der han satte seg inn i politiske og sosiale forhold i landet. Seinere var han funksjonær og aksjonær ved en fabrikk i Manchester. \r\n• Tilbake i Tyskland kom han i kontakt med Karl Marx, og sammen utviklet de teorien som er kjent som <i>marxismen</i>. Engels og Marx skrev flere marxistiske verk, blant annet <i>Den hellige familie</i> (1845), <i>Den tyske ideologi</i> (1846) og <i>Det kommunistiske manifest</i> (1848). \r\n• Både Engels og Marx var påvirket av <i>hegelianismen</i> (filosofisk retning inspirert av Hegel). De framstår begge som teoretikere for den moderne sosialismen. \r\n• <i>Det kommunistiske manifest</i> var et kampskrift i arbeidet med å gi arbeiderklassen politisk makt. Manifestet har en redegjørelse for hvordan arbeiderklassen skal frigjøre seg fra det kapitalistiske lønnsslaveriet, og slutter med disse ordene: <i>«La de herskende klasser skjelve for en kommunistisk revolusjon. Proletarene har intet å tape på den annet enn sine lenker. De har en verden å vinne. Proletarer i alle land, foren dere!»</i>"
+        }
+      },
+      {
+        "NAVN": "Bjørnstjerne Bjørnson",
+        "FRA": 1832,
+        "TIL": 1910,
+        "TYPE": 1,
+        "STED": 1,
+        "OMTALE": ""
+      },
+      {
+        "NAVN": "Emile Zola",
+        "FRA": 1840,
+        "TIL": 1902,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>Émile Zola</b> (1840–1902), fransk forfatter og en av de fremste innenfor den naturalistiske sjangeren i Frankrike. \r\n• Zola var også en framtredende journalist med et sterkt sosialt engasjement, og han var en viktig drivkraft bak liberaliseringen av Frankrike i andre halvdel av 1800-tallet. \r\n• Zola er dessuten kjent for artikkelen ”J’accuse”, stilet til den franske presidenten i forbindelse med Dreyfus-saken. Saken gjaldt et justismord der en uskyldig fransk offiser ble dømt for spionasje. Zolas artikkel førte til at saken kom opp på nytt, og den domfelte ble frifunnet."
+        }
+      },
+      {
+        "NAVN": "August Strindberg",
+        "FRA": 1849,
+        "TIL": 1912,
+        "TYPE": 1,
+        "STED": 2,
+        "OMTALE": {
+          "html": "• <b>August Strindberg</b> (1849–1912), svensk forfatter og dramatiker. Strindberg regnes som Sveriges største dramatiker på slutten av 1800-tallet, og han grunnla det moderne teateret.\r\n• Gjennombruddet kom med den samfunnskritiske romanen <i>Röda rummet</i> (1879), den første romanen i denne sjangeren i svensk litteratur. To naturalistiske dramaer, <i>Faderen</i> (1887) og <i>Fröken Julie</i> (1888), er andre kjente verk.\r\n• Strindberg hadde en omfattende produksjon innenfor flere sjangrer, men det er som dramatiker han hører til de fremste i verdenslitteraturen. \r\n• I motsetning til Ibsen og Bjørnson gikk Strindberg over til å skrive modernistisk de siste årene. <i>Ett drömspel</i> (1902) regnes som det viktigste modernistiske verket hans."
+        }
+      }
+    ]
+  }
+}
