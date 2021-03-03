@@ -1,0 +1,2 @@
+- [NDLA Statistikk](/)
+  - [Oppbygging og filestruktur](filestructure.md)
