@@ -31,6 +31,7 @@ export default {
   methods: {
     // * Inits i18n messages to the correct language
     initLanguage() {
+      // * Reroutes if language code is not valid
       if (!this.isValidLang) {
         this.$router.push("/nb");
       } else {
