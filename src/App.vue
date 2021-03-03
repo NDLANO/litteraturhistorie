@@ -1,5 +1,6 @@
 <template>
   <div id="nav">
+    <p>{{ $t("general.testText") }}</p>
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link>
   </div>
