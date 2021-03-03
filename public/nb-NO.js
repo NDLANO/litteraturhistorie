@@ -1,5 +1,5 @@
 window.litteraturhistorieDictionaryNb = {
   general: {
-    title: "NDLA Litteraturhistorie",
+    title: "NDLA bokmål Litteraturhistorie",
   },
 };
