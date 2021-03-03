@@ -1,0 +1,96 @@
+{
+  "periodeliste": {
+    "PERIODE": [
+      {
+        "ID": "NorronBM",
+        "TITTEL": "Norrøn tid ",
+        "FRA": "800",
+        "TIL": "1350",
+        "FARGE": "0xCC3300",
+        "FYLLFARGE": "0xe5997f",
+        "Y": "0"
+      },
+      {
+        "ID": "HumanismeBM",
+        "TITTEL": "Humanisme og renessanse ",
+        "FRA": "1350",
+        "TIL": "1600",
+        "FARGE": "0xFF9900",
+        "FYLLFARGE": "0xFFCC7F",
+        "Y": "20"
+      },
+      {
+        "ID": "BarokkBM",
+        "TITTEL": "Barokk",
+        "FRA": "1600",
+        "TIL": "1700",
+        "FARGE": "0xCC3300",
+        "FYLLFARGE": "0xe5997f",
+        "Y": "0"
+      },
+      {
+        "ID": "OpplysningBM",
+        "TITTEL": "Klassisisme og opplysningstid",
+        "FRA": "1700",
+        "TIL": "1800",
+        "FARGE": "0xFF9900",
+        "FYLLFARGE": "0xFFCC7F",
+        "Y": "20"
+      },
+      {
+        "ID": "RomantikkBM",
+        "TITTEL": "Romantikk",
+        "FRA": "1800",
+        "TIL": "1850",
+        "FARGE": "0xCC3300",
+        "FYLLFARGE": "0xe5997f",
+        "Y": "0"
+      },
+      {
+        "ID": "RealismeBM",
+        "TITTEL": "Realisme og naturalisme",
+        "FRA": "1850",
+        "TIL": "1890",
+        "FARGE": "0xFF9900",
+        "FYLLFARGE": "0xFFCC7F",
+        "Y": "20"
+      },
+      {
+        "ID": "NyromantikkBM",
+        "TITTEL": "Nyromantikk",
+        "FRA": "1890",
+        "TIL": "1900",
+        "FARGE": "0xCC3300",
+        "FYLLFARGE": "0xe5997f",
+        "Y": "0"
+      },
+      {
+        "ID": "NyrealismeBM",
+        "TITTEL": "Nyrealisme og modernisme",
+        "FRA": "1900",
+        "TIL": "1930",
+        "FARGE": "0xFF9900",
+        "FYLLFARGE": "0xFFCC7F",
+        "Y": "20"
+      },
+      {
+        "ID": "ModernismeBM",
+        "TITTEL": "Modernisme og realisme",
+        "FRA": "1930",
+        "TIL": "1960",
+        "FARGE": "0xCC3300",
+        "FYLLFARGE": "0xe5997f",
+        "Y": "0"
+      },
+      {
+        "ID": "PostmodernismeBM",
+        "TITTEL": "Postmodernisme og realisme",
+        "FRA": "1960",
+        "TIL": "2015",
+        "FARGE": "0xFF9900",
+        "FYLLFARGE": "0xFFCC7F",
+        "Y": "20"
+      }
+    ]
+  }
+}
