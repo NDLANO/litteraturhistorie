@@ -11,11 +11,20 @@ export default {
   data() {
     return {
       languageInitiated: false,
+      globalVars: {
+        langCode: "",
+      },
+    };
+  },
+  provide() {
+    return {
+      globalVars: this.globalVars,
     };
   },
   watch: {
     // * Since route params are not always ready, we need a watcher
-    $route() {
+    $route(to) {
+      console.log("App route watcher: route change to ", to);
       if (!this.languageInitiated && this.$route.params.lang)
         this.initLanguage();
     },
@@ -23,7 +32,9 @@ export default {
   computed: {
     isValidLang() {
       const lang = this.$route.params.lang;
-      if (lang == "nn" || lang == "nb") return true;
+      if (lang == "nn" || lang == "nb") {
+        return true;
+      }
 
       return false;
     },
@@ -33,10 +44,12 @@ export default {
     initLanguage() {
       // * Reroutes if language code is not valid
       if (!this.isValidLang) {
-        this.$router.push("/nb");
+        this.globalVars.langCode = "nb";
+        this.$router.push("/" + this.globalVars.langCode);
       } else {
         let messages = {};
-        if (this.$route.params.lang == "nn") {
+        this.globalVars.langCode = this.$route.params.lang;
+        if (this.globalVars.langCode == "nn") {
           // * window.litteraturhistorieDictionaryNn/Nb is loaded by index.html
           messages = window.litteraturhistorieDictionaryNn;
         } else {
@@ -45,12 +58,14 @@ export default {
 
         this.$i18n.setLocaleMessage("no", messages);
         this.languageInitiated = true;
+        console.log("App.initLanguage: langCode = ", this.globalVars.langCode);
+        console.log("------");
       }
     },
   },
   created() {
     // * Init language if lang param is provided
-    if (this.$route.params.lang) this.initLanguage();
+    if (this.isValidLang) this.initLanguage();
   },
 };
 </script>
