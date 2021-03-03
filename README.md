@@ -1,2 +1,24 @@
-# 885_NDLA_Litteraturhistorie
-885 NDLA Litteraturhistorisk tidslinje
+# 885_ndla_litteraturhistorie
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
