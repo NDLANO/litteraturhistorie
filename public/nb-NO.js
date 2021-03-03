@@ -1,5 +1,5 @@
-window.statistikkDictionaryNb = {
+window.litteraturhistorieDictionaryNb = {
   general: {
-    testText: "Dette er en test"
+    testText: "Dette er en test",
   },
 };
