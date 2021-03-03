@@ -1,10 +1,9 @@
-<template>
-  <div id="nav">
-    <p>{{ $t("general.testText") }}</p>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </div>
-  <router-view />
+<template lang="pug">
+#nav
+  p {{ $t('general.testText') }}
+  router-link(to="/") Home |
+  router-link(to="/about") About
+  router-view
 </template>
 
 <style lang="scss">
