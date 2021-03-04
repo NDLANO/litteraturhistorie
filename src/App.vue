@@ -4,6 +4,7 @@
   router-link(to="/") Home |
   router-link(to="/about") About
   router-view
+  router-view(name="books")
 </template>
 <script>
 export default {
