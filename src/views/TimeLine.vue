@@ -51,12 +51,7 @@ export default {
 
     // * load artists
     const artistsFileName = "config/artists" + ucLangCode + ".json";
-    let tmpArtists = JSON.parse(readFile(artistsFileName));
-    console.log(
-      "Timeline.created: tmpArtist = ",
-      tmpArtists.bakgrunnsinfo.KUNSTNER[0].OMTALE,
-    );
-    this.artists = tmpArtists.bakgrunnsinfo.KUNSTNER;
+    this.artists = JSON.parse(readFile(artistsFileName));
   },
 };
 </script>
