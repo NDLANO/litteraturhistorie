@@ -1,86 +1,92 @@
-{
-  "periodeliste": {
-    "PERIODE": [
-      {
-        "TITTEL": "Norrøn tid",
-        "FRA": 800,
-        "TIL": 1350,
-        "FARGE": 13382400,
-        "FYLLFARGE": 15047039,
-        "Y": 0
-      },
-      {
-        "TITTEL": "Humanisme og renessanse",
-        "FRA": 1350,
-        "TIL": 1600,
-        "FARGE": 16750848,
-        "FYLLFARGE": 16764031,
-        "Y": 20
-      },
-      {
-        "TITTEL": "Barokk",
-        "FRA": 1600,
-        "TIL": 1700,
-        "FARGE": 13382400,
-        "FYLLFARGE": 15047039,
-        "Y": 0
-      },
-      {
-        "TITTEL": "Klassisisme og opplysningstid",
-        "FRA": 1700,
-        "TIL": 1800,
-        "FARGE": 16750848,
-        "FYLLFARGE": 16764031,
-        "Y": 20
-      },
-      {
-        "TITTEL": "Romantikk",
-        "FRA": 1800,
-        "TIL": 1850,
-        "FARGE": 13382400,
-        "FYLLFARGE": 15047039,
-        "Y": 0
-      },
-      {
-        "TITTEL": "Realisme og naturalisme",
-        "FRA": 1850,
-        "TIL": 1890,
-        "FARGE": 16750848,
-        "FYLLFARGE": 16764031,
-        "Y": 20
-      },
-      {
-        "TITTEL": "Nyromantikk",
-        "FRA": 1890,
-        "TIL": 1900,
-        "FARGE": 13382400,
-        "FYLLFARGE": 15047039,
-        "Y": 0
-      },
-      {
-        "TITTEL": "Nyrealisme og modernisme",
-        "FRA": 1900,
-        "TIL": 1930,
-        "FARGE": 16750848,
-        "FYLLFARGE": 16764031,
-        "Y": 20
-      },
-      {
-        "TITTEL": "Modernisme og realisme",
-        "FRA": 1930,
-        "TIL": 1960,
-        "FARGE": 13382400,
-        "FYLLFARGE": 15047039,
-        "Y": 0
-      },
-      {
-        "TITTEL": "Postmodernisme og realisme",
-        "FRA": 1960,
-        "TIL": 2015,
-        "FARGE": 16750848,
-        "FYLLFARGE": 16764031,
-        "Y": 20
-      }
-    ]
+[
+  {
+    "ID": "Norron",
+    "TITTEL": "Norrøn tid",
+    "FRA": "800",
+    "TIL": "1350",
+    "FARGE": "0xCC3300",
+    "FYLLFARGE": "0xe5997f",
+    "Y": "0"
+  },
+  {
+    "ID": "Humanisme",
+    "TITTEL": "Humanisme og renessanse",
+    "FRA": "1350",
+    "TIL": "1600",
+    "FARGE": "0xFF9900",
+    "FYLLFARGE": "0xFFCC7F",
+    "Y": "20"
+  },
+  {
+    "ID": "Barokk",
+    "TITTEL": "Barokk",
+    "FRA": "1600",
+    "TIL": "1700",
+    "FARGE": "0xCC3300",
+    "FYLLFARGE": "0xe5997f",
+    "Y": "0"
+  },
+  {
+    "ID": "Opplysning",
+    "TITTEL": "Klassisisme og opplysningstid",
+    "FRA": "1700",
+    "TIL": "1800",
+    "FARGE": "0xFF9900",
+    "FYLLFARGE": "0xFFCC7F",
+    "Y": "20"
+  },
+  {
+    "ID": "Romantikk",
+    "TITTEL": "Romantikk",
+    "FRA": "1800",
+    "TIL": "1850",
+    "FARGE": "0xCC3300",
+    "FYLLFARGE": "0xe5997f",
+    "Y": "0"
+  },
+  {
+    "ID": "Realisme",
+    "TITTEL": "Realisme og naturalisme",
+    "FRA": "1850",
+    "TIL": "1890",
+    "FARGE": "0xFF9900",
+    "FYLLFARGE": "0xFFCC7F",
+    "Y": "20"
+  },
+  {
+    "ID": "Nyromantikk",
+    "TITTEL": "Nyromantikk",
+    "FRA": "1890",
+    "TIL": "1900",
+    "FARGE": "0xCC3300",
+    "FYLLFARGE": "0xe5997f",
+    "Y": "0"
+  },
+  {
+    "ID": "Nyrealisme",
+    "TITTEL": "Nyrealisme og modernisme",
+    "FRA": "1900",
+    "TIL": "1930",
+    "FARGE": "0xFF9900",
+    "FYLLFARGE": "0xFFCC7F",
+    "Y": "20"
+  },
+  {
+    "ID": "Modernisme",
+    "TITTEL": "Modernisme og realisme",
+    "FRA": "1930",
+    "TIL": "1960",
+    "FARGE": "0xCC3300",
+    "FYLLFARGE": "0xe5997f",
+    "Y": "0"
+  },
+  {
+    "ID": "Postmodernisme",
+    "TITTEL": "Postmodernisme og realisme",
+    "FRA": "1960",
+    "TIL": "2015",
+    "FARGE": "0xFF9900",
+    "FYLLFARGE": "0xFFCC7F",
+    "Y": "20"
   }
-}
+]

@@ -43,8 +43,7 @@ export default {
 
     // * load periods
     const periodsFileName = "config/periods" + ucLangCode + ".json";
-    let tmpPeriods = JSON.parse(readFile(periodsFileName));
-    this.periods = tmpPeriods.periodeliste.PERIODE;
+    this.periods = JSON.parse(readFile(periodsFileName));
 
     // * load books
     const booksFileName = "config/books" + ucLangCode + ".json";
