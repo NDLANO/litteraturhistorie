@@ -19,6 +19,27 @@ const routes = [
     name: "HomeNN",
     component: TimeLine,
   },
+  {
+    path: "/nn/books/beowulf/",
+    name: "BeowulfNN",
+    components: {
+      default: TimeLine,
+      books: import(
+        /* webpackChunkName: "beowulfnn" */ "../books/nn/Beowulf.vue"
+      ),
+    },
+  },
+  {
+    path: "/nb/books/beowulf/",
+    name: "BeowulfNB",
+    components: {
+      default: TimeLine,
+      books: import(
+        /* webpackChunkName: "beowulfnb" */ "../books/nb/Beowulf.vue"
+      ),
+    },
+  },
+
   // {
   //   path: "/about",
   //   name: "About",
