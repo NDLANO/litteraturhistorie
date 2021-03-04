@@ -25,13 +25,12 @@ export default {
     // * Since route params are not always ready, we need a watcher
     $route(to) {
       console.log("App route watcher: route change to ", to);
-      if (!this.languageInitiated && this.$route.params.lang)
-        this.initLanguage();
+      if (!this.languageInitiated) this.initLanguage();
     },
   },
   computed: {
     isValidLang() {
-      const lang = this.$route.params.lang;
+      const lang = this.$route.fullPath.split("/")[1];
       if (lang == "nn" || lang == "nb") {
         return true;
       }
@@ -42,29 +41,38 @@ export default {
   methods: {
     // * Inits i18n messages to the correct language
     initLanguage() {
-      // * Reroutes if language code is not valid
-      if (!this.isValidLang) {
+      // * If not valid lang path, router will reroute to nb
+      // * so set lang to nb
+      if (this.$route.fullPath === "/") {
+        console.log("App.initLanguage = /");
         this.globalVars.langCode = "nb";
-        this.$router.push("/" + this.globalVars.langCode);
       } else {
-        let messages = {};
-        this.globalVars.langCode = this.$route.params.lang;
-        if (this.globalVars.langCode == "nn") {
-          // * window.litteraturhistorieDictionaryNn/Nb is loaded by index.html
-          messages = window.litteraturhistorieDictionaryNn;
-        } else {
-          messages = window.litteraturhistorieDictionaryNb;
-        }
-
-        this.$i18n.setLocaleMessage("no", messages);
-        this.languageInitiated = true;
-        console.log("App.initLanguage: langCode = ", this.globalVars.langCode);
-        console.log("------");
+        console.log(
+          "App.initLanguage: route first = ",
+          this.$route.fullPath.split("/")[1],
+        );
+        this.globalVars.langCode = this.$route.fullPath.split("/")[1];
       }
+
+      let messages = {};
+      if (this.globalVars.langCode == "nn") {
+        // * window.litteraturhistorieDictionaryNn/Nb is loaded by index.html
+        messages = window.litteraturhistorieDictionaryNn;
+      } else {
+        messages = window.litteraturhistorieDictionaryNb;
+      }
+
+      this.$i18n.setLocaleMessage("no", messages);
+      this.languageInitiated = true;
+
+      console.log("App.initLanguage: langCode = ", this.globalVars.langCode);
+      console.log("------");
     },
   },
   created() {
-    // * Init language if lang param is provided
+    // * Init language if valid language in first part of url
+    // * This is not needed in prod, but prevents errors when
+    // * hot reloading on dev server
     if (this.isValidLang) this.initLanguage();
   },
 };
