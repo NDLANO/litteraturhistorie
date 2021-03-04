@@ -1,8 +1,8 @@
 <template lang="pug">
 #nav
   p {{ $t('general.title') }}
-  router-link(to="/") Home |
-  router-link(to="/about") About
+  //- router-link(to="/") Home |
+  //- router-link(to="/about") About
   router-view
   router-view(name="books")
 </template>
