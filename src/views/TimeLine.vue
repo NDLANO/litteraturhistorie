@@ -48,8 +48,7 @@ export default {
 
     // * load books
     const booksFileName = "config/books" + ucLangCode + ".json";
-    let tmpBooks = JSON.parse(readFile(booksFileName));
-    this.books = tmpBooks.verker.VERK;
+    this.books = JSON.parse(readFile(booksFileName));
 
     // * load artists
     const artistsFileName = "config/artists" + ucLangCode + ".json";
