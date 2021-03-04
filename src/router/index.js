@@ -10,8 +10,13 @@ const routes = [
   },
   // * All paths have language code (nb or nn) as the first param
   {
-    path: "/:lang/",
-    name: "Home",
+    path: "/nb/",
+    name: "HomeNB",
+    component: TimeLine,
+  },
+  {
+    path: "/nn/",
+    name: "HomeNN",
     component: TimeLine,
   },
   // {
