@@ -7,7 +7,7 @@ export default [
     components: {
       default: TimeLine,
       books: () =>
-        import(/* webpackChunkName: "beowulfnn" */ "../periods/nn/Norron.vue"),
+        import(/* webpackChunkName: "beowulfnn" */ "../periods/norron/NorronNN.vue"),
     },
   },
   {
@@ -16,7 +16,7 @@ export default [
     components: {
       default: TimeLine,
       books: () =>
-        import(/* webpackChunkName: "beowulfnb" */ "../periods/nb/Norron.vue"),
+        import(/* webpackChunkName: "beowulfnb" */ "../periods/norron/NorronNB.vue"),
     },
   },
 ];
