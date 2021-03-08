@@ -1,0 +1,14 @@
+{
+  "name": "tools",
+  "version": "1.0.0",
+  "description": "- GenerateBookRoutes - Generates a router javascript-file for books based on json-versions of XML files used in the Flash version",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^9.1.0",
+    "yargs": "^16.2.0"
+  }
+}
