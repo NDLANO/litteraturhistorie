@@ -3,6 +3,7 @@ const path = require("path");
 const yargs = require("yargs");
 
 const fsutil = require("./js/filesystem");
+const vueTemplates = require("./js/vueTemplates");
 
 const rootDir = path.dirname(require.main.filename);
 
@@ -68,10 +69,23 @@ async function generateFile() {
         },
       },
       `;
+
+      // * create Vue template files if they do not exist
+      await fs.ensureFile(`./templates/${tmpName}${ucNN}.vue`);
+      fs.outputFile(
+        `./templates/${tmpName}${ucNN}.vue`,
+        vueTemplates.bookTemplate(tmpName + ucNN),
+      );
+      await fs.ensureFile(`./templates/${tmpName}${ucNB}.vue`);
+      fs.outputFile(
+        `./templates/${tmpName}${ucNB}.vue`,
+        vueTemplates.bookTemplate(tmpName + ucNB),
+      );
     }
 
     routeString += "];\n";
     fileString += routeString;
+
     const outputFilename = "books.js";
     console.log("routeString = ", routeString);
     await fs.outputFile(outputFilename, fileString);
