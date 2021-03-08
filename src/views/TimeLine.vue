@@ -19,6 +19,8 @@
 <script>
 import { readFile } from "@/js/fileTools";
 
+import { getRoutesWithString } from "@/js/helpers";
+
 export default {
   name: "TimeLine",
   data() {
@@ -27,6 +29,9 @@ export default {
       periods: null,
       books: null,
       artists: null,
+      artistRoutes: null,
+      bookRoutes: null,
+      periodRoutes: null,
     };
   },
   inject: ["globalVars"],
@@ -52,6 +57,20 @@ export default {
     // * load artists
     const artistsFileName = "config/artists" + ucLangCode + ".json";
     this.artists = JSON.parse(readFile(artistsFileName));
+
+    console.log("TimeLine.created: routes = ", this.$router.options.routes);
+    this.bookRoutes = getRoutesWithString(
+      this.$router,
+      this.globalVars.langCode + "/books/",
+    );
+
+    this.periodRoutes = getRoutesWithString(
+      this.$router,
+      this.globalVars.langCode + "/periods/",
+    );
+
+    console.log("TimeLine.created: book routes = ", this.bookRoutes);
+    console.log("TimeLine.created: period routes = ", this.periodRoutes);
   },
 };
 </script>

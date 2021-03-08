@@ -5,13 +5,9 @@
  * @param {vue router object} router
  * @param {string} stringToFind
  */
-function getRoutesWithString(router, stringToFind) {
+export function getRoutesWithString(router, stringToFind) {
   const routes = router.options.routes.filter(route => {
     return route.path.includes(stringToFind)
   });
   return routes;
-}
-
-export default {
-  getRoutesWithString,
 }
