@@ -4,6 +4,9 @@ export default [
   {
     path: "/nn/books/beowulf/",
     name: "BeowulfNN",
+    meta: {
+      year: 800,
+    },
     components: {
       default: TimeLine,
       books: () =>
@@ -13,6 +16,9 @@ export default [
   {
     path: "/nb/books/beowulf/",
     name: "BeowulfNB",
+    meta: {
+      year: 800,
+    },
     components: {
       default: TimeLine,
       books: () =>
@@ -22,6 +28,9 @@ export default [
   {
     path: "/nn/books/edda/",
     name: "EddaNN",
+    meta: {
+      year: 900,
+    },
     components: {
       default: TimeLine,
       books: () =>
@@ -31,6 +40,9 @@ export default [
   {
     path: "/nb/books/edda/",
     name: "EddaNB",
+    meta: {
+      year: 900,
+    },
     components: {
       default: TimeLine,
       books: () =>
