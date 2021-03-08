@@ -19,4 +19,22 @@ export default [
         import(/* webpackChunkName: "beowulfnb" */ "../books/beowulf/BeowulfNB.vue"),
     },
   },
+  {
+    path: "/nn/books/edda/",
+    name: "EddaNN",
+    components: {
+      default: TimeLine,
+      books: () =>
+        import(/* webpackChunkName: "EddaNN" */ "../books/edda/EddaNN.vue"),
+    },
+  },
+  {
+    path: "/nb/books/edda/",
+    name: "EddaNB",
+    components: {
+      default: TimeLine,
+      books: () =>
+        import(/* webpackChunkName: "EddaNB" */ "../books/edda/EddaNB.vue"),
+    },
+  },
 ];
