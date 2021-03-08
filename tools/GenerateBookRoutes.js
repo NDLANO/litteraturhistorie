@@ -12,20 +12,6 @@ let fileName = "../public/config/books";
 
 let args = yargs.argv;
 
-if (!args.lang) {
-  console.log("lang property is required. Has to be nn or nb");
-  process.exit();
-}
-
-switch (args.lang) {
-  case "nn":
-  case "nb":
-    break;
-  default:
-    console.log("Error: Lang has to be nn or nb");
-    process.exit();
-}
-
 console.log("Lang = ", args.lang);
 
 async function generateFile() {
@@ -34,11 +20,13 @@ async function generateFile() {
 
     export default`;
 
-    const ucLang = args.lang.toUpperCase();
-    const lcLang = args.lang;
+    const lcNN = "nn";
+    const ucNN = lcNN.toUpperCase();
+    const lcNB = "nb";
+    const ucNB = lcNB.toUpperCase();
 
     const orgJson = await fs.readJSON(
-      "../public/config/books" + ucLang + ".json",
+      "../public/config/books" + lcNN + ".json",
     );
     console.log("orgJson[0] = ", orgJson[0]);
 
@@ -49,10 +37,10 @@ async function generateFile() {
       console.log("tmpName = ", tmpName);
 
       routeString += `{
-        path: '/${lcLang}/books/${tmpName}${ucLang}',
-        name: '${tmpName}${ucLang}',
+        path: '/${lcNN}/books/${tmpName}${ucNN}',
+        name: '${tmpName}${ucNN}',
         meta: {
-          author: ${tmpName},
+          author: '${tmpName}',
           title: '${orgJson[i].TITTEL}',
           year: ${orgJson[i]["ÅR"]},
           cover: ${orgJson[i].COVER},
@@ -60,14 +48,31 @@ async function generateFile() {
         components: {
           default: TimeLine,
           books: () =>
-          import(/* webpackChunkName: '${tmpName}${lcLang}' */ '../books/${tmpName}/${tmpName}${ucLang}.vue'),
+          import(/* webpackChunkName: '${tmpName}${lcNN}' */ '../books/${tmpName}/${tmpName}${ucNN}.vue'),
         },
-      }`;
+      },
+      `;
+      routeString += `{
+        path: '/${lcNB}/books/${tmpName}${ucNB}',
+        name: '${tmpName}${ucNB}',
+        meta: {
+          author: '${tmpName}',
+          title: '${orgJson[i].TITTEL}',
+          year: ${orgJson[i]["ÅR"]},
+          cover: ${orgJson[i].COVER},
+        },
+        components: {
+          default: TimeLine,
+          books: () =>
+          import(/* webpackChunkName: '${tmpName}${lcNB}' */ '../books/${tmpName}/${tmpName}${ucNB}.vue'),
+        },
+      },
+      `;
     }
 
     routeString += "];\n";
     fileString += routeString;
-    const outputFilename = "books" + args.lang + ".js";
+    const outputFilename = "books.js";
     console.log("routeString = ", routeString);
     await fs.outputFile(outputFilename, fileString);
   } catch (err) {
