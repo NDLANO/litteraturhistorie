@@ -1,5 +1,5 @@
 <template>
     <div>
-      <h1>EddaNN</h1>
+      <h1>SeierstadNB</h1>
     </div>
   </template>
