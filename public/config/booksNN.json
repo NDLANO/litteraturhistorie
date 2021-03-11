@@ -1,0 +1,374 @@
+[
+  {
+    "ID": "Beowulf",
+    "TITTEL": "Beowulf",
+    "ÅR": "800",
+    "COVER": "1"
+  },
+  {
+    "ID": "Edda",
+    "TITTEL": "Den eldre Edda",
+    "ÅR": "900",
+    "COVER": "2"
+  },
+  {
+    "ID": "Rolandskvadet",
+    "TITTEL": "Rolandskvadet",
+    "ÅR": "1150",
+    "COVER": "3"
+  },
+  {
+    "ID": "Snorre",
+    "TITTEL": "Snorres kongesoger",
+    "ÅR": "1220",
+    "COVER": "4"
+  },
+  {
+    "ID": "Kongespegelen",
+    "TITTEL": "Kongsspegelen",
+    "ÅR": "1230",
+    "COVER": "1"
+  },
+  {
+    "ID": "Nibelungen",
+    "TITTEL": "Nibelungen-eposet",
+    "ÅR": "1250",
+    "COVER": "6"
+  },
+  {
+    "ID": "Gunnlaug",
+    "TITTEL": "Soga om Gunnlaug Ormstunge",
+    "ÅR": "1290",
+    "COVER": "2"
+  },
+  {
+    "ID": "Dekameronen",
+    "TITTEL": "Dekameronen",
+    "ÅR": "1348",
+    "COVER": "5"
+  },
+  {
+    "ID": "OlavOgKari",
+    "TITTEL": "Olav og Kari",
+    "ÅR": "1390",
+    "COVER": "6"
+  },
+  {
+    "ID": "Draumkvedet",
+    "TITTEL": "Draumkvedet",
+    "ÅR": "1470",
+    "COVER": "3"
+  },
+  {
+    "ID": "Vinjeboka",
+    "TITTEL": "Vinjeboka",
+    "ÅR": "1490",
+    "COVER": "7"
+  },
+  {
+    "ID": "BergensKapitelsbok",
+    "TITTEL": "Bergens Kapitelsbok",
+    "ÅR": "1552",
+    "COVER": "8"
+  },
+  {
+    "ID": "Dictionarium",
+    "TITTEL": "Den Norske Dictionarium eller Glosebog",
+    "ÅR": "1646",
+    "COVER": "4"
+  },
+  {
+    "ID": "FloraDanica",
+    "TITTEL": "Flora Danica",
+    "ÅR": "1648",
+    "COVER": "6"
+  },
+  {
+    "ID": "Dorothe",
+    "TITTEL": "Sjælens Sang-Offer",
+    "ÅR": "1678",
+    "COVER": "5"
+  },
+  {
+    "ID": "Dass",
+    "TITTEL": "Nordlands Trompet",
+    "ÅR": "1690",
+    "COVER": "7"
+  },
+  {
+    "ID": "Kingo",
+    "TITTEL": "Kingos salmebok",
+    "ÅR": "1699",
+    "COVER": "8"
+  },
+  {
+    "ID": "NielsKlim",
+    "TITTEL": "Holberg: Niels Klim",
+    "ÅR": "1741",
+    "COVER": "5"
+  },
+  {
+    "ID": "WesselsSkrifter",
+    "TITTEL": "Wessels skrifter",
+    "ÅR": "1787",
+    "COVER": "4"
+  },
+  {
+    "ID": "MauritsHansen",
+    "TITTEL": "Hansen: Luren",
+    "ÅR": "1819",
+    "COVER": "11"
+  },
+  {
+    "ID": "Wergeland",
+    "TITTEL": "Wergeland: Om norsk Sprogreformation",
+    "ÅR": "1832",
+    "COVER": "15"
+  },
+  {
+    "ID": "AsbjornsenMoe",
+    "TITTEL": "Asbjørnsen og Moe: Norske folkeeventyr",
+    "ÅR": "1841",
+    "COVER": "12"
+  },
+  {
+    "ID": "Welhaven",
+    "TITTEL": "Welhaven: Nyere Digte",
+    "ÅR": "1844",
+    "COVER": "13"
+  },
+  {
+    "ID": "Aasen",
+    "TITTEL": "Aasen: Det norske Folkesprogs Grammatik",
+    "ÅR": "1848",
+    "COVER": "14"
+  },
+  {
+    "ID": "Bjornson",
+    "TITTEL": "Bjørnson: Faderen",
+    "ÅR": "1848",
+    "COVER": "14"
+  },
+  {
+    "ID": "Collett",
+    "TITTEL": "Collett: Amtmandens Døttre",
+    "ÅR": "1855",
+    "COVER": "11"
+  },
+  {
+    "ID": "Vinje",
+    "TITTEL": "Vinje: Dølen",
+    "ÅR": "1858",
+    "COVER": "12"
+  },
+  {
+    "ID": "Knudsen",
+    "TITTEL": "Knudsen: Unorsk og norsk",
+    "ÅR": "1880",
+    "COVER": "14"
+  },
+  {
+    "ID": "Kielland",
+    "TITTEL": "Kielland: Gift",
+    "ÅR": "1883",
+    "COVER": "13"
+  },
+  {
+    "ID": "Garborg",
+    "TITTEL": "Garborg: Mannfolk",
+    "ÅR": "1886",
+    "COVER": "14"
+  },
+  {
+    "ID": "Billedbog",
+    "TITTEL": "Norsk Billedbog for Børn",
+    "ÅR": "1888",
+    "COVER": "15"
+  },
+  {
+    "ID": "Ibsen",
+    "TITTEL": "Ibsen: Hedda Gabler",
+    "ÅR": "1890",
+    "COVER": "13"
+  },
+  {
+    "ID": "Krag",
+    "TITTEL": "Krag: Digte",
+    "ÅR": "1891",
+    "COVER": "11"
+  },
+  {
+    "ID": "Skram",
+    "TITTEL": "Skram: Forrådt",
+    "ÅR": "1892",
+    "COVER": "12"
+  },
+  {
+    "ID": "Hamsun",
+    "TITTEL": "Hamsun: Pan",
+    "ÅR": "1894",
+    "COVER": "13"
+  },
+  {
+    "ID": "Obstfelder",
+    "TITTEL": "Obstfelder: Byen",
+    "ÅR": "1903",
+    "COVER": "17"
+  },
+  {
+    "ID": "Loland",
+    "TITTEL": "Løland: Kvitebjørnen",
+    "ÅR": "1906",
+    "COVER": "19"
+  },
+  {
+    "ID": "Frich",
+    "TITTEL": "Frich: Jonas Fjeld",
+    "ÅR": "1911",
+    "COVER": "20"
+  },
+  {
+    "ID": "Undset",
+    "TITTEL": "Undset: Kristin Lavransdatter",
+    "ÅR": "1920",
+    "COVER": "21"
+  },
+  {
+    "ID": "Falkberget",
+    "TITTEL": "Falkberget: Bør Børson jr.",
+    "ÅR": "1920",
+    "COVER": "16"
+  },
+  {
+    "ID": "Nilsen",
+    "TITTEL": "Nilsen: På stengrunn",
+    "ÅR": "1925",
+    "COVER": "17"
+  },
+  {
+    "ID": "Duun",
+    "TITTEL": "Duun: Medmenneske",
+    "ÅR": "1929",
+    "COVER": "18"
+  },
+  {
+    "ID": "MorenVesaas",
+    "TITTEL": "Moren Vesaas: Harpe og dolk",
+    "ÅR": "1929",
+    "COVER": "19"
+  },
+  {
+    "ID": "Sandemose",
+    "TITTEL": "Sandemose: En flyktning krysser sitt spor",
+    "ÅR": "1933",
+    "COVER": "20"
+  },
+  {
+    "ID": "Jacobsen",
+    "TITTEL": "Jacobsen: Jord og jern",
+    "ÅR": "1933",
+    "COVER": "21"
+  },
+  {
+    "ID": "Hoel",
+    "TITTEL": "Hoel: Veien til verdens ende",
+    "ÅR": "1933",
+    "COVER": "16"
+  },
+  {
+    "ID": "Grieg",
+    "TITTEL": "Nordahl Grieg: Til ungdommen",
+    "ÅR": "1936",
+    "COVER": "17"
+  },
+  {
+    "ID": "Overland",
+    "TITTEL": "Øverland: Den røde front",
+    "ÅR": "1937",
+    "COVER": "18"
+  },
+  {
+    "ID": "Stortingsmelding",
+    "TITTEL": "Stortingsmelding nr.31",
+    "ÅR": "1937",
+    "COVER": "19"
+  },
+  {
+    "ID": "Vangsgutane",
+    "TITTEL": "Vangsgutane",
+    "ÅR": "1941",
+    "COVER": "20"
+  },
+  {
+    "ID": "Hagerup",
+    "TITTEL": "Hagerup: Videre",
+    "ÅR": "1945",
+    "COVER": "21"
+  },
+  {
+    "ID": "Vesaas",
+    "TITTEL": "Vesaas: Is-slottet",
+    "ÅR": "1963",
+    "COVER": "23"
+  },
+  {
+    "ID": "Hauge",
+    "TITTEL": "Hauge: Dropar i austavind",
+    "ÅR": "1966",
+    "COVER": "24"
+  },
+  {
+    "ID": "Vold",
+    "TITTEL": "Vold: Mor Godhjertas glade versjon. Ja",
+    "ÅR": "1968",
+    "COVER": "25"
+  },
+  {
+    "ID": "Flogstad",
+    "TITTEL": "Fløgstad: Dalen Portland",
+    "ÅR": "1977",
+    "COVER": "26"
+  },
+  {
+    "ID": "Kjarstad",
+    "TITTEL": "Kjærstad: Forføreren",
+    "ÅR": "1993",
+    "COVER": "27"
+  },
+  {
+    "ID": "Fosse",
+    "TITTEL": "Fosse: Nokon kjem til å komme",
+    "ÅR": "1996",
+    "COVER": "22"
+  },
+  {
+    "ID": "Loe",
+    "TITTEL": "Loe: Naiv.Super",
+    "ÅR": "1996",
+    "COVER": "23"
+  },
+  {
+    "ID": "Orstavik",
+    "TITTEL": "Ørstavik: Kjærlighet",
+    "ÅR": "1997",
+    "COVER": "24"
+  },
+  {
+    "ID": "Seierstad",
+    "TITTEL": "Seierstad: Bokhandleren i Kabul",
+    "ÅR": "2002",
+    "COVER": "25"
+  },
+  {
+    "ID": "Rehman",
+    "TITTEL": "Rehman: Mullaløft",
+    "ÅR": "2004",
+    "COVER": "26"
+  },
+  {
+    "ID": "Knausgard",
+    "TITTEL": "Knausgård: Min kamp",
+    "ÅR": "2009",
+    "COVER": "27"
+  }
+]
