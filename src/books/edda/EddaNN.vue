@@ -1,5 +1,5 @@
 <template>
-  <div>
-    <h1>Edda NN</h1>
-  </div>
-</template>
+    <div>
+      <h1>EddaNN</h1>
+    </div>
+  </template>

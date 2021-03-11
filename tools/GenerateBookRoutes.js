@@ -36,8 +36,9 @@ async function generateFile() {
       if (args.lang == "nb") tmpName = tmpName.slice(0, -2);
       console.log("tmpName = ", tmpName);
 
+      // * Nynorsk book
       routeString += `{
-        path: '/${lcNN}/books/${tmpName}${ucNN}',
+        path: '/${lcNN}/books/${tmpName.toLowerCase()}',
         name: '${tmpName}${ucNN}',
         meta: {
           author: '${tmpName}',
@@ -48,12 +49,13 @@ async function generateFile() {
         components: {
           default: TimeLine,
           books: () =>
-          import(/* webpackChunkName: '${tmpName}${lcNN}' */ '../books/${tmpName}/${tmpName}${ucNN}.vue'),
+          import(/* webpackChunkName: '${tmpName.toLowerCase()}${lcNN}' */ '../books/${tmpName.toLowerCase()}/${tmpName}${ucNN}.vue'),
         },
       },
       `;
+      // * Bokmål book
       routeString += `{
-        path: '/${lcNB}/books/${tmpName}${ucNB}',
+        path: '/${lcNB}/books/${tmpName.toLowerCase()}',
         name: '${tmpName}${ucNB}',
         meta: {
           author: '${tmpName}',
@@ -64,13 +66,14 @@ async function generateFile() {
         components: {
           default: TimeLine,
           books: () =>
-          import(/* webpackChunkName: '${tmpName}${lcNB}' */ '../books/${tmpName}/${tmpName}${ucNB}.vue'),
+          import(/* webpackChunkName: '${tmpName.toLowerCase()}${lcNB}' */ '../books/${tmpName.toLowerCase()}/${tmpName}${ucNB}.vue'),
         },
       },
       `;
 
       // * create Vue template files if they do not exist
-      const baseTemplatePath = `./templates/books/${tmpName}/`;
+      const baseTemplatePath = `./templates/books/${tmpName}/`.toLowerCase();
+      console.log("baseTemplatePath = ", baseTemplatePath);
       await fs.ensureFile(`${baseTemplatePath}${tmpName}${ucNN}.vue`);
       fs.outputFile(
         `${baseTemplatePath}${tmpName}${ucNN}.vue`,
@@ -87,7 +90,7 @@ async function generateFile() {
     fileString += routeString;
 
     const outputFilename = "books.js";
-    console.log("routeString = ", routeString);
+    // console.log("routeString = ", routeString);
     await fs.outputFile(outputFilename, fileString);
   } catch (err) {
     console.error(err);
