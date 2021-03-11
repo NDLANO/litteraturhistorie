@@ -70,14 +70,15 @@ async function generateFile() {
       `;
 
       // * create Vue template files if they do not exist
-      await fs.ensureFile(`./templates/${tmpName}${ucNN}.vue`);
+      const baseTemplatePath = `./templates/books/${tmpName}/`;
+      await fs.ensureFile(`${baseTemplatePath}${tmpName}${ucNN}.vue`);
       fs.outputFile(
-        `./templates/${tmpName}${ucNN}.vue`,
+        `${baseTemplatePath}${tmpName}${ucNN}.vue`,
         vueTemplates.bookTemplate(tmpName + ucNN),
       );
-      await fs.ensureFile(`./templates/${tmpName}${ucNB}.vue`);
+      await fs.ensureFile(`${baseTemplatePath}${tmpName}${ucNB}.vue`);
       fs.outputFile(
-        `./templates/${tmpName}${ucNB}.vue`,
+        `${baseTemplatePath}${tmpName}${ucNB}.vue`,
         vueTemplates.bookTemplate(tmpName + ucNB),
       );
     }
