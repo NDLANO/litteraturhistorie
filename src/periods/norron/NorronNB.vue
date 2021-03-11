@@ -1,5 +1,5 @@
 <template>
-  <div>
-    <h1>Norrøn tid NB</h1>
-  </div>
-</template>
+    <div>
+      <h1>NorronNB</h1>
+    </div>
+  </template>
