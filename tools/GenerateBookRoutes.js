@@ -2,7 +2,6 @@ const fs = require("fs-extra");
 const path = require("path");
 const yargs = require("yargs");
 
-const fsutil = require("./js/filesystem");
 const vueTemplates = require("./js/vueTemplates");
 
 const rootDir = path.dirname(require.main.filename);
