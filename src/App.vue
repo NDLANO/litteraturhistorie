@@ -58,6 +58,7 @@
           h1 Språk- og litteraturhistorisk tidslinje
           p Duis augue tortor, gravida non nisi ut, bibendum hendrerit nulla. Quisque vitae ultrices massa. Maecenas sollicitudin ligula et velit varius, in sollicitudin libero iaculis. Nulla facilisi. Phasellus dolor turpis, dapibus sed nisi eu, hendrerit laoreet turpis. Duis accumsan pellentesque libero, in auctor sapien convallis non.
         .startTimeline
+      // * ERA
       ul.sectionList
         li.sectionList_item
           section.lo_sectionEra(style="width: 1000px")
@@ -68,6 +69,28 @@
                   .circleEra_date 1850-1890
                   h2.circleEra_title Realisme og naturalisme
                   button.btnEra Mer info
+            ul.bookList
+              li
+                ButtonBook(
+                  title="Om norsk Sprogreformation",
+                  author="Wergeland",
+                  path="/nn/books/beowulf",
+                  style="left: 50px; top: 100px"
+                )
+              li
+                ButtonBook(
+                  title="Kvitebjørnen",
+                  author="Rasmus Løland",
+                  path="/nn/books/wergeland",
+                  style="left: 100px; top: 200px"
+                )
+              li
+                ButtonBook(
+                  title="Døljen",
+                  author="Vinje",
+                  path="/nn/books/vinje",
+                  style="left: 800px; top: 150px"
+                )
   //#nav(v-if="languageInitiated")
     p {{ $t('general.title') }}
     //- router-link(to="/") Home |
@@ -75,12 +98,15 @@
     router-view
 </template>
 <script>
+import ButtonBook from "@/components/ButtonBook";
+
 import MenuIcon from "@/components/ui/MenuIcon";
 import NdlaLogo from "@/components/ui/NdlaLogo";
 
 export default {
   name: "App",
   components: {
+    ButtonBook,
     MenuIcon,
     NdlaLogo,
   },
