@@ -2,7 +2,7 @@ const fs = require("fs-extra");
 const path = require("path");
 const yargs = require("yargs");
 
-const vueTemplates = require("./js/vueTemplates");
+const vueTemplates = require("./js/vueBookTemplate");
 
 const rootDir = path.dirname(require.main.filename);
 
@@ -77,12 +77,12 @@ async function generateFile() {
       await fs.ensureFile(`${baseTemplatePath}${tmpName}${ucNN}.vue`);
       fs.outputFile(
         `${baseTemplatePath}${tmpName}${ucNN}.vue`,
-        vueTemplates.bookTemplate(tmpName + ucNN),
+        vueTemplates.template(tmpName + ucNN),
       );
       await fs.ensureFile(`${baseTemplatePath}${tmpName}${ucNB}.vue`);
       fs.outputFile(
         `${baseTemplatePath}${tmpName}${ucNB}.vue`,
-        vueTemplates.bookTemplate(tmpName + ucNB),
+        vueTemplates.template(tmpName + ucNB),
       );
     }
 
