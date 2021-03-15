@@ -47,8 +47,7 @@ async function generateFile() {
           cover: ${orgJson[i].COVER},
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: '${tmpName.toLowerCase()}${lcNN}' */ '../books/${tmpName.toLowerCase()}/${tmpName}${ucNN}.vue'),
         },
       },
@@ -64,8 +63,7 @@ async function generateFile() {
           cover: ${orgJson[i].COVER},
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: '${tmpName.toLowerCase()}${lcNB}' */ '../books/${tmpName.toLowerCase()}/${tmpName}${ucNB}.vue'),
         },
       },
