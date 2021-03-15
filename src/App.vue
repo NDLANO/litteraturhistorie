@@ -91,6 +91,7 @@
                   path="/nn/books/vinje",
                   style="left: 800px; top: 150px"
                 )
+            SeparatorAuthor
   //#nav(v-if="languageInitiated")
     p {{ $t('general.title') }}
     //- router-link(to="/") Home |
@@ -102,6 +103,7 @@ import ButtonBook from "@/components/ButtonBook";
 
 import MenuIcon from "@/components/ui/MenuIcon";
 import NdlaLogo from "@/components/ui/NdlaLogo";
+import SeparatorAuthor from "@/components/ui/SeparatorAuthor";
 
 export default {
   name: "App",
@@ -109,6 +111,7 @@ export default {
     ButtonBook,
     MenuIcon,
     NdlaLogo,
+    SeparatorAuthor,
   },
   data() {
     return {
