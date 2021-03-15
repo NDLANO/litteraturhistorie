@@ -1,7 +1,7 @@
 <template lang="pug">
 #timeline 
   h1 TimeLine - {{ globalVars.langCode }}
-  div(v-if="periods")
+  div(v-if="periodRoutes")
     h2 Perioder
     ul
       li(v-for="period in periodRoutes", :key="period.name") {{ period.meta.from }} - {{ period.meta.to }} <router-link :to="period.path">{{ period.meta.title }}</router-link>
@@ -45,14 +45,6 @@ export default {
   // },
   async created() {
     const ucLangCode = this.globalVars.langCode.toUpperCase();
-
-    // * load periods
-    const periodsFileName = "config/periods" + ucLangCode + ".json";
-    this.periods = JSON.parse(readFile(periodsFileName));
-
-    // * load books
-    const booksFileName = "config/books" + ucLangCode + ".json";
-    this.books = JSON.parse(readFile(booksFileName));
 
     // * load artists
     const artistsFileName = "config/artists" + ucLangCode + ".json";
