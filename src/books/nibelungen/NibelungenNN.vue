@@ -1,5 +1,26 @@
-<template>
-    <div>
-      <h1>NibelungenNN</h1>
-    </div>
-  </template>
+<template lang="pug">
+div.book
+  h1 {{ title }}
+  h2 {{ author}}
+  div.year Utgitt {{ year }}
+
+</template>
+<script>
+export default {
+  computed: {
+    author() {
+      return this.$route.meta.author;
+    },
+    title() {
+      return this.$route.meta.title;
+    },
+    year() {
+      return this.$route.meta.year;
+    },
+    cover() {
+      return this.$route.meta.cover;
+    }
+  }
+}
+</script>    
+  
