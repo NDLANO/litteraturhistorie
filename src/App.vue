@@ -1,9 +1,63 @@
 <template lang="pug">
-#nav(v-if="languageInitiated")
-  p {{ $t('general.title') }}
-  //- router-link(to="/") Home |
-  //- router-link(to="/about") About
-  router-view
+#app
+  // * POPUP AUTHOR
+  lo_fullOverlay_popup
+
+  // * CONTENT
+  .lo_globalContainer
+    .lo_topBar
+      header.lo_topBar_header
+        // * button - jump to period
+        button.btn_menu
+          svg(
+            xmlns="http://www.w3.org/2000/svg",
+            height="24",
+            viewBox="0 0 24 24",
+            width="24"
+          ) <path d="M0 0h24v24H0z" fill="none"/><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+        .header_eraName Realisme og naturalisme
+      ul.lo_topBar_timeline
+        li.timeSlot(style="width: 400px")
+          .timeSlot_year 1600
+          .timeSlot_dot
+          .timeSlot_line
+        li.timeSlot(style="width: 400px")
+          .timeSlot_year 1650
+          .timeSlot_dot
+          .timeSlot_line
+        li.timeSlot(style="width: 400px")
+          .timeSlot_year 1700
+          .timeSlot_dot
+          .timeSlot_line
+        li.timeSlot(style="width: 400px")
+          .timeSlot_year 1700
+          .timeSlot_dot
+          .timeSlot_line
+        li.timeSlot(style="width: 400px")
+          .timeSlot_year 1750
+          .timeSlot_dot
+          .timeSlot_line
+        li.timeSlot(style="width: 400px")
+          .timeSlot_year 1800
+          .timeSlot_dot
+          .timeSlot_line
+        li.timeSlot(style="width: 400px")
+          .timeSlot_year 1850
+          .timeSlot_dot
+          .timeSlot_line
+        li.timeSlot(style="width: 400px")
+          .timeSlot_year 1900
+          .timeSlot_dot
+          .timeSlot_line
+        li.timeSlot(style="width: 400px")
+          .timeSlot_year 1950
+          .timeSlot_dot
+          .timeSlot_line
+  //#nav(v-if="languageInitiated")
+    p {{ $t('general.title') }}
+    //- router-link(to="/") Home |
+    //- router-link(to="/about") About
+    router-view
 </template>
 <script>
 export default {
@@ -78,5 +132,5 @@ export default {
 };
 </script>
 <style lang="scss">
-@use "./styles/main";
+@use "./sass/main";
 </style>
