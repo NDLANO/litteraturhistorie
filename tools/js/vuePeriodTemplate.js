@@ -2,7 +2,7 @@ exports.template = (title, from, to) => {
   return `<template lang="pug">
 div.period
   h1 {{ title }}
-  p Fra: {{ yearFrom }} - {{ yearTo }}
+  p Fra: {{ from }} - {{ to }}
 
 </template>
 
