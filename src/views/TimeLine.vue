@@ -8,7 +8,7 @@
 
     h2 Bøker
     ul
-      li(v-for="book in books", :key="books.TITTEL") {{ book.ÅR }} - {{ book.TITTEL }}
+      li(v-for="book in bookRoutes", :key="book.meta.title") {{ book.meta.year }} - <router-link :to="book.path">{{ book.meta.title }}</router-link> av {{ book.meta.author }}
 
     h2 Forfattere
     ul
