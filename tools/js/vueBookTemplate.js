@@ -1,4 +1,5 @@
-<template lang="pug">
+exports.template = dummyText => {
+  return `<template lang="pug">
 div.book
   h1 {{ title }}
   h2 {{ author}}
@@ -24,4 +25,5 @@ export default {
   }
 }
 </script>    
-  
+  `;
+};

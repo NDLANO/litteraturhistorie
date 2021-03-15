@@ -11,8 +11,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 1,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'beowulfnn' */ '../books/beowulf/BeowulfNN.vue'),
         },
       },
@@ -26,8 +25,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 1,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'beowulfnb' */ '../books/beowulf/BeowulfNB.vue'),
         },
       },
@@ -41,8 +39,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 2,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'eddann' */ '../books/edda/EddaNN.vue'),
         },
       },
@@ -56,8 +53,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 2,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'eddanb' */ '../books/edda/EddaNB.vue'),
         },
       },
@@ -71,8 +67,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 3,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'rolandskvadetnn' */ '../books/rolandskvadet/RolandskvadetNN.vue'),
         },
       },
@@ -86,8 +81,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 3,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'rolandskvadetnb' */ '../books/rolandskvadet/RolandskvadetNB.vue'),
         },
       },
@@ -101,8 +95,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 4,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'snorrenn' */ '../books/snorre/SnorreNN.vue'),
         },
       },
@@ -116,8 +109,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 4,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'snorrenb' */ '../books/snorre/SnorreNB.vue'),
         },
       },
@@ -131,8 +123,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 1,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'kongespegelennn' */ '../books/kongespegelen/KongespegelenNN.vue'),
         },
       },
@@ -146,8 +137,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 1,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'kongespegelennb' */ '../books/kongespegelen/KongespegelenNB.vue'),
         },
       },
@@ -161,8 +151,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 6,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'nibelungennn' */ '../books/nibelungen/NibelungenNN.vue'),
         },
       },
@@ -176,8 +165,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 6,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'nibelungennb' */ '../books/nibelungen/NibelungenNB.vue'),
         },
       },
@@ -191,8 +179,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 2,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'gunnlaugnn' */ '../books/gunnlaug/GunnlaugNN.vue'),
         },
       },
@@ -206,8 +193,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 2,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'gunnlaugnb' */ '../books/gunnlaug/GunnlaugNB.vue'),
         },
       },
@@ -221,8 +207,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 5,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'dekameronennn' */ '../books/dekameronen/DekameronenNN.vue'),
         },
       },
@@ -236,8 +221,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 5,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'dekameronennb' */ '../books/dekameronen/DekameronenNB.vue'),
         },
       },
@@ -251,8 +235,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 6,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'olavogkarinn' */ '../books/olavogkari/OlavOgKariNN.vue'),
         },
       },
@@ -266,8 +249,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 6,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'olavogkarinb' */ '../books/olavogkari/OlavOgKariNB.vue'),
         },
       },
@@ -281,8 +263,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 3,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'draumkvedetnn' */ '../books/draumkvedet/DraumkvedetNN.vue'),
         },
       },
@@ -296,8 +277,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 3,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'draumkvedetnb' */ '../books/draumkvedet/DraumkvedetNB.vue'),
         },
       },
@@ -311,8 +291,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 7,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'vinjebokann' */ '../books/vinjeboka/VinjebokaNN.vue'),
         },
       },
@@ -326,8 +305,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 7,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'vinjebokanb' */ '../books/vinjeboka/VinjebokaNB.vue'),
         },
       },
@@ -341,8 +319,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 8,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'bergenskapitelsboknn' */ '../books/bergenskapitelsbok/BergensKapitelsbokNN.vue'),
         },
       },
@@ -356,8 +333,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 8,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'bergenskapitelsboknb' */ '../books/bergenskapitelsbok/BergensKapitelsbokNB.vue'),
         },
       },
@@ -371,8 +347,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 4,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'dictionariumnn' */ '../books/dictionarium/DictionariumNN.vue'),
         },
       },
@@ -386,8 +361,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 4,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'dictionariumnb' */ '../books/dictionarium/DictionariumNB.vue'),
         },
       },
@@ -401,8 +375,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 6,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'floradanicann' */ '../books/floradanica/FloraDanicaNN.vue'),
         },
       },
@@ -416,8 +389,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 6,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'floradanicanb' */ '../books/floradanica/FloraDanicaNB.vue'),
         },
       },
@@ -431,8 +403,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 5,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'dorothenn' */ '../books/dorothe/DorotheNN.vue'),
         },
       },
@@ -446,8 +417,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 5,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'dorothenb' */ '../books/dorothe/DorotheNB.vue'),
         },
       },
@@ -461,8 +431,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 7,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'dassnn' */ '../books/dass/DassNN.vue'),
         },
       },
@@ -476,8 +445,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 7,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'dassnb' */ '../books/dass/DassNB.vue'),
         },
       },
@@ -491,8 +459,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 8,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'kingonn' */ '../books/kingo/KingoNN.vue'),
         },
       },
@@ -506,8 +473,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 8,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'kingonb' */ '../books/kingo/KingoNB.vue'),
         },
       },
@@ -521,8 +487,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 5,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'nielsklimnn' */ '../books/nielsklim/NielsKlimNN.vue'),
         },
       },
@@ -536,8 +501,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 5,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'nielsklimnb' */ '../books/nielsklim/NielsKlimNB.vue'),
         },
       },
@@ -551,8 +515,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 4,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'wesselsskrifternn' */ '../books/wesselsskrifter/WesselsSkrifterNN.vue'),
         },
       },
@@ -566,8 +529,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 4,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'wesselsskrifternb' */ '../books/wesselsskrifter/WesselsSkrifterNB.vue'),
         },
       },
@@ -581,8 +543,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 11,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'mauritshansennn' */ '../books/mauritshansen/MauritsHansenNN.vue'),
         },
       },
@@ -596,8 +557,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 11,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'mauritshansennb' */ '../books/mauritshansen/MauritsHansenNB.vue'),
         },
       },
@@ -611,8 +571,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 15,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'wergelandnn' */ '../books/wergeland/WergelandNN.vue'),
         },
       },
@@ -626,8 +585,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 15,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'wergelandnb' */ '../books/wergeland/WergelandNB.vue'),
         },
       },
@@ -641,8 +599,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 12,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'asbjornsenmoenn' */ '../books/asbjornsenmoe/AsbjornsenMoeNN.vue'),
         },
       },
@@ -656,8 +613,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 12,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'asbjornsenmoenb' */ '../books/asbjornsenmoe/AsbjornsenMoeNB.vue'),
         },
       },
@@ -671,8 +627,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 13,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'welhavennn' */ '../books/welhaven/WelhavenNN.vue'),
         },
       },
@@ -686,8 +641,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 13,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'welhavennb' */ '../books/welhaven/WelhavenNB.vue'),
         },
       },
@@ -701,8 +655,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 14,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'aasennn' */ '../books/aasen/AasenNN.vue'),
         },
       },
@@ -716,8 +669,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 14,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'aasennb' */ '../books/aasen/AasenNB.vue'),
         },
       },
@@ -731,8 +683,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 14,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'bjornsonnn' */ '../books/bjornson/BjornsonNN.vue'),
         },
       },
@@ -746,8 +697,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 14,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'bjornsonnb' */ '../books/bjornson/BjornsonNB.vue'),
         },
       },
@@ -761,8 +711,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 11,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'collettnn' */ '../books/collett/CollettNN.vue'),
         },
       },
@@ -776,8 +725,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 11,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'collettnb' */ '../books/collett/CollettNB.vue'),
         },
       },
@@ -791,8 +739,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 12,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'vinjenn' */ '../books/vinje/VinjeNN.vue'),
         },
       },
@@ -806,8 +753,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 12,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'vinjenb' */ '../books/vinje/VinjeNB.vue'),
         },
       },
@@ -821,8 +767,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 14,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'knudsennn' */ '../books/knudsen/KnudsenNN.vue'),
         },
       },
@@ -836,8 +781,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 14,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'knudsennb' */ '../books/knudsen/KnudsenNB.vue'),
         },
       },
@@ -851,8 +795,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 13,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'kiellandnn' */ '../books/kielland/KiellandNN.vue'),
         },
       },
@@ -866,8 +809,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 13,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'kiellandnb' */ '../books/kielland/KiellandNB.vue'),
         },
       },
@@ -881,8 +823,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 14,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'garborgnn' */ '../books/garborg/GarborgNN.vue'),
         },
       },
@@ -896,8 +837,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 14,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'garborgnb' */ '../books/garborg/GarborgNB.vue'),
         },
       },
@@ -911,8 +851,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 15,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'billedbognn' */ '../books/billedbog/BilledbogNN.vue'),
         },
       },
@@ -926,8 +865,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 15,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'billedbognb' */ '../books/billedbog/BilledbogNB.vue'),
         },
       },
@@ -941,8 +879,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 13,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'ibsennn' */ '../books/ibsen/IbsenNN.vue'),
         },
       },
@@ -956,8 +893,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 13,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'ibsennb' */ '../books/ibsen/IbsenNB.vue'),
         },
       },
@@ -971,8 +907,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 11,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'kragnn' */ '../books/krag/KragNN.vue'),
         },
       },
@@ -986,8 +921,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 11,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'kragnb' */ '../books/krag/KragNB.vue'),
         },
       },
@@ -1001,8 +935,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 12,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'skramnn' */ '../books/skram/SkramNN.vue'),
         },
       },
@@ -1016,8 +949,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 12,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'skramnb' */ '../books/skram/SkramNB.vue'),
         },
       },
@@ -1031,8 +963,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 13,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'hamsunnn' */ '../books/hamsun/HamsunNN.vue'),
         },
       },
@@ -1046,8 +977,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 13,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'hamsunnb' */ '../books/hamsun/HamsunNB.vue'),
         },
       },
@@ -1061,8 +991,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 17,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'obstfeldernn' */ '../books/obstfelder/ObstfelderNN.vue'),
         },
       },
@@ -1076,8 +1005,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 17,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'obstfeldernb' */ '../books/obstfelder/ObstfelderNB.vue'),
         },
       },
@@ -1091,8 +1019,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 19,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'lolandnn' */ '../books/loland/LolandNN.vue'),
         },
       },
@@ -1106,8 +1033,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 19,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'lolandnb' */ '../books/loland/LolandNB.vue'),
         },
       },
@@ -1121,8 +1047,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 20,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'frichnn' */ '../books/frich/FrichNN.vue'),
         },
       },
@@ -1136,8 +1061,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 20,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'frichnb' */ '../books/frich/FrichNB.vue'),
         },
       },
@@ -1151,8 +1075,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 21,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'undsetnn' */ '../books/undset/UndsetNN.vue'),
         },
       },
@@ -1166,8 +1089,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 21,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'undsetnb' */ '../books/undset/UndsetNB.vue'),
         },
       },
@@ -1181,8 +1103,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 16,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'falkbergetnn' */ '../books/falkberget/FalkbergetNN.vue'),
         },
       },
@@ -1196,8 +1117,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 16,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'falkbergetnb' */ '../books/falkberget/FalkbergetNB.vue'),
         },
       },
@@ -1211,8 +1131,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 17,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'nilsennn' */ '../books/nilsen/NilsenNN.vue'),
         },
       },
@@ -1226,8 +1145,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 17,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'nilsennb' */ '../books/nilsen/NilsenNB.vue'),
         },
       },
@@ -1241,8 +1159,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 18,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'duunnn' */ '../books/duun/DuunNN.vue'),
         },
       },
@@ -1256,8 +1173,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 18,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'duunnb' */ '../books/duun/DuunNB.vue'),
         },
       },
@@ -1271,8 +1187,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 19,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'morenvesaasnn' */ '../books/morenvesaas/MorenVesaasNN.vue'),
         },
       },
@@ -1286,8 +1201,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 19,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'morenvesaasnb' */ '../books/morenvesaas/MorenVesaasNB.vue'),
         },
       },
@@ -1301,8 +1215,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 20,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'sandemosenn' */ '../books/sandemose/SandemoseNN.vue'),
         },
       },
@@ -1316,8 +1229,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 20,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'sandemosenb' */ '../books/sandemose/SandemoseNB.vue'),
         },
       },
@@ -1331,8 +1243,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 21,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'jacobsennn' */ '../books/jacobsen/JacobsenNN.vue'),
         },
       },
@@ -1346,8 +1257,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 21,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'jacobsennb' */ '../books/jacobsen/JacobsenNB.vue'),
         },
       },
@@ -1361,8 +1271,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 16,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'hoelnn' */ '../books/hoel/HoelNN.vue'),
         },
       },
@@ -1376,8 +1285,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 16,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'hoelnb' */ '../books/hoel/HoelNB.vue'),
         },
       },
@@ -1391,8 +1299,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 17,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'griegnn' */ '../books/grieg/GriegNN.vue'),
         },
       },
@@ -1406,8 +1313,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 17,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'griegnb' */ '../books/grieg/GriegNB.vue'),
         },
       },
@@ -1421,8 +1327,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 18,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'overlandnn' */ '../books/overland/OverlandNN.vue'),
         },
       },
@@ -1436,8 +1341,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 18,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'overlandnb' */ '../books/overland/OverlandNB.vue'),
         },
       },
@@ -1451,8 +1355,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 19,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'stortingsmeldingnn' */ '../books/stortingsmelding/StortingsmeldingNN.vue'),
         },
       },
@@ -1466,8 +1369,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 19,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'stortingsmeldingnb' */ '../books/stortingsmelding/StortingsmeldingNB.vue'),
         },
       },
@@ -1481,8 +1383,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 20,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'vangsgutanenn' */ '../books/vangsgutane/VangsgutaneNN.vue'),
         },
       },
@@ -1496,8 +1397,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 20,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'vangsgutanenb' */ '../books/vangsgutane/VangsgutaneNB.vue'),
         },
       },
@@ -1511,8 +1411,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 21,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'hagerupnn' */ '../books/hagerup/HagerupNN.vue'),
         },
       },
@@ -1526,8 +1425,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 21,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'hagerupnb' */ '../books/hagerup/HagerupNB.vue'),
         },
       },
@@ -1541,8 +1439,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 23,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'vesaasnn' */ '../books/vesaas/VesaasNN.vue'),
         },
       },
@@ -1556,8 +1453,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 23,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'vesaasnb' */ '../books/vesaas/VesaasNB.vue'),
         },
       },
@@ -1571,8 +1467,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 24,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'haugenn' */ '../books/hauge/HaugeNN.vue'),
         },
       },
@@ -1586,8 +1481,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 24,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'haugenb' */ '../books/hauge/HaugeNB.vue'),
         },
       },
@@ -1601,8 +1495,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 25,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'voldnn' */ '../books/vold/VoldNN.vue'),
         },
       },
@@ -1616,8 +1509,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 25,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'voldnb' */ '../books/vold/VoldNB.vue'),
         },
       },
@@ -1631,8 +1523,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 26,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'flogstadnn' */ '../books/flogstad/FlogstadNN.vue'),
         },
       },
@@ -1646,8 +1537,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 26,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'flogstadnb' */ '../books/flogstad/FlogstadNB.vue'),
         },
       },
@@ -1661,8 +1551,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 27,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'kjarstadnn' */ '../books/kjarstad/KjarstadNN.vue'),
         },
       },
@@ -1676,8 +1565,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 27,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'kjarstadnb' */ '../books/kjarstad/KjarstadNB.vue'),
         },
       },
@@ -1691,8 +1579,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 22,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'fossenn' */ '../books/fosse/FosseNN.vue'),
         },
       },
@@ -1706,8 +1593,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 22,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'fossenb' */ '../books/fosse/FosseNB.vue'),
         },
       },
@@ -1721,8 +1607,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 23,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'loenn' */ '../books/loe/LoeNN.vue'),
         },
       },
@@ -1736,8 +1621,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 23,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'loenb' */ '../books/loe/LoeNB.vue'),
         },
       },
@@ -1751,8 +1635,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 24,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'orstaviknn' */ '../books/orstavik/OrstavikNN.vue'),
         },
       },
@@ -1766,8 +1649,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 24,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'orstaviknb' */ '../books/orstavik/OrstavikNB.vue'),
         },
       },
@@ -1781,8 +1663,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 25,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'seierstadnn' */ '../books/seierstad/SeierstadNN.vue'),
         },
       },
@@ -1796,8 +1677,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 25,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'seierstadnb' */ '../books/seierstad/SeierstadNB.vue'),
         },
       },
@@ -1811,8 +1691,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 26,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'rehmannn' */ '../books/rehman/RehmanNN.vue'),
         },
       },
@@ -1826,8 +1705,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 26,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'rehmannb' */ '../books/rehman/RehmanNB.vue'),
         },
       },
@@ -1841,8 +1719,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 27,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'knausgardnn' */ '../books/knausgard/KnausgardNN.vue'),
         },
       },
@@ -1856,8 +1733,7 @@ import TimeLine from "@/views/TimeLine.vue";
           cover: 27,
         },
         components: {
-          default: TimeLine,
-          books: () =>
+          default: () =>
           import(/* webpackChunkName: 'knausgardnb' */ '../books/knausgard/KnausgardNB.vue'),
         },
       },

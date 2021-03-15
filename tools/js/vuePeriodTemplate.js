@@ -1,4 +1,5 @@
-<template lang="pug">
+exports.template = (title, from, to) => {
+  return `<template lang="pug">
 div.period
   h1 {{ title }}
   p Fra: {{ from }} - {{ to }}
@@ -24,3 +25,5 @@ export default {
   }
 }
 </script>
+`;
+};

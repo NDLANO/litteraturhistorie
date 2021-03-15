@@ -2,7 +2,7 @@ const fs = require("fs-extra");
 const path = require("path");
 const yargs = require("yargs");
 
-const vueTemplates = require("./js/vueTemplates");
+const vueTemplates = require("./js/vuePeriodTemplate");
 
 const rootDir = path.dirname(require.main.filename);
 
@@ -49,8 +49,7 @@ async function generateFile() {
           y: '${orgJson[i].Y}',
         },
         components: {
-          default: TimeLine,
-          periods: () =>
+          default: () =>
           import(/* webpackChunkName: '${tmpName.toLowerCase()}${lcNN}' */ '../periods/${tmpName.toLowerCase()}/${tmpName}${ucNN}.vue'),
         },
       },
@@ -68,8 +67,7 @@ async function generateFile() {
           y: '${orgJson[i].Y}',
         },
         components: {
-          default: TimeLine,
-          periods: () =>
+          default: () =>
           import(/* webpackChunkName: '${tmpName.toLowerCase()}${lcNB}' */ '../periods/${tmpName.toLowerCase()}/${tmpName}${ucNB}.vue'),
         },
       },
@@ -81,12 +79,12 @@ async function generateFile() {
       await fs.ensureFile(`${baseTemplatePath}${tmpName}${ucNN}.vue`);
       fs.outputFile(
         `${baseTemplatePath}${tmpName}${ucNN}.vue`,
-        vueTemplates.bookTemplate(tmpName + ucNN),
+        vueTemplates.template(tmpName + ucNN),
       );
       await fs.ensureFile(`${baseTemplatePath}${tmpName}${ucNB}.vue`);
       fs.outputFile(
         `${baseTemplatePath}${tmpName}${ucNB}.vue`,
-        vueTemplates.bookTemplate(tmpName + ucNB),
+        vueTemplates.template(tmpName + ucNB),
       );
     }
 
