@@ -1,5 +1,5 @@
 <template lang="pug">
-#app
+#vue-app
   // * POPUP AUTHOR
   lo_fullOverlay_popup
 
