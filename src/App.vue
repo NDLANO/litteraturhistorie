@@ -49,6 +49,15 @@
           .timeSlot_year 1950
           .timeSlot_dot
           .timeSlot_line
+
+    // * MAIN CONTENT
+    main.lo_sectionList
+      .lo_sectionsIntroPage
+        .startInstructions
+          NdlaLogo(style="width: 84px")
+          h1 Språk- og litteraturhistorisk tidslinje
+          p Duis augue tortor, gravida non nisi ut, bibendum hendrerit nulla. Quisque vitae ultrices massa. Maecenas sollicitudin ligula et velit varius, in sollicitudin libero iaculis. Nulla facilisi. Phasellus dolor turpis, dapibus sed nisi eu, hendrerit laoreet turpis. Duis accumsan pellentesque libero, in auctor sapien convallis non.
+        .startTimeline
   //#nav(v-if="languageInitiated")
     p {{ $t('general.title') }}
     //- router-link(to="/") Home |
