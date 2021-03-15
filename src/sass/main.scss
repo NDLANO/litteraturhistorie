@@ -12,8 +12,6 @@
 /////////////////////////////////////////
 /////////////////////////////////////////
 
-
-
 //////////////////////////////
 //   HTML5 BOILERPLATE      //
 //////////////////////////////
@@ -21,10 +19,8 @@
 // > Browser specific fixes //
 //////////////////////////////
 
-@import "vendor/normalize"
-@import "vendor/_html5-boilerplate"
-
-
+@import "vendor/normalize";
+@import "vendor/_html5-boilerplate";
 
 ////////////////////////////////
 //   SASS HELPERS             //
@@ -33,10 +29,8 @@
 // > bourbon for color        //
 ////////////////////////////////
 
-@import "vendor/breakpoint/breakpoint"
-@import "vendor/bourbon/bourbon"
-
-
+@import "vendor/breakpoint/breakpoint";
+@import "vendor/bourbon/bourbon";
 
 ///////////////////////
 //   TEMPLATES       //
@@ -44,16 +38,14 @@
 // > core variables ///
 ///////////////////////
 
-@import "templates/ndla"
-@import "templates/ndla_timeline"
+@import "templates/ndla";
+@import "templates/ndla_timeline";
 
 //////////////////////////////
 // Base
 //////////////////////////////
 
-@import "core/typography"
-
-
+@import "core/typography";
 
 //////////////////////////////
 // Layout
@@ -61,8 +53,6 @@
 
 //@import "core/layout"
 //@import "components/header"
-
-
 
 //////////////////////////////
 // Components
@@ -76,20 +66,15 @@
 //@import "components/video";
 //@import "components/loader";
 
-
-
 //////////////////////////////
 // Vendor
 //////////////////////////////
 
 // Plyr (https://github.com/sampotts/plyr)
-@import "vendor/plyr/plyr"
-
+@import "vendor/plyr/plyr";
 
 //////////////////////////////
 // Print overrides
 //////////////////////////////
 
 //@import "core/print"
-
-
