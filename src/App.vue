@@ -4,8 +4,6 @@
   //- router-link(to="/") Home |
   //- router-link(to="/about") About
   router-view
-  router-view(name="books")
-  router-view(name="periods")
 </template>
 <script>
 export default {
