@@ -1,97 +1,6 @@
 <template lang="pug">
 #vue-app
-  // * POPUP AUTHOR
-  .lo_fullOverlay_popup
-
-  // * CONTENT
-  .lo_globalContainer
-    // * HEADER
-    .lo_topBar
-      header.lo_topBar_header
-        // * button - jump to period
-        button.btn_menu
-          MenuIcon
-        .header_eraName Realisme og naturalisme
-      ul.lo_topBar_timeline
-        li.timeSlot(style="width: 400px")
-          .timeSlot_year 1600
-          .timeSlot_dot
-          .timeSlot_line
-        li.timeSlot(style="width: 400px")
-          .timeSlot_year 1650
-          .timeSlot_dot
-          .timeSlot_line
-        li.timeSlot(style="width: 400px")
-          .timeSlot_year 1700
-          .timeSlot_dot
-          .timeSlot_line
-        li.timeSlot(style="width: 400px")
-          .timeSlot_year 1700
-          .timeSlot_dot
-          .timeSlot_line
-        li.timeSlot(style="width: 400px")
-          .timeSlot_year 1750
-          .timeSlot_dot
-          .timeSlot_line
-        li.timeSlot(style="width: 400px")
-          .timeSlot_year 1800
-          .timeSlot_dot
-          .timeSlot_line
-        li.timeSlot(style="width: 400px")
-          .timeSlot_year 1850
-          .timeSlot_dot
-          .timeSlot_line
-        li.timeSlot(style="width: 400px")
-          .timeSlot_year 1900
-          .timeSlot_dot
-          .timeSlot_line
-        li.timeSlot(style="width: 400px")
-          .timeSlot_year 1950
-          .timeSlot_dot
-          .timeSlot_line
-
-    // * MAIN CONTENT
-    main.lo_sectionList
-      .lo_sectionsIntroPage
-        .startInstructions
-          NdlaLogo(style="width: 84px")
-          h1 Språk- og litteraturhistorisk tidslinje
-          p Duis augue tortor, gravida non nisi ut, bibendum hendrerit nulla. Quisque vitae ultrices massa. Maecenas sollicitudin ligula et velit varius, in sollicitudin libero iaculis. Nulla facilisi. Phasellus dolor turpis, dapibus sed nisi eu, hendrerit laoreet turpis. Duis accumsan pellentesque libero, in auctor sapien convallis non.
-        .startTimeline
-      // * ERA
-      ul.sectionList
-        li.sectionList_item
-          section.lo_sectionEra(style="width: 1000px")
-            .lo_circleEra
-              .circleEra
-                img(src="@/assets/media/img/circle1.png")
-                .circleEra_content
-                  .circleEra_date 1850-1890
-                  h2.circleEra_title Realisme og naturalisme
-                  button.btnEra Mer info
-            ul.bookList
-              li
-                ButtonBook(
-                  title="Om norsk Sprogreformation",
-                  author="Wergeland",
-                  path="/nn/books/beowulf",
-                  style="left: 50px; top: 100px"
-                )
-              li
-                ButtonBook(
-                  title="Kvitebjørnen",
-                  author="Rasmus Løland",
-                  path="/nn/books/wergeland",
-                  style="left: 100px; top: 200px"
-                )
-              li
-                ButtonBook(
-                  title="Døljen",
-                  author="Vinje",
-                  path="/nn/books/vinje",
-                  style="left: 800px; top: 150px"
-                )
-            SeparatorAuthor
+  router-view
   //#nav(v-if="languageInitiated")
     p {{ $t('general.title') }}
     //- router-link(to="/") Home |
@@ -99,20 +8,8 @@
     router-view
 </template>
 <script>
-import ButtonBook from "@/components/ButtonBook";
-
-import MenuIcon from "@/components/ui/MenuIcon";
-import NdlaLogo from "@/components/ui/NdlaLogo";
-import SeparatorAuthor from "@/components/ui/SeparatorAuthor";
-
 export default {
   name: "App",
-  components: {
-    ButtonBook,
-    MenuIcon,
-    NdlaLogo,
-    SeparatorAuthor,
-  },
   data() {
     return {
       languageInitiated: false,
