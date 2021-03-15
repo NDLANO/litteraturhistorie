@@ -9,12 +9,7 @@
       header.lo_topBar_header
         // * button - jump to period
         button.btn_menu
-          svg(
-            xmlns="http://www.w3.org/2000/svg",
-            height="24",
-            viewBox="0 0 24 24",
-            width="24"
-          ) <path d="M0 0h24v24H0z" fill="none"/><path d="M3 18h18v-2H3v2zm0-5h18v-2H3v2zm0-7v2h18V6H3z"/>
+          MenuIcon
         .header_eraName Realisme og naturalisme
       ul.lo_topBar_timeline
         li.timeSlot(style="width: 400px")
@@ -60,8 +55,13 @@
     router-view
 </template>
 <script>
+import MenuIcon from "@/components/ui/MenuIcon";
+
 export default {
   name: "App",
+  components: {
+    MenuIcon,
+  },
   data() {
     return {
       languageInitiated: false,
