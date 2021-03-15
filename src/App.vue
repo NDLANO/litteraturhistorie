@@ -1,10 +1,11 @@
 <template lang="pug">
 #vue-app
   // * POPUP AUTHOR
-  lo_fullOverlay_popup
+  .lo_fullOverlay_popup
 
   // * CONTENT
   .lo_globalContainer
+    // * HEADER
     .lo_topBar
       header.lo_topBar_header
         // * button - jump to period
