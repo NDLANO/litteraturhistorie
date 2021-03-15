@@ -4,7 +4,7 @@
   div(v-if="periods")
     h2 Perioder
     ul
-      li(v-for="period in periods", :key="period.ID") {{ period.FRA }} - {{ period.TIL }} {{ period.TITTEL }}
+      li(v-for="period in periodRoutes", :key="period.name") {{ period.meta.from }} - {{ period.meta.to }} <router-link :to="period.path">{{ period.meta.title }}</router-link>
 
     h2 Bøker
     ul
