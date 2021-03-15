@@ -1,26 +1,27 @@
 exports.template = (title, from, to) => {
-  return `<template>
-  <div>
-    <h1>{{ title }}</h1>
-    <p>Fra: {{ yearFrom }} - {{ yearTo }}
-  </div>
+  return `<template lang="pug">
+div.period
+  h1 {{ title }}
+  p Fra: {{ yearFrom }} - {{ yearTo }}
+
 </template>
 
 <script>
 export default {
-  props: {
-    title: {
-      type: String,
-      default: "",
+  name: "Period",
+  computed: {
+    title() {
+      return this.$route.meta.title;
     },
-    yearFrom: {
-      type: Number,
-      default: 0,
+    from() {
+      return this.$route.meta.from;
     },
-    yearTo: {
-      type: Number,
-      default: 0,
-    }
+    to() {
+      return this.$route.meta.to;
+    },
+    y() {
+      return this.$route.meta.y;
+    },
   }
 }
 </script>
