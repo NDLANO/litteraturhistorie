@@ -1,0 +1,340 @@
+///////////////////////////////////////
+///////////////////////////////////////
+////                               ////
+////                  (_)          ////
+////        __ _ _   _ _ ____      ////
+////       / _` | | | | |_  /      ////
+////      | (_| | |_| | |/ /       ////
+////       \__, |\__,_|_/___|      ////
+////          | |                  ////
+////          |_|                  ////
+////                               ////
+////           _quiz.scss          ////
+////                               ////
+/////////////////////////////////////// 
+///////////////////////////////////////
+
+
+///////////////
+/// HELPERS ///
+///////////////
+
+%paddingAnswerContainer{
+	padding: $base-line-height/2 0;
+}
+
+
+//////////////
+/// LAYOUT ///
+//////////////
+
+.quiz_questionNumber,
+.quiz_questionText,
+.quiz_instructions_text,
+.quiz_alternatives ul{
+	margin: 0;
+	padding: 0;
+}
+
+
+.lo_containerGrid-half .quiz_question,
+.lo_containerGrid-half .quiz_instructions,
+.lo_containerGrid-half .quiz_alternatives,
+.lo_containerGrid-half .quiz_feedback{
+	@include breakpoint($xlarge){
+		margin: 0 $base-line-height;
+	}
+	@include breakpoint($xxlarge){
+		margin: 0 $base-line-height*2;
+	}
+}
+
+
+.lo_containerFull-quiz_question{
+	background: white;
+}
+
+.lo_containerFull-quiz_instructions,
+.lo_containerFull-quiz_feedback{
+	border-top: $base-line-height/8 solid $third-color;
+}
+
+.lo_containerFull-quiz_instructions{
+	background: $quiz-feedback-backgroundColor;
+}
+.lo_containerFull-quiz_feedback{
+	display: none;
+	background: $quiz-feedback-backgroundColor;
+}
+
+
+/////////////////////////////////////////////////////////
+/// 01- UPPER BLOCK > title + instructions + feedback ///
+/////////////////////////////////////////////////////////
+
+
+/// Title + Question Count
+
+.quiz_title{
+	display: inline-block;
+	@include type-setting(-1);
+	font-weight: 900;
+	text-transform: uppercase;
+	color: $secondary-color;
+	margin: 0;
+}
+
+.quiz_questionNumber{
+	@include type-setting(-1);
+	margin-left: $base-line-height/4;
+	display: inline-block;
+	text-transform: uppercase;
+	color: $main-color;
+}
+
+
+/// Question
+
+.quiz_question{
+	padding-top: $base-line-height*1;
+	padding-bottom: $base-line-height/2;
+}
+
+.quiz_questionText{
+	@include type-setting(2);
+	line-height: $base-line-height*1.25;
+	font-family: $main-font;
+	font-weight: bold;
+	color: $main-color;
+	@include breakpoint($large){
+		@include type-setting(6);
+		line-height: $base-line-height*1.25;
+		margin-top: $base-line-height/8;
+		margin-bottom: $base-line-height/2; 
+	}
+}
+
+.quiz_questionImage{
+	width: 80%;
+	margin-top: $base-line-height;
+	display: block;
+}
+
+
+
+/// Instructions
+
+.quiz_instructions{
+	padding-top: $base-line-height/8;
+	padding-bottom: $base-line-height/8;
+}
+
+
+// Feedback
+
+.quiz_feedback{
+	padding-top: $base-line-height;
+}
+
+.quiz_feedback_text{
+	display: flex;
+	align-items: center;
+	padding-bottom: $base-line-height;
+}
+
+.quiz_feedback_text svg{
+	pointer-events: none;
+	display: block;
+	align-self: center;
+	//stroke-width: 0;
+	//stroke: currentColor;
+	fill: $secondary-color;
+	width: $base-line-height*3;
+	height: $base-line-height*2;
+	margin-right: $base-line-height/2;
+}
+
+.quiz_feedback_text,
+.quiz_feedback_text p{
+	margin:0;
+	font-weight: bold;
+	color: $main-color;
+}
+
+.quiz_feedback_buttons{
+	display: flex;
+	padding-bottom: $base-line-height;
+}//
+
+.quiz_feedback_buttons button:not(:first-of-type){
+	margin-left: $base-line-height/4;
+}
+
+
+
+
+////////////////////////////////////////////////////////
+/// 02- BOTTOM PART : buttons + texfields + dropdown ///
+////////////////////////////////////////////////////////
+
+
+////////////////////////////////////////////
+// Standard Quiz > simple/multiple choice //
+////////////////////////////////////////////
+
+.quiz_alternatives{
+	padding-top: $base-line-height/2;
+}
+
+
+.quiz_alternatives ul{
+	@extend %paddingAnswerContainer;
+	list-style: none;
+	padding-bottom: $base-line-height/2;
+}
+
+.quiz_alternatives li:not(:last-child){
+	margin-bottom: $base-line-height/4;
+}
+
+.quiz_alternatives_image{
+	display: flex;
+	box-sizing: border-box;
+	list-style: none;
+	justify-content: space-between;
+   flex-wrap: wrap;
+   padding: $base-line-height 0 0 0;
+   margin: 0;
+}
+
+.quiz_alternatives_image> li{
+	width: $container-width/2 - $base-line-height;
+	margin-bottom: $base-line-height;
+}
+
+.quiz_compareText{
+	border: none;
+	width: 100%;
+	padding: $base-line-height;
+	min-height: $base-line-height*4;
+	margin: $base-line-height 0;
+	box-shadow: $shadow-z1;
+	box-sizing: border-box;
+	@if $round-buttons == true {
+		border-radius: $round-buttons-radius;
+	}
+}
+
+
+//////////////
+// Textarea //
+//////////////
+
+
+.quiz_textField{
+	@extend %paddingAnswerContainer;
+}
+
+.quiz_textField_text,
+.quiz_textField_input{
+	box-sizing: border-box;
+	padding: $base-line-height/2;
+	background: $white;
+	border-radius: $round-boxes-radius;
+	border: 2px solid $middle-grey;
+	margin-bottom: $base-line-height/2;
+	@include breakpoint($xlarge){
+		padding: $base-line-height/2 $base-line-height;
+	}
+}
+
+.quiz_textField_text{
+	line-height: $base-line-height*1.5;
+}
+
+.quiz_textField_text p{
+	display: inline;
+}
+
+.quiz_textField_text p span{
+	color: $white;
+	background: $focus-backgroundColor;
+	border-radius: $round-buttons-radius;
+	padding: 1px 0;
+}
+
+.quiz_textField_input{
+	width: 100%;
+	min-height: $base-line-height*2;
+
+}
+
+.quiz_textField_input:focus{
+	border-color: $main-color;
+	outline: none;
+}
+
+
+//////////////////////////////////////////
+// Dropdown Quiz > list of alternatives //
+//////////////////////////////////////////
+
+.dropdown{
+	display: inline;
+}
+
+.dropdown select:hover{
+	cursor: pointer;
+}
+
+.dropdown select{
+	@include type-setting(0);
+  	font-family: $main-font;	
+}
+
+.dropdown select:focus{
+	outline: none;
+	border: 4px solid $secondary-color;			
+}
+
+.dropdown select{
+	border: 2px solid $main-font-color;
+	padding: 2px 4px;
+	margin: 0 4px;
+}
+
+/// Dropdown Feedback ///
+
+.dropdownCorrect,
+.dropdownIncorrect{
+	border-style: solid;
+	border-width: $base-line-height/8;
+	display: inline-flex;
+	padding-left: $base-line-height/4;
+	margin: 0 $base-line-height/8;
+	line-height: $base-line-height;
+}
+
+.dropdownCorrect{
+	border-color: $quiz-correct;
+}
+.dropdownIncorrect{
+	border-color: $quiz-incorrect;
+}
+
+.dropdownCorrect svg,
+.dropdownIncorrect svg{
+	padding: 0 $base-line-height/8;
+	margin: 0 $base-line-height/8;
+  	stroke-width: 3;
+}
+
+.dropdownCorrect svg{
+	fill: $quiz-correct;
+	stroke: $quiz-correct;
+}
+
+.dropdownIncorrect svg{
+	fill: $quiz-incorrect;
+	stroke: $quiz-incorrect;
+}

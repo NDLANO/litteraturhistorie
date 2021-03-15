@@ -1,0 +1,44 @@
+// Link list
+
+$linkList-accentColor: $main-color;
+
+.linkList{
+	list-style: none;
+	padding: 0;
+	border-radius: $round-buttons-radius; 
+	background: $hover-backgroundColor;
+}
+
+.linkList li:nth-child(n+2){
+	border-top: $base-line-height/8 solid $white;
+}
+
+.linkList a{
+	display: flex;
+	padding: $base-line-height/8 $base-line-height/2;
+	color: $linkList-accentColor;
+	border: $base-line-height/8 solid transparent;
+	border-radius: $round-buttons-radius;
+}
+
+.linkList a:hover{
+	border-color: $hover-borderColor;
+	border-color: $linkList-accentColor;
+	background: $hover-backgroundColor;
+}
+
+.linkList a:focus{
+  border-radius: 0;
+  border: none;
+  background: $focus-backgroundColor;
+  border:$base-line-height/8 solid $focus-borderColor;
+  color: $focus-textColor;
+  svg{
+    fill: $focus-textColor;
+  }
+}
+
+.linkList svg{
+	fill: $linkList-accentColor;
+	display: inline-flex;
+}

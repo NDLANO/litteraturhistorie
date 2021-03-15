@@ -1,0 +1,50 @@
+//// Circle loader
+
+.loader{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.loader_circle {
+  border: $loader-circle-thickness solid $loader-circle-bgColor;
+  border-left-color: $loader-circle-accentColor;
+  animation-name: loader-spin;
+  animation-duration: $loader-animDuration;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+.loader_circle,
+.loader_circle:after {
+  border-radius: 50%;
+  width: $loader-circle-size;
+  height: $loader-circle-size;
+}
+
+.loader_text{
+	position: absolute;
+  width: 100%;
+  text-align: center;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+.loader_text > *{
+	@include type-setting(-1);
+	color: $loader-text-color;
+	font-weight: 900;
+	text-transform: uppercase;
+}
+
+
+@keyframes loader-spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,54 @@
+.alertPanel{
+	@if $round-buttons == true {
+	    border-radius: $round-buttons-radius;
+	}
+	position: relative;
+	background: $layout-color;
+	max-width: $container-width;
+	padding: $base-line-height/2;
+	box-shadow: $shadow-z3;
+	box-sizing: border-box;
+	
+	@include breakpoint($large){
+		padding: $base-line-height $base-line-height*1.5 $base-line-height $base-line-height*1.5;
+  	}
+}
+
+.alertPanel_title > *{
+	margin-top: $base-line-height/4;
+	margin-top: 0;
+}
+
+.alertPanel_btnList ul{
+	margin-bottom: 0;
+	margin-top: $base-line-height;
+	padding: 0;
+	display: flex;
+
+}
+.alertPanel_btnList li{
+	list-style: none;
+	margin-right: $base-line-height/4;
+}
+
+.alertPanel_closeBtn{
+	position: absolute;
+	right: $base-line-height/4;
+	top: $base-line-height/4;
+}
+
+.alertPanel img{
+	padding-top: $base-line-height/2;
+	width: 100%;
+	height: auto;
+	@include breakpoint($large){
+		padding-top: $base-line-height*1;
+  	}
+}
+
+.alertPanel_title h1{
+	@include type-setting(5);
+	line-height: $base-line-height*1.25;
+	margin:0;
+	//border-bottom: 1px solid $third-color;
+}
