@@ -58,6 +58,16 @@
           h1 Språk- og litteraturhistorisk tidslinje
           p Duis augue tortor, gravida non nisi ut, bibendum hendrerit nulla. Quisque vitae ultrices massa. Maecenas sollicitudin ligula et velit varius, in sollicitudin libero iaculis. Nulla facilisi. Phasellus dolor turpis, dapibus sed nisi eu, hendrerit laoreet turpis. Duis accumsan pellentesque libero, in auctor sapien convallis non.
         .startTimeline
+      ul.sectionList
+        li.sectionList_item
+          section.lo_sectionEra(style="width: 1000px")
+            .lo_circleEra
+              .circleEra
+                img(src="@/assets/media/img/circle1.png")
+                .circleEra_content
+                  .circleEra_date 1850-1890
+                  h2.circleEra_title Realisme og naturalisme
+                  button.btnEra Mer info
   //#nav(v-if="languageInitiated")
     p {{ $t('general.title') }}
     //- router-link(to="/") Home |
@@ -66,11 +76,13 @@
 </template>
 <script>
 import MenuIcon from "@/components/ui/MenuIcon";
+import NdlaLogo from "@/components/ui/NdlaLogo";
 
 export default {
   name: "App",
   components: {
     MenuIcon,
+    NdlaLogo,
   },
   data() {
     return {
