@@ -8,6 +8,7 @@ div.book
 </template>
 <script>
 export default {
+  name: "Book",
   computed: {
     author() {
       return this.$route.meta.author;
