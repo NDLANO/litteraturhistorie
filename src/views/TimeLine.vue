@@ -91,6 +91,36 @@
                 style="left: 800px; top: 150px"
               )
           SeparatorAuthor
+          ul.authorsList
+            li
+              ButtonAuthor(
+                name="Peter Christen Asbjørnsen 1",
+                style="width: 450px; left: 20px; top: 0"
+              )
+            li
+              ButtonAuthor(
+                name="Charles-Louis Montesquieu 2",
+                path="/nn/test",
+                style="width: 239px; left: 50px; top: 50px"
+              )
+            li
+              ButtonAuthor(
+                name="Peter Christen Asbjørnsen 3",
+                path="/nn/test",
+                style="width: 360px; left: 80px; top: 100px"
+              )
+            li
+              ButtonAuthor(
+                name="Peter Christen Asbjørnsen 4",
+                path="/nn/test",
+                style="width: 520px; left: 150px; top: 150px"
+              )
+            li
+              ButtonAuthor(
+                name="Peter Christen Asbjørnsen 5",
+                style="width: 520px; left: 800px; top: 150px"
+              )
+
 //#timeline 
   h1 TimeLine - {{ globalVars.langCode }}
   div(v-if="periodRoutes")
@@ -110,6 +140,7 @@
 
 <script>
 import ButtonBook from "@/components/ButtonBook";
+import ButtonAuthor from "@/components/ButtonAuthor";
 
 import MenuIcon from "@/components/ui/MenuIcon";
 import NdlaLogo from "@/components/ui/NdlaLogo";
@@ -123,6 +154,7 @@ export default {
   name: "TimeLine",
   components: {
     ButtonBook,
+    ButtonAuthor,
     MenuIcon,
     NdlaLogo,
     SeparatorAuthor,
