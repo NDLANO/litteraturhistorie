@@ -168,15 +168,3 @@ export default {
   },
 };
 </script>
-
-<style lang="scss" scoped>
-#timeline {
-  text-align: left;
-}
-ul {
-  text-align: left;
-  list-style-type: none;
-  padding: 0;
-  margin: 0;
-}
-</style>
