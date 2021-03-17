@@ -11,7 +11,7 @@
       button.btn_menu
         MenuIcon
       .header_eraName Realisme og naturalisme
-    ul.lo_topBar_timeline
+    //ul.lo_topBar_timeline
       li.timeSlot(style="width: 400px")
         .timeSlot_year 1600
         .timeSlot_dot
@@ -61,6 +61,36 @@
     ul.sectionList
       li.sectionList_item
         section.lo_sectionEra(style="width: 1000px")
+          //.lo_topBar_wrapper
+          ul.lo_topBar_timeline
+            li.timeSlot(style="width: 400px")
+              .timeSlot_year 1600
+              .timeSlot_dot
+              .timeSlot_line
+            li.timeSlot(style="width: 400px")
+              .timeSlot_year 1650
+              .timeSlot_dot
+              .timeSlot_line
+            li.timeSlot(style="width: 400px")
+              .timeSlot_year 1700
+              .timeSlot_dot
+              .timeSlot_line
+            li.timeSlot(style="width: 400px")
+              .timeSlot_year 1700
+              .timeSlot_dot
+              .timeSlot_line
+            li.timeSlot(style="width: 400px")
+              .timeSlot_year 1750
+              .timeSlot_dot
+              .timeSlot_line
+            li.timeSlot(style="width: 400px")
+              .timeSlot_year 1800
+              .timeSlot_dot
+              .timeSlot_line
+            li.timeSlot(style="width: 400px")
+              .timeSlot_year 1850
+              .timeSlot_dot
+              .timeSlot_line
           .lo_circleEra
             .circleEra
               img(src="@/assets/media/img/circle1.png")
