@@ -169,6 +169,8 @@
 </template>
 
 <script>
+import { gsap } from "gsap";
+import { Draggable } from "gsap/Draggable";
 import ButtonBook from "@/components/ButtonBook";
 import ButtonAuthor from "@/components/ButtonAuthor";
 
@@ -224,6 +226,8 @@ export default {
       this.$router,
       this.globalVars.langCode + "/periods/",
     );
+
+    gsap.registerPlugin(Draggable);
 
     console.log("TimeLine.created: book routes = ", this.bookRoutes);
     console.log("TimeLine.created: period routes = ", this.periodRoutes);
