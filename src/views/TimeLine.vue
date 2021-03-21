@@ -50,7 +50,7 @@
         .timeSlot_line
 
   // * MAIN CONTENT
-  main.lo_sectionList
+  main.lo_sectionList(ref="lo_sectionList")
     .lo_sectionsIntroPage
       .startInstructions
         NdlaLogo(style="width: 84px")
@@ -209,6 +209,19 @@ export default {
   //     deep: true,
   //   },
   // },
+  methods: {
+    onTimelineDrag(e) {},
+  },
+  mounted() {
+    Draggable.create(this.$refs.lo_sectionList, {
+      type: "x",
+      dragClickables: true,
+      lockAxis: false,
+      zIndexBoost: false,
+      bounds: { minX: 0, maxX: -2000 },
+      onDrag: this.onTimelineDrag,
+    });
+  },
   async created() {
     const ucLangCode = this.globalVars.langCode.toUpperCase();
 
