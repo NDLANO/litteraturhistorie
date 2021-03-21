@@ -218,8 +218,9 @@ export default {
       dragClickables: true,
       lockAxis: false,
       zIndexBoost: false,
-      bounds: { minX: 0, maxX: -2000 },
-      // onDrag: this.onTimelineDrag,
+      bounds: { minX: 0 },
+      // bounds: { minX: 0, maxX: -2000 },
+      onDrag: this.onTimelineDrag,
     });
   },
   async created() {
