@@ -210,7 +210,7 @@ export default {
   //   },
   // },
   methods: {
-    onTimelineDrag(e) {},
+    // onTimelineDrag(e) {},
   },
   mounted() {
     Draggable.create(this.$refs.lo_sectionList, {
@@ -219,7 +219,7 @@ export default {
       lockAxis: false,
       zIndexBoost: false,
       bounds: { minX: 0, maxX: -2000 },
-      onDrag: this.onTimelineDrag,
+      // onDrag: this.onTimelineDrag,
     });
   },
   async created() {
