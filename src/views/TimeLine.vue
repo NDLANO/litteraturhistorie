@@ -169,8 +169,8 @@
 </template>
 
 <script>
-import { gsap } from "gsap";
-import { Draggable } from "gsap/Draggable";
+// import { gsap } from "gsap";
+// import { Draggable } from "gsap/Draggable";
 import ButtonBook from "@/components/ButtonBook";
 import ButtonAuthor from "@/components/ButtonAuthor";
 
@@ -213,15 +213,15 @@ export default {
     // onTimelineDrag(e) {},
   },
   mounted() {
-    Draggable.create(this.$refs.lo_sectionList, {
-      type: "x",
-      dragClickables: true,
-      lockAxis: false,
-      zIndexBoost: false,
-      bounds: { minX: 0 },
-      // bounds: { minX: 0, maxX: -2000 },
-      onDrag: this.onTimelineDrag,
-    });
+    // Draggable.create(this.$refs.lo_sectionList, {
+    //   type: "x",
+    //   dragClickables: true,
+    //   lockAxis: false,
+    //   zIndexBoost: false,
+    //   bounds: { minX: 0 },
+    //   // bounds: { minX: 0, maxX: -2000 },
+    //   onDrag: this.onTimelineDrag,
+    // });
   },
   async created() {
     const ucLangCode = this.globalVars.langCode.toUpperCase();
@@ -241,7 +241,7 @@ export default {
       this.globalVars.langCode + "/periods/",
     );
 
-    gsap.registerPlugin(Draggable);
+    // gsap.registerPlugin(Draggable);
 
     console.log("TimeLine.created: book routes = ", this.bookRoutes);
     console.log("TimeLine.created: period routes = ", this.periodRoutes);
