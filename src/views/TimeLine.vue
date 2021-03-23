@@ -13,7 +13,7 @@
       .header_eraName Realisme og naturalisme
 
   // * MAIN CONTENT
-  div.content-wrapper(ref="lo_sectionList")
+  div.lo_sectionList-wrapper(ref="lo_sectionList")
     main.lo_sectionList
       .lo_sectionsIntroPage
         .startInstructions

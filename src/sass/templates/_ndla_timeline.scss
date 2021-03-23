@@ -35,6 +35,15 @@ html {
   height: 100%;
 }
 
+html,
+body,
+#app,
+#vue-app,
+.lo_globalContainer,
+.lo_sectionList-wrapper {
+  height: 100%;
+}
+
 img {
   width: 100%;
   height: auto;
@@ -76,6 +85,7 @@ blockquote {
   position: relative;
   width: 100%;
   height: $timelineHeight;
+  height: 100%;
 }
 
 .lo_restrainedContainer {
