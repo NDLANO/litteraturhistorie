@@ -712,6 +712,14 @@ blockquote {
   fill: $main-color;
 }
 
+.page_content img {
+  width: auto;
+
+  &.left-image {
+    padding-right: 25px;
+  }
+}
+
 /// PAGE > ERA SPECIFIC
 
 .page_circleEra {
