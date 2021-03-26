@@ -21,12 +21,12 @@ PageBook
   p Dei to unggutane Peter Christen Asbjørnsen frå Christiania og Jørgen Moe frå Hole i Buskerud går saman på Norderhov skole vinteren 1826. Her vaknar  interessa for norsk folkekultur. Dei reiser rundt på bygdene, snakkar med folk og skriv ned eventyr og segner frå ulike bygde lag. Nedskrivingane frå desse reisene resulterer etter kvart i fleire samlingar med norske eventyr og segner.
 
   p 
-    img(src="./asbjornsenmoe_02.jpg" alt="Illustrasjon av Asbjørnsen" align="left" class="leftimage")
+    img(src="./asbjornsenmoe_02.jpg" alt="Illustrasjon av Asbjørnsen" align="left" class="left-image")
     | Asbjørnsen er først og fremst folkeminnesamlar. Han har mykje til overs for den direkte og ofte  humoristiske forteljemåten til vanlege folk. I bøkene hans får vi levande skildringar av kvardagsmenneske som eventyrsamlaren har møtt rundt om på reisene sine. 
   
   br
   p 
-    img(src="./asbjornsenmoe_03.jpg" alt="Illustrasjon av Moe" align="left" class="leftimage")
+    img(src="./asbjornsenmoe_03.jpg" alt="Illustrasjon av Moe" align="left" class="left-image")
     | Jørgen Moe er prest i Krødsherad og i Drammen, seinare biskop i Kristiansand. Han er mest oppteken av religiøse folkeeventyr og legender. Også han gir ut eigne dikt og forteljingar, mellom anna den kjende barneboka <em>I Brønden og i Kjærnet</em>.
 
   h3 Norske folkeeventyr
