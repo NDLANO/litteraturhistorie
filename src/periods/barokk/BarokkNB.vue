@@ -1,8 +1,5 @@
 <template lang="pug">
-PagePeriod(
-  :bannerImage="require(`./banner.jpg`)"
-  :circleImage="require(`./circle.png`)"
-  )
+PagePeriod
   // Content here
   h3 Heimstaddiktning
   p
