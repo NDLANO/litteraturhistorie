@@ -1,26 +1,23 @@
 <template lang="pug">
-div.period
-  h1 {{ title }}
-  p Fra: {{ from }} - {{ to }}
-
+PagePeriod(
+  :bannerImage="require(`./banner.jpg`)"
+  :circleImage="require(`./circle.png`)"
+  )
+  // Content here
+  h1 Barokk
 </template>
 
 <script>
+import PagePeriod from "@/components/PagePeriod";
+import NdlaVideo from "@/components/NdlaVideo";
+import NdlaAudio from "@/components/NdlaAudio";
+
 export default {
-  name: "Period",
-  computed: {
-    title() {
-      return this.$route.meta.title;
-    },
-    from() {
-      return this.$route.meta.from;
-    },
-    to() {
-      return this.$route.meta.to;
-    },
-    y() {
-      return this.$route.meta.y;
-    },
-  }
-}
+  name: "Book",
+  components: {
+    NdlaAudio,
+    NdlaVideo,
+    PagePeriod,
+  },
+};
 </script>
