@@ -27,9 +27,19 @@ export default {
       default: "",
     },
   },
+  data() {
+    return {
+      defaultFilename: "circle.png",
+    };
+  },
   computed: {
     imageSrc() {
-      if (this.src === "") return "media/circle.png";
+      if (this.src === "") {
+        let tmpUrl = "media/";
+        tmpUrl += this.$route.fullPath.substring(4);
+
+        return tmpUrl + "/" + this.defaultFilename;
+      }
 
       return this.src;
     },

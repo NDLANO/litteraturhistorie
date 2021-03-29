@@ -12,9 +12,19 @@ export default {
       default: "",
     },
   },
+  data() {
+    return {
+      defaultFilename: "banner.jpg",
+    };
+  },
   computed: {
     imageSrc() {
-      if (this.src === "") return "media/banner.jpg";
+      if (this.src === "") {
+        let tmpUrl = "media/";
+        tmpUrl += this.$route.fullPath.substring(4);
+
+        return tmpUrl + "/" + this.defaultFilename;
+      }
 
       return this.src;
     },
