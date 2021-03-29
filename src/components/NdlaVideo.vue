@@ -7,7 +7,7 @@ video(ref="player" playsinline controls :data-poster="poster")
 import Plyr from "plyr";
 
 export default {
-  name: "NdlaPlayer",
+  name: "NdlaVideo",
   props: {
     source: {
       type: String,
