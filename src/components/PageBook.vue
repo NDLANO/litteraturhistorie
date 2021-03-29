@@ -3,8 +3,8 @@
   .lo_fullContainer
     .lo_pageTopBar
       ButtonBackArrow
-      .pageTopBar_firstItem {{ this.title }}
-      .pageTopBar_secondItem {{ this.author }}
+      .pageTopBar_firstItem {{ title }}
+      .pageTopBar_secondItem {{ author }}
     
     .page
       PageBanner
