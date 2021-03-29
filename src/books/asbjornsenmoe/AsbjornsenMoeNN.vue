@@ -2,11 +2,11 @@
 PageBook
   h3 Draumen om  det norske
 
-  NdlaAudio(source="sound/test.mp3")
+  NdlaAudio(source="media/books/asbjornsenmoe/test.mp3")
 
   p I 1814 får Noreg sjølvråderett og eiga grunnlov. Samtidig veks interessa for alt som kan kallast opphavleg norsk. Men Noreg har vore under Danmark i fleire hundre år, og i heile denne perioden har norske forfattarar skrive på dansk. Ved inngangen til 1800talet finst det derfor ingen norskspråkleg litteratur bortsett frå eventyr, viser og segner som var over­leverte munnleg frå generasjon til genera­sjon. 
 
-  NdlaVideo(source="video/BigBuckBunny.mp4")
+  NdlaVideo(source="media/books/asbjornsenmoe/BigBuckBunny.mp4")
 
   h3 Større interesse for folkelitteraturen i Europa
 
