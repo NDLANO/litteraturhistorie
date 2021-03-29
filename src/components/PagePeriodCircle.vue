@@ -1,6 +1,6 @@
 <template lang="pug">
 .page_circleEra
-  img( :src="src")
+  img( :src="imageSrc")
   .circleEra_content
     .circleEra_date {{ from }}-{{ to }}
     h2.circleEra_title {{ title }}
@@ -12,7 +12,7 @@ export default {
   props: {
     src: {
       type: String,
-      required: true,
+      default: "",
     },
     title: {
       type: String,
@@ -27,8 +27,12 @@ export default {
       default: "",
     },
   },
-  created() {
-    console.log("PagePeriodCircle.created: src = ", this.src);
+  computed: {
+    imageSrc() {
+      if (this.src === "") return "media/circle.png";
+
+      return this.src;
+    },
   },
 };
 </script>
