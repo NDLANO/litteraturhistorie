@@ -4,12 +4,12 @@
     .lo_pageTopBar
       ButtonBackArrow
       .pageTopBar_firstItem {{ title }}
-      .pageTopBar_secondItem {{ author }}
+      .pageTopBar_secondItem {{ from }} - {{ to }}
     
     .page
       PageBanner(:src="bannerImage")
+      PagePeriodCircle(:src="circleImage" :title="title" :from="from" :to="to")
       .page_content
-        PageBookAuthor(:title="title" :author="author")
         slot
 
         button(@click="$router.go(-1)") {{ $t("general.pageBookBackButton")}}
@@ -17,35 +17,36 @@
 </template>
 <script>
 import PageBanner from "@/components/PageBanner";
-import PageBookAuthor from "@/components/PageBookAuthor";
+import PagePeriodCircle from "@/components/PagePeriodCircle";
 
 import ButtonBackArrow from "@/components/ButtonBackArrow";
 
 export default {
   name: "PageBook",
-  components: {
-    PageBanner,
-    PageBookAuthor,
-    ButtonBackArrow,
-  },
   props: {
     bannerImage: {
       type: String,
       default: "",
     },
+    circleImage: {
+      type: String,
+      default: "",
+    },
+  },
+  components: {
+    PageBanner,
+    PagePeriodCircle,
+    ButtonBackArrow,
   },
   computed: {
-    author() {
-      return this.$route.meta.author;
-    },
     title() {
       return this.$route.meta.title;
     },
-    year() {
-      return this.$route.meta.year;
+    from() {
+      return this.$route.meta.from;
     },
-    cover() {
-      return this.$route.meta.cover;
+    to() {
+      return this.$route.meta.to;
     },
   },
 };

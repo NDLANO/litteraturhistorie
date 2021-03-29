@@ -61,7 +61,7 @@
                 .circleEra_content
                   .circleEra_date 1850-1890
                   h2.circleEra_title Realisme og naturalisme
-                  button.btnEra Mer info
+                  button.btnEra(@click="$router.push('/nb/periods/barokk')") Mer info                  
             ul.bookList
               li
                 ButtonBook(

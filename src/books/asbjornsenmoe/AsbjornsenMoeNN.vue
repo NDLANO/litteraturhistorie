@@ -1,5 +1,5 @@
 <template lang="pug">
-PageBook
+PageBook(:bannerImage="require(`./banner.jpg`)")
   h3 Draumen om  det norske
 
   NdlaAudio(source="media/books/asbjornsenmoe/test.mp3")

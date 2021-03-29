@@ -1,5 +1,5 @@
 <template lang="pug">
-PageBook
+PageBook(:bannerImage="require(`./banner.jpg`)")
 </template>
 
 <script>
