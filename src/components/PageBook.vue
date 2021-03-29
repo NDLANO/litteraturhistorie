@@ -4,7 +4,7 @@
     .lo_pageTopBar
       ButtonBackArrow
       .pageTopBar_firstItem {{ this.title }}
-      pageTopBar_secondItem {{ this.author }}
+      .pageTopBar_secondItem {{ this.author }}
     
     .page
       PageBanner
