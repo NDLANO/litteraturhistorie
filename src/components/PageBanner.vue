@@ -1,15 +1,11 @@
 <template lang="pug">
-PageBook
+.page_banner
+  img(src="@/assets/media/img/banner3.jpg")
 </template>
 
 <script>
-import PageBook from "@/components/PageBook";
-
 export default {
-  name: "Book",
-  components: {
-    PageBook,
-  },
+  name: "PageBanner",
 };
 </script>
 

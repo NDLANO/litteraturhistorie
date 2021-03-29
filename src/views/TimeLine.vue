@@ -74,7 +74,7 @@
                 ButtonBook(
                   title="Kvitebjørnen",
                   author="Rasmus Løland",
-                  path="/nn/books/loland",
+                  path="/nb/books/loland",
                   style="left: 100px; top: 200px"
                 )
               li
