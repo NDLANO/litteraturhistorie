@@ -4,6 +4,8 @@ PageBook
 
   p I 1814 får Noreg sjølvråderett og eiga grunnlov. Samtidig veks interessa for alt som kan kallast opphavleg norsk. Men Noreg har vore under Danmark i fleire hundre år, og i heile denne perioden har norske forfattarar skrive på dansk. Ved inngangen til 1800talet finst det derfor ingen norskspråkleg litteratur bortsett frå eventyr, viser og segner som var over­leverte munnleg frå generasjon til genera­sjon. 
 
+  NdlaVideo
+
   h3 Større interesse for folkelitteraturen i Europa
 
   p Den dominerande kulturelle og åndelege retninga i Europa i første del av 1800­talet er romantikken. Romantikara­ne gjer opprør mot fornuftsdyrkinga som har prega 1700­talet. Vitskap og sivilisa­sjon har øydelagt menneskesinnet, hevdar filosofen JeanJacques Rousseau, det gjeld å finne tilbake til det naturlege og ekte. Derfor byrjar romantikarane mellom anna å interessere seg for den folkelege kulturen.
@@ -99,10 +101,12 @@ PageBook
 
 <script>
 import PageBook from "@/components/PageBook";
+import NdlaVideo from "@/components/NdlaVideo";
 
 export default {
   name: "Book",
   components: {
+    NdlaVideo,
     PageBook,
   },
 };
