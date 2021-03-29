@@ -7,7 +7,7 @@
       .pageTopBar_secondItem {{ author }}
     
     .page
-      PageBanner
+      PageBanner(:src="bannerImage")
       .page_content
         PageBookAuthor(:title="title" :author="author")
         slot
@@ -27,6 +27,12 @@ export default {
     PageBanner,
     PageBookAuthor,
     ButtonBackArrow,
+  },
+  props: {
+    bannerImage: {
+      type: String,
+      default: "",
+    },
   },
   computed: {
     author() {
