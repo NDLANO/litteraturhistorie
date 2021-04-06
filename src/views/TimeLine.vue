@@ -162,6 +162,7 @@ export default {
       artistRoutes: null,
       bookRoutes: null,
       periodRoutes: null,
+      isDraggable: false, // * Debug var making it easy to turn off dragging
     };
   },
   inject: ["globalVars"],
@@ -177,16 +178,18 @@ export default {
     onTimelineDrag(e) {},
   },
   mounted() {
-    Draggable.create(this.$refs.lo_sectionList, {
-      type: "scroll",
-      // allowNativeTouchScrolling: true,
-      dragClickables: true,
-      lockAxis: false,
-      zIndexBoost: false,
-      // bounds: { minX: 0 },
-      // bounds: { minX: 0, maxX: -2000 },
-      onDrag: this.onTimelineDrag,
-    });
+    if (this.isDraggable) {
+      Draggable.create(this.$refs.lo_sectionList, {
+        type: "scroll",
+        // allowNativeTouchScrolling: true,
+        dragClickables: true,
+        lockAxis: false,
+        zIndexBoost: false,
+        // bounds: { minX: 0 },
+        // bounds: { minX: 0, maxX: -2000 },
+        onDrag: this.onTimelineDrag,
+      });
+    }
   },
   async created() {
     const ucLangCode = this.globalVars.langCode.toUpperCase();
