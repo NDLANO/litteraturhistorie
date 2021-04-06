@@ -150,7 +150,7 @@ blockquote {
 .lo_topBar_timeline::before {
   content: "";
   // width: 8.75rem;
-  width: 1000; //($base-line-height * 2) + 1rem;
+  // width: 1000; //! TODO commented out, set in template // ($base-line-height * 2) + 1rem;
   background: white;
   // left: -8.75rem;
   left: ($base-line-height * 2 * -1) - 1rem;
@@ -159,7 +159,7 @@ blockquote {
   // left: -$introPageWidth;
 
   @include breakpoint($medium) {
-    width: 1000px; // ($base-line-height * 5) + 1rem;
+    // width: 1000px; //! TODO commented out, set in template// ($base-line-height * 5) + 1rem;
     left: ($base-line-height * 5 * -1) - 1rem;
   }
 }
