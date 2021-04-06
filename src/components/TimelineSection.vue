@@ -1,10 +1,10 @@
 <template lang="pug">
 li.sectionList_item
   // * The entire section
-  section.lo_sectionEra(style="width: 1000px")
+  section.lo_sectionEra(:style="sectionWidth")
     //.lo_topBar_wrapper
     // * Topbar with line and dots
-    ul.lo_topBar_timeline
+    //ul.lo_topBar_timeline
       li.timeSlot(style="width: 600px")
         .timeSlot_year 1600
         .timeSlot_dot
@@ -22,9 +22,9 @@ li.sectionList_item
       .circleEra
         img(src="@/assets/media/img/circle1.png")
         .circleEra_content
-          .circleEra_date 1850-1890
-          h2.circleEra_title Realisme og naturalisme
-          button.btnEra(@click="$router.push('/nb/periods/barokk')") Mer info                  
+          .circleEra_date {{ from }}-{{ to }}
+          h2.circleEra_title {{ title }}
+          button.btnEra(@click="$router.push(period.path)") Mer info                  
     // * List of books
     ul.bookList
       li
@@ -90,11 +90,40 @@ import TimelineSection from "@/components/TimelineSection";
 
 export default {
   name: "TimelineSection",
+  props: {
+    title: {
+      type: String,
+      default: "",
+    },
+    from: {
+      type: String,
+      default: "",
+    },
+    to: {
+      type: String,
+      default: "",
+    },
+    yearMarkings: {
+      type: Array,
+      required: true,
+    },
+  },
   components: {
     ButtonBook,
     ButtonAuthor,
     SeparatorAuthor,
     TimelineSection,
+  },
+  computed: {
+    sectionWidth() {
+      const widthValues = this.yearMarkings.map(e => e[1]);
+      const sum = widthValues.reduce((a, b) => a + b, 0);
+      console.log("sum = ", sum);
+      return { width: sum + "px" };
+    },
+  },
+  mounted() {
+    // console.log("TimelineSelection: period = ", this.period.meta.title);
   },
 };
 </script>
