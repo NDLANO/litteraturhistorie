@@ -17,7 +17,7 @@ li.sectionList_item
         .circleEra_content
           .circleEra_date {{ from }}-{{ to }}
           h2.circleEra_title {{ title }}
-          button.btnEra(@click="$router.push(period.path)") Mer info                  
+          button.btnEra(@click="$router.push(periodPath)") Mer info                  
     // * List of books
     ul.bookList
       li
@@ -88,6 +88,10 @@ export default {
       type: String,
       default: "",
     },
+    id: {
+      type: String,
+      required: true,
+    },
     from: {
       type: String,
       default: "",
@@ -101,6 +105,7 @@ export default {
       required: true,
     },
   },
+  inject: ["globalVars"],
   components: {
     ButtonBook,
     ButtonAuthor,
@@ -113,6 +118,9 @@ export default {
       const sum = widthValues.reduce((a, b) => a + b, 0);
       console.log("sum = ", sum);
       return { width: sum + "px" };
+    },
+    periodPath() {
+      return "/" + this.globalVars.langCode + "/periods/" + this.id + "/";
     },
   },
   mounted() {

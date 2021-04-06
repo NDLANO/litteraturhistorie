@@ -27,7 +27,7 @@
           title="Norrøn tid"
           from="800"
           to="1350"
-          path="/nb/periods/norron"
+          id="norron"
           :yearMarkings="[[800, 42], [850, 44], [900, 47], [950, 52], [1000, 55], [1050, 60], [1100, 65], [1150, 71], [1200, 78], [1250, 86], [1300, 95]]"
           :period="periodRoutes[0]")
         // * ERA 1
