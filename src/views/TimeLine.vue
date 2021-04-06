@@ -22,8 +22,10 @@
           p Duis augue tortor, gravida non nisi ut, bibendum hendrerit nulla. Quisque vitae ultrices massa. Maecenas sollicitudin ligula et velit varius, in sollicitudin libero iaculis. Nulla facilisi. Phasellus dolor turpis, dapibus sed nisi eu, hendrerit laoreet turpis. Duis accumsan pellentesque libero, in auctor sapien convallis non.
         .startTimeline
       ul.sectionList
+        // * ERA 0 (component test)
+        TimelineSection
         // * ERA 1
-        li.sectionList_item
+        //li.sectionList_item
           // * The entire section
           section.lo_sectionEra(style="width: 1000px")
             //.lo_topBar_wrapper
@@ -120,7 +122,7 @@
                   style="width: 520px; left: 800px; top: 150px"
                 )
         // * ERA 2
-        li.sectionList_item
+        //li.sectionList_item
           // * The entire section
           section.lo_sectionEra(style="width: 1400px")
             //.lo_topBar_wrapper
@@ -243,6 +245,7 @@ import ButtonAuthor from "@/components/ButtonAuthor";
 import MenuIcon from "@/components/ui/MenuIcon";
 import NdlaLogo from "@/components/ui/NdlaLogo";
 import SeparatorAuthor from "@/components/ui/SeparatorAuthor";
+import TimelineSection from "@/components/TimelineSection";
 
 import { readFile } from "@/js/fileTools";
 
@@ -256,6 +259,7 @@ export default {
     MenuIcon,
     NdlaLogo,
     SeparatorAuthor,
+    TimelineSection,
   },
   data() {
     return {
