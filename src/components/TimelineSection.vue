@@ -4,19 +4,12 @@ li.sectionList_item
   section.lo_sectionEra(:style="sectionWidth")
     //.lo_topBar_wrapper
     // * Topbar with line and dots
-    //ul.lo_topBar_timeline
-      li.timeSlot(style="width: 600px")
-        .timeSlot_year 1600
-        .timeSlot_dot
-        .timeSlot_line
-      li.timeSlot(style="width: 400px")
-        .timeSlot_year 1650
-        .timeSlot_dot
-        .timeSlot_line
-      //li.timeSlot(style="width: 400px")
-        .timeSlot_year 1700
-        .timeSlot_dot
-        .timeSlot_line
+    ul.lo_topBar_timeline
+      TimelineTimeslot(
+        v-for="year in yearMarkings"
+        :key="year"
+        :slotWidth="year[1]" 
+        :year="year[0]")
     // * The circle and link in the middle of the era
     .lo_circleEra
       .circleEra
@@ -86,7 +79,7 @@ import ButtonBook from "@/components/ButtonBook";
 import ButtonAuthor from "@/components/ButtonAuthor";
 
 import SeparatorAuthor from "@/components/ui/SeparatorAuthor";
-import TimelineSection from "@/components/TimelineSection";
+import TimelineTimeslot from "@/components/TimelineTimeslot";
 
 export default {
   name: "TimelineSection",
@@ -112,7 +105,7 @@ export default {
     ButtonBook,
     ButtonAuthor,
     SeparatorAuthor,
-    TimelineSection,
+    TimelineTimeslot,
   },
   computed: {
     sectionWidth() {
