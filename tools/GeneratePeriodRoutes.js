@@ -31,6 +31,9 @@ async function generateFile() {
     console.log("orgJson[0] = ", orgJson[0]);
 
     let routeString = "[\n";
+
+    let periodDataString = "export const periods = [\n";
+
     for (let i = 0; i < orgJson.length; i++) {
       let tmpName = orgJson[i].ID;
       if (args.lang == "nb") tmpName = tmpName.slice(0, -2);
@@ -73,6 +76,19 @@ async function generateFile() {
       },
       `;
 
+      // Only one version since the data is the same in the NN and NB original
+      periodDataString += `{
+        id: '${tmpName.toLowerCase()}',
+        nnTitle: '${orgJson[i].TITTEL}',
+        nbTitle: '${orgJson[i].TITTEL}',
+        from: '${orgJson[i].FRA}',
+        to: '${orgJson[i].TIL}',
+        layer: 0,
+        left: 0,
+        yearMarkings: [[1000, 400], [1200, 600]],
+      },
+      `;
+
       // * create Vue template files if they do not exist
       const baseTemplatePath = `./templates/periods/${tmpName}/`.toLowerCase();
       console.log("baseTemplatePath = ", baseTemplatePath);
@@ -89,11 +105,16 @@ async function generateFile() {
     }
 
     routeString += "];\n";
+    periodDataString += "];\n";
     fileString += routeString;
 
     const outputFilename = "periods.js";
     // console.log("routeString = ", routeString);
     await fs.outputFile(outputFilename, fileString);
+
+    const periodDataFileName = "periodsData.js";
+    fileString = periodDataString;
+    await fs.outputFile(periodDataFileName, fileString);
   } catch (err) {
     console.error(err);
   }
