@@ -64,8 +64,8 @@ export default {
       periodLoaded: false,
       artists: null,
       artistRoutes: null,
-      bookRoutes: null,
-      periodRoutes: null,
+      // bookRoutes: null,
+      // periodRoutes: null,
       isDraggable: false, // * Debug var making it easy to turn off dragging
       periods: periods,
     };
@@ -115,21 +115,21 @@ export default {
     const artistsFileName = "config/artists" + ucLangCode + ".json";
     this.artists = JSON.parse(readFile(artistsFileName));
 
-    console.log("Timeline.created: routes = ", this.$router.options.routes);
-    this.bookRoutes = getRoutesWithString(
-      this.$router,
-      this.globalVars.langCode + "/books/",
-    );
+    // console.log("Timeline.created: routes = ", this.$router.options.routes);
+    // this.bookRoutes = getRoutesWithString(
+    //   this.$router,
+    //   this.globalVars.langCode + "/books/",
+    // );
 
-    this.periodRoutes = getRoutesWithString(
-      this.$router,
-      this.globalVars.langCode + "/periods/",
-    );
+    // this.periodRoutes = getRoutesWithString(
+    //   this.$router,
+    //   this.globalVars.langCode + "/periods/",
+    // );
 
     gsap.registerPlugin(Draggable);
 
-    console.log("Timeline.created: book routes = ", this.bookRoutes);
-    console.log("Timeline.created: period routes = ", this.periodRoutes);
+    // console.log("Timeline.created: book routes = ", this.bookRoutes);
+    // console.log("Timeline.created: period routes = ", this.periodRoutes);
   },
 };
 </script>
