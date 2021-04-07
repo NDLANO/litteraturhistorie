@@ -14,8 +14,8 @@ export default {
       default: 400,
     },
     year: {
-      type: String,
-      default: "0",
+      type: Number,
+      default: 0,
     },
   },
 };
