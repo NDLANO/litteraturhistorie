@@ -23,13 +23,21 @@
         .startTimeline
       ul.sectionList
         // * ERA 0 (component test)
-        TimelineSection(
+        //TimelineSection(
           title="Norrøn tid"
           from="800"
           to="1350"
           id="norron"
-          :yearMarkings="[[800, 42], [850, 44], [900, 47], [950, 52], [1000, 55], [1050, 60], [1100, 65], [1150, 71], [1200, 78], [1250, 86], [1300, 95]]"
+          :yearMarkings="periodYearMarkings[0].yearMarkings"
           :period="periodRoutes[0]")
+        TimelineSection(
+          v-for="period in periodRoutes" :key="period.path"
+          :title="period.meta.title"
+          :from="period.meta.from"
+          :to="period.meta.to"
+          :id="getPeriodId(period.path)"
+          :yearMarkings="getPeriodYearMarkings(period.path)"
+          )
         // * ERA 1
         //li.sectionList_item
           // * The entire section
@@ -275,6 +283,24 @@ export default {
       bookRoutes: null,
       periodRoutes: null,
       isDraggable: false, // * Debug var making it easy to turn off dragging
+      periodYearMarkings: [
+        {
+          periodId: "norron",
+          yearMarkings: [
+            [800, 42],
+            [850, 44],
+            [900, 47],
+            [950, 52],
+            [1000, 55],
+            [1050, 60],
+            [1100, 65],
+            [1150, 71],
+            [1200, 78],
+            [1250, 86],
+            [1300, 95],
+          ],
+        },
+      ],
     };
   },
   inject: ["globalVars"],
@@ -287,6 +313,21 @@ export default {
   //   },
   // },
   methods: {
+    getPeriodId(periodPath) {
+      return periodPath
+        .split("/")
+        .slice(-1)
+        .pop();
+    },
+    getPeriodYearMarkings(periodPath) {
+      const periodId = this.getPeriodId(periodPath);
+      const yearMarkingObject = this.periodYearMarkings.find(
+        period => period.periodId == periodId,
+      );
+      if (yearMarkingObject) return yearMarkingObject.yearMarkings;
+
+      return [[1000, 1000]];
+    },
     onTimelineDrag(e) {},
   },
   mounted() {

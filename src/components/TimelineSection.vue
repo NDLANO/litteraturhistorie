@@ -86,23 +86,36 @@ export default {
   props: {
     title: {
       type: String,
-      default: "",
+      default: "_Norrøn tid",
     },
     id: {
       type: String,
-      required: true,
+      // required: true,
+      default: "norron",
     },
     from: {
       type: String,
-      default: "",
+      default: "800",
     },
     to: {
       type: String,
-      default: "",
+      default: "1350",
     },
     yearMarkings: {
       type: Array,
-      required: true,
+      default: () => [
+        [800, 42],
+        [850, 44],
+        [900, 47],
+        [950, 52],
+        [1000, 55],
+        [1050, 60],
+        [1100, 65],
+        [1150, 71],
+        [1200, 78],
+        [1250, 86],
+        [1300, 95],
+      ],
     },
   },
   inject: ["globalVars"],
