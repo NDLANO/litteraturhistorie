@@ -31,12 +31,12 @@
           :yearMarkings="periodYearMarkings[0].yearMarkings"
           :period="periodRoutes[0]")
         TimelineSection(
-          v-for="period in periodRoutes" :key="period.path"
-          :title="period.meta.title"
-          :from="period.meta.from"
-          :to="period.meta.to"
-          :id="getPeriodId(period.path)"
-          :yearMarkings="getPeriodYearMarkings(period.path)"
+          v-for="period in periods" :key="period.id"
+          :title="getPeriodTitle(period)"
+          :from="period.from"
+          :to="period.to"
+          :id="period.id"
+          :yearMarkings="period.yearMarkings"
           )
         // * ERA 1
         //li.sectionList_item
@@ -262,6 +262,7 @@ import SeparatorAuthor from "@/components/ui/SeparatorAuthor";
 import TimelineSection from "@/components/TimelineSection";
 
 import { readFile } from "@/js/fileTools";
+import { periods } from "@/js/periodsData";
 
 import { getRoutesWithString } from "@/js/helpers";
 
@@ -301,6 +302,7 @@ export default {
           ],
         },
       ],
+      periods: periods,
     };
   },
   inject: ["globalVars"],
@@ -319,6 +321,11 @@ export default {
         .slice(-1)
         .pop();
     },
+    getPeriodTitle(period) {
+      if (this.globalVars.langCode == "nn") return period["nnTitle"];
+
+      return period["nbTitle"];
+    },
     getPeriodYearMarkings(periodPath) {
       const periodId = this.getPeriodId(periodPath);
       const yearMarkingObject = this.periodYearMarkings.find(
@@ -331,6 +338,7 @@ export default {
     onTimelineDrag(e) {},
   },
   mounted() {
+    console.log("Timeline.mounted: periods = ", periods);
     if (this.isDraggable) {
       Draggable.create(this.$refs.lo_sectionList, {
         type: "scroll",
