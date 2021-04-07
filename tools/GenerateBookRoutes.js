@@ -31,6 +31,8 @@ async function generateFile() {
     console.log("orgJson[0] = ", orgJson[0]);
 
     let routeString = "[\n";
+
+    let booksJsString = "export const books = [\n";
     for (let i = 0; i < orgJson.length; i++) {
       let tmpName = orgJson[i].ID;
       if (args.lang == "nb") tmpName = tmpName.slice(0, -2);
@@ -52,6 +54,7 @@ async function generateFile() {
         },
       },
       `;
+
       // * Bokmål book
       routeString += `{
         path: '/${lcNB}/books/${tmpName.toLowerCase()}',
@@ -66,6 +69,19 @@ async function generateFile() {
           default: () =>
           import(/* webpackChunkName: '${tmpName.toLowerCase()}${lcNB}' */ '../books/${tmpName.toLowerCase()}/${tmpName}${ucNB}.vue'),
         },
+      },
+      `;
+
+      // Only one version since the data is the same in the NN and NB original
+      booksJsString += `{
+        id: '${tmpName.toLowerCase()}',
+        nnTitle: '${orgJson[i].TITTEL}',
+        nbTitle: '${orgJson[i].TITTEL}',
+        author: '${tmpName}',
+        year: ${orgJson[i]["ÅR"]},
+        top: 0,
+        left: 0,
+        period: '',
       },
       `;
 
@@ -85,11 +101,16 @@ async function generateFile() {
     }
 
     routeString += "];\n";
+    booksJsString += "]\n";
     fileString += routeString;
 
     const outputFilename = "books.js";
     // console.log("routeString = ", routeString);
     await fs.outputFile(outputFilename, fileString);
+
+    const bookJsFileName = "booksData.js";
+    fileString = booksJsString;
+    await fs.outputFile(bookJsFileName, fileString);
   } catch (err) {
     console.error(err);
   }
