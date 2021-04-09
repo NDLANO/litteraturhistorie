@@ -218,7 +218,7 @@
                 )
 
 //#timeline 
-  h1 TimeLine - {{ globalVars.langCode }}
+  h1 Timeline - {{ globalVars.langCode }}
   div(v-if="periodRoutes")
     h2 Perioder
     ul
@@ -249,7 +249,7 @@ import { readFile } from "@/js/fileTools";
 import { getRoutesWithString } from "@/js/helpers";
 
 export default {
-  name: "TimeLine",
+  name: "Timeline",
   components: {
     ButtonBook,
     ButtonAuthor,
@@ -300,7 +300,7 @@ export default {
     const artistsFileName = "config/artists" + ucLangCode + ".json";
     this.artists = JSON.parse(readFile(artistsFileName));
 
-    console.log("TimeLine.created: routes = ", this.$router.options.routes);
+    console.log("Timeline.created: routes = ", this.$router.options.routes);
     this.bookRoutes = getRoutesWithString(
       this.$router,
       this.globalVars.langCode + "/books/",
@@ -313,8 +313,8 @@ export default {
 
     gsap.registerPlugin(Draggable);
 
-    console.log("TimeLine.created: book routes = ", this.bookRoutes);
-    console.log("TimeLine.created: period routes = ", this.periodRoutes);
+    console.log("Timeline.created: book routes = ", this.bookRoutes);
+    console.log("Timeline.created: period routes = ", this.periodRoutes);
   },
 };
 </script>

@@ -1,4 +1,4 @@
-import TimeLine from "@/views/TimeLine.vue";
+import Timeline from "@/views/Timeline.vue";
 
 export default [
   {
