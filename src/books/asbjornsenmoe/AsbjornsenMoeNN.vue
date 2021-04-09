@@ -97,20 +97,25 @@ PageBook(:bannerImage="require(`./banner.jpg`)")
 
   p
     img(src="./asbjornsenmoe_08.jpg" alt="Gammelt bokomslag")
+
+  NrkVideo(id="3819")
+
   br
-  
+
 </template>
 
 <script>
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

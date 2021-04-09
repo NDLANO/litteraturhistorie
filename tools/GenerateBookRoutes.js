@@ -16,7 +16,7 @@ console.log("Lang = ", args.lang);
 
 async function generateFile() {
   try {
-    let fileString = `import TimeLine from "@/views/TimeLine.vue";
+    let fileString = `import Timeline from "@/views/Timeline.vue";
 
     export default`;
 
