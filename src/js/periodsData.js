@@ -30,8 +30,11 @@ export const periods = [
     layer: 0,
     left: 0,
     yearMarkings: [
-      [1000, 400],
-      [1200, 600],
+      [1350, 106],
+      [1400, 117],
+      [1450, 132],
+      [1500, 149],
+      [1550, 170],
     ],
   },
   {
@@ -43,8 +46,8 @@ export const periods = [
     layer: 0,
     left: 0,
     yearMarkings: [
-      [1000, 400],
-      [1200, 600],
+      [1600, 196],
+      [1650, 228],
     ],
   },
   {
@@ -56,8 +59,8 @@ export const periods = [
     layer: 0,
     left: 0,
     yearMarkings: [
-      [1000, 400],
-      [1200, 600],
+      [1700, 268],
+      [1750, 321],
     ],
   },
   {
@@ -68,10 +71,7 @@ export const periods = [
     to: "1850",
     layer: 0,
     left: 0,
-    yearMarkings: [
-      [1000, 400],
-      [1200, 600],
-    ],
+    yearMarkings: [[1800, 390]],
   },
   {
     id: "realisme",
@@ -81,10 +81,7 @@ export const periods = [
     to: "1890",
     layer: 0,
     left: 0,
-    yearMarkings: [
-      [1000, 400],
-      [1200, 600],
-    ],
+    yearMarkings: [[1850, 380]],
   },
   {
     id: "nyromantikk",
@@ -94,10 +91,7 @@ export const periods = [
     to: "1900",
     layer: 0,
     left: 0,
-    yearMarkings: [
-      [1000, 400],
-      [1200, 600],
-    ],
+    yearMarkings: [[1890, 105]],
   },
   {
     id: "nyrealisme",
@@ -107,10 +101,7 @@ export const periods = [
     to: "1930",
     layer: 0,
     left: 0,
-    yearMarkings: [
-      [1000, 400],
-      [1200, 600],
-    ],
+    yearMarkings: [[1900, 350]],
   },
   {
     id: "modernisme",
@@ -120,10 +111,7 @@ export const periods = [
     to: "1960",
     layer: 0,
     left: 0,
-    yearMarkings: [
-      [1000, 400],
-      [1200, 600],
-    ],
+    yearMarkings: [[1930, 410]],
   },
   {
     id: "postmodernisme",
@@ -133,9 +121,6 @@ export const periods = [
     to: "2015",
     layer: 0,
     left: 0,
-    yearMarkings: [
-      [1000, 400],
-      [1200, 600],
-    ],
+    yearMarkings: [[1960, 930]],
   },
 ];
