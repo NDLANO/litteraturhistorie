@@ -8,7 +8,7 @@ li.sectionList_item
       TimelineTimeslot(
         v-for="year in yearMarkings"
         :key="year"
-        :slotWidth="year[1]" 
+        :slotWidth="year[1] * slotWidthMultiplier" 
         :year="year[0]")
     // * The circle and link in the middle of the era
     .lo_circleEra
@@ -118,6 +118,11 @@ export default {
       ],
     },
   },
+  data() {
+    return {
+      slotWidthMultiplier: 2,
+    };
+  },
   inject: ["globalVars"],
   components: {
     ButtonBook,
@@ -127,7 +132,9 @@ export default {
   },
   computed: {
     sectionWidth() {
-      const widthValues = this.yearMarkings.map(e => e[1]);
+      const widthValues = this.yearMarkings.map(
+        e => e[1] * this.slotWidthMultiplier,
+      );
       const sum = widthValues.reduce((a, b) => a + b, 0);
       console.log("sum = ", sum);
       return { width: sum + "px" };
