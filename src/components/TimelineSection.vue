@@ -20,26 +20,12 @@ li.sectionList_item
           button.btnEra(@click="$router.push(periodPath)") Mer info                  
     // * List of books
     ul.bookList
-      li
+      li(v-for="book in periodBooks" :key="book.id")
         ButtonBook(
-          title="Om norsk Sprogreformation",
-          author="Wergeland",
-          path="/nn/books/wergeland",
-          style="left: 50px; top: 100px"
-        )
-      li
-        ButtonBook(
-          title="Kvitebjørnen",
-          author="Rasmus Løland",
-          path="/nb/books/loland",
-          style="left: 100px; top: 200px"
-        )
-      li
-        ButtonBook(
-          title="Døljen",
-          author="Vinje",
-          path="/nn/books/vinje",
-          style="left: 800px; top: 150px"
+          :title="book.nbTitle"
+          :author="book.author"
+          :path="book.path"
+          :style="getStyle(book.top, book.left)"
         )
     SeparatorAuthor
     // * List of authors
@@ -81,6 +67,8 @@ import ButtonAuthor from "@/components/ButtonAuthor";
 import SeparatorAuthor from "@/components/ui/SeparatorAuthor";
 import TimelineTimeslot from "@/components/TimelineTimeslot";
 
+import { books } from "@/js/booksData";
+
 export default {
   name: "TimelineSection",
   props: {
@@ -121,6 +109,7 @@ export default {
   data() {
     return {
       slotWidthMultiplier: 2,
+      periodBooks: null,
     };
   },
   inject: ["globalVars"],
@@ -143,9 +132,18 @@ export default {
       return "/" + this.globalVars.langCode + "/periods/" + this.id + "/";
     },
   },
+  methods: {
+    getStyle(topValue, leftValue) {
+      return { top: topValue + "px", left: leftValue + "px"}
+    }
+  },
   mounted() {
     // console.log("TimelineSelection: period = ", this.period.meta.title);
   },
+  created() {
+    this.periodBooks = books.filter((book) => book.period === this.id)
+    // console.log("TimelineSection.created: period books = ", this.periodBooks);
+  }
 };
 </script>
 
