@@ -5,8 +5,8 @@ export const books = [
     nbTitle: "Beowulf",
     author: "Beowulf",
     year: 800,
-    top: 100,
-    left: -75,
+    top: 150,
+    left: 0,
     period: "norron",
   },
   {
@@ -15,8 +15,8 @@ export const books = [
     nbTitle: "Den eldre Edda",
     author: "Edda",
     year: 900,
-    top: 190,
-    left: 70,
+    top: 0,
+    left: 0,
     period: "norron",
   },
   {
@@ -26,7 +26,7 @@ export const books = [
     author: "Rolandskvadet",
     year: 1150,
     top: 395,
-    left: 630,
+    left: 0,
     period: "norron",
   },
   {
@@ -36,7 +36,7 @@ export const books = [
     author: "Snorre",
     year: 1220,
     top: 50,
-    left: 800,
+    left: 0,
     period: "norron",
   },
   {
@@ -46,7 +46,7 @@ export const books = [
     author: "Kongespegelen",
     year: 1230,
     top: 250,
-    left: 870,
+    left: 0,
     period: "norron",
   },
   {
@@ -56,7 +56,7 @@ export const books = [
     author: "Nibelungen",
     year: 1250,
     top: 350,
-    left: 1000,
+    left: 0,
     period: "norron",
   },
   {
@@ -66,7 +66,7 @@ export const books = [
     author: "Gunnlaug",
     year: 1290,
     top: 150,
-    left: 1000,
+    left: 0,
     period: "norron",
   },
   {
@@ -77,7 +77,7 @@ export const books = [
     year: 1348,
     top: 0,
     left: 0,
-    period: "humanisme",
+    period: "norron",
   },
   {
     id: "olavogkari",
@@ -147,7 +147,7 @@ export const books = [
     year: 1678,
     top: 0,
     left: 0,
-    period: "",
+    period: "barokk",
   },
   {
     id: "dass",
@@ -617,6 +617,6 @@ export const books = [
     year: 2009,
     top: 0,
     left: 0,
-    period: "",
+    period: "postmodernisme",
   },
 ];
