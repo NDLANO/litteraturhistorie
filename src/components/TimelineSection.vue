@@ -25,7 +25,7 @@ li.sectionList_item
           :title="book.nbTitle"
           :author="book.author"
           :path="book.path"
-          :style="getStyle(book.top, book.left)"
+          :style="getStyle(book)"
         )
     SeparatorAuthor
     // * List of authors
@@ -68,6 +68,7 @@ import SeparatorAuthor from "@/components/ui/SeparatorAuthor";
 import TimelineTimeslot from "@/components/TimelineTimeslot";
 
 import { books } from "@/js/booksData";
+import { getBookPlacement } from "@/js/helpers";
 
 export default {
   name: "TimelineSection",
@@ -108,7 +109,7 @@ export default {
   },
   data() {
     return {
-      slotWidthMultiplier: 2,
+      slotWidthMultiplier: 1,
       periodBooks: null,
     };
   },
@@ -133,17 +134,31 @@ export default {
     },
   },
   methods: {
-    getStyle(topValue, leftValue) {
-      return { top: topValue + "px", left: leftValue + "px"}
-    }
+    getStyle(book) {
+      let realLeftValue = getBookPlacement(
+        book,
+        this.globalVars.periods,
+        this.globalVars.allYearMarkings,
+        this.globalVars.lastYear,
+      );
+
+      realLeftValue = realLeftValue * this.slotWidthMultiplier;
+      return { top: book.top + "px", left: realLeftValue + "px" };
+    },
   },
   mounted() {
     // console.log("TimelineSelection: period = ", this.period.meta.title);
   },
   created() {
-    this.periodBooks = books.filter((book) => book.period === this.id)
+    this.periodBooks = books.filter(book => book.period === this.id);
+    console.log(
+      "TimelineSection.created: allYearMarkings = ",
+      this.globalVars.allYearMarkings,
+    );
+
+    console.log("TimelineSection.created: periods = ", this.globalVars.periods);
     // console.log("TimelineSection.created: period books = ", this.periodBooks);
-  }
+  },
 };
 </script>
 
