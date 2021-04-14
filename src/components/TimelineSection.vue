@@ -150,7 +150,9 @@ export default {
     // console.log("TimelineSelection: period = ", this.period.meta.title);
   },
   created() {
-    this.periodBooks = books.filter(book => book.period === this.id);
+    this.periodBooks = books.filter(
+      book => book.year >= this.from && book.year < this.to,
+    );
     console.log(
       "TimelineSection.created: allYearMarkings = ",
       this.globalVars.allYearMarkings,
