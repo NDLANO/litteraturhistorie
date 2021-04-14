@@ -109,7 +109,7 @@ export default {
   },
   data() {
     return {
-      slotWidthMultiplier: 1,
+      slotWidthMultiplier: 3,
       periodBooks: null,
     };
   },
