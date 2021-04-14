@@ -111,6 +111,7 @@ export default {
   async created() {
     const ucLangCode = this.globalVars.langCode.toUpperCase();
 
+    this.globalVars.lastYear = 2015;
     // * load artists
     const artistsFileName = "config/artists" + ucLangCode + ".json";
     this.artists = JSON.parse(readFile(artistsFileName));
