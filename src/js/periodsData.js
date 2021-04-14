@@ -5,6 +5,7 @@ export const periods = [
     nbTitle: "Norrøn tid",
     from: "800",
     to: "1350",
+    widthMultiplier: 1,
     layer: 0,
     left: 0,
     yearMarkings: [
@@ -91,6 +92,7 @@ export const periods = [
     to: "1900",
     layer: 0,
     left: 0,
+    widthMultiplier: 4,
     yearMarkings: [[1890, 105]],
   },
   {
