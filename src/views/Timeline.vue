@@ -29,6 +29,7 @@
           :to="period.to"
           :id="period.id"
           :yearMarkings="period.yearMarkings"
+          :sectionWidthMultiplier="period.widthMultiplier"
           )
 
 </template>
