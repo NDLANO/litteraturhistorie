@@ -30,6 +30,7 @@ export const periods = [
     to: "1600",
     layer: 0,
     left: 0,
+    widthMultiplier: 1.2,
     yearMarkings: [
       [1350, 106],
       [1400, 117],
@@ -72,6 +73,7 @@ export const periods = [
     to: "1850",
     layer: 0,
     left: 0,
+    widthMultiplier: 1.4,
     yearMarkings: [[1800, 390]],
   },
   {
@@ -82,6 +84,7 @@ export const periods = [
     to: "1890",
     layer: 0,
     left: 0,
+    widthMultiplier: 2,
     yearMarkings: [[1850, 380]],
   },
   {
@@ -92,7 +95,7 @@ export const periods = [
     to: "1900",
     layer: 0,
     left: 0,
-    widthMultiplier: 4,
+    widthMultiplier: 5,
     yearMarkings: [[1890, 105]],
   },
   {
@@ -103,6 +106,7 @@ export const periods = [
     to: "1930",
     layer: 0,
     left: 0,
+    widthMultiplier: 1.5,
     yearMarkings: [[1900, 350]],
   },
   {
@@ -113,6 +117,7 @@ export const periods = [
     to: "1960",
     layer: 0,
     left: 0,
+    widthMultiplier: 2,
     yearMarkings: [[1930, 410]],
   },
   {
