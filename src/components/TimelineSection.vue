@@ -17,7 +17,8 @@ li.sectionList_item
         .circleEra_content
           .circleEra_date {{ from }}-{{ to }}
           h2.circleEra_title {{ title }}
-          button.btnEra(@click="$router.push(periodPath)") Mer info                  
+          //- button.btnEra(@click="$router.push(periodPath)") Mer info                  
+          button.btnEra(@click="$router.push('/nb/periods/barokk')") Mer info                  
     // * List of books
     ul.bookList
       li(v-for="book in periodBooks" :key="book.id")
