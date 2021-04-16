@@ -28,7 +28,7 @@ li.sectionList_item
           :path="book.path"
           :style="getStyle(book)"
         )
-    SeparatorAuthor
+    // SeparatorAuthor
     // * List of authors
     ul.authorsList
       li
