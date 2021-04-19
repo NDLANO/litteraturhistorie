@@ -13,14 +13,14 @@ export function getRoutesWithString(router, stringToFind) {
 }
 
 export function getElementPlacement(
-  bookYear,
+  elementYear,
   periods,
   allYearMarkings,
   lastYear,
   elementEndYear,
 ) {
   // * find book timeslot in allYearMarkings
-  if (!bookYear) return;
+  if (!elementYear) return;
 
   let bookPosition = 0;
   // console.log("helpers.getBookPlacement:-----------------");
@@ -31,7 +31,7 @@ export function getElementPlacement(
   //   book.year,
   // );
 
-  const periodFromYear = getBookPeriodFromYear(periods, bookYear);
+  const periodFromYear = getBookPeriodFromYear(periods, elementYear);
   const periodYearMarkingIndex = getYearMarkingIndex(
     allYearMarkings,
     periodFromYear,
@@ -56,19 +56,22 @@ export function getElementPlacement(
   //   periodTotalPosition,
   // );
 
-  const bookYearMarkingIndex = getYearMarkingIndex(allYearMarkings, bookYear);
+  const elementYearMarkingIndex = getYearMarkingIndex(
+    allYearMarkings,
+    elementYear,
+  );
   // console.log(
-  //   "helpers.getBookPlacement: bookYearMarkingIndex = ",
-  //   bookYearMarkingIndex,
+  //   "helpers.getBookPlacement: elementYearMarkingIndex = ",
+  //   elementYearMarkingIndex,
   // );
   // console.log(
   //   "helpers.getBookPlacement: book yearMarking = ",
-  //   allYearMarkings[bookYearMarkingIndex],
+  //   allYearMarkings[elementYearMarkingIndex],
   // );
 
   // bookPosition = periodTotalPosition;
 
-  for (let i = periodYearMarkingIndex; i < bookYearMarkingIndex; i++) {
+  for (let i = periodYearMarkingIndex; i < elementYearMarkingIndex; i++) {
     bookPosition += allYearMarkings[i][1];
   }
 
@@ -84,9 +87,10 @@ export function getElementPlacement(
   } else {
     yearSpan = allYearMarkings[periodYearMarkingIndex + 1][0] - periodFromYear;
   }
-  numOfYearsInMarking = bookYear - allYearMarkings[bookYearMarkingIndex][0];
+  numOfYearsInMarking =
+    elementYear - allYearMarkings[elementYearMarkingIndex][0];
 
-  pixelsPerYear = allYearMarkings[bookYearMarkingIndex][1] / yearSpan;
+  pixelsPerYear = allYearMarkings[elementYearMarkingIndex][1] / yearSpan;
 
   // console.log("helpers.getBookPlacement: yearSpan = ", yearSpan);
   // console.log("helpers.getBookPlacement: pixelsPerYear = ", pixelsPerYear);
@@ -151,21 +155,21 @@ function getTotalYearPosition(allYearMarkings, maxMarkingIndex) {
   return totalBookPosition;
 }
 
-function getBookPeriodFromYear(periods, bookYear) {
+function getBookPeriodFromYear(periods, elementYear) {
   for (let i = periods.length - 1; i >= 0; i--) {
     // console.log(
     //   "helpers.getBookPlacement: from = ",
     //   periods[i].from,
-    //   ", bookYear = ",
-    //   bookYear,
+    //   ", elementYear = ",
+    //   elementYear,
     // );
-    if (bookYear >= parseInt(periods[i].from)) {
+    if (elementYear >= parseInt(periods[i].from)) {
       return periods[i].from;
     }
   }
   console.error(
-    "helpers.getBookPeriodFromYear: no year found - bookYear = ",
-    bookYear,
+    "helpers.getBookPeriodFromYear: no year found - elementYear = ",
+    elementYear,
   );
   return null;
 }
