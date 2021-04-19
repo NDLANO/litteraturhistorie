@@ -26,7 +26,7 @@ li.sectionList_item
           :title="book.nbTitle"
           :author="book.author"
           :path="book.path"
-          :style="getStyle(book)"
+          :style="getBookStyle(book)"
         )
     // SeparatorAuthor
     // * List of authors
@@ -138,7 +138,7 @@ export default {
     },
   },
   methods: {
-    getStyle(book) {
+    getBookStyle(book) {
       let realLeftValue = getBookPlacement(
         book,
         this.globalVars.periods,
