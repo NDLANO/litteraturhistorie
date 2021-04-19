@@ -122,6 +122,7 @@ export default {
     return {
       periodBooks: null,
       periodAuthors: null,
+      authorRowHeight: 45,
     };
   },
   inject: ["globalVars"],
