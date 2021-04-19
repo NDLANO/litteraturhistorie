@@ -31,34 +31,39 @@ li.sectionList_item
     // SeparatorAuthor
     // * List of authors
     ul.authorsList
-      li
+      li(v-for="author in periodAuthors" :key="author.id")
         ButtonAuthor(
-          name="Peter Christen Asbjørnsen 1",
-          style="width: 450px; left: 20px; top: 0"
+          :name="author.name"
+          style="width: 300px;"
         )
-      li
-        ButtonAuthor(
-          name="Charles-Louis Montesquieu 2",
-          path="/nn/test",
-          style="width: 239px; left: 50px; top: 50px"
-        )
-      li
-        ButtonAuthor(
-          name="Peter Christen Asbjørnsen 3",
-          path="/nn/test",
-          style="width: 360px; left: 80px; top: 100px"
-        )
-      li
-        ButtonAuthor(
-          name="Peter Christen Asbjørnsen 4",
-          path="/nn/test",
-          style="width: 520px; left: 150px; top: 150px"
-        )
-      li
-        ButtonAuthor(
-          name="Peter Christen Asbjørnsen 5",
-          style="width: 520px; left: 800px; top: 150px"
-        )
+      //- li
+      //-   ButtonAuthor(
+      //-     name="Peter Christen Asbjørnsen 1",
+      //-     style="width: 450px; left: 20px; top: 0"
+      //-   )
+      //- li
+      //-   ButtonAuthor(
+      //-     name="Charles-Louis Montesquieu 2",
+      //-     path="/nn/test",
+      //-     style="width: 239px; left: 50px; top: 50px"
+      //-   )
+      //- li
+      //-   ButtonAuthor(
+      //-     name="Peter Christen Asbjørnsen 3",
+      //-     path="/nn/test",
+      //-     style="width: 360px; left: 80px; top: 100px"
+      //-   )
+      //- li
+      //-   ButtonAuthor(
+      //-     name="Peter Christen Asbjørnsen 4",
+      //-     path="/nn/test",
+      //-     style="width: 520px; left: 150px; top: 150px"
+      //-   )
+      //- li
+      //-   ButtonAuthor(
+      //-     name="Peter Christen Asbjørnsen 5",
+      //-     style="width: 520px; left: 800px; top: 150px"
+      //-   )
 </template>
 
 <script>
@@ -69,6 +74,7 @@ import SeparatorAuthor from "@/components/ui/SeparatorAuthor";
 import TimelineTimeslot from "@/components/TimelineTimeslot";
 
 import { books } from "@/js/booksData";
+import { authors } from "@/js/authorsData";
 import { getBookPlacement } from "@/js/helpers";
 
 export default {
@@ -115,6 +121,7 @@ export default {
   data() {
     return {
       periodBooks: null,
+      periodAuthors: null,
     };
   },
   inject: ["globalVars"],
@@ -160,6 +167,9 @@ export default {
   created() {
     this.periodBooks = books.filter(
       book => book.year >= this.from && book.year < this.to,
+    );
+    this.periodAuthors = authors.filter(
+      author => author.from >= this.from && author.from < this.to,
     );
     console.log(
       "TimelineSection.created: allYearMarkings = ",
