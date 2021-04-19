@@ -77,7 +77,7 @@ import TimelineTimeslot from "@/components/TimelineTimeslot";
 
 import { books } from "@/js/booksData";
 import { authors } from "@/js/authorsData";
-import { getBookPlacement } from "@/js/helpers";
+import { getElementPlacement } from "@/js/helpers";
 
 export default {
   name: "TimelineSection",
@@ -152,7 +152,7 @@ export default {
       let realLeftValue;
 
       if (book) {
-        realLeftValue = getBookPlacement(
+        realLeftValue = getElementPlacement(
           book.year,
           this.globalVars.periods,
           this.globalVars.allYearMarkings,
@@ -166,7 +166,7 @@ export default {
     getAuthorStyle(author) {
       let realLeftValue;
       if (author) {
-        realLeftValue = getBookPlacement(
+        realLeftValue = getElementPlacement(
           author.from,
           this.globalVars.periods,
           this.globalVars.allYearMarkings,

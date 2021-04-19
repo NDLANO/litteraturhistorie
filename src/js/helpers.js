@@ -12,7 +12,12 @@ export function getRoutesWithString(router, stringToFind) {
   return routes;
 }
 
-export function getBookPlacement(bookYear, periods, allYearMarkings, lastYear) {
+export function getElementPlacement(
+  bookYear,
+  periods,
+  allYearMarkings,
+  lastYear,
+) {
   // * find book timeslot in allYearMarkings
   if (!bookYear) return;
 
