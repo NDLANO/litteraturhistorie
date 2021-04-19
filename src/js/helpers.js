@@ -17,6 +17,7 @@ export function getElementPlacement(
   periods,
   allYearMarkings,
   lastYear,
+  elementEndYear,
 ) {
   // * find book timeslot in allYearMarkings
   if (!bookYear) return;
@@ -108,7 +109,7 @@ export function getElementPlacement(
   bookPosition += numOfYearsInMarking * pixelsPerYear;
   // console.log("helpers.getBookPlacement: numOfYearsInMarking = ", bookPosition);
 
-  return bookPosition;
+  return [bookPosition];
 }
 
 // function getYearMarkingForYear(allYearMarkings, year) {

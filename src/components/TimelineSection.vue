@@ -152,7 +152,7 @@ export default {
       let realLeftValue;
 
       if (book) {
-        realLeftValue = getElementPlacement(
+        [realLeftValue] = getElementPlacement(
           book.year,
           this.globalVars.periods,
           this.globalVars.allYearMarkings,
@@ -166,11 +166,12 @@ export default {
     getAuthorStyle(author) {
       let realLeftValue;
       if (author) {
-        realLeftValue = getElementPlacement(
+        [realLeftValue] = getElementPlacement(
           author.from,
           this.globalVars.periods,
           this.globalVars.allYearMarkings,
           this.globalVars.lastYear,
+          author.to,
         );
       }
 
