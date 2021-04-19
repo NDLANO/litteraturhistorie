@@ -161,6 +161,24 @@ export default {
       realLeftValue = realLeftValue * this.sectionWidthMultiplier;
       return { top: book.top + "px", left: realLeftValue + "px" };
     },
+    getAuthorStyle(author) {
+      let realLeftValue;
+      if (author) {
+        realLeftValue = getBookPlacement(
+          author.from,
+          this.globalVars.periods,
+          this.globalVars.allYearMarkings,
+          this.globalVars.lastYear,
+        );
+      }
+
+      let top = 0;
+      if (author.row) {
+        top = author.row * this.authorRowHeight;
+      }
+      realLeftValue = realLeftValue * this.sectionWidthMultiplier;
+      return { left: realLeftValue + "px", width: "150px", top: top + "px" };
+    },
   },
   mounted() {
     // console.log("TimelineSelection: period = ", this.period.meta.title);
