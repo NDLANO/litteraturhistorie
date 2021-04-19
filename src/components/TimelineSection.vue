@@ -34,7 +34,9 @@ li.sectionList_item
       li(v-for="author in periodAuthors" :key="author.id")
         ButtonAuthor(
           :name="author.name"
-          style="width: 300px;"
+          :style="getAuthorStyle(author)"
+          :gotText="author.nnText !== ''"
+          
         )
       //- li
       //-   ButtonAuthor(
