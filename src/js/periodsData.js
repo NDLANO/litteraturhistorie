@@ -73,7 +73,7 @@ export const periods = [
     to: "1850",
     layer: 0,
     left: 0,
-    widthMultiplier: 1.4,
+    widthMultiplier: 1.8,
     yearMarkings: [[1800, 390]],
   },
   {
