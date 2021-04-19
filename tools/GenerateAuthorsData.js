@@ -58,8 +58,8 @@ async function generateFile() {
       authorsJsString += `{
       id: '${authorId}',
       name: '${tmpNnAuthor.NAVN}',
-      from: '${tmpNnAuthor.FRA}',
-      to: '${tmpNnAuthor.TIL}',
+      from: ${tmpNnAuthor.FRA},
+      to: ${tmpNnAuthor.TIL},
       nnText: '${tmpNnText}',
       nbText: '${tmpNbText}',
       type: '${tmpNnAuthor.TYPE}',
