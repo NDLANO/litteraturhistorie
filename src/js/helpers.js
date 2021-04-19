@@ -12,9 +12,9 @@ export function getRoutesWithString(router, stringToFind) {
   return routes;
 }
 
-export function getBookPlacement(book, periods, allYearMarkings, lastYear) {
+export function getBookPlacement(bookYear, periods, allYearMarkings, lastYear) {
   // * find book timeslot in allYearMarkings
-  if (!book) return;
+  if (!bookYear) return;
 
   let bookPosition = 0;
   // console.log("helpers.getBookPlacement:-----------------");
@@ -25,7 +25,7 @@ export function getBookPlacement(book, periods, allYearMarkings, lastYear) {
   //   book.year,
   // );
 
-  const periodFromYear = getBookPeriodFromYear(periods, book.year);
+  const periodFromYear = getBookPeriodFromYear(periods, bookYear);
   const periodYearMarkingIndex = getYearMarkingIndex(
     allYearMarkings,
     periodFromYear,
@@ -50,7 +50,7 @@ export function getBookPlacement(book, periods, allYearMarkings, lastYear) {
   //   periodTotalPosition,
   // );
 
-  const bookYearMarkingIndex = getYearMarkingIndex(allYearMarkings, book.year);
+  const bookYearMarkingIndex = getYearMarkingIndex(allYearMarkings, bookYear);
   // console.log(
   //   "helpers.getBookPlacement: bookYearMarkingIndex = ",
   //   bookYearMarkingIndex,
@@ -78,7 +78,7 @@ export function getBookPlacement(book, periods, allYearMarkings, lastYear) {
   } else {
     yearSpan = allYearMarkings[periodYearMarkingIndex + 1][0] - periodFromYear;
   }
-  numOfYearsInMarking = book.year - allYearMarkings[bookYearMarkingIndex][0];
+  numOfYearsInMarking = bookYear - allYearMarkings[bookYearMarkingIndex][0];
 
   pixelsPerYear = allYearMarkings[bookYearMarkingIndex][1] / yearSpan;
 

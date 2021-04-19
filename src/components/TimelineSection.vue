@@ -139,12 +139,16 @@ export default {
   },
   methods: {
     getBookStyle(book) {
-      let realLeftValue = getBookPlacement(
-        book,
-        this.globalVars.periods,
-        this.globalVars.allYearMarkings,
-        this.globalVars.lastYear,
-      );
+      let realLeftValue;
+
+      if (book) {
+        realLeftValue = getBookPlacement(
+          book.year,
+          this.globalVars.periods,
+          this.globalVars.allYearMarkings,
+          this.globalVars.lastYear,
+        );
+      }
 
       realLeftValue = realLeftValue * this.sectionWidthMultiplier;
       return { top: book.top + "px", left: realLeftValue + "px" };
