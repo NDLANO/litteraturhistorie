@@ -535,14 +535,14 @@ blockquote {
 
 .lo_fullOverlay_popup {
   position: fixed;
-  display: none;
+  // display: none;
   overflow-y: scroll;
   background: rgba($middle-grey, 0.85);
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
-  z-index: 100;
+  z-index: 1100;
 }
 
 .lo_authorPopup {
