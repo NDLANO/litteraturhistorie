@@ -165,8 +165,9 @@ export default {
     },
     getAuthorStyle(author) {
       let realLeftValue;
+      let width;
       if (author) {
-        [realLeftValue] = getElementPlacement(
+        [realLeftValue, width] = getElementPlacement(
           author.from,
           this.globalVars.periods,
           this.globalVars.allYearMarkings,
@@ -180,7 +181,12 @@ export default {
         top = author.row * this.authorRowHeight;
       }
       realLeftValue = realLeftValue * this.sectionWidthMultiplier;
-      return { left: realLeftValue + "px", width: "150px", top: top + "px" };
+      width = width * this.sectionWidthMultiplier;
+      return {
+        left: realLeftValue + "px",
+        width: width + "px",
+        top: top + "px",
+      };
     },
   },
   mounted() {
