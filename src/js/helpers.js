@@ -109,9 +109,27 @@ export function getElementPlacement(
   // );
   // console.log("helpers.getBookPlacement: yearSpan = ", yearSpan);
   // console.log("helpers.getBookPlacement: pixelsPerYear = ", pixelsPerYear);
+  let elementWidth;
+
+  if (elementEndYear) {
+    const endYearMarkingIndex = getYearMarkingIndex(
+      allYearMarkings,
+      elementEndYear,
+    );
+
+    elementWidth = calculateElementWidth(
+      allYearMarkings,
+      elementYear,
+      elementYearMarkingIndex,
+      elementEndYear,
+      endYearMarkingIndex,
+      lastYear,
+    );
+  }
 
   bookPosition += numOfYearsInMarking * pixelsPerYear;
   // console.log("helpers.getBookPlacement: numOfYearsInMarking = ", bookPosition);
+  if (elementWidth) return [bookPosition, elementWidth];
 
   return [bookPosition];
 }
@@ -222,6 +240,7 @@ function calculateElementWidth(
   // console.log("helpers.calculateElementWidth: elementWidth = ", elementWidth);
   return elementWidth;
 }
+
 // function getYearMarkingForYear(allYearMarkings, year) {
 //   let markingIndex = -1;
 //   for (let i = allYearMarkings.length - 1; i >= 0; i--) {
