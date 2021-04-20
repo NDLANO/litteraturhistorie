@@ -665,8 +665,8 @@ export default [
     path: "/nn/books/asbjornsenmoe",
     name: "AsbjornsenMoeNN",
     meta: {
-      author: "AsbjornsenMoe",
-      title: "Asbjørnsen og Moe: Norske folkeeventyr",
+      author: "Asbjørnsen og Moe",
+      title: "Norske folkeeventyr",
       year: 1841,
       cover: 12,
     },
@@ -681,8 +681,8 @@ export default [
     path: "/nb/books/asbjornsenmoe",
     name: "AsbjornsenMoeNB",
     meta: {
-      author: "AsbjornsenMoe",
-      title: "Asbjørnsen og Moe: Norske folkeeventyr",
+      author: "Asbjørnsen og Moe",
+      title: "Norske folkeeventyr",
       year: 1841,
       cover: 12,
     },

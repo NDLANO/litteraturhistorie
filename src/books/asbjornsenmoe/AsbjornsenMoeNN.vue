@@ -98,6 +98,9 @@ PageBook(:bannerImage="require(`./banner.jpg`)")
   p
     img(src="./asbjornsenmoe_08.jpg" alt="Gammelt bokomslag")
 
+  br
+  
+  p Video under er et eksempel på integrering av video fra NRK Skole
   NrkVideo(id="3819")
 
   br

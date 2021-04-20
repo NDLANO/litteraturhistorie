@@ -33,6 +33,8 @@ export default {
     showLink() {
       if (this.path !== "") {
         this.$router.push(this.path);
+      } else {
+        this.$router.push("/nn/books/asbjornsenmoe");
       }
     },
   },

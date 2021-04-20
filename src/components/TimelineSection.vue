@@ -8,7 +8,7 @@ li.sectionList_item
       TimelineTimeslot(
         v-for="year in yearMarkings"
         :key="year"
-        :slotWidth="year[1]" 
+        :slotWidth="year[1] * sectionWidthMultiplier" 
         :year="year[0]")
     // * The circle and link in the middle of the era
     .lo_circleEra
@@ -17,61 +17,55 @@ li.sectionList_item
         .circleEra_content
           .circleEra_date {{ from }}-{{ to }}
           h2.circleEra_title {{ title }}
-          button.btnEra(@click="$router.push(periodPath)") Mer info                  
+          //- button.btnEra(@click="$router.push(periodPath)") Mer info                  
+          button.btnEra(@click="$router.push('/nb/periods/barokk')") Mer info                  
     // * List of books
     ul.bookList
-      li
+      li(v-for="book in periodBooks" :key="book.id")
         ButtonBook(
-          title="Om norsk Sprogreformation",
-          author="Wergeland",
-          path="/nn/books/wergeland",
-          style="left: 50px; top: 100px"
+          :title="book.nbTitle"
+          :author="book.author"
+          :path="book.path"
+          :style="getBookStyle(book)"
         )
-      li
-        ButtonBook(
-          title="Kvitebjørnen",
-          author="Rasmus Løland",
-          path="/nb/books/loland",
-          style="left: 100px; top: 200px"
-        )
-      li
-        ButtonBook(
-          title="Døljen",
-          author="Vinje",
-          path="/nn/books/vinje",
-          style="left: 800px; top: 150px"
-        )
-    SeparatorAuthor
+    // SeparatorAuthor
     // * List of authors
     ul.authorsList
-      li
+      li(v-for="author in periodAuthors" :key="author.id")
         ButtonAuthor(
-          name="Peter Christen Asbjørnsen 1",
-          style="width: 450px; left: 20px; top: 0"
+          :name="author.name"
+          :style="getAuthorStyle(author)"
+          :gotText="author.nnText !== ''"
+          
         )
-      li
-        ButtonAuthor(
-          name="Charles-Louis Montesquieu 2",
-          path="/nn/test",
-          style="width: 239px; left: 50px; top: 50px"
-        )
-      li
-        ButtonAuthor(
-          name="Peter Christen Asbjørnsen 3",
-          path="/nn/test",
-          style="width: 360px; left: 80px; top: 100px"
-        )
-      li
-        ButtonAuthor(
-          name="Peter Christen Asbjørnsen 4",
-          path="/nn/test",
-          style="width: 520px; left: 150px; top: 150px"
-        )
-      li
-        ButtonAuthor(
-          name="Peter Christen Asbjørnsen 5",
-          style="width: 520px; left: 800px; top: 150px"
-        )
+      //- li
+      //-   ButtonAuthor(
+      //-     name="Peter Christen Asbjørnsen 1",
+      //-     style="width: 450px; left: 20px; top: 0"
+      //-   )
+      //- li
+      //-   ButtonAuthor(
+      //-     name="Charles-Louis Montesquieu 2",
+      //-     path="/nn/test",
+      //-     style="width: 239px; left: 50px; top: 50px"
+      //-   )
+      //- li
+      //-   ButtonAuthor(
+      //-     name="Peter Christen Asbjørnsen 3",
+      //-     path="/nn/test",
+      //-     style="width: 360px; left: 80px; top: 100px"
+      //-   )
+      //- li
+      //-   ButtonAuthor(
+      //-     name="Peter Christen Asbjørnsen 4",
+      //-     path="/nn/test",
+      //-     style="width: 520px; left: 150px; top: 150px"
+      //-   )
+      //- li
+      //-   ButtonAuthor(
+      //-     name="Peter Christen Asbjørnsen 5",
+      //-     style="width: 520px; left: 800px; top: 150px"
+      //-   )
 </template>
 
 <script>
@@ -80,6 +74,10 @@ import ButtonAuthor from "@/components/ButtonAuthor";
 
 import SeparatorAuthor from "@/components/ui/SeparatorAuthor";
 import TimelineTimeslot from "@/components/TimelineTimeslot";
+
+import { books } from "@/js/booksData";
+import { authors } from "@/js/authorsData";
+import { getElementPlacement } from "@/js/helpers";
 
 export default {
   name: "TimelineSection",
@@ -117,6 +115,17 @@ export default {
         [1300, 95],
       ],
     },
+    sectionWidthMultiplier: {
+      type: Number,
+      default: 1,
+    },
+  },
+  data() {
+    return {
+      periodBooks: null,
+      periodAuthors: null,
+      authorRowHeight: 45,
+    };
   },
   inject: ["globalVars"],
   components: {
@@ -127,7 +136,9 @@ export default {
   },
   computed: {
     sectionWidth() {
-      const widthValues = this.yearMarkings.map(e => e[1]);
+      const widthValues = this.yearMarkings.map(
+        e => e[1] * this.sectionWidthMultiplier,
+      );
       const sum = widthValues.reduce((a, b) => a + b, 0);
       console.log("sum = ", sum);
       return { width: sum + "px" };
@@ -136,8 +147,65 @@ export default {
       return "/" + this.globalVars.langCode + "/periods/" + this.id + "/";
     },
   },
+  methods: {
+    getBookStyle(book) {
+      let realLeftValue;
+
+      if (book) {
+        [realLeftValue] = getElementPlacement(
+          book.year,
+          this.globalVars.periods,
+          this.globalVars.allYearMarkings,
+          this.globalVars.lastYear,
+        );
+      }
+
+      realLeftValue = realLeftValue * this.sectionWidthMultiplier;
+      return { top: book.top + "px", left: realLeftValue + "px" };
+    },
+    getAuthorStyle(author) {
+      let realLeftValue;
+      let width;
+      if (author) {
+        [realLeftValue, width] = getElementPlacement(
+          author.from,
+          this.globalVars.periods,
+          this.globalVars.allYearMarkings,
+          this.globalVars.lastYear,
+          author.to,
+        );
+      }
+
+      let top = 0;
+      if (author.row) {
+        top = author.row * this.authorRowHeight;
+      }
+      realLeftValue = realLeftValue * this.sectionWidthMultiplier;
+      width = width * this.sectionWidthMultiplier;
+      return {
+        left: realLeftValue + "px",
+        width: width + "px",
+        top: top + "px",
+      };
+    },
+  },
   mounted() {
     // console.log("TimelineSelection: period = ", this.period.meta.title);
+  },
+  created() {
+    this.periodBooks = books.filter(
+      book => book.year >= this.from && book.year < this.to,
+    );
+    this.periodAuthors = authors.filter(
+      author => author.from >= this.from && author.from < this.to,
+    );
+    console.log(
+      "TimelineSection.created: allYearMarkings = ",
+      this.globalVars.allYearMarkings,
+    );
+
+    console.log("TimelineSection.created: periods = ", this.globalVars.periods);
+    // console.log("TimelineSection.created: period books = ", this.periodBooks);
   },
 };
 </script>

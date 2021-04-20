@@ -29,6 +29,7 @@
           :to="period.to"
           :id="period.id"
           :yearMarkings="period.yearMarkings"
+          :sectionWidthMultiplier="period.widthMultiplier"
           )
 
 </template>
@@ -111,9 +112,20 @@ export default {
   async created() {
     const ucLangCode = this.globalVars.langCode.toUpperCase();
 
+    this.globalVars.lastYear = 2015;
+    this.globalVars.periods = periods;
+
     // * load artists
     const artistsFileName = "config/artists" + ucLangCode + ".json";
     this.artists = JSON.parse(readFile(artistsFileName));
+
+    this.globalVars.allYearMarkings = [];
+    for (let i = 0; i < periods.length; i++) {
+      this.globalVars.allYearMarkings = [
+        ...this.globalVars.allYearMarkings,
+        ...periods[i].yearMarkings,
+      ];
+    }
 
     // console.log("Timeline.created: routes = ", this.$router.options.routes);
     // this.bookRoutes = getRoutesWithString(
