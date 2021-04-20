@@ -146,18 +146,18 @@ function calculateElementWidth(
 
   let markingSpan = endIndex - startIndex;
 
-  console.log(
-    "helpers.calculateElementWidth: startYear, ",
-    startYear,
-    ", startIndex = ",
-    startIndex,
-    ", endYear = ",
-    endYear,
-    ", endIndex = ",
-    endIndex,
-    ", markingSpan = ",
-    markingSpan,
-  );
+  // console.log(
+  //   "helpers.calculateElementWidth: startYear, ",
+  //   startYear,
+  //   ", startIndex = ",
+  //   startIndex,
+  //   ", endYear = ",
+  //   endYear,
+  //   ", endIndex = ",
+  //   endIndex,
+  //   ", markingSpan = ",
+  //   markingSpan,
+  // );
 
   // * Go through all periods the element spans
   for (let i = startIndex; i <= endIndex; i++) {
