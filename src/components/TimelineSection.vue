@@ -36,7 +36,7 @@ li.sectionList_item
           :name="author.name"
           :style="getAuthorStyle(author)"
           :gotText="author.nnText !== ''"
-          
+          @click="onAuthorClick(author)"
         )
       //- li
       //-   ButtonAuthor(
@@ -81,6 +81,7 @@ import { getElementPlacement } from "@/js/helpers";
 
 export default {
   name: "TimelineSection",
+  emits: ["authorClick"],
   props: {
     title: {
       type: String,
@@ -148,6 +149,10 @@ export default {
     },
   },
   methods: {
+    onAuthorClick(author) {
+      console.log("TimelineSection.onAuthorClick: author = ", author);
+      this.$emit("authorClick", this.$event, author);
+    },
     getBookStyle(book) {
       let realLeftValue;
 
