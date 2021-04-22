@@ -552,6 +552,8 @@ blockquote {
   background: white;
   border-radius: $base-line-height / 8;
   box-shadow: 4px 4px 0px 0px $main-color;
+  // temporary - animate with gsap later
+  transform: translate(0px, 0px);
 
   @include breakpoint($large) {
     margin-top: $base-line-height * 3;
