@@ -492,6 +492,7 @@ blockquote {
   padding: ($base-line-height / 16) ($base-line-height / 4)
     ($base-line-height / 16) ($base-line-height / 2);
   box-shadow: 1px 1px 0px 0px $main-color;
+  line-height: initial;
 }
 
 .btnAuthor:hover {
