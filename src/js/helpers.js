@@ -256,3 +256,20 @@ function getBookPeriodFromYear(periods, elementYear) {
   );
   return null;
 }
+
+/**
+ * getElementPeriod
+ * @param {*} periods
+ * @param {*} elementYear
+ * @returns period object or null
+ *
+ * Returns the period object for the period elementYear belongs to
+ */
+function getElementPeriod(periods, elementYear) {
+  for (let i = periods.length - 1; i >= 0; i--) {
+    if (elementYear >= parseInt(periods[i].from)) {
+      return periods[i];
+    }
+  }
+  return null;
+}
