@@ -23,7 +23,7 @@ export function getElementPosition(
   let elementPosition = 0;
 
   // * periodFromYear is the start year of the peirod elementYear belongs to
-  const periodFromYear = getBookPeriodFromYear(periods, elementYear);
+  const periodFromYear = getElementPeriodStartYear(periods, elementYear);
 
   // * periodYearMarkingIndex is the index of the start period markings section
   const periodYearMarkingIndex = getYearMarkingIndex(
@@ -159,22 +159,22 @@ function getYearMarkingIndex(allYearMarkings, year) {
  * Goes through allYearMarkings and sums up the width until maxMarkingIndex
  */
 function getTotalYearPosition(allYearMarkings, maxMarkingIndex) {
-  let totalBookPosition = 0;
+  let totalElementPosition = 0;
   for (let i = 0; i < maxMarkingIndex; i++) {
-    totalBookPosition += allYearMarkings[i][1];
+    totalElementPosition += allYearMarkings[i][1];
   }
 
-  return totalBookPosition;
+  return totalElementPosition;
 }
 /**
- * getBookPeriodFromYear
+ * getElementPeriodStartYear
  * @param {*} periods
  * @param {*} elementYear
  * @returns number
  *
  * Returns the start year of the period elementYear belongs to.
  */
-function getBookPeriodFromYear(periods, elementYear) {
+function getElementPeriodStartYear(periods, elementYear) {
   for (let i = periods.length - 1; i >= 0; i--) {
     if (elementYear >= parseInt(periods[i].from)) {
       return periods[i].from;
