@@ -77,7 +77,11 @@ import TimelineTimeslot from "@/components/TimelineTimeslot";
 
 import { books } from "@/js/booksData";
 import { authors } from "@/js/authorsData";
-import { getElementPlacement } from "@/js/helpers";
+import {
+  getElementPlacement,
+  getElementPosition,
+  calculateElementWidth,
+} from "@/js/helpers";
 
 export default {
   name: "TimelineSection",
@@ -157,7 +161,13 @@ export default {
       let realLeftValue;
 
       if (book) {
-        [realLeftValue] = getElementPlacement(
+        // [realLeftValue] = getElementPlacement(
+        //   book.year,
+        //   this.globalVars.periods,
+        //   this.globalVars.allYearMarkings,
+        //   this.globalVars.lastYear,
+        // );
+        realLeftValue = getElementPosition(
           book.year,
           this.globalVars.periods,
           this.globalVars.allYearMarkings,
@@ -172,13 +182,27 @@ export default {
       let realLeftValue;
       let width;
       if (author) {
-        [realLeftValue, width] = getElementPlacement(
+        // [realLeftValue, width] = getElementPlacement(
+        //   author.from,
+        //   this.globalVars.periods,
+        //   this.globalVars.allYearMarkings,
+        //   this.globalVars.lastYear,
+        //   author.to,
+        // );
+        realLeftValue = getElementPosition(
           author.from,
           this.globalVars.periods,
           this.globalVars.allYearMarkings,
           this.globalVars.lastYear,
-          author.to,
         );
+        width = calculateElementWidth(
+          author.from,
+          author.to,
+          this.globalVars.allYearMarkings,
+          this.globalVars.lastYear,
+          this.globalVars.periods,
+        );
+        console.log("TimelineSection.getAuthorStyle: width = ", width);
       }
 
       let top = 0;
@@ -204,12 +228,12 @@ export default {
     this.periodAuthors = authors.filter(
       author => author.from >= this.from && author.from < this.to,
     );
-    console.log(
-      "TimelineSection.created: allYearMarkings = ",
-      this.globalVars.allYearMarkings,
-    );
+    // console.log(
+    //   "TimelineSection.created: allYearMarkings = ",
+    //   this.globalVars.allYearMarkings,
+    // );
 
-    console.log("TimelineSection.created: periods = ", this.globalVars.periods);
+    // console.log("TimelineSection.created: periods = ", this.globalVars.periods);
     // console.log("TimelineSection.created: period books = ", this.periodBooks);
   },
 };
