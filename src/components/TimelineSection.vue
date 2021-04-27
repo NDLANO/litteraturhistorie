@@ -186,7 +186,7 @@ export default {
         top = author.row * this.authorRowHeight;
       }
       realLeftValue = realLeftValue * this.sectionWidthMultiplier;
-      width = width * this.sectionWidthMultiplier;
+      // width = width * this.sectionWidthMultiplier;
       return {
         left: realLeftValue + "px",
         width: width + "px",
