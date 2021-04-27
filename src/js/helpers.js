@@ -158,42 +158,59 @@ export function calculateElementWidth(
   startYear,
   endYear,
   allYearMarkings,
-  // startIndex,
-  // endIndex,
   lastYear,
   periods,
 ) {
-  console.log("helpers.calculateElementwidth: startYear = ", startYear);
   let elementWidth = 0;
 
   const startIndex = getYearMarkingIndex(allYearMarkings, startYear);
   const endIndex = getYearMarkingIndex(allYearMarkings, endYear);
 
-  let markingSpan = endIndex - startIndex;
-
   // * Go through all periods the element spans
   for (let i = startIndex; i <= endIndex; i++) {
     // console.log("helpers.calculateElementWidth: going through index ", i);
+
+    // * Set markingEndYear as lastYear as default
     let markingEndYear = lastYear;
+
+    // * If i is not the index of the last marking
     if (i < allYearMarkings.length - 1) {
+      // * The markingEndYear is the start of the next marking
       markingEndYear = allYearMarkings[i + 1][0];
     }
+
+    // * Calculate number of pixels per year for the marking
     let pixelsPerYear =
       allYearMarkings[i][1] / (markingEndYear - allYearMarkings[i][0]);
 
+    // * Find the period of the marking start year
+    const markingPeriod = getElementPeriod(periods, allYearMarkings[i][0]);
+
+    // * Find multiplier. If period got no multiplier, use 1
+    const periodMultiplier = markingPeriod.widthMultiplier
+      ? markingPeriod.widthMultiplier
+      : 1;
+
+    // * elementWidthIncrease is the width of the currrent loop iteration
+    let elementWidthIncrease = 0;
+
     if (i === startIndex && i === endIndex) {
       // * If start and end year is within the same period
-      elementWidth = (endYear - startYear) * pixelsPerYear;
+      elementWidthIncrease = (endYear - startYear) * pixelsPerYear;
     } else if (i === startIndex) {
       // * If start year is in period
-      elementWidth += (markingEndYear - startYear) * pixelsPerYear;
+      elementWidthIncrease += (markingEndYear - startYear) * pixelsPerYear;
     } else if (i === endIndex) {
       // * If end year is in period
-      elementWidth += (endYear - allYearMarkings[i][0]) * pixelsPerYear;
+      elementWidthIncrease += (endYear - allYearMarkings[i][0]) * pixelsPerYear;
     } else {
       // * if neither start year or end year is within the period
-      elementWidth += (markingEndYear - allYearMarkings[i][0]) * pixelsPerYear;
+      elementWidthIncrease +=
+        (markingEndYear - allYearMarkings[i][0]) * pixelsPerYear;
     }
+
+    // * Multiply elementWidthIncrease with multiplier and add to totale elementWidth
+    elementWidth += elementWidthIncrease * periodMultiplier;
   }
 
   return elementWidth;
