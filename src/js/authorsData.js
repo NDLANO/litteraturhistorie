@@ -669,7 +669,7 @@ export const authors = [
     name: "Camilla Collett",
     from: 1813,
     to: 1895,
-    row: 10,
+    row: 16,
     nnText: "",
     nbText: "",
     type: "1",
