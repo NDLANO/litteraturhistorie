@@ -161,6 +161,7 @@ export function calculateElementWidth(
   // startIndex,
   // endIndex,
   lastYear,
+  periods,
 ) {
   console.log("helpers.calculateElementwidth: startYear = ", startYear);
   let elementWidth = 0;
