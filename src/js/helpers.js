@@ -18,8 +18,6 @@ export function getElementPosition(
   allYearMarkings,
   lastYear,
 ) {
-  console.log("helpers.getElementPosition: +++++++++++");
-
   if (!elementYear) return;
 
   let elementPosition = 0;
@@ -85,8 +83,6 @@ export function calculateElementWidth(
 
   // * Go through all periods the element spans
   for (let i = startIndex; i <= endIndex; i++) {
-    // console.log("helpers.calculateElementWidth: going through index ", i);
-
     // * Set markingEndYear as lastYear as default
     let markingEndYear = lastYear;
 
@@ -184,10 +180,6 @@ function getBookPeriodFromYear(periods, elementYear) {
       return periods[i].from;
     }
   }
-  console.error(
-    "helpers.getBookPeriodFromYear: no year found - elementYear = ",
-    elementYear,
-  );
   return null;
 }
 
