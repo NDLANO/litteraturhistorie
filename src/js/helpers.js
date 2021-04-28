@@ -12,24 +12,18 @@ export function getRoutesWithString(router, stringToFind) {
   return routes;
 }
 
-export function getElementPlacement(
+export function getElementPosition(
   elementYear,
   periods,
   allYearMarkings,
   lastYear,
-  elementEndYear,
 ) {
-  // * find book timeslot in allYearMarkings
   if (!elementYear) return;
 
-  // console.log(
-  //   "helpers.getBookPlacement:----------------- elementYear = ",
-  //   elementYear,
-  // );
-  let bookPosition = 0;
+  let elementPosition = 0;
 
   // * periodFromYear is the start year of the peirod elementYear belongs to
-  const periodFromYear = getBookPeriodFromYear(periods, elementYear);
+  const periodFromYear = getElementPeriodStartYear(periods, elementYear);
 
   // * periodYearMarkingIndex is the index of the start period markings section
   const periodYearMarkingIndex = getYearMarkingIndex(
@@ -52,7 +46,7 @@ export function getElementPlacement(
   // * If periodYearMarkingIndex is different from elementYearMarkingIndex,
   // * add the width of the markings in between.
   for (let i = periodYearMarkingIndex; i < elementYearMarkingIndex; i++) {
-    bookPosition += allYearMarkings[i][1];
+    elementPosition += allYearMarkings[i][1];
   }
 
   let pixelsPerYear = 0;
@@ -69,67 +63,67 @@ export function getElementPlacement(
 
   pixelsPerYear = allYearMarkings[elementYearMarkingIndex][1] / yearSpan;
 
-  // * Add the width of the years belonging to the last marking
-  bookPosition += numOfYearsInMarking * pixelsPerYear;
+  // // * Add the width of the years belonging to the last marking
+  elementPosition += numOfYearsInMarking * pixelsPerYear;
 
-  let elementWidth;
-
-  if (elementEndYear) {
-    const endYearMarkingIndex = getYearMarkingIndex(
-      allYearMarkings,
-      elementEndYear,
-    );
-
-    elementWidth = calculateElementWidth(
-      allYearMarkings,
-      elementYear,
-      elementYearMarkingIndex,
-      elementEndYear,
-      endYearMarkingIndex,
-      lastYear,
-    );
-  }
-
-  if (elementWidth) return [bookPosition, elementWidth];
-
-  return [bookPosition];
+  return elementPosition;
 }
 
-function calculateElementWidth(
-  allYearMarkings,
+export function calculateElementWidth(
   startYear,
-  startIndex,
   endYear,
-  endIndex,
+  allYearMarkings,
   lastYear,
+  periods,
 ) {
   let elementWidth = 0;
 
-  let markingSpan = endIndex - startIndex;
+  const startIndex = getYearMarkingIndex(allYearMarkings, startYear);
+  const endIndex = getYearMarkingIndex(allYearMarkings, endYear);
 
   // * Go through all periods the element spans
   for (let i = startIndex; i <= endIndex; i++) {
-    // console.log("helpers.calculateElementWidth: going through index ", i);
+    // * Set markingEndYear as lastYear as default
     let markingEndYear = lastYear;
+
+    // * If i is not the index of the last marking
     if (i < allYearMarkings.length - 1) {
+      // * The markingEndYear is the start of the next marking
       markingEndYear = allYearMarkings[i + 1][0];
     }
+
+    // * Calculate number of pixels per year for the marking
     let pixelsPerYear =
       allYearMarkings[i][1] / (markingEndYear - allYearMarkings[i][0]);
 
+    // * Find the period of the marking start year
+    const markingPeriod = getElementPeriod(periods, allYearMarkings[i][0]);
+
+    // * Find multiplier. If period got no multiplier, use 1
+    const periodMultiplier = markingPeriod.widthMultiplier
+      ? markingPeriod.widthMultiplier
+      : 1;
+
+    // * elementWidthIncrease is the width of the currrent loop iteration
+    let elementWidthIncrease = 0;
+
     if (i === startIndex && i === endIndex) {
       // * If start and end year is within the same period
-      elementWidth = (endYear - startYear) * pixelsPerYear;
+      elementWidthIncrease = (endYear - startYear) * pixelsPerYear;
     } else if (i === startIndex) {
       // * If start year is in period
-      elementWidth += (markingEndYear - startYear) * pixelsPerYear;
+      elementWidthIncrease += (markingEndYear - startYear) * pixelsPerYear;
     } else if (i === endIndex) {
       // * If end year is in period
-      elementWidth += (endYear - allYearMarkings[i][0]) * pixelsPerYear;
+      elementWidthIncrease += (endYear - allYearMarkings[i][0]) * pixelsPerYear;
     } else {
       // * if neither start year or end year is within the period
-      elementWidth += (markingEndYear - allYearMarkings[i][0]) * pixelsPerYear;
+      elementWidthIncrease +=
+        (markingEndYear - allYearMarkings[i][0]) * pixelsPerYear;
     }
+
+    // * Multiply elementWidthIncrease with multiplier and add to totale elementWidth
+    elementWidth += elementWidthIncrease * periodMultiplier;
   }
 
   return elementWidth;
@@ -165,30 +159,43 @@ function getYearMarkingIndex(allYearMarkings, year) {
  * Goes through allYearMarkings and sums up the width until maxMarkingIndex
  */
 function getTotalYearPosition(allYearMarkings, maxMarkingIndex) {
-  let totalBookPosition = 0;
+  let totalElementPosition = 0;
   for (let i = 0; i < maxMarkingIndex; i++) {
-    totalBookPosition += allYearMarkings[i][1];
+    totalElementPosition += allYearMarkings[i][1];
   }
 
-  return totalBookPosition;
+  return totalElementPosition;
 }
 /**
- * getBookPeriodFromYear
+ * getElementPeriodStartYear
  * @param {*} periods
  * @param {*} elementYear
  * @returns number
  *
  * Returns the start year of the period elementYear belongs to.
  */
-function getBookPeriodFromYear(periods, elementYear) {
+function getElementPeriodStartYear(periods, elementYear) {
   for (let i = periods.length - 1; i >= 0; i--) {
     if (elementYear >= parseInt(periods[i].from)) {
       return periods[i].from;
     }
   }
-  console.error(
-    "helpers.getBookPeriodFromYear: no year found - elementYear = ",
-    elementYear,
-  );
+  return null;
+}
+
+/**
+ * getElementPeriod
+ * @param {*} periods
+ * @param {*} elementYear
+ * @returns period object or null
+ *
+ * Returns the period object for the period elementYear belongs to
+ */
+function getElementPeriod(periods, elementYear) {
+  for (let i = periods.length - 1; i >= 0; i--) {
+    if (elementYear >= parseInt(periods[i].from)) {
+      return periods[i];
+    }
+  }
   return null;
 }
