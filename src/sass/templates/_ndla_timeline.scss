@@ -1,0 +1,741 @@
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;0,900;1,400;1,600;1,700;1,900&display=swap");
+
+//////////////////////////////////////////////
+/// VARIABLES
+//////////////////////////////////////////////
+
+$restrainedWidth: $base-line-height * 24;
+$topBarHeight: $base-line-height * 2;
+$timelineHeight: 60rem;
+$circleEraHeight: 30rem;
+$introPageWidth: 40rem;
+
+%restrained {
+  max-width: $restrainedWidth;
+  margin: 0 auto;
+  padding: 0 ($base-line-height * 1);
+
+  @include breakpoint($large) {
+    padding: 0 ($base-line-height * 1.5);
+  }
+}
+
+/// GLOBAL
+
+* {
+  box-sizing: border-box;
+}
+
+body,
+html {
+  font-family: "Source Sans Pro", sans-serif;
+  margin: 0;
+  // overflow-x: hidden; //* DEBUG
+  width: 100%;
+  height: 100%;
+}
+
+html,
+body,
+#app,
+#vue-app,
+.lo_globalContainer,
+.lo_sectionList-wrapper {
+  height: 100%;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
+
+button {
+  z-index: 1 {
+
+  }
+
+  transition: 0.2s all;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+a {
+  color: $main-color;
+}
+
+/// TYPOGRAPHY
+
+h3 {
+  @include breakpoint($medium) {
+    margin-top: $base-line-height * 2;
+  }
+}
+
+blockquote {
+  margin: $base-line-height 0;
+  border-left: 4px solid #e6e6e6;
+  padding-left: $base-line-height;
+}
+
+/// LAYOUT
+
+.lo_globalContainer {
+  position: relative;
+  width: 100%;
+  height: $timelineHeight;
+  height: 100%;
+}
+
+.lo_restrainedContainer {
+  @extend %restrained;
+}
+
+/// TOPBAR
+
+.lo_topBar {
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0px;
+  z-index: 2;
+}
+
+.lo_topBar_header {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: $topBarHeight;
+  background: $light-grey;
+  // background: rgba(0, 0, 0, 0.5);
+  font-weight: 900;
+  font-size: 0.9rem;
+  color: $main-color;
+  text-transform: uppercase;
+  padding: 0 ($base-line-height / 4);
+  position: fixed;
+  top: 0px;
+}
+
+.lo_topBar_wrapper {
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 200px;
+  overflow: hidden;
+}
+.lo_topBar_timeline {
+  // position: absolute;
+  position: sticky;
+  top: $topBarHeight;
+
+  // ul {
+  display: flex;
+  flex-direction: row;
+  // position: relative;
+  // height: $timelineHeight;
+  width: 100%;
+  padding: 0;
+
+  margin: 0;
+  // }
+
+  pointer-events: none;
+  z-index: 1000; // * To put it above other elements on the timeline
+  // top: $topBarHeight;
+  // top: 0;
+  //left: $introPageWidth;
+}
+
+.lo_topBar_timeline::before {
+  content: "";
+  // width: 8.75rem;
+  // width: 1000; //! TODO commented out, set in template // ($base-line-height * 2) + 1rem;
+  background: white;
+  // left: -8.75rem;
+  left: ($base-line-height * 2 * -1) - 1rem;
+  height: 2.5rem;
+  position: absolute;
+  // left: -$introPageWidth;
+
+  @include breakpoint($medium) {
+    // width: 1000px; //! TODO commented out, set in template// ($base-line-height * 5) + 1rem;
+    left: ($base-line-height * 5 * -1) - 1rem;
+  }
+}
+
+.lo_sectionList {
+  position: relative;
+  top: $base-line-height * 1.8;
+  margin: 0;
+  display: flex;
+  flex-direction: row;
+}
+
+.lo_sectionEra {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.lo_sectionsIntroPage {
+  position: relative;
+  display: flex;
+  flex-shrink: 0;
+  width: 110vw;
+  padding: $base-line-height 0 $base-line-height $base-line-height;
+
+  @include breakpoint($medium) {
+    width: $introPageWidth;
+  }
+}
+
+/// PART ON THE LEFT OF THE TIMELINE > INSTRUCTIONS
+
+.startInstructions h1 {
+  line-height: 110%;
+  color: $dark-grey;
+  margin-top: $base-line-height;
+}
+
+.logoNDLA {
+  max-width: $base-line-height * 3;
+
+  fill: #20588f;
+
+  margin-top: $base-line-height;
+}
+
+.startTimeline {
+  position: relative;
+  top: 1.1rem;
+  display: block;
+  flex-shrink: 0;
+  background: tint($main-color, 90%);
+  width: $base-line-height * 2;
+  height: 100%;
+  border-top-left-radius: 50rem;
+  border-bottom-left-radius: 50rem;
+  margin-left: $base-line-height;
+  box-shadow: (-6px) 0px 6px 0px rgba(black, 0.3);
+
+  @include breakpoint($medium) {
+    width: $base-line-height * 5;
+    margin-left: $base-line-height * 3;
+  }
+}
+
+.btn_menu,
+.btn_close,
+.btn_back {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: $base-line-height * 1.5;
+  height: $base-line-height * 1.5;
+  background: none;
+  border-radius: 4px;
+  border: 2px solid transparent;
+}
+
+.btn_back svg {
+  fill: white;
+}
+
+.btn_menu:hover,
+.btn_close:hover,
+.btn_back:hover {
+  background: white;
+  border-color: $main-color;
+}
+
+.btn_menu:hover svg,
+.btn_close:hover svg,
+.btn_back:hover svg {
+  fill: $main-color;
+}
+
+.header_eraName {
+  margin-left: $base-line-height / 2;
+}
+
+// TIMESLOT
+
+.timeSlot {
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-weight: bold;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.timeSlot_year {
+  padding: 0.1rem 0 0.5rem 0;
+  background: white;
+  width: 100%;
+  text-align: left;
+  font-size: 0.9rem;
+  transform: translateX(-1rem);
+  box-shadow: 12px 4px 0px 0px $main-color;
+}
+
+.timeSlot_dot {
+  position: relative;
+  transform: translate(-40%, -40%);
+  width: $base-line-height / 2;
+  height: $base-line-height / 2;
+  background: $main-color;
+  border-radius: 50%;
+}
+
+.timeSlot_line {
+  position: relative;
+  position: absolute;
+  top: -0.3rem;
+  top: 3rem;
+  width: 2px;
+  height: 46rem;
+  height: 37rem; // ! TODO: Problem child. Hard coded, should be dynamic
+  background: rgba(white, 0.3);
+}
+
+// SECTIONS/ERAS
+
+.sectionList {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  background: $main-color;
+}
+
+.sectionList_item {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+}
+
+.sectionList .sectionList_item:nth-child(odd) .lo_sectionEra {
+  background: tint($main-color, 90%);
+}
+
+.sectionList .sectionList_item:nth-child(even) .lo_sectionEra {
+  background: tint($main-color, 80%);
+}
+
+/// CIRCLE ERA
+
+.lo_circleEra {
+  margin-top: 1.5rem;
+  height: $circleEraHeight;
+}
+
+.circleEra {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: $base-line-height * 12;
+  height: $base-line-height * 12;
+  margin: 3rem auto;
+}
+
+.circleEra_content {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  align-items: center;
+  top: -4 * $base-line-height;
+  padding: 0 ($base-line-height / 2);
+  text-align: center;
+  background: white;
+  border-radius: $base-line-height / 8;
+  max-width: $base-line-height * 10;
+}
+
+.circleEra_title {
+  margin: 0;
+  position: relative;
+  top: -$base-line-height / 4;
+}
+
+.circleEra_date {
+  font-weight: bold;
+  background: $main-color;
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: white;
+  line-height: 100%;
+  padding: $base-line-height / 8;
+  position: relative;
+  top: -$base-line-height / 2;
+}
+
+.btnEra {
+  background: white;
+  border: 2px solid $main-color;
+  font-weight: bold;
+  color: $main-color;
+  line-height: 100%;
+  border-radius: $base-line-height * 4;
+  padding: ($base-line-height / 3) ($base-line-height / 2)
+    ($base-line-height / 2.5) ($base-line-height / 2);
+  margin-bottom: $base-line-height / 2;
+}
+
+.btnEra:hover {
+  background: $main-color;
+  color: white;
+  border-color: $main-color;
+}
+
+// BOOKLIST
+
+.bookList {
+  border-bottom: 2px dashed white;
+  height: $circleEraHeight;
+}
+
+.bookList li {
+  position: absolute;
+}
+
+.btnBook {
+  position: relative;
+  display: flex;
+  align-items: center;
+  background: white;
+  border-radius: 5rem;
+  border: 2px solid transparent;
+  padding: ($base-line-height / 5) $base-line-height/2;
+  box-shadow: 2px 2px 0px 0px $secondary-color;
+  text-align: left;
+  line-height: 100%;
+}
+
+.btnBook:hover {
+  box-shadow: 5px 5px 0px 0px $main-color;
+  border-color: $main-color;
+}
+
+.btnBook_infos {
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.btnBook_title {
+  font-weight: 600;
+}
+
+.btnBook_author {
+  font-size: 13px;
+}
+
+.btnBook_icon {
+  padding-right: 0.5rem;
+}
+
+.btnBook_icon svg {
+  fill: $main-color;
+}
+
+.bookList li:nth-child(odd) .btnBook .btnBook_icon svg {
+  fill: $third-color;
+}
+
+.bookList li:nth-child(odd) .btnBook {
+  box-shadow: 2px 2px 0px 0px $third-color;
+}
+
+.bookList li:nth-child(odd) .btnBook:hover {
+  box-shadow: 5px 5px 0px 0px $third-color;
+  border-color: $third-color;
+}
+
+// AUTHOR LIST
+
+.authorsList,
+.bookList {
+  position: relative;
+  top: -$circleEraHeight;
+  list-style: none;
+
+  margin: 0 {
+
+  }
+
+  padding: 0;
+}
+
+.authorsList {
+  margin-top: $base-line-height; // * 2;
+}
+
+.authorsList li {
+  position: relative;
+}
+
+.btnAuthor {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: white;
+  text-align: left;
+  border-radius: 2rem;
+  border: 3px solid white;
+  font-size: 14px;
+  padding: ($base-line-height / 16) ($base-line-height / 4)
+    ($base-line-height / 16) ($base-line-height / 2);
+  box-shadow: 1px 1px 0px 0px $main-color;
+  line-height: initial;
+}
+
+.btnAuthor:hover {
+  border: 3px solid $main-color;
+  cursor: pointer;
+}
+
+.btnAuthor-noDescription {
+  background: $light-grey;
+  background: none;
+  box-shadow: none;
+  pointer-events: none;
+}
+
+.separatorAuthor {
+  width: 9rem;
+  padding-left: 1rem;
+  position: absolute;
+  top: $circleEraHeight;
+  transform: translate(0%, -50%);
+}
+
+/// PAGES
+
+.lo_fullOverlay {
+  position: fixed;
+  display: block;
+  overflow-y: scroll;
+  background: white;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+
+  //z-index: 200
+}
+
+//////////////////////////////////////////////////////////////
+/// POPUP > AUTHOR
+//////////////////////////////////////////////////////////////
+
+.lo_fullOverlay_popup {
+  position: fixed;
+  // display: none;
+  overflow-y: scroll;
+  background: rgba($middle-grey, 0.85);
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 1100;
+}
+
+.lo_authorPopup {
+  max-width: $base-line-height * 22;
+  margin: 0 auto;
+  background: white;
+  border-radius: $base-line-height / 8;
+  box-shadow: 4px 4px 0px 0px $main-color;
+  // temporary - animate with gsap later
+  transform: translate(0px, 0px);
+
+  @include breakpoint($large) {
+    margin-top: $base-line-height * 3;
+  }
+}
+
+.btn_close {
+  position: absolute;
+  right: 0;
+}
+
+.authorPopupContent {
+  position: relative;
+  padding: $base-line-height;
+
+  @include breakpoint($large) {
+    padding: $base-line-height ($base-line-height * 2);
+  }
+}
+
+.authorPopupContent h2 {
+  display: block;
+  margin: 0;
+}
+
+.authorPopupContent h2::after {
+  content: "";
+  display: block;
+  background: $secondary-color;
+  width: $base-line-height * 4;
+  height: $base-line-height / 8;
+  margin-top: $base-line-height / 2;
+}
+
+//////////////////////////////////////////////////////////////
+/// PAGES > BOOKS/ERAS
+//////////////////////////////////////////////////////////////
+
+.lo_anchorList {
+  ul {
+    display: flex;
+    list-style: none;
+    flex-wrap: wrap;
+    margin: 0;
+
+    padding: 0 {
+
+    }
+
+    li {
+      margin: 0 ($base-line-height / 4) ($base-line-height / 4) 0;
+    }
+
+    a {
+      display: block;
+      padding: ($base-line-height / 8) ($base-line-height / 2);
+      border-radius: $base-line-height;
+      color: $dark-grey;
+      text-decoration: none;
+      background: $light-grey;
+    }
+  }
+}
+
+.lo_pageTopBar {
+  background: $main-color;
+  color: white;
+  position: sticky;
+  top: 0;
+  padding: 0 ($base-line-height / 4);
+  height: $topBarHeight;
+  display: flex;
+  align-items: center;
+  z-index: 1;
+  color: white;
+  font-size: 0.9rem;
+}
+
+.pageTopBar_firstItem {
+  text-transform: uppercase;
+  font-weight: bold;
+  margin: 0 ($base-line-height / 2);
+}
+
+.page_banner {
+  position: relative;
+  overflow: hidden;
+  height: 30vh;
+  background: $secondary-color;
+
+  @include breakpoint($large) {
+    height: 33vh;
+  }
+}
+
+.page_banner img {
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0;
+
+  @include breakpoint($large) {
+    transform: translate(-50%, -25%);
+  }
+}
+
+.page_banner_title {
+  @extend %restrained;
+
+  position: relative;
+  background: white;
+  padding-top: $base-line-height / 8;
+
+  @include breakpoint($large) {
+    bottom: $base-line-height * 4;
+  }
+}
+
+.page_content {
+  @extend %restrained;
+
+  position: relative;
+  bottom: $base-line-height * 3;
+  background: white;
+}
+
+.page h3::after {
+  content: "";
+  display: block;
+  background: $secondary-color;
+  width: $base-line-height * 4;
+  height: $base-line-height / 5;
+  margin-top: $base-line-height / 2;
+}
+
+/// PAGE > BOOK SPECIFIC
+
+.page_content_bookAuthor {
+  border-bottom: 1px dashed $middle-grey;
+  padding-top: 0;
+  padding-bottom: $base-line-height;
+}
+
+.page_content_bookName {
+  background: white;
+  padding-top: $base-line-height;
+  margin-bottom: 0;
+}
+
+.page_content_author {
+  display: flex;
+  font-weight: bold;
+}
+
+.page_content_author svg {
+  margin-right: $base-line-height / 4;
+  fill: $main-color;
+}
+
+.page_content img {
+  width: auto;
+  max-width: 100%;
+
+  &.left-image {
+    padding-right: 25px;
+  }
+}
+
+/// PAGE > ERA SPECIFIC
+
+.page_circleEra {
+  @extend %restrained;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  margin-top: -$base-line-height * 8;
+
+  @include breakpoint($large) {
+    margin-top: -$base-line-height * 10;
+  }
+}

@@ -1,0 +1,155 @@
+///////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////
+////                       _             _   _                 //// 
+////                      (_)           | | (_)                ////
+////     _ __   __ ___   ___  __ _  __ _| |_ _  ___  _ __      ////
+////    | '_ \ / _` \ \ / / |/ _` |/ _` | __| |/ _ \| '_ \     ////
+////    | | | | (_| |\ V /| | (_| | (_| | |_| | (_) | | | |    ////
+////    |_| |_|\__,_| \_/ |_|\__, |\__,_|\__|_|\___/|_| |_|    ////
+////                          __/ |                            ////
+////                         |___/                             ////
+////                                                           ////
+////                     _navigation.scss                      ////
+////                                                           ////
+///////////////////////////////////////////////////////////////////     
+///////////////////////////////////////////////////////////////////
+
+
+/////////////
+// Helpers //
+/////////////
+
+%paddingSide{
+	padding-left: $base-line-height/2;
+	padding-right: $base-line-height/2;
+}
+
+
+//////////////
+// sideMenu //
+//////////////
+
+aside{
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+
+.sideMenu{
+	padding: 0;
+	height: 100%;
+	background: $white;
+  	flex: 1;
+}
+
+.closeBtContainer{
+	text-align: right;
+	padding: $base-line-height/2;
+}
+
+.sideMenu_title{
+	@extend %paddingSide;
+	@include type-setting(1);
+	margin:-$base-line-height 0 $base-line-height/2 0;
+	font-family: $heading-font;
+	font-weight: $heading-fontWeight;
+	color: $main-color;
+
+	@include breakpoint($large){
+		@include type-setting(4);
+		margin:-$base-line-height/4 0 $base-line-height 0;
+		padding: $base-line-height/6 $base-line-height/2;
+  	}
+}
+
+.navList{
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	text-indent: 0;
+}
+
+.sideMenu_module_title{
+	width: 100%;
+	//box-sizing: border-box;
+	padding-left:  $base-line-height/8;
+	height: $base-line-height*2.5;
+	background: $menu-moduleTitle-backgroundColor;
+	color: $menu-moduleTitle-fontColor;
+	border: 2px solid $white;
+	border-bottom-color: tint($main-color,80%);
+	@include breakpoint($large){
+		padding-left: $base-line-height/2;
+  	}
+}
+
+.sideMenu_module_title:hover{
+	border-color: $hover-borderColor;
+	background: $menu-accentColor;
+	background: tint($menu-moduleTitle-backgroundColor, 35%);
+}
+
+
+.sideMenu_module_title:focus,
+.sideMenu_module_title:focus:hover{
+	@extend %focus;
+}
+
+.sideMenu_module_title:focus .sideMenu_module_title_completion svg{
+	fill: $focus-textColor;
+}
+
+.sideMenu_module_title_completion{
+	width: $base-line-height;
+}
+
+.sideMenu_module_title_completion svg{
+	fill: $menu-moduleTitle-extraColor;
+}
+
+.sideMenu_module_title_text{
+	@include type-setting(-1);
+	text-transform: uppercase;
+	text-align: left;
+	font-weight: 900;
+	font-family: $main-font;
+	flex-grow: 1;
+	@include breakpoint($large){
+		@include type-setting(3);
+		font-size: 1rem;
+  	}
+}
+
+.sideMenu_module_title_duration{
+	font-size: 0.9rem;
+	font-weight: bold;
+	color: $menu-button-durationTextColor;
+}
+
+.sideMenu_module_title:focus .sideMenu_module_title_duration{
+	color: $focus-textColor;
+}
+
+.sideMenu_module_title:focus .sideMenu_module_title_iconOpenClose{
+	fill: currentColor;
+	stroke: currentColor;
+}
+
+//Arrow open/close right
+
+.sideMenu_module_title_iconOpenClose{
+	margin-right: $base-line-height/4;
+	width: $base-line-height*1.5;
+  	height: $base-line-height*1.5;
+  	fill:currentColor;
+  	stroke: currentColor;
+  	margin-left: $base-line-height/8;
+  	transition: transform .5s ease-in-out;
+  	@include breakpoint($large){
+		margin-left: $base-line-height/2;
+  	}
+}
+
+.rotate180-cw{
+  	transform: rotate(180deg);
+}

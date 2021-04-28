@@ -1,0 +1,6 @@
+
+// Fix bug Plyr control bar on firefox
+
+.plyr__volume input[type="range"]{
+    min-width: 0;
+  }

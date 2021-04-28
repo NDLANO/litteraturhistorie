@@ -1,0 +1,731 @@
+////////////////////////////////////////////////////
+////////////////////////////////////////////////////
+////     _           _   _                      ////
+////    | |         | | | |                     ////
+////    | |__  _   _| |_| |_ ___  _ __  ___     ////
+////    | '_ \| | | | __| __/ _ \| '_ \/ __|    ////
+////    | |_) | |_| | |_| || (_) | | | \__ \    ////
+////    |_.__/ \__,_|\__|\__\___/|_| |_|___/    ////
+////                                            ////
+////               _buttons.scss                ////
+////                                            ////
+////////////////////////////////////////////////////     
+////////////////////////////////////////////////////
+
+
+button:hover{
+  cursor: pointer;
+}
+
+
+
+////////////////
+// CONTAINERS //
+////////////////
+
+
+// General flex container for buttons
+
+.btn-flexContainer,
+.btn-flexContainer-prevNext{
+  display: flex;
+  align-items: center;
+}
+
+
+// Previous and Next container
+
+.lo_btnPrevNext{
+  position: fixed;
+  background: tint($main-color,50%);
+  right: 0;
+  left: 0;
+  height: $base-line-height*2;
+  bottom: 0;
+  z-index: 20;
+}
+
+.btn-flexContainer-prevNext{
+  justify-content: center;
+}
+
+
+
+/////////////
+// Helpers //
+/////////////
+
+
+%buttonCore{
+  display: flex;
+  align-items: center;
+  min-width: $base-line-height*5;
+  line-height: $base-line-height/1.25;
+  border: none;
+  text-decoration: none;
+  color: $main-font-color;
+  transition: $button-hoverTransition;
+  @if $round-buttons == true {
+    border-radius: $round-buttons-radius;
+  }
+}
+
+%paddingSideNav{
+  padding: $base-line-height*0.5 $base-line-height/2;
+}
+
+
+///////////
+// HOVER //
+///////////
+
+%hover{
+  border-color: $hover-borderColor;
+  background: $hover-backgroundColor;
+}
+
+.btn-nav:hover,
+.btn-quiz:hover{
+  @extend %hover;
+}
+
+
+///////////
+// FOCUS //
+///////////
+
+%focus{
+  border-radius: 0;
+  background: $focus-backgroundColor;
+  outline:$base-line-height/8 solid $focus-borderColor;
+  color: $focus-textColor;
+  border-color: $focus-backgroundColor;
+  svg{
+    fill: $focus-textColor;
+    //stroke: $focus-textColor;
+  }
+}
+
+.btn-main:focus,
+.btn-nav:focus,
+.btn-close:focus,
+.btn-close:focus:hover,
+.btn-quiz:focus,
+.btn-menu:focus,
+.btn-help:focus,
+.btn-help:focus:hover,
+.btn-prev:focus,
+.btn-next:focus{
+  @extend %focus;
+}
+
+
+//////////////
+// DISABLED //
+//////////////
+
+.btn-main:disabled,
+.btn-nav:disabled,
+.btn-quiz:disabled{
+  pointer-events: none;
+}
+
+
+
+///////////////
+// SVG icons //
+///////////////
+
+svg{
+  pointer-events: none;
+}
+
+.svgIcon,
+.svgIconBig{
+  display: block;
+  align-self: center;
+  stroke-width: 0;
+  stroke: $button-iconColor;
+  fill: $button-iconColor;
+  flex-shrink: 0;
+}
+
+.svgIcon{
+  width: 1.25rem;
+  height: 1.25rem;
+  margin-right: $base-line-height/2;
+}
+
+.svgIconBig{
+  width: 2rem;
+  height: 2rem;
+  margin-right: $base-line-height/4;
+}
+
+
+//////////////////
+// Close button //
+//////////////////
+
+
+.btn-close{
+  background: none;
+  border: none;
+  box-sizing: border-box;
+  height: $base-line-height*2;
+  padding: $base-line-height/8;
+}
+
+.btn-close svg{
+    margin-right: 0;
+    width: $base-line-height*1.75;
+    height: $base-line-height*1.75;
+    fill: $main-color;
+    transition: transform .3s;
+}
+
+.btn-close:hover svg{
+  fill: tint($main-color, 20%);
+  transform: scale(1.2,1.2);
+}
+
+
+////////////////////
+// Default Button //
+////////////////////
+
+
+/// Main ///
+
+.btn-main{
+  @extend %buttonCore;
+  display: inline-block;
+  background: $button-bgColor;
+  color: $button-textColor;
+  padding: $base-line-height/2;
+  font-weight: bold;
+}
+
+.btn-main:hover{
+  background: $button-bgColor-hover;
+  color: $button-textColor-hover;
+  cursor: pointer;
+  box-shadow: $shadow-z1;
+}
+
+.btn-main:hover svg{
+  fill: $button-iconColor-hover;
+}
+
+.btn-main-active{
+  background: $button-bgColor-hover;
+  color: $button-textColor-hover;
+}
+
+.btn-main:disabled{
+  background: tint($button-bgColor, 50%);
+}
+
+.bt-main-hero{
+  padding: $base-line-height $base-line-height*1.5;
+  display: inline-flex;
+  box-shadow: $shadow-z2;
+}
+
+.bt-main-hero:hover{
+  box-shadow: $shadow-z3;
+}
+
+
+
+/////////////////
+// Help Button //
+/////////////////
+
+.btn-help{
+  display: flex;
+  align-items: center;
+  background: none;
+  border: none;
+  padding: $base-line-height/4;
+  margin: 0;
+  border-radius: $round-buttons-radius;
+  transition: all .3s;
+  margin-right: $base-line-height/2;
+}
+
+.btn-help svg{
+  width: $base-line-height;
+  height: $base-line-height;
+  fill: $header-helpButton-color;
+}
+
+.btn-help:hover{
+  background: $white;
+  transform: scale(1.35,1.35);
+}
+
+.btn-help:hover svg{
+  fill: $header-helpButton-hover-color;
+}
+
+
+
+/////////////////
+// Menu Button //
+/////////////////
+
+.btn-menu{
+  @extend %buttonCore;
+  background: tint($header-menuButton-bgColor, $header-menuButton-bgIntensity);
+  font-weight: bold;
+  text-transform: uppercase;
+  color: $header-menuButton-textColor;
+  padding: $base-line-height*0.5 $base-line-height*0.25 $base-line-height*0.55 $base-line-height*0.5;
+  min-width: 0rem;
+  justify-content: center;
+  @include breakpoint($large){
+    padding: $base-line-height*0.25 $base-line-height*0.5 $base-line-height*0.25 $base-line-height*0.5 ;
+  }
+}
+
+.btn-menu svg{
+  width: $base-line-height;
+  height: $base-line-height;
+  stroke-width: 1px;
+  margin-right: $base-line-height/4;
+}
+
+.btn-menu_text{
+  display: none;
+  @include breakpoint($large){
+    display: block;
+  }
+}
+
+.btn-menu:hover{
+  color: $header-backgroundColor;
+  background: $header-menuButton-hover-bgColor;
+}
+
+.btn-menu:hover svg,
+.btn-menu:focus svg{
+  fill: $button-iconColor-hover;
+  stroke: $button-iconColor-hover;
+}
+
+
+
+////////////////
+// Nav Button //
+////////////////
+
+.btn-nav{
+  @extend %buttonCore;
+  width: 100%;
+  display: block;
+  text-align: left;
+  padding: $paddingSmall;
+  background: $white;
+  border-radius: 0;
+  position: relative;
+  border: 2px solid transparent;
+  border-bottom-color: $menu-button-borderColor ;
+
+  @include breakpoint($large){
+    padding: $base-line-height/3 $base-line-height/2;
+  }
+}
+
+.btn-nav_completion{
+  width: $base-line-height;
+}
+
+.btn-nav_completion svg{
+  fill: $menu-button-accentColor;
+}
+
+.btn-nav_title{
+  flex-grow: 1;
+}
+
+.btn-nav_duration{
+  @include type-setting(-1);
+  color: $menu-button-durationTextColor;
+}
+
+// active
+
+.btn-nav-active{
+  background: $menu-button-background-active;
+  &:before{
+    content: "";
+    position: absolute;
+    left: -2px;
+    top: 0;
+    height: 100%;
+    width: $base-line-height/6;
+    background: $secondary-color;
+  }
+}
+
+// disabled
+
+.btn-nav:disabled .btn-nav_completion svg{
+  fill: tint($main-color, 70%);
+}
+
+
+// focus
+
+.btn-nav:focus .btn-nav_duration{
+  color: $focus-textColor;
+}
+
+.btn-nav:focus .btn-nav_completion svg{
+  fill: $focus-textColor;
+}
+
+// focus + hover
+
+.btn-nav:focus:hover,
+.btn-nav:focus:hover .btn-nav_duration{
+  color: $focus-textColor;
+  background: $focus-backgroundColor;
+}
+
+.btn-nav:focus:hover .btn-nav_completion svg{
+  fill: $focus-textColor;
+}
+
+
+
+
+/////////////////////////////
+// Previous & Next buttons //
+/////////////////////////////
+
+
+// Default
+
+.btn-prev,
+.btn-next {
+  width: 50%;
+  background: $button-prevNext-bgColor;
+  position: absolute;
+  border: none;
+  box-shadow: $shadow-z2;
+  text-decoration: none;
+  transition: $button-hoverTransition;
+}
+
+.btn-prev{
+  left:0;
+}
+
+.btn-next{
+  right:0;
+  border-left: 1px solid tint($main-color,90%);
+}
+
+.btn-prevNext_text{
+  @include type-setting(-1);
+  font-weight: bold;
+  text-transform: uppercase;
+  color: $button-prevNext-textColor;
+}
+
+.btn-prev svg,
+.btn-next svg{
+  align-self: center;
+  width: $base-line-height*2;
+  height: $base-line-height*2;
+  fill: $button-prevNext-iconColor;
+}
+
+// Hover
+
+.btn-prev:hover,
+.btn-next:hover{
+  box-shadow: $shadow-z3;
+  background: $button-bgColor-hover;
+  border-color: $button-bgColor-hover;
+}
+
+.btn-prev:hover svg,
+.btn-next:hover svg{
+  fill: $button-iconColor-hover;
+}
+
+.btn-prev:hover svg{
+  animation: shakeLeft 0.4s infinite ;
+  animation-iteration-count: 1;
+}
+
+.btn-next:hover svg{
+  animation: shakeRight 0.4s infinite ;
+  animation-iteration-count: 1;
+}
+
+.btn-next:hover .btn-prevNext_text,
+.btn-prev:hover .btn-prevNext_text,
+.btn-next:focus .btn-prevNext_text,
+.btn-prev:focus .btn-prevNext_text{
+  color: $button-textColor-hover;
+}
+
+
+// Visual highlight inactivity
+
+.btn-next-highlight{
+  animation: highlightButton .8s;
+  animation-timing-function: ease-in-out;
+  animation-iteration-count: 1;
+  animation-fill-mode: forwards;
+}
+
+.btn-next-highlight .btn-prevNext_text,
+.btn-next-highlight svg{
+  color: $button-textColor-hover;
+  fill: $button-iconColor-hover;
+}
+
+@keyframes highlightButton{
+  from {background-color: $button-bgColor;}
+  to {background-color: $button-bgColor-hover;}
+}
+
+
+// Animation SVG arrow
+
+@keyframes shakeLeft {
+  from, to {
+    transform: translate3d(0, 0, 0);
+  }
+  50%{
+    transform: translate3d(-6px, 0, 0);
+  }
+}
+@keyframes shakeRight {
+  from, to {
+    transform: translate3d(0, 0, 0);
+  }
+  50%{
+    transform: translate3d(6px, 0, 0);
+  }
+}
+
+
+
+/////////////////
+// Quiz Button //
+/////////////////
+
+.btn-quiz{
+  background: $white;
+  text-align: left;
+  max-width: $base-line-height*20;
+  width: 100%;
+  padding: $base-line-height/2 - $base-line-height/8;
+  box-shadow: $shadow-z1-2;
+  border: 2px solid transparent;
+  transition: $button-hoverTransition;
+}
+
+.btn-quiz_text{
+  flex-grow: 1;
+}
+
+.btn-quiz svg{
+  fill: $main-color;
+  flex-shrink: 0;
+}
+
+.btn-quiz:focus:hover{
+  background: $focus-backgroundColor;
+}
+
+.btn-quiz-correct,
+.btn-quiz-incorrect{
+  pointer-events: none;
+  border-style: solid;
+  border-width: 2px;
+}
+
+.btn-quiz-correct{
+  border-color: $quiz-correct;
+}
+
+.btn-quiz-correct .btn-quiz_feedbackIcon{
+  fill: $quiz-correct;
+  stroke-width: 3;
+  stroke: $quiz-correct;
+}
+
+.btn-quiz-incorrect{
+  border-color: $quiz-incorrect;
+}
+
+.btn-quiz-incorrect .btn-quiz_feedbackIcon{
+  fill: $quiz-incorrect;
+  stroke-width: 3;
+  stroke: $quiz-incorrect;
+}
+
+.btn-quiz_feedbackIcon{
+  margin-right: 0;
+  margin-left: $base-line-height/2;
+}
+
+
+//////////////////////////
+// Toggle switch Button //
+//////////////////////////
+
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+  margin-left: $base-line-height/2; 
+}
+
+.switch input { 
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  //-webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  //-webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: $secondary-color;
+}
+
+input:focus + .slider {
+  outline:$base-line-height/8 solid $focus-borderColor;
+  color: $focus-textColor;
+  border-color: $focus-backgroundColor;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+
+
+
+/*
+
+////////////////
+// Quiz image //
+////////////////
+ 
+
+.btn-quiz_image{
+  margin: 0;
+  padding: 0;
+  border: none;
+  box-shadow: $shadow-z1;
+  position: relative;
+  @if $round-buttons == true {
+    border-radius: $round-buttons-radius;
+  }
+}
+
+.btn-quiz_image:hover{
+  @extend %hover;
+  box-shadow: $shadow-z2;
+}
+
+.btn-quiz_image:focus{
+  @extend %focus;
+}
+
+.btn-quiz_image:focus img{
+  border-radius: 0;
+}
+
+.btn-quiz_image img{
+  width: 100%;
+  @if $round-buttons == true {
+    border-radius: $round-buttons-radius;
+  }
+}
+
+.btn-quiz_image_svg{
+  position: absolute;
+  top: $base-line-height/8;
+  left: $base-line-height/8;
+  padding: $base-line-height/8;
+  width: $base-line-height;
+  height: $base-line-height;
+  pointer-events: none;
+  background: rgba(white, .9);
+  @if $round-buttons == true {
+    border-radius: $round-buttons-radius/2;
+  }
+}
+.btn-quiz_image:hover .btn-quiz_image_svg{
+  fill: $secondary-color;
+}
+
+
+// Quiz image > correct/incorrect feedback
+
+
+.btn-quiz_image-correct,
+.btn-quiz_image-incorrect{
+  pointer-events: none;
+}
+.btn-quiz_image-correct img,
+.btn-quiz_image-incorrect img{
+  border-radius: 0;
+}
+.btn-quiz_image-correct{
+  outline: $base-line-height/8 solid $quiz-correct;
+}
+.btn-quiz_image-incorrect{
+  outline: $base-line-height/8 solid $quiz-incorrect;
+}
+.btn-quiz_image-correct svg{
+  fill: $quiz-correct;
+}
+.btn-quiz_image-incorrect svg{
+  fill: $quiz-incorrect;
+}
+
+*/

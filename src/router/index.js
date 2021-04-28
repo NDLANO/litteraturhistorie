@@ -2,7 +2,7 @@ import { createRouter, createWebHashHistory } from "vue-router";
 import Books from "./books";
 import Periods from "./periods";
 
-import TimeLine from "@/views/TimeLine.vue";
+import Timeline from "@/views/Timeline.vue";
 
 const routes = [
   // * If no language code param is added, reroute to bokmål (/nb)
@@ -15,12 +15,12 @@ const routes = [
   {
     path: "/nb/",
     name: "HomeNB",
-    component: TimeLine,
+    component: Timeline,
   },
   {
     path: "/nn/",
     name: "HomeNN",
-    component: TimeLine,
+    component: Timeline,
   },
   ...Books,
   ...Periods,

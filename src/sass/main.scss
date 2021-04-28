@@ -1,0 +1,80 @@
+/////////////////////////////////////////
+/////////////////////////////////////////
+////                     _           ////
+////                    (_)          ////
+////     _ __ ___   __ _ _ _ __      ////
+////    | '_ ` _ \ / _` | | '_ \     ////
+////    | | | | | | (_| | | | | |    ////
+////    |_| |_| |_|\__,_|_|_| |_|    ////
+////                                 ////
+////             main.scss           ////
+////                                 ////
+/////////////////////////////////////////
+/////////////////////////////////////////
+
+//////////////////////////////
+//   HTML5 BOILERPLATE      //
+//////////////////////////////
+// > Normalization          //
+// > Browser specific fixes //
+//////////////////////////////
+
+@import "vendor/normalize";
+@import "vendor/_html5-boilerplate";
+
+////////////////////////////////
+//   SASS HELPERS             //
+////////////////////////////////
+// > breakpoint for cuepoints //
+// > bourbon for color        //
+////////////////////////////////
+
+@import "vendor/breakpoint/breakpoint";
+@import "vendor/bourbon/bourbon";
+
+///////////////////////
+//   TEMPLATES       //
+///////////////////////
+// > core variables ///
+///////////////////////
+
+@import "templates/ndla";
+@import "templates/ndla_timeline";
+
+//////////////////////////////
+// Base
+//////////////////////////////
+
+@import "core/typography";
+
+//////////////////////////////
+// Layout
+//////////////////////////////
+
+//@import "core/layout"
+//@import "components/header"
+
+//////////////////////////////
+// Components
+//////////////////////////////
+
+//@import "components/buttons";
+//@import "components/navigation";
+//@import "components/modal";
+//@import "components/quiz";
+//@import "components/linkList";
+//@import "components/video";
+//@import "components/loader";
+
+//////////////////////////////
+// Vendor
+//////////////////////////////
+
+// Plyr (https://github.com/sampotts/plyr)
+@import "vendor/plyr/plyr";
+
+//////////////////////////////
+// Print overrides
+//////////////////////////////
+
+//@import "core/print"
