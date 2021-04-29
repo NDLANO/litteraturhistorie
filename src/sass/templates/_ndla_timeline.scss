@@ -213,7 +213,7 @@ blockquote {
   flex-shrink: 0;
   background: tint($main-color, 90%);
   width: $base-line-height * 2;
-  height: 100%;
+  height: calc(100% + 10px);
   border-top-left-radius: 50rem;
   border-bottom-left-radius: 50rem;
   margin-left: $base-line-height;
