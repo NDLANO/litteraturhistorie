@@ -99,7 +99,7 @@ blockquote {
   position: sticky;
   position: -webkit-sticky;
   top: 0px;
-  z-index: 2;
+  z-index: 100;
 }
 
 .lo_topBar_header {
@@ -146,6 +146,15 @@ blockquote {
   // top: $topBarHeight;
   // top: 0;
   //left: $introPageWidth;
+}
+.lo_topBar_timeline.lineslots {
+  position: absolute;
+  top: $topBarHeight;
+  z-index: initial;
+
+  .timeslot {
+    list-style-type: none;
+  }
 }
 
 .lo_topBar_timeline::before {
@@ -296,12 +305,12 @@ blockquote {
 .timeSlot_line {
   position: relative;
   position: absolute;
-  top: -0.3rem;
-  top: 3rem;
   width: 2px;
-  height: 46rem;
-  height: 37rem; // ! TODO: Problem child. Hard coded, should be dynamic
+  top: 0;
+  height: 96rem;
   background: rgba(white, 0.3);
+  // background: red;
+  overflow: hidden;
 }
 
 // SECTIONS/ERAS
@@ -336,6 +345,7 @@ blockquote {
 .lo_circleEra {
   margin-top: 1.5rem;
   height: $circleEraHeight;
+  z-index: 10;
 }
 
 .circleEra {
@@ -418,6 +428,7 @@ blockquote {
   box-shadow: 2px 2px 0px 0px $secondary-color;
   text-align: left;
   line-height: 100%;
+  z-index: 20;
 }
 
 .btnBook:hover {

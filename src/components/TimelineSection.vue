@@ -38,6 +38,14 @@ li.sectionList_item
           :gotText="author.nnText !== ''"
           @click="onAuthorClick(author)"
         )
+    ul.lo_topBar_timeline.lineslots
+      li.timeslot(
+        v-for="year in yearMarkings"
+        :key="year"
+        :style="{ width: year[1] * sectionWidthMultiplier + 'px'}"
+      )
+        .timeSlot_line
+
       //- li
       //-   ButtonAuthor(
       //-     name="Peter Christen Asbjørnsen 1",
