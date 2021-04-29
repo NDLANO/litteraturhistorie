@@ -17,8 +17,11 @@ li.sectionList_item
         .circleEra_content
           .circleEra_date {{ from }}-{{ to }}
           h2.circleEra_title {{ title }}
-          //- button.btnEra(@click="$router.push(periodPath)") Mer info                  
-          button.btnEra(@click="$router.push('/nb/periods/barokk')" @pointerdown="$router.push('/nb/periods/barokk')") Mer info                  
+          //button.btnEra(@click="$router.push(periodPath)") Mer info                  
+          button.btnEra(
+            @pointerdown="onPointerDown"
+            @pointerup="onEraPointerUp"
+          ) Mer info                  
     // * List of books
     ul.bookList
       li(v-for="book in periodBooks" :key="book.id")
@@ -36,8 +39,8 @@ li.sectionList_item
           :name="author.name"
           :style="getAuthorStyle(author)"
           :gotText="author.nnText !== ''"
-          @click="onAuthorClick(author)"
-          @pointerdown="onAuthorClick(author)"
+          @pointerdown="onPointerDown"
+          @pointerup="onAuthorPointerUp(author, $event)"
         )
     ul.lo_topBar_timeline.lineslots
       li.timeslot(
@@ -111,6 +114,8 @@ export default {
       periodBooks: null,
       periodAuthors: null,
       authorRowHeight: 45,
+      mouseX: 0,
+      mouseY: 0,
     };
   },
   inject: ["globalVars"],
@@ -133,6 +138,30 @@ export default {
     },
   },
   methods: {
+    onPointerDown(event) {
+      console.log("TimelineSection.onPointerDown: event = ", event);
+
+      this.mouseX = event.clientX;
+      this.mouseY = event.clientY;
+    },
+    onAuthorPointerUp(author, event) {
+      if (this.mouseX === event.clientX && this.mouseY === event.clientY) {
+        console.log(
+          "TimelineSection.onAuthorPointerUp: both x and y is the same",
+        );
+        this.onAuthorClick(author);
+      } else {
+        console.log("TimelineSection.onAuthorPointerUp: mouse has moved");
+      }
+    },
+    onEraPointerUp() {
+      if (this.mouseX === event.clientX && this.mouseY === event.clientY) {
+        console.log("TimelineSection.onEraPointerUp: both x and y is the same");
+        this.$router.push("/nb/periods/barokk");
+      } else {
+        console.log("TimelineSection.onEraPointerUp: mouse has moved");
+      }
+    },
     onAuthorClick(author) {
       this.$emit("authorClick", this.$event, author);
     },
