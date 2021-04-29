@@ -183,6 +183,7 @@ blockquote {
   display: flex;
   flex-shrink: 0;
   width: 110vw;
+  margin-bottom: 1.75rem;
   padding: $base-line-height 0 $base-line-height $base-line-height;
 
   @include breakpoint($medium) {
@@ -311,6 +312,8 @@ blockquote {
   padding: 0;
   margin: 0;
   background: $main-color;
+  margin-bottom: 1.75rem;
+  box-shadow: -6px 0px 6px 0px rgb(0 0 0 / 30%);
 }
 
 .sectionList_item {
