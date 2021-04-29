@@ -1,0 +1,101 @@
+// PRINT STYLES
+
+@media print {
+    body *{
+      display: block !important;
+    }
+    
+    .lo_sideNavigation,
+    .lo_fullOverlay,
+    .lo_fullOverlay *,
+    #templates,
+    #tp-map-templates,
+    .reflectionItem_listItem_tool_step2 svg{
+      display: none !important;
+    }
+    
+    
+      h1{
+        font-size: 3rem;
+        line-height: 4rem;
+        margin: 0;
+      }
+    
+      body,
+      html{
+        font-size: .75rem;
+        padding:  0;
+      }
+    
+    
+      header,
+      .lo_btnPrevNext,
+      .reflectionItem_interactive_characters,
+      .reflectionItem_footer,
+      .reflectionPrint,
+      .reflectionHeader p,
+      .reflectionHeader button{
+        display: none !important;
+      }
+    
+      section{
+        padding-bottom: $base-line-height;
+    
+      }
+    
+      .reflectionItem_listItem{
+        border: 1px dashed $secondary-color;
+        margin-bottom: $base-line-height/2;
+      }
+    
+      .reflectionItem_listItem_tool{
+        margin-bottom: 0;
+      }
+    
+      .reflectionItem_listItem_name{
+        font-size: 1.4rem;
+        margin: 0;
+      }
+    
+      .reflectionItem_listItem_tool_step1{
+        font-size: 1rem;
+      }
+    
+      .reflectionItem_listItem_tool_step3:before{
+        display:none;
+      }
+    
+      .reflectionItem_listItem_tool img{
+        width: 40%;
+      }
+    
+      .reflectionItem_container{
+        padding: $base-line-height/4;
+        page-break-before: always;
+      }
+    
+      .reflectionItem_container *{
+        display: block !important;
+      }
+    
+      .reflectionHeader{
+        text-align: center;
+      }
+    
+      .reflectionHeader .heroLogo{
+        margin: $base-line-height auto;
+        width: $base-line-height*8;
+        height: $base-line-height*8;
+      }
+    
+      .reflectionHeader .heroTitle{
+        font-size: 5rem;
+        margin: 0;
+        font-size: 5rem;
+      }
+    
+      .reflectionHeader h2{
+        font-size: 2.5rem;
+        margin-top: $base-line-height;
+      }
+    }

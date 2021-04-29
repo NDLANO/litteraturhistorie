@@ -1,0 +1,289 @@
+///////////////////////////////////////////////
+///////////////////////////////////////////////
+////     _                         _       ////
+////    | |                       | |      ////
+////    | | __ _ _   _  ___  _   _| |_     ////
+////    | |/ _` | | | |/ _ \| | | | __|    ////
+////    | | (_| | |_| | (_) | |_| | |_     ////
+////    |_|\__,_|\__, |\___/ \__,_|\__|    ////
+////              __/ |                    ////  
+////             |___/                     ////
+////                                       ////
+////            _layout.scss               ////
+////                                       ////
+///////////////////////////////////////////////     
+///////////////////////////////////////////////
+
+*{
+  box-sizing: border-box;
+}
+
+html{
+	background: $third-color;
+}
+
+body{
+	margin: 0;
+	background: $layout-color;
+	height: 100%;
+}
+
+img{
+	//image-rendering: -moz-crisp-edges;         /* Firefox */
+	//image-rendering:   -o-crisp-edges;         /* Opera */
+	image-rendering: -webkit-optimize-contrast;/* Webkit (non-standard naming) */
+	//image-rendering: crisp-edges;
+	//-ms-interpolation-mode: nearest-neighbor;  /* IE (non-standard property) */
+}
+
+.lo_fullOverlay{
+	display: none;
+	background: rgba($third-color, 1);
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	z-index: 5000;
+}
+
+.lo_sideNavigation{
+	display: none;
+	position: absolute;
+	top: 0;
+	right: 0;
+	z-index: 5001;
+	height: 100%;
+	width: 100%;
+	overflow-y: scroll;
+	box-shadow: $shadow-z3;
+
+	@include breakpoint($large){
+		width: $base-line-height*20;
+  	}
+}
+
+
+/////////////////////////////////
+// SMALL/RESTRAINED CONTAINERS // 
+/////////////////////////////////
+
+// Standard container
+
+.lo_containerSmall{
+	box-sizing: border-box;
+	padding: 0 $base-line-height/2;
+	margin: 0 auto;
+ 	max-width: $container-width;
+}
+
+
+/// Video Container
+
+.lo_containerSmall-video{
+	margin: 0 auto;
+	max-width: $videoSize_default;
+	
+	@include breakpoint($mediumx){
+		max-width: $videoSize_mediumx;
+  	}
+
+	@include breakpoint($xlarge){
+		max-width: $videoSize_xlarge;
+  	}
+
+	@include breakpoint($xxlarge){
+		max-width: $videoSize_xxlarge;
+	  }
+
+	@include breakpoint($xxxlarge){
+		max-width: $videoSize_xxxlarge;
+  	}
+
+	@include breakpoint($xxxlarge){
+		max-width: $videoSize_xxxxlarge;
+  	}
+
+	/// Phone landscape breakpoints
+	  
+	@include breakpoint($xxxlargeLandscape){
+    	max-width: $videoSize_xxxlargeLandscape
+	}
+
+	@include breakpoint($xxlargeLandscape){
+    	max-width: $videoSize_xxlargeLandscape
+	}
+	  
+	@include breakpoint($xlargeLandscape){
+    	max-width: $videoSize_xlargeLandscape
+	}
+	  
+  	@include breakpoint($largeLandscape){
+    	max-width: $videoSize_largeLandscape;
+  	}
+
+  	@include breakpoint($mediumLandscape){
+    	max-width: $videoSize_mediumLandscape;
+  	}
+
+  	@include breakpoint($smallLandscape){
+    	max-width: $videoSize_smallLandscape;
+	}	
+}
+
+
+.lo_containerSmall-centered{
+	width: 100%;
+	display: flex;
+	justify-content: center;
+
+  	@include breakpoint($large){
+    	margin-top: $base-line-height/2;
+  	}
+   @include breakpoint($xxlarge){
+    	margin-top: $base-line-height*2;
+  	}
+}
+
+
+///////////////////////////
+// FULL WIDTH CONTAINERS // 
+///////////////////////////
+
+
+.lo_thirdColor{
+	background: tint($third-color,65%);
+}
+
+%lo_containerFull{
+	width: 100%;
+}
+
+.lo_containerFull-white{
+	@extend %lo_containerFull;
+	background: $white;
+}
+
+.lo_containerFull-lightGrey{
+	@extend %lo_containerFull;
+	background: tint($third-color, 60%);
+}
+
+.lo_containerFull-middleGrey{
+	@extend %lo_containerFull;
+	background: tint($middle-grey, 60%);
+}
+
+.lo_containerFull-mainColor{
+	@extend %lo_containerFull;
+	background: tint($main-color, 85%);
+}
+
+.lo_containerFull-thirdColor{
+	@extend %lo_containerFull;
+	background: $third-color;
+}
+.lo_containerFull-thirdColor-light{
+	@extend %lo_containerFull;
+	background: tint($third-color,65%);
+}
+
+.lo_containerFull-pictureBg{
+	@extend %lo_containerFull;
+	display: flex;
+	min-height: 82vh;
+	justify-content:center;
+	background-color: $backgroundColorHome;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: bottom center;
+	//background-image: $backgroundImageHome; //To be removed at the end !
+
+	@include breakpoint($xlarge){
+		background-size: cover;
+	}
+}
+
+
+
+.lo_containerCenter{
+	margin-top: $base-line-height/2;
+	text-align: center;
+	max-width: $container-width;
+	padding: 0 $base-line-height/2;
+	@include breakpoint($xxlarge){
+		margin-top: $base-line-height*2;
+  	}
+}
+
+
+/////////////////////
+// MISC CONTAINERS // 
+/////////////////////
+
+.lo_containerFull-headerTabs{
+	@extend %lo_containerFull;
+	position: relative;
+	box-shadow: $shadow-z1-2;
+	z-index: 1;
+	background: $third-color;
+}
+
+
+/////////////////////
+// GRID CONTAINERS // 
+/////////////////////
+
+
+// 50/50 Horizontal
+// test > xlarge to large for ipads fs
+
+.lo_containerGrid {
+  @include breakpoint($large){
+    display: flex;
+  	justify-content: space-between;
+  	box-sizing: border-box;
+  }
+}
+
+.lo_containerGrid-half {
+	order: 2;
+
+  @include breakpoint($large){
+  	width: 49%;
+  	flex-grow: 1;
+  	flex-shrink: 1;
+  }
+}
+
+.lo_containerGrid-half img{
+	width: 100%;
+	height: auto;
+}
+
+
+.lo_containerFull-imageQuiz{
+	background: $white;
+	height: 100%;
+}
+
+.lo_containerGrid-half_content{
+	@include breakpoint($large){
+		padding: 0 $base-line-height*2 0 $base-line-height*2;
+	}
+}
+
+
+///////////////
+// UTILITIES // 
+///////////////
+
+
+.paddingBottom{
+	padding-bottom: $paddingBottom;
+}
+
+.lo_spacerBottom{
+	display: block;
+	width: 100%;
+	height: $base-line-height*2;
+	background: $third-color;
+}

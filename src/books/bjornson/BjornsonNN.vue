@@ -1,27 +1,22 @@
 <template lang="pug">
-div.book
-  h1 {{ title }}
-  h2 {{ author}}
-  div.year Utgitt {{ year }}
+PageBook
 
 </template>
+
 <script>
+import PageBook from "@/components/PageBook";
+import NdlaVideo from "@/components/NdlaVideo";
+import NdlaAudio from "@/components/NdlaAudio";
+
 export default {
   name: "Book",
-  computed: {
-    author() {
-      return this.$route.meta.author;
-    },
-    title() {
-      return this.$route.meta.title;
-    },
-    year() {
-      return this.$route.meta.year;
-    },
-    cover() {
-      return this.$route.meta.cover;
-    }
-  }
-}
-</script>    
+  components: {
+    NdlaAudio,
+    NdlaVideo,
+    PageBook,
+  },
+};
+</script>
+
+<style lang="scss" scoped></style>  
   

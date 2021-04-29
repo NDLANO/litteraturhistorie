@@ -1,0 +1,284 @@
+//////////////////////////////////////////////////
+//////////////////////////////////////////////////
+////     _                    _               ////
+////    | |                  | |              ////
+////    | |__   ___  __ _  __| | ___ _ __     ////
+////    | '_ \ / _ \/ _` |/ _` |/ _ \ '__|    ////
+////    | | | |  __/ (_| | (_| |  __/ |       ////
+////    |_| |_|\___|\__,_|\__,_|\___|_|       ////
+////                                          ////
+////               _header.scss               ////
+////                                          ////
+//////////////////////////////////////////////////
+//////////////////////////////////////////////////
+
+
+.header_nav{
+  background: $header-backgroundColor;
+  display: flex;
+  flex-wrap: wrap;
+  align-items:center;
+  position: relative;
+  box-shadow: $shadow-z1-2;
+}
+
+
+//////////
+// Logo //
+//////////
+
+
+.header_nav_logo{
+  display: none;
+  @include breakpoint($medium){
+    display: block;
+    width: $header_logoWidth;
+    flex-shrink: 0;
+    padding-left: $base-line-height/2;
+    margin-right: $base-line-height/2;
+  }
+}
+
+.header_nav_logo img{
+  width: 100%;
+  height: auto;
+}
+
+
+
+///////////////////////////
+/// Breadcrumb location ///
+///////////////////////////
+
+
+// Location container
+
+.header_nav_location{
+  flex-grow:1;
+  padding-left: $base-line-height/4;
+  @include breakpoint($large){
+    padding-left: $base-line-height*1.5;
+  }
+}
+
+.header_nav_location ul{
+  padding: 0;
+  margin: 0;
+  color: $header-fontColor;
+  font-weight: bold;
+}
+
+.header_nav_location li{
+  list-style: none;
+  display: inline-block;
+  position: relative;
+  padding-left: $base-line-height/4;
+  @include breakpoint($large){
+    padding-left: $base-line-height;
+  }
+}
+
+.header_nav_location li:first-of-type{
+  padding-left: 0;
+  margin-right: $base-line-height/8;
+  @include breakpoint($large){
+    margin-right: $base-line-height/4;
+  }
+}
+
+.header_nav_location li:nth-child(n+2){
+  &:after{
+    content: ">";
+    position: absolute;
+    top: 4px;
+    left: 0;
+    color: $secondary-color;
+  }
+  @include breakpoint($large){
+    margin-left: $base-line-height/2;
+  }
+}
+
+.header_nav_location li:nth-child(n+2)> *{
+  color: $header-fontColor;
+  padding-left: $base-line-height/4;
+}
+
+
+// Links
+
+.header_nav a{
+  display: block;
+  width: 100%;
+  color: $header-fontColor;
+  text-decoration: none;
+  padding-top: $base-line-height/3;
+  padding-bottom: $base-line-height/3;
+}
+
+.header_nav a:hover{
+  text-decoration: underline;
+}
+
+.header_nav a:focus{
+  @extend %focus;
+}
+
+.header_nav a:focus .header_nav_location_item{
+  color: $focus-textColor;
+}
+
+.header_nav_location_item{
+  @include type-setting(0);
+  line-height: $base-line-height*1.33;
+  color: $header-fontColor;
+  margin: 0;
+  padding: 0;
+}
+
+.header_nav_menuBtn{ //Vertical padding of the entire header bar > find alternative solution?
+  @include breakpoint($large){
+    padding: $base-line-height/2;
+  }
+}
+
+
+
+////////////////////
+/// Progress bar ///
+////////////////////
+
+.header_progressBar{
+  flex-basis: 100%;
+  flex-shrink: 1;
+  align-self: flex-end;
+  background: $header-progressBar-bgColor;
+  height: $base-line-height/4;
+  padding-left: $base-line-height/1.5;
+  padding-right: $base-line-height/2;
+}
+
+.header_progressBar_bar{
+  width: 20%;
+  position: relative;
+  height: $header-progressBar-height;
+  background: $header-progressBar-barColor;
+}
+
+.header_progressBar_bar:before{
+  background: $header-progressBar-barColor;
+  content:"";
+  width: $base-line-height;
+  position: absolute;
+  left: -$base-line-height;
+  display: block;
+  height: $header-progressBar-height;
+}
+
+//// Percentage text
+
+.header_progressBar_completionText{
+  display: block;
+  z-index: 1;
+  position: absolute;
+  font-size: .68rem;
+  font-weight: 900;
+  color: $white;
+  right: -1rem;
+  top: 0px;
+  letter-spacing: 0.75px;
+  line-height: $base-line-height*0.8;
+  padding: 0 $base-line-height/6;
+  border-radius: $base-line-height/4;
+  background: tint($secondary-color,0%);
+  box-shadow: $shadow-z1;
+}
+
+
+/////////////////
+// Header tabs //
+/////////////////
+
+
+%sideMenu_tabs_button{
+  box-sizing:border-box;
+  color: $header-tabs-textColor;
+  border: none;
+  background: none;
+  font-weight: bold;
+  border-bottom: 5px solid transparent;
+  line-height: 100%;
+  padding: $base-line-height/4 $base-line-height/2 $base-line-height/8 $base-line-height/2;
+  @include breakpoint($large){
+    padding: $base-line-height/4 $base-line-height $base-line-height/8 $base-line-height;
+  }
+
+  &:hover{
+    border-bottom: 5px solid tint($header-tabs-barColor,0%);
+  }
+  &:focus{
+    background: $focus-backgroundColor;
+    color: $focus-textColor;
+    border-bottom: 5px solid $focus-borderColor;
+  }
+}
+
+%tabsNavigation{
+  display: flex;
+  flex-wrap: wrap;
+  align-items:center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-indent: 0;
+}
+
+.header_tabs{
+  @extend %tabsNavigation;
+  padding-left:0;
+  @include breakpoint($large){
+    padding-left: $header_logoWidth + $base-line-height*3;
+  }
+}
+
+.header_tabs li{
+  line-height: 100%;
+}
+
+.header_tabs_button{
+  @extend %sideMenu_tabs_button;
+}
+
+.header_tabs_button{
+  font-weight: 900 !important;
+  letter-spacing: -0.4px;
+}
+
+.activeTab{
+  position: relative;
+  pointer-events: none;
+  border-bottom: 5px solid $header-tabs-barColor;
+  background: $header-tabs-bgColor-active;
+  color:$header-tabs-textColor-active;
+}
+
+.activeTab:hover{
+  border-bottom-color: transparent;
+}
+
+// arrow down
+
+$arrow-size: $base-line-height/3;
+
+.activeTab::after {
+  content: "";
+  position: absolute;
+  bottom: -$arrow-size*1.5;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 0; 
+  height: 0; 
+  border-left: $arrow-size solid transparent;
+  border-right: $arrow-size solid transparent;
+  border-top: $arrow-size solid $secondary-color;
+}
