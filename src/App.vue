@@ -68,7 +68,6 @@ export default {
       this.languageInitiated = true;
 
       console.log("App.initLanguage: langCode = ", this.globalVars.langCode);
-      console.log("------");
     },
   },
   created() {
