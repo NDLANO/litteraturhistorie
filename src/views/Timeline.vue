@@ -74,7 +74,7 @@ export default {
       artistRoutes: null,
       // bookRoutes: null,
       // periodRoutes: null,
-      isDraggable: false, // * Debug var making it easy to turn off dragging
+      isDraggable: true, // * Debug var making it easy to turn off dragging
       periods: periods,
       showAuthorModal: false,
       selectedAuthor: null,
