@@ -9,6 +9,7 @@ $topBarHeight: $base-line-height * 2;
 $timelineHeight: 60rem;
 $circleEraHeight: 30rem;
 $introPageWidth: 40rem;
+$authorsHeight: 33rem;
 
 %restrained {
   max-width: $restrainedWidth;
@@ -476,6 +477,7 @@ blockquote {
 
 .authorsList {
   margin-top: $base-line-height; // * 2;
+  height: $authorsHeight;
 }
 
 .authorsList li {
