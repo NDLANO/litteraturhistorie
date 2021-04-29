@@ -1,5 +1,5 @@
 <template lang="pug">
-button.btnBook(@click="showLink")
+button.btnBook(@click="showLink" @pointerdown="showLink")
   .btnBook_icon
     IconButtonBook
   .btnBook_infos

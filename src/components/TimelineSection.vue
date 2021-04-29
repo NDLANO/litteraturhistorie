@@ -18,7 +18,7 @@ li.sectionList_item
           .circleEra_date {{ from }}-{{ to }}
           h2.circleEra_title {{ title }}
           //- button.btnEra(@click="$router.push(periodPath)") Mer info                  
-          button.btnEra(@click="$router.push('/nb/periods/barokk')") Mer info                  
+          button.btnEra(@click="$router.push('/nb/periods/barokk')" @pointerdown="$router.push('/nb/periods/barokk')") Mer info                  
     // * List of books
     ul.bookList
       li(v-for="book in periodBooks" :key="book.id")
@@ -37,6 +37,7 @@ li.sectionList_item
           :style="getAuthorStyle(author)"
           :gotText="author.nnText !== ''"
           @click="onAuthorClick(author)"
+          @pointerdown="onAuthorClick(author)"
         )
     ul.lo_topBar_timeline.lineslots
       li.timeslot(
