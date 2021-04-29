@@ -2,6 +2,8 @@
 PagePeriod
   // Content here
   h3 Heimstaddiktning
+  p Eksempel på link til boken <router-link to="/nn/books/asbjornsenmoe">Norske folkeeventyr</router-link>
+
   p
     | Tida rundt århundreskiftet var preget av motstridende tankestrømmer. På den ene siden skapte den teknologiske utviklingen en forventning om nye og bedre tider. Mange flyttet fra landet til byene for å få seg arbeid i ulike bedrifter og fabrikker. På den andre siden savnet folk levemåten i bondesamfunnet som de kom fra. De fryktet at samfunnet slik de kjente det, ville gå tapt, og de lengtet hjem.
   p

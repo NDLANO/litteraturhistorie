@@ -36,7 +36,7 @@ li.sectionList_item
           :name="author.name"
           :style="getAuthorStyle(author)"
           :gotText="author.nnText !== ''"
-          
+          @click="onAuthorClick(author)"
         )
       //- li
       //-   ButtonAuthor(
@@ -77,10 +77,15 @@ import TimelineTimeslot from "@/components/TimelineTimeslot";
 
 import { books } from "@/js/booksData";
 import { authors } from "@/js/authorsData";
-import { getElementPlacement } from "@/js/helpers";
+import {
+  getElementPlacement,
+  getElementPosition,
+  calculateElementWidth,
+} from "@/js/helpers";
 
 export default {
   name: "TimelineSection",
+  emits: ["authorClick"],
   props: {
     title: {
       type: String,
@@ -148,11 +153,21 @@ export default {
     },
   },
   methods: {
+    onAuthorClick(author) {
+      console.log("TimelineSection.onAuthorClick: author = ", author);
+      this.$emit("authorClick", this.$event, author);
+    },
     getBookStyle(book) {
       let realLeftValue;
 
       if (book) {
-        [realLeftValue] = getElementPlacement(
+        // [realLeftValue] = getElementPlacement(
+        //   book.year,
+        //   this.globalVars.periods,
+        //   this.globalVars.allYearMarkings,
+        //   this.globalVars.lastYear,
+        // );
+        realLeftValue = getElementPosition(
           book.year,
           this.globalVars.periods,
           this.globalVars.allYearMarkings,
@@ -167,13 +182,27 @@ export default {
       let realLeftValue;
       let width;
       if (author) {
-        [realLeftValue, width] = getElementPlacement(
+        // [realLeftValue, width] = getElementPlacement(
+        //   author.from,
+        //   this.globalVars.periods,
+        //   this.globalVars.allYearMarkings,
+        //   this.globalVars.lastYear,
+        //   author.to,
+        // );
+        realLeftValue = getElementPosition(
           author.from,
           this.globalVars.periods,
           this.globalVars.allYearMarkings,
           this.globalVars.lastYear,
-          author.to,
         );
+        width = calculateElementWidth(
+          author.from,
+          author.to,
+          this.globalVars.allYearMarkings,
+          this.globalVars.lastYear,
+          this.globalVars.periods,
+        );
+        console.log("TimelineSection.getAuthorStyle: width = ", width);
       }
 
       let top = 0;
@@ -181,7 +210,7 @@ export default {
         top = author.row * this.authorRowHeight;
       }
       realLeftValue = realLeftValue * this.sectionWidthMultiplier;
-      width = width * this.sectionWidthMultiplier;
+      // width = width * this.sectionWidthMultiplier;
       return {
         left: realLeftValue + "px",
         width: width + "px",
@@ -199,12 +228,12 @@ export default {
     this.periodAuthors = authors.filter(
       author => author.from >= this.from && author.from < this.to,
     );
-    console.log(
-      "TimelineSection.created: allYearMarkings = ",
-      this.globalVars.allYearMarkings,
-    );
+    // console.log(
+    //   "TimelineSection.created: allYearMarkings = ",
+    //   this.globalVars.allYearMarkings,
+    // );
 
-    console.log("TimelineSection.created: periods = ", this.globalVars.periods);
+    // console.log("TimelineSection.created: periods = ", this.globalVars.periods);
     // console.log("TimelineSection.created: period books = ", this.periodBooks);
   },
 };

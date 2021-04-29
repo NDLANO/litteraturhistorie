@@ -12,77 +12,48 @@ export function getRoutesWithString(router, stringToFind) {
   return routes;
 }
 
-export function getElementPlacement(
+export function getElementPosition(
   elementYear,
   periods,
   allYearMarkings,
   lastYear,
-  elementEndYear,
 ) {
-  // * find book timeslot in allYearMarkings
   if (!elementYear) return;
 
-  let bookPosition = 0;
-  // console.log("helpers.getBookPlacement:-----------------");
-  // console.log(
-  //   "helpers.getBookPlacement: book = ",
-  //   book.nbTitle,
-  //   ", year = ",
-  //   book.year,
-  // );
+  let elementPosition = 0;
 
-  const periodFromYear = getBookPeriodFromYear(periods, elementYear);
+  // * periodFromYear is the start year of the peirod elementYear belongs to
+  const periodFromYear = getElementPeriodStartYear(periods, elementYear);
+
+  // * periodYearMarkingIndex is the index of the start period markings section
   const periodYearMarkingIndex = getYearMarkingIndex(
     allYearMarkings,
     periodFromYear,
   );
 
-  // console.log("helpers.getBookPlacement: periodFromYear = ", periodFromYear);
-  // console.log(
-  //   "helpers.getBookPlacement: periodYearMarkingIndex = ",
-  //   periodYearMarkingIndex,
-  // );
-  // console.log(
-  //   "helpers.getBookPlacement: period year marking = ",
-  //   allYearMarkings[periodYearMarkingIndex],
-  // );
-
+  // * periodTotalPosition is the start position of the period
   const periodTotalPosition = getTotalYearPosition(
     allYearMarkings,
     periodYearMarkingIndex,
   );
-  // console.log(
-  //   "helpers.getBookPlacement: periodTotalPosition = ",
-  //   periodTotalPosition,
-  // );
 
+  // * elementYearMarkingIndex is the index of element markings section
   const elementYearMarkingIndex = getYearMarkingIndex(
     allYearMarkings,
     elementYear,
   );
-  // console.log(
-  //   "helpers.getBookPlacement: elementYearMarkingIndex = ",
-  //   elementYearMarkingIndex,
-  // );
-  // console.log(
-  //   "helpers.getBookPlacement: book yearMarking = ",
-  //   allYearMarkings[elementYearMarkingIndex],
-  // );
 
-  // bookPosition = periodTotalPosition;
-
+  // * If periodYearMarkingIndex is different from elementYearMarkingIndex,
+  // * add the width of the markings in between.
   for (let i = periodYearMarkingIndex; i < elementYearMarkingIndex; i++) {
-    bookPosition += allYearMarkings[i][1];
+    elementPosition += allYearMarkings[i][1];
   }
-
-  // console.log("helpers.getBookPlacement: bookPositionn = ", bookPosition);
 
   let pixelsPerYear = 0;
   let yearSpan;
   let numOfYearsInMarking = 0;
 
   if (periodYearMarkingIndex === allYearMarkings.length - 1) {
-    // console.log("helpers.getBookPlacement: last period");
     yearSpan = lastYear - periodFromYear;
   } else {
     yearSpan = allYearMarkings[periodYearMarkingIndex + 1][0] - periodFromYear;
@@ -92,171 +63,84 @@ export function getElementPlacement(
 
   pixelsPerYear = allYearMarkings[elementYearMarkingIndex][1] / yearSpan;
 
-  // console.log("helpers.getBookPlacement: yearSpan = ", yearSpan);
-  // console.log("helpers.getBookPlacement: pixelsPerYear = ", pixelsPerYear);
+  // // * Add the width of the years belonging to the last marking
+  elementPosition += numOfYearsInMarking * pixelsPerYear;
 
-  // if (periodYearMarkingIndex === allYearMarkings.length - 1) {
-  //   console.log("helpers.getBookPlacement: last year marking");
-  //   yearSpan = lastYear - periodFromYear;
-  // } else {
-  //   yearSpan = allYearMarkings[periodYearMarkingIndex + 1][0] - periodFromYear;
-  // }
-  // pixelsPerYear = allYearMarkings[periodYearMarkingIndex][1] / yearSpan;
-
-  // console.log(
-  //   "helpers.getBookPlacement: allYearMarkings = ",
-  //   allYearMarkings[periodYearMarkingIndex],
-  // );
-  // console.log("helpers.getBookPlacement: yearSpan = ", yearSpan);
-  // console.log("helpers.getBookPlacement: pixelsPerYear = ", pixelsPerYear);
-  let elementWidth;
-
-  if (elementEndYear) {
-    const endYearMarkingIndex = getYearMarkingIndex(
-      allYearMarkings,
-      elementEndYear,
-    );
-
-    elementWidth = calculateElementWidth(
-      allYearMarkings,
-      elementYear,
-      elementYearMarkingIndex,
-      elementEndYear,
-      endYearMarkingIndex,
-      lastYear,
-    );
-  }
-
-  bookPosition += numOfYearsInMarking * pixelsPerYear;
-  // console.log("helpers.getBookPlacement: numOfYearsInMarking = ", bookPosition);
-  if (elementWidth) return [bookPosition, elementWidth];
-
-  return [bookPosition];
+  return elementPosition;
 }
 
-function calculateElementWidth(
-  allYearMarkings,
+export function calculateElementWidth(
   startYear,
-  startIndex,
   endYear,
-  endIndex,
+  allYearMarkings,
   lastYear,
+  periods,
 ) {
   let elementWidth = 0;
 
-  let markingSpan = endIndex - startIndex;
-
-  console.log(
-    "helpers.calculateElementWidth: startYear, ",
-    startYear,
-    ", startIndex = ",
-    startIndex,
-    ", endYear = ",
-    endYear,
-    ", endIndex = ",
-    endIndex,
-    ", markingSpan = ",
-    markingSpan,
-  );
+  const startIndex = getYearMarkingIndex(allYearMarkings, startYear);
+  const endIndex = getYearMarkingIndex(allYearMarkings, endYear);
 
   // * Go through all periods the element spans
   for (let i = startIndex; i <= endIndex; i++) {
-    // console.log("helpers.calculateElementWidth: going through index ", i);
+    // * Set markingEndYear as lastYear as default
     let markingEndYear = lastYear;
+
+    // * If i is not the index of the last marking
     if (i < allYearMarkings.length - 1) {
+      // * The markingEndYear is the start of the next marking
       markingEndYear = allYearMarkings[i + 1][0];
     }
-    // console.log(
-    //   "helpers.calculateElementWidth: startYear: ",
-    //   startYear,
-    //   ", markingEndYear = ",
-    //   markingEndYear,
-    // );
 
-    // console.log(
-    //   "helpers.calculateElementWidth: yearMarking = ",
-    //   allYearMarkings[i],
-    // );
+    // * Calculate number of pixels per year for the marking
     let pixelsPerYear =
       allYearMarkings[i][1] / (markingEndYear - allYearMarkings[i][0]);
 
+    // * Find the period of the marking start year
+    const markingPeriod = getElementPeriod(periods, allYearMarkings[i][0]);
+
+    // * Find multiplier. If period got no multiplier, use 1
+    const periodMultiplier = markingPeriod.widthMultiplier
+      ? markingPeriod.widthMultiplier
+      : 1;
+
+    // * elementWidthIncrease is the width of the currrent loop iteration
+    let elementWidthIncrease = 0;
+
     if (i === startIndex && i === endIndex) {
       // * If start and end year is within the same period
-      // console.log(
-      //   "helpers.calculateElementWidth: (s-e) endYear = ",
-      //   endYear,
-      //   ", startYear = ",
-      //   startYear,
-      //   " year span = ",
-      //   endYear - startYear,
-      // );
-      elementWidth = (endYear - startYear) * pixelsPerYear;
+      elementWidthIncrease = (endYear - startYear) * pixelsPerYear;
     } else if (i === startIndex) {
       // * If start year is in period
-      // console.log(
-      //   "helpers.calculateElementWidth: (s) endYear = ",
-      //   markingEndYear,
-      //   ", startYear = ",
-      //   startYear,
-      //   " year span = ",
-      //   markingEndYear - startYear,
-      // );
-      elementWidth += (markingEndYear - startYear) * pixelsPerYear;
+      elementWidthIncrease += (markingEndYear - startYear) * pixelsPerYear;
     } else if (i === endIndex) {
       // * If end year is in period
-      // console.log(
-      //   "helpers.calculateElementWidth: (e) endYear = ",
-      //   endYear,
-      //   ", startYear = ",
-      //   allYearMarkings[i][0],
-      //   " year span = ",
-      //   endYear - allYearMarkings[i][0],
-      // );
-      elementWidth += (endYear - allYearMarkings[i][0]) * pixelsPerYear;
+      elementWidthIncrease += (endYear - allYearMarkings[i][0]) * pixelsPerYear;
     } else {
       // * if neither start year or end year is within the period
-      // console.log(
-      //   "helpers.calculateElementWidth: (s-e) endYear = ",
-      //   markingEndYear,
-      //   ", startYear = ",
-      //   allYearMarkings[i][0],
-      //   " year span = ",
-      //   markingEndYear - allYearMarkings[i][0],
-      // );
-      elementWidth += (markingEndYear - allYearMarkings[i][0]) * pixelsPerYear;
+      elementWidthIncrease +=
+        (markingEndYear - allYearMarkings[i][0]) * pixelsPerYear;
     }
-    // console.log(
-    //   "helpers.calculateElementWidth: period: ",
-    //   allYearMarkings[i][0],
-    //   " to ",
-    //   markingEndYear,
-    //   ", total pixels = ",
-    //   allYearMarkings[i][1],
-    //   ", pixelsPerYear = ",
-    //   pixelsPerYear,
-    // );
+
+    // * Multiply elementWidthIncrease with multiplier and add to totale elementWidth
+    elementWidth += elementWidthIncrease * periodMultiplier;
   }
 
-  // console.log("helpers.calculateElementWidth: elementWidth = ", elementWidth);
   return elementWidth;
 }
 
-// function getYearMarkingForYear(allYearMarkings, year) {
-//   let markingIndex = -1;
-//   for (let i = allYearMarkings.length - 1; i >= 0; i--) {
-//     // console.log("year = ", year, ", marking = ", allYearMarkings[i][0]);
-//     if (year >= allYearMarkings[i][0]) {
-//       markingIndex = i;
-//       break;
-//     }
-//   }
-
-//   return allYearMarkings[markingIndex];
-// }
+/**
+ * getYearMarkingIndex
+ * @param {*} allYearMarkings
+ * @param {*} year
+ * @returns number
+ *
+ * Goes through allYearMarkings from the end and finds the index of the year
+ * marking that the year belongs to
+ */
 function getYearMarkingIndex(allYearMarkings, year) {
   let markingIndex = -1;
   for (let i = allYearMarkings.length - 1; i >= 0; i--) {
-    // console.log("year = ", year, ", marking = ", allYearMarkings[i][0]);
     if (year >= allYearMarkings[i][0]) {
       markingIndex = i;
       break;
@@ -266,35 +150,52 @@ function getYearMarkingIndex(allYearMarkings, year) {
   return markingIndex;
 }
 
+/**
+ * getTotalYearPosition
+ * @param {*} allYearMarkings
+ * @param {*} maxMarkingIndex
+ * @returns number
+ *
+ * Goes through allYearMarkings and sums up the width until maxMarkingIndex
+ */
 function getTotalYearPosition(allYearMarkings, maxMarkingIndex) {
-  let totalBookPosition = 0;
+  let totalElementPosition = 0;
   for (let i = 0; i < maxMarkingIndex; i++) {
-    // console.log(
-    //   "helpers.getTotalYearPosition: counting year: ",
-    //   allYearMarkings[i][0],
-    // );
-    // if (allYearMarkings[i][0] > year) break;
-    totalBookPosition += allYearMarkings[i][1];
+    totalElementPosition += allYearMarkings[i][1];
   }
 
-  return totalBookPosition;
+  return totalElementPosition;
 }
-
-function getBookPeriodFromYear(periods, elementYear) {
+/**
+ * getElementPeriodStartYear
+ * @param {*} periods
+ * @param {*} elementYear
+ * @returns number
+ *
+ * Returns the start year of the period elementYear belongs to.
+ */
+function getElementPeriodStartYear(periods, elementYear) {
   for (let i = periods.length - 1; i >= 0; i--) {
-    // console.log(
-    //   "helpers.getBookPlacement: from = ",
-    //   periods[i].from,
-    //   ", elementYear = ",
-    //   elementYear,
-    // );
     if (elementYear >= parseInt(periods[i].from)) {
       return periods[i].from;
     }
   }
-  console.error(
-    "helpers.getBookPeriodFromYear: no year found - elementYear = ",
-    elementYear,
-  );
+  return null;
+}
+
+/**
+ * getElementPeriod
+ * @param {*} periods
+ * @param {*} elementYear
+ * @returns period object or null
+ *
+ * Returns the period object for the period elementYear belongs to
+ */
+function getElementPeriod(periods, elementYear) {
+  for (let i = periods.length - 1; i >= 0; i--) {
+    if (elementYear >= parseInt(periods[i].from)) {
+      return periods[i];
+    }
+  }
   return null;
 }
