@@ -2,7 +2,7 @@
 li.timeSlot(:style="{ width: slotWidth + 'px'}")
   .timeSlot_year {{ year }}
   .timeSlot_dot
-  .timeSlot_line
+  //- .timeSlot_line
 </template>
 
 <script>
