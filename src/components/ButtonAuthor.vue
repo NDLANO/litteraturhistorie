@@ -24,12 +24,5 @@ export default {
       default: false,
     },
   },
-  computed: {
-    // gotDescription() {
-    //   console.log("got description = ", this.path !== "");
-    //   if (this.path !== "") return true;
-    //   return false;
-    // },
-  },
 };
 </script>

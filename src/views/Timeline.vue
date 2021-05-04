@@ -72,8 +72,6 @@ export default {
       periodLoaded: false,
       artists: null,
       artistRoutes: null,
-      // bookRoutes: null,
-      // periodRoutes: null,
       isDraggable: true, // * Debug var making it easy to turn off dragging
       periods: periods,
       showAuthorModal: false,
@@ -81,21 +79,12 @@ export default {
     };
   },
   inject: ["globalVars"],
-  // watch: {
-  //   langCode: {
-  //     handler(new_langCode) {
-  //       console.log("new_langCode: ", new_langCode);
-  //     },
-  //     deep: true,
-  //   },
-  // },
   methods: {
     onTimelineSectionClick(event) {
       this.globalVars.timelineScrollLeft = this.$refs.lo_sectionList.scrollLeft;
       this.globalVars.timelineScrollTop = this.$refs.lo_sectionList.scrollTop;
     },
     onAuthorClick(event, author) {
-      console.log("Timeline.onAuthorClick: author = ", author);
       this.selectedAuthor = author;
       this.showAuthorModal = true;
     },
@@ -154,21 +143,7 @@ export default {
       ];
     }
 
-    // console.log("Timeline.created: routes = ", this.$router.options.routes);
-    // this.bookRoutes = getRoutesWithString(
-    //   this.$router,
-    //   this.globalVars.langCode + "/books/",
-    // );
-
-    // this.periodRoutes = getRoutesWithString(
-    //   this.$router,
-    //   this.globalVars.langCode + "/periods/",
-    // );
-
     gsap.registerPlugin(Draggable);
-
-    // console.log("Timeline.created: book routes = ", this.bookRoutes);
-    // console.log("Timeline.created: period routes = ", this.periodRoutes);
   },
 };
 </script>

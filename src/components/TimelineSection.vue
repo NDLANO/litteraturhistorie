@@ -2,7 +2,6 @@
 li.sectionList_item
   // * The entire section
   section.lo_sectionEra(:style="sectionWidth")
-    //.lo_topBar_wrapper
     // * Topbar with line and dots
     ul.lo_topBar_timeline
       TimelineTimeslot(
@@ -17,7 +16,6 @@ li.sectionList_item
         .circleEra_content
           .circleEra_date {{ from }}-{{ to }}
           h2.circleEra_title {{ title }}
-          //button.btnEra(@click="$router.push(periodPath)") Mer info                  
           button.btnEra(
             @pointerdown="onPointerDown"
             @pointerup="onEraPointerUp"
