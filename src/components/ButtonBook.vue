@@ -12,6 +12,7 @@ import IconButtonBook from "@/components/ui/IconButtonBook";
 
 export default {
   name: "ButtonBook",
+  emits: ["buttonClick"],
   components: {
     IconButtonBook,
   },
@@ -45,6 +46,7 @@ export default {
     onPointerUp(event) {
       if (this.mouseX === event.clientX && this.mouseY === event.clientY) {
         console.log("ButtonBook.onPointerUp: both x and y is the same");
+        this.$emit("buttonClick");
         this.showLink();
       } else {
         console.log("ButtonBook.onPointerUp: mouse has moved");

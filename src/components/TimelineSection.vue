@@ -30,6 +30,7 @@ li.sectionList_item
           :author="book.author"
           :path="book.path"
           :style="getBookStyle(book)"
+          @buttonClick="$emit('buttonClick')"
         )
     // SeparatorAuthor
     // * List of authors
@@ -69,7 +70,7 @@ import {
 
 export default {
   name: "TimelineSection",
-  emits: ["authorClick"],
+  emits: ["authorClick", "buttonClick"],
   props: {
     title: {
       type: String,
@@ -154,7 +155,8 @@ export default {
         console.log("TimelineSection.onAuthorPointerUp: mouse has moved");
       }
     },
-    onEraPointerUp() {
+    onEraPointerUp(event) {
+      this.$emit("buttonClick");
       if (this.mouseX === event.clientX && this.mouseY === event.clientY) {
         console.log("TimelineSection.onEraPointerUp: both x and y is the same");
         this.$router.push("/nb/periods/barokk");
