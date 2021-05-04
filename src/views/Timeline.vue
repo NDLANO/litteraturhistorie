@@ -36,6 +36,7 @@
           :yearMarkings="period.yearMarkings"
           :sectionWidthMultiplier="period.widthMultiplier"
           @authorClick="onAuthorClick"
+          @buttonClick="onTimelineSectionClick"
           )
 
 </template>
@@ -89,6 +90,10 @@ export default {
   //   },
   // },
   methods: {
+    onTimelineSectionClick(event) {
+      this.globalVars.timelineScrollLeft = this.$refs.lo_sectionList.scrollLeft;
+      this.globalVars.timelineScrollTop = this.$refs.lo_sectionList.scrollTop;
+    },
     onAuthorClick(event, author) {
       console.log("Timeline.onAuthorClick: author = ", author);
       this.selectedAuthor = author;
@@ -108,19 +113,28 @@ export default {
     onTimelineDrag(e) {},
   },
   mounted() {
-    console.log("Timeline.mounted: periods = ", periods);
+    // * Set timelineScroll to zero if not defined
+    if (this.globalVars.timelineScrollTop == undefined) {
+      this.globalVars.timelineScrollTop = 0;
+    }
+    if (this.globalVars.timelineScrollLeft == undefined) {
+      this.globalVars.timelineScrollLeft = 0;
+    }
+
+    // * Initiate if isDraggable
     if (this.isDraggable) {
       Draggable.create(this.$refs.lo_sectionList, {
         type: "scroll",
-        // allowNativeTouchScrolling: true,
         dragClickables: true,
         lockAxis: false,
         zIndexBoost: false,
-        // bounds: { minX: 0 },
-        // bounds: { minX: 0, maxX: -2000 },
         onDrag: this.onTimelineDrag,
       });
     }
+
+    // * Set scroll left to the stored position
+    this.$refs.lo_sectionList.scrollTop = this.globalVars.timelineScrollTop;
+    this.$refs.lo_sectionList.scrollLeft = this.globalVars.timelineScrollLeft;
   },
   async created() {
     const ucLangCode = this.globalVars.langCode.toUpperCase();
