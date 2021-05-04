@@ -1,6 +1,6 @@
 {
   "name": "NDLA_Litteraturhistorie",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -12,6 +12,7 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "gsap": "^3.6.0",
+    "plyr": "^3.6.4",
     "vue": "^3.0.0",
     "vue-i18n": "^9.0.0",
     "vue-router": "^4.0.0-0"

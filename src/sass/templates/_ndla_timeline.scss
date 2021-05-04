@@ -9,6 +9,7 @@ $topBarHeight: $base-line-height * 2;
 $timelineHeight: 60rem;
 $circleEraHeight: 30rem;
 $introPageWidth: 40rem;
+$authorsHeight: 33rem;
 
 %restrained {
   max-width: $restrainedWidth;
@@ -30,7 +31,7 @@ body,
 html {
   font-family: "Source Sans Pro", sans-serif;
   margin: 0;
-  overflow-x: hidden; //* DEBUG
+  // overflow-x: hidden; //* DEBUG
   width: 100%;
   height: 100%;
 }
@@ -98,7 +99,7 @@ blockquote {
   position: sticky;
   position: -webkit-sticky;
   top: 0px;
-  z-index: 2;
+  z-index: 100;
 }
 
 .lo_topBar_header {
@@ -146,11 +147,20 @@ blockquote {
   // top: 0;
   //left: $introPageWidth;
 }
+.lo_topBar_timeline.lineslots {
+  position: absolute;
+  top: $topBarHeight;
+  z-index: initial;
+
+  .timeslot {
+    list-style-type: none;
+  }
+}
 
 .lo_topBar_timeline::before {
   content: "";
   // width: 8.75rem;
-  width: 1000; //($base-line-height * 2) + 1rem;
+  // width: 1000; //! TODO commented out, set in template // ($base-line-height * 2) + 1rem;
   background: white;
   // left: -8.75rem;
   left: ($base-line-height * 2 * -1) - 1rem;
@@ -159,7 +169,7 @@ blockquote {
   // left: -$introPageWidth;
 
   @include breakpoint($medium) {
-    width: 1000px; // ($base-line-height * 5) + 1rem;
+    // width: 1000px; //! TODO commented out, set in template// ($base-line-height * 5) + 1rem;
     left: ($base-line-height * 5 * -1) - 1rem;
   }
 }
@@ -183,6 +193,7 @@ blockquote {
   display: flex;
   flex-shrink: 0;
   width: 110vw;
+  margin-bottom: 1.75rem;
   padding: $base-line-height 0 $base-line-height $base-line-height;
 
   @include breakpoint($medium) {
@@ -213,7 +224,7 @@ blockquote {
   flex-shrink: 0;
   background: tint($main-color, 90%);
   width: $base-line-height * 2;
-  height: 100%;
+  height: calc(100% + 10px);
   border-top-left-radius: 50rem;
   border-bottom-left-radius: 50rem;
   margin-left: $base-line-height;
@@ -231,8 +242,8 @@ blockquote {
   display: flex;
   align-items: center;
   justify-content: center;
-  width: $base-line-height * 1.5;
-  height: $base-line-height * 1.5;
+  // width: $base-line-height * 1.5;
+  // height: $base-line-height * 1.5;
   background: none;
   border-radius: 4px;
   border: 2px solid transparent;
@@ -294,12 +305,12 @@ blockquote {
 .timeSlot_line {
   position: relative;
   position: absolute;
-  top: -0.3rem;
-  top: 3rem;
   width: 2px;
-  height: 46rem;
-  height: 37rem; // ! TODO: Problem child. Hard coded, should be dynamic
-  background: rgba(white, 0.5);
+  top: 0;
+  height: 96rem;
+  background: rgba(white, 0.3);
+  // background: red;
+  overflow: hidden;
 }
 
 // SECTIONS/ERAS
@@ -311,6 +322,8 @@ blockquote {
   padding: 0;
   margin: 0;
   background: $main-color;
+  margin-bottom: 1.75rem;
+  box-shadow: -6px 0px 6px 0px rgb(0 0 0 / 30%);
 }
 
 .sectionList_item {
@@ -330,8 +343,9 @@ blockquote {
 /// CIRCLE ERA
 
 .lo_circleEra {
-  margin-top: 2.5rem;
+  margin-top: 1.5rem;
   height: $circleEraHeight;
+  z-index: 10;
 }
 
 .circleEra {
@@ -410,10 +424,11 @@ blockquote {
   background: white;
   border-radius: 5rem;
   border: 2px solid transparent;
-  padding: ($base-line-height / 2) $base-line-height;
+  padding: ($base-line-height / 5) $base-line-height/2;
   box-shadow: 2px 2px 0px 0px $secondary-color;
   text-align: left;
   line-height: 100%;
+  z-index: 20;
 }
 
 .btnBook:hover {
@@ -472,7 +487,8 @@ blockquote {
 }
 
 .authorsList {
-  margin-top: $base-line-height * 2;
+  margin-top: $base-line-height; // * 2;
+  height: $authorsHeight;
 }
 
 .authorsList li {
@@ -492,6 +508,7 @@ blockquote {
   padding: ($base-line-height / 16) ($base-line-height / 4)
     ($base-line-height / 16) ($base-line-height / 2);
   box-shadow: 1px 1px 0px 0px $main-color;
+  line-height: initial;
 }
 
 .btnAuthor:hover {
@@ -535,14 +552,14 @@ blockquote {
 
 .lo_fullOverlay_popup {
   position: fixed;
-  display: none;
+  // display: none;
   overflow-y: scroll;
   background: rgba($middle-grey, 0.85);
   top: 0;
   bottom: 0;
   left: 0;
   right: 0;
-  z-index: 100;
+  z-index: 1100;
 }
 
 .lo_authorPopup {
@@ -551,6 +568,8 @@ blockquote {
   background: white;
   border-radius: $base-line-height / 8;
   box-shadow: 4px 4px 0px 0px $main-color;
+  // temporary - animate with gsap later
+  transform: translate(0px, 0px);
 
   @include breakpoint($large) {
     margin-top: $base-line-height * 3;
@@ -710,6 +729,15 @@ blockquote {
 .page_content_author svg {
   margin-right: $base-line-height / 4;
   fill: $main-color;
+}
+
+.page_content img {
+  width: auto;
+  max-width: 100%;
+
+  &.left-image {
+    padding-right: 25px;
+  }
 }
 
 /// PAGE > ERA SPECIFIC
