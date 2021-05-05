@@ -115,6 +115,8 @@ export default {
       gsap.ticker.remove(this.scrollInertia);
       this.prevDragX = this.$refs.lo_sectionList.scrollLeft;
       this.prevDragY = this.$refs.lo_sectionList.scrollTop;
+      this.newDragX = this.prevDragX;
+      this.newDragY = this.prevDragY;
     },
     onTimelineDrag(e) {
       // * Init prevDragX/Y if no value,
@@ -145,6 +147,7 @@ export default {
         this.newDragX - this.prevDragX,
       );
 
+      // * Find horizontal and vertical speed and
       this.speed.x = clampNumber(
         this.newDragX - this.prevDragX,
         -this.speed.max,
@@ -155,6 +158,11 @@ export default {
         -this.speed.max,
         this.speed.max,
       );
+
+      this.newDragX = null;
+      this.newDragY = null;
+      this.prevDragX = null;
+      this.prevDragY = null;
 
       if (this.speed.x !== 0 || this.speed.y !== 0) {
         console.log(
