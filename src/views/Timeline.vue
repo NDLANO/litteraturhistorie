@@ -55,7 +55,7 @@ import TimelineSection from "@/components/TimelineSection";
 import { readFile } from "@/js/fileTools";
 import { periods } from "@/js/periodsData";
 
-import { getRoutesWithString } from "@/js/helpers";
+import { getRoutesWithString, clampNumber } from "@/js/helpers";
 
 export default {
   name: "Timeline",
@@ -76,6 +76,17 @@ export default {
       periods: periods,
       showAuthorModal: false,
       selectedAuthor: null,
+      prevDragX: null,
+      prevDragY: null,
+      newDragX: null,
+      newDragY: null,
+      speed: {
+        x: 0,
+        y: 0,
+        max: 100,
+        min: 1, // Minimum speed allowed
+      },
+      inertia: 0.95, // *
     };
   },
   inject: ["globalVars"],
@@ -99,7 +110,128 @@ export default {
 
       return period["nbTitle"];
     },
-    onTimelineDrag(e) {},
+    onTimelineDragStart(e) {
+      console.log("Timeline.onTimelineDragStart: removing ticker");
+      gsap.ticker.remove(this.scrollInertia);
+      this.prevDragX = this.$refs.lo_sectionList.scrollLeft;
+      this.prevDragY = this.$refs.lo_sectionList.scrollTop;
+      this.newDragX = this.prevDragX;
+      this.newDragY = this.prevDragY;
+    },
+    onTimelineDrag(e) {
+      // * Init prevDragX/Y if no value,
+      // * store the (now old) newDragX/Y if not
+      if (!this.prevDragX) {
+        this.prevDragX = this.$refs.lo_sectionList.scrollLeft;
+      } else {
+        this.prevDragX = this.newDragX;
+      }
+
+      if (!this.prevDragY) {
+        this.prevDragY = this.$refs.lo_sectionList.scrollTop;
+      } else {
+        this.prevDragY = this.newDragY;
+      }
+
+      // * Set newDragX/Y
+      this.newDragX = this.$refs.lo_sectionList.scrollLeft;
+      this.newDragY = this.$refs.lo_sectionList.scrollTop;
+    },
+    onTimelineDragEnd(e) {
+      console.log(
+        "Timeline.onTimelineDragend: prevDragX = ",
+        this.prevDragX,
+        ", scrollLeft = ",
+        this.newDragX,
+        ", speed = ",
+        this.newDragX - this.prevDragX,
+      );
+
+      // * Find horizontal and vertical speed and
+      this.speed.x = clampNumber(
+        this.newDragX - this.prevDragX,
+        -this.speed.max,
+        this.speed.max,
+      );
+      this.speed.y = clampNumber(
+        this.newDragY - this.prevDragY,
+        -this.speed.max,
+        this.speed.max,
+      );
+
+      this.newDragX = null;
+      this.newDragY = null;
+      this.prevDragX = null;
+      this.prevDragY = null;
+
+      if (this.speed.x !== 0 || this.speed.y !== 0) {
+        console.log(
+          "Timeline.onTimelineDragEnd: speed is not 0: ",
+          this.speed.x,
+          ", ",
+          this.speed.y,
+        );
+        console.log("Timeline.onTimelineDragEnd: adding ticker");
+        gsap.ticker.add(this.scrollInertia);
+      } else {
+        console.log("Timeline.onTimelineDragEnd: removing ticker");
+        gsap.ticker.remove(this.scrollInertia);
+      }
+    },
+    scrollInertia() {
+      this.speed.x = this.calculateSpeedWithInertia(this.speed.x);
+      this.speed.y = this.calculateSpeedWithInertia(this.speed.y);
+
+      this.$refs.lo_sectionList.scrollLeft += this.speed.x;
+      this.$refs.lo_sectionList.scrollTop += this.speed.y;
+
+      // * If speed is slow or 0, stop animation
+      if (this.isReadyToStopMotion()) {
+        console.log("Timeline.scrollInertia: removing ticker");
+        gsap.ticker.remove(this.scrollInertia);
+      }
+    },
+    isReadyToStopMotion() {
+      let isReadyX = true;
+      let isReadyY = true;
+
+      if (!this.isAtEdge(this.$refs.lo_sectionList, "horizontal")) {
+        if (Math.abs(this.speed.x) > this.speed.min) isReadyX = false;
+      }
+      if (!this.isAtEdge(this.$refs.lo_sectionList, "vertical")) {
+        if (Math.abs(this.speed.y) > this.speed.min) isReadyY = false;
+      }
+
+      return isReadyX && isReadyY;
+    },
+    isAtEdge(element, direction = "horizontal") {
+      if (direction === "horizontal") {
+        if (
+          element.scrollLeft === 0 ||
+          element.scrollLeft === element.scrollWidth - element.clientWidth
+        )
+          return true;
+      } else if (direction === "vertical") {
+        if (
+          element.scrollTop === 0 ||
+          element.scrollTop === element.scrollHeight - element.clientHeight
+        )
+          return true;
+      }
+
+      return false;
+    },
+    calculateSpeedWithInertia(speed) {
+      if (speed > 0) {
+        speed = speed * this.inertia;
+        if (speed < this.speed.min) speed = 0;
+      } else if (speed < 0) {
+        speed = speed * this.inertia;
+        if (speed > this.speed.min) speed = 0;
+      }
+
+      return clampNumber(speed, -this.speed.max, this.speed.max);
+    },
   },
   mounted() {
     // * Set timelineScroll to zero if not defined
@@ -117,7 +249,9 @@ export default {
         dragClickables: true,
         lockAxis: false,
         zIndexBoost: false,
+        onDragStart: this.onTimelineDragStart,
         onDrag: this.onTimelineDrag,
+        onDragEnd: this.onTimelineDragEnd,
       });
     }
 
@@ -127,6 +261,16 @@ export default {
   },
   async created() {
     const ucLangCode = this.globalVars.langCode.toUpperCase();
+
+    // * Disables gsap Draggable if on mobile
+    // * This gives a much smoother experience on mobile
+    if (
+      /Android|webOS|iPhone|iPad|Mac|Macintosh|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+        navigator.userAgent,
+      )
+    ) {
+      this.isDraggable = false;
+    }
 
     this.globalVars.lastYear = 2015;
     this.globalVars.periods = periods;

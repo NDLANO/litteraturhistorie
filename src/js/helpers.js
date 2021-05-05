@@ -199,3 +199,7 @@ function getElementPeriod(periods, elementYear) {
   }
   return null;
 }
+
+export function clampNumber(numberToClamp, min, max) {
+  return Math.min(Math.max(numberToClamp, min), max);
+}
