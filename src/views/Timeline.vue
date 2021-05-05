@@ -76,6 +76,16 @@ export default {
       periods: periods,
       showAuthorModal: false,
       selectedAuthor: null,
+      prevDragX: null,
+      prevDragY: null,
+      newDragX: null,
+      newDragY: null,
+      speed: {
+        x: 0,
+        y: 0,
+        min: 2, // Minimum speed allowed
+      },
+      inertia: 0.93, // *
     };
   },
   inject: ["globalVars"],
@@ -99,7 +109,87 @@ export default {
 
       return period["nbTitle"];
     },
-    onTimelineDrag(e) {},
+    onTimelineDragStart(e) {
+      console.log("Timeline.onTimelineDragStart: removing ticker");
+      gsap.ticker.remove(this.scrollInertia);
+      this.prevDragX = this.$refs.lo_sectionList.scrollLeft;
+      this.prevDragY = this.$refs.lo_sectionList.scrollTop;
+    },
+    onTimelineDrag(e) {
+      // * Init prevDragX/Y if no value,
+      // * store the (now old) newDragX/Y if not
+      if (!this.prevDragX) {
+        this.prevDragX = this.$refs.lo_sectionList.scrollLeft;
+      } else {
+        this.prevDragX = this.newDragX;
+      }
+
+      if (!this.prevDragY) {
+        this.prevDragY = this.$refs.lo_sectionList.scrollTop;
+      } else {
+        this.prevDragY = this.newDragY;
+      }
+
+      // * Set newDragX/Y
+      this.newDragX = this.$refs.lo_sectionList.scrollLeft;
+      this.newDragY = this.$refs.lo_sectionList.scrollTop;
+    },
+    onTimelineDragEnd(e) {
+      console.log(
+        "Timeline.onTimelineDragend: prevDragX = ",
+        this.prevDragX,
+        ", scrollLeft = ",
+        this.newDragX,
+        ", speed = ",
+        this.newDragX - this.prevDragX,
+      );
+
+      this.speed.x = this.newDragX - this.prevDragX;
+      this.speed.y = this.newDragY - this.prevDragY;
+
+      if (this.speed.x !== 0 || this.speed.y !== 0) {
+        console.log(
+          "Timeline.onTimelineDragEnd: speed is not 0: ",
+          this.speed.x,
+          ", ",
+          this.speed.y,
+        );
+        console.log("Timeline.onTimelineDragEnd: adding ticker");
+        gsap.ticker.add(this.scrollInertia);
+      } else {
+        console.log("Timeline.onTimelineDragEnd: removing ticker");
+        gsap.ticker.remove(this.scrollInertia);
+      }
+    },
+    scrollInertia() {
+      this.speed.x = this.calculateSpeedWithInertia(this.speed.x);
+      this.speed.y = this.calculateSpeedWithInertia(this.speed.y);
+
+      this.$refs.lo_sectionList.scrollLeft += this.speed.x;
+      this.$refs.lo_sectionList.scrollTop += this.speed.y;
+
+      // * If speed is slow or 0, stop animation
+      if (
+        (Math.abs(this.speed.x) < this.speed.min &&
+          Math.abs(this.speed.y) < this.speed.min) ||
+        this.speed.x == undefined
+      ) {
+        console.log("Timeline.scrollInertia: removing ticker");
+        gsap.ticker.remove(this.scrollInertia);
+      }
+    },
+    // * C
+    calculateSpeedWithInertia(speed) {
+      if (speed > 0) {
+        speed = speed * this.inertia;
+        if (speed < this.speed.min) speed = 0;
+      } else if (speed < 0) {
+        speed = speed * this.inertia;
+        if (speed > this.speed.min) speed = 0;
+      }
+
+      return speed;
+    },
   },
   mounted() {
     // * Set timelineScroll to zero if not defined
@@ -117,7 +207,9 @@ export default {
         dragClickables: true,
         lockAxis: false,
         zIndexBoost: false,
+        onDragStart: this.onTimelineDragStart,
         onDrag: this.onTimelineDrag,
+        onDragEnd: this.onTimelineDragEnd,
       });
     }
 
