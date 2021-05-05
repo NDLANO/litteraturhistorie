@@ -128,6 +128,16 @@ export default {
   async created() {
     const ucLangCode = this.globalVars.langCode.toUpperCase();
 
+    // * Disables gsap Draggable if on mobile
+    // * This gives a much smoother experience on mobile
+    if (
+      /Android|webOS|iPhone|iPad|Mac|Macintosh|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+        navigator.userAgent,
+      )
+    ) {
+      this.isDraggable = false;
+    }
+
     this.globalVars.lastYear = 2015;
     this.globalVars.periods = periods;
 
