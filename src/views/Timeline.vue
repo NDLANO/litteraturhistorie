@@ -180,10 +180,10 @@ export default {
       let isReadyY = true;
 
       if (!this.isAtEdge(this.$refs.lo_sectionList, "horizontal")) {
-        if (this.speed.x > this.speed.min) isReadyX = false;
+        if (Math.abs(this.speed.x) > this.speed.min) isReadyX = false;
       }
       if (!this.isAtEdge(this.$refs.lo_sectionList, "vertical")) {
-        if (this.speed.y > this.speed.min) isReadyY = false;
+        if (Math.abs(this.speed.y) > this.speed.min) isReadyY = false;
       }
 
       return isReadyX && isReadyY;
