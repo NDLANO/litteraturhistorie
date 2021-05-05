@@ -169,16 +169,41 @@ export default {
       this.$refs.lo_sectionList.scrollTop += this.speed.y;
 
       // * If speed is slow or 0, stop animation
-      if (
-        (Math.abs(this.speed.x) < this.speed.min &&
-          Math.abs(this.speed.y) < this.speed.min) ||
-        this.speed.x == undefined
-      ) {
+      if (this.isReadyToStopMotion()) {
         console.log("Timeline.scrollInertia: removing ticker");
         gsap.ticker.remove(this.scrollInertia);
       }
     },
-    // * C
+    isReadyToStopMotion() {
+      let isReadyX = true;
+      let isReadyY = true;
+
+      if (!this.isAtEdge(this.$refs.lo_sectionList, "horizontal")) {
+        if (this.speed.x > this.speed.min) isReadyX = false;
+      }
+      if (!this.isAtEdge(this.$refs.lo_sectionList, "vertical")) {
+        if (this.speed.y > this.speed.min) isReadyY = false;
+      }
+
+      return isReadyX && isReadyY;
+    },
+    isAtEdge(element, direction = "horizontal") {
+      if (direction === "horizontal") {
+        if (
+          element.scrollLeft === 0 ||
+          element.scrollLeft === element.scrollWidth - element.clientWidth
+        )
+          return true;
+      } else if (direction === "vertical") {
+        if (
+          element.scrollTop === 0 ||
+          element.scrollTop === element.scrollHeight - element.clientHeight
+        )
+          return true;
+      }
+
+      return false;
+    },
     calculateSpeedWithInertia(speed) {
       if (speed > 0) {
         speed = speed * this.inertia;
