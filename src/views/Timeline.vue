@@ -55,7 +55,7 @@ import TimelineSection from "@/components/TimelineSection";
 import { readFile } from "@/js/fileTools";
 import { periods } from "@/js/periodsData";
 
-import { getRoutesWithString } from "@/js/helpers";
+import { getRoutesWithString, clampNumber } from "@/js/helpers";
 
 export default {
   name: "Timeline",
@@ -145,8 +145,16 @@ export default {
         this.newDragX - this.prevDragX,
       );
 
-      this.speed.x = this.newDragX - this.prevDragX;
-      this.speed.y = this.newDragY - this.prevDragY;
+      this.speed.x = clampNumber(
+        this.newDragX - this.prevDragX,
+        -this.speed.max,
+        this.speed.max,
+      );
+      this.speed.y = clampNumber(
+        this.newDragY - this.prevDragY,
+        -this.speed.max,
+        this.speed.max,
+      );
 
       if (this.speed.x !== 0 || this.speed.y !== 0) {
         console.log(
@@ -214,7 +222,7 @@ export default {
         if (speed > this.speed.min) speed = 0;
       }
 
-      return speed;
+      return clampNumber(speed, -this.speed.max, this.speed.max);
     },
   },
   mounted() {
