@@ -16,7 +16,7 @@ li.sectionList_item
         .circleEra_content
           .circleEra_date {{ from }}-{{ to }}
           h2.circleEra_title {{ title }}
-          button.btnEra(
+          button.btnEra(:id="id"
             @pointerdown="onPointerDown"
             @pointerup="onEraPointerUp"
           ) Mer info                  
