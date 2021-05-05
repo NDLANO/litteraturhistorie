@@ -83,6 +83,7 @@ export default {
       speed: {
         x: 0,
         y: 0,
+        max: 100,
         min: 1, // Minimum speed allowed
       },
       inertia: 0.93, // *
