@@ -86,7 +86,7 @@ export default {
         max: 100,
         min: 1, // Minimum speed allowed
       },
-      inertia: 0.93, // *
+      inertia: 0.95, // *
     };
   },
   inject: ["globalVars"],
