@@ -125,7 +125,7 @@ export const periods = [
     nnTitle: "Postmodernisme og realisme",
     nbTitle: "Postmodernisme og realisme",
     from: "1960",
-    to: "2015",
+    to: "2020",
     layer: 0,
     left: 0,
     yearMarkings: [[1960, 930]],

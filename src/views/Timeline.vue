@@ -272,7 +272,7 @@ export default {
       this.isDraggable = false;
     }
 
-    this.globalVars.lastYear = 2015;
+    this.globalVars.lastYear = 2020;
     this.globalVars.periods = periods;
 
     // * load artists

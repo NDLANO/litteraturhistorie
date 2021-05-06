@@ -331,7 +331,7 @@ export default [
     meta: {
       title: "Postmodernisme og realisme",
       from: "1960",
-      to: "2015",
+      to: "2020",
       color: "0xFF9900",
       fillColor: "0xFFCC7F",
       y: "20",
@@ -349,7 +349,7 @@ export default [
     meta: {
       title: "Postmodernisme og realisme",
       from: "1960",
-      to: "2015",
+      to: "2020",
       color: "0xFF9900",
       fillColor: "0xFFCC7F",
       y: "20",
