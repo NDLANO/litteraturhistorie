@@ -265,7 +265,7 @@ export default {
     // * Disables gsap Draggable if on mobile
     // * This gives a much smoother experience on mobile
     if (
-      /Android|webOS|iPhone|iPad|Mac|Macintosh|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+      /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
         navigator.userAgent,
       )
     ) {
