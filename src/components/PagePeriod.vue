@@ -6,7 +6,7 @@
       .pageTopBar_firstItem {{ title }}
       .pageTopBar_secondItem {{ from }} - {{ to }}
     
-    .page
+    .page.page_period
       PageBanner(:src="bannerImage")
       PagePeriodCircle(:src="circleImage" :title="title" :from="from" :to="to")
       .page_content

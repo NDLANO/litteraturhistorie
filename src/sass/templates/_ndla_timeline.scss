@@ -755,3 +755,16 @@ blockquote {
     margin-top: -$base-line-height * 10;
   }
 }
+
+.page_period {
+  h5 {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 1rem;
+    line-height: 28px;
+    margin-bottom: 0;
+    margin-top: 0;
+  }
+  h5 + p {
+    margin-top: 0;
+  }
+}
