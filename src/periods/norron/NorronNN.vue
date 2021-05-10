@@ -1,9 +1,14 @@
 <template lang="pug">
-PagePeriod
+PagePeriod(
+  :bannerImage="require(`./Norroen_01.jpg`)"
+  :circleImage="require(`./banner_norron.png`)"
+  )
   // Content here
   h3 Tida og samfunnstilhøva 
   p
     | Den norrøne perioden strekkjer seg over om lag 600 år. Vi plar dele perioden i to: vikingtid (fram til ca. 1050) og gammalnorsk tid (fram til ca. 1350). Noreg og Island blir rekna som eitt felles område i norrøn tid, med stort sett felles språk, litteratur og mytologi. Den norrøne perioden fell i store drag saman med den epoken som i Europa blir kalla mellomalderen. 
+
+  img(src="./Norroen_Tida_og_samfunnsforholdene1.jpg" alt="")
 
   h3 Vikingtida (ca. 800–1050)  
 
@@ -14,7 +19,9 @@ PagePeriod
   p
     | Mellom ca. 870 og 930 reiser mange nordmenn vestover til Island og buset seg der. Denne nybyggjarperioden på Island kallar vi landnåmstida (nema land er norrønt og tyder å ta land). Det er særleg uår og jordmangel som skaper utferdstrong, men mange er òg misnøgde med kong Harald Hårfagre, som styrer Noreg med hard hand. 
 
-  h3 Gammalnorsk tid (ca. 1050–1350)  
+  h3 Gammalnorsk tid (ca. 1050–1350) 
+
+  img(src="./Norroen_Tida_og_samfunnsforholdene2.jpg" alt="")
 
   p
     | Kring år 1000 skjer det nokre viktige endringar: Vikingtokta tek slutt, kristendommen kjem til Norden, og saman med den kristne trua får vi skrivekunsten og det latinske alfabetet. Desse endringane markerer slutten på vikingtida og byrjinga på gammalnorsk tid. 
@@ -33,6 +40,10 @@ PagePeriod
 
   h3 Norrøn mytologi  
 
+  figure
+    img(src="./Norroen_Norroen_Mytologi1.jpg" alt="Fenresulven framstilt på Ledbergsstenen, ein svensk runestein frå 1000-talet")
+    figcaption Fenresulven framstilt på Ledbergsstenen, ein svensk runestein frå 1000-talet
+
   h5 Norrøn gudelære  
   p
     | Norrøn mytologi er gudelæra som er utbreidd i Norden i førkristen tid. Ei viktig kjelde til denne kunnskapen er Snorres Edda. Boka er skriven på 1200-talet, to hundre år 
@@ -48,6 +59,10 @@ PagePeriod
   h5 Krigsguden  
   p
     | Odin er krigsgud, men også gud for visdom og skaldskap. Når det er krig, svever valkyrjene over stridsplassen og peiker ut dei som skal falle i krigen og komme til Valhall. Der skal dei leve eit evig krigarliv. 
+
+  figure
+    img(src="./Norroen_Norroen_Mytologi2.jpg" alt="Fenresulven framstilt på Ledbergsstenen, ein svensk runestein frå 1000-talet")
+    figcaption Fenresulven framstilt på Ledbergsstenen, ein svensk runestein frå 1000-talet
 
   h5 Gudinna for ekteskapet  
   p
@@ -81,7 +96,9 @@ PagePeriod
   p
     | Njord og barna hans, Frøy og Frøya, høyrer til ei anna gudeætt, vaneætta. Dei er knytte til avling, grøde og forplanting. Frøya er også gudinne for kjærleik og erotikk. 
 
-  h3 Norrøn litteratur  
+  h3 Norrøn litteratur 
+
+  img(src="./Norroen_Norroen_litteratur.jpg" alt="")
 
   p
     | Med norrøn litteratur meiner vi litteraturen som blir skapt i Noreg og på Island i norrøn tid, det vil seie mellom om lag 800 og 1350. 
@@ -105,6 +122,10 @@ PagePeriod
     li Høvisk litteratur kallar vi den norrøne litteraturen som blir skapt ved kongehoffet.
 
   h3 Den eldre Edda  
+  figure
+    img(src="./Norroen_Den_eldre_Edda.jpg" alt="Volva ( frå ”Voluspå”) på eit færøysk frimerke av Anker Eli Petersen.")
+    figcaption Volva ( frå ”Voluspå”) på eit færøysk frimerke av Anker Eli Petersen.
+
   ul
     li Dikta i Den eldre Edda er den eldste norrøne litteraturen vi kjenner til. Desse tekstane går heilt attende til 800-talet. Ordet ”edda” tyder oldemor og gjer det klart at det handlar om gammal dikting.  
     li Den eldre Edda omfattar om lag 30 dikt som blei funne på Island i 1643.  
@@ -112,6 +133,10 @@ PagePeriod
     li Dei mest kjende dikta frå Den eldre Edda er ”Voluspå”, ”Trymskvida” og ”Håvamål”.
 
   h3 Skaldedikt 
+  figure
+    img(src="./Norroen_Skaldedikt.jpg" alt="Egil Skallagrimsson, illustrert i eit islandsk manuskript frå 1600-talet.")
+    figcaption Egil Skallagrimsson, illustrert i eit islandsk manuskript frå 1600-talet.
+
   ul
     li Skald er den norrøne nemninga for diktar og historieforteljar. I norrøn tid fekk skaldane ofte lønn av høvdingar og småkongar for å vere husdiktarar. Det å vere ein god skald gir ære og heider.  
     li Den mest kjende skalden som levde på Island, var Egil Skallagrimsson.  
@@ -119,6 +144,10 @@ PagePeriod
     li Mange av skaldekvada er signerte – i motsetning til eddadikta, som ikkje har namngitte forfattarar. 
 
   h3 Den yngre Edda  
+  figure
+    img(src="./Norroen_Den_yngre_Edda.jpg" alt="Detalj frå ”Codex Frisianus” (1325), den einaste bevarte avskrifta av Heimskringla frå mellomalderen.")
+    figcaption Detalj frå ”Codex Frisianus” (1325), den einaste bevarte avskrifta av Heimskringla frå mellomalderen.
+
   ul
     li Den yngre Edda er ei lærebok i skaldekunst som er skriven av Snorre Sturluson.  
     li Snorre (1179–1241) er den mest kjende diktaren og historikaren frå norrøn tid.  
@@ -127,6 +156,10 @@ PagePeriod
     li Snorre er også høvding og jurist. Han kjem i konflikt med den norske kongen Håkon Håkonsson og blir myrda på garden sin i 1241 av kongen sine sendemenn. 
 
   h3 Islendingesogene  
+  figure
+    img(src="./Norroen_Islendingesagaene.jpg" alt="”Njålssoga” i eit islandsk manuskript frå omkring 1350")
+    figcaption ”Njålssoga” i eit islandsk manuskript frå omkring 1350
+
   ul
     li Islendingesogene er dei mest kjende prosaforteljingane frå norrøn litteratur.  
     li Ordet soge tyder forteljing, og sogene blir i førstninga framførte som rein underhaldning. Så blir dei skrivne ned på 1200-talet.  
@@ -134,12 +167,20 @@ PagePeriod
     li ”Njålssoga”, ”Soga om Gisle Sursson” og ”Soga om Gunnlaug Ormstunge” er dei mest kjende islendingesogene.  
 
   h3 Kristen litteratur  
+  figure
+    img(src="./Norroen_Kristen_litteratur.jpg" alt="Olav den heilage på eit måleri i Överselö kyrkje i Sverige")
+    figcaption Olav den heilage på eit måleri i Överselö kyrkje i Sverige
+
   ul
     li Den kristne litteraturen i norrøn tid omfattar preiker, helgenlegender og kristne kvad. Tekstane blir skrivne ned av prestar, munkar og nonner.  
     li Den eldste boka som er funnen, er Gammalnorsk homiliebok. Det er ei bok med utvalde bibeltekstar og preiker.  
     li I tillegg blir det skrive ned helgenlegender, det vil seie forteljingar om personar som må lide og døy på grunn av trua. Etter at dei er døde, skjer det under som viser at dei er helgenar. Det finst fleire slike legender om Olav den heilage.  
 
-  h3 Høvisk litteratur  
+  h3 Høvisk litteratur 
+  figure
+    img(src="./Norroen_Hoevisk_litteratur.jpg" alt="Tysk tresnitt frå 1500-talet med motiv frå forteljinga om Tristram og Isond.")
+    figcaption Tysk tresnitt frå 1500-talet med motiv frå forteljinga om Tristram og Isond.
+
   ul
     li Med høvisk litteratur meiner vi litteratur som er knytt til kongen og hoffet (høvisk tyder ”som ved hoffet”).  
     li På 1200-talet er kongemakta stor i Noreg, og kong Håkon Håkonsson er interessert i europeisk litteratur. Han får omsett ein del franske og engelske forteljingar til norrønt. Eit eksempel på ei slik forteljing er ”Tristram og Isond”, som handlar om forboden og tragisk kjærleik.  
@@ -149,6 +190,10 @@ PagePeriod
   h3 Litt om språket  
 
   h5 URNORDISK TID  
+  figure
+    img(src="./Norroen_Litt_om_spraaket1.jpg" alt="Hunarkongen Attila (Atle), frå ei svensk utgåve av Den eldre Edda (1893)")
+    figcaption Hunarkongen Attila (Atle), frå ei svensk utgåve av Den eldre Edda (1893)
+
   p
     | Den eldste perioden i språkhistoria vår heiter urnordisk tid. Perioden strekkjer seg frå om lag år 200 til år 800. Den viktigaste kjelda til kunnskap om språket frå denne tida er runeinnskrifter. Eit særtrekk ved urnordisk er at orda er klangfulle, vokalrike og lange, med atskilleg fleire stavingar enn i moderne norsk. I utdraget av ”Atlekvadet” (professor Arne Torp) får du eit inntrykk av korleis urnordisk høyrdest ut.  
 
@@ -166,7 +211,11 @@ PagePeriod
 
   
 
-  h5 NORRØN TID  
+  h5 NORRØN TID 
+  figure
+    img(src="./Norroen_Litt_om_spraaket2.jpg" alt="Kong Sigurd og kong Baldvine rir frå Jorsalaborg til elva Jordan. Illustrasjon frå Snorre av Gerhard Munthe")
+    figcaption Kong Sigurd og kong Baldvine rir frå Jorsalaborg til elva Jordan. Illustrasjon frå Snorre av Gerhard Munthe
+
   p
     | Den norrøne perioden strekkjer seg over 600 år, frå litt før 800 til rundt år 1350. Språket som blir snakka i Noreg og på Island i denne perioden, kallar vi norrønt. Språket endrar seg sjølvsagt også gjennom desse 600 åra, men endringane er mindre og skjer litt etter litt. I boka Kongsspegelen kan du høyre norrønt slik vi trur det klang på 1200-talet.  
 
