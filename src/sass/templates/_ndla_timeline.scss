@@ -731,12 +731,35 @@ blockquote {
   fill: $main-color;
 }
 
-.page_content img {
+.page_content img,
+.page_content figure {
   width: auto;
   max-width: 100%;
 
-  &.left-image {
-    padding-right: 25px;
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
+  @include breakpoint($medium) {
+    &.left-image {
+      // padding-right: 16px;
+      float: left;
+      margin-left: 0;
+      margin-right: 1rem;
+      img {
+        display: inline;
+      }
+    }
+    &.right-image {
+      // padding-left: 1rem;
+      float: right;
+      margin-right: 0;
+      margin-left: 1rem;
+      img {
+        display: inline;
+      }
+    }
   }
 }
 
