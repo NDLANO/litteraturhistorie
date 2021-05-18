@@ -264,6 +264,11 @@ $rowWidth: 100% / 12;
 .m0 {
   margin: 0;
 }
+
+.m1rem {
+  margin: 1rem;
+}
+
 .mt0 {
   margin-top: 0px !important;
 }
@@ -296,4 +301,14 @@ $rowWidth: 100% / 12;
 
 .display-ib {
   display: inline-block;
+}
+
+.tal {
+  text-align: left;
+}
+.tac {
+  text-align: center;
+}
+.tar {
+  text-align: right;
 }
