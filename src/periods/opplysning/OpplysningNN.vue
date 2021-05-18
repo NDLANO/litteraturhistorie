@@ -1,5 +1,8 @@
 <template lang="pug">
-PagePeriod
+PagePeriod(
+  :bannerImage="require(`./Opplysningstid_01.jpg`)"
+  :circleImage="require(`./sirkel_opplysning.png`)"
+)
   // Content here
 
   h3 Tida og samfunnstilhøva 
@@ -156,19 +159,19 @@ PagePeriod
   p
     | Klassisismen i musikken kallar vi òg wienerklassisisme. Det er fordi Wien var heimstaden til dei fleste komponistane på 1700-talet.
 
-  div.flex.flex-wrap
-    div.col.col4
+  .flex.flex-wrap
+    .col.col4
       figure.figure-left
         img(src="./Opplysningstid_Andre_kunstformer4.jpg" alt="")
-    div.col.col8
+    .col.col8
       h5 To store wienerklassisistar
       p
         | Wolfgang Amadeus Mozart (1756–1791) er den største av wienerklassisistane. Ein annan er Joseph Haydn (1732–1809). Begge er kjende for ein stor produksjon og minneverdig musikk som aldri går av mote.
-  div.flex.flex-wrap
-    div.col.col4
+  .flex.flex-wrap
+    .col.col4
       figure.figure-left
         img(src="./Opplysningstid_Andre_kunstformer5.jpg" alt="")
-    div.col.col8
+    .col.col8
       h5 Beethoven som wienerklassisist
       p
         | Dei første komposisjonane til Ludwig van Beethoven (1770–1827) har mykje til felles med Mozart og Haydn. Denne delen av Beethovens produksjon reknar vi derfor som wienerklassisistisk. 
