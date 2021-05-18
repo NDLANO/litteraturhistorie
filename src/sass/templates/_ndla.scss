@@ -261,6 +261,9 @@ $rowWidth: 100% / 12;
   }
 }
 
+.m0 {
+  margin: 0;
+}
 .mt0 {
   margin-top: 0px !important;
 }
@@ -282,4 +285,8 @@ $rowWidth: 100% / 12;
 }
 .pl20 {
   padding-left: 20px;
+}
+
+.flex {
+  display: flex;
 }
