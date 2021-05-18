@@ -1,7 +1,13 @@
 <template lang="pug">
-PagePeriod
+PagePeriod(
+  :bannerImage="require(`./Barokk_01.jpg`)"
+  :circleImage="require(`./sirkel_barokk.png`)"
+  )
   // Content here
   h3 Tida og samfunnstilhøva 
+
+  figure
+    img(src="./Barokk_Tida_og_samfunnsforholdene1.jpg" alt="")
 
   h5 Kyrkja mister makt 
   p
@@ -12,6 +18,11 @@ PagePeriod
     | Dei som har makt i samfunnet, blir dyrka. Det er stor avstand mellom dei få rike og resten av folket. Herskarane utnyttar religionen til å rettferdiggjere makt og posisjon. Ifølgje Luther har kongen fått makta si frå Gud fordi all makt kjem frå Gud. 
 
   h5 Eineveldet 
+
+  figure.col.col5.left-image
+    img(src="./Barokk_Tida_og_samfunnsforholdene2.jpg" alt="Kong Fredrik 3. av Danmark og Noreg")
+    figcaption Kong Fredrik 3. av Danmark og Noreg
+
   p
     | I 1660 blir Fredrik 3. eineveldig konge over Danmark og Noreg. Det vil seie at han får uavgrensa makt. Kongen konfiskerer delar av dei kyrkjelege eigedommane etter reformasjonen og skaffar seg dermed meir rikdom. 
 
@@ -20,6 +31,10 @@ PagePeriod
     | Omgrepet merkantilisme stammar frå opplysningstida. Dei store sjøfartsnasjonane driv stor handelsverksemd, og ideen er å eksportere fleire varer enn dei importerer. På den måten legg ein til rette for større statsmakt, der kongen styrer all handel og skjermar produksjonen. Dette fører i mange tilfelle til konflikt mellom ulike statar, og mellom kongen og det nye handelsborgarskapet  
 
   h3 Litt om tenkjemåten 
+
+  figure.col.col4.right-image
+    img(src="./Barokk_Litt_om_tenkemaaten.jpg" alt="Detalj frå tittelstikket på førsteutgåva av boka Taare-Offer av Dorothe Engelbretsdotter")
+    figcaption Detalj frå tittelstikket på førsteutgåva av boka Taare-Offer av Dorothe Engelbretsdotter  
 
   h5 Eineveldet 
   p 
@@ -39,6 +54,9 @@ PagePeriod
 
   h3 Kjennemerke ved barokkstilen 
 
+  figure
+    img(src="./Barokk_Kjennetegn_ved_barokkstilen1.jpg" alt="")
+
   h5 Barokken som stilart 
   p 
     | Barokken er nemninga på ein stilart som oppstår i Roma på slutten av 1500-talet. I tillegg er barokken namnet på ein kulturhistorisk epoke som fyller heile 1600-talet. Barokken omfattar europeisk kunst, arkitektur, musikk og litteratur. I Noreg ser vi påverknaden noko seinare enn i resten av Europa, og her i landet reknar vi derfor den barokke perioden frå ca. 1650 til 1750. 
@@ -51,6 +69,9 @@ PagePeriod
   p 
     | I barokken møter vi ei pompøs og prangande livsutfolding, med vekt på det overdådige. Skulptur- og målarkunst, barokk arkitektur og møbelstil er prega av ei slik overveldande utsmykking. Det blir ikkje spart på verken materiale eller effektar.  
 
+  figure.col.col4.left-image
+    img(src="./Barokk_Kjennetegn_ved_barokkstilen2.jpg" alt="")    
+
   h5 Konflikt og dramatikk 
   p 
     | Heller ikkje forfattarane er smålåtne i bruken av verkemiddel. Dei bruker svulstige uttrykk og sterke metaforar. Overdriving, motsetningar og eit sterkt og dramatisk biletspråk er kjennemerke på barokk kunst av alle slag. Operaen som scenekunst voks fram i den barokke perioden, og store, påkosta operaframsyningar kom på mote.  
@@ -59,12 +80,24 @@ PagePeriod
   p 
     | Gud står i sentrum i barokken, men kunsten er likevel dualistisk. Det vil seie at kunstnaren fokuserer på både mennesket (det verdslege) og Gud (det åndelege). Kunstnaren fokuserer altså både på dette livet og på livet etter døden. 
 
+  figure.col.col4.right-image
+    img(src="./Barokk_Kjennetegn_ved_barokkstilen3.jpg" alt="Antonio Vivaldi")
+    figcaption Antonio Vivaldi
+
+  figure.col.col4.right-image
+    img(src="./Barokk_Kjennetegn_ved_barokkstilen4.jpg" alt="Johan Sebastian Back")
+    figcaption Johan Sebastian Back
+
   h5 Sterke kontrastar 
   p 
     | Det er dei sterke kontrastane som pregar barokken. Desse kontrastane kjem òg til uttrykk gjennom musikken. Barokk musikk er lett å dra kjensel på med sine sterke kontrastar, slik vi kjenner det gjennom Dei fire årstidene av den italienske komponisten Vivaldi. Andre kjende komponistar frå perioden er Bach og Händel (Tyskland). Begge er særleg kjende for å komponere kyrkjemusikk.
 
 
   h3 Litteraturen 
+
+  figure.col.col6.left-image
+    img(src="./Barokk_Litteraturen.jpg")
+    figcaption Tittelstikket på førsteutgåva av boka Taare-Offer av Dorothe Engelbretsdotter
 
   h5 Religiøs litteratur 
   p
