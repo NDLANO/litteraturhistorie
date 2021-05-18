@@ -60,7 +60,7 @@ PagePeriod(
   p
     | Odin er krigsgud, men også gud for visdom og skaldskap. Når det er krig, svever valkyrjene over stridsplassen og peiker ut dei som skal falle i krigen og komme til Valhall. Der skal dei leve eit evig krigarliv. 
 
-  figure
+  figure.col.col6.left-image
     img(src="./Norroen_Norroen_Mytologi2.jpg" alt="Fenresulven framstilt på Ledbergsstenen, ein svensk runestein frå 1000-talet")
     figcaption Fenresulven framstilt på Ledbergsstenen, ein svensk runestein frå 1000-talet
 
@@ -122,9 +122,9 @@ PagePeriod(
     li Høvisk litteratur kallar vi den norrøne litteraturen som blir skapt ved kongehoffet.
 
   h3 Den eldre Edda  
-  figure
+  figure.col.col6.left-image
     img(src="./Norroen_Den_eldre_Edda.jpg" alt="Volva ( frå ”Voluspå”) på eit færøysk frimerke av Anker Eli Petersen.")
-    figcaption Volva ( frå ”Voluspå”) på eit færøysk frimerke av Anker Eli Petersen.
+    figcaption.pr10 Volva ( frå ”Voluspå”) på eit færøysk frimerke av Anker Eli Petersen.
 
   ul
     li Dikta i Den eldre Edda er den eldste norrøne litteraturen vi kjenner til. Desse tekstane går heilt attende til 800-talet. Ordet ”edda” tyder oldemor og gjer det klart at det handlar om gammal dikting.  
@@ -133,9 +133,9 @@ PagePeriod(
     li Dei mest kjende dikta frå Den eldre Edda er ”Voluspå”, ”Trymskvida” og ”Håvamål”.
 
   h3 Skaldedikt 
-  figure
+  figure.col.col6.pr20.left-image
     img(src="./Norroen_Skaldedikt.jpg" alt="Egil Skallagrimsson, illustrert i eit islandsk manuskript frå 1600-talet.")
-    figcaption Egil Skallagrimsson, illustrert i eit islandsk manuskript frå 1600-talet.
+    figcaption.pr10 Egil Skallagrimsson, illustrert i eit islandsk manuskript frå 1600-talet.
 
   ul
     li Skald er den norrøne nemninga for diktar og historieforteljar. I norrøn tid fekk skaldane ofte lønn av høvdingar og småkongar for å vere husdiktarar. Det å vere ein god skald gir ære og heider.  
@@ -187,10 +187,12 @@ PagePeriod(
     li Håkon Håkonsson får òg omsett Strengleikar, ei samling kjærleiksnoveller med erotisk innhald.  
     li Kongsspegelen er ei lærebok i høvisk framferd som er nedskriven rundt 1250. Boka er truleg skriven for sønene til Håkon Håkonsson.  
 
-  h3 Litt om språket  
+  h3 Litt om språket 
+
+  NdlaVideo(source="media/periods/norron/Spraket_i_Norge_på_1200-tallet.mp4")
 
   h5 URNORDISK TID  
-  figure
+  figure.col.col5.right-image
     img(src="./Norroen_Litt_om_spraaket1.jpg" alt="Hunarkongen Attila (Atle), frå ei svensk utgåve av Den eldre Edda (1893)")
     figcaption Hunarkongen Attila (Atle), frå ei svensk utgåve av Den eldre Edda (1893)
 

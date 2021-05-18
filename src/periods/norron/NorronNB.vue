@@ -57,7 +57,7 @@ PagePeriod(
   p
     | Odin er krigsgud, men også gud for visdom og skaldskap. Når det er krig, svever valkyrjene over stridsplassen og peker ut dem som skal falle i krigen og komme til Valhall. Der skal de leve et evig krigerliv.  
 
-  figure
+  figure.col.col6.left-image
     img(src="./Norroen_Norroen_Mytologi2.jpg" alt="Ledbergsstenen, ein svensk runestein frå 1000-talet")
     figcaption Ledbergsstenen, en svensk runestein frå 1000-talet
 
@@ -120,9 +120,9 @@ PagePeriod(
 
   h3 Den eldre Edda  
 
-  figure
+  figure.col.col6.left-image
     img(src="./Norroen_Den_eldre_Edda.jpg" alt="Volva ( fra ”Voluspå”) på et færøysk frimerke av Anker Eli Petersen.")
-    figcaption Volva ( fra ”Voluspå”) på et færøysk frimerke av Anker Eli Petersen.
+    figcaption.pr10 Volva ( fra ”Voluspå”) på et færøysk frimerke av Anker Eli Petersen.
 
   ul
     li Diktene i Den eldre Edda er den eldste norrøne litteraturen vi kjenner til. Disse tekstene går helt tilbake til 800-tallet. Ordet ”edda” betyr oldemor og indikerer at det dreier seg om gammel diktning.  
@@ -132,9 +132,9 @@ PagePeriod(
   
 
   h3 Skaldedikt 
-  figure
+  figure.col.col6.pr20.left-image
     img(src="./Norroen_Skaldedikt.jpg" alt="Egil Skallagrimsson, illustrert i et islandsk manuskript frå 1600-talet.")
-    figcaption Egil Skallagrimsson, illustrert i et islandsk manuskript frå 1600-talet.
+    figcaption.pr10 Egil Skallagrimsson, illustrert i et islandsk manuskript frå 1600-talet.
   ul
     li Skald er den norrøne betegnelsen for dikter og historieforteller. I norrøn tid fikk skaldene ofte lønn av høvdinger og småkonger for å være husdiktere. Det å være en god skald gav ære og heder.  
     li Den mest kjente skalden som levde på Island, var Egil Skallagrimsson.  
@@ -187,10 +187,12 @@ PagePeriod(
     li Håkon Håkonsson fikk også oversatt Strengleiker, en samling kjærlighetsnoveller med erotisk innhold.  
     li Kongespeilet er ei lærebok i høvisk framferd som er nedskrevet rundt 1250. Boka er trolig skrevet for sønnene til Håkon Håkonsson. 
 
-  h3 Litt om språket  
+  h3 Litt om språket
+
+  NdlaVideo(source="media/periods/norron/Spraket_i_Norge_på_1200-tallet.mp4")
 
   h5 URNORDISK TID  
-  figure
+  figure.col.col5.right-image
     img(src="./Norroen_Litt_om_spraaket1.jpg" alt="Hunarkongen Attila (Atle), fra en svensk utgave av Den eldre Edda (1893)")
     figcaption Hunarkongen Attila (Atle), fra en svensk utgave av Den eldre Edda (1893)
   p
@@ -198,9 +200,11 @@ PagePeriod(
 
   h5 ”Atlekvadet”  
   p
-    | ”Atlekvadet” er et heltedikt fra rundt år 400. I dette diktet møter vi to personer som faktisk har levd, hunerkongen Attila (norrønt Atli) og burgunderkongen Gunnar. Atles menn tar Gunnar og broren Hogne til fange. Atle vil presse de to til å røpe gjemmestedet for en stor gullskatt som ligger på bunnen av Rhinen. Gunnar er redd for at broren skal røpe hemmeligheten, og krever at han skal drepes. Atles menn prøver først å narre Gunnar med hjertet til trellen Hjalle den feige, men Gunnar avslår. Så får han det riktige hjertet.  
+    | ”Atlekvadet” er et heltedikt fra rundt år 400. I dette diktet møter vi to personer som faktisk har levd, hunerkongen Attila (norrønt Atli) og burgunderkongen Gunnar. Atles menn tar Gunnar og broren Hogne til fange. Atle vil presse de to til å røpe gjemmestedet for en stor gullskatt som ligger på bunnen av Rhinen. Gunnar er redd for at broren skal røpe hemmeligheten, og krever at han skal drepes. Atles menn prøver først å narre Gunnar med hjertet til trellen Hjalle den feige, men Gunnar avslår. Så får han det riktige hjertet.
 
-  h5 Fra urnordisk til norrønt språk  
+  NdlaVideo(source="media/periods/norron/urnordisk_atlekvadet.mp4")
+
+  h5.mt20 Fra urnordisk til norrønt språk  
   p
     | Mot slutten av den urnordiske perioden (ca. 500 til 800) endrer språket seg sterkt. En viktig endring er at ordene blir kortere: HarawaldaR blir til HaraldR, StainawarjaR til Steinarr, ÁnulaibaR til Óláfr osv. Denne endringen kaller vi synkope (sammentrekking) på fagspråket.  
 
