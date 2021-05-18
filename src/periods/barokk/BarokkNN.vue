@@ -181,7 +181,7 @@ PagePeriod(
 
   div.col.col6.display-ib
     figure
-      img(src="./Barokk_Bildekunst_og_arkitektur3.jpg" alt="")
+      img(src="./Barokk_Bildekunst_og_arkitektur3.jpg" alt="Detalj frå skulpturen ”Den heilage Teresas ekstase” av Giovanni Lorenzo Bernini")
       figcaption Detalj frå skulpturen ”Den heilage Teresas ekstase” av Giovanni Lorenzo Bernini
 
 </template>
