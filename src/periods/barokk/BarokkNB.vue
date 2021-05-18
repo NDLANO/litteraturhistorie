@@ -107,25 +107,33 @@ PagePeriod(
   p
     | I Italia er Giambattista Marino den fremste barokkdikteren. I Spania er det Francisco de Quevedo, og i England er det John Donne og John Milton. I Tyskland skriver Martin Luther barokke salmer. Han inspirerer nok Thomas Kingo, som skulle bli den største nordiske salmedikteren i denne perioden.  
 
-  div.flex
-    figure.col.col12
-      img(src="./Barokk_Thomas_Kingo.jpg" alt="Thomas Kingo")
-    div
+  div.flex.flex-wrap
+    div.col.col3
+      figure.figure-left
+        img(src="./Barokk_Thomas_Kingo.jpg" alt="Thomas Kingo")
+    div.col.col9
       h5 Thomas Kingo (1634–1703) 
       p
         | er dansk dikter og biskop. I 1699 kommer det ut ei salmebok som inneholder 86 av salmene hans. Denne boka – Kingos salmebok – blir godkjent av kongen til bruk i alle kirker i Danmark og Norge, og er i bruk helt fram til 1870-årene. Boka finner du på Tidslinja.  
 
-  div
-    figure.col.col4.left-image
-      img(src="./Barokk_Engelbretsdotter.jpg" alt="Thomas Kingo")
+  div.flex.flex-wrap
+    div.col.col3
+      figure.figure-left
+        img(src="./Barokk_Engelbretsdotter.jpg" alt="Dorothe Engelbretsdotter")
 
-    h5 Dorothe Engelbretsdotter (1634–1716)  
-    p
-      | blir født og lever i Bergen. Hun er populær i samtida si og kan leve av boksalget. Det er ganske utrolig at en kvinne kan klare det på 1600-tallet. Men i privatlivet opplever hun mye motgang og sorg. Boka Siælens Sang-Offer finner du på Tidslinja.  
+    div.col.col9
+      h5 Dorothe Engelbretsdotter (1634–1716)  
+      p
+        | blir født og lever i Bergen. Hun er populær i samtida si og kan leve av boksalget. Det er ganske utrolig at en kvinne kan klare det på 1600-tallet. Men i privatlivet opplever hun mye motgang og sorg. Boka Siælens Sang-Offer finner du på Tidslinja.  
 
-  h5 Petter Dass (1647–1707)  
-  p
-    | kommer fra Nordland og er en populær mann i samtida. Han regnes for vår største barokkdikter, selv om stilen hans er mindre tidstypisk enn stilen til Kingo og Engelbretsdotter. Boka Nordlands Trompet finner du på Tidslinja.
+  div.flex.flex-wrap
+    div.col.col3
+      figure.figure-left
+        img(src="./Barokk_Dass.jpg" alt="Peter Dass")
+    div.col.col9
+      h5 Petter Dass (1647–1707)  
+      p
+        | kommer fra Nordland og er en populær mann i samtida. Han regnes for vår største barokkdikter, selv om stilen hans er mindre tidstypisk enn stilen til Kingo og Engelbretsdotter. Boka Nordlands Trompet finner du på Tidslinja.
 
   h3 Litt om språket  
   h5 Talemålet: fra norrønt til moderne norsk 
@@ -137,6 +145,10 @@ PagePeriod(
   h5 Bergen og nedertysk  
   p
     | Bergen og Vestlandet er blitt sterkt språklig påvirket av den hanseatiske (tysk-nederlandske) handelsvirksomheten som har foregått helt siden 1200-tallet. Denne påvirkningen fortsetter og farger både talemålet og skriftspråket i Bergen.  
+
+  figure
+    img(src="./Bibel-Chr._III_-_1.jpg" alt="Tittelbladet på bibelen til Kristian 3. fra 1550")
+    figcaption Tittelbladet på bibelen til Kristian 3. fra 1550
   h5 Bibelen på dansk  
   p
     | Det kirkelige språket er dansk fordi det ble brukt av danske prester. Både bibel, katekisme og salmebok er trykt på dansk. Bibelen kommer ut på dansk i 1550, og det er denne oversettelsen som blir brukt her i landet helt fram til 1904. 
@@ -151,6 +163,20 @@ PagePeriod(
     | Både Petter Dass og Dorothe Engelbretsdotter skriver på dansk, men de bruker norske ord og uttrykk enkelte steder. Slike ord kaller vi norvagismer. Et eksempel kan være foss for det danske ordet ”vandfald”. Petter Dass brukte ellers norske ord når han omtalte fiskeslag og fangstredskaper.
 
   h3 Bildekunst og arkitektur 
+
+  figure
+    img(src="./Barokk_Bildekunst_og_arkitektur1.jpg" alt="Berninis baldakin og kor i Peterskirken")
+    figcaption Berninis baldakin og kor i Peterskirken
+
+  div.col.col6.display-ib
+    figure
+      img(src="./Barokk_Bildekunst_og_arkitektur2.jpg" alt="Peter Paul Rubens: ”Døtrene til Leukippos blir røvet”")
+      figcaption Peter Paul Rubens: ”Døtrene til Leukippos blir røvet”
+
+  div.col.col6.display-ib
+    figure
+      img(src="./Barokk_Bildekunst_og_arkitektur3.jpg" alt="Detalj fra skulpturen ”Den hellige Teresas ekstase” av Giovanni Lorenzo Bernini")
+      figcaption Detalj fra skulpturen ”Den hellige Teresas ekstase” av Giovanni Lorenzo Bernini
 </template>
 
 <script>
