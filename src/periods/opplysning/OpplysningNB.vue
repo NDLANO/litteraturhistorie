@@ -8,6 +8,10 @@ PagePeriod(
   // * Tida og samfunnsforholdene
   h3 Tida og samfunnsforholdene
 
+  figure
+    img(src="./Opplysningstid_Tida-og-samfunnsforholdene1.jpg" alt="Stormen på Bastillen 14. juli 1789 Isaac Newton innledet den franske revolusjonen")
+    figcaption Stormen på Bastillen 14. juli 1789 Isaac Newton innledet den franske revolusjonen
+
   h5 Borgerskapet vokser fram
   p
     | Et handelsborgerskap vokser fram, og det blir lettere å slå seg opp ved egne krefter. Borgerskapet får dessuten del i den nye kunnskapen som utvikler seg.
@@ -15,12 +19,23 @@ PagePeriod(
   h5 Opprør og revolusjon
   p
     | Kongen og adelen har fortsatt så godt som all makt og mange særretter. Men handelen med utlandet øker, og handelsstanden får en stadig større og viktigere posisjon. Borgerne er misfornøyde med de få rettighetene de har. I Frankrike topper misnøyen seg med opprør og revolusjon i 1789. Kongen blir avsatt og seinere henrettet, sammen med mange adelige.
-  Naturvitenskapen skaper framtidsoptimisme
-  Tankegods fra middelalderen må vike for nye oppdagelser i naturvitenskapen. Newtons lover blir avgjørende for mekanikken, som etter hvert legger grunnlaget for industrialisering og masseproduksjon. 
+
+  div.flex.flex-wrap
+    div.col.col4
+      figure.figure-left
+        img(src="./Opplysningstid_Tida-og-samfunnsforholdene2.jpg" alt="Isaac Newton")
+        figcaption Isaac Newton
+    div.col.col8
+      h5 Naturvitenskapen skaper framtidsoptimisme
+      p
+        | Tankegods fra middelalderen må vike for nye oppdagelser i naturvitenskapen. Newtons lover blir avgjørende for mekanikken, som etter hvert legger grunnlaget for industrialisering og masseproduksjon. 
 
   // * Tanker i tida
   h3 Tanker i tida
 
+  figure.col.col5.right-image
+    img(src="./Opplysningstid_Tanker_i_tida.jpg" alt="Detalj fra omslaget til Encyclopédie (1772), tegnet av Charles-Nicolas Cochin og gravert av Bonaventure-Louis Prévost. Bildet er fylt med symbolisme: Figuren i midten er sannheten, omgitt av et skinnende lys (det sentrale symbolet i opplysningstiden). Figurane til høyre er fornuft og filosofi, som riv ned sløret som dekker sannheten.")
+    figcaption Detalj fra omslaget til Encyclopédie (1772), tegnet av Charles-Nicolas Cochin og gravert av Bonaventure-Louis Prévost. Bildet er fylt med symbolisme: Figuren i midten er sannheten, omgitt av et skinnende lys (det sentrale symbolet i opplysningstiden). Figurane til høyre er fornuft og filosofi, som riv ned sløret som dekker sannheten.
   h5 Fokus på enkeltmennesket
   p
     | Ideen om at mennesket har grunnleggende rettigheter, uavhengig av stand og klasse, vokser fram. Disse synspunktene finner vi igjen i den norske grunnloven i 1814.
@@ -43,17 +58,29 @@ PagePeriod(
   // * Om Stilen
   h3 Om stilen – klassisismen
 
+  figure.col.col4.right-image
+    img(src="./Opplysningstid_Klassisismen1.jpg" alt="Palladios Villa Rotonda i Italia")
+    figcaption Palladios Villa Rotonda i Italia
+
   h5 Det klassiske idealet
   p
     | Den klassisistiske stilen utvikler seg i Frankrike i overgangen mellom 1600- og 1700-tallet. Betegnelsen klassisistisk viser til idealet forfatterne prøver å leve opp til, nemlig de klassiske greske tragediene. Begrepet klassisisme gjelder den kunstneriske uttrykksformen, mens ordet opplysningstid peker mot tida og samfunnsforholdene.
   h5 Idealet: harmoni og måtehold
   p
     | Klassisismen er en reaksjon på de sterkt overdrevne effektene i barokkstilen. Idealet er harmoni og mer måtehold i bruken av virkemidler.
+
+  figure
+    img(src="./Opplysningstid_Klassisismen2.jpg")
+    figcaption Klassisistisk arkitektur: Jenisch Haus i Hamburg
+
   h5 Sammenfall i tid, sted og handling
   p
     | Diktekunst blir regnet for handverk. Det er klare regler for hvordan en skal skrive i de ulike sjangrene. Det klassiske dramaet følger regelen om sammenfall i tid, sted og handling.
 
   h3 Litteraturen
+  figure.col.col5.left-image
+    img(src="./Opplysningstid_Litteraturen1.jpg" alt="Ludvig Holberg")
+    figcaption Ludvig Holberg
   p
     | Ludvig Holberg ble født i Bergen, der han også vokste opp. I ung alder reiste han til København for å studere. Seinere ble han dansk-norsk forfatter og professor i metafysikk ved universitetet i København. Holberg var den største og viktigste dansk-norske forfatteren på 1700-tallet. I tillegg var han en viktig folkeopplyser og pedagog.
   h5 En allsidig forfatter
@@ -65,6 +92,10 @@ PagePeriod(
   h5 Kamuflert samfunnskritikk
   p
     | Niels Klims underjordiske reise er en sciencefictionroman – på latin! Reisen ender i ideallandet Potu (Utopia), der adelen er ryddet av veien, og bøndene er de mest fornemme. På den måten lanserer Holberg en kamuflert samfunnskritikk.
+
+  figure
+    img(src="./Opplysningstid_Litteraturen2.jpg" alt="Norske selskap")
+    figcaption Norske selskap
   h5 Norsk studentmiljø i København
   p
     | Norske Selskab blir stiftet i 1772 av en gruppe norske studenter i København. På den tida har ikke Norge eget universitet, og alle nordmenn som vil studere, må reise utenlands.
@@ -106,10 +137,21 @@ PagePeriod(
     | Skriftspråket er dansk, og de som kan skrive, skriver dansk.
 
   h3 Andre kunstformer
+
+  figure
+    img(src="./Opplysningstid_Andre_kunstformer1.jpg" alt="Kirke i rokokkostil, Ottobeuren i Böhmen")
+    figcaption Kirke i rokokkostil, Ottobeuren i Böhmen.
+  figure
+    img(src="./Opplysningstid_Andre_kunstformer2.jpg" alt="Maleri av Jean-Antoine Watteau (1721)")
+    figcaption Maleri av Jean-Antoine Watteau (1721)
+
   h5 Rokokko
   p
     | Stilretningen som dominerer bildekunst, møbler og arkitektur på 1700-tallet, kaller vi rokokko. Denne stilen bryter med barokkens bruk av overdådige virkemidler. Det er en enklere, mer elegant og mindre følelsesladd stil.
   h5 Ny musikkstil
+  figure
+    img(src="./Opplysningstid_Andre_kunstformer3.jpg" alt="Mozart spelar kammermusikk saman med systera og faren")
+    figcaption Mozart spelar kammermusikk saman med systera og faren
   p
     | Musikkstilen endrer seg også på 1700-tallet. Uttrykksformen går fra den tunge, kontrastfylte barokkstilen til en lettere og mer elegant form.
   h5 Kammermusikk
@@ -118,12 +160,23 @@ PagePeriod(
   h5 Wienerklassisisme
   p
     | Klassisismen i musikken kalles også wienerklassisisme. Det er fordi Wien var hjemstedet til de fleste komponistene på 1700-tallet.
-  h5 To store wienerklassisister
-  p
-    | Wolfgang Amadeus Mozart (1756–1791) er den største av wienerklassisistene. En annen er Joseph Haydn (1732–1809). Begge er kjent for en stor produksjon av minneverdig musikk som aldri går av mote.
-  h5 Beethoven som wienerklassisist
-  p
-    | De første komposisjonene til Ludwig van Beethoven (1770–1827) har mye til felles med Mozart og Haydn. Denne delen av Beethovens produksjon regner vi derfor som wienerklassisistisk.
+
+  div.flex.flex-wrap
+    div.col.col4
+      figure.figure-left
+        img(src="./Opplysningstid_Andre_kunstformer4.jpg" alt="")
+    div.col.col8
+      h5 To store wienerklassisister
+      p
+        | Wolfgang Amadeus Mozart (1756–1791) er den største av wienerklassisistene. En annen er Joseph Haydn (1732–1809). Begge er kjent for en stor produksjon av minneverdig musikk som aldri går av mote.
+  div.flex.flex-wrap
+    div.col.col4
+      figure.figure-left
+        img(src="./Opplysningstid_Andre_kunstformer5.jpg" alt="")
+    div.col.col8
+      h5 Beethoven som wienerklassisist
+      p
+        | De første komposisjonene til Ludwig van Beethoven (1770–1827) har mye til felles med Mozart og Haydn. Denne delen av Beethovens produksjon regner vi derfor som wienerklassisistisk.
 
 
 

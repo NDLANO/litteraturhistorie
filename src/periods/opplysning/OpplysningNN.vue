@@ -3,17 +3,35 @@ PagePeriod
   // Content here
 
   h3 Tida og samfunnstilhøva 
+
+  figure
+    img(src="./Opplysningstid_Tida-og-samfunnsforholdene1.jpg" alt="Stormen på Bastillen 14. juli 1789 Isaac Newton innleidde den franske revolusjonen")
+    figcaption Stormen på Bastillen 14. juli 1789 Isaac Newton innleidde den franske revolusjonen
+
   h5 Borgarskapet veks fram
   p
     | Eit handelsborgarskap veks fram, og det blir lettare å slå seg opp ved eigne krefter. Borgarskapet får dessutan del i den nye kunnskapen som utviklar seg.
+
   h5 Opprør og revolusjon
   p
     | Kongen og adelen har framleis så godt som all makt og mange særrettar. Men handelen med utlandet aukar, og handelsstanden får ein stadig større og viktigare posisjon. Borgarane er misnøgde med dei få rettane dei har. I Frankrike toppar misnøya seg med opprør og revolusjon i 1789. Kongen blir avsett og seinare avretta, saman med mange adelege.
-  h5 Naturvitskapen skaper framtidsoptimisme
-  p
-    | Tankegods frå mellomalderen må vike for nye oppdagingar i naturvitskapen. Newtons lover blir avgjerande for mekanikken, som etter kvart legg grunnlaget for industrialisering og masseproduksjon.
+
+  div.flex.flex-wrap
+    div.col.col4
+      figure.figure-left
+        img(src="./Opplysningstid_Tida-og-samfunnsforholdene2.jpg" alt="Isaac Newton")
+        figcaption Isaac Newton
+    div.col.col8
+      h5 Naturvitskapen skaper framtidsoptimisme
+      p
+        | Tankegods frå mellomalderen må vike for nye oppdagingar i naturvitskapen. Newtons lover blir avgjerande for mekanikken, som etter kvart legg grunnlaget for industrialisering og masseproduksjon.
 
   h3 Tankar i tida
+
+  figure.col.col5.right-image
+    img(src="./Opplysningstid_Tanker_i_tida.jpg" alt="Detalj frå omslaget til Encyclopédie (1772), teikna av Charles-Nicolas Cochin og gravert av Bonaventure-Louis Prévost. Biletet er fylt med symbolisme: Figuren i midten er sanninga, omgitt av eit skinande lys (det sentrale symbolet i opplysningstida). Figurane til høgre er fornuft og filosofi, som riv ned sløret som dekkjer sanninga.")
+    figcaption Detalj frå omslaget til Encyclopédie (1772), teikna av Charles-Nicolas Cochin og gravert av Bonaventure-Louis Prévost. Biletet er fylt med symbolisme: Figuren i midten er sanninga, omgitt av eit skinande lys (det sentrale symbolet i opplysningstida). Figurane til høgre er fornuft og filosofi, som riv ned sløret som dekkjer sanninga.
+
   h5 Fokus på enkeltmennesket
   p
     | Ideen om at mennesket har grunnleggjande rettar, uavhengig av stand og klasse, veks fram. Desse synspunkta finn vi att i den norske grunnlova i 1814.
@@ -35,6 +53,12 @@ PagePeriod
 
 
   h3 Om stilen – klassisismen
+
+  figure.col.col4.right-image
+    img(src="./Opplysningstid_Klassisismen1.jpg" alt="Palladios Villa Rotonda i Italia")
+    figcaption Palladios Villa Rotonda i Italia
+
+
   h5 Det klassiske idealet
   p
     | Den klassisistiske stilen utviklar seg i Frankrike i overgangen mellom 1600- og 1700-talet. Nemninga klassisistisk viser til idealet forfattarane prøver å leve opp til, nemleg dei klassiske greske tragediane. Omgrepet klassisisme gjeld den kunstnarlege uttrykksforma, mens ordet opplysningstid peiker mot tida og samfunnstilhøva.
@@ -46,6 +70,10 @@ PagePeriod
     | Diktekunst blir rekna for handverk. Det er tydelege reglar for korleis ein skal skrive i dei ulike sjangrane. Det klassiske dramaet følgjer regelen om samanfall i tid, stad og handling.
 
   h3 Litteraturen
+  figure.col.col5.left-image
+    img(src="./Opplysningstid_Litteraturen1.jpg" alt="Ludvig Holberg")
+    figcaption Ludvig Holberg
+
   p
     | Ludvig Holberg er fødd og oppvaksen i Bergen. Han reiser i ung alder til København for å studere. Han blir seinare dansk-norsk forfattar og professor i metafysikk ved universitetet i København. Holberg er den største og viktigaste dansk-norske forfattaren på 1700-talet. I tillegg er han ein viktig folkeopplysar og pedagog.
   h5 Ein allsidig forfattar
@@ -57,6 +85,10 @@ PagePeriod
   h5 Kamuflert samfunnskritikk
   p
     | Niels Klims underjordiske reise er ein sciencefictionroman – på latin! Reisa endar i ideallandet Potu (Utopia), der adelen er rydda av vegen, og bøndene er dei mest fornemme. På den måten lanserer Holberg ein kamuflert samfunnskritikk.
+
+  figure
+    img(src="./Opplysningstid_Litteraturen2.jpg" alt="Norske selskap")
+    figcaption Norske selskap
 
   h5 Norsk studentmiljø i København
   p
@@ -98,10 +130,23 @@ PagePeriod
     | Skriftspråket er dansk, og dei som kan skrive, skriv dansk. 
 
   h3 Andre kunstformer
+
+  figure
+    img(src="./Opplysningstid_Andre_kunstformer1.jpg" alt="Kyrkje i rokokkostil, Ottobeuren i Böhmen")
+    figcaption Kyrkje i rokokkostil, Ottobeuren i Böhmen.
+  figure
+    img(src="./Opplysningstid_Andre_kunstformer2.jpg" alt="Måleri av Jean-Antoine Watteau (1721)")
+    figcaption Måleri av Jean-Antoine Watteau (1721)
+
+
   h5 Rokokko
   p
     | Stilretninga som dominerer biletkunst, møblar og arkitektur på 1700-talet, kallar vi rokokko. Denne stilen bryt med barokkens bruk av overdådige verkemiddel. Det er ein enklare, meir elegant og mindre kjensleladd stil. 
   h5 Ny musikkstil
+  figure
+  img(src="./Opplysningstid_Andre_kunstformer3.jpg" alt="Mozart spelar kammermusikk saman med systera og faren")
+  figcaption Mozart spelar kammermusikk saman med systera og faren
+
   p
     | Musikkstilen endrar seg også på 1700-talet. Uttrykksforma går frå den tunge, kontrastfylte barokke stilen til ei lettare og meir elegant form.
   h5 Kammermusikk
@@ -110,12 +155,23 @@ PagePeriod
   h5 Wienerklassisisme
   p
     | Klassisismen i musikken kallar vi òg wienerklassisisme. Det er fordi Wien var heimstaden til dei fleste komponistane på 1700-talet.
-  h5 To store wienerklassisistar
-  p
-    | Wolfgang Amadeus Mozart (1756–1791) er den største av wienerklassisistane. Ein annan er Joseph Haydn (1732–1809). Begge er kjende for ein stor produksjon og minneverdig musikk som aldri går av mote.
-  h5 Beethoven som wienerklassisist
-  p
-    | Dei første komposisjonane til Ludwig van Beethoven (1770–1827) har mykje til felles med Mozart og Haydn. Denne delen av Beethovens produksjon reknar vi derfor som wienerklassisistisk. 
+
+  div.flex.flex-wrap
+    div.col.col4
+      figure.figure-left
+        img(src="./Opplysningstid_Andre_kunstformer4.jpg" alt="")
+    div.col.col8
+      h5 To store wienerklassisistar
+      p
+        | Wolfgang Amadeus Mozart (1756–1791) er den største av wienerklassisistane. Ein annan er Joseph Haydn (1732–1809). Begge er kjende for ein stor produksjon og minneverdig musikk som aldri går av mote.
+  div.flex.flex-wrap
+    div.col.col4
+      figure.figure-left
+        img(src="./Opplysningstid_Andre_kunstformer5.jpg" alt="")
+    div.col.col8
+      h5 Beethoven som wienerklassisist
+      p
+        | Dei første komposisjonane til Ludwig van Beethoven (1770–1827) har mykje til felles med Mozart og Haydn. Denne delen av Beethovens produksjon reknar vi derfor som wienerklassisistisk. 
 
 
 </template>
