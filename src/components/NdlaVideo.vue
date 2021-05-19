@@ -1,6 +1,10 @@
 <template lang="pug">
-video(ref="player" playsinline controls :data-poster="poster")
-  source(:src="source")
+div
+  video(ref="player" v-if="playerType === 'local'" playsinline controls :data-poster="poster")
+    source(:src="source")
+  
+  .div.plyr__video-embed(id="ytplayer" v-if="playerType === 'youtube'" ref="ytplayer")
+    iframe(:src="source" allowfullscreen allowtransparancy allow="autoplay")
 </template>
 
 <script>
@@ -17,6 +21,10 @@ export default {
       type: String,
       default: "",
     },
+    playerType: {
+      type: String,
+      default: "local", // local or youtube
+    },
   },
   data() {
     return {
@@ -27,7 +35,11 @@ export default {
     console.log("ref player = ", this.$refs.player);
 
     // * Init plyr
-    this.player = new Plyr(this.$refs.player);
+    if (this.playerType === "youtube") {
+      this.player = new Plyr(this.$refs.ytplayer);
+    } else {
+      this.player = new Plyr(this.$refs.player);
+    }
   },
 };
 </script>
