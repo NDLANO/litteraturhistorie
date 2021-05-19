@@ -1,15 +1,29 @@
 <template lang="pug">
-PagePeriod
+PagePeriod(
+  :bannerImage="require(`./Realisme_01.jpg`)"
+  :circleImage="require(`./sirkel_realisme.png`)"
+)
   // Content here
 
   h3 Framveksten av en moderne verden 1600–1850
+  img(src="./Realisme_Framveksten_av_en_moderne_verden1.jpg")
+
   p På 1600-tallet begynner en vitenskapelig, åndelig, industriell og politisk utvikling i Europa som vi kan kalle modernitet. Nye vitenskapelige oppdagelser setter i gang gjennomgripende endringer på alle samfunnsområder. Vi kan si at denne utviklingen er styrt av ”tre f-er”: framskritt, fornuft og frigjøring. Verden skal framover, menneskene skal bli frie – og fornuften skal styre hele prosessen. 
 
   p Både 1700- og 1800-tallet er preget av nye oppdagelser og oppfinnelser, og de politiske revolusjonene i Amerika (1776) og Frankrike (1789) gjør folkestyre og demokrati til et ideal for mange. Moderniteten kommer for alvor inn i norsk litteratur omkring 1875, det såkalte moderne gjennombruddet. Forfatterne tar opp aktuelle samfunnsproblemer og setter dem under debatt. 
 
   h3 Tida og samfunnsforholdene 
+
+  figure
+    img(src="./Realisme_Tida_og_samfunnsforholdene1.jpg" alt="Industri langs Akerselva ved Hjula og Sagene")
+    figcaption Industri langs Akerselva ved Hjula og Sagene
   h5 Fra bondesamfunn til byliv
   p Det norske samfunnet gjennomgår store endringer i siste halvdel av 1800-tallet. Denne utviklingen kan på mange måter forklares med den industrielle revolusjonen, som startet i England midt på 1700-tallet og etter hvert spredde seg over størstedelen av Nord-Europa. Vi kan oppsummere disse endringene i begrepene industrialisering og urbanisering.
+
+  figure.col.col5.right-image
+    img(src="./Realisme_Tida_og_samfunnsforholdene2.jpg" alt="«Constitutionen», det første damskipet i Norge, på havna i Arendal")
+    figcaption «Constitutionen», det første damskipet i Norge, på havna i Arendal
+
   h5 Industrialisering:
 
   ul
@@ -21,6 +35,9 @@ PagePeriod
     li Litt etter litt vokser det fram bysamfunn. Folk flytter fra bygda til byen for å skaffe seg arbeid i en etter hvert gryende industri, blant annet langs Akerselva i hovedstaden.
     li Urbaniseringen var en forutsetning for industrialisering. Byene skapte nye sosiale arenaer og møteplasser for kultur og samfunnsliv. Men bylivet var også preget av fattigdom og dårlige boliger, alkoholmisbruk, barnearbeid, rotløshet og fremmedgjøring.
 
+  figure.col.col5.left-image
+    img(src="./Realisme_Tida_og_samfunnsforholdene3.jpg" alt="")
+
   h5 Nye maktforhold
   p Maktforholdene endrer seg dramatisk i siste halvdel av 1800-tallet. Rundt 1850 er storparten av makta samlet hos svenskekongen og norske embetsmenn. I siste halvdel av 1800-tallet blir makta gradvis overført til folket. 
 
@@ -29,7 +46,9 @@ PagePeriod
   p Også i Norge merker vi innflytelsen fra februarrevolusjonen. I 1850-årene begynner ulike politiske demokratiseringsprosesser. Det fører blant annet til at partiene Venstre, Høyre og Arbeiderpartiet blir stiftet, alle i 1880-årene. I 1884 blir parlamentarismen innført. Nå kunne ikke regjeringen lenger styre uten støtte fra et flertall av de folkevalgte representantene på Stortinget. Dette er en milepæl i utviklingen av et demokratisk Norge. 
 
   p Arbeiderbevegelsen blir etter hvert en viktig maktfaktor. Samtidig som nye arbeidsplasser vokser fram, utvikler det seg et motsetningsforhold mellom arbeidere og fabrikkeiere. Arbeiderne får mange med seg i kravet om allmenn stemmerett, rett til skolegang, flere sosiale goder i samfunnet og bedre forhold på arbeidsplassene. 
-
+  
+  .tac
+    img(src="./Realisme_Tida_og_samfunnsforholdene4.jpg")
   h5 Frigjøring – også for kvinner?
   p I tråd med kravet om frigjøring og utvidete demokratiske rettigheter for alle begynner nå kvinnene å kreve rett til deltakelse i samfunnet. Alt på slutten av 1700-tallet problematiserte Mary Wollstonecraft manglende rettigheter for kvinnene. Hun var en opplysningskvinne som ville ha et samfunn basert på fornuft. Hun mente at menn og kvinner var like rasjonelle, derfor burde kvinnen ha de samme økonomiske, politiske og sosiale rettigheter som mannen. John Stuart Mill videreførte disse tankene tidlig på 1800-tallet.
 
@@ -38,31 +57,39 @@ PagePeriod
   p Disse kvinnene stiftet Norsk Kvinnesaksforening i 1884. De krever retten til utdanning og skikkelig betaling for lønnet arbeid. Det var uvanlig at kvinner tok utdanning, og det vakte derfor oppsikt da Cecilie Thoresen gikk opp til studenteksamen (examen artium) i 1882. Allmenn stemmerett for kvinner får vi likevel ikke før i 1913.
 
   h3 Tanker i tida 
+
+  img.col.col6.left-image(src="./Realisme_Tanker_i_tida1.jpg" alt="Auguste Comte")
   h5 Positivismen
   p Allerede i 1830-årene lanserte filosofen Auguste Comte (1798–1857) en ny vitenskapelig tenkemåte. Comte argumenterte for fornuften som utgangspunkt for kunnskap. Han hevdet at all kunnskap er tuftet på erfaring, som vi får ved å observere livet og verden rundt oss. En slik tenkemåte, positivismen, forkaster alle spekulasjoner om at det finnes noe annet enn det vi selv kan oppleve eller sanse. 
 
-  p  Dette brøt med en tradisjonell forestilling om at det lå en guddommelig kraft bak verdens fenomener. Comtes tanker var fundamentale for den naturvitenskapelige tenkemåten, men det spesielle var at Comte utviklet positivismen som en metode i samfunnsvitenskap. Også mennesket så han i et positivistisk lys. Denne rasjonelle tilnærmingen til verden er typisk for modernitetens tenkemåte.
+  p Dette brøt med en tradisjonell forestilling om at det lå en guddommelig kraft bak verdens fenomener. Comtes tanker var fundamentale for den naturvitenskapelige tenkemåten, men det spesielle var at Comte utviklet positivismen som en metode i samfunnsvitenskap. Også mennesket så han i et positivistisk lys. Denne rasjonelle tilnærmingen til verden er typisk for modernitetens tenkemåte.
 
+  img.col.col6.left-image(src="./Realisme_Tanker_i_tida2.jpg" alt="")
   h5 Kommunismen
   p I 1848 gav Karl Marx (1818–1883) og Friedrich Engels (1820–1895) ut boka Det kommunistiske manifest. Boka er en hard kritikk av det kapitalistiske systemet og en oppfordring til arbeiderklassen om å kjempe for bedre kår. Målet for kommunismen er et klasseløst samfunn, der alle har like rettigheter og plikter. I et slikt samfunn ville, ifølge Marx og Engels, menneskene være frie. 
 
   p I praksis fikk ikke de kommunistiske ideene særlig gjennomslag før den russiske revolusjonen i 1917. Da ble det første kommunistiske samfunnet grunnlagt. Men ideene til Marx og Engels har vært viktige for arbeiderne i kampen for frigjøring og bedre økonomiske og politiske rettigheter. 
 
+  img.col.col6.left-image(src="./Realisme_Tanker_i_tida3.jpg" alt="")
   h5 Liberalismen
   p Liberalismen er en ideologi med røtter tilbake til opplysningstida. I utgangspunktet var liberalistene opptatt av å framheve de individuelle rettighetene. De ville redusere den nesten allmektige konge- og statsmakta. Men på 1700-tallet ser vi at liberalistene utvikler tanker om frihet også i økonomisk forstand. Sentralt her står filosofen Adam Smith (1723–1790). 
 
+  img.col.col6.left-image(src="./Realisme_Tanker_i_tida4.jpg" alt="")
   p En forkjemper for liberalismen på 1800-tallet, den engelske filosofen og økonomen John Stuart Mill (1806–1873), mente derimot at staten måtte spille en aktiv rolle for å sikre et velferdssamfunn for alle. Han kalles derfor sosialliberalismens far. I forlengelsen av et slikt syn ligger retten til å gjøre opprør mot urettferdige tilstander og arbeide for endringer i samfunnet. Mange forfattere og andre som la fram ideen om å bygge en nasjon, sluttet seg til dette synet. Det liberale partiet Venstre ble så stiftet som landets første parti i 1884.
 
+  img.col.col6.left-image(src="./Realisme_Tanker_i_tida5.jpg" alt="")
   h5 Kristen eksistensialisme
   p En person som skulle få innflytelse på flere forfattere under det moderne gjennombruddet, var den danske teologen og filosofen Søren Kierkegaard (1813–1855). ”Subjektivitet er sannhet”, hevdet Kierkegaard. Med dette mente han at troen var noe personlig og subjektivt for enkeltmennesket. Og det er nettopp dette fokuset på at sannheten er individuell og subjektiv, som knytter han til moderniteten. 
 
   p Kierkegaard grunnla eksistensialismen. Men i motsetning til mange seinere eksistensialister, som var ateister, var Kierkegaard dypt kristen. Synet hans på kristendommen førte til konflikt med det etablerte kristenfolket i Danmark. For Kierkegaard handlet kristen tro som sagt om noe personlig. Han mente den danske kirka hadde et slapt og lite inderlig forhold til gudstro. 
 
+  img.col.col6.left-image(src="./Realisme_Tanker_i_tida6.jpg" alt="")
   h5 Darwinismen
   p I 1859 kom Charles Darwin (1809–1882) med boka On the Origin of Species (Om artenes opprinnelse): Mennesket var ikke skapt i Guds bilde, men var et ledd i en lang utvikling. Darwins tanker utfordret sterkt det kirkelige verdensbildet. Darwin mente at livet kan karakteriseres som en kamp for tilværelsen (”a struggle of life”), og i denne kampen er det den sterkeste som overlever (”survival of the fittest”). Dette kaller vi evolusjon. Alt levende liv utvikler seg derfor mot noe bedre – evolusjon er framskritt. 
 
-  I overensstemmelse med de positivistiske forskningsidealene baserte Darwin seg på observasjoner og innsamling av data. Darwin avviste en guddommelig plan med skaperverket og baserte sin vitenskap på fornuft.
+  p I overensstemmelse med de positivistiske forskningsidealene baserte Darwin seg på observasjoner og innsamling av data. Darwin avviste en guddommelig plan med skaperverket og baserte sin vitenskap på fornuft.
 
+  img.col.col6.left-image(src="./Realisme_Tanker_i_tida7.jpg" alt="")
   h5 Sekularisering – frigjøring og livssynskrise
   p Med Darwin fikk kristentroen en utfordring. Mennesket var resultatet av en evolusjon. Også tidligere vitenskapelige oppdagelser, som at jorda ikke er sentrum i universet, hadde rokket ved den kristne læra. 
 
@@ -74,7 +101,11 @@ PagePeriod
 
 
   h3 Fra romantikk til realisme 
-  p <strong>Eilert Sundt (1817–1875)</strong> var den første samfunnsforskeren i Norge. I 1850-årene reiste han rundt i bygd og by for å se hvordan folk levde. Deretter skrev han rapporter om ”Sædelighedstilstanden i Norge”, ”Ædruelighedstilstanden i Norge” og ”Renslighedsstellet i Norge”. Her viser han fram et heller skrøpelig og lite romantisk bilde av situasjonen. Eilert Sundts avsløringer stod derfor i kontrast til det glansbildet av Norge som de romantiske og nasjonalromantiske dikterne hadde tegnet. 
+  img(src="./Realisme_Fra_romantikk_til_realisme1.jpg")
+
+  .mt40
+    img.col.col4.left-image(src="./Realisme_Fra_romantikk_til_realisme2.jpg" alt="Eilert Sundt")
+    p <strong>Eilert Sundt (1817–1875)</strong> var den første samfunnsforskeren i Norge. I 1850-årene reiste han rundt i bygd og by for å se hvordan folk levde. Deretter skrev han rapporter om ”Sædelighedstilstanden i Norge”, ”Ædruelighedstilstanden i Norge” og ”Renslighedsstellet i Norge”. Her viser han fram et heller skrøpelig og lite romantisk bilde av situasjonen. Eilert Sundts avsløringer stod derfor i kontrast til det glansbildet av Norge som de romantiske og nasjonalromantiske dikterne hadde tegnet. 
 
   p Norge ligger i utkanten av Europa, og det tok derfor litt tid før de nye modernitetstankene nådde oss. Men de nye ideene, og avsløringene til Eilert Sundt om hvordan det virkelig stod til rundt om i landet, fikk flere av de nye forfatterne til å se behovet for en mer realistisk litteratur. 
 
@@ -82,19 +113,29 @@ PagePeriod
 
   p Av aktive forfattere i 1850- og 1860-årene nevner vi Aasmund Olavsson Vinje, Camilla Collett, Henrik Ibsen og Bjørnstjerne Bjørnson. 
 
+  img.col.col4.left-image(src="./Realisme_Fra_romantikk_til_realisme3.jpg" alt="Aasmund Olavsson Vinje")
   p <strong>Aasmund Olavsson Vinje (1818–1870)</strong>kom fra enkle kår, men var en sentral norsk folkeopplyser. Etter flere år som omgangsskolelærer og selvlært student reiste han til Kristiania for å studere jus. Han tok juridisk embetseksamen 38 år gammel, men ble aldri jurist. I stedet ble Vinje avismann og forfatter. Fra 1858 gav han ut bladet Dølen. Her skrev han kritisk og ironisk om det som rørte seg i tida. 
 
   p Hovedverket hans er Ferdaminni frå Sumaren 1860, der han skriver om inntrykk og opplevelser fra en togreise mellom Eidsvoll og Trondheim. Ferdaminni frå Sumaren 1860 inneholder artikler om blant annet seterdrift og jordbruk, og skildringer av folk han møter på reisa. Vinje er kritisk til mye av det gamle og skriver med entusiasme om det nye industrisamfunnet som var i ferd med å vokse fram. Vinje er derfor en talsmann for det teknologiske framskrittet i Norge. 
 
+  img.col.col4.left-image(src="./Realisme_Fra_romantikk_til_realisme4.jpg" alt="Camilla Collett")
   p <strong>Camilla Collett (1813–1895)</strong> var en nybrottskvinne både innenfor litteratur og samfunnsdebatt. Hovedverket hennes, Amtmandens Døttre (1855), kom ut anonymt. Å være kvinnelig forfatter var nemlig helt uvanlig på midten av 1800-tallet. Her brøt Collett med datidas kvinneideal. Amtmandens Døttre regnes for den første tendensromanen i norsk litteratur. Denne betegnelsen bruker vi om en roman som er skrevet som innlegg i en samfunnsdebatt. Romanen tar opp den manglende friheten for kvinner. Romanen viser hvordan kvinners liv er styrt av menn, og hun kritiserer særlig de borgerlige fornuftsekteskapene. Camilla Collett var en helt sentral person i den gryende kampen for frigjøring av kvinner – for friheten til å velge hvem en vil gifte seg med, og friheten til å råde over eget liv. 
 
+  figure
+    img(src="./Realisme_Fra_romantikk_til_realisme5.jpg" alt="Illustrasjon til eventyret om Peer Gynt i «Norske Huldre-Eventyr og Folkesagn» av P. Chr. Asbjørnsen. Denne sagnfiguren inspirerte Ibsen til å skrive skuespillet Peer Gynt")
+    figcaption Illustrasjon til eventyret om Peer Gynt i «Norske Huldre-Eventyr og Folkesagn» av P. Chr. Asbjørnsen. Denne sagnfiguren inspirerte Ibsen til å skrive skuespillet Peer Gynt
   p <strong>Henrik Ibsen (1828–1906)</strong> og <strong>Bjørnstjerne Bjørnson (1832–1910)</strong> var på vei mot realismen i 1850- og 1860-årene. Tidlig i denne perioden skrev de begge tekster med utgangspunkt i norsk historie, de var påvirket av nasjonalromantikken og sagalitteraturen. Men mot slutten av perioden ble de begge farget av de nye tankene i tida. 
 
   p Ibsen gav ut skuespillene Brand (1866), Peer Gynt (1867) og De unges Forbund (1869). I disse skuespillene viser Ibsen en orientering mot samtida, og tematisk peker han på trekk ved moderniteten. Skuespillene tematiserer en konflikt mellom mer idealistiske krav til livet og tankene i moderniteten. I Brand gjelder det konflikten mellom kristendommen som absolutt sannhet og tvilen og skepsisen til det moderne mennesket. Peer Gynt handler om identitetsspørsmålet: Har mennesket en indre kjerne, eller er identitet noe som endrer seg fra situasjon til situasjon? I skuespillene sine problematiserer Ibsen troen på én sannhet, som i tillegg er overlevert gjennom tradisjoner. Denne grunnleggende tvilen er et typisk trekk ved moderniteten og det moderne mennesket. 
 
+  figure.col.col4.right-image
+    img(src="./Realisme_Fra_romantikk_til_realisme6.jpg" alt="Fra den svenske filmen «Synnöve Solbakken» (1919)")
+    figcaption Fra den svenske filmen «Synnöve Solbakken» (1919)
   p Bjørnson utgav novellen ”Faderen” (1860) og romanene Synnøve Solbakken (1857) og Arne (1859). I disse såkalte bondefortellingene bryter Bjørnson med den tidligere romantiske framstillingen av bonden. Her møter vi bonden i et hverdagsmiljø, litt idealisert kanskje, men likevel med sterke tilløp til realisme. Bjørnson skriver ikke bare om staute idealbønder, men også om sosiale problemer som fyll og knivslagsmål. 
 
   h3 Det moderne gjennombruddet
+
+  img.col.col5.left-image(src="./Realisme_Det_moderne_gjennombruddet1.jpg")
   h5 Å sette problemer under debatt
   p Det moderne gjennombruddet i Norge kan vi først og fremst takke en danske for. Georg Brandes (1842–1927), professor og litteraturkritiker ved Universitetet i København, har mye av æren for å ha ført de moderne tankene til Norge og til norske forfattere. 
 
@@ -112,20 +153,43 @@ PagePeriod
   h5 ”De fire store”
   p Fra midten av 1870-årene og utover begynte norsk litteratur å bli kjent i utlandet. Gyldendal forlag kastet seg seinere på bølgen og lanserte forfatterne Henrik Ibsen, Bjørnstjerne Bjørnson, Alexander Kielland og Jonas Lie som de fire store. Det er disse fire som er de dominerende forfatterne innenfor kritisk realisme, og det er de som representerer det moderne gjennombruddet i norsk litteratur. 
 
+
+  figure.col.col4.left-image
+    img(src="./Realisme_De_fire_store_Ibsen.jpg" alt="Henrik Ibsen")
+    figcaption Henrik Ibsen
   p <strong>Henrik Ibsen</strong> er påvirket av kravet om å ”sette problemer under debatt”. Det gjør han i både Samfundets støtter (1877), Et Dukkehjem (1879), Gengangere (1881) og En Folkefiende (1882). I alle disse skuespillene tar han opp aktuelle samtidsemner, for eksempel dårlig forretningsmoral, utroskap og manglende frihet og rettigheter for kvinnene. Et underliggende tema i alle stykkene er også løgn og dobbeltmoral. Ibsen ville vise hvordan usannhet ødelegger individene, ja hele familier. 
+
+  .tac
+    img(src="./Realisme_Det_moderne_gjennombruddet2.jpg")
 
   p Utover i 1880-årene får Ibsens skuespill en annen karakter. Nå tematiserer han mer hvordan individet opplever å leve med moderniteten. De radikale endringene i samfunnet har også skapt problemer. Med disse tekstene peker Ibsen fram mot den modernismen som kommer til Norge i slutten av århundret. 
 
-  p <strong>Bjørnstjerne Bjørnson</strong> tar også opp aktuelle temaer i tida. I 1875 gir han ut En Fallit, der han går til angrep på snuskete forretningsmoral. I Magnhild (1877) setter han søkelyset på usedelige ekteskap, og i En Hanske (1883) tar Bjørnson opp kjønnsdebatten. Bjørnson er provosert av at det finnes ulike regler for kvinner og menn, og krever at både kvinne og mann må ”være reine” før ekteskapet. Andre temaer han går inn på, er makta til kirka og oppdragelsen i hjem og skole. 
 
+  .flex.flex-wrap
+    .col.col4.mt1rem
+      figure.figure-left
+        img(src="./Realisme_De_fire_store_Bjoernson.jpg" alt="Bjørnstjerne Bjørnson")
+        figcaption Bjørnstjerne Bjørnson
+    .col.col8
+      p <strong>Bjørnstjerne Bjørnson</strong> tar også opp aktuelle temaer i tida. I 1875 gir han ut En Fallit, der han går til angrep på snuskete forretningsmoral. I Magnhild (1877) setter han søkelyset på usedelige ekteskap, og i En Hanske (1883) tar Bjørnson opp kjønnsdebatten. Bjørnson er provosert av at det finnes ulike regler for kvinner og menn, og krever at både kvinne og mann må ”være reine” før ekteskapet. Andre temaer han går inn på, er makta til kirka og oppdragelsen i hjem og skole. 
+
+  
+  figure.col.col4.left-image
+    img(src="./Realisme_De_fire_store_Kielland.jpg" alt="Alexander Kielland")
+    figcaption Alexander Kielland
   p <strong>Alexander Kielland (1849–1906)</strong> er kanskje den av de fire som mest konsekvent følger Brandes’ krav. Kielland setter søkelyset på dobbeltmoral og hykleri i hjem og samfunn. Han skriv åtte romaner, tre novellesamlinger og seks skuespill. De mest kjente romanene er Garman & Worse (1880), Gift (1883) og Sankt Hans Fest (1887). Her drøfter han forholdet mellom fattig og rik, han avslører religiøst hykleri, og han kritiserer latinpugget i skolen. I novelleteksten ”Karen” (1882) avslører han hvordan uskyldige jenter kan bli lurt av kyniske mannfolk. 
 
+  figure.col.col4.left-image
+    img(src="./Realisme_De_fire_store_Lie.jpg" alt="Jonas Lie")
+    figcaption Jonas Lie
   p <strong>Jonas Lie (1833–1908)</strong> er den fjerde av de kritiske realistene. Han er også påvirket av Brandes, men er ikke så skarp i pennen som de tre andre. Lie er romanforfatter, og hovedverket hans er Familjen på Gilje (1883), en skildring av en embetsmannsfamilie i et norsk bygdemiljø. Her setter han blant annet søkelyset på likestillingsspørsmålet og på manglende rettigheter for kvinner. I Livsslaven (også 1883) viser han hvordan fattigdom kan drepe det gode som bor i menneskene – egentlig et typisk naturalistisk tema. Kommandørens Døttre (1886) har noe av den samme tematikken som Familjen på Gilje. Jonas Lie viser ikke samme kritiske røst som de tre andre, men han var en populær og mye lest forfatter. 
 
   h3 Naturalismen
 
+  img(src="./Realisme_Naturalismen1.jpg")
   p I 1880-årene levde realistisk og naturalistisk diktning side om side. Naturalistisk diktning er en videreføring av den realistiske, men hos naturalistene er målet å trenge dypere ned i problemene og vise sammenhengen mellom samfunnsforhold og enkeltmenneskers liv. 
 
+  img.right-image(src="./Realisme_Naturalismen_Zola.jpg" alt="Émile Zola")
   p Den franske forfatteren Émile Zola (1840–1902) regnes som den første og største naturalisten. Idealet hans var den nye naturvitenskapen og darwinismen, og diktningen skulle være så dokumentarisk og objektiv som mulig. Zola mente at mennesket bare i liten grad hadde noen fri vilje, det var mer et produkt av arv og miljø. Derfor var det blant annet vanskelig å bryte ut av den klassen eller standen en var født inn i. 
 
   p Naturalismen har mye til felles med realismen. Det som skiller de to retningene, kan vi skissere slik: 
@@ -138,10 +202,15 @@ PagePeriod
     li Troen på fornuft og vitenskapelig sannhet var særlig sterk hos naturalistene. Her var de i pakt med modernitetens ideer. Men samtidig brøt naturalistene nokså grunnleggende med noen av ideene fra det moderne prosjektet. Den manglende troen på frihet og den sviktende troen på framskrittet pekte framover mot modernismen, som kom til Norge i 1890-årene.
 
   h5 Naturalister i norsk litteratur
+
+  figure.col.col4.left-image
+    img.mt10(src="./Realisme_Naturalismen_Skram.jpg" alt="Amalie Skram")
   p <strong>Amalie Skram (1847–1905)</strong> regnes som en reindyrket naturalist. Romanserien Hellemyrsfolket (1887–1898) er hovedverket hennes og det fremste naturalistiske verket i norsk litteratur. Her skildrer hun en familie gjennom flere generasjoner, og hun får fram sammenhengen mellom arv, miljø og utvikling. Grunntonen er pessimistisk, og det ender dårlig for familien på Hellemyren. Amalie Skram setter søkelyset på miljøet som former menneskene, og hun vil vise at fattigdom og nød har sine årsaker. 
 
   p I novellen ”Karens Jul” (1885) opplever vi hvordan ei fattigjente dør med et lite barn på fanget fordi hun mangler det sosiale nettverket som trengs for å klare seg i samfunnet. I ekteskapsromanene Constance Ring (1885) og Forraadt (1892) ender det også tragisk. Her møter vi unge jenter som blir tvunget inn i ekteskap med eldre menn. 
 
+  figure.col.col4.left-image
+    img(src="./Realisme_Naturalismen_Garborg.jpg" alt="Arne Garborg")
   p <strong>Arne Garborg (1851–1924)</strong> skrev romanen Bondestudentar i 1883. Her møter vi en ung student fra landet. Temaet er forholdet mellom by og land, bondekultur mot embetsstand, og vi opplever hvordan den unge studenten må gi avkall på forholdet til sin egen stand. I romanen Mannfolk (1886) setter Garborg søkelyset på seksual- og kjønnsmoralen, et tema som var aktuelt i 1880-årene, og som ble omtalt mer åpent i den naturalistiske litteraturen.
 
   p Verken Ibsen, Bjørnson, Kielland eller Lie regnes som naturalister i norsk litteratur, men de var alle påvirket av naturalismen og skreiv diktverk med klare naturalistiske trekk i denne perioden. 
@@ -152,8 +221,12 @@ PagePeriod
 
   p <strong>Kristiania-bohemen</strong> ”Bohemen” var navnet på en liten, intellektuell og livstrøtt gruppe som hadde tilhold på kafeene i Kristiania i 1880- og 1890-årene. Sammen med utviklingen av bylivet hadde kafeene blomstret opp som møtested for intellektuelle og kunstnere. Bohemene provoserte og sjokkerte medborgerne med sine angrep på borgerlig moral og livsførsel. De praktiserte ”fri kjærlighet” og var særlig kritiske til religion og ekteskap, som de mente hindret personlig frigjøring. Bohemkretsen møtte sterke reaksjoner og motstand – det borgerlige samfunnet så på dem som representanter for ”den moderne vantroen”. Det ble stadig tydeligere at samfunnet ikke lenger hadde et felles og uproblematisk grunnlag for holdninger, moral og livsstil. Dette skremte og provoserte.
   
+  figure.col.col4.left-image
+    img(src="./Realisme_Naturalismen_Jaeger.jpg" alt="Hans Jæger")
   p <strong>Hans Jæger (1854–1910)</strong> var en framstående person i denne kretsen av forfattere, kunstnere og intellektuelle. Selv om han ikke hadde særlig litterært talent, gav han ut flere romaner der han tok opp problemer knyttet til seksualitet og moral. Han rettferdiggjorde ”fri kjærlighet” og mente at det borgerlige ekteskapet og prostitusjonen var to sider av samme sak. I begge tilfeller levde kvinnen et ufritt liv på mannens premisser. Fra Kristiania-Bohêmen (1885) er hovedverket hans. Boka ble forbudt, og Jæger måtte i fengsel for umoralsk forfattervirksomhet. 
 
+  figure.col.col4.left-image
+    img(src="./Realisme_Naturalismen_Krohg.jpg" alt="Christian Krohg")
   p
     strong Christian Krohg (1852–1925)
     | skrev også en roman, Albertine (1886), som ble forbudt og stemplet som usømmelig. Romanen var et innlegg i debatten om kjønnsmoral og viser hvordan ei ung jente blir utnyttet og drevet ut i prostitusjon. Romanen er et godt eksempel på samfunnsengasjert tendenslitteratur, og boka mobiliserte til motstand mot prostitusjonen. Som en konsekvens av debatten som romanen reiste, ble offentlig prostitusjon avskaffet. Christian Krohg er mest kjent som maler, og han brukte også Albertine som motiv på flere bilder, blant annet det kjente bildet ”Albertine i politilegens venteværelse”. 
@@ -170,6 +243,9 @@ PagePeriod
     li Framskritt: Går verden framover? Naturalismen la for dagen et deterministisk og pessimistisk livssyn, uten den samme troen på framskrittet som realistene gav uttrykk for. Hos Skram ser vi dette tydelig. Men også hos Ibsen, Lie og Garborg kan vi merke en utvikling mot et mindre positivt syn på livet, uten den sterke framskrittstroen fra tidligere år. 
     li Fornuft: Er mennesket så fornuftig? Er det gjennom fornuften vi best kan forstå det særegne ved å være menneske i verden? Hva med følelser og de eksistensielle aspektene ved tilværelsen? Mot slutten av århundret begynner Ibsen å fokusere mer på det indre sjelelivet. Og i 1890-årene kritiserer Hamsun realistene og naturalistene for å være for opptatt av ”typer” i stedet for enkeltmennesker. Når vi nærmer oss 1900-tallet, ser vi en generell dreining mot mer psykologisk litteratur, der følelser står i sentrum.
 
+  figure
+    img(src="./Realisme_Naturalismen_Gengangere.jpg")
+    figcaption Frå ei oppføring av Gengangere av Henrik Ibsen
   p Den litteraturen som nå følger, og som vi kaller nyromantisk og modernistisk, tematiserer nettopp de eksistensielle vilkårene for mennesker generelt og for den enkelte. Hva vil det si å leve i et samfunn? På hvilken måte virker industrialisering, urbanisering og sekularisering inn på menneskers liv? 
   
   
@@ -179,18 +255,28 @@ PagePeriod
 
   p I 1850 var det fortsatt mange analfabeter i Norge. Grunnen var blant annet dårlig skolegang og store forskjeller mellom det norske talemålet og det danske skriftspråket. Bare embetsmennene og den kondisjonerte klassen i Kristiania snakket en slags dansk med norsk uttale. Det at folk ikke kunne lese og skrive, var både et demokratisk problem og et hinder for personlig frihet og utvikling. 
 
+  img.right-image(src="./Realisme_Utviklingen_av_det_norske_spraaket1.jpg")
   p Fram til 1860 måtte bygdefolket betale for skolegangen av egen lomme. Det førte til store forskjeller i tilbudet rundt om i landet. Særlig jentene fikk et dårlig undervisningstilbud. I den nye skoleloven av 1860 ble det økonomiske ansvaret overført til staten. 
 
   p I skolen var lærere og elever pålagt å snakke dansk. Nå argumenterte skolefolk og politikere for at opplæringen måtte foregå på et språk som elevene forstod. I 1879 vedtok Stortinget at ”Undervisningen i Almueskolen saavidt mulig meddeles paa Børnenes eget Talesprog”. Denne lovendringen knesatte et viktig prinsipp om at elevenes talemål var godt nok. 
 
+
   p Stikk i strid med dette prinsippet vedtok Stortinget likevel at undervisningen av samiske og kvenske (finske) barn skulle foregå på norsk. Den nye norske nasjonen skulle tuftes på norsk språk og kultur. I samsvar med dette ble det satt i gang flere tiltak for å ”fornorske” de kvenske og samiske innbyggerne. 
 
+  img.col.col8.left-image(src="./Realisme_Utviklingen_av_det_norske_spraaket2.jpg")
   p Ivar Aasen og Knud Knudsen prøvde hver på sin måte å utvikle et norsk skriftspråk. Men der Aasen ville ha et språk som bygde på norske dialekter, var Knudsen opptatt av hvordan det danske skriftspråket kunne fornorskes. Både Knudsen og Aasen så på sitt eget arbeid som viktige pedagogiske og demokratiske framskritt. 
 
   p I siste halvdel av 1800-tallet utviklet de to målformene seg og vant stadig nye tilhengere. Da partiene Venstre og Høyre ble stiftet i 1884, valgte de forskjellig side i språkdebatten. Venstre støttet Aasens språkarbeid, mens Knudsen hadde mange tilhengere i Høyre. Felles for partiene var at de mente at avstanden mellom tale og skrift skapte problemer. 
 
   p Planen var egentlig å utvikle ett felles skriftspråk for alle, men mot slutten av århundret så en at dette ikke ville lykkes, eller at det i det minste ville ta lang tid. I 1885 ble de to målformene likestilt som selvstendige målformer. 
-  
+
+  .flex.flex-justify-center
+    figure.col.col4
+      img(src="./Realisme_Utviklingen_av_det_norske_spraaket_Aasen.jpg" alt="Ivar Aasen")
+      figcaption Ivar Aasen
+    figure.col.col4
+      img(src="./Realisme_Utviklingen_av_det_norske_spraaket_Knudsen.jpg" alt="Knud Knudsen")
+      figcaption Knud Knudsen
   h5 Landsmålet har framgang
   p Ivar Aasen hadde nå gjort seg ferdig med grammatikk, ordbok og tekstprøver av det han kalte landsmålet. Flere forfattere følte seg mer hjemme i landsmålet enn i det danske skriftspråket. Aasmund Olavsson Vinje brukte bare landsmål i avisa Dølen, som kom ut fra 1858. Han utgav også reiseskildringer og diktsamlinger på landsmålet. Seinere fulgte Arne Garborg opp, blant annet i avisa Fedraheimen. Også romanene Bondestudentar og Fred og diktsamlingen Haugtussa (alle av Garborg) er eksempler på tekster på landsmål.
 
@@ -216,6 +302,9 @@ PagePeriod
 
   h3 Kunsten og moderniteten
 
+  figure.col.col3.right-image
+    img(src="./Realisme_Kunsten_og_moderniteten1.jpg" alt="Detalj fra «Albertine i politilegens venteværelse» av Christian Krohg")
+    figcaption Detalj fra «Albertine i politilegens venteværelse» av Christian Krohg
   h5 Hvordan framstille den moderne verden?
   p På lik linje med de realistiske forfatterne ville også kunstnerne i denne perioden få fram sannheten. De realistiske og naturalistiske malerne tok et oppgjør med det nasjonalromantiske idealet om å male vakkert. De ville male samfunnet slik det var. Motivene hentet de fra hverdagslivet, og på samme måte som realistisk diktning skulle malerkunsten gjenspeile hvordan folk levde, og hvilken samfunnsklasse de tilhørte. 
 
@@ -228,10 +317,27 @@ PagePeriod
 
   p Flere kunstnere prøvde å integrere fotografiet i kunsten sin. Ønsket fra realistene og naturalistene om å male dokumentarisk kan ses i sammenheng med dette. Andre kunstnere begynte å tenke i nye baner. Impresjonistene ville heller fange inn et inntrykk av en hending enn å dokumentere situasjonen fotografisk. De tok med seg malerutstyret ut for å male den moderne verden, som de realistiske malerne. Byen var et populært motiv, og kunstnerne var særlig opptatt av tilbudene som folk kunne gjøre bruk av i fritida. En kunstner som Edgar Degas (1834–1917) malte inntrykk fra operaen, kafeer, balletter og barer. 
 
-  p Den meste kjente impresjonisten var nok Claude Monet (1840–1926). Han var mer interessert i naturen enn i bylivet. Bare det viktigste – førsteinntrykket – skulle være med i bildet, og målet var å fange lyset i alle fasetter. Monet malte derfor det samme motivet på ulike tider av døgnet for å få fram de forskjellige fargene. 
+  .flex.flex-wrap
+    .col.col5
+      figure.figure-left.mt20
+        img(src="./Realisme_Kunsten_og_moderniteten2.jpg" alt="Claude Monet: «Impression, soleil levant» (1872). Maleriet skal ha gitt navn til benevnelsen impresjonisme")
+        figcaption Claude Monet: «Impression, soleil levant» (1872). Maleriet skal ha gitt navn til benevnelsen impresjonisme
+    .col.col7
+      p Den meste kjente impresjonisten var nok Claude Monet (1840–1926). Han var mer interessert i naturen enn i bylivet. Bare det viktigste – førsteinntrykket – skulle være med i bildet, og målet var å fange lyset i alle fasetter. Monet malte derfor det samme motivet på ulike tider av døgnet for å få fram de forskjellige fargene. 
 
-  p I Skandinavia var det særlig Skagen-malerne som stod for en impresjonistisk stil. I Skagen på Jylland fant norske malere som Christian Krohg og Frits Thaulow (1847–1906) en samhørighet med de danske kunstnerne Peter S. Krøyer (1851–1909) og ekteparet Michael (1849–1927) og Anna Ancher (1859–1935). Motivet var ofte naturen, og de arbeidet med å fange det særpregete lyset ved danskekysten. 
+  .flex.flex-wrap
+    .col.col5
+      figure.figure-left.mt20
+        img(src="./Realisme_Kunsten_og_moderniteten3.jpg" alt="«Hip hip hurra! Kunstnerfest på Skagen» av P.S. Krøyer (1888)")
+        figcaption «Hip hip hurra! Kunstnerfest på Skagen» av P.S. Krøyer (1888)
+    .col.col7
+      p I Skandinavia var det særlig Skagen-malerne som stod for en impresjonistisk stil. I Skagen på Jylland fant norske malere som Christian Krohg og Frits Thaulow (1847–1906) en samhørighet med de danske kunstnerne Peter S. Krøyer (1851–1909) og ekteparet Michael (1849–1927) og Anna Ancher (1859–1935). Motivet var ofte naturen, og de arbeidet med å fange det særpregete lyset ved danskekysten. 
 
+  h3 Andre kunstformer
+
+  figure.col.col4.left-image
+    img(src="./Realisme_Andre_kunstformer_Grieg.jpg" alt="Edvard Grieg")
+    figcaption Edvard Grieg
   h5 Musikk
   p 
     | Den største norske komponisten i siste halvdel av 1800-tallet var 
@@ -252,6 +358,9 @@ PagePeriod
 
   p Europeisk musikk ellers var dominert av komponister som Franz Liszt (1811–1886), Richard Wagner (1813–1883), Johann Strauss d.y. (1825–1899), Johannes Brahms (1833–1897), Georges Bizet (1838–1875) og Pjotr Tsjaikovskij (1840–1893). 
 
+  figure
+    img(src="./Realisme_Andre_kunstformer_Arkitektur.jpg" alt="Kviknes Hotel i Balestrand er tegnet av Franz Wilhelm Schiertz i en blanding av sveitser- og dragestil.")
+    figcaption Kviknes Hotel i Balestrand er tegnet av Franz Wilhelm Schiertz i en blanding av sveitser- og dragestil.
   h5 Arkitektur
   I arkitekturen stod drakestilen og sveitserstilen sterkt. Begge retningene hentet inspirasjon fra tradisjonelle norske formuttrykk, som utskårne ornamenter og listverk. Sveitserstilen kom opprinnelig fra Sveits og Tyskland, men ble tilpasset norske forhold. Sveitserstilen bidro til å sette tydelig preg på norske byer og bygder. Sentrale bygg som jernbanestasjoner, skysstasjoner og hotell ble ofte bygd i sveitserstil.
 
