@@ -272,6 +272,9 @@ $rowWidth: 100% / 12;
 .mt0 {
   margin-top: 0px !important;
 }
+.mt5 {
+  margin-top: 5px !important;
+}
 .mt10 {
   margin-top: 10px !important;
 }
@@ -311,6 +314,10 @@ $rowWidth: 100% / 12;
 .flex-justify-center {
   flex-wrap: wrap;
   justify-content: center;
+}
+.flex-justify-space-evenly {
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
 
 .display-ib {
