@@ -23,7 +23,7 @@ export default {
     },
     playerType: {
       type: String,
-      default: "local", // local or youtube
+      default: "local", // local or youtube. NB! Youtube source link must be the embed URL
     },
   },
   data() {
