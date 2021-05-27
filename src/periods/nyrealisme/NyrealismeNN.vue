@@ -1,5 +1,8 @@
 <template lang="pug">
-PagePeriod
+PagePeriod(
+  :bannerImage="require(`./Nyrealisme_01.jpg`)"
+  :circleImage="require(`./sirkel_nyrealisme.png`)"
+  )
   // Content here
 
   h3 Tida og samfunnstilhøva
