@@ -1,5 +1,8 @@
 <template lang="pug">
-PagePeriod
+PagePeriod(
+  :bannerImage="require(`./Modernisme_01.jpg`)"
+  :circleImage="require(`./sirkel_modernisme.png`)"
+  )
   // Content here
   h3 Tida og samfunnstilhøva  
 
