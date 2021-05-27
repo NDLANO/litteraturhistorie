@@ -190,13 +190,15 @@ PagePeriod(
 </template>
 
 <script>
-import PagePeriod from "@/components/PagePeriod";
+import ImageTextBlock from "@/components/ImageTextBlock";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import PagePeriod from "@/components/PagePeriod";
 
 export default {
   name: "Book",
   components: {
+    ImageTextBlock,
     NdlaAudio,
     NdlaVideo,
     PagePeriod,
