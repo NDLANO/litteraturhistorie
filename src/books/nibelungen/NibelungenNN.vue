@@ -1,5 +1,20 @@
 <template lang="pug">
 PageBook
+  p «Nibelungen-eposet» («Nibelungenlied») er eit tysk heltedikt som er nedskrive på 1200-talet. Det blir sett på som det tyske nasjonaleposet.
+
+  p Diktet byggjer på segnmotiv frå folkevandringstida. Vi finn att stoffet i ulike versjonar både i Tyskland og dei nordiske landa. I norrøn dikting har helten fått namnet Sigurd Fåvnesbane. 
+
+  p Eposet er delt i to. Første del handlar om helten og kongssonen Siegfried, som vil gifte seg med burgundarprinsessa Kriemhild. Ho har tre brør, som saman herskar over Burgund. Siegfried kjem til burgundarhoffet og blir teken godt imot.
+
+  p Gunther, den eldste av burgundarkongane, vil dra til Island for å fri til dronning Brünhild. Ho har kjempekrefter og vil berre gifte seg med den mannen som vinn over henne i kamp. Siegfried hjelper Gunther med å få Brünhild. Han har mellom anna ei kappe som gjer han usynleg, og derfor skjønner ikkje Brünhild at ho blir lurt. Etter at Gunther har fått Brünhild, får også Siegfried gifte seg med Kriemhild.
+
+  p Etter nokre år kjem Kriemhild og Siegfried på besøk til Burgund. Brünhild, som er svært byrg, kranglar med Kriemhild om kven som har høgast rang, Gunther eller Siegfried. Krangelen fører til at Kriemhild røper at det var Siegfried som vann over Brünhild, ikkje Gunther.
+
+  p Brünhild er rasande og sver hemn, og det endar med at Hagen, ein venn av burgundarkongane, drep Siegfried. Gunther og brørne hans gjer ikkje noko for å hindre det. Hagen stel også Nibelung-skatten, ein gullskatt som Kriemhild har fått i morgongåve av Siegfried, og kastar han i Rhinen. Slik vil han hindre Kriemhild i å reise ein hær for å hemne ektemannen.
+
+  p Andre delen handlar om korleis Kriemhild tek hemn. Ho gifter seg med hunarkongen Atle og ber brørne på besøk. Dei kjem, jamvel om dei aner uråd. Det endar med at alle burgundarane blir drepne, også Kriemhild sjølv, og ingen får nokon gong vite kvar Nibelung-skatten er gøymd. 
+
+
 
 </template>
 
@@ -18,5 +33,4 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped></style>  
-  
+<style lang="scss" scoped></style>
