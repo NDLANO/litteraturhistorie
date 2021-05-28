@@ -157,7 +157,8 @@ export default {
       this.$emit("buttonClick");
       if (this.mouseX === event.clientX && this.mouseY === event.clientY) {
         console.log("TimelineSection.onEraPointerUp: both x and y is the same");
-        this.$router.push("/nb/periods/barokk");
+        const route = `/${this.globalVars.langCode}/periods/${this.id}`;
+        this.$router.push(route);
       } else {
         console.log("TimelineSection.onEraPointerUp: mouse has moved");
       }
