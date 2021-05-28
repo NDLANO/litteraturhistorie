@@ -13,10 +13,15 @@ import IconButtonBook from "@/components/ui/IconButtonBook";
 export default {
   name: "ButtonBook",
   emits: ["buttonClick"],
+  inject: ["globalVars"],
   components: {
     IconButtonBook,
   },
   props: {
+    id: {
+      type: String,
+      default: "",
+    },
     title: {
       type: String,
       default: "",
@@ -53,8 +58,11 @@ export default {
       }
     },
     showLink() {
-      if (this.path !== "") {
-        this.$router.push(this.path);
+      console.log("ButtonBook.showLink: id = ", this.id);
+      if (this.id !== "") {
+        // this.$router.push(this.path);
+        const route = `/${this.globalVars.langCode}/books/${this.id}`;
+        this.$router.push(route);
       } else {
         this.$router.push("/nn/books/asbjornsenmoe");
       }

@@ -24,9 +24,9 @@ li.sectionList_item
     ul.bookList
       li(v-for="book in periodBooks" :key="book.id")
         ButtonBook(
+          :id="book.id"
           :title="book.nbTitle"
           :author="book.author"
-          :path="book.path"
           :style="getBookStyle(book)"
           @buttonClick="$emit('buttonClick')"
         )
