@@ -12,7 +12,7 @@
         PageBookAuthor(:title="title" :author="author")
         slot
 
-        button(@click="$router.go(-1)") {{ $t("general.pageBookBackButton")}}
+        button(@click="$router.push(`/${globalVars.langCode}`)") {{ $t("general.pageBookBackButton")}}
 
 </template>
 <script>
@@ -23,6 +23,7 @@ import ButtonBackArrow from "@/components/ButtonBackArrow";
 
 export default {
   name: "PageBook",
+  inject: ["globalVars"],
   components: {
     PageBanner,
     PageBookAuthor,
