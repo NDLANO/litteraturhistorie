@@ -6,7 +6,7 @@
       .pageTopBar_firstItem {{ title }}
       .pageTopBar_secondItem {{ author }}
     
-    .page
+    .page.page_book
       PageBanner(:src="bannerImage")
       .page_content
         PageBookAuthor(:title="title" :author="author")
