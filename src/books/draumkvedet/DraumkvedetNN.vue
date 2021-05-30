@@ -1,5 +1,5 @@
 <template lang="pug">
-PageBook
+PageBook(:showAuthor="false")
   p «Draumkvedet» er eit norsk visjonsdikt frå slutten av mellomalderen. Diktet skildrar eit syn (ein visjon) av kva som skjer etter døden. Mange reknar «Draumkvedet» for høgdepunktet i norsk balladedikting. Diktet har vore ei kjelde til inspirasjon for mange norske kunstnarar.
 
   h3 Handlinga

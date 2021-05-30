@@ -1,5 +1,5 @@
 <template lang="pug">
-PageBook
+PageBook(:showAuthor="false")
   p «Nibelungen-eposet» («Nibelungenlied») er eit tysk heltedikt som er nedskrive på 1200-talet. Det blir sett på som det tyske nasjonaleposet.
 
   p Diktet byggjer på segnmotiv frå folkevandringstida. Vi finn att stoffet i ulike versjonar både i Tyskland og dei nordiske landa. I norrøn dikting har helten fått namnet Sigurd Fåvnesbane. 

@@ -1,5 +1,5 @@
 <template lang="pug">
-PageBook
+PageBook(:showAuthor="false")
   p «Nibelungen-eposet» («Nibelungenlied») er et tysk heltedikt som er skrevet
   ned på 1200-tallet. Det blir regnet som det tyske nasjonaleposet. 
 
