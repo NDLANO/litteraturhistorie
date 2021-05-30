@@ -9,7 +9,7 @@
     .page.page_book
       PageBanner(:src="bannerImage")
       .page_content
-        PageBookAuthor(:title="title" :author="author")
+        PageBookAuthor(:title="title" :author="author" :showAuthor="showAuthor")
         slot
 
         button(@click="$router.push(`/${globalVars.langCode}`)") {{ $t("general.pageBookBackButton")}}
@@ -33,6 +33,10 @@ export default {
     bannerImage: {
       type: String,
       default: "",
+    },
+    showAuthor: {
+      type: Boolean,
+      default: true,
     },
   },
   computed: {

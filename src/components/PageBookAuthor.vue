@@ -1,7 +1,7 @@
 <template lang="pug">
 .page_content_bookAuthor
   h2.page_content_bookName {{ this.title }}
-  .page_content_author
+  .page_content_author(v-if="showAuthor")
     IconPerson
     div {{ this.author }}
 
@@ -20,6 +20,10 @@ export default {
     author: {
       type: String,
       default: "",
+    },
+    showAuthor: {
+      type: Boolean,
+      default: true,
     },
   },
   components: {
