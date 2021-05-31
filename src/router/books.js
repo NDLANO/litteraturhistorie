@@ -97,7 +97,7 @@ export default [
     path: "/nn/books/snorre",
     name: "SnorreNN",
     meta: {
-      author: "Snorre",
+      author: "Snorre Sturluson",
       title: "Snorres kongesoger",
       year: 1220,
       cover: 4,
@@ -113,7 +113,7 @@ export default [
     path: "/nb/books/snorre",
     name: "SnorreNB",
     meta: {
-      author: "Snorre",
+      author: "Snorre Sturluson",
       title: "Snorres kongesoger",
       year: 1220,
       cover: 4,
@@ -193,7 +193,7 @@ export default [
     path: "/nn/books/gunnlaug",
     name: "GunnlaugNN",
     meta: {
-      author: "Gunnlaug",
+      author: "",
       title: "Soga om Gunnlaug Ormstunge",
       year: 1290,
       cover: 2,
@@ -209,7 +209,7 @@ export default [
     path: "/nb/books/gunnlaug",
     name: "GunnlaugNB",
     meta: {
-      author: "Gunnlaug",
+      author: "",
       title: "Soga om Gunnlaug Ormstunge",
       year: 1290,
       cover: 2,
@@ -449,7 +449,7 @@ export default [
     path: "/nn/books/dorothe",
     name: "DorotheNN",
     meta: {
-      author: "Dorothe",
+      author: "Dorothe Engelbretsdotter",
       title: "Sjælens Sang-Offer",
       year: 1678,
       cover: 5,
@@ -465,7 +465,7 @@ export default [
     path: "/nb/books/dorothe",
     name: "DorotheNB",
     meta: {
-      author: "Dorothe",
+      author: "Dorothe Engelbretsdotter",
       title: "Sjælens Sang-Offer",
       year: 1678,
       cover: 5,
@@ -481,7 +481,7 @@ export default [
     path: "/nn/books/dass",
     name: "DassNN",
     meta: {
-      author: "Dass",
+      author: "Petter Dass",
       title: "Nordlands Trompet",
       year: 1690,
       cover: 7,
@@ -495,7 +495,7 @@ export default [
     path: "/nb/books/dass",
     name: "DassNB",
     meta: {
-      author: "Dass",
+      author: "Petter Dass",
       title: "Nordlands Trompet",
       year: 1690,
       cover: 7,
@@ -697,8 +697,8 @@ export default [
     path: "/nn/books/welhaven",
     name: "WelhavenNN",
     meta: {
-      author: "Welhaven",
-      title: "Welhaven: Nyere Digte",
+      author: "Johan Sebastian Welhaven",
+      title: "Nyere Digte",
       year: 1844,
       cover: 13,
     },
@@ -713,8 +713,8 @@ export default [
     path: "/nb/books/welhaven",
     name: "WelhavenNB",
     meta: {
-      author: "Welhaven",
-      title: "Welhaven: Nyere Digte",
+      author: "Johan Sebastian Welhaven",
+      title: "Nyere Digte",
       year: 1844,
       cover: 13,
     },
@@ -945,7 +945,7 @@ export default [
     path: "/nn/books/billedbog",
     name: "BilledbogNN",
     meta: {
-      author: "Billedbog",
+      author: "",
       title: "Norsk Billedbog for Børn",
       year: 1888,
       cover: 15,
@@ -961,7 +961,7 @@ export default [
     path: "/nb/books/billedbog",
     name: "BilledbogNB",
     meta: {
-      author: "Billedbog",
+      author: "",
       title: "Norsk Billedbog for Børn",
       year: 1888,
       cover: 15,
@@ -1061,8 +1061,8 @@ export default [
     path: "/nn/books/hamsun",
     name: "HamsunNN",
     meta: {
-      author: "Hamsun",
-      title: "Hamsun: Pan",
+      author: "Knut Hamsun",
+      title: "Pan",
       year: 1894,
       cover: 13,
     },
@@ -1077,8 +1077,8 @@ export default [
     path: "/nb/books/hamsun",
     name: "HamsunNB",
     meta: {
-      author: "Hamsun",
-      title: "Hamsun: Pan",
+      author: "Knut Hamsun",
+      title: "Pan",
       year: 1894,
       cover: 13,
     },
@@ -1249,8 +1249,8 @@ export default [
     path: "/nn/books/nilsen",
     name: "NilsenNN",
     meta: {
-      author: "Nilsen",
-      title: "Nilsen: På stengrunn",
+      author: "Rudolf Nilsen",
+      title: "På stengrunn",
       year: 1925,
       cover: 17,
     },
@@ -1265,8 +1265,8 @@ export default [
     path: "/nb/books/nilsen",
     name: "NilsenNB",
     meta: {
-      author: "Nilsen",
-      title: "Nilsen: På stengrunn",
+      author: "Rudolf Nilsen",
+      title: "På stengrunn",
       year: 1925,
       cover: 17,
     },
