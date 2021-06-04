@@ -321,7 +321,7 @@ export default [
     path: "/nn/books/vinjeboka",
     name: "VinjebokaNN",
     meta: {
-      author: "Vinjeboka",
+      author: "",
       title: "Vinjeboka",
       year: 1490,
       cover: 7,
@@ -337,7 +337,7 @@ export default [
     path: "/nb/books/vinjeboka",
     name: "VinjebokaNB",
     meta: {
-      author: "Vinjeboka",
+      author: "",
       title: "Vinjeboka",
       year: 1490,
       cover: 7,
@@ -569,7 +569,7 @@ export default [
     path: "/nn/books/wesselsskrifter",
     name: "WesselsSkrifterNN",
     meta: {
-      author: "WesselsSkrifter",
+      author: "Johan Herman Wessel",
       title: "Wessels skrifter",
       year: 1787,
       cover: 4,
@@ -585,7 +585,7 @@ export default [
     path: "/nb/books/wesselsskrifter",
     name: "WesselsSkrifterNB",
     meta: {
-      author: "WesselsSkrifter",
+      author: "Johan Herman Wessel",
       title: "Wessels skrifter",
       year: 1787,
       cover: 4,
@@ -849,8 +849,8 @@ export default [
     path: "/nn/books/knudsen",
     name: "KnudsenNN",
     meta: {
-      author: "Knudsen",
-      title: "Knudsen: Unorsk og norsk",
+      author: "Knud Knudsen",
+      title: "Unorsk og norsk",
       year: 1880,
       cover: 14,
     },
@@ -865,8 +865,8 @@ export default [
     path: "/nb/books/knudsen",
     name: "KnudsenNB",
     meta: {
-      author: "Knudsen",
-      title: "Knudsen: Unorsk og norsk",
+      author: "Knud Knudsen",
+      title: "Unorsk og norsk",
       year: 1880,
       cover: 14,
     },
@@ -1405,8 +1405,8 @@ export default [
     path: "/nn/books/hoel",
     name: "HoelNN",
     meta: {
-      author: "Hoel",
-      title: "Hoel: Veien til verdens ende",
+      author: "Sigurd Hoel",
+      title: "Veien til verdens ende",
       year: 1933,
       cover: 16,
     },
@@ -1419,8 +1419,8 @@ export default [
     path: "/nb/books/hoel",
     name: "HoelNB",
     meta: {
-      author: "Hoel",
-      title: "Hoel: Veien til verdens ende",
+      author: "Sigurd Hoel",
+      title: "Veien til verdens ende",
       year: 1933,
       cover: 16,
     },
@@ -1493,7 +1493,7 @@ export default [
     path: "/nn/books/stortingsmelding",
     name: "StortingsmeldingNN",
     meta: {
-      author: "Stortingsmelding",
+      author: "",
       title: "Stortingsmelding nr.31",
       year: 1937,
       cover: 19,
@@ -1509,7 +1509,7 @@ export default [
     path: "/nb/books/stortingsmelding",
     name: "StortingsmeldingNB",
     meta: {
-      author: "Stortingsmelding",
+      author: "",
       title: "Stortingsmelding nr.31",
       year: 1937,
       cover: 19,
@@ -1525,7 +1525,7 @@ export default [
     path: "/nn/books/vangsgutane",
     name: "VangsgutaneNN",
     meta: {
-      author: "Vangsgutane",
+      author: "",
       title: "Vangsgutane",
       year: 1941,
       cover: 20,
@@ -1541,7 +1541,7 @@ export default [
     path: "/nb/books/vangsgutane",
     name: "VangsgutaneNB",
     meta: {
-      author: "Vangsgutane",
+      author: "",
       title: "Vangsgutane",
       year: 1941,
       cover: 20,
@@ -1557,8 +1557,8 @@ export default [
     path: "/nn/books/hagerup",
     name: "HagerupNN",
     meta: {
-      author: "Hagerup",
-      title: "Hagerup: Videre",
+      author: "Inger Johanne Hagerup",
+      title: "Videre",
       year: 1945,
       cover: 21,
     },
@@ -1573,8 +1573,8 @@ export default [
     path: "/nb/books/hagerup",
     name: "HagerupNB",
     meta: {
-      author: "Hagerup",
-      title: "Hagerup: Videre",
+      author: "Inger Johanne Hagerup",
+      title: "Videre",
       year: 1945,
       cover: 21,
     },
