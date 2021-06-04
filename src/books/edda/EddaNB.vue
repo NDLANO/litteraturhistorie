@@ -12,14 +12,27 @@ PageBook(:showAuthor="false")
 
   p De tre mest kjente diktene fra Den eldre Edda er «Voluspå», «Trymskvida» og «Håvamål». 
 
+  figure.col.col6.m-center.mt40
+    img(src="./Edda_Faeroeyene.jpg")
+    figcaption Her er volva fremstilt på et frimerke fra Færøyene.
+
   h3 «Voluspå» 
   p «Voluspå» er et gudedikt om jordas skapelse, hva som fører til jordas undergang, og om selve undergangen, det såkalte ragnarok. Det er en spåkvinne (volve) som snakker til oss gjennom diktet. 
   
+  p
+    figure.col.col6.right-image.mt40
+      img(src="./Edda_Tor_strir_med_jotnene.jpg")
+      figcaption «Tor strir med jotnene», et maleri av Mårten Eskil Winge
+
   h3 «Trymskvida»
   p «Trymskvida» er et gudedikt som handler om jotnen Trym som stjeler hammeren til Tor. Tor må ha hjelp av den listige Loke for å få tilbake hammeren. Hammeren er både et forsvarsvåpen og et fruktbarhetssymbol for æsene, derfor er det svært viktig for Tor å få den tilbake. Men selv om gudene altså må løse et alvorlig problem, er handlingen skildret med mye humor. 
   
   h3 «Håvamål» 
   p «Håvamål» betyr «den høyes tale», det vil si at det er Odin som taler. «Håvamål» er på mange måter et læredikt, og det er Odin som gir råd og livsvisdom til menneskene i et samfunn fylt av fiendskap og farer. 
+
+  figure.col.col6.m-center.mt40
+    img(src="./Edda_Haavamaal.jpg")
+    figcaption Vatn og handduk han ventar å få, 
 
   p Rådene vi får gjennom «Håvamål», kan fortone seg kyniske. Det gjelder ikke bare å være en lojal og god venn, en skal også være listig og lur. Det er viktig å stole på egen dømmekraft i et samfunn med mange farer. Å stole på andre er det bare tosker som gjør. Diktene formidler en hedensk nyttemoral. 
 
