@@ -20,7 +20,7 @@ PageBook(:showAuthor="false")
   p «Voluspå» er et gudedikt om jordas skapelse, hva som fører til jordas undergang, og om selve undergangen, det såkalte ragnarok. Det er en spåkvinne (volve) som snakker til oss gjennom diktet. 
   
   p
-    figure.col.col6.right-image.mt40
+    figure.col.col6.m-center.mt40
       img(src="./Edda_Tor_strir_med_jotnene.jpg")
       figcaption «Tor strir med jotnene», et maleri av Mårten Eskil Winge
 
@@ -51,6 +51,11 @@ PageBook(:showAuthor="false")
     br
     | med ord og attbeding.
 
+  NdlaAudio(source="media/books/edda/Haavamål_strofe_68-72_og_74-77.mp3")
+  p 
+    | Les 
+    a(:href="globalVars.publicPath + 'media/books/edda/haavamaal.html'" target="_blank") utdrag 
+    | fra Håvamål
 
   h3 Heltedikt 
   p Heltediktene i Den eldre Edda forteller sagn som har røtter helt tilbake i folkevandringstida. Diktene levde på folkemunne i mange hundre år før de ble nedskrevet. Flere av heltegjerningene har overmenneskelige dimensjoner. Heltene kjemper både mot ytre farer og mot sin indre samvittighet. 
@@ -59,19 +64,29 @@ PageBook(:showAuthor="false")
 
   p Sigurd blir oppfostret av dvergen Regin. I diktet «Reginsmål» får vi høre om skatten som draken Fåvne vokter over. Fåvne er bror til Regin, og skatten er arven etter faren deres, Reidmar. Men Fåvne nekter å dele med bror sin. Da egger Regin Sigurd til å drepe Fåvne. Han smir om sverdet Gram, som Sigurd har arvet etter faren. Med dette sverdet skal han kjempe mot draken.
 
+  figure.col.col3.left-image
+    img(src="./Edda_Hylestad.jpg")
+    figcaption På Hylestad stavkirke er sagnet om Sigurd fremstilt.
+
   p «Fåvnesmål» forteller hvordan det går til når Sigurd dreper Fåvne. Før Fåvne dør, råder han Sigurd til å dra hjem uten skatten fordi gullet kommer til å bli hans bane. Dessuten advarer han Sigurd mot Regin. 
 
   p Etter at Fåvne er død, vil Regin ete hjertet til Fåvne. Han ber Sigurd steike Fåvnes hjerte over et bål. Sigurd tar på hjertet for å kjenne om det er fullsteikt. Da brenner han seg, stikker fingeren i munnen og får Fåvnes hjerteblod på tunga. Nå kan han forstå fuglemål. Fuglene forteller at Regin planlegger å svike han. Da dreper han Regin, tar med seg mye gull fra Fåvnes bol og rir deretter av gårde.  
 
-  h5 Norrøn tekst 
-  p Sigurðr kvað: «Ráð er þér ráðit, en ek ríða mun til þess gulls, er í lyngvi liggr, en þú, Fáfnir, ligg í fjörbrotum, þar er þik hel hafi.» 
+  p.flex.flex-wrap
+    .col.col6.p5
+      h5 Norrøn tekst 
+      p Sigurðr kvað: «Ráð er þér ráðit, en ek ríða mun til þess gulls, er í lyngvi liggr, en þú, Fáfnir, ligg í fjörbrotum, þar er þik hel hafi.» 
+    .col.col6.p5
+      h5 Oversettelse
+      p Sigurd kvad: «Råd du meg rådde, men ride eg vil til gull som i lyngi ligg; men du, Fåvne, heve helorann fengi, til Hel deg heim fører.» 
 
-  p Fáfnir kvað: «Reginn mik réð, hann þik ráða mun, hann mun okkr verða báðum at bana; fjör sitt láa, hygg ek, at Fáfnir myni; þitt varð nú meira megin.» 
-
-  h5 Oversettelse
-  p Sigurd kvad: «Råd du meg rådde, men ride eg vil til gull som i lyngi ligg; men du, Fåvne, heve helorann fengi, til Hel deg heim fører.» 
-
-  p Fåvne kvad: «Meg svikråd gav Regin, han svikråd gav deg med, han vert oss båe til bane; livet lata lyt no Fåvne, meisteren min du vart.» 
+  p.flex.flex-wrap
+    .col.col6.p5
+      h5 Norrøn tekst
+      p Fáfnir kvað: «Reginn mik réð, hann þik ráða mun, hann mun okkr verða báðum at bana; fjör sitt láa, hygg ek, at Fáfnir myni; þitt varð nú meira megin.» 
+    .col.col6.p5
+      h5 Oversettelse
+      p Fåvne kvad: «Meg svikråd gav Regin, han svikråd gav deg med, han vert oss båe til bane; livet lata lyt no Fåvne, meisteren min du vart.» 
 
   p Oversatt av Ivar Mortensson-Egnund, 1928 Kilde: 
     a(href="https://www.heimskringla.no" target="_blank") www.heimskringla.no
@@ -87,11 +102,17 @@ import NdlaAudio from "@/components/NdlaAudio";
 
 export default {
   name: "Book",
+  inject: ["globalVars"],
   components: {
     NdlaAudio,
     NdlaVideo,
     PageBook,
   },
+  // data() {
+  //   return {
+  //     publicPath: process.env.BASE_URL,
+  //   };
+  // },
 };
 </script>
 

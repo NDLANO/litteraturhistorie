@@ -19,7 +19,7 @@ PageBook(:showAuthor="false")
   h3 «Voluspå»
   p «Voluspå» er eit gudedikt om skapinga av jorda, kva som fører til jordas undergang og om sjølve undergangen, som blir kalla ragnarok. Det er ei spåkvinne (volve) som snakkar til oss gjennom diktet.
 
-  figure.col.col6.right-image.mt40
+  figure.col.col6.m-center.mt40
     img(src="./Edda_Tor_strir_med_jotnene.jpg")
     figcaption «Tor strir med jotnane», eit målarstykke av Mårten Eskil Winge
 
@@ -50,6 +50,11 @@ PageBook(:showAuthor="false")
     br
     | med ord og attbeding.
 
+  NdlaAudio(source="media/books/edda/Haavamål_strofe_68-72_og_74-77.mp3")
+  p 
+    | Les 
+    a(:href="globalVars.publicPath + 'media/books/edda/haavamaal.html'" target="_blank") utdrag 
+    | fra Håvamål
 
   h3 Heltedikta
   p Heltedikta i Den eldre Edda fortel segner som har røter heilt attende i folkevandringstida. Dikta levde på folkemunne i mange hundre år før dei vart nedskrivne. Fleire av heltegjerningane har overmenneskelege dimensjonar. Heltane kjempar både mot ytre farar og mot sitt indre samvit.
@@ -58,19 +63,29 @@ PageBook(:showAuthor="false")
 
   p Sigurd blir fostra av dvergen Regin. I diktet «Reginsmål» får vi høyre om skatten som draken Fåvne vaktar på. Fåvne er bror til Regin, og skatten er arven etter far deira, Reidmar. Men Fåvne nektar å dele med bror sin. Da eggjar Regin Sigurd til å drepe Fåvne. Han smir om sverdet Gram, som Sigurd har arva etter faren. Med dette sverdet skal han kjempe mot draken. 
 
+  figure.col.col3.left-image
+    img(src="./Edda_Hylestad.jpg")
+    figcaption På Hylestad stavkyrkje er segna om Sigurd framstilt.
+
   p «Fåvnesmål» fortel korleis det går til når Sigurd drep Fåvne. Før Fåvne døyr, rår han Sigurd til å dra heim utan skatten fordi gullet kjem til å bli hans bane. Dessutan åtvarar han Sigurd mot Regin.
 
   p Etter at Fåvne er død, vil Regin ete hjartet til Fåvne. Han ber Sigurd steikje hjartet til Fåvne over eit bål. Sigurd tek på hjartet for å kjenne om det er fullsteikt. Da brenner han seg, stikk fingeren i munnen og får Fåvnes hjarteblod på tunga. No kan han forstå fuglemål. Fuglane fortel at Regin planlegg å svike han. Da drep han Regin, tek med seg mykje gull frå Fåvnes bol og rir deretter av garde.
 
-  h5 Norrøn tekst 
-  p Sigurðr kvað: «Ráð er þér ráðit, en ek ríða mun til þess gulls, er í lyngvi liggr, en þú, Fáfnir, ligg í fjörbrotum, þar er þik hel hafi.» 
+  p.flex.flex-wrap
+    .col.col6.p5
+      h5 Norrøn tekst 
+      p Sigurðr kvað: «Ráð er þér ráðit, en ek ríða mun til þess gulls, er í lyngvi liggr, en þú, Fáfnir, ligg í fjörbrotum, þar er þik hel hafi.» 
+    .col.col6.p5
+      h5 Oversettelse
+      p Sigurd kvad: «Råd du meg rådde, men ride eg vil til gull som i lyngi ligg; men du, Fåvne, heve helorann fengi, til Hel deg heim fører.» 
 
-  p Fáfnir kvað: «Reginn mik réð, hann þik ráða mun, hann mun okkr verða báðum at bana; fjör sitt láta, hygg ek, at Fáfnir myni; þitt varð nú meira megin.» 
-
-  h5 Oversettelse
-  p Sigurd kvad: «Råd du meg rådde, men ride eg vil til gull som i lyngi ligg; men du, Fåvne, heve helorann fengi, til Hel deg heim fører.» 
-
-  p Fåvne kvad: «Meg svikråd gav Regin, han svikråd gav deg med, han vert oss båe til bane; livet lata lyt no Fåvne, meisteren min du vart.» 
+  p.flex.flex-wrap
+    .col.col6.p5
+      h5 Norrøn tekst 
+      p Fáfnir kvað: «Reginn mik réð, hann þik ráða mun, hann mun okkr verða báðum at bana; fjör sitt láta, hygg ek, at Fáfnir myni; þitt varð nú meira megin.» 
+    .col.col6.p5
+      h5 Oversettelse
+      p Fåvne kvad: «Meg svikråd gav Regin, han svikråd gav deg med, han vert oss båe til bane; livet lata lyt no Fåvne, meisteren min du vart.» 
 
   p Omsetjing ved Ivar Mortensson-Egnund, 1928 Kjelde: 
     a(href="https://www.heimskringla.no" target="_blank") www.heimskringla.no
@@ -86,6 +101,7 @@ import NdlaAudio from "@/components/NdlaAudio";
 
 export default {
   name: "Book",
+  inject: ["globalVars"],
   components: {
     NdlaAudio,
     NdlaVideo,
