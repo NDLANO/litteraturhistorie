@@ -22,3 +22,31 @@ ESLint, Prettier, Sass, Pug satt opp vha [Vue CLI](https://cli.vuejs.org/)
 ## Språkvalg
 
 Man velger mellom forskjellige versjoner ved å bruke `/nb/` eller `/nn/` i URLen rett etter domenet. Hvis dette ikke er definert eller man har definert ugyldige verdier så vil man bli videresendt til bokmålsversjonen (`/nb/`)
+
+## Kodetips
+
+### Tekstlinker til statiske filer i public folderen
+
+Det er ikke alle lenkene som går til eksterne sider eller router-sider. Noen ligger som statiske filer i `public` folderen. For å lenke til disse må man bruke den globale variabelen `globalVars.publicPath`.
+
+For å få tilgang til denne må man injecte den i script-delen
+
+```javascript
+export default {
+  name: "Book",
+  inject: ["globalVars"],
+  components: {
+```
+
+Deretter kan man bruke den på følgende måte
+
+```javascript
+  p
+    | Les
+    a(:href="globalVars.publicPath + 'media/books/edda/haavamaal.html'" target="_blank") utdrag
+    | fra Håvamål
+
+eller evt.
+
+  p Les <a :href="globalVars.publicPath + 'media/books/edda/haavamaal.html'" target="_blank">utdrag</a>fra
+```
