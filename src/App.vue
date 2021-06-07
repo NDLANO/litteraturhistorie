@@ -15,6 +15,7 @@ export default {
       languageInitiated: false,
       globalVars: {
         langCode: "",
+        publicPath: process.env.BASE_URL,
       },
     };
   },
