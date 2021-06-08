@@ -1,7 +1,7 @@
 <template lang="pug">
 PagePeriod(
   :bannerImage="require(`./Norroen_01.jpg`)"
-  :circleImage="require(`./banner_norron.png`)"
+  :circleImage="require(`./sirkel_norron.png`)"
   )
   // Content here
   h3 Tida og samfunnsforholdene 
