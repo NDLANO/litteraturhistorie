@@ -12,7 +12,7 @@ li.sectionList_item
     // * The circle and link in the middle of the era
     .lo_circleEra
       .circleEra
-        img(src="@/assets/media/img/circle1.png")
+        img(:src="require(`@/periods/${id}/sirkel_${id}.png`)")
         .circleEra_content
           .circleEra_date {{ from }}-{{ to }}
           h2.circleEra_title {{ title }}
