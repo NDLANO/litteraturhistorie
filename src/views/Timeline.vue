@@ -28,7 +28,8 @@
         .startTimeline
       ul.sectionList
         TimelineSection(
-          v-for="period in periods" :key="period.id"
+          v-for="(period, index) in periods" :key="period.id"
+          :index="index",
           :title="getPeriodTitle(period)"
           :from="period.from"
           :to="period.to"

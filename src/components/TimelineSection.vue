@@ -30,7 +30,7 @@ li.sectionList_item
           :style="getBookStyle(book)"
           @buttonClick="$emit('buttonClick')"
         )
-    // SeparatorAuthor
+    SeparatorAuthor(v-if="showAuthorSeparator")
     // * List of authors
     ul.authorsList
       li(v-for="author in periodAuthors" :key="author.id")
@@ -70,6 +70,10 @@ export default {
   name: "TimelineSection",
   emits: ["authorClick", "buttonClick"],
   props: {
+    index: {
+      type: Number,
+      default: -1,
+    },
     title: {
       type: String,
       default: "_Norrøn tid",
@@ -134,6 +138,11 @@ export default {
     },
     periodPath() {
       return "/" + this.globalVars.langCode + "/periods/" + this.id + "/";
+    },
+    showAuthorSeparator() {
+      if (this.index === 0) return true;
+
+      return false;
     },
   },
   methods: {
