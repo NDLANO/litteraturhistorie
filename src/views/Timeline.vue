@@ -15,7 +15,7 @@
       // * button - jump to period
       button.btn_menu
         MenuIcon
-      .header_eraName Realisme og naturalisme
+      //- .header_eraName Realisme og naturalisme
 
   // * MAIN CONTENT
   div.lo_sectionList-wrapper(ref="lo_sectionList")
