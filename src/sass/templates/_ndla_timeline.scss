@@ -528,7 +528,7 @@ blockquote {
   padding-left: 1rem;
   position: absolute;
   top: $circleEraHeight;
-  transform: translate(0%, -50%);
+  z-index: 1;
 }
 
 /// PAGES
