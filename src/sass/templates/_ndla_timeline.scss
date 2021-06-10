@@ -845,12 +845,15 @@ blockquote {
 
 .page_content img,
 .page_content figure {
-  width: auto;
+  width: 100%;
   max-width: 100%;
+  margin-left: 0;
+  margin-right: 0;
 
   img {
     display: block;
     margin: 0 auto;
+    width: 100%;
   }
 
   @include breakpoint($medium) {
