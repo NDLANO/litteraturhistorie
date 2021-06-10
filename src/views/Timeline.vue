@@ -273,14 +273,19 @@ export default {
   async created() {
     const ucLangCode = this.globalVars.langCode.toUpperCase();
 
-    // * Disables gsap Draggable if on mobile
-    // * This gives a much smoother experience on mobile
+    // * Checks if app is running on mobile
     if (
       /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
         navigator.userAgent,
       )
     ) {
+      // * Disables gsap Draggable if on mobile
+      // * This gives a much smoother experience on mobile
       this.isDraggable = false;
+
+      // * This has to be set for the page to work properly in H5P iframe
+      let appElement = document.getElementById("app");
+      appElement.style.overflow = "scroll";
     }
 
     this.globalVars.lastYear = 2020;
