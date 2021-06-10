@@ -208,21 +208,21 @@ blockquote {
 // OVERRIDES
 .lo_topBar_header{
   flex-wrap: wrap;
-  @include breakpoint($medium){
+  @include breakpoint($mediumx){
     height: $topBarHeight;
     position: fixed;
   }
 }
 
 .lo_topBar_timeline{
-  @include breakpoint($medium){
+  @include breakpoint($mediumx){
     top: $topBarHeight;
   }
 }
 
 .lo_sectionList{
   top: -10px;
-  @include breakpoint($medium){
+  @include breakpoint($mediumx){
     top: $base-line-height*1.8;
   }
 }
@@ -237,7 +237,7 @@ blockquote {
   display: flex;
   margin-left: $base-line-height;
   padding-bottom: $base-line-height/2;
-  @include breakpoint($medium){
+  @include breakpoint($mediumx){
     padding-bottom: 0;
   }
 }
