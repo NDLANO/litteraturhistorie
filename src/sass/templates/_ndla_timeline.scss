@@ -107,7 +107,7 @@ blockquote {
   display: flex;
   align-items: center;
   width: 100%;
-  height: $topBarHeight;
+  //height: $topBarHeight; //*Mod for filter
   background: $light-grey;
   // background: rgba(0, 0, 0, 0.5);
   font-weight: 900;
@@ -115,7 +115,7 @@ blockquote {
   color: $main-color;
   text-transform: uppercase;
   padding: 0 ($base-line-height / 4);
-  position: fixed;
+  //position: fixed; //*Mod for filter
   top: 0px;
 }
 
@@ -129,7 +129,7 @@ blockquote {
 .lo_topBar_timeline {
   // position: absolute;
   position: sticky;
-  top: $topBarHeight;
+  //top: $topBarHeight; //*Mod for filter
 
   // ul {
   display: flex;
@@ -177,7 +177,7 @@ blockquote {
 
 .lo_sectionList {
   position: relative;
-  top: $base-line-height * 1.8;
+  //top: $base-line-height * 1.8; //*Mod for filter
   margin: 0;
   display: flex;
   flex-direction: row;
@@ -201,6 +201,82 @@ blockquote {
     width: $introPageWidth;
   }
 }
+
+
+/// TOPBAR > FILTER BUTTONS
+
+// OVERRIDES
+.lo_topBar_header{
+  flex-wrap: wrap;
+  @include breakpoint($medium){
+    height: $topBarHeight;
+    position: fixed;
+  }
+}
+
+.lo_topBar_timeline{
+  @include breakpoint($medium){
+    top: $topBarHeight;
+  }
+}
+
+.lo_sectionList{
+  top: -10px;
+  @include breakpoint($medium){
+    top: $base-line-height*1.8;
+  }
+}
+
+.lo_topBar_header h1{
+  font-size: 1rem;
+  margin: 0;
+}
+
+// FILTERS
+.lo_topBar_filters{
+  display: flex;
+  margin-left: $base-line-height;
+  padding-bottom: $base-line-height/2;
+  @include breakpoint($medium){
+    padding-bottom: 0;
+  }
+}
+
+.btn_filter{
+  display: flex;
+  align-items: center;
+  background: none;
+  border: 2px solid transparent;
+  height: $base-line-height*1.5;
+  border-radius: 4px;
+}
+
+.btn_filter_icon{
+  width: $base-line-height/1.25;
+  height: $base-line-height/1.25;
+}
+
+.btn_filter_icon svg{
+  width: 100%;
+  height: auto;
+}
+
+.btn_filter_text{
+  padding-left: $base-line-height/8;
+  font-weight: bold;
+  font-size: 0.9rem;
+}
+
+.btn_filter:hover{
+  background: white;
+  border-color: $main-color;
+  color: $main-color;
+}
+
+.btn_filter:hover svg{
+  fill: $main-color;
+}
+    
 
 /// PART ON THE LEFT OF THE TIMELINE > INSTRUCTIONS
 
