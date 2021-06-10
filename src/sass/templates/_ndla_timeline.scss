@@ -288,13 +288,11 @@ blockquote {
 
 .logoNDLA {
   max-width: $base-line-height * 3;
-
   fill: #20588f;
-
   margin-top: $base-line-height;
 }
 
-.startTimeline {
+.startTimeline{
   position: relative;
   top: 1.1rem;
   display: block;
@@ -312,6 +310,40 @@ blockquote {
     margin-left: $base-line-height * 3;
   }
 }
+
+.endTimeline{
+  position: relative;
+  //top: 1.1rem;
+  left: -1rem;
+  display: block;
+  flex-shrink: 0;
+  background: tint($main-color, 80%);
+  width: $base-line-height * 2;
+  height: calc(100% - 26px);
+  border-top-right-radius: 50rem;
+  border-bottom-right-radius: 50rem;
+  //margin-left: $base-line-height;
+  //box-shadow: (-6px) 0px 6px 0px rgba(black, 0.3);
+
+  @include breakpoint($medium) {
+    width: $base-line-height * 5;
+    //margin-left: $base-line-height * 3;
+  }
+  &:before{
+    content: "";
+    position: sticky;
+    background: white;
+    width: $base-line-height * 3.6;
+    width: 100%;
+    height: $base-line-height*1.35;
+    top: $topBarHeight;
+    left: 0;
+    display: block;
+    z-index: 1000;
+    border-bottom: 4px solid $main-color;
+  }
+}
+
 
 .btn_menu,
 .btn_close,

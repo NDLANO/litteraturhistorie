@@ -47,7 +47,9 @@
           @authorClick="onAuthorClick"
           @buttonClick="onTimelineSectionClick"
           )
-
+      .lo_endTimeline
+        .endTimeline
+        //h1 test
 </template>
 
 <script>
