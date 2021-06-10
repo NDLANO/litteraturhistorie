@@ -6,13 +6,13 @@
       .pageTopBar_firstItem {{ title }}
       .pageTopBar_secondItem {{ author }}
     
-    .page
+    .page.page_book
       PageBanner(:src="bannerImage")
       .page_content
-        PageBookAuthor(:title="title" :author="author")
+        PageBookAuthor(:title="title" :author="author" :showAuthor="showAuthor")
         slot
 
-        button(@click="$router.go(-1)") {{ $t("general.pageBookBackButton")}}
+        button(@click="$router.push(`/${globalVars.langCode}`)") {{ $t("general.pageBookBackButton")}}
 
 </template>
 <script>
@@ -23,6 +23,7 @@ import ButtonBackArrow from "@/components/ButtonBackArrow";
 
 export default {
   name: "PageBook",
+  inject: ["globalVars"],
   components: {
     PageBanner,
     PageBookAuthor,
@@ -32,6 +33,10 @@ export default {
     bannerImage: {
       type: String,
       default: "",
+    },
+    showAuthor: {
+      type: Boolean,
+      default: true,
     },
   },
   computed: {

@@ -6,13 +6,13 @@
       .pageTopBar_firstItem {{ title }}
       .pageTopBar_secondItem {{ from }} - {{ to }}
     
-    .page
+    .page.page_period
       PageBanner(:src="bannerImage")
       PagePeriodCircle(:src="circleImage" :title="title" :from="from" :to="to")
       .page_content
         slot
 
-        button(@click="$router.go(-1)") {{ $t("general.pageBookBackButton")}}
+        button(@click="$router.push(`/${globalVars.langCode}`)") {{ $t("general.pageBookBackButton")}}
 
 </template>
 <script>
@@ -23,6 +23,7 @@ import ButtonBackArrow from "@/components/ButtonBackArrow";
 
 export default {
   name: "PageBook",
+  inject: ["globalVars"],
   props: {
     bannerImage: {
       type: String,

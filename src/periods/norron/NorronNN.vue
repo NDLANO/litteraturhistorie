@@ -1,7 +1,234 @@
 <template lang="pug">
-PagePeriod
+PagePeriod(
+  :bannerImage="require(`./Norroen_01.jpg`)"
+  :circleImage="require(`./sirkel_norron.png`)"
+  )
   // Content here
+  h3 Tida og samfunnstilhøva 
+  p
+    | Den norrøne perioden strekkjer seg over om lag 600 år. Vi plar dele perioden i to: vikingtid (fram til ca. 1050) og gammalnorsk tid (fram til ca. 1350). Noreg og Island blir rekna som eitt felles område i norrøn tid, med stort sett felles språk, litteratur og mytologi. Den norrøne perioden fell i store drag saman med den epoken som i Europa blir kalla mellomalderen. 
 
+  img(src="./Norroen_Tida_og_samfunnsforholdene1.jpg" alt="")
+
+  h3 Vikingtida (ca. 800–1050)  
+
+  p
+    | I 793 plyndrar vikingar det engelske klosteret Lindisfarne. Dette er eit av dei første vikingtokta som er sikkert datert, og historisk sett reknar vi dette året som innleiinga til vikingtida. I heile denne perioden reiser vikingane ut på handels- og plyndringstokt: først til øyane i nordsjøområdet, seinare også sørover i Europa. Vikingferdene held fram heilt til tusenårsskiftet.  
+
+  h5 Landnåmstid  
+  p
+    | Mellom ca. 870 og 930 reiser mange nordmenn vestover til Island og buset seg der. Denne nybyggjarperioden på Island kallar vi landnåmstida (nema land er norrønt og tyder å ta land). Det er særleg uår og jordmangel som skaper utferdstrong, men mange er òg misnøgde med kong Harald Hårfagre, som styrer Noreg med hard hand. 
+
+  h3 Gammalnorsk tid (ca. 1050–1350) 
+
+  img(src="./Norroen_Tida_og_samfunnsforholdene2.jpg" alt="")
+
+  p
+    | Kring år 1000 skjer det nokre viktige endringar: Vikingtokta tek slutt, kristendommen kjem til Norden, og saman med den kristne trua får vi skrivekunsten og det latinske alfabetet. Desse endringane markerer slutten på vikingtida og byrjinga på gammalnorsk tid. 
+
+  h5 Island under norsk herredømme  
+  p
+    | Også etter landnåmstida er det omfattande kontakt mellom Noreg og Island, og erkebiskopen av Nidaros er overhovud for kyrkja både i Noreg og på Island. Frå 1262 kjem Island under norsk herredømme. 
+
+  h5 Frå stormakt til svartedaud 
+  p
+    | På 1200-talet er Noreg ei stormakt, mens 1300-talet blir rekna for ei nedgangstid for landet vårt. Klimaet blir kaldare, og i 1349 rammar svartedauden katastrofalt og tek livet av to tredelar av folket. Det skal gå fleire hundre år før folketalet i Noreg på nytt kjem opp på nivået før svartedauden. 
+
+  h5 Unionstid  
+  p
+    | I 1380 blir Olav 4. Håkonsson konge i Noreg. Olav er også arving til den danske trona gjennom mor si, Margrete av Danmark. Men Olav døyr i ung alder i 1387, og med han døyr den norske kongeætta ut. Noreg er frå no av i personalunion med Danmark. Landet mister stadig meir av sjølvstyret sitt og blir til slutt ein dansk provins. Unionen med Danmark varer fram til 1814.  
+
+  h3 Norrøn mytologi  
+
+  figure
+    img(src="./Norroen_Norroen_Mytologi1.jpg" alt="Fenresulven framstilt på Ledbergsstenen, ein svensk runestein frå 1000-talet")
+    figcaption Fenresulven framstilt på Ledbergsstenen, ein svensk runestein frå 1000-talet
+
+  h5 Norrøn gudelære  
+  p
+    | Norrøn mytologi er gudelæra som er utbreidd i Norden i førkristen tid. Ei viktig kjelde til denne kunnskapen er Snorres Edda. Boka er skriven på 1200-talet, to hundre år 
+
+  etter at kristendommen blei innført. 
+
+  h5 Gudar, jotnar og menneske  
+  p
+    | I den norrøne mytologien står gudane (dei gode) mot jotnane (dei vonde). Mytane fortel oss at gudane drep den første jotunen, Yme, og skaper så verda av den døde kroppen hans. Verda er flat, med det store havet rundt. Midt i verda ligg Midgard, der menneska bur. Midt i Midgard er Åsgard. Der bur æsene, som dei norrøne gudane blir kalla. Jotnane bur ut mot havet i Utgard eller Jotunheimen. Midt i Åsgard står Yggdrasil, livstreet. Så lenge dette treet held seg friskt og grønt, går verda vidare, men det er gode og vonde krefter som kjempar om treet. 
+
+  
+
+  h5 Krigsguden  
+  p
+    | Odin er krigsgud, men også gud for visdom og skaldskap. Når det er krig, svever valkyrjene over stridsplassen og peiker ut dei som skal falle i krigen og komme til Valhall. Der skal dei leve eit evig krigarliv. 
+
+  figure.col.col6.left-image
+    img(src="./Norroen_Norroen_Mytologi2.jpg" alt="Fenresulven framstilt på Ledbergsstenen, ein svensk runestein frå 1000-talet")
+    figcaption Fenresulven framstilt på Ledbergsstenen, ein svensk runestein frå 1000-talet
+
+  h5 Gudinna for ekteskapet  
+  p
+    | Frigg er kona til Odin og gudinne for ekteskapet. Ho er svært vakker og den mektigaste av gudinnene. Frigg og Odin er opphavet til gudeætta. 
+
+  h5 Den sterkaste guden  
+  p
+    | Tor er son til Odin. Han er den sterkaste av æsene og bruker hammaren Mjolne når han skal utføre bragdene sine. Når Tor køyrer over himmelen med bukkane sine framfor vogna, slår det gneistar under hjula. Da er det torevêr.  
+
+  h5 Vaktmannen  
+  p
+    | Heimdall er vaktmann for gudane. Han skal varsle om ragnarok ved å blåse i hornet Gjallarhorn. Ragnarok er verdas undergang.  
+
+  h5 Den fredselskande  
+  p
+    | Balder er son til Odin og Frigg. Han er mild og fredselskande, men blir likevel drepen. Fordi han ikkje døyr i kamp, kjem han heller ikkje til Valhall, men til Hel i underverda. Der må han vere heilt til ragnarok.  
+
+  h5 Ein slu medhjelpar  
+  p
+    | Loke er ein skapning som er vanskeleg å plassere. Snorre meiner han er son av ein jotun. Loke er lite påliteleg og kan falle gudane i ryggen. Det er mellom anna han som valdar Balders død. Han er elles ofte medhjelparen til Tor. 
+
+  h5 Herskar over dødsriket  
+  p
+    | Hel er dotter til Loke og syster av Midgardsormen og Fenresulven. Ho rår over dødsriket Helviti og herskar over dei døde som ikkje har falle i kamp. 
+
+  h5 To vaktarar  
+  p
+    | Fenres er hunden som vaktar porten framfor Helviti, og Midgardsormen ligg i havet rundt jorda og held vakt. 
+
+  h5 Kjærleiksgudinna  
+  p
+    | Njord og barna hans, Frøy og Frøya, høyrer til ei anna gudeætt, vaneætta. Dei er knytte til avling, grøde og forplanting. Frøya er også gudinne for kjærleik og erotikk. 
+
+  h3 Norrøn litteratur 
+
+  img(src="./Norroen_Norroen_litteratur.jpg" alt="")
+
+  p
+    | Med norrøn litteratur meiner vi litteraturen som blir skapt i Noreg og på Island i norrøn tid, det vil seie mellom om lag 800 og 1350. 
+
+  h5 Skriftleg form  
+  p
+    | Den norrøne diktinga blir overført munnleg fram til 1200-talet. Så blir ho skriven ned på Island. Det er kristne prestar og munkar som står for denne nedskrivinga på norrønt språk.  
+
+  h5 Ukjende forfattarar  
+  p
+    | Dei skriftlærde bruker pergament (tynt kalveskinn) som dei skriv på med blekk og fjørpenn. Dei ser ikkje på seg sjølve som forfattarar. Derfor er det få av dei norrøne handskriftene som er signerte, og vi veit ikkje kven som har skrive ned litteraturen. Men vi veit at forteljingane og dikta som blir nedskrivne, har levd på folkemunne i mange år.
+
+  h5 Ein variert og omfattande litteratur 
+  ul
+    li Tekstane i Den eldre Edda går heilt attende til 800-talet og er den eldste norrøne litteraturen vi kjenner til. 
+    li Skaldekvada er bruksdikting. Formålet med eit skaldekvad kan for eksempel vere å hylle ein person eller rose ein heltedåd.  
+    li Så har vi islendingesogene, som i stor grad speglar av dei urolege samfunnstilhøva på Island på 900- og 1000-talet. 
+    li Det fremste historiske verket i perioden, Heimskringla, er skrive av historikaren og lovmannen Snorre Sturluson.  
+    li Snorre har også skapt Den yngre Edda, ei lærebok i skaldekunst.  
+    li Den norrøne litteraturen omfattar òg kristen litteratur som preiker, legender og kristne kvad. 
+    li Høvisk litteratur kallar vi den norrøne litteraturen som blir skapt ved kongehoffet.
+
+  h3 Den eldre Edda  
+  figure.col.col6.left-image
+    img(src="./Norroen_Den_eldre_Edda.jpg" alt="Volva ( frå ”Voluspå”) på eit færøysk frimerke av Anker Eli Petersen.")
+    figcaption.pr10 Volva ( frå ”Voluspå”) på eit færøysk frimerke av Anker Eli Petersen.
+
+  ul
+    li Dikta i Den eldre Edda er den eldste norrøne litteraturen vi kjenner til. Desse tekstane går heilt attende til 800-talet. Ordet ”edda” tyder oldemor og gjer det klart at det handlar om gammal dikting.  
+    li Den eldre Edda omfattar om lag 30 dikt som blei funne på Island i 1643.  
+    li Det er vanleg å dele dikta inn i to grupper: gudedikt og heltedikt. Stoffet er først og fremst henta frå den norrøne mytologien. Dikta fortel oss at menneska på denne tida har eit enkelt forhold til Odin og Tor.  
+    li Dei mest kjende dikta frå Den eldre Edda er ”Voluspå”, ”Trymskvida” og ”Håvamål”.
+
+  h3 Skaldedikt 
+  figure.col.col6.pr20.left-image
+    img(src="./Norroen_Skaldedikt.jpg" alt="Egil Skallagrimsson, illustrert i eit islandsk manuskript frå 1600-talet.")
+    figcaption.pr10 Egil Skallagrimsson, illustrert i eit islandsk manuskript frå 1600-talet.
+
+  ul
+    li Skald er den norrøne nemninga for diktar og historieforteljar. I norrøn tid fekk skaldane ofte lønn av høvdingar og småkongar for å vere husdiktarar. Det å vere ein god skald gir ære og heider.  
+    li Den mest kjende skalden som levde på Island, var Egil Skallagrimsson.  
+    li Skaldekvada er for det meste brukslyrikk: Dikta skal kaste glans over ein oppdragsgivar eller over ein død person, men dei kan òg kommentere ei aktuell hending eller ein heltedåd.  
+    li Mange av skaldekvada er signerte – i motsetning til eddadikta, som ikkje har namngitte forfattarar. 
+
+  h3 Den yngre Edda  
+  figure
+    img(src="./Norroen_Den_yngre_Edda.jpg" alt="Detalj frå ”Codex Frisianus” (1325), den einaste bevarte avskrifta av Heimskringla frå mellomalderen.")
+    figcaption Detalj frå ”Codex Frisianus” (1325), den einaste bevarte avskrifta av Heimskringla frå mellomalderen.
+
+  ul
+    li Den yngre Edda er ei lærebok i skaldekunst som er skriven av Snorre Sturluson.  
+    li Snorre (1179–1241) er den mest kjende diktaren og historikaren frå norrøn tid.  
+    li Han er kjend for Heimskringla (verdsringen), der han skriv om dei norske kongane frå rundt år 850 fram til 1177.  
+    li Forteljingane i Heimskringla kallar vi også Snorres kongesoger. Det er Snorre som har gitt oss historiekunnskap om dei aller eldste tidene, jamvel om Heimskringla nok må lesast som ei blanding av historie og fiksjon.  
+    li Snorre er også høvding og jurist. Han kjem i konflikt med den norske kongen Håkon Håkonsson og blir myrda på garden sin i 1241 av kongen sine sendemenn. 
+
+  h3 Islendingesogene  
+  figure
+    img(src="./Norroen_Islendingesagaene.jpg" alt="”Njålssoga” i eit islandsk manuskript frå omkring 1350")
+    figcaption ”Njålssoga” i eit islandsk manuskript frå omkring 1350
+
+  ul
+    li Islendingesogene er dei mest kjende prosaforteljingane frå norrøn litteratur.  
+    li Ordet soge tyder forteljing, og sogene blir i førstninga framførte som rein underhaldning. Så blir dei skrivne ned på 1200-talet.  
+    li Det finst om lag 30 soger, alle med ukjend forfattar. Dei fleste hentar handlinga frå slutten av 900-talet, ei uroleg tid med mykje maktkamp og ufred mellom ættene på Island. Ei anna nemning på islendingesogene er derfor ættesoger.  
+    li ”Njålssoga”, ”Soga om Gisle Sursson” og ”Soga om Gunnlaug Ormstunge” er dei mest kjende islendingesogene.  
+
+  h3 Kristen litteratur  
+  figure
+    img(src="./Norroen_Kristen_litteratur.jpg" alt="Olav den heilage på eit måleri i Överselö kyrkje i Sverige")
+    figcaption Olav den heilage på eit måleri i Överselö kyrkje i Sverige
+
+  ul
+    li Den kristne litteraturen i norrøn tid omfattar preiker, helgenlegender og kristne kvad. Tekstane blir skrivne ned av prestar, munkar og nonner.  
+    li Den eldste boka som er funnen, er Gammalnorsk homiliebok. Det er ei bok med utvalde bibeltekstar og preiker.  
+    li I tillegg blir det skrive ned helgenlegender, det vil seie forteljingar om personar som må lide og døy på grunn av trua. Etter at dei er døde, skjer det under som viser at dei er helgenar. Det finst fleire slike legender om Olav den heilage.  
+
+  h3 Høvisk litteratur 
+  figure
+    img(src="./Norroen_Hoevisk_litteratur.jpg" alt="Tysk tresnitt frå 1500-talet med motiv frå forteljinga om Tristram og Isond.")
+    figcaption Tysk tresnitt frå 1500-talet med motiv frå forteljinga om Tristram og Isond.
+
+  ul
+    li Med høvisk litteratur meiner vi litteratur som er knytt til kongen og hoffet (høvisk tyder ”som ved hoffet”).  
+    li På 1200-talet er kongemakta stor i Noreg, og kong Håkon Håkonsson er interessert i europeisk litteratur. Han får omsett ein del franske og engelske forteljingar til norrønt. Eit eksempel på ei slik forteljing er ”Tristram og Isond”, som handlar om forboden og tragisk kjærleik.  
+    li Håkon Håkonsson får òg omsett Strengleikar, ei samling kjærleiksnoveller med erotisk innhald.  
+    li Kongsspegelen er ei lærebok i høvisk framferd som er nedskriven rundt 1250. Boka er truleg skriven for sønene til Håkon Håkonsson.  
+
+  h3 Litt om språket 
+
+  NdlaVideo(source="media/periods/norron/Spraket_i_Norge_på_1200-tallet.mp4")
+
+  h5 URNORDISK TID  
+  figure.col.col5.right-image
+    img(src="./Norroen_Litt_om_spraaket1.jpg" alt="Hunarkongen Attila (Atle), frå ei svensk utgåve av Den eldre Edda (1893)")
+    figcaption Hunarkongen Attila (Atle), frå ei svensk utgåve av Den eldre Edda (1893)
+
+  p
+    | Den eldste perioden i språkhistoria vår heiter urnordisk tid. Perioden strekkjer seg frå om lag år 200 til år 800. Den viktigaste kjelda til kunnskap om språket frå denne tida er runeinnskrifter. Eit særtrekk ved urnordisk er at orda er klangfulle, vokalrike og lange, med atskilleg fleire stavingar enn i moderne norsk. I utdraget av ”Atlekvadet” (professor Arne Torp) får du eit inntrykk av korleis urnordisk høyrdest ut.  
+
+  
+
+  h5 ”Atlekvadet”  
+  p
+    | ”Atlekvadet” er eit heltedikt frå rundt år 400. I dette diktet møter vi to personar som faktisk har levd, hunarkongen Attila (norrønt Atli) og burgundarkongen Gunnar. Mennene til Atle tek Gunnar og broren Hogne til fange. Atle vil presse dei to til å røpe gøymestaden for ein stor gullskatt som ligg på botnen av Rhinen. Gunnar er redd for at broren skal røpe løyndommen, og krev at han skal drepast. Atles menn prøver først å narre Gunnar med hjartet til trælen Hjalle den feige, men Gunnar tek ikkje imot. Så får han det rette hjartet.  
+
+  
+
+  h5 Frå urnordisk til norrønt språk  
+  p
+    | Mot slutten av den urnordiske perioden (ca. 500 til 800) endrar språket seg sterkt. Ei viktig endring er at orda blir kortare: HarawaldaR blir til HaraldR, StainawarjaR til Steinarr, ÁnulaibaR til Óláfr osb. Denne endringa kallar vi synkope (samandraging) på fagspråket.  
+
+  
+
+  h5 NORRØN TID 
+  figure
+    img(src="./Norroen_Litt_om_spraaket2.jpg" alt="Kong Sigurd og kong Baldvine rir frå Jorsalaborg til elva Jordan. Illustrasjon frå Snorre av Gerhard Munthe")
+    figcaption Kong Sigurd og kong Baldvine rir frå Jorsalaborg til elva Jordan. Illustrasjon frå Snorre av Gerhard Munthe
+
+  p
+    | Den norrøne perioden strekkjer seg over 600 år, frå litt før 800 til rundt år 1350. Språket som blir snakka i Noreg og på Island i denne perioden, kallar vi norrønt. Språket endrar seg sjølvsagt også gjennom desse 600 åra, men endringane er mindre og skjer litt etter litt. I boka Kongsspegelen kan du høyre norrønt slik vi trur det klang på 1200-talet.  
+
+  p
+    | Runeinnskriftene er framleis ei viktig språkleg kjelde. Men mens det urnordiske runealfabetet omfatta 24 ulike teikn, er talet på runer redusert til 16 i norrøn tid. Somme av runeteikna står no for to eller fleire lydar. Teiknet u står for eksempel både for u, o, y, ø og w.  
+
+  p
+    | Andre språklege kjelder er skaldekvada. Dei blir til på 800- og 900-talet. Desse kvada går i arv gjennom fleire hundre år, men blir ikkje skrivne ned før på 1200- og 1300-talet.  
+
+  p
+    | Vikingane kjem i kontakt med mange framande språk – frå nære språk som gammalfrisisk og gammalengelsk, til svært fjerne språk som arabisk og tyrkisk. Møtet med andre kulturar fører til at vikingane tek opp nye ord i språket sitt. Frå frisisk har norrønt for eksempel fått lånord som klædi og sekkr. Men vikingane eksporterer også ord til andre språk, mellom anna til engelsk: taka (take), kalla (call), vindauga (window) og husbond (husband) er eksempel på norrøne lånord i engelsk. 
 </template>
 
 <script>

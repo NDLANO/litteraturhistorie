@@ -19,7 +19,7 @@
         ul
           li(v-for="period in periods" :key="period.id")        
             a(href="#" @click="onNavButtonClick(period.id)") {{ period.nbTitle}}
-      .header_eraName Realisme og naturalisme
+      //- .header_eraName Realisme og naturalisme
 
   // * MAIN CONTENT
   div.lo_sectionList-wrapper(ref="lo_sectionList")
@@ -32,7 +32,8 @@
         .startTimeline
       ul.sectionList
         TimelineSection(
-          v-for="period in periods" :key="period.id"
+          v-for="(period, index) in periods" :key="period.id"
+          :index="index",
           :title="getPeriodTitle(period)"
           :from="period.from"
           :to="period.to"
@@ -278,7 +279,7 @@ export default {
     // * Disables gsap Draggable if on mobile
     // * This gives a much smoother experience on mobile
     if (
-      /Android|webOS|iPhone|iPad|Mac|Macintosh|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
+      /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
         navigator.userAgent,
       )
     ) {

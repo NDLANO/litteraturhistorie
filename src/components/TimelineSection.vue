@@ -12,7 +12,7 @@ li.sectionList_item
     // * The circle and link in the middle of the era
     .lo_circleEra
       .circleEra
-        img(src="@/assets/media/img/circle1.png")
+        img(:src="require(`@/periods/${id}/sirkel_${id}.png`)")
         .circleEra_content
           .circleEra_date {{ from }}-{{ to }}
           h2.circleEra_title {{ title }}
@@ -24,13 +24,13 @@ li.sectionList_item
     ul.bookList
       li(v-for="book in periodBooks" :key="book.id")
         ButtonBook(
+          :id="book.id"
           :title="book.nbTitle"
           :author="book.author"
-          :path="book.path"
           :style="getBookStyle(book)"
           @buttonClick="$emit('buttonClick')"
         )
-    // SeparatorAuthor
+    SeparatorAuthor(v-if="showAuthorSeparator")
     // * List of authors
     ul.authorsList
       li(v-for="author in periodAuthors" :key="author.id")
@@ -70,6 +70,10 @@ export default {
   name: "TimelineSection",
   emits: ["authorClick", "buttonClick"],
   props: {
+    index: {
+      type: Number,
+      default: -1,
+    },
     title: {
       type: String,
       default: "_Norrøn tid",
@@ -135,6 +139,11 @@ export default {
     periodPath() {
       return "/" + this.globalVars.langCode + "/periods/" + this.id + "/";
     },
+    showAuthorSeparator() {
+      if (this.index === 0) return true;
+
+      return false;
+    },
   },
   methods: {
     onPointerDown(event) {
@@ -157,7 +166,8 @@ export default {
       this.$emit("buttonClick");
       if (this.mouseX === event.clientX && this.mouseY === event.clientY) {
         console.log("TimelineSection.onEraPointerUp: both x and y is the same");
-        this.$router.push("/nb/periods/barokk");
+        const route = `/${this.globalVars.langCode}/periods/${this.id}`;
+        this.$router.push(route);
       } else {
         console.log("TimelineSection.onEraPointerUp: mouse has moved");
       }
