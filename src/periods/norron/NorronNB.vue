@@ -9,9 +9,10 @@ PagePeriod(
   p
     | Den norrøne perioden strekker seg over om lag 600 år. Vi pleier å dele perioden i to: vikingtid (fram til ca. 1050) og gammelnorsk tid (fram til ca. 1350). Norge og Island blir regnet som ett felles område i norrøn tid, med stort sett felles språk, litteratur og mytologi. Den norrøne perioden faller i store trekk sammen med den epoken som i Europa kalles middelalderen.
 
-  img(src="./Norroen_Tida_og_samfunnsforholdene1.jpg" alt="")
 
   h3 Vikingtida (ca. 800–1050)  
+
+  img.col.col7.right-image(src="./Norroen_Tida_og_samfunnsforholdene1.jpg" alt="")
 
   p
     | I 793 plyndret vikingene det engelske klosteret Lindisfarne. Det er et av de første vikingtoktene som er sikkert datert, og historisk sett regner vi dette året som opptakten til vikingtida. I hele denne perioden drar vikingene ut på handels- og plyndringstokt: først til øyene i nordsjøområdet, seinere også sørover i Europa. Vikingferdene fortsetter helt til tusenårsskiftet.  
@@ -22,7 +23,7 @@ PagePeriod(
 
   h3 Gammelnorsk tid (ca. 1050–1350)
 
-  img(src="./Norroen_Tida_og_samfunnsforholdene2.jpg" alt="")
+  img.col.col6.right-image(src="./Norroen_Tida_og_samfunnsforholdene2.jpg" alt="")
 
   p
     | Rundt år 1000 skjer det noen viktige endringer: Vikingtoktene tar slutt, kristendommen kommer til Norden, og sammen med den kristne troen får vi skrivekunsten og det latinske alfabetet. Disse endringene markerer slutten på vikingtida og begynnelsen på gammelnorsk tid.  
@@ -42,8 +43,8 @@ PagePeriod(
   h3 Norrøn mytologi
 
   figure
-    img(src="./Norroen_Norroen_Mytologi1.jpg" alt="Fenresulven framstilt på Ledbergsstenen, en svensk runestein fra 1000-talet")
-    figcaption Fenresulven framstilt på Ledbergsstenen, en svensk runestein fra 1000-talet
+    img(src="./Norroen_Norroen_Mytologi1.jpg" alt="Tor med hammeren slik Mårten Eskil Winge skildrer han i maleriet ”Tors kamp med jotene” i 1872")
+    figcaption Tor med hammeren slik Mårten Eskil Winge skildrer han i maleriet” Tors kamp med jotene" i 1872
 
   h5 Norrøn gudelære  
   p
@@ -119,62 +120,71 @@ PagePeriod(
     li Høvisk litteratur kaller vi den norrøne litteraturen som ble skapt ved kongehoffet. 
 
   h3 Den eldre Edda  
-
-  figure.col.col6.left-image
-    img(src="./Norroen_Den_eldre_Edda.jpg" alt="Volva ( fra ”Voluspå”) på et færøysk frimerke av Anker Eli Petersen.")
-    figcaption.pr10 Volva ( fra ”Voluspå”) på et færøysk frimerke av Anker Eli Petersen.
-
-  ul
-    li Diktene i Den eldre Edda er den eldste norrøne litteraturen vi kjenner til. Disse tekstene går helt tilbake til 800-tallet. Ordet ”edda” betyr oldemor og indikerer at det dreier seg om gammel diktning.  
-    li Den eldre Edda består av om lag 30 dikt og ble funnet på Island i 1643.  
-    li Det er vanlig å dele diktene i to grupper: gudedikt og heltedikt. Stoffet er først og fremst hentet fra den norrøne mytologien. Diktene forteller at menneskene på den tida hadde et enkelt forhold til Odin og Tor.  
-    li De mest kjente diktene fra Den eldre Edda er ”Voluspå”, ”Trymskvida” og ”Håvamål”.  
+  ImageTextBlock(
+    :image="require(`./Norroen_Den_eldre_Edda.jpg`)"
+    imageColumns="5"
+    imageCaption="Volva (fra «Voluspå») på et færøysk frimerke av Anker Eli Petersen"
+    altText=""
+    ) 
+    ul.mt0
+      li Diktene i Den eldre Edda er den eldste norrøne litteraturen vi kjenner til. Disse tekstene går helt tilbake til 800-tallet. Ordet ”edda” betyr oldemor og indikerer at det dreier seg om gammel diktning.  
+      li Den eldre Edda består av om lag 30 dikt og ble funnet på Island i 1643.  
+      li Det er vanlig å dele diktene i to grupper: gudedikt og heltedikt. Stoffet er først og fremst hentet fra den norrøne mytologien. Diktene forteller at menneskene på den tida hadde et enkelt forhold til Odin og Tor.  
+      li De mest kjente diktene fra Den eldre Edda er ”Voluspå”, ”Trymskvida” og ”Håvamål”.  
   
 
   h3 Skaldedikt 
-  figure.col.col6.pr20.left-image
-    img(src="./Norroen_Skaldedikt.jpg" alt="Egil Skallagrimsson, illustrert i et islandsk manuskript frå 1600-talet.")
-    figcaption.pr10 Egil Skallagrimsson, illustrert i et islandsk manuskript frå 1600-talet.
-  ul
-    li Skald er den norrøne betegnelsen for dikter og historieforteller. I norrøn tid fikk skaldene ofte lønn av høvdinger og småkonger for å være husdiktere. Det å være en god skald gav ære og heder.  
-    li Den mest kjente skalden som levde på Island, var Egil Skallagrimsson.  
-    li Skaldekvadene var for det meste brukslyrikk: Diktene skulle kaste glans over en oppdragsgiver eller over en død person, men de kunne også kommentere en aktuell hending eller en heltedåd.  
-    li Mange av skaldekvadene er signert – i motsetning til eddadiktene, som ikke har navngitte forfattere.  
+  ImageTextBlock(
+    :image="require(`./Norroen_Skaldedikt.jpg`)"
+    imageColumns="5"
+    imageCaption="Egil Skallagrimsson, illustrert i et islandsk manuskript fra 1600-tallet"
+    altText=""
+    )
+    ul.mt0
+      li Skald er den norrøne betegnelsen for dikter og historieforteller. I norrøn tid fikk skaldene ofte lønn av høvdinger og småkonger for å være husdiktere. Det å være en god skald gav ære og heder.  
+      li Den mest kjente skalden som levde på Island, var Egil Skallagrimsson.  
+      li Skaldekvadene var for det meste brukslyrikk: Diktene skulle kaste glans over en oppdragsgiver eller over en død person, men de kunne også kommentere en aktuell hending eller en heltedåd.  
+      li Mange av skaldekvadene er signert – i motsetning til eddadiktene, som ikke har navngitte forfattere.  
 
   h3 Den yngre Edda  
-  figure
-    img(src="./Norroen_Den_yngre_Edda.jpg" alt="Detalj fra ”Codex Frisianus” (1325), den eneste bevarte avskriften av Heimskringla fra mellomalderen. ")
-    figcaption Detalj fra ”Codex Frisianus” (1325), den eneste bevarte avskriften av Heimskringla fra mellomalderen.
-
-  ul
-    li Den yngre Edda er ei lærebok i skaldekunst som er skrevet av Snorre Sturluson.  
-    li Snorre (1179–1241) er den mest kjente dikteren og historikeren fra norrøn tid.  
-    li Han er kjent for Heimskringla (verdensringen), der han skriver om de norske kongene fra rundt år 850 fram til 1177.  
-    li Fortellingene i Heimskringla kalles også Snorres kongesagaer. Det er Snorre som har gitt oss historiekunnskap om de aller eldste tidene, selv om Heimskringla nok må leses som en blanding av historie og fiksjon.  
-    li Snorre var også høvding og jurist. Han kom i konflikt med den norske kongen Håkon Håkonsson og ble myrdet på gården sin i 1241 av kongens sendemenn. 
+  ImageTextBlock(
+    :image="require(`./Norroen_Den_yngre_Edda.jpg`)"
+    imageColumns="5"
+    imageCaption="Detalj fra «Codex Frisianus» (1325), den eneste bevarte avskriften av Heimskringla fra middelalderen"
+    altText=""
+    )
+    ul.mt0
+      li Den yngre Edda er ei lærebok i skaldekunst som er skrevet av Snorre Sturluson.  
+      li Snorre (1179–1241) er den mest kjente dikteren og historikeren fra norrøn tid.  
+      li Han er kjent for Heimskringla (verdensringen), der han skriver om de norske kongene fra rundt år 850 fram til 1177.  
+      li Fortellingene i Heimskringla kalles også Snorres kongesagaer. Det er Snorre som har gitt oss historiekunnskap om de aller eldste tidene, selv om Heimskringla nok må leses som en blanding av historie og fiksjon.  
+      li Snorre var også høvding og jurist. Han kom i konflikt med den norske kongen Håkon Håkonsson og ble myrdet på gården sin i 1241 av kongens sendemenn. 
 
   h3 Islendingesagaene 
 
-  figure
-    img(src="./Norroen_Islendingesagaene.jpg" alt="”Njålssoga” i et islandsk manuskript frå omkring 1350")
-    figcaption ”Njålssoga” i et islandsk manuskript frå omkring 1350
-
-  ul
-    li Islendingesagaene er de mest kjente prosafortellingene fra norrøn litteratur.  
-    li Ordet saga betyr fortelling, og sagaene ble til å begynne med framført som rein underholdning. Så ble de skrevet ned på 1200-tallet.  
-    li Det finnes om lag 30 sagaer, alle med ukjent forfatter. De fleste henter handlingen fra slutten av 900-tallet, en urolig tid med mye maktkamp og ufred mellom ættene på Island. En annen betegnelse på islendingesagaene er derfor ættesagaer.  
-    li ”Njåls saga”, ”Sagaen om Gisle Sursson” og ”Sagaen om Gunnlaug Ormstunge” er de mest kjente islendingesagaene.  
+  ImageTextBlock(
+    :image="require(`./Norroen_Islendingesagaene.jpg`)"
+    imageColumns="5"
+    imageCaption="«Njåls saga» i et islandsk manuskript fra omkring 1350"
+    altText=""
+    )
+    ul.mt0
+      li Islendingesagaene er de mest kjente prosafortellingene fra norrøn litteratur.  
+      li Ordet saga betyr fortelling, og sagaene ble til å begynne med framført som rein underholdning. Så ble de skrevet ned på 1200-tallet.  
+      li Det finnes om lag 30 sagaer, alle med ukjent forfatter. De fleste henter handlingen fra slutten av 900-tallet, en urolig tid med mye maktkamp og ufred mellom ættene på Island. En annen betegnelse på islendingesagaene er derfor ættesagaer.  
+      li ”Njåls saga”, ”Sagaen om Gisle Sursson” og ”Sagaen om Gunnlaug Ormstunge” er de mest kjente islendingesagaene.  
 
   h3 Kristen litteratur  
-
-  figure
-    img(src="./Norroen_Kristen_litteratur.jpg" alt="Olav den hellige på et maleri i Överselö kirke i Sverige")
-    figcaption Olav den hellige på et maleri i Överselö kirke i Sverige
-
-  ul
-  li Den kristne litteraturen i norrøn tid omfatter prekener, helgenlegender og kristne kvad. Tekstene ble skrevet ned av prester, munker og nonner.  
-  li Den eldste boka som er funnet, er Gammelnorsk Homiliebok. Det er ei bok med utvalgte bibeltekster og prekener.  
-  li I tillegg ble det nedtegnet helgenlegender, det vil si fortellinger om personer som må lide og dø på grunn av troen. Etter at de er døde, skjer det mirakler som viser at de er helgener. Det finnes flere slike legender om Olav den hellige.  
+  ImageTextBlock(
+    :image="require(`./Norroen_Kristen_litteratur.jpg`)"
+    imageColumns="5"
+    imageCaption="Olav den hellige på et maleri i Överselö kirke i Sverige"
+    altText=""
+    )
+    ul
+      li Den kristne litteraturen i norrøn tid omfatter prekener, helgenlegender og kristne kvad. Tekstene ble skrevet ned av prester, munker og nonner.  
+      li Den eldste boka som er funnet, er Gammelnorsk Homiliebok. Det er ei bok med utvalgte bibeltekster og prekener.  
+      li I tillegg ble det nedtegnet helgenlegender, det vil si fortellinger om personer som må lide og dø på grunn av troen. Etter at de er døde, skjer det mirakler som viser at de er helgener. Det finnes flere slike legender om Olav den hellige.  
 
   h3 Høvisk litteratur
 
@@ -191,10 +201,11 @@ PagePeriod(
 
   NdlaVideo(source="media/periods/norron/Spraket_i_Norge_på_1200-tallet.mp4")
 
-  h5 URNORDISK TID  
+  .mt40
   figure.col.col5.right-image
     img(src="./Norroen_Litt_om_spraaket1.jpg" alt="Hunarkongen Attila (Atle), fra en svensk utgave av Den eldre Edda (1893)")
     figcaption Hunarkongen Attila (Atle), fra en svensk utgave av Den eldre Edda (1893)
+  h5.mt40 URNORDISK TID  
   p
     | Den eldste perioden i språkhistorien vår heter urnordisk tid. Perioden strekker seg fra om lag år 200 til år 800. Den viktigste kilden til kunnskap om språket fra denne tida er runeinnskrifter. Et særtrekk ved urnordisk er at ordene er klangfulle, vokalrike og lange, med atskillig flere stavelser enn i moderne norsk. I utdraget av ”Atlekvadet” (professor Arne Torp) får du et inntrykk av hvordan urnordisk hørtes ut.  
 
@@ -204,7 +215,7 @@ PagePeriod(
 
   NdlaVideo(source="media/periods/norron/urnordisk_atlekvadet.mp4")
 
-  h5.mt20 Fra urnordisk til norrønt språk  
+  h5.mt40 Fra urnordisk til norrønt språk  
   p
     | Mot slutten av den urnordiske perioden (ca. 500 til 800) endrer språket seg sterkt. En viktig endring er at ordene blir kortere: HarawaldaR blir til HaraldR, StainawarjaR til Steinarr, ÁnulaibaR til Óláfr osv. Denne endringen kaller vi synkope (sammentrekking) på fagspråket.  
 
@@ -228,10 +239,12 @@ PagePeriod(
 import PagePeriod from "@/components/PagePeriod";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import ImageTextBlock from "@/components/ImageTextBlock";
 
 export default {
   name: "Book",
   components: {
+    ImageTextBlock,
     NdlaAudio,
     NdlaVideo,
     PagePeriod,
