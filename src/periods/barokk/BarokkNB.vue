@@ -7,7 +7,7 @@ PagePeriod(
   h3 Tida og samfunnsforholdene 
   //p Eksempel på link til boken <router-link to="/nn/books/asbjornsenmoe">Norske folkeeventyr</router-link>
 
-  figure
+  figure.col.col6.right-image
     img(src="./Barokk_Tida_og_samfunnsforholdene1.jpg" alt="")
 
   h5 Kirken mister makt
@@ -20,8 +20,8 @@ PagePeriod(
 
   h5 Eneveldet
 
-  figure.col.col5.left-image
-    img(src="./Barokk_Tida_og_samfunnsforholdene2.jpg" alt="Kong Fredrik 3. av Danmark og Norge")
+  figure.col.col6.right-image
+    img(src="./Barokk_Tida_og_samfunnsforholdene2.jpg" alt="")
     figcaption Kong Fredrik 3. av Danmark og Norge
   p
     | I 1660 blir Fredrik 3. eneveldig konge over Danmark og Norge. Det vil si at han får ubegrenset makt. Kongen konfiskerer deler av de kirkelige eiendommene etter reformasjonen og skaffer seg dermed mer rikdom.  
@@ -32,8 +32,8 @@ PagePeriod(
 
   h3 Litt om tenkemåten 
 
-  figure.col.col4.right-image
-    img(src="./Barokk_Litt_om_tenkemaaten.jpg" alt="Detalj fra tittelstikket på førsteutgaven av boka Taare-Offer av Dorothe Engelbretsdotter")
+  figure.col.col4.left-image.mt10
+    img(src="./Barokk_Litt_om_tenkemaaten.jpg" alt="")
     figcaption Detalj fra tittelstikket på førsteutgaven av boka Taare-Offer av Dorothe Engelbretsdotter
 
   h5 Eneveldet  
@@ -54,7 +54,7 @@ PagePeriod(
 
   h3 Kjennetegn ved barokkstilen 
 
-  figure
+  figure.col.col6.left-image.mt10
     img(src="./Barokk_Kjennetegn_ved_barokkstilen1.jpg" alt="")
 
   h5 Barokken som stilart 
@@ -96,7 +96,7 @@ PagePeriod(
   h3 Litteraturen 
 
   figure.col.col6.left-image
-    img(src="./Barokk_Litteraturen.jpg" alt="Tittelstikket på førsteutgaven av boka Taare-Offer av Dorothe Engelbretsdotter")
+    img(src="./Barokk_Litteraturen.jpg" alt="")
     figcaption Tittelstikket på førsteutgaven av boka Taare-Offer av Dorothe Engelbretsdotter
     
   h5 Religiøs litteratur 
@@ -108,29 +108,28 @@ PagePeriod(
     | I Italia er Giambattista Marino den fremste barokkdikteren. I Spania er det Francisco de Quevedo, og i England er det John Donne og John Milton. I Tyskland skriver Martin Luther barokke salmer. Han inspirerer nok Thomas Kingo, som skulle bli den største nordiske salmedikteren i denne perioden.  
 
   div.flex.flex-wrap
-    div.col.col3
-      figure.figure-left
+    div.col.col4
+      figure.figure-left.mt10
         img(src="./Barokk_Thomas_Kingo.jpg" alt="Thomas Kingo")
-    div.col.col9
+    div.col.col8
       h5 Thomas Kingo (1634–1703) 
       p
         | er dansk dikter og biskop. I 1699 kommer det ut ei salmebok som inneholder 86 av salmene hans. Denne boka – Kingos salmebok – blir godkjent av kongen til bruk i alle kirker i Danmark og Norge, og er i bruk helt fram til 1870-årene. Boka finner du på Tidslinja.  
 
   div.flex.flex-wrap
-    div.col.col3
-      figure.figure-left
+    div.col.col4
+      figure.figure-left.mt10
         img(src="./Barokk_Engelbretsdotter.jpg" alt="Dorothe Engelbretsdotter")
-
-    div.col.col9
+    div.col.col8
       h5 Dorothe Engelbretsdotter (1634–1716)  
       p
         | blir født og lever i Bergen. Hun er populær i samtida si og kan leve av boksalget. Det er ganske utrolig at en kvinne kan klare det på 1600-tallet. Men i privatlivet opplever hun mye motgang og sorg. Boka Siælens Sang-Offer finner du på Tidslinja.  
 
   div.flex.flex-wrap
-    div.col.col3
-      figure.figure-left
+    div.col.col4
+      figure.figure-left.mt10
         img(src="./Barokk_Dass.jpg" alt="Peter Dass")
-    div.col.col9
+    div.col.col8
       h5 Petter Dass (1647–1707)  
       p
         | kommer fra Nordland og er en populær mann i samtida. Han regnes for vår største barokkdikter, selv om stilen hans er mindre tidstypisk enn stilen til Kingo og Engelbretsdotter. Boka Nordlands Trompet finner du på Tidslinja.
@@ -146,8 +145,8 @@ PagePeriod(
   p
     | Bergen og Vestlandet er blitt sterkt språklig påvirket av den hanseatiske (tysk-nederlandske) handelsvirksomheten som har foregått helt siden 1200-tallet. Denne påvirkningen fortsetter og farger både talemålet og skriftspråket i Bergen.  
 
-  figure
-    img(src="./Bibel-Chr._III_-_1.jpg" alt="Tittelbladet på bibelen til Kristian 3. fra 1550")
+  figure.col.col6.right-image
+    img(src="./Bibel-Chr._III_-_1.jpg" alt="")
     figcaption Tittelbladet på bibelen til Kristian 3. fra 1550
   h5 Bibelen på dansk  
   p
@@ -171,12 +170,12 @@ PagePeriod(
   div.col.col6.display-ib
     figure
       img(src="./Barokk_Bildekunst_og_arkitektur2.jpg" alt="Peter Paul Rubens: ”Døtrene til Leukippos blir røvet”")
-      figcaption Peter Paul Rubens: ”Døtrene til Leukippos blir røvet”
+      figcaption Peter Paul Rubens: «Leukippos’ døtre blir røvet»
 
   div.col.col6.display-ib
     figure
       img(src="./Barokk_Bildekunst_og_arkitektur3.jpg" alt="Detalj fra skulpturen ”Den hellige Teresas ekstase” av Giovanni Lorenzo Bernini")
-      figcaption Detalj fra skulpturen ”Den hellige Teresas ekstase” av Giovanni Lorenzo Bernini
+      figcaption Detalj fra skulpturen «Den hellige Teresas ekstase» av Giovanni Lorenzo Bernini
 </template>
 
 <script>
