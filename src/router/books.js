@@ -5,7 +5,7 @@ export default [
     path: "/nn/books/beowulf",
     name: "BeowulfNN",
     meta: {
-      author: "Beowulf",
+      author: "",
       title: "Beowulf",
       year: 800,
       cover: 1,
@@ -21,7 +21,7 @@ export default [
     path: "/nb/books/beowulf",
     name: "BeowulfNB",
     meta: {
-      author: "Beowulf",
+      author: "",
       title: "Beowulf",
       year: 800,
       cover: 1,
@@ -37,7 +37,7 @@ export default [
     path: "/nn/books/edda",
     name: "EddaNN",
     meta: {
-      author: "Edda",
+      author: "",
       title: "Den eldre Edda",
       year: 900,
       cover: 2,
@@ -51,7 +51,7 @@ export default [
     path: "/nb/books/edda",
     name: "EddaNB",
     meta: {
-      author: "Edda",
+      author: "",
       title: "Den eldre Edda",
       year: 900,
       cover: 2,
@@ -65,7 +65,7 @@ export default [
     path: "/nn/books/rolandskvadet",
     name: "RolandskvadetNN",
     meta: {
-      author: "Rolandskvadet",
+      author: "",
       title: "Rolandskvadet",
       year: 1150,
       cover: 3,
@@ -81,7 +81,7 @@ export default [
     path: "/nb/books/rolandskvadet",
     name: "RolandskvadetNB",
     meta: {
-      author: "Rolandskvadet",
+      author: "",
       title: "Rolandskvadet",
       year: 1150,
       cover: 3,
@@ -129,7 +129,7 @@ export default [
     path: "/nn/books/kongespegelen",
     name: "KongespegelenNN",
     meta: {
-      author: "Kongespegelen",
+      author: "",
       title: "Kongsspegelen",
       year: 1230,
       cover: 1,
@@ -145,7 +145,7 @@ export default [
     path: "/nb/books/kongespegelen",
     name: "KongespegelenNB",
     meta: {
-      author: "Kongespeilet",
+      author: "",
       title: "Kongespeilet",
       year: 1230,
       cover: 1,
@@ -161,7 +161,7 @@ export default [
     path: "/nn/books/nibelungen",
     name: "NibelungenNN",
     meta: {
-      author: "Nibelungen",
+      author: "",
       title: "Nibelungen-eposet",
       year: 1250,
       cover: 6,
@@ -177,7 +177,7 @@ export default [
     path: "/nb/books/nibelungen",
     name: "NibelungenNB",
     meta: {
-      author: "Nibelungen",
+      author: "",
       title: "Nibelungen-eposet",
       year: 1250,
       cover: 6,
@@ -225,7 +225,7 @@ export default [
     path: "/nn/books/dekameronen",
     name: "DekameronenNN",
     meta: {
-      author: "Dekameronen",
+      author: "",
       title: "Dekameronen",
       year: 1348,
       cover: 5,
@@ -241,7 +241,7 @@ export default [
     path: "/nb/books/dekameronen",
     name: "DekameronenNB",
     meta: {
-      author: "Dekameronen",
+      author: "",
       title: "Dekameronen",
       year: 1348,
       cover: 5,
@@ -257,7 +257,7 @@ export default [
     path: "/nn/books/olavogkari",
     name: "OlavOgKariNN",
     meta: {
-      author: "OlavOgKari",
+      author: "",
       title: "Olav og Kari",
       year: 1390,
       cover: 6,
@@ -273,7 +273,7 @@ export default [
     path: "/nb/books/olavogkari",
     name: "OlavOgKariNB",
     meta: {
-      author: "OlavOgKari",
+      author: "",
       title: "Olav og Kari",
       year: 1390,
       cover: 6,
@@ -289,7 +289,7 @@ export default [
     path: "/nn/books/draumkvedet",
     name: "DraumkvedetNN",
     meta: {
-      author: "Draumkvedet",
+      author: "",
       title: "Draumkvedet",
       year: 1470,
       cover: 3,
@@ -305,7 +305,7 @@ export default [
     path: "/nb/books/draumkvedet",
     name: "DraumkvedetNB",
     meta: {
-      author: "Draumkvedet",
+      author: "",
       title: "Draumkvedet",
       year: 1470,
       cover: 3,
@@ -353,7 +353,7 @@ export default [
     path: "/nn/books/bergenskapitelsbok",
     name: "BergensKapitelsbokNN",
     meta: {
-      author: "BergensKapitelsbok",
+      author: "",
       title: "Bergens Kapitelsbok",
       year: 1552,
       cover: 8,
@@ -369,7 +369,7 @@ export default [
     path: "/nb/books/bergenskapitelsbok",
     name: "BergensKapitelsbokNB",
     meta: {
-      author: "BergensKapitelsbok",
+      author: "",
       title: "Bergens Kapitelsbok",
       year: 1552,
       cover: 8,
@@ -385,7 +385,7 @@ export default [
     path: "/nn/books/dictionarium",
     name: "DictionariumNN",
     meta: {
-      author: "Dictionarium",
+      author: "",
       title: "Den Norske Dictionarium eller Glosebog",
       year: 1646,
       cover: 4,
@@ -401,7 +401,7 @@ export default [
     path: "/nb/books/dictionarium",
     name: "DictionariumNB",
     meta: {
-      author: "Dictionarium",
+      author: "",
       title: "Den Norske Dictionarium eller Glosebog",
       year: 1646,
       cover: 4,
@@ -417,7 +417,7 @@ export default [
     path: "/nn/books/floradanica",
     name: "FloraDanicaNN",
     meta: {
-      author: "FloraDanica",
+      author: "",
       title: "Flora Danica",
       year: 1648,
       cover: 6,
@@ -433,7 +433,7 @@ export default [
     path: "/nb/books/floradanica",
     name: "FloraDanicaNB",
     meta: {
-      author: "FloraDanica",
+      author: "",
       title: "Flora Danica",
       year: 1648,
       cover: 6,
