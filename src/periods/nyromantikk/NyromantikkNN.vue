@@ -51,15 +51,15 @@ PagePeriod(
   h5 Heimstaddikting
   p Heimstaddikting er ei litterær retning der forfattarane bruker staden og miljøet dei sjølve kjem frå, i diktinga si. Mot slutten av 1800-talet var heimstaddiktinga i Europa prega av ein klar reaksjon mot urbaniseringa av samfunnet. Storbyen vart skildra som noko usunt, ein stad der folk kjende seg rotlause. Det var livet på landet eller i småbyen som var idealet. Det var hit folk lengta, det var her dei hadde røtene sine. Norske forfattarar som Gabriel Scott (1874–1958) og Hans E. Kinck (1865–1926) dyrka det lokale framfor livet i storbyen. Også Knut Hamsun (1859–1952) lét seg inspirere av denne retninga. 
 
-  .flex
+  .flex.portretter
     figure.m1rem
-      img(style="width: 198px" src="./Nyromantikk_Tanker-i-tida_Scott.jpg" alt="Gabriel Scott")
+      img(src="./Nyromantikk_Tanker-i-tida_Scott.jpg" alt="Gabriel Scott")
       figcaption Gabriel Scott
     figure.m1rem
-      img(style="width: 198px" src="./Nyromantikk_Tanker_i_tida_Kinck.jpg" alt="Hans E. Kinck")
+      img(src="./Nyromantikk_Tanker_i_tida_Kinck.jpg" alt="Hans E. Kinck")
       figcaption Hans E. Kinck
     figure.m1rem
-      img(style="width: 198px" src="./Nyromantikk_Tanker_i_tida_Hamsun.jpg" alt="Knut Hamsund")
+      img(src="./Nyromantikk_Tanker_i_tida_Hamsun.jpg" alt="Knut Hamsund")
       figcaption Knut Hamsund
 
   h5 Modernisme 
@@ -68,8 +68,7 @@ PagePeriod(
 
   h3 Nyromantikken og ”det ubevidste sjæleliv” 
 
-  .tac
-    img(src="./Nyromantikk_og_det_ubevisste_sjaeleliv.jpg" alt="")
+  img.col.col7.right-image(src="./Nyromantikk_og_det_ubevisste_sjaeleliv.jpg" alt="")
   p I 1890 heldt Knut Hamsun eit foredrag med tittelen ”Fra det ubevidste sjæleliv”. Her kritiserte han realismen og kom med eit programskrift for ein ny type litteratur. Hamsun meinte at realistane fokuserte for mykje på ”forlovelser og ball og landturer”, det vil seie den ytre handlinga, og at karakterane i dei realistiske verka var typar, ikkje individ. Han hevda at ein litteratur for samtida heller burde interessere seg for sjelelege tilstandar hos enkeltmennesket. 
 
   p Både Hamsun sjølv og Arne Garborg, Sigbjørn Obstfelder og Hans E. Kinck byrja no å skildre stemningar og kjensler, sjeleliv og spiritisme. Dei utforska ofte dei dunkle, irrasjonelle og mystiske sidene ved mennesket, og dei henta inspirasjon frå folkedikting, mytar og religiøs tenking. Denne nye retninga i litteraturen har fått namnet nyromantikken. 
@@ -91,8 +90,7 @@ PagePeriod(
 
   h3 Modernismen 
 
-  .tac
-    img(src="./Nyromantikk_Modernismen1.jpg" alt="")
+  img.col.col7.right-image(src="./Nyromantikk_Modernismen1.jpg" alt="")
   p ”Make it new” kan stå som slagord for modernismen. Felles for alle dei modernistiske tekstane er at dei bryt med dei tradisjonelle kunstideala. Gjennom eksperiment med form og språk blir publikum utfordra til å tenkje nytt. 
 
   p Modernistane tok opp kva det ville seie å vere menneske i den moderne verda. Men i motsetning til realistane var dei ikkje så opptekne av å setje problem under debatt. Dei ville heller skildre sjelelivet til det moderne mennesket. 
@@ -115,7 +113,7 @@ PagePeriod(
 
   h3 Språket i perioden 
 
-  figure.right-image
+  figure.col.col6.right-image.mt5
     img(src="./Nyromantikk_Spraaket_i_perioden1.jpg" alt="Nordahl Rolfsen")
     figcaption Nordahl Rolfsen
   p Frå og med 1885 hadde Noreg to offisielle skriftspråk. Gjennom det såkalla jamstillingsvedtaket vart dei to målformene landsmål og riksmål jamstilte. 
@@ -128,7 +126,7 @@ PagePeriod(
 
   h3 Massemedium 
 
-  figure.left-image
+  figure.col.col7.left-image
     img(src="./Nyromantikk_Massemedier_Grammofon.jpg" alt="Ein Victor grammofon frå omkring 1907")
     figcaption Ein Victor grammofon frå omkring 1907
   p Mot slutten av hundreåret ser vi korleis den teknologiske utviklinga fører til at gamle medium blir forbetra, mens nye kjem til. Utviklinga av fotoapparatet var no komen så langt at det vart meir og meir vanleg med portrettbilete og illustrasjonar i aviser og magasin. I 1904 kom grammofonen og dermed grammofonplata. Det gjorde at ein no kunne lagre musikk. 
@@ -155,14 +153,14 @@ PagePeriod(
   h5 Modernismen i biletkunsten 
   p Dei modernistiske biletkunstnarane brydde seg ikkje lenger om sentralperspektiv og fotografisk etterlikning av motiva. Dei eksperimenterte i staden med fargar, form og perspektiv. I tillegg hevda dei at kunsten ikkje trong noko formål eller bodskap utanfor seg sjølv. Valet av motiv endra seg òg. Kunstnarane samla seg i storbyar – særleg Paris – og måla det moderne bylivet. 
 
-  img.left-image(src="./Nyromantikk_Andre_kunstformer_Grieg.jpg" alt="")
+  img.col.col6.mt5.left-image(src="./Nyromantikk_Andre_kunstformer_Grieg.jpg" alt="")
   h5 Musikk 
   p Perioden før og etter hundreårsskiftet er omtalt som sjølve gullalderen i norsk musikkhistorie. Edvard Grieg (1843–1907) er den mest kjende komponisten Noreg har fostra. Han blir rekna som ein nasjonalromantisk komponist, og den norske folkemusikken er den viktigaste inspirasjonskjelda hans. 
-  img.col.col12(src="./Nyromantikk_Andre_kunstformer2.jpg" alt="")
+  img.col.col12.mt20(src="./Nyromantikk_Andre_kunstformer2.jpg" alt="")
 
   .flex.flex-justify-space-evenly.mt40
-    img(src="./Nyromantikk_Andre_kunstformer_Sinding.jpg" alt="")
-    img(src="./Nyromantikk_Andre_kunstformer_Halvorsen.jpg" alt="")
+    img.col.col4(src="./Nyromantikk_Andre_kunstformer_Sinding.jpg" alt="")
+    img.col.col4(src="./Nyromantikk_Andre_kunstformer_Halvorsen.jpg" alt="")
   p Christian Sinding (1856–1941) og Johan Halvorsen (1864–1935) tok opp arven etter Grieg. Christian Sinding viser slektskap med Grieg i dei lyriske pianostykka sine, og Halvorsen og Grieg samarbeidde mellom anna om å skrive ned tradisjonelle slåttar frå Telemark. 
 
   ImageTextBlock(
@@ -173,13 +171,15 @@ PagePeriod(
 
   h5 Arkitektur 
   p Innanfor arkitekturen kan vi òg sjå ei endring like før hundreårsskiftet. Rundt 1890 bryt art nouveau gjennom som stilretning. Retninga har mykje til felles med den såkalla jugendstilen, som inspirerte mange norske arkitektar på den tida. Art nouveau er prega av rik bruk av dekorative ornament og bølgjande, elegante linjer. Jugendstilen er meir prega av tunge former og geometrisk dekor. 
-  .tac
-    img(src="./Nyromantikk_Andre_kunstformer3.jpg")
+  //.tac
+
 
 
   p Felles for både art nouveau og jugendstilen er at arkitektane no lét seg inspirere av linjene i naturen. Vi kan òg sjå retningane som ein reaksjon mot det somme oppfatta som stygge linjer i industrien. På den måten blir dette ein protest mot moderniseringa og industrialiseringa av samfunnet. I Noreg har vi fleire eksempel på jugendstil, for eksempel bykjernen i Ålesund. Etter at byen brann ned i 1904, vart han bygd opp på nytt med ein arkitektur sterkt inspirert av jugendstilen.
-  .tac
-    img.col.col6(src="./Nyromantikk_Andre_kunstformer4.jpg")
+
+  .flex.flex-justify-space-evenly.mt40
+    img.col.col6.p5(src="./Nyromantikk_Andre_kunstformer3.jpg")
+    img.col.col6.p5(src="./Nyromantikk_Andre_kunstformer4.jpg")
   br
   br
 
