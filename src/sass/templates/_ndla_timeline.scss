@@ -934,3 +934,21 @@ blockquote {
   margin: 0 0 1rem 1rem;
   padding-left: 1rem;
 }
+
+.portretter {
+  figure {
+    padding: 5px;
+  }
+
+  img {
+    height: 250px;
+    object-fit: cover;
+  }
+
+  &.portretter-4 img {
+    height: 175px;
+  }
+  &.portretter-5 img {
+    height: 120px;
+  }
+}
