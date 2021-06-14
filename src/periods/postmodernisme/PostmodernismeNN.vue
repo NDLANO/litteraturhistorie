@@ -120,7 +120,7 @@ PagePeriod(
 
   h3 Litteraturen 1960–1990
 
-  .flex
+  .flex.portretter
     figure.m1rem
       img(style="width: 198px" src="./Postmodernisme_Litteraturen1.jpg" alt="Stein Mehren")
       figcaption Stein Mehren
@@ -152,33 +152,33 @@ PagePeriod(
 
   p Profil-lyrikarane henta inspirasjon frå mellom anna austleg haikudikting og skreiv dikt med kvardagslege og konkrete motiv. Språkleg lét dei seg inspirere av kvardagsspråk, munnleg sjargong, poptekstar og reklamespråk. Kjende Profil-lyrikarar er <strong>Jan Erik Vold</strong> (1939– ), <strong>Eldrid Lunden</strong> (1940– ), <strong>Einar Økland</strong> (1940– ) og <strong>Paal Helge Haugen</strong> (1945– ).
 
-  .flex
+  .flex.portretter.portretter-4
     figure.m1rem
-      img(style="width: 198px" src="./Postmodernisme_Litteraturen5.jpg" alt="Jan Erik Vold")
+      img(src="./Postmodernisme_Litteraturen5.jpg" alt="Jan Erik Vold")
       figcaption Jan Erik Vold
     figure.m1rem
-      img(style="width: 198px" src="./Postmodernisme_Litteraturen6.jpg" alt="Eldrid Lunden")
+      img(src="./Postmodernisme_Litteraturen6.jpg" alt="Eldrid Lunden")
       figcaption Eldrid Lunden
     figure.m1rem
-      img(style="width: 198px" src="./Postmodernisme_Litteraturen7.jpg" alt="Einar Økland")
+      img(src="./Postmodernisme_Litteraturen7.jpg" alt="Einar Økland")
       figcaption Einar Økland
     figure.m1rem
-      img(style="width: 198px" src="./Postmodernisme_Litteraturen8.jpg" alt="Paal Helge Haugen")
+      img(src="./Postmodernisme_Litteraturen8.jpg" alt="Paal Helge Haugen")
       figcaption Paal Helge Haugen
 
 
   h5 1970-åra: Sosialrealistisk litteratur
   p I 1973 vart eit nytt, radikalt parti stifta: Arbeidaranes Kommunistparti (marxist-leninistane) – forkorta AKP (m-l). <strong>Dag Solstad</strong> (1941– ), <strong>Espen Haavardsholm</strong> (1945– ) og <strong>Tor Obrestad</strong> (1938–2020) var blant dei Profil-forfattarane som vart med i AKP. No byrja dei å skrive såkalla sosialrealistiske romanar. Litteraturen skulle tene det arbeidande folket og opprøret mot kapitalismen.
 
-  .flex.flex-justify-space-evenly
+  .flex.portretter
     figure.m1rem
-      img(style="width: 100px" src="./Postmodernisme_Litteraturen9.jpg" alt="Dag Solstad")
+      img(src="./Postmodernisme_Litteraturen9.jpg" alt="Dag Solstad")
       figcaption Dag Solstad
     figure.m1rem
-      img(style="width: 100px" src="./Postmodernisme_Litteraturen10.jpg" alt="Espen Haavardsholm")
+      img(src="./Postmodernisme_Litteraturen10.jpg" alt="Espen Haavardsholm")
       figcaption Espen Haavardsholm
     figure.m1rem
-      img(style="width: 100px" src="./Postmodernisme_Litteraturen11.jpg" alt="Tor Obrestad")
+      img(src="./Postmodernisme_Litteraturen11.jpg" alt="Tor Obrestad")
       figcaption Tor Obrestad
 
   figure.col.col6.right-image
@@ -190,21 +190,21 @@ PagePeriod(
 
   p Forfattarar som <strong>Bjørg Vik</strong> (1935–2018), <strong>Tove Nilsen</strong> (1952– ), <strong>Anne Karin Elstad</strong> (1938–2012) og <strong>Herbjørg Wassmo</strong> (1942– ) skriv alle om korleis kvinner opplever dei nye rollene dei har fått, og om forventningar knytte til desse rollene. Også dei kvinnelege prosaforfattarane i 1970-åra brukte stort sett eit tradisjonelt, realistisk formspråk. 
 
-  .flex.flex-justify-space-evenly
+  .flex.portretter.portretter-5
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen13.jpg" alt="Bjørg Vik")
+      img(src="./Postmodernisme_Litteraturen13.jpg" alt="Bjørg Vik")
       figcaption Bjørg Vik
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen14.jpg" alt="Tove Nilsen")
+      img(src="./Postmodernisme_Litteraturen14.jpg" alt="Tove Nilsen")
       figcaption Tove Nilsen
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen15.jpg" alt="Anne Karin Elstad")
+      img(src="./Postmodernisme_Litteraturen15.jpg" alt="Anne Karin Elstad")
       figcaption Anne Karin Elstad
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen16.jpg" alt="Herbjørg Wassmo")
+      img(src="./Postmodernisme_Litteraturen16.jpg" alt="Herbjørg Wassmo")
       figcaption Herbjørg Wassmo
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen17.jpg" alt="Kjartan Fløgstad")
+      img(src="./Postmodernisme_Litteraturen17.jpg" alt="Kjartan Fløgstad")
       figcaption Kjartan Fløgstad
 
   h5 Kjartan Fløgstad (1944– ) 
@@ -219,15 +219,15 @@ PagePeriod(
 
   p Det veks òg fram nye arenaer for formidling av dikt. <strong>Lillebjørn Nilsen</strong> (1950– ), <strong>Kari Svendsen</strong> (1950– ) og <strong>Lars Klevstrand</strong> (1949– ) er eksempel på visesongarar som framførte eigne og andre sine tekstar, gjerne tonesette dikt – i kampen for fred og jamstilling og mot kapitalismen eller krigen i Vietnam. Også arbeidardikting og kvardagspoesi vart formidla gjennom song. Den populære venstreradikale gruppa Vømmøl gav ut fleire LP-ar med omfattande tekstvedlegg. 
 
-  .flex.flex-justify-space-evenly
+  .flex.portretter
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen19.jpg" alt="Lillebjørn Nilsen")
+      img(src="./Postmodernisme_Litteraturen19.jpg" alt="Lillebjørn Nilsen")
       figcaption Lillebjørn Nilsen
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen20.jpg" alt="Kari Svendsen")
+      img(src="./Postmodernisme_Litteraturen20.jpg" alt="Kari Svendsen")
       figcaption Kari Svendsen
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen21.jpg" alt="Lars Klevstrand")
+      img(src="./Postmodernisme_Litteraturen21.jpg" alt="Lars Klevstrand")
       figcaption Lars Klevstrand
 
   p Dei norske visesongarane henta inspirasjon frå USA og andre engelsktalande land. Framståande artistar som <strong>Bob Dylan</strong> (1941– ), <strong>Joni Mitchell</strong> (1943– ) og <strong>Neil Young</strong> (1945– ) påverka ein heil generasjon gjennom songane sine. 
@@ -253,18 +253,18 @@ PagePeriod(
   h5 Lyrikken på 1980-talet 
   p I 1980-åra debuterer <strong>Øyvind Berg</strong> (1959– ), <strong>Rune Christiansen</strong> (1963– ) og <strong>Gro Dahle</strong> (1962– ). Samfunnsengasjementet blir tona ned eller endrar karakter både hos nye og etablerte forfattarar, og det opnar rom for meir sentrallyriske motiv.
 
-  .flex.flex-justify-space-evenly
+  .flex.portretter.portretter-4
     figure.m1rem
-      img(style="width: 100px" src="./Postmodernisme_Litteraturen24.jpg" alt="Øyvind Berg")
+      img(src="./Postmodernisme_Litteraturen24.jpg" alt="Øyvind Berg")
       figcaption Øyvind Berg
     figure.m1rem
-      img(style="width: 100px" src="./Postmodernisme_Litteraturen25.jpg" alt="Rune Christiansen")
+      img(src="./Postmodernisme_Litteraturen25.jpg" alt="Rune Christiansen")
       figcaption Rune Christiansen
     figure.m1rem
-      img(style="width: 100px" src="./Postmodernisme_Litteraturen26.jpg" alt="Gro Dahle")
+      img(src="./Postmodernisme_Litteraturen26.jpg" alt="Gro Dahle")
       figcaption Gro Dahle
     figure.m1rem
-      img(style="width: 100px" src="./Postmodernisme_Litteraturen27.jpg" alt="Triztán Vindtorn")
+      img(src="./Postmodernisme_Litteraturen27.jpg" alt="Triztán Vindtorn")
       figcaption Triztán Vindtorn
 
   p Ein forfattar som debuterte i 70-åra, men som først slo gjennom i 80-åra, er <strong>Triztán Vindtorn</strong> (1942–2009). Han er den mest reindyrka surrealisten i norsk lyrikk, og skreiv eksperimentelle dikt der han bryt dei fleste språklege konvensjonane. 
@@ -293,19 +293,19 @@ PagePeriod(
 
   p I tillegg kjem <strong>Jostein Gaarders</strong> (1952– ) filosofiske ungdomsroman Sofies verden (1991), som er omsett til 54 språk og har selt i over 30 millionar eksemplar. 
 
-  .flex.flex-justify-space-evenly
+  .flex.portretter
     figure.m1rem
-      img(style="width: 100px" src="./Postmodernisme_Litteraturen30.jpg" alt="Anne B. Ragde")
+      img(src="./Postmodernisme_Litteraturen30.jpg" alt="Anne B. Ragde")
       figcaption Anne B. Ragde
     figure.m1rem
-      img(style="width: 100px" src="./Postmodernisme_Litteraturen31.jpg" alt="Tore Renberg")
+      img(src="./Postmodernisme_Litteraturen31.jpg" alt="Tore Renberg")
       figcaption Tore Renberg
     figure.m1rem
-      img(style="width: 100px" src="./Postmodernisme_Litteraturen32.jpg" alt="Jostein Gaarder")
+      img(src="./Postmodernisme_Litteraturen32.jpg" alt="Jostein Gaarder")
       figcaption Jostein Gaarder
 
 
-  ImageTextBlock(
+  ImageTextBlock.mt30(
     :image="require(`./Postmodernisme_Litteraturen33.jpg`)"
     altText="Jan Kjærstad"    
     )
@@ -322,21 +322,21 @@ PagePeriod(
   h5 Familien i ei postmoderne tid
   p <strong>Hanne Ørstavik</strong> (1969– ) og <strong>Trude Marstein</strong> (1973– ) tematiserer kor gale det kan gå når menneska ikkje evnar å skape gode relasjonar til kvarandre. I eit samfunn der vi sjølve må finne meining i tilværet, blir dei nære relasjonane ekstra viktige. Heimen og familien er dessutan ein trygg base som vi treng i ei verd der miljøøydeleggingar, naturkatastrofar og krig råkar verda over. Når familien sviktar, blir konsekvensane derfor katastrofale for karakterane i bøkene til Marstein og Ørstavik. 
 
-  .flex.flex-justify-space-evenly
+  .flex.portretter.portretter-5
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen35.jpg" alt="Hanne Ørstavik")
+      img(src="./Postmodernisme_Litteraturen35.jpg" alt="Hanne Ørstavik")
       figcaption Hanne Ørstavik
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen36.jpg" alt="Trude Marstein")
+      img(src="./Postmodernisme_Litteraturen36.jpg" alt="Trude Marstein")
       figcaption Trude Marstein
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen37.jpg" alt="Lars Ramslie")
+      img(src="./Postmodernisme_Litteraturen37.jpg" alt="Lars Ramslie")
       figcaption Lars Ramslie
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen38.jpg" alt="Erlend Loe")
+      img(src="./Postmodernisme_Litteraturen38.jpg" alt="Erlend Loe")
       figcaption Erlend Loe
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen39.jpg" alt="Helene Uri")
+      img(src="./Postmodernisme_Litteraturen39.jpg" alt="Helene Uri")
       figcaption Helene Uri
 
   figure.col.col4.left-image
