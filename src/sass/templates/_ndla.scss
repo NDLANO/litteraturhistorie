@@ -261,6 +261,10 @@ $rowWidth: 100% / 12;
   }
 }
 
+.clear {
+  clear: both;
+}
+
 .m-center {
   margin: 0 auto;
 }
@@ -367,6 +371,9 @@ $rowWidth: 100% / 12;
 }
 .flex-justify-space-evenly {
   flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.space-evenly {
   justify-content: space-evenly;
 }
 
