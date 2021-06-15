@@ -355,12 +355,28 @@ PagePeriod(
   p
     | Propagandaplakatene var klare i både utforming og budskap. Politiske motstandere og folkegrupper som nazistene anså som mindreverdige, ble framstilt som onde forbrytere eller som dyr – jøder ble for eksempel ofte avbildet med trekk som minte om rotter. Hensikten var å frata disse gruppene deres menneskelighet slik at befolkningen lettere skulle akseptere de overgrepene og forbrytelsene som jøder, sigøynere, homofile, kommunister og andre grupper ble utsatt for.  
 
-  h5 Nonfigurativt formspråk  
-  p
-    | Etter krigen vendte flere og flere kunstnere seg vekk fra det figurative uttrykket. De ønsket både å markere avstand fra kunstformene som ble dyrket under de totalitære regimene, og å finne et formspråk som bedre kunne illustrere følelsen av avmakt og meningsløshet. Både nasjonalt og internasjonalt fikk vi nå en bølge av abstrakte og nonfigurative kunstretninger. I Norge debuterte både Jakob Weidemann (1923–2001), Odd Tandberg (1924–2017) og Inger Sitter (1929–2015) i denne perioden, mens amerikaneren Jackson Pollock (1912–1956) gjorde stor suksess med sin abstrakte ”action painting”.  
+  figure.col.col12.mt40.mb40
+    img(src="./Modernisme_Bildekunst4.jpg" alt="")
+    figcaption Jakob Weidemann på ei utstilling på Henie-Onstad kunstsenter i 1997. Foto: Rolf M. Aagaard / Aftenposten / Scanpix
+  
+  .clear
+  .div
+    figure.col.col6.right-image.mt5
+      img(src="./Modernisme_Bildekunst5.jpg" alt="")
+      figcaption Inger Sitter viser maleriet «11. september 2001» på ei ustilling i Galleri Brandstrup. Foto: Rolf M. Aagaard / BONO / Scanpix
+    figure.col.col6.right-image.mt5
+      img(src="./Modernisme_Bildekunst6.jpg" alt="")
+      figcaption Odd Tandbergs utsmykningsarbeider på det nye Rikshospitalet. Foto: Rolf Chr. Ulrichsen / Scanpix
+  .col.col6
+    h5 Nonfigurativt formspråk  
+    p
+      | Etter krigen vendte flere og flere kunstnere seg vekk fra det figurative uttrykket. De ønsket både å markere avstand fra kunstformene som ble dyrket under de totalitære regimene, og å finne et formspråk som bedre kunne illustrere følelsen av avmakt og meningsløshet. Både nasjonalt og internasjonalt fikk vi nå en bølge av abstrakte og nonfigurative kunstretninger. I Norge debuterte både Jakob Weidemann (1923–2001), Odd Tandberg (1924–2017) og Inger Sitter (1929–2015) i denne perioden, mens amerikaneren Jackson Pollock (1912–1956) gjorde stor suksess med sin abstrakte ”action painting”.  
 
+  .clear
   h3 Arkitektur  
-
+  figure.col.col12
+    img(src="./Modernisme_Arkitektur1.jpg" alt="")
+    figcaption Spisestue i funksjonalistisk stil i en villa fra 1950. Foto: NTB / Scanpix
   p
     | I tida etter andre verdenskrig ble det funksjonalistiske og reine uttrykket dyrket. Funksjonalitet stod i sentrum, og hjemmene ble innredet etter samme rasjonelle tankegang som en innredet fabrikker. Det kom særlig til syne i innredningen av kjøkken. Systematiske undersøkelser av kvinners bevegelser på kjøkkenet skulle bidra til å skape en standardisert, rasjonell og effektiv arbeidsplass for kvinnen. Hjemmene ble også fylt opp med tekniske hjelpemidler som vaskemaskiner, kjøleskap og miksmastere.  
   p
@@ -368,10 +384,24 @@ PagePeriod(
 
   h3 Musikk  
 
-  p
-    | Mellomkrigstidas musikk var jazzen, og den ble dominert av afroamerikanske musikere. De store stjernene var Louis Armstrong (1901–1971), Duke Ellington (1899–1974) og Ella Fitzgerald (1917–1996). I de harde trettiårene var den lystige jazzmusikken et fristed der folk kunne slå seg løs og slippe unna hverdagens bekymringer. Storband var ekstra populære. En annen populær musikksjanger var country and western.  
-  p
-    | Da Elvis Presley (1935–1977) slo gjennom med ”Heartbreak Hotel” i 1956, innledet det rockens æra. Musikken var inspirert av både gospel, country og rhythm and blues, og den appellerte sterkt til den nye ungdomsgenerasjonen. Elvis ble superstjerne – hoftevrikkene hans fikk ungjenter til å besvime og foreldre til å reagere: Kraftige reaksjoner førte til forbud mot å filme Elvis’ midje og bein under TV-opptredener.  
+  .flex.flex-wrap
+    .div.col.col6
+      p
+        | Mellomkrigstidas musikk var jazzen, og den ble dominert av afroamerikanske musikere. De store stjernene var Louis Armstrong (1901–1971), Duke Ellington (1899–1974) og Ella Fitzgerald (1917–1996). I de harde trettiårene var den lystige jazzmusikken et fristed der folk kunne slå seg løs og slippe unna hverdagens bekymringer. Storband var ekstra populære. En annen populær musikksjanger var country and western.  
+      p
+        | Da Elvis Presley (1935–1977) slo gjennom med ”Heartbreak Hotel” i 1956, innledet det rockens æra. Musikken var inspirert av både gospel, country og rhythm and blues, og den appellerte sterkt til den nye ungdomsgenerasjonen. Elvis ble superstjerne – hoftevrikkene hans fikk ungjenter til å besvime og foreldre til å reagere: Kraftige reaksjoner førte til forbud mot å filme Elvis’ midje og bein under TV-opptredener.  
+    .div.col.col6.pl20
+      figure
+        img(src="./Modernisme_Musikk1.jpg" alt="")
+        figcaption Louis Armstrong ga en forrykende konsert i Colosseum kino i Oslo i 1952 og bidro dermed sterkt til at jazzfeberen bredte seg i hovedstaden på 50-tallet. 
+      figure
+        img(src="./Modernisme_Musikk2.jpg" alt="")
+        figcaption Entusiaster overnattet i billettkø for å sikre seg en av de vel 2000 plassene i kinolokalet. Foto: Sverre A. Børretzen / Aktuell / Scanpix
+      figure
+        img(src="./Modernisme_Musikk3.jpg" alt="")
+        figcaption Elvis Presley under en opptreden i 1957. Foto: AP / Scanpix
+
+
 </template>
 
 <script>

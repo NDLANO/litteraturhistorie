@@ -364,27 +364,51 @@ PagePeriod(
     figcaption Jakob Weidemann på ei utstilling på Henie-Onstad kunstsenter i 1997. Foto: Rolf M. Aagaard / Aftenposten / Scanpix
   
 
-  figure.col.col6.right-image.mt5
-    img(src="./Modernisme_Bildekunst5.jpg" alt="")
-    figcaption Inger Sitter viser måleriet «11. september 2001» på ei ustilling i Galleri Brandstrup. Foto: Rolf M. Aagaard / BONO / Scanpix
+  .clear
+  .div
+    figure.col.col6.right-image.mt5
+      img(src="./Modernisme_Bildekunst5.jpg" alt="")
+      figcaption Inger Sitter viser måleriet «11. september 2001» på ei ustilling i Galleri Brandstrup. Foto: Rolf M. Aagaard / BONO / Scanpix
+    figure.col.col6.right-image.mt5
+      img(src="./Modernisme_Bildekunst6.jpg" alt="")
+      figcaption Odd Tandberg sitt utsmykningsarbeid på det nye Rikshospitalet. Foto: Rolf Chr. Ulrichsen / Scanpix
+  .col.col6
+    h5 Nonfigurativt formspråk 
+    p
+      | Etter krigen vende fleire og fleire kunstnarar seg bort frå det figurative uttrykket. Dei ønskte både å markere avstand frå kunstformene som vart dyrka under dei totalitære regima, og å finne eit formspråk som betre kunne illustrere kjensla av avmakt og meiningsløyse. Både nasjonalt og internasjonalt fekk vi no ei bølgje av abstrakte og nonfigurative kunstretningar. I Noreg debuterte både Jakob Weidemann (1923–2001), Odd Tandberg (1924–2017) og Inger Sitter (1929–2015) i denne perioden, mens amerikanaren Jackson Pollock (1912–1956) gjorde stor suksess med sin abstrakte ”action painting”.  
 
-  h5 Nonfigurativt formspråk 
-  p
-    | Etter krigen vende fleire og fleire kunstnarar seg bort frå det figurative uttrykket. Dei ønskte både å markere avstand frå kunstformene som vart dyrka under dei totalitære regima, og å finne eit formspråk som betre kunne illustrere kjensla av avmakt og meiningsløyse. Både nasjonalt og internasjonalt fekk vi no ei bølgje av abstrakte og nonfigurative kunstretningar. I Noreg debuterte både Jakob Weidemann (1923–2001), Odd Tandberg (1924–2017) og Inger Sitter (1929–2015) i denne perioden, mens amerikanaren Jackson Pollock (1912–1956) gjorde stor suksess med sin abstrakte ”action painting”.  
-
+  .clear
   h3 Arkitektur 
 
+  figure.col.col12
+    img(src="./Modernisme_Arkitektur1.jpg" alt="")
+    figcaption Spisestove i funksjonalistisk stil i ein villa frå 1950. Foto: NTB / Scanpix
   p
     | I tida etter andre verdskrigen vart det funksjonalistiske og reine uttrykket dyrka. Funksjonalitet stod i sentrum, og heimane vart innreidde etter den same rasjonelle tankegangen som ein utstyrte fabrikkar. Det kom særleg til syne i innreiinga av kjøkken. Systematiske undersøkingar av korleis kvinnene flytte seg på kjøkkenet, skulle vere med på å skape ein standardisert, rasjonell og effektiv arbeidsplass for kvinna. Heimane vart også fylte opp med tekniske hjelpemiddel som vaskemaskinar, kjøleskap og miksmasterar.  
+
   p
     | Skandinavisk møbeldesign hadde sin gullalder i 1950- og 1960-åra. Designen var enkel og funksjonell og innfridde dermed krava til ein effektiv og ”nipsfri” heim. Men designen var ikkje like kald og maskinaktig som tidlegare funksjonalistiske uttrykk – møblane hadde sterke og klare fargar, materiala var mjuke og organiske. Særleg kjend er den danske designaren Arne Jacobsen (1902–1971). Stolar som Egget og Svanen har ikonisk status den dag i dag. 
 
   h3 Musikk  
 
-  p
-    | Musikken i mellomkrigstida var jazz, og jazzen var dominert av afroamerikanske musikarar. Dei store stjernene var Louis Armstrong (1901–1971), Duke Ellington (1899–1974) og Ella Fitzgerald (1917–1996). I dei harde trettiåra var den lystige jazzmusikken ein fristad der folk kunne slå seg laus og sleppe unna strevet i kvardagen. Storband var ekstra populære. Ein annan populær musikksjanger var country and western.  
-  p
-    | Da Elvis Presley (1935–1977) slo gjennom med ”Heartbreak Hotel” i 1956, innleidde han rockens æra. Musikken var inspirert av både gospel, country og rhythm and blues, og appellerte sterkt til den nye ungdomsgenerasjonen. Elvis vart superstjerne – hoftevrikka hans fekk ungjenter til å svime av og foreldre til å reagere: Kraftige reaksjonar førte til forbod mot å filme midja og beina til Elvis under TV-framføringar. ￼Louis Armstrong gav ein forrykande konsert i Colosseum kino i Oslo i 1952, og bidrog på denne måten sterkt til at jazzfeberen breidde seg i hovudstaden på 1950-talet. Entusiastar overnatta i billettkø for å sikre seg ein av dei vel 2000 plassane i kinolokalet.  
+  .flex.flex-wrap
+    .div.col.col6
+      p
+        | Musikken i mellomkrigstida var jazz, og jazzen var dominert av afroamerikanske musikarar. Dei store stjernene var Louis Armstrong (1901–1971), Duke Ellington (1899–1974) og Ella Fitzgerald (1917–1996). I dei harde trettiåra var den lystige jazzmusikken ein fristad der folk kunne slå seg laus og sleppe unna strevet i kvardagen. Storband var ekstra populære. Ein annan populær musikksjanger var country and western.  
+      p
+        | Da Elvis Presley (1935–1977) slo gjennom med ”Heartbreak Hotel” i 1956, innleidde han rockens æra. Musikken var inspirert av både gospel, country og rhythm and blues, og appellerte sterkt til den nye ungdomsgenerasjonen. Elvis vart superstjerne – hoftevrikka hans fekk ungjenter til å svime av og foreldre til å reagere: Kraftige reaksjonar førte til forbod mot å filme midja og beina til Elvis under TV-framføringar. ￼Louis Armstrong gav ein forrykande konsert i Colosseum kino i Oslo i 1952, og bidrog på denne måten sterkt til at jazzfeberen breidde seg i hovudstaden på 1950-talet. Entusiastar overnatta i billettkø for å sikre seg ein av dei vel 2000 plassane i kinolokalet. 
+    .div.col.col6.pl20
+      figure
+        img(src="./Modernisme_Musikk1.jpg" alt="")
+        figcaption Louis Armstrong gav ein forrykande konsert i Colosseum kino i Oslo i 1952, og bidrog på denne måten sterkt til at jazzfeberen breidde seg i hovudstaden på 1950-talet.
+      figure
+        img(src="./Modernisme_Musikk2.jpg" alt="")
+        figcaption Entusiastar overnatta i billettkø for å sikre seg ein av dei vel 2000 plassane i kinolokalet. Foto: Sverre A. Børretzen / Aktuell / Scanpix
+      figure
+        img(src="./Modernisme_Musikk3.jpg" alt="")
+        figcaption Elvis Presley under ein konsert i 1957. Foto: AP / Scanpix
+
+  .clear 
 </template>
 
 <script>
