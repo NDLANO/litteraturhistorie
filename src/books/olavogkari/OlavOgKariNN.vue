@@ -1,6 +1,7 @@
 <template lang="pug">
 PageBook
   h3 Bakgrunnen for visa
+  img.col.col6.right-image.mt5(src="./Olav_og_Kari_Bakgrunn_for_visa.jpg" alt="")
   p Folkevisa om Olav og Kari har røter attende til mellomalderen. Ho byggjer truleg på ei gammal fransk segn frå folkevandringstida.
 
   p Segna handlar om den frankiske prinsessa Klotilde, som i 526 e.Kr. blir gift med vestgotarkongen Amalarik. Ho er katolikk, mens Amalarik er arianar. Arianarane er kristne, men dei trur ikkje at Jesus er guddommeleg. Det gjer derimot katolikkane. Amalarik mishandlar Klotilde for trua hennar. Til sist sender ho ein blodflekket serk til bror sin, Childebert, som eit teikn på at ho vil hemne seg. Broren kjempar mot Amalarik og vinn. Så tek han med seg Klotilde, men ho døyr på veg tilbake til frankarriket.
@@ -16,6 +17,7 @@ PageBook
 
   h3 Konfliktane
 
+  img.col.col6.right-image.mt5(src="./Olav_og_Kari_Konfliktene.jpg" alt="")
   h5 Kristendom mot heidenskap
   p I denne balladen blir kristendom sett opp mot heidenskap. Mellomalderen er ei brytningstid for kristendommen i Noreg, og det er viktig å ta avstand frå alt som minner om heidenskap. Dette forklarer den sterke reaksjonen til Olav på det mora seier om Kari. Samstundes viser reaksjonen hans at han faktisk ser på dei underjordiske og på trolldom som ein realitet.
   h5 Kjærleik, sjalusi og maktkamp 
@@ -25,6 +27,7 @@ PageBook
 
   h5 Vonde makter 
   p Vi finn kristne og heidenske førestellingar side om side i «Olav og Kari». I folketrua representerer for eksempel alvane farlege makter som trugar menneska. I mellomalderen er vonde ånder, trollmenn og trollkvinner slett ikkje berre fantasiskapningar for menneska.
+  img.col.col4.left-image.mt5(src="./Olav_og_Kari_Jomfru_Maria.jpg" alt="")
   h5 Blodhemn og tilgiving 
   p Mens ættesamfunnet krev at urett skal hemnast, krev den kristne trua at ein skal tilgi fiendane sine. I «Olav og Kari» finn vi ei blanding av den gamle og den nye tenkjemåten.
 

@@ -1,5 +1,10 @@
 <template lang="pug">
 PageBook(:showAuthor="false")
+
+  figure.col.col7.left-image
+    img.mt5(src="./Rolandskvadet_Rolandskvadet.jpg" alt="")
+    figcaption Åtte hendingar frå «Rolandskvadet» samla i eitt bilete
+
   p «Rolandskvadet» er det eldste bevarte franske heltediktet, og det mest kjende. Kvadet vart skrive ned rundt år 1100 og handlar om Karl den store og dei tolv kjempene hans, mellom dei Roland og Holger Danske. Teksten finst i fleire versjonar. Den lengste er på 4000 verselinjer.
 
   p Kvadet er omsett til norrønt («Karlamagnús saga»), og det finst ein norsk versjon frå 1934. Vi finn historia om Roland også i folkevisa «Roland og Magnus kongjen». Magnus kongjen er Karl den store («magnus» tyder ‘den store’ på latin).
@@ -13,11 +18,19 @@ PageBook(:showAuthor="false")
 
 
   h3 Historisk bakgrunn for «Rolandskvadet»
+  figure.col.col7.right-image.mt5
+    img(src="./Rolandskvadet_Grandes_chroniques_de_France.jpg" alt="")
+    figcaption Slaget ved Roncesvalles i 778. Rolands død, frå «Grandes chroniques de France», miniatyrmåleri av Jean Fouquet.
+
   p Vi har berre éi historisk kjelde som fortel om Roland, og det erEinhard, ein lærd historikar som skreiv ein biografi om Karl den store få år etter at keisaren var død. I 778 drog Karl den store på eit felttog mot maurarane (arabarane), som hadde erobra store delar av Spania. På veg attende til Frankrike vart baktroppen hans overfallen ved Roncesvalles, eit fjellpass i Pyreneane. Det var baskarar, ikkje maurarar, som stod bak overfallet.
 
   p Einhard nemner i biografien at både Hruodland, som var markgreve iBritannia (Bretagne), og fleire andre vart drepne i slaget ved Roncesvalles i 778. Det gjekk mange hundre år før dei kristne vann tilbake Spania og Portugal. Først i 1492 vart den siste mauriske herskaren kasta ut av Granada.
 
   h3 Chansons de geste
+  figure.col.col7.right-image.mt5
+    img(src="./Rolandskvadet_Chanson_de_Roland.jpg" alt="")
+    figcaption Eit fargelagt manuskript til Chanson de Roland, frå 1300-talet
+
   p Franskmennene kallar heltedikta Chansons de geste. Det kan vi omsetje med songar om (helte)dådar. Mange av dei gammalfranske heltedikta handlar om Karl den store (742–814) og kampane hans mot heidningar, særleg i Spania. Heltedikta var opphavleg skrivne som propaganda for felttoga mot maurarane (arabarane) i Spania på 1000-talet.
 
   p Kjeldene er historiske forteljingar, men dei er gitt att svært fritt.Det er bevart om lag 200 gammalfranske heltedikt frå perioden 1050 til 1350 (høgmellomalderen).
