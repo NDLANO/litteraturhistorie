@@ -346,19 +346,20 @@ $rowWidth: 100% / 12;
   padding: 5px;
 }
 
-.pr10 {
-  padding-right: 10px;
+@include breakpoint($medium) {
+  .pr10 {
+    padding-right: 10px;
+  }
+  .pr20 {
+    padding-right: 20px;
+  }
+  .pl10 {
+    padding-left: 10px;
+  }
+  .pl20 {
+    padding-left: 20px;
+  }
 }
-.pr20 {
-  padding-right: 20px;
-}
-.pl10 {
-  padding-left: 10px;
-}
-.pl20 {
-  padding-left: 20px;
-}
-
 .flex {
   display: flex;
 }
