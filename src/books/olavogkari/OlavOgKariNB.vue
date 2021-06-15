@@ -1,6 +1,9 @@
 <template lang="pug">
 PageBook(:showAuthor="false")
   h3 Bakgrunnen for visa
+
+  img.col.col6.right-image.mt5(src="./Olav_og_Kari_Bakgrunn_for_visa.jpg" alt="")
+
   p Folkevisa om Olav og Kari har røtter tilbake til middelalderen. Den bygger trolig på et gammelt fransk sagn fra folkevandringstida. 
 
   p Sagnet handler om den frankiske prinsessen Klotilde, som i 526 e.Kr. blir gift med vestgoterkongen Amalarik. Hun er katolikk, mens Amalarik er arianer. Arianerne er kristne, men de tror ikke at Jesus er guddommelig. Det gjør derimot katolikkene. Amalarik mishandler Klotilde for troen hennes. Til slutt sender hun en blodflekket serk til bror sin, Childebert, som et tegn på at hun vil hevne seg. Broren kjemper mot Amalarik og vinner. Så tar han med seg Klotilde, men hun dør på vei tilbake til frankerriket. 
@@ -16,6 +19,7 @@ PageBook(:showAuthor="false")
 
   h3 Konfliktene
 
+  img.col.col6.right-image.mt5(src="./Olav_og_Kari_Konfliktene.jpg" alt="")
   h5 Kristendom mot hedenskap
   p I denne balladen blir kristendom satt opp mot hedenskap. Middelalderen er en brytningsfase for kristendommen i Norge, og det er viktig å ta avstand fra alt som minner om hedenskap. Det forklarer Olavs sterke reaksjon på det mora sier om Kari. Samtidig viser reaksjonen hans at han faktisk ser på de underjordiske og på trolldom som en realitet.
 
@@ -42,11 +46,13 @@ PageBook(:showAuthor="false")
 
   p Et viktig kjennetegn ved balladen er at den forteller en historie. Vi kaller derfor balladen en episk-lyrisk sjanger. Innholdet er episk (fortellende), mens formen er lyrisk. Her finnes enderim og rytme og en oppdeling i strofer som gjør at visa kan synges til en fast melodi. Balladen har dessuten oftest et omkved (refreng). Selve historien som balladen forteller, har vanligvis en tragisk utgang. 
 
+  img.col.col4.left-image.mt5(src="./Olav_og_Kari_Magnus_Brostrup_Landstad.jpg" alt="")
   p Helt fram til 1800-tallet ble balladene overført muntlig i Norge. Det er derfor vanskelig å slå fast hvor gamle balladene som er bevart, virkelig er. I første halvdel av 1800-tallet samlet Olea Crøger og Magnus Brostrup Landstad inn norske folkeviser og skriv dem ned. Allerede den gang var mange viser i ferd med å bli glemt, så innsamlingsarbeidet skjedde i siste liten. I 1853 gav Landstad ut samlingen Norske Folkeviser.  
 
   h3 Ulike balladetyper 
   p På samme måte som vi deler inn eventyr og sagn i ulike grupper, skiller vi også mellom ulike typer ballader:
 
+  img.col.col6.right-image.mt5(src="./Olav_og_Kari_Ulike_balladetyper.jpg" alt="")
   h5 Riddervisene 
   p er den største gruppa. Her er det kvinnene som spiller hovedrollen, og kjærlighet og sjalusi står sentralt. Men vi kan også finne overnaturlige innslag i disse visene. Den mest kjente riddervisa er «Bendik og Årolilja». 
 
@@ -56,6 +62,7 @@ PageBook(:showAuthor="false")
   h5 Naturmytiske folkeviser 
   p forteller om bergtaking og om folk som blir omskapt til bjørn, ulv og andre farlige dyr. Visene kan også handle om hvordan mennesket slåss mot slike lumske krefter, og hvordan en kan bli løst fra trolldommen.«Villemann og Magnill» og «Olav Liljekrans» er naturmytiske folkeviser.
 
+  img.col.col5.right-image.mt5(src="./Olav_og_Kari_Norsk_billedbog_for_boern.jpg" alt="")
   h5 Kjempe- og trollviser 
   p har mye til felles med de naturmytiske visene. De handler oftest om menn i kamp med hverandre, eller i kamp med troll og riser. «Torekall» er et eksempel på ei trollvise, mens «Roland og Magnus kongjen» er ei kjempevise. 
 
@@ -148,6 +155,10 @@ PageBook(:showAuthor="false")
       | Og eg skal kveda så vent fyr deg
       br 
       | At du skal gløyma deg sjølv og meg.
+
+  figure.col.col6.right-image.mt5
+    img(src="./Olav_og_Kari_Loft_i_Setesdal.jpg" alt="")
+    figcaption Loft i Setesdal fotografert av Axel Lindahl rundt 1890
 
   h5 En muntlig tradisjon
   p Å lage og improvisere stev har vært en levende tradisjon i enkelte landsdeler helt  fram til vår tid. Særlig i Vest-Telemark og i Setesdal er dette en tradisjon som fortsatt lever. Stevet blir brukt i ulike  sosiale sammenhenger. Når folk kommer sammen til vennelag eller til ei veitsle (et gjestebud), er det vanlig å kvede eller å stevjes. (Det heter å kvede et stev, men å stevjes når det er flere som kveder til hverandre.) 

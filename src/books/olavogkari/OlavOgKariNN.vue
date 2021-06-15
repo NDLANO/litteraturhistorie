@@ -2,6 +2,7 @@
 PageBook
   h3 Bakgrunnen for visa
   img.col.col6.right-image.mt5(src="./Olav_og_Kari_Bakgrunn_for_visa.jpg" alt="")
+
   p Folkevisa om Olav og Kari har røter attende til mellomalderen. Ho byggjer truleg på ei gammal fransk segn frå folkevandringstida.
 
   p Segna handlar om den frankiske prinsessa Klotilde, som i 526 e.Kr. blir gift med vestgotarkongen Amalarik. Ho er katolikk, mens Amalarik er arianar. Arianarane er kristne, men dei trur ikkje at Jesus er guddommeleg. Det gjer derimot katolikkane. Amalarik mishandlar Klotilde for trua hennar. Til sist sender ho ein blodflekket serk til bror sin, Childebert, som eit teikn på at ho vil hemne seg. Broren kjempar mot Amalarik og vinn. Så tek han med seg Klotilde, men ho døyr på veg tilbake til frankarriket.
@@ -43,11 +44,14 @@ PageBook
 
   p Eit viktig kjennemerke ved balladen er at han fortel ei historie. Vi kallar derfor balladen ein episk-lyrisk sjanger. Innhaldet er episk (forteljande), mens forma er lyrisk. Her finst enderim og rytme, og ei oppdeling i strofer som gjer at visa kan syngjast til ein fast melodi. Balladen har dessutan oftast eit omkved (refreng). Sjølve historia som balladen fortel, har til vanleg ein tragisk utgang. 
 
+  img.col.col4.left-image.mt5(src="./Olav_og_Kari_Magnus_Brostrup_Landstad.jpg" alt="")
   p Heilt fram til 1800-talet vart balladane overførte munnleg i Noreg. Det er derfor vanskeleg å slå fast kor gamle dei balladane som er bevarte, verkeleg er. I første halvdel av 1800-talet samla Olea Crøger og Magnus Brostrup Landstad inn norske folkeviser og skreiv dei ned. Alt den gong var mange viser i ferd med å bli gløymde, så innsamlingsarbeidet skjedde i siste liten. I 1853 gav Landstad ut samlinga Norske Folkeviser. 
 
+  .clear
   h3 Ulike balladetypar 
   p På same måten som vi deler inn eventyr og segner i ulike grupper, skil vi også mellom ulike typar balladar:
 
+  img.col.col6.right-image.mt5(src="./Olav_og_Kari_Ulike_balladetyper.jpg" alt="")
   h5 Riddarvisene
   p er den største gruppa. Her er det kvinnene som spelar hovudrolla, og kjærleik og sjalusi står sentralt. Men vi kan òg finne overnaturlege innslag i desse visene. Den mest kjende riddarvisa er «Bendik og Årolilja».
 
@@ -57,6 +61,7 @@ PageBook
   h5 Naturmytiske folkeviser
   p fortel om bergtaking og om folk som blir omskapte til bjørn, ulv og andre farlege dyr. Visene kan òg handle om korleis mennesket slåst mot slike lumske krefter, og korleis ein kan bli løyst frå trolldommen. «Villemann og Magnill» og «Olav Liljekrans» er naturmytiske folkeviser.
 
+  img.col.col5.right-image.mt5(src="./Olav_og_Kari_Norsk_billedbog_for_boern.jpg" alt="")
   h5 Kjempe- og trollviser
   p har mykje til felles med dei naturmytiske visene. Dei handlar oftast om menn i kamp mot kvarandre, eller i kamp med troll og risar. «Torekall» er eit døme på ei trollvise, mens «Roland og Magnus kongjen» er ei kjempevise.
 
@@ -151,12 +156,17 @@ PageBook
       br 
       | At du skal gløyma deg sjølv og meg.
 
+  figure.col.col6.right-image.mt5
+    img(src="./Olav_og_Kari_Loft_i_Setesdal.jpg" alt="")
+    figcaption Loft i Setesdal fotografert av Axel Lindahl kring 1890
+
   h5 Ein munnleg tradisjon
   p Å lage og improvisere stev har vore ein levande tradisjon i somme landsdelar heilt fram til vår tid. Særleg i Vest-Telemark og i Setesdal er dette ein tradisjon som framleis lever. Stevet blir nytta i ulike sosiale samanhengar. Når folk kjem saman til vennelag eller til ei veitsle (eit gjestebod), er det vanleg å kvede eller å stevjast. (Det heiter å kvede eit stev, men å stevjast når det er fleire som kved til kvarandre.) 
   
   h5 Ulik form – ulikt innhald 
   p Hos setesdølane er det ei oppfatning at gamlesteva er alvorsame og meir lyriske i forma. Nysteva er derimot friskare både i innhald og form og kan vere meir direkte i uttrykksmåten. Her er det meir rom for å improvisere.
 
+  .clear
 </template>
 
 <script>

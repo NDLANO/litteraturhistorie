@@ -1,6 +1,8 @@
 <template lang="pug">
 PageBook(:showAuthor="false")
   h3 Den første norske ordboka
+  
+  img.col.col4.left-image(src="./Den_Norske_Dictionarium_Den_første_norske_ordboka.jpg" alt="")
   p Det finst ei rad skriftlege oppteikningar av norske ord og vendingar på 1600-talet. Eit av formåla med desse glosebøkene var å hjelpe danske embetsmenn til å forstå norske dialektar. På 1600-talet er nemleg dei fleste embetsmennene i Noreg danske. Dei skriv og snakkar dansk, men dei lever i eit samfunn der folk flest snakkar norsk, og må derfor lære seg å forstå norske ord og uttrykk.
 
   p På 1600-talet finn vi også ei aukande interesse for folkespråka rundt om i Europa. I Noreg lagar somme samlingar over særnorske ord, og dei har eit klart ønske om å vise at norsk er noko anna enn dansk. Ein av dei er Christen Jensson, sokneprest i Askvoll i Sunnfjord.
@@ -12,6 +14,7 @@ PageBook(:showAuthor="false")
   h3 Prest, språkforskar og folkeminnesamlar
   p Christen Jensson er truleg fødd kring 1610 i Askvoll i Sunnfjord. Far hans, Jens Mauritsson, var dansk og sokneprest i bygda. Ut frå det Jensson skriv i forordet til ordsamlinga si, kjenner han seg sjølv som nordmann i sinn og skinn. Han blir send til katedralskolen i Bergen, og derifrå går ferda vidare til København og teologistudium ved universitetet.
 
+  img.col.col4.right-image(src="./Den_Norske_Dictionarium_Gravstein.jpg" alt="")
   p Etter studia etterfølgde Jensson far sin som sokneprest i Askvoll, ei stilling han har resten av livet. Det hender at han tek seg ein tår for tørsten, og i 1643 blir han rapportert til biskopen for drukkenskap og slagsmål. Han blir ikkje dømd, men somme meiner at han som straff har måtta omsetje ei tysk lærebok i teologi til dansk.
 
   p Den norske Dictionarium eller Glosebog er Jenssons mest kjende verk. Boka viser at han er oppteken av både kultur og natur, og godt kjend med alt som rører seg i heimbygda. Innimellom tek han med humoristiske stubbar om dyr og menneske.
@@ -23,6 +26,8 @@ PageBook(:showAuthor="false")
 
   blockquote DEt er en allmindelig / oc lofflig Sedvane / at naar nogen skriffuer noget / som skal komme til Liuset / enten det som de haffuer componeret, oc tilhobe samlet aff andre deris Skrifter / eller Tungemaal transfereret, at de da same deris Arbejde / oc Skrift ville dedicere oc tilskriffue nogle ypperlige Mænd / oc det for den Aarsags skyld / at samme deris Arbeyde / skal formedelst saadanne høye Personers Nafn / bliffue handthefvit / oc forsuarit / imod andre vrange Dommere / oc Wvenner: Fordi saa / her nu udi denne sidste Verdsens onde Tjd gaar det alt for megit til / som det gamle Ordsprog lyder: Nihil tutttm à calumniatoris morsu. Det er / Der er intet saa fuldkomen giort / at det kand være sickert oc trygt / for Spotteres Munde. En liden Bog vdi huilcken kortelig er forfattet / adskellige Norske Gloser / oc daglige Tale / Fiskes Fuglis oc Diurs vnderlige Natur oc Naffne / sampt adskillige Ordsprog. Som Alphabeticé effterfølger.
 
+
+  img.col.col6.left-image(src="./Den_Norske_Dictionarium_Utdrag.jpg" alt="")
   p Den norske Dictionarium eller Glosebog var trykt i København. Det kan vere årsaka til at også oppslagsorda med norsk daglegtale har fått dansk skrivemåte. Dei danske boktrykkjarane har ganske sikkert slite med å stave dei ukjende orda. Men forfattaren sjølv har heller ikkje hatt noko norsk skriftspråk å stø seg til, for eit slikt språk finst ikkje på 1600-talet. Men vi får i alle fall nokre interessante glimt inn i norsk kvardag og kultur på denne tida.
 
   p
@@ -59,6 +64,16 @@ PageBook(:showAuthor="false")
   blockquote «Gombe er en slags Oest, som sydes (kokes) aff fersk Melck hen ved 3 Bytter oc sydes saa ner en Dag, ved idelig Rørelse, indtil det blifuer til Oest, men lidet førend Oesten blifuer, tagis der tynd Rømme af et Kar eller to, oc ladis i samme Melck, oc lader det saa lidet syde til haabe, siden ladis derpaa Osten, Eggeblommer oc smeltet Smør, samme Oest blifuer baaren til Barsel-Quinder i Barsøl, som en Baars Øels føøne (av fooner, foiner: det ein tok med til barsel eller bryllaup), oc kaldis Sengie Konne-Matt»
 
   p Christen Jensson skriv om urter og blomar, fuglar og dyr, jordbruk og fiske. Han tek også med teikningar av primstaven, som har eit symbol for kvar merkedag i året. Den eine sida på staven viser merkedagane i vinterhalvåret, den andre sida viser merkedagane i sommarhalvåret.
+
+  figure.col.col12
+    img(src="./Den_Norske_Dictionarium_Primstav_Sommerhalvaaret.jpg")
+    figcaption Sommarhalvåret
+  figure.col.col12
+    img(src="./Den_Norske_Dictionarium_Primstav_Vinterhalvaaret.jpg")
+    figcaption Vinterhalvåret
+  figure.col.col12
+    img(src="./Den_Norske_Dictionarium_Primstav_Detalj.jpg")
+    figcaption Detalj
 
   h3 Norske ordsamlingar og ordbøker
   p Det er ikkje berre Christen Jensson som samlar inn norske ord på 1600-talet. Vi finn liknande skrifter frå andre delar av landet. Dei eldste norske ordsamlingane frå 1600-talet er oppteikningar over lokale dialektord. Det kan vere litt vilkårleg kva for ord som er komne med, og korleis dei blir skrivne.
