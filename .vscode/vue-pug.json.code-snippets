@@ -17,12 +17,12 @@
   // }
   "Image floating left": {
     "prefix": "mfimgl",
-    "body": ["img.col.col6.left-image(src='$1' alt='$2')$0"],
+    "body": ["img.col.col6.left-image.mt5(src='$1' alt='$2')$0"],
     "description": "Image floating left"
   },
   "Image floating right": {
     "prefix": "mfimgr",
-    "body": ["img.col.col6.right-image(src='$1') alt='$2')$0"],
+    "body": ["img.col.col6.right-image.mt5(src='$1' alt='$2')$0"],
     "description": "Image floating left"
   },
   "Image full width": {
