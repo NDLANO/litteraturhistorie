@@ -27,7 +27,7 @@
   },
   "Image full width": {
     "prefix": "mfimg",
-    "body": ["img.col.col12(src='$1' alt='$2')$0)"],
+    "body": ["img.col.col12(src='$1' alt='$2')$0"],
     "description": "Image full width"
   },
   "Figure image with caption floating left": {
