@@ -1,2 +1,4 @@
 - [NDLA Statistikk](/)
   - [Oppbygging og filestruktur](filestructure.md)
+  - Redigere innhold
+    - [VS Code snippets](snippets.md)
