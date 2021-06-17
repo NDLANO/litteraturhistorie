@@ -11,7 +11,16 @@ PageBook
   p For mange stod arbeidarrørsla fram som ei internasjonal rørsle som heva seg over særinteressene til stormakter og kapitaleigarar. Klasseskilnadene mellom rike og fattige gav næring til sosial uro. Delar av arbeidarrørsla vart radikalisert, både ute i Europa og i Noreg. Førebiletet var den russiske revolusjonen i 1917, tufta på marxistisk ideologi. I tråd med dette kravde arbeidarane eigedomsretten til jord og produksjonsmiddel. 
   
   h3 Ein ekte austkantdiktar
-  p Rudolf William Nilsen (1901–1929) var ein ekte austkantdiktar. Han var fødd på Vålerenga i Oslo, som den gong heitte Kristiania. Faren var jernarbeidar på Nylands Mekaniske Verksted. Etter at foreldra skilde seg, voks sonen opp hos mora, som livnærte seg som sydame. Oppveksten kom til å prege både samfunnsengasjementet og heile forfattarskapen til Rudolf Nilsen: 
+  
+  img.col.col4.left-image.mt5(src='./Nilsen_En_ekte_oestlandsdikter.jpg' alt='')
+  p Rudolf William Nilsen (1901–1929) var ein ekte austkantdiktar. Han var fødd på Vålerenga i Oslo, som den gong heitte Kristiania. Faren var jernarbeidar på Nylands Mekaniske Verksted. Etter at foreldra skilde seg, voks sonen opp hos mora, som livnærte seg som sydame. 
+
+  .clear
+  p Oppveksten kom til å prege både samfunnsengasjementet og heile forfattarskapen til Rudolf Nilsen: 
+
+  figure.col.col5.right-image.mt5
+   img(src='./Nilsen_Fredensborg.jpg' alt='')
+   figcaption Fredensborg i Oslo. Foto: Ingvald Møllerstad / Aftenposten /Scanpix
 
   blockquote
     | Jeg kom til verden i en murstensgård 
@@ -24,8 +33,12 @@ PageBook
     br
     | og krutt. 
 
-  p I diktet «Nr. 13» skildrar Rudolf Nilsen korleis det er å vekse opp i gråbeinsgardane på austkanten i Oslo. Menneska som bur i nr. 13, er skildra med både varme, humor og ironi. Diktet er ei ekte folkelivsskildring frå austkanten. Men forfattaren minner oss på at dei som bur der, deler lagnad med arbeidarar over heile verda – nr. 13 finst alle stader der fattigfolk bur. 
-
+  p I diktet «Nr. 13» skildrar Rudolf Nilsen korleis det er å vekse opp i gråbeinsgardane på austkanten i Oslo. Menneska som bur i nr. 13, er skildra med både varme, humor og ironi. Diktet er ei ekte folkelivsskildring frå austkanten. Men forfattaren minner oss på at dei som bur der, deler lagnad med arbeid
+  
+  .clear 
+  figure.col.col6.right-image.mt20
+   img(src='./Nilsen_Enerhaugen.jpg' alt='')
+   figcaption Enerhaugen. Foto: NTB / Scanpix
   blockquote
     | De spør hvor Nr. 13 er – 
     br
@@ -66,6 +79,10 @@ PageBook
   h3 På stengrunn
   p Den første diktsamlinga til Rudolf Nilsen kom ut i 1925 med tittelen På stengrunn. I denne diktsamlinga skildrar han livet til vanlege arbeidsfolk aust for Akerselva. Livet er hardt, og gledene er få. Men djupt i alle lever lengten etter eit betre liv. De unge bjerkene i svarte byen de står og bruser med sitt lyse løv, som om de åndet store skogers vårluft og ikke skorstensrøk og gatestøv.
 
+  figure.col.col12
+   img(src='./Nilsen_Gamle_Vika.jpg' alt='')
+   figcaption Gamle Vika med Akers Mekaniske Verksted i bakgrunnen. Foto: Scanpix
+
   p Trass i dette er det få diktarar som har skildra livet i storbyen med større kjærleik enn Rudolf Nilsen. I det urbane samfunnet er alt skapt av menneske og underlagt menneskeleg kontroll. Hos realisten og ateisten Rudolf Nilsen er det ikkje plass til metafysikk og religion.
 
   blockquote
@@ -87,6 +104,9 @@ PageBook
 
   p I 1920-åra var forfattarar som Olav Duun og Sigrid Undset opptekne av det etiske ansvaret som den enkelte har for slekta og for lokalsamfunnet han eller ho er ein del av. I forfattarskapen sin peiker Rudolf Nilsen på ei ny form for slektskap og forplikting: Arbeidarklassen er den nye slekta, og dei som høyrer til arbeidarklassen, er etisk forplikta til å ta del i klassekampen.
 
+  figure.col.col6.right-image.mt5
+   img(src='./Nilsen_demonstrasjon.jpg' alt='')
+   figcaption «De navnløses hær» ved en 1. mai-demonstrasjon i Oslo i 1935. Foto: NTB / Scanpix
   blockquote
     | Jeg kjenner en mening med livet. 
     br
@@ -123,6 +143,7 @@ PageBook
     br
     | med tanke og sang og gevær.
 
+  .clear
   h3 «Revolusjonens røst»
   p Alt som gymnasiast var Rudolf Nilsen politisk interessert. I 1919 melde han seg inn i Norges Socialdemokratiske Ungdomsforbund. Da arbeidarrørsla vart politisk splitta i 1923, valde Rudolf Nilsen den revolusjonære linja som Norges Kommunistiske Parti stod for.
 
@@ -202,17 +223,26 @@ PageBook
     br
     span(class="ml40") men kjemper til døden for den. 
 
+  figure.col.col12
+   img(src='./Nilsen_Kamplyrikk.jpg' alt='')
+   figcaption Avdukinga av monumentet over Rudolf Nilsen på Rudolf Nilsens plass i Oslo 1. mai 1954. Foto: NTB / Scanpix
   p Mannleg utgang på verselinja er med på å skape eit kontant og bestemt uttrykk. I «Revolusjonens røst» rimar dessutan alle linjene i strofa på kvarandre, slik at rimorda kjem tett i tett. Rimet verkar insisterande og er med på å hamre den steile bodskapen inn i lesaren.
 
   p Språket i dikta til Nilsen er endeframt og direkte. Forfattaren nyttar enkle bilete henta frå kvardagslivet, og ord som vekkjer sterke kjensler. Rim og rytme understrekar innhaldet. Målet er å påverke lesarane og mane til handling. 
 
   p Ei samnemning for denne typen lyrikk er kamplyrikk. Andre forfattarar som seinare skreiv på same måten, er Arnulf Øverland og Nordahl Grieg. Det kanskje mest berømte norske kampdiktet er likevel skrive av ei kvinne. Det er Inger Hagerups «Aust-Vågøy. 1941», som manar til motstand mot tyskarane under andre den andre verdskrigen. 
+
   h3 Frå Rudolf Nilsen til Lillebjørn Nilsen
+  figure.col.col6.right-image.mt5
+   img(src='./Nilsen_Lars_Klevstrand.jpg' alt='')
+   figcaption Visesongaren Lars Klevstrand ved statuen av Rudolf Nilsen. Foto: VG / Scanpix
+   
   p Rudolf Nilsen meinte at forfattaren ikkje kunne la vere å ta stilling i klassekampen. Pennen skulle brukast som eit våpen for revolusjonen. Dette synet på forfattarrolla går att hos radikale forfattarar tidleg i 1970-åra, som for eksempel Dag Solstad. Forfattarane skulle skrive for folket, og litteraturen skulle tene arbeidarklassen.
 
   p Dei kjende visesongarane Lillebjørn Nilsen, Lars Klevstrand, Jon Arne Corell og Kari Svendsen gav ut musikkalbumet «På stengrunn» i 1973. Visene til Rudolf Nilsen vart mykje nytta da den radikale ungdomsrørsla mana til opprør mot det etablerte samfunnet i 1970-åra. Vi kan derfor seie at det går ei linje frå Rudolf Nilsen til Lillebjørn Nilsen.
 
   p Desse to lyrikarane har også noko anna felles. Begge er urbane forfattarar som skildrar livet på austkanten i Oslo på ein realistisk måte, men med stor kjærleik til miljøet og menneska som lever der.
+
 
 </template>
 

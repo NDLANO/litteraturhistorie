@@ -10,6 +10,8 @@ PageBook
   // Vurdere video her
 
   h3 Populærlitteraturen når nye lesergrupper
+
+  img.col.col12(src='./frich_Populaerlitteraturen1.jpg' alt='')
   p Romantikken (1800–1850) var en grotid for populærlitteraturen, både her til lands og i mange andre land. Maurits Hansen (1794–1842) skrev flere spennings- og kjærlighetsfortellinger i denne tidsperioden. 
 
   p Men gjennombruddet for populærlitteraturen kom først i andre halvdel av 1800-tallet. Nå lærte flere å lese, og flere fikk råd til å kjøpe litteratur. Byene var i vekst, og her hadde folk tilgang til elektrisk lys i seine kveldstimer. De mest kjente populærskribentene fra denne perioden er Jon Flatabø (1846–1930), Rudolf Muus (1862–1935) og Karen Sundt (1841–1924). 
@@ -19,11 +21,18 @@ PageBook
   p Alle tre skrev føljetonger (fortsettelsesfortellinger) i store opplag, og vi kaller dem folkelitterater fordi de nådde mange lesere og gav folket det de ville ha. Føljetongene skapte spenning og forventninger hos leserne, og de gav både forfatterne og forlagene store inntekter. 
 
   h3 Skillingsviser 
+
+  figure.col.col6.right-image.mt5
+   img(src='./frich_Skillingsviser1.jpg' alt='')
+   figcaption Engelsk skillingstrykk fra 1833
+
   p Skillingsvisene er også en del av den folkelige litteraturen. Betegnelsen skillingsvise kommer av at visene ble spredd som skillingstrykk, det vil si som små trykksaker som ble solgt for en skilling. Skillingsvisene handlet gjerne om kjærlighet, svik og sladder, men de kunne også formidle nyheter i poetiske vendinger. Slik sett kan vi si at skillingsvisene utgjorde forløperen til ukebladene. 
 
   p Omreisende bokselgere sørget for at  også folk utenom byene fikk tilgang på lesestoff. En omreisende bokselger ble gjerne kalt kolportør. Forfatteren Edvard Hoem skildrer møtet med en slik kolportør i boka Heimlandet Barndom. 
 
   h3 Øvre Richter Frich – en sukessforfatter 
+
+  img.col.col4.left-image.mt5(src='./frich_Portrett1.jpg' alt='')
   p I 1920-årene var Øvre Richter Frich (1872– 1945) den forfatteren som solgte mest her i landet, med et samlet opplag på vel to millioner bøker. Bøkene hans ble oversatt til ni språk og kaltes spenningsromaner. Det var vel nettopp  opplevelsen av spenning og tankeflukt som gjorde at litteraturen hans fascinerte så mange. 
 
   p Richter Frich var også journalist i flere aviser, og han fikk status som stjernereporter i Aftenposten etter å ha dekt bybrannen i Ålesund i 1904. Måten han skrev på, kom i ettertid til å danne mønster for norsk reportasjejournalistikk. 
@@ -33,6 +42,8 @@ PageBook
   p Jonas Fjeld har flere fellestrekk med forfatteren selv. Richter Frich var en individualist som levde etter prinsippet om å ha minst mulig ansvar. Han sa opp journalistjobben i Aftenposten da han skjønte at han kunne leve av å være forfatter og globetrotter på heltid. I tjue år reiste han omkring i verden og levde gode dager, samtidig som han skrev spenningsromaner. Han var rastløs av natur og skaffet seg ikke fast bolig før han var seksti år. 
   
   h3 De knyttede næver – en spenningsroman 
+
+  img.col.col6.right-image.mt5(src='./frich_De_knyttede_naever.jpg' alt='')
   p De knyttede næver fra 1911 er den første boka i serien om Jonas Fjeld. Cappelen forlag trykte boka på nytt i 1997, og i forordet skrev Christopher Hals Gylseth dette: 
 
   blockquote Skikkelsen Jonas Fjeld kan best beskrives som en slags germansk blanding av Indiana Jones, James Bond og Arnold Schwarzenegger – nordisk utseende, med isblå øyne og firkantet kjeve, og med stål i ben og armer. 
@@ -40,11 +51,18 @@ PageBook
   p Det er kampen mellom det gode og det onde som er essensen i alle de 21 bøkene om Jonas Fjeld, som kom i perioden 1911–1920. Den blonde, germanske legen framstår som en helt og kjemper mot alle uromomenter i samfunnet. Han er alltid på jakt etter å knuse ikke-germanere av typen anarkister, sosialister og kommunister. Helten er alltid et godt menneske, og moralen er at det er den gode og rettferdige som vinner til slutt. 
 
   h3 Kritikk av ideologi og menneskesyn 
+
+  figure.col.col6.right-image.mt5
+   img(src='./frich_Kritikk_av_ideologi_og_menneskesyn1.jpg' alt='')
+   figcaption Omslagsbilde til De udødelige dverge; Lille Jonas Fjeld; Storfjellets herre Øvre Richter Frich utgitt av Norild
+
   p Det var få eller ingen i samtida som reagerte på menneskesynet som kom til uttrykk i Richter Frichs bøker. Hovedpersonen Jonas Fjeld blir framstilt som en blond, høyreist og bredskuldret mann av den ariske rase. Han er en heltefigur: lege av yrke, en mann som mestrer det meste, er iskald i alle situasjoner og en skarpskodd våpenbruker. Fiendene hans derimot er alltid utlendinger, og de blir framstilt som mindreverdige og nedbrytende elementer som driver med statskupp og annen undergravende virksomhet. Ofte er de av den såkalte slaviske rasen. 
 
   p Litteraturforskeren Willy Dahl har omtalt Øvre Richter Frich som «den mest erklærte rasist og voldsromantiker» i norsk populærlitteratur. Men i mellomkrigsårene var ikke menneskesynet til Richter Frich noe ekstremt eller spesielt. Det var samtidas syn på fremmede folk og kulturer som kom til uttrykk i populærlitteraturen fra denne tida, og det gjaldt ikke minst den populærlitteraturen som ble utgitt under betegnelsen kristen litteratur. 
   
   h3 Kriminalromanen 
+
+  img.col.col5.left-image.mt5(src='./frich_Kriminalromanen1.jpg' alt='')
   p I etterkant har det vært vanlig å bruke betegnelsen kriminalromaner om bøkene til Øvre Richter Frich. Som skaperen av denne sjangeren regnes amerikaneren Edgar Allan Poe, som skrev en rekke skrekk- og kriminalnoveller i 1830- og 1840-årene. Det skulle gå over førti år før Poe fikk en etterfølger: I 1887 gav engelskmannen Arthur Conan Doyle ut A Study in Scarlet – en bok der etterforskeren Sherlock Holmes er hovedfigur. Denne etterforskeren, med lupe og intelligens, skulle bli prototypen på en detektiv. 
 
   p Mordet på Maskinbygger Roolfsen (1839) av Mauritz Hansen blir regnet som den første kriminalromanen i norsk litteratur. Boka kom faktisk ut to år før debutboka til Poe. Romanen har mange trekk som er typiske for romantikken, og interessen for det mystiske er felles for både kriminallitteraturen og romantikken. 
@@ -54,6 +72,11 @@ PageBook
   p Elvestad stod også bak det populære seriemagasinet Lys og Skygge, som gjennom seksti år leverte kriminalhistorier om mesterdetektiven Knut Gribb og storforbryteren Thomas Ryer. 
   
   h3  En populær sjanger 
+
+  figure.col.col7.right-image.mt5
+   img(src='./frich_En_populaer_sjanger1.jpg' alt='')
+   figcaption Skodespelar Henny Moan i filmen «De dødes tjern», basert på boka med same namn av Bernhard Borge (Andre Bjerke). Foto: Scanpix
+
   p Tida fram til andre verdenskrig var en gullalder for krim- og spenningslitteratur. Nordahl Grieg (1902–1943) var en lovende ung journalist og forfatter. Sammen med Gyldendals redaktør Nils Lie (1902–1978) skrev han i 1929 Bergenstoget plyndret i natt. 
 
   p Boka gjorde stor suksess. Gyldendal forlag lanserte den rett før påske, med tittelen uthevet som en avisoverskrift. Mange leste og oppfattet annonsen for boka som en nyhet og trodde at bergenstoget virkelig var ranet. Det hører med at dette var opptakten til det norske fenomenet påskekrim. 
@@ -64,7 +87,16 @@ PageBook
 
   p Den tradisjonelle kriminalromanen er fortsatt populær, men også den psykologiske thrilleren og andre typer spenningsromaner har mange lesere. Til de mest leste norske kriminalforfatterne i dag hører Anne Holt, Jo Nesbø, Karin Fossum og Unni Lindell. 
 
+  .flex.flex-justify-center
+    figure.col.col8
+      img(src='./frich_En_populaer_sjanger2.jpg' alt='')
+      figcaption Kvart år deler Rivertonklubben ut prisen «Den Gylne Revolver» til forfattaren av den beste kriminalboka. I 1997 fekk Karin Fossum prisen. Litteraturprofessor Willy Dahl fekk Foreningen til kriminallitteraturens fremme sin ærespris. Foto: Bjørn Sigurdsøn / Scanpix
+  
+
   h3 Westernsjangeren 
+
+  img.col.col6.right-image.mt5(src='./frich_westernsjangeren.jpg' alt='')
+
   p Helten i westernlitteraturen er opprinnelig grensespeideren («the frontier man»). Cowboyen melder seg på som helt litt seinere, og det er først da sjangeren får sitt store gjennombrudd. Cowboyen blir en helt som lykkes både i kjærlighet og i revolverdueller. 
 
   p Fortellingene om alle bragder som de hvite gjorde i det ville Vesten, kom til å likne på det vi kaller myter. En myte er en historie eller et sagn rundt historiske hendinger, som vil vise at det står høyere makter bak. Historiene om Buffalo Bill og Billy the Kid, som egentlig var massemordere, ble til et slags heltesagn for den amerikanske nasjonen. 

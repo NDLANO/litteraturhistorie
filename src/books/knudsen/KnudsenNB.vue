@@ -2,10 +2,15 @@
 PageBook
   
   h3 Lærer og språkmann Knud Knudsen (1812–1895) 
+
+  img.col.col4.left-image.mt5(src='./Knudsen_Laerer_og_spraakmann.jpg' alt='')
   p Knudsen er kjent for arbeidet sitt med å fornorske det danske skriftspråket. Han regnes for far til riksmålet (som i 1929 fikk det offisielle navnet bokmål). 
 
   p Knud Knudsen kom fra Holt ved Tvedestrand og vokste opp i enkle kår. Faren var husmann og omgangsskolelærer. Knudsen tok seminareksammen (lærerprøve) i 1828 og ble ansatt som lærer i hjembygda. Seinere studerte han filologiske fag ved Universitetet i Kristiania, der han tok filologisk embetseksammen i 1840. Han ble adjunkt ved latinskolen i Drammen og seinere overlærer ved katedralskolen i Kristiania. 
 
+  figure.col.col4.left-image.mt5
+   img(src='./Knudsen_Hesthagen_i_Holt.jpg' alt='')
+   figcaption I dette huset frå husmannsplassen Hesthagen i Holt i Tvedestrand voks Knud Knudsen opp
   p Som lærer og pedagog så Knud Knudsen hvor viktig det var for elevene å få et skriftspråk som var bedre tilpasset til  norsk dagligtale enn det danske skriftspråket de måtte lære seg. 
 
   p I tillegg var Knudsen en pådriver i arbeidet med å utvikle latinskolen til en mer allmenndannende skole. Knudsen mente at de klassiske språkfagene latin og gresk hadde en altfor dominerende plass i den høyere allmennskolen. Han ønsket at denne skoletypen skulle være noe mer enn et forstadium til universitetet. Etter hans syn burde modersmålsfaget stå sentralt, med vekt på norsk språk, litteratur og kultur. På dette området fikk han tidlig gjennomslag for ideene sine. Allerede i 1857 ble latinstilen avskaffet til studenteksammen, og i 1869 ble realartium innført som et alternativ til latinlinja. 
@@ -53,6 +58,7 @@ PageBook
   p Bogen nævner op de ord, som det til brug for den skrivende i øjeblikket kan blive spørsmål om, for at han ej skal være nød til at hangle igjennom med det fremmede eller mindre gode, fordi han ikke er i stand til at hitte på noget av vore indenlandske og bedre.
 
   p En del av de avløserordene Knudsen anbefalte, er i vanlig bruk i dag: 
+  img.col.col5.right-image(src='./Knudsen_avloeserord.jpg' alt='')
   ul
     li absence – fråvær 
     li debat – ordskifte 
@@ -83,5 +89,4 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped></style>  
-  
+<style lang="scss" scoped></style>

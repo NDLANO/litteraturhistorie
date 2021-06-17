@@ -2,10 +2,15 @@
 PageBook
   
   h3 Lærar og språkmann Knud Knudsen (1812–1895)
+
+  img.col.col4.left-image.mt5(src='./Knudsen_Laerer_og_spraakmann.jpg' alt='')
   p Knudsen er kjend for arbeidet sitt med å fornorske det danske skriftspråket. Han blir rekna som far til riksmålet (som i 1929 fekk det offisielle namnet bokmål). 
 
   p Knud Knudsen kom frå Holt ved Tvedestrand og voks opp i enkle kår. Far hans var husmann og omgangsskulelærar. Knudsen tok seminareksamen (lærarprøva) i 1828 og vart tilsett som lærar i heimbygda. Seinare studerte han filologiske fag ved Universitetet i Kristiania, der han tok filologisk embetseksamen i 1840. Han vart adjunkt ved latinskulen i Drammen og seinare overlærar ved katedralskulen i Kristiania.
 
+  figure.col.col4.left-image.mt5
+   img(src='./Knudsen_Hesthagen_i_Holt.jpg' alt='')
+   figcaption I dette huset frå husmannsplassen Hesthagen i Holt i Tvedestrand voks Knud Knudsen opp
   p Som lærar og pedagog såg Knud Knudsen kor viktig det var for elevane å få eit skriftspråk som var betre tilpassa til norsk daglegtale enn det danske skriftspråket dei måtte lære seg.
 
   p I tillegg var Knudsen ein pådrivar i arbeidet med å utvikle latinskulen til ein meir allmenndannande skule. Knudsen meinte at dei klassiske språkfaga latin og gresk hadde ein altfor dominerande plass i den høgare allmennskulen. Han ønskte at denne skuletypen skulle vere noko meir enn eit forstadium til universitetet. Etter hans syn burde modersmålsfaget stå sentralt, med vekt på norsk språk, litteratur og kultur. På dette området fekk han tidleg gjennomslag for ideane sine. Alt i 1857 vart latinstilen avskaffa til studenteksamen, og i 1869 vart realartium innført som eit alternativ til latinlinja. 
@@ -45,6 +50,7 @@ PageBook
   p I dag kan vi trygt seie at grunnideen til Knudsen heldt mål likevel, for ingen ville lenger finne på å karakterisere bokmålet som noko anna enn norsk.
   
   h3 Unorsk og norsk
+  
   p Knudsen var i grunnen meir oppteken av ordtilfang enn av grammatikk og lydlære. Han var purist og sterkt imot ein ukritisk bruk av framandord i norsk. Han meinte framandorda gjorde det vanskelegare for folk å skaffe seg kunnskap. Aller helst burde vi bruke norske avløysarord, meinte han, men der det var naturleg å bruke framandord eller lånord, måtte dei ha ein norsk skrivemåte.
   
   p I åra 1879–1881 gav Knudsen ut ei ordbok som han kalla Unorsk og Norsk, eller Fremmedords Avløsning. Her lanserte han fleire avløysarord, anten ord han sjølv hadde konstruert, eller ord andre hadde føreslått. Boka var tenkt som ei praktisk oppslagsbok. I forordet heiter det: 
@@ -52,6 +58,7 @@ PageBook
   p Bogen nævner op de ord, som det til brug for den skrivende i øjeblikket kan blive spørsmål om, for at han ej skal være nød til at hangle igjennom med det fremmede eller mindre gode, fordi han ikke er i stand til at hitte på noget av vore indenlandske og bedre.
 
   p Ein del av dei avløysarorda Knudsen tilrådde, er i vanleg bruk i dag: 
+  img.col.col5.right-image(src='./Knudsen_avloeserord.jpg' alt='')
   ul
     li absence – fråvær 
     li debat – ordskifte 
@@ -61,7 +68,9 @@ PageBook
     li abonnement – tinging, forkøp 
     li forelsket – hjerteskudt 
 
+  .clear
   p Knudsen fekk lite støtte for forslaga sine i samtida. Å skape nye ord og få folk til å ta dei i bruk, er ein prosess som tek lang tid. I dag fører Språkrådet vidare det arbeidet som Knud Knudsen sette i gang med å finne gode norske avløysarord.
+
 
 </template>
 
@@ -80,5 +89,4 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped></style>  
-  
+<style lang="scss" scoped></style>

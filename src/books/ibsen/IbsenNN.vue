@@ -1,6 +1,11 @@
 <template lang="pug">
 PageBook
   h3 Ikon og folkehelt 
+  
+  figure.col.col6.left-image
+   img(src='./ibsen_ikon_og_folkehelt1.jpg' alt='')
+   figcaption Foto: Scanpix
+
   p Henrik Johan Ibsen var fødd i Skien i 1828. Faren var ein rik forretningsmann, og mora kom òg frå ein velståande handelsfamilie. Nederlaget og prestisjetapet var derfor stort da faren gjekk konkurs, og familien måtte flytte ut av byen. Fleire biografar har lagt vekt på denne hendinga som ei drivkraft for Ibsen seinare i livet.
 
   p I 1843 flytte Ibsen til Grimstad. Her arbeidde han som apotekarlærling, samstundes som han for alvor tok til å skrive. I 1850 drog han til Kristiania for å studere ved «Heltbergs studentfabrikk». Her møtte han både Vinje, Bjørnson og Lie, og han byrja å publisere eigne tekstar.
@@ -9,19 +14,34 @@ PageBook
 
   p Ibsen hadde vore leiar for Det Norske Theateret i Kristiania, men i 1862 gjekk teateret konkurs, og Ibsen opplevde nokre vanskelege år både økonomisk, kunstnarleg og privat. I 1864 forlét han og kona Noreg og busette seg så i Italia og Tyskland. Fedrelandet besøkte dei berre nokre få gonger i denne utanlandsperioden, som skulle vare i 27 år. Men det var i desse åra Ibsen fekk det store kunstnarlege gjennombrotet sitt, både i Noreg og ute i Europa. 
 
+  img.col.col6.right-image.mt5(src='./ibsen_ikon_og_folkehelt2.jpg' alt='')
   p Først i 1891 flytte Ibsen og kona attende til heimlandet, og dei busette seg i Arbins gate like ved Slottet i Oslo. Ibsen var no ein kjend diktar, ja ein kjendis. Han hadde ein dagleg spasertur på same tid kvar dag, frå heimen sin og ned til stamkafeen Grand Café, og mange menneske kom berre for å sjå han spasere. Ibsen døydde i 1906, etter fleire års sjukdom. Han hadde da vorte eit nasjonalt ikon og ein folkehelt, og han vart gravlagd i Æreslunden på Vår Frelsers gravlund i Oslo. 
 
   h3 Frå nasjonalromantikk til modernisme
+
+  figure.col.col6.right-image.mt5
+   img(src='./ibsen_Fra_nasjonalromantikk_til_modernisme1.jpg' alt='')
+   figcaption Liv Ullmann som Agnes i Det Norske Teatret si oppsetjing av teaterstykket «Brand» av Henrik Ibsen. Svein Erik Brodal spelar rolla som Brand. Foto: NTB / Scanpix
+   
   p Forfattarskapen til Ibsen kan delast i fire fasar. I førstninga skreiv Ibsen historiske drama i nasjonalromantisk ånd. Motiva var henta frå norsk historie, og handling og konfliktar går føre seg i ei fjern fortid. Eit sentralt tema i fleire av desse drama er tanken om samkjensle og nasjonalt sjølvstende, og heltane er staute nordmenn som kjempar for land og folk.
 
   p Men frå og med Brand (1866) skreiv Ibsen det vi kallar idédrama – tekstar der han drøftar eksistensielle emne og spørsmål. Han skreiv mellom anna om tru og tvil, om identitet og identitetsløyse. Deretter vart han ein del av det moderne gjennombrotet i norsk litteratur og samfunnsdebatt med sine realistiske samtidsdrama. Frå midten av 1880-åra ser vi at karakterane hos Ibsen blir meir samansette og nyanserte. Han gjer ein djupdykk i livsvilkåra til den moderne kvinna og mannen, og med dei såkalla symboldrama introduserer han symbolismen og modernismen i norsk dramatikk.
 
   h3 Idédrama og eksistensielle spørsmål
+
+  figure.col.col6.right-image.mt5
+   img(src='./ibsen_idedrama_og_eksistensielle_spoersmaal1.jpg' alt='')
+   figcaption Dennis Storhøi i rollen som Peer Gynt, i møtet med seterjentene. Foto: Kristoffer Øverli Andersen / VG / Scanpix
+
   p Ibsens store gjennombrot som dramatikar kom i 1866 med idédramaet Brand. Stykket handlar om presten Brand og dei ufråvikelege, harde krava han stiller til seg sjølv og omverda. Brand er først ein populær prest i ei lita fjellbygd, men han driv bodskapen sin så langt at kyrkjelyden til slutt jagar han opp på fjellet. Eit snøskred tek med seg både Brand og bygda.
 
   p I 1867 gav Henrik Ibsen ut det dramatiske diktet Peer Gynt. Eit dramatisk dikt er bygd opp som eit skodespel med replikkar og inndeling i scener og akter, men sjølve replikkane har rim og fast rytme. Peer Gynt er eit av dei mest framførte stykka til Ibsen, trass i at persongalleriet er svært omfattande og handlinga går føre seg både i Noreg og i utlandet, til havs og på land, i den verkelege verda og i draumeverda. 
 
   p Med Peer Gynt tok Ibsen eit oppgjer med det han såg på som typisk norske karaktertrekk og norsk veremåte. Ibsen meinte at nordmenn var «seg selv nok». Peer Gynt lyg, snik seg unna problem, driv med tvilsame forretningar og sviktar menneske rundt seg. I kontrast til Peer står Solveig. Ho ventar tolmodig på kjærasten sin heime i Noreg. I henne såg Ibsen mange av dei kvalitetane han meinte det var verdt å ta vare på, og det er kjærleiken til Solveig som bergar Peer frå å gå under.
+
+  figure.col.col12
+   img(src='./ibsen_idedrama_og_eksistensielle_spoersmaal2.jpg' alt='')
+   figcaption Peer Gynt i Bjarte Hjelmelands skikkelse då stykket vart sett opp ved Sfinksen og Pyramidene i Egypt i 2006. Foto: Heiko Junge / Scanpix
 
   p Peer Gynt er eit stykke som handlar om å søkje etter eigen identitet. Peer prøver å finne ut kven han er, men i staden for ein fast kjerne og stabil personlegdom finn han fleire identitetslag. Og nettopp spørsmålet om identitet gjer stykket moderne og evig aktuelt. På nytt står Solveig som kontrast til identitetsløysa, for i kjærleiken, trua og håpet hennar er Peer eit heilt menneske.
   
@@ -34,6 +54,11 @@ PageBook
   p Et Dukkehjem var òg eit innlegg i samtidsdebatten om stillinga til gifte kvinner. Gifte kvinner var juridisk umyndige, det var mannen som rådde i økonomiske spørsmål. Han hadde også rett til å avgjere korleis barna skulle oppsedast, og kvar familien skulle bu. Lova stadfesta at kvinner vart rekna som store barn, ikkje som vaksne. 
 
   h5 Gengangere
+
+  figure.col.col6.right-image
+   img(src='./ibsen_Kristisk_realisme_og_det_moderne_gjennombruddet1.jpg' alt='')
+   figcaption Fru Alving spelt av Marit Østbye i Riksteatret si oppsetjing av  Gengangere. Foto: Lise Åse-rud / Scanpix
+
   p I Gengangere møter vi fru Alving, som mange ser på som motstykket til Nora. Fru Alving er kvinna som har halde ut i eit ekteskap der fasade var viktigare enn kjærleik, omsorg og sanning. Ektemannen hennar er død, men framleis jobbar ho hardt for å skjule sanninga om livet han førte. Først da sonen kjem heim sjuk av syfilis – ein arv etter det utsvevande livet til faren – raknar alt. Barneheimen ho har bygd i mannens namn, brenn ned, og til sist hjelper ho sonen med å ta livet sitt.
 
   p Skodespelet vart slakta i pressa – somme samanlikna det med «en åpen kloakk». I Gengangere spelar arv og miljø ei sentral rolle, her finst ikkje lenger noka tru på at menneska kan søkje fridom. Fru Alving finn ikkje vegen ut slik Nora gjorde. 
@@ -48,12 +73,21 @@ PageBook
   p Andre kjende drama frå denne perioden er Fruen fra havet (1888), Hedda Gabler (1890), Byggmester Solness (1892) og Når vi døde vågner (1899). 
 
   h3 Hedda Gabler – ei moderne kvinne
+
+  figure.col.col6.right-image.mt5
+   img(src='./ibsen_Hedda_Gabler1.jpg' alt='')
+   figcaption Fleirkulturell Hedda Gabler på Riksteateret. Norsk-indiske Lavleen Kaur spelar Hedda, norsk-pakistanske Assad Siddique spelar Eilert Løvborg.  Foto: Tor G. Stenersen / Scanpix
+
   p Hedda Gabler, hovudpersonen i dramaet med same tittelen, er på mange måtar eit eksempel på ei moderne kvinne. Ho er ei av dei mest mystiske kvinnene hos Ibsen, vakker og omsverma, kravstor og eigenrådig, men også eit offer for konvensjonane i samtida og for eigne ideal.
   h5 Personane rundt Hedda 
   p Far til Hedda var general, og rang og status er viktig for henne. Mora får vi ikkje vite noko om, men det er tydeleg at Hedda har vakse opp i eit maskulint miljø. Mellom anna har ho to pistolar etter far sin som ho har lært å bruke. Faren har ikkje etterlate Hedda nokon arv, og sidan ho er ei kvinne frå overklassen, er vegen til ein yrkeskarriere stengd. Ho gifter seg med Jørgen Tesman for å sikre seg den posisjonen og levestandarden ho vil ha. Planen er at Tesman skal gjere karriere på universitetet. Han er ein snill og veik mann – ein tøffelhelt, synest Hedda, som ikkje elskar mannen sin. To andre menn er òg sentrale i stykket. Den eine er Ejlert Løvborg, ein tidlegare flamme hos Hedda og kanskje den ho kjenner størst indre slektskap med. Den andre mannen er husvennen, assessor Brack.
   
-  h3 Handlinga
+  h5 Handlinga
   p Hedda og Jørgen Tesman er heime att etter ei lang bryllaupsreise. Hedda kjedar seg, for Tesman er berre oppteken av oppgåva han skriv på. Denne oppgåva kan gi Tesman ei stilling på universitetet. Men så får ekteparet Tesman vite at Ejlert Løvborg er ein sterk kandidat og konkurrent til stillinga, og Tesman blir uroleg. Løvborg har tidlegare hatt eit alkoholproblem, men dei siste åra har han budd utanbys og greidd å halde seg unna alkoholen. Han har dessutan gitt ut ei bok som har vorte godt motteken, og eit nytt manuskript er alt ferdig. I arbeidet sitt har han fått hjelp av Thea Elvsted, som er forelska i han og reiser etter han til byen. 
+
+  figure.col.col6.right-image.mt5
+   img(src='./ibsen_Hedda_Gabler2.jpg' alt='')
+   figcaption Hangzhou Yue Opera framførte sin versjon av  Hedda Gabler under åpninga av Ibsen-året 2006. Foto: Jarl Fr. Erichsen / Scanpix
 
   p Løvborg kjem på besøk til Tesmans, og det oppstår spenningar mellom han og Hedda. Hedda er sjalu på forholdet mellom Løvborg og fru Elvsted og på samarbeidet deira om manuskriptet. Ho provoserer Løvborg til å slå følgje med Tesman og nokre andre som skal ut på byen.
 
@@ -71,6 +105,10 @@ PageBook
   p Både i samtida og seinare har ein fokusert mykje på Ibsen som ein realistisk forfattar som sette problema under debatt. Men med Hedda Gabler og dei andre stykka frå 1890-åra peiker Ibsen i større grad fram mot eit meir modernistisk teater. Han set mellom anna søkjelyset på fleire av problemstillingane ved modernismen, som opplevinga av meiningstap og isolasjon, av framandgjering og identitetsløyse.
 
   h3 Ibsen i dag
+  figure.col.col6.left-image.mt5
+   img(src='./ibsen_Ibsen_i_dag.jpg' alt='')
+   figcaption Tidligare kultur- og kyrkjeminister Trond Giske ved eit portrett av Henrik Ibsen. Foto: Lise Åserud / Scanpix
+
   p Nest etter Shakespeare er Henrik Ibsen den mest spela dramatikaren i verda. Nora, Hedda, Peer Gynt og Hedvig blir tolka av kinesiske, brasilianske, russiske og indiske skodespelarar, for å nemne nokon. Men kvifor alt engasjementet rundt Ibsen? Kva er det som gjer at han framleis er så aktuell? 
 
   p For det første tok Ibsen opp tema som er allmennmenneskelege. For det andre handlar Ibsens samtidsdrama om spørsmål som framleis er aktuelle og til dels kontroversielle, trass i at handlinga i desse stykka er lagd til overklassemiljø i Kristiania på slutten av 1800-talet. Nora i Et Dukkehjem inspirerer kvinner i ulike kulturar i dag, kulturar der jamstillinga for kvinner ikkje er komen like langt som i Noreg. Gengangere handlar om tema som utruskap, kjønnssjukdommar og aktiv dødshjelp – tema som også i dag er kontroversielle. Og i Hedda Gabler tek Ibsen opp forholdet mellom kjønna og søkinga etter identitet, i tillegg til framandgjering og meiningstap. Dette er emne som aldri går ut på dato. 

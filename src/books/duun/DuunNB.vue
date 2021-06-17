@@ -11,6 +11,8 @@ PageBook
   p Både her i landet og i de fleste andre land i Europa var det stor interesse for historisk, episk diktning. Olav Duun gav ut bokserien om Juvikfolke. Samtidig kom Sigrid Undset med trilogien om Kristin Lavransdatter, og Johan Falkberget lanserte sine historiske romaner med handling fra Røros. 
   
   h3 Folkelivsskildring og talespråk 
+
+  img.col.col6.left-image.mt5(src='./Duun.jpg' alt='')
   p Den nye forfattergenerasjonen kom fra ulike deler av landet og fra ulike samfunnslag. De var bergmenn og bønder, fiskere og industriarbeidere. Et felles tema i bøkene er at de handler om konflikten mellom enkeltmennesket og fellesskapet. 
 
   p Olav Duun kom fra Namdalen i Trøndelag og var fisker fram til han som 25-åring begynte med lærerutdanning. Han arbeidet først noen år som lærer i Trøndelag og flyttet deretter til Holmestrand i Vestfold, der han underviste fram til 1927. 
@@ -27,6 +29,8 @@ PageBook
   p Juvikfolke regnes som et storverk i norsk litteratur. Det har episk kraft og mangfold, og Duun viser stor bredde og innsikt gjennom sine skildringer av folk, miljø og kulturhistoriske utviklingslinjer. Det er sagt om romanserien at den kan tolkes som et møte mellom gammel tid og moderne samfunnsforståelse. 
   
   h3 Medmenneske 
+  img.col.col6.right-image.mt5(src='./Duun_Medmenneske.jpg' alt='')
+
   p Det neste høydepunktet i forfatterskapet er Medmenneske, en roman fra 1929. Boka er første bind i trilogien om Ragnhild, som også omfatter bøkene Ragnhild (1930) og Siste leveåre (1931). 
 
   p Hovedtemaet i Medmenneske er ondskapen i mennesket og hva som kan stilles opp mot det onde. Motsetningene i romanen er den gode Ragnhild og svigerfaren Didrik, som representerer ondskapen selv. Det er en lang og ondsinnet konflikt mellom Ragnhilds mann Håkon og svigerfaren, og denne konflikten ender med en katastrofe, for Ragnhild dreper svigerfaren. 
