@@ -12,26 +12,32 @@ PageBook(:showAuthor="false")
 
   p Dei tre mest kjende dikta frå Den eldre Edda er «Voluspå», «Trymskvida» og «Håvamål».
 
-  figure.col.col6.m-center.mt40
-    img(src="./Edda_Faeroeyene.jpg")
-    figcaption Her er volva framstilt på eit frimerke frå Færøyane.
+  ImageTextBlock.mt5(
+    :image="require(`./Edda_Faeroeyene.jpg`)"
+    :imageColumns="4"
+    imageCaption="Her er volva framstilt på eit frimerke frå Færøyane."
+    altText=""
+    )
+    h3 «Voluspå»
+    p «Voluspå» er eit gudedikt om skapinga av jorda, kva som fører til jordas undergang og om sjølve undergangen, som blir kalla ragnarok. Det er ei spåkvinne (volve) som snakkar til oss gjennom diktet.
 
-  h3 «Voluspå»
-  p «Voluspå» er eit gudedikt om skapinga av jorda, kva som fører til jordas undergang og om sjølve undergangen, som blir kalla ragnarok. Det er ei spåkvinne (volve) som snakkar til oss gjennom diktet.
+  
 
-  figure.col.col6.m-center.mt40
-    img(src="./Edda_Tor_strir_med_jotnene.jpg")
-    figcaption «Tor strir med jotnane», eit målarstykke av Mårten Eskil Winge
+  ImageTextBlock.mt5(
+    :image="require(`./Edda_Tor_strir_med_jotnene.jpg`)"
+    :imageColumns="4"
+    imageCaption="«Tor strir med jotnane», eit målarstykke av Mårten Eskil Winge"
+    altText=""
+    )
+    h3 «Trymskvida»
+    p «Trymskvida» er eit gudedikt som handlar om jotunen Trym som stel hammaren til Tor. Tor må ha hjelp av den listige Loke for å få hammaren igjen. Hammaren er både eit forsvarsvåpen og eit fruktbarheitssymbol for æsene, derfor er det særs viktig for Tor å få han tilbake. Men trass i at gudane altså må løyse eit alvorleg problem, er handlinga skildra med mykje humor.
 
-  h3 «Trymskvida»
-  p «Trymskvida» er eit gudedikt som handlar om jotunen Trym som stel hammaren til Tor. Tor må ha hjelp av den listige Loke for å få hammaren igjen. Hammaren er både eit forsvarsvåpen og eit fruktbarheitssymbol for æsene, derfor er det særs viktig for Tor å få han tilbake. Men trass i at gudane altså må løyse eit alvorleg problem, er handlinga skildra med mykje humor.
-
+  figure.col.col6.right-image.mt5
+    img(src="./Edda_Haavamaal.jpg")
+    figcaption Vatn og handduk han ventar å få, 
   h3 «Håvamål»
   p «Håvamål» tyder «den høges tale», det vil seie at det er Odin som taler. «Håvamål» er på mange måtar eit læredikt, og det er Odin som gir råd og livsvisdom til menneska i eit samfunn som er fylt av fiendskap og farar.
 
-  figure.col.col6.m-center.mt40
-    img(src="./Edda_Haavamaal.jpg")
-    figcaption Vatn og handduk han ventar å få, 
 
   p Råda vi får gjennom «Håvamål» kan verke kyniske. Det gjeld ikkje berre å vere ein lojal og god venn, ein skal også vere listig og lur. Det er viktig å stole på eiga dømmekraft i eit samfunn med mange farar. Å lite på andre er det berre toskar som gjer. Dikta formidlar ein heidensk nyttemoral.
 
@@ -98,11 +104,13 @@ PageBook(:showAuthor="false")
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import ImageTextBlock from "@/components/ImageTextBlock";
 
 export default {
   name: "Book",
   inject: ["globalVars"],
   components: {
+    ImageTextBlock,
     NdlaAudio,
     NdlaVideo,
     PageBook,

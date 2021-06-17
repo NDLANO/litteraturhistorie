@@ -2,21 +2,34 @@
 PageBook
   h3 Ein omstridd mann
 
+  img.col.col4.left-image.mt5(src='./Hamsun_En_omstridt_mann.jpg' alt='')
   p Knut Hamsun (1859–1952) var ein omstridd mann, både som forfattar, kritikar og samfunnsaktør. Han skreiv nokre av dei mest elska klassikarane i norsk litteratur. Men samstundes hadde Hamsun tydelege sympatiar for ein av dei mest menneskefiendslege ideologiane på 1900-talet – nazismen. Hamsun er derfor ein person det er vanskeleg å vere likegyldig til. Det storma rundt han mens han levde, og det stormar til tider rundt han også i dag.
 
   h5 Oppvekst 
   p Knut Hamsun, eller Knud Pedersen som han vart døypt, var fødd i Gudbrandsdalen i 1859. Da han var tre år, flytte familien til garden Hamsund på Hamarøy i Nordland. Etter konfirmasjonen arbeidde han først som butikkekspeditør, deretter levde han i fleire år eit nokså omflakkande liv.
 
   h5 USA-opphald
+
+  figure.col.col4.left-image.mt20
+   img(src='./Hamsun_USA-opphold.jpg' alt='')
+   figcaption Hamsun som sporvogns­konduktør i Chicago under det første opphaldet sitt i USA i 1884.
   p I 1880-åra budde Hamsun i lengre tid i USA og livnærte seg av ulike strøjobbar. I utgangspunktet var han fascinert av amerikanske idear om likskap og fridom, men da han kom heim frå USA, var han utan illusjonar. USA var øydelagt av kapitalismen, meinte han. Det var pengane som styrte, ikkje folket. I 1889 gav han ut Fra det moderne Amerikas Aandsliv, ei samling tekstar der han nettopp kritiserte levesettet, politikken og verdiane til amerikanarane. I boka viser han også sterke sympatiar for anarkistiske tankar. 
+
+  .clear
   h5 Mot modernisering og demokrati
   p For Hamsun kom USA – og etter kvart England – til å representere ein kultur han avskydde. Hamsun reagerte sterkt på den britiske imperialismen, og motviljen mot England vart styrkt under boarkrigen (1899–1902), der britane brutalt nedkjempa boarane i Sør-Afrika for å sikre seg retten til gull- og diamantførekomstar. Hamsun vart òg meir og meir kritisk til moderniseringa av samfunnet i det heile, og han hadde ikkje mykje til overs for folkestyret. I staden dyrka han naturen og det gamle bondesamfunnet, og han ville finne tilbake til førmoderne og førindustrielle verdiar.
 
   h5 Beundring for Tyskland
+
+  figure.col.col6.right-image.mt20
+   img(src='./Hamsun_Fornebu.jpg' alt='')
+   figcaption Knut Hamsun blir mottatt på Fornebu av rikskommissær Josef Terboven i 1943.
   p Det fanst likevel ein nasjon som representerte eit åndsliv og eit samfunnssyn Hamsun kunne identifisere seg med: Tyskland. I hans auge var Tyskland ein ung nasjon med framtida framfor seg. Og tyskarane tok vel imot Hamsun også. For eksempel kom romanen Sult ut på tysk alt i 1891, berre eitt år etter den norske utgåva. Hamsun fekk etter kvart eit stort og trufast tysk publikum.
+
 
   p Da nazistane kom til makta i Tyskland i 1933, var Hamsun alt ein gammal mann på over sytti år. Samfunnssynet og verdiane hans samsvara mykje med ideane til nazistane. Han støtta Tyskland offentleg, også etter at tyskarane hadde invadert Noreg i 1940. Etter Hitlers sjølvmord i 1945 skreiv han jamvel ein rosande nekrolog om diktatoren. 
 
+  img.col.col6.right-image.mt5(src='./Hamsun_Nazismen.jpg' alt='')
   p Støtta til nazismen skapte store problem for Hamsun personleg og for ryktet hans som forfattar. Etter krigen vart han stilt for retten og dømd til å betale ei veldig bot. I tillegg fekk han diagnosen «varig svekkede sjelsevner». Hamsun endra aldri syn, og da han døydde i 1952, var han på mange måtar ein hata mann. Røynslene frå krigen var vonde for mange, og det var forkasteleg å ha hatt sympatiar med nazismen.
 
   h5 Hamsun i dag
@@ -41,6 +54,8 @@ PageBook
   p Romanen har lite ytre handling, og Hamsun bryt med idealet om ei utvikling av handlinga eller av karakteren. Sult er ingen psykologisk utviklingsroman, men eit djupdykk i psyken til eit moderne menneske.
 
   h3 Pan – den nyromantiske helten
+
+  img.col.col6.right-image.mt5(src='./Hamsun_Pan.jpg' alt='')
   p Hamsuns roman Pan frå 1894 er eit sentralt verk i den nyromantiske perioden. Hovudpersonen i boka er løytnant Thomas Glahn. Vi møter han «en nordlandssommer» i 1855. Glahn leiger ei jakthytte og bur der i lag med hunden sin, Esop. Han er ein typisk nyromantisk helt, rastlaus, kjenslevar og irrasjonell. Han søkjer ro i naturen fordi han ikkje kjenner seg heime i sivilisasjonen og det moderne bylivet.
 
   p Men ikkje langt frå hytta ligg tettstaden Sirilund. Her bur mellom anna Edvarda, dotter til den rike handelsmannen Mack. Glahn blir forelska i Edvarda, men to faktorar gjer kjærleiken deira umogleg: Edvarda er like kjenslevar og irrasjonell som Glahn, og ho representerer det siviliserte livet som Glahn ikkje meistrar. Glahn finn erotisk trøyst hos to andre kvinner, men romanen endar tragisk. I ein epilog datert 1861 får vi vite at Glahn døyr. Han har levd eit sjølvdestruktivt liv ein stad i Afrika og blir skoten i ei «jaktulykke».
@@ -51,8 +66,11 @@ PageBook
 
   h3 Språk og forteljemåte i Pan
 
+  img.col.col12(src='./Hamsun_Spraak_og_fortellermaate_i_Pan.jpg' alt='')
   h5 Prosalyrisk stil
   p Framstillinga i Pan er prega av mange prosalyriske skildringar, det vil seie skildringar med sterke lyriske innslag. Særleg i avsnitt der Hamsun skildrar naturen og lèt seg inspirere av mytar, nyttar han mange verkemiddel på ein måte vi er mest vane med frå lyrikken: rytme, allitterasjon, gjentakingar og biletbruk får ein dominerande funksjon. Dei framhevar den subjektive, sanselege og ekstatiske stemninga som hovudpersonen opplever i naturen. Nokre av dei vakraste avsnitta i romanen gjeld skildringane av nordlandssommaren, midnattssola, havet og skogen.
+
+  img.col.col12(src='./Hamsun_Nyrealisme.jpg' alt='')
   
   h5 Eg-forteljing
   p Pan er ei førstepersonsforteljing, med hovudpersonen Glahn som forteljar. Eg-forma høver svært godt når forfattaren vil skildre «det ubevidste Sjæleliv» til ein person. Eg-forma gir lesaren direkte tilgang til tankane og kjenslene til forteljaren, slik at vi får med oss dei til tider irrasjonelle og brå endringane i sinnet hans.
@@ -62,10 +80,10 @@ PageBook
 
   p Knut Hamsun var ein av dei forfattarane som no endra skrivestil. Mens han i 1890-åra var ein av dei sterkaste kritikarane av realismen og kjempa for ein meir psykologisk litteratur, skriv han på 1900-talet fleire romanar i eit realistisk språk. Mest kjend av desse romanane er Markens Grøde frå 1917. Det er denne romanen som også gav han nobelprisen i litteratur i 1920.
 
+  img.col.col6.right-image.mt5(src='./Hamsun_Markens_Groede.jpg' alt='')
   p Markens Grøde er kalla «jordbrukets evangelium». Romanen forkynner ein bodskap om sjølvberging som ideal, og namna på mange av karakterane er henta frå Bibelen. Hovudpersonen i romanen er bonden Isak Sellanraa, ein handlekraftig slitar som byggjer opp garden sin frå grunnen av. Isak kjem seg fram i verda gjennom hardt arbeid, ikkje gjennom intellektuelle kvalitetar. Han blir òg verande tru mot levemåten han har valt, same kva som skjer rundt han.
 
   p Vi kan seie at Hamsun her illustrerer konflikten mellom natur og sivilisasjon, som vi kjenner frå nyromantikken, på ein ny måte. I Markens Grøde vender han attende til ein meir realistisk forteljemåte, utan dei komplekse psykologiske portretta vi kjenner frå 1890-åra.
-
 
 
 </template>

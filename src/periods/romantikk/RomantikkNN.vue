@@ -63,7 +63,7 @@ PagePeriod(
 
   h3 Nasjonalromantikken
 
-  figure
+  figure.col.col6.left-image.mt10
     img(src="./Romantikk_Nasjonalromantikken.jpg" alt="J.C. Dahl:”Bjerk i storm” (1849). Eit symbol på den norske folkekarakteren?")
     figcaption J.C. Dahl:”Bjerk i storm” (1849). Eit symbol på den norske folkekarakteren?
 
@@ -104,7 +104,7 @@ PagePeriod(
   p
     | Eit stev er eit kort dikt som kan syngjast. Stevet formidlar gjerne ein livsvisdom eller ei stemning, men det kan òg skildre kjærleik, natur eller ei spesiell hending. Somme stev har humoristisk eller erotisk innhald. 
 
-  figure
+  figure.col.col6.left-image.mt10
     img(src="./Romantikk_Litteraturen3.jpg" alt="H.C. Andersen fortel eventyr")    
     figcaption H.C. Andersen fortel eventyr
   h5 Kunsteventyret
@@ -144,23 +144,35 @@ PagePeriod(
 
   h3 Biletkunsten og musikken
 
-  figure
-    img(src="./Romantikk_Bildekunsten_og_musikken1.jpg" alt="")
-    figcaption Caspar David Friedrich: ”Der Wanderer über dem Nebelmeer” (1818)
+  ImageTextBlock(
+    :image="require(`./Romantikk_Bildekunsten_og_musikken1.jpg`)"
+    imageColumns="4"
+    imageCaption="”Caspar David Friedrich: ”Der Wanderer über dem Nebelmeer” (1818)"
+    altText=""
+    )
+    h5 Målarkunsten
+    p
+      | Dei romantiske målarane er opptekne av den ville, urørte naturen. Landskapet kan framstå som utilgjengeleg for menneske, og har dramatiske, eksotiske og mytiske trekk som vi i dag kjenner frå dataspel og fantasyfilm. Denne naturen kan ofte ha ei symbolsk meining. Landskapet speglar sjelelivet, og kunstnaren blir ofte skildra som einsam og opphøgd.
 
-  h5 Målarkunsten
-  p
-    | Dei romantiske målarane er opptekne av den ville, urørte naturen. Landskapet kan framstå som utilgjengeleg for menneske, og har dramatiske, eksotiske og mytiske trekk som vi i dag kjenner frå dataspel og fantasyfilm. Denne naturen kan ofte ha ei symbolsk meining. Landskapet speglar sjelelivet, og kunstnaren blir ofte skildra som einsam og opphøgd.
+  ImageTextBlock(
+    :image="require(`./Romantikk_Bildekunsten_og_musikken2.jpg`)"
+    imageColumns="4"
+    imageCaption="”Brudefærden i Hardanger” måla av Adolph Tidemand og Hans Gude i 1848"
+    altText=""
+    )
+    h5 Nasjonalromantikken i målarkunsten
+    p
+      | Nasjonalromantikken kjem òg til uttrykk gjennom målarkunsten. J.C. Dahl og Tidemand og Gude målar norske landskap og menneske i harmoni slik ingen har gjort det tidlegare. ”Brudefærden i Hardanger” står framleis som eit av dei sterkaste symbola på norsk nasjonalromantikk.
 
-  .flex.flex-wrap
-    .col.col4
-      figure.figure-left
-        img(src="./Romantikk_Bildekunsten_og_musikken2.jpg" alt="”Brudefærden i Hardanger” måla av Adolph Tidemand og Hans Gude i 1848")
-        figcaption ”Brudefærden i Hardanger” måla av Adolph Tidemand og Hans Gude i 1848
-    .col.col8
-      h5 Nasjonalromantikken i målarkunsten
-      p
-        | Nasjonalromantikken kjem òg til uttrykk gjennom målarkunsten. J.C. Dahl og Tidemand og Gude målar norske landskap og menneske i harmoni slik ingen har gjort det tidlegare. ”Brudefærden i Hardanger” står framleis som eit av dei sterkaste symbola på norsk nasjonalromantikk.
+  //- .flex.flex-wrap
+  //-   .col.col4
+  //-     figure.figure-left
+  //-       img(src="./Romantikk_Bildekunsten_og_musikken2.jpg" alt="”Brudefærden i Hardanger” måla av Adolph Tidemand og Hans Gude i 1848")
+  //-       figcaption ”Brudefærden i Hardanger” måla av Adolph Tidemand og Hans Gude i 1848
+  //-   .col.col8
+  //-     h5 Nasjonalromantikken i målarkunsten
+  //-     p
+  //-       | Nasjonalromantikken kjem òg til uttrykk gjennom målarkunsten. J.C. Dahl og Tidemand og Gude målar norske landskap og menneske i harmoni slik ingen har gjort det tidlegare. ”Brudefærden i Hardanger” står framleis som eit av dei sterkaste symbola på norsk nasjonalromantikk.
 
   figure.col.col7.right-image
     img(src="./Romantikk_Bildekunsten_og_musikken3.jpg" alt="Beethoven komponerer ”Pastoralesymfonien” (symfoni nr. 6). Illustrasjon frå “Almanach der Musikgesellschaft”, Zürich 1834")
@@ -173,14 +185,14 @@ PagePeriod(
   p
     | Songar eller ”Lieder” er ein musikksjanger som høyrer romantikken til. Franz Schubert (1797–1828) og Robert Schumann (1810–1856) er to av dei mest kjende komponistane som har skapt musikk i denne sjangeren. Også Edvard Grieg (1843–1907) har seinare skapt songar til tekstar av Goethe, Heine og ikkje minst Arne Garborg. Andre kjende romantiske komponistar er Frédéric Chopin, Pjotr I. Tsjaikovskij og Richard Wagner.
 
-  .flex
-    figure.col.col4.m1rem
+  .flex.portraits
+    figure.col.col4.p5
       img(src="./Romantikk_Bildekunsten_og_musikken4.jpg" alt="Franz Schubert")
       figcaption Franz Schubert
-    figure.col.col4.m1rem
+    figure.col.col4.p5
       img(src="./Romantikk_Bildekunsten_og_musikken5.jpg" alt="Robert Schumann")
       figcaption Robert Schumann
-    figure.col.col4.m1rem
+    figure.col.col4.p5
       img(src="./Romantikk_Bildekunsten_og_musikken6.jpg" alt="Edvard Grieg")
       figcaption Edvard Grieg
 
@@ -192,13 +204,22 @@ PagePeriod(
 import PagePeriod from "@/components/PagePeriod";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import ImageTextBlock from "@/components/ImageTextBlock";
 
 export default {
   name: "Book",
   components: {
+    ImageTextBlock,
     NdlaAudio,
     NdlaVideo,
     PagePeriod,
   },
 };
 </script>
+
+<style lang="scss" scoped>
+.portraits img {
+  height: 200px;
+  object-fit: cover;
+}
+</style>

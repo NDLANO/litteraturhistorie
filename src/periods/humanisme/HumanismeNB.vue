@@ -8,8 +8,8 @@ PagePeriod(
   h3 Tida og samfunnsforholdene 
 
   figure.col.col6.left-image
-    img(src="./Humanisme_Tida_og_samfunnsforholdene1.jpg" alt="Prest, riddar og bonde, de berende stendene i det føydale samfunnet")
-    figcaption Prest, riddar og bonde, de berende stendene i det føydale samfunnet
+    img(src="./Humanisme_Tida_og_samfunnsforholdene1.jpg" alt="")
+    figcaption Prest, ridder og bonde, de bærende stendene i det føydale samfunnet
 
   h5 Menneskesynet i middelalderen 
   p
@@ -26,7 +26,7 @@ PagePeriod(
 
   h5 Fra stormakt til katastrofe 
   figure.col.col6.right-image
-    img(src="./Humanisme_Tida-og-samfunnsforholdene2.jpg" alt="”Pesten i trappa”. Tegning av Theodor Kittelsen")
+    img(src="./Humanisme_Tida-og-samfunnsforholdene2.jpg" alt="")
     figcaption ”Pesten i trappa”. Tegning av Theodor Kittelsen
   p
     | På 1200-tallet er Norge en stormakt, men på 1300-tallet opplever landet en katastrofal nedgangstid. I 1349 kommer svartedauden til landet, og rundt to tredeler av folket stryker med. Det skal gå flere hundre år før folketallet kommer opp på samme nivå som før pesten brøt ut. 
@@ -36,8 +36,8 @@ PagePeriod(
     | Etter svartedauden ligger det meste nede her i landet, men i Italia starter en ny utvikling. Der blomstrer handelen opp, og kjøpmennene kommer i kontakt med andre land og kulturer. Handelsborgerne i byene blir en viktig samfunnsgruppe, og jordeierne mister dermed noe avmakta. Med økt handel får også pengeøkonomien etter hvert større plass.
 
 
+  img.col.col6.mt5.right-image(src="./Humanisme_Tida-og-samfunnsforholdene3.jpg" alt="")
   h5 Boktrykkerkunsten – en ny tid
-  img.left-image(src="./Humanisme_Tida-og-samfunnsforholdene3.jpg")
   p.mt0
     | Johann Gutenberg (1397–1468) regnes som opphavsmann til boktrykkerkunsten. Han konstruerte en presse og blybokstaver til å trykke med. Den første boka til Gutenberg var en bibel som kom ut på midten av 1400-tallet. Den første ukeavisa ble trykt og utgitt i Strasbourg i 1609. Det første trykkeriet i Norge ble åpnet i 1643. 
 
@@ -45,9 +45,10 @@ PagePeriod(
   p
     | er en av de første dikterne i middelalderen som skriver på morsmålet i stedet for latin. I Den guddommelige komedie skildrer han sin egen (tenkte) reise gjennom helvete, skjærsild og til slutt paradiset. Samtidig fletter han inn tanker om både religion, filosofi, vitenskap og politikk. 
 
+
   h3 Tanker i tida 
-  figure.left-image
-    img(src="./Humanisme_Tanker_i_tida1.jpg" alt="”Mona Lisa” av Leonardo da Vinci")
+  figure.col.col6.left-image.mt5
+    img(src="./Humanisme_Tanker_i_tida1.jpg" alt="")
     figcaption ”Mona Lisa” av Leonardo da Vinci
 
   h5 Renessansen
@@ -58,27 +59,27 @@ PagePeriod(
   p
     | Det oppstod også en sterk interesse for gresk og romersk språk og litteratur, og dessuten for historie og filosofi. Denne delen av renessansen kalles humanisme. Humanismen hadde også sitt utspring i Italia på 1300-tallet. Nord for Alpene fikk ikke humanismen gjennomslag før omkring år 1500. En framstående representant for humanismen var Leonardo da Vinci (1452–1519). Han var både vitenskapsmann og kunstner.
 
-  h5 Et nytt menneskesyn 
-  figure.col.col4.left-image
-    img(src="./Humanisme_Tanker_i_tida2.jpg" alt="Copernicus med det nye bildet av universet, maleri av Jan Matejko")
-    figcaption Copernicus med det nye biletet av universet, måleri av Jan Matejko
-  p
-    | Synet på mennesket endret seg. Gjennom hele middelalderen orienterte menneskene seg mot Gud og livet etter døden. Med renessansen kom mennesket selv og det jordiske livet i fokus. 
+  div.mb60
+    figure.col.col4.left-image
+      img(src="./Humanisme_Tanker_i_tida2.jpg" alt="")
+      figcaption Copernicus med det nye bildet av universet, maleri av Jan Matejko
+    p
+      | Synet på mennesket endret seg. Gjennom hele middelalderen orienterte menneskene seg mot Gud og livet etter døden. Med renessansen kom mennesket selv og det jordiske livet i fokus. 
 
-  h5 Store oppdagelser 
-  p
-    | Det ble gjort store oppdagelser, som for eksempel at jorda er rund, og at planetene går i bane rundt sola. Copernicus påviste at sola står i sentrum av universet, og Galileo Galilei kom fram til at universet er uendelig. 
+    h5 Store oppdagelser 
+    p
+      | Det ble gjort store oppdagelser, som for eksempel at jorda er rund, og at planetene går i bane rundt sola. Copernicus påviste at sola står i sentrum av universet, og Galileo Galilei kom fram til at universet er uendelig. 
 
-  h5 En ny tenkemåte 
-  p
-    | Slike oppdagelser gjorde at mange tok til å tenke mer kritisk enn de hadde gjort før, og det vokste fram en tro på at mennesket var et tenkende og selvstendig individ. Med andre ord: Troen på mennesket som et skapende individ var i ferd med å få fast grunn.
+    h5 En ny tenkemåte 
+    p
+      | Slike oppdagelser gjorde at mange tok til å tenke mer kritisk enn de hadde gjort før, og det vokste fram en tro på at mennesket var et tenkende og selvstendig individ. Med andre ord: Troen på mennesket som et skapende individ var i ferd med å få fast grunn.
 
   h5 Reformasjonen. Avlatshandelen blir truet 
   p
     | Kirken var en rik institusjon som i hele middelalderen bare økte rikdommen gjennom gaver og skatter. Avlatshandelen var en viktig inntektskilde. Avlat gikk ut på at folk kunne kjøpe seg fri fra synd. Dersom en betalte en viss sum til en munk eller en prest, kunne vedkommende på Guds vegne tilgi all synd. 
-  figure.col.col4.right-image
-    img(src="./Humanisme_Tanker_i_tida3.jpg" alt="Martin Luther malt av Lucas Cranach i 1529")
-    figcaption Martin Luther måla av Lucas Cranach i 1529
+  figure.col.col4.right-image.mt20
+    img(src="./Humanisme_Tanker_i_tida3.jpg" alt="")
+    figcaption Martin Luther malt av Lucas Cranach i 1529
 
   h5 En modig opprører 
   p
@@ -87,8 +88,8 @@ PagePeriod(
   h3 Litteraturen  
 
   figure
-    img(src="./Humanisme_Litteraturen.jpg" alt="Det er Bergen som er storbyen og hovedstad i Norge på 1500-talet. Scholeus-stikket fra 1580 er et av de eldste bildene fra Bergen.")
-    figcaption Det er Bergen som er storbyen og hovedstad i Norge på 1500-talet. Scholeus-stikket fra 1580 er et av de eldste bildene fra Bergen.
+    img(src="./Humanisme_Litteraturen.jpg" alt="")
+    figcaption Det er Bergen som er storbyen og hovedstad i Norge på 1500-tallet. Scholeus-stikket fra 1580 er et av de eldste bildene fra Bergen
 
   h5 Impulsene fra sør når ikke fram 
   p
@@ -113,7 +114,7 @@ PagePeriod(
   h3 Språket  
 
   figure
-    img(src="./Humanisme_Spraaket.jpg" alt="Diplomatarium Norvegicum: En side av et brev fra dronning Margrete til kong Håkon 6.")
+    img(src="./Humanisme_Spraaket.jpg" alt="")
     figcaption Diplomatarium Norvegicum: En side av et brev fra dronning Margrete til kong Håkon 6.
 
   h5 Norrønt skriftspråk går til grunne 

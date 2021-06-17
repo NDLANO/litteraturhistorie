@@ -4,7 +4,7 @@
     figure.figure-left.mt5
       img(:src="image" :alt="altText")
       figcaption(v-if="imageCaption !== ''") {{ imageCaption }}
-  .col(:class="'col' + textWidth")
+  .image-text-block__text.col(:class="'col' + textWidth")
     slot
 </template>
 
@@ -50,5 +50,14 @@ export default {
 <style lang="scss" scoped>
 img {
   width: 100%;
+}
+</style>
+<style lang="scss">
+.image-text-block__text {
+  & > h3:first-child,
+  & > h5:first-child,
+  & > p:first-child {
+    margin-top: 0;
+  }
 }
 </style>

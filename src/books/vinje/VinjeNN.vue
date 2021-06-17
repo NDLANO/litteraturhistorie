@@ -1,6 +1,8 @@
 <template lang="pug">
 PageBook
   h3 Journalist og lyrikar Aasmund Olavsson Vinje (1818–1870) 
+
+  img.col.col6.left-image.mt5(src='./Vinje_Journalist_og_lyriker.jpg' alt='')
   p Aamund Olavsson Vinje voks opp i enkle kår i Vinje i Vest-Telemark. Faren var interessert i litteratur, og den unge Aasmund las alt han kom over. Han arbeidde som omgangsskulelærar i fleire år, først i heimfylket Telemark, seinare på Sørlandet.
 
   p Frå 1848 skreiv han for Morgenbladet, samstundes som han fekk plass på Heltbergs «studentfabrikk». Siste året på studentfabrikken gjekk han saman med Bjørnstjerne Bjørnson og Henrik Ibsen. Vinje tok examen artium og deretter juridisk embetseksamen. I tillegg studerte han norrønt språk. 
@@ -12,16 +14,24 @@ PageBook
   p Vinje var ikkje berre journalist, men også lyrikar. I dag er det dikta hans på landsmål vi kjenner best, enda han også skreiv dikt på dansk. Dei fleste dikta stod først i Dølen og vart seinare samla i eigne bøker.
 
   h3 Politikk og folkeopplysning 
+
+  img.col.col12(src='./Vinje_Politikk_og_folkeopplysning.jpg' alt='')
   p Mellom 1843 og 1848 var Vinje lærar på borgarskulen i Mandal. Her vart han kjend med bondeføraren Søren Jaabæk, som saman med Johan Sverdrup la grunnlaget for partiet Venstre. Jaabæk vekte den politiske interessa hos den unge telemarkingen, og Vinje tok til å skrive innlegg i aviser, både lokalt og sentralt. Frå no av var han sterkt oppteken av politikk og samfunnstilhøve, og ikkje minst av moderniseringa som den tekniske utviklinga førte med seg. 
 
   p Gjennom heile livet var folkeopplysning og arbeidet for danning og utdanning eit viktig mål for Vinje. Han ville få folk til å tenkje kritisk og gjere seg opp sjølvstendige meiningar. I ein av avisartiklane sine frå tida i Drammens Tidende skreiv han: «Sandheden er ikke noget fixt og færdigt, men en Proces, noget flydende. Det er alene grovslagne Mennesker som vil tage Sandheden og putte den i Lommen.» Denne kritiske grunnhaldninga til etablerte sanningar og vanetenking prega også heile det journalistiske arbeidet hans. 
 
   h3 Kritisk journalist med tvisyn
+
+  figure.col.col6.right-image
+   img(src='./Vinje_Kritisk_journalist_med_tvisyn.jpg' alt='')
+   figcaption Ein karikatur av Vinje i bladet Vikingen (1865), med over skrifta «Hva der bliver av norske Forfattere». Vinje hadde på den tida ei stilling som ekstraskrivar i Justisdepartementet. Journalistikken gav ikkje noka inntekt å leve av.
+
   p Vinje var eit skrivande menneske og levande interessert i det meste som rørte seg rundt han. Han sette høge krav til journalistrolla: Ein journalist skulle vere rettleiar og opplysar, og han skulle evne å sjå ei sak frå meir enn ei side. Det var ikkje vanleg på den tida, og var ein av grunnane til at kritikarane hevda at han var vinglete. Men Vinje avviste kritikken og peikte på at han hadde eit tvisyn. Med andre ord: Han meinte sjølv han hadde evna til å sjå ei sak frå fleire sider, og at det var nødvendig å bruke denne evna.
 
   p Dette tvisynet har vorte ståande som eit kjennemerke ved avismannen Vinje. I dag er det eit krav til journalistar at dei skal kunne sjå ei sak frå meir enn ei side, og vi kan derfor kanskje seie at Vinje var den første kritiske journalisten her i landet. 
 
   h3 Vekeavisa Dølen 
+
   p Vinje gav ut vekeavisa Dølen frå 1858 og fram til han døydde i 1870. Innhaldet var ei blanding av sakprosa og poesi, og han skreiv det aller meste sjølv.
 
   p I Dølen kunne folk lese om alt frå politikk, samferdsel, økonomi og teknologisk utvikling til utdanning og kulturliv. Vinje hadde kunnskapar og meiningar om det meste, og han elska å utfordre lesarane. Han utvikla ein essayistisk skrivemåte som var heilt ukjend for folk flest på den tida, full av ironi, humor, overdrivingar og med eit tydeleg forfattareg. Somme lesarar mislikte stilen til Vinje og slutta å abonnere på Dølen. Andre heldt avstand på grunn av landsmålet.
@@ -31,6 +41,10 @@ PageBook
   p Dølen var på mange måtar livsverket til Vinje, men det kosta han mykje. Han sleit økonomisk for å få det heile til å gå rundt, og i periodar kom bladet ut nokså sporadisk. 
 
   h3 Reporter og fotturist 
+
+  figure.col.col6.right-image
+   img(src='./Vinje_Reporter_og_fotturist.jpg' alt='')
+   figcaption Frå Jotunheimen
   p Vinje elska å reise. Sommaren 1860 drog han til Trondheim for å vere med på kongekroninga av Karl 4. Han tok toget til Eidsvoll, og derifrå gjekk turen vidare gjennom Østerdalen og over Dovre fram til stiftsstaden. Heimturen gjekk med båt til Kristiansund, deretter til fots gjennom Romsdal og Gudbrandsdalen attende til Kristiania.
 
   p Inntrykka frå denne reisa vart gitt ut i bokform i 1861 med tittelen Ferdaminni frå Sumaren 1860. Boka er ei essayistisk reiseskildring, der Vinje flettar saman naturskildringar, anekdotar og andre korte forteljingar, dikt, små personportrett og refleksjonar over folk og levesett ymse stader på ferda. Han roser mykje av det han ser undervegs, samstundes som han er kritisk til det han oppfattar som vanstell og vankunne hos bøndene. 
@@ -38,6 +52,7 @@ PageBook
   h3 «Grauten på Grut»
   p Eit av kapitla i Ferdaminni frå Sumaren 1860 har tittelen “Grauten på Grut”. Vinje har gått frå Rennebu, bada i Orkla og kjenner at svolten sig på. Han stikk innom gjestgivargarden på Grut og får servert havregraut: 
 
+  img.col.col4.right-image.mt5(src='./Vinje_Graut_på_grut.jpg' alt='')
   blockquote Det var Havregraut av det rette Slaget, det. Sådene stod med Piggar nett som Busti på ein Griserygg, og svart var han som Oskegraut. Eg fekk god Mjølk og åt og åt, og det skura ned gjenom Halsen, liksom når Grantoppen vert slipa og dregen ned igjenom Omnspipa. Det var så det skalv i meg av all denne sæle Nytinga i kvar Beten. Men då eg bar til at metna, tenkte eg på at gjeva ut ei Lærebok i Etarvitenskapen (Gastronomi), der Grauten på Grut skulde vera fyrste Kapitelet. Storetarar skulle kjenne for ei Sæle det er når det såleis skrapar og riflar ned igjennom og riv med seg gamle Matsyndar. 
 
   p Vinje skildrar matopplevinga detaljert og med ein god porsjon humor og ironi. Men måltidet gir han òg høve til å reflektere over kvifor folk dyrkar nettopp havre i kystområda nord og vest i Noreg: 
@@ -55,6 +70,8 @@ PageBook
 
   p Mange av dikta til Vinje har vorte ein del av den nasjonale lyrikkarven vår, ikkje minst dei som er tonesette: «Ved Rondane», «Gamle Mor», «Våren», «Den dag kjem aldri» og «Blåmann». 
 
+  img.col.col12(src='./Vinje_Vinje_som_lyriker.jpg' alt='')
+
   p Diktet «Ved Rondane» vart først trykt i Ferdaminni frå Sumaren 1860 og er av dei mest kjende. Det opnar slik: 
 
   blockquote No ser eg atter slike fjell og dalar som dei eg i min første ungdom såg. Og same vind den heite panna svalar, og gullet ligg på snjo, som før det låg. Det er eit barnemål som til meg talar, og gjer meg tankefull, men endå fjåg. Med ungdomsminne er den tala blanda: Det strøymer på meg so eg knapt kan anda.
@@ -63,6 +80,7 @@ PageBook
 
   p Det mest kjende kjærleiksdiktet til Vinje er nok «Den dag kjem aldri». Her bruker Vinje ei strofeform frå folkelitteraturen, nystevet. Ho høver godt til den konkrete, enkle skildringa av ei intens forelsking. 
 
+  img.col.col4.right-image.mt5(src='./Vinje_Tyteberet.jpg' alt='')
   blockquote
     strong Den dag kjem aldri 
     br
@@ -122,6 +140,10 @@ PageBook
 
   p Vinje brukte sjølv ein mykje enklare og konkret skrivemåte som var meir i tråd med det talemålet lesarane hans kjende til. 
 
+  figure.col.col6.right-image
+   img(src='./Vinje_Spraaket_til_Vinje.jpg' alt='')
+   figcaption Karikaturen «Vinjefurua» av Theodor Kittelsen
+   
   p Før han starta Dølen i 1858, brukte Vinje dansk som skriftspråk. Etter at Aasen hadde laga dei første tekstprøvene av landsmålet tidleg i 1850-åra, var Vinje ein av dei første til å ta språket i bruk. Men han heldt seg ikkje til den landsmålsnorma som Aasen hadde sett opp. Han skreiv eit landsmål med talemålsformer frå sin eigen landsdel, nemleg Vest-Telemark, og han var svært glad i å lage nye ord. 
 
   h3 Journalistikken veks fram
@@ -139,6 +161,8 @@ PageBook
     | (Krydseren 19.3.1851) 
 
   h3 Kulturformidling og underhaldning
+
+  img.col.col5.left-image.mt5(src='./Vinje_Kulturformidling_og_underholdning.jpg' alt='')
   p Frå midten av 1800-talet kom det ut tidsskrift og vekeblad som retta seg mot folk flest. Betre skulegang førte til at dei fleste kunne lese, og etterspurnaden etter lesestoff auka. Tidsskrifta, som for eksempel Dølen, inneheldt både populærvitskaplege tekstar, dikt og forteljingar. 
 
   p Det illustrerte bladet Skilling-Magazin kom ut i perioden 1835–1891. Undertittelen «Til Udbredelse af almennyttige Kundskaber» viser at bladet såg på seg sjølv som eit tilskot til folkeopplysninga. Illustrasjonane skulle motivere folk til å lese. 

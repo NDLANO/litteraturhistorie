@@ -21,6 +21,7 @@ PageBook(:showAuthor="false")
   p «Draumkvedet» skil seg litt frå andre folkeviser ved at dei ulike delane av diktet har skiftande omkved og melodi.
 
   h3 Opphav
+  img.col.col12(src="./Draumkvedet_Opphav.jpg")
   p Det er Jørgen Moe og Magnus B. Landstad som i 1840-åra gjer dei første nedskrivingane av «Draumkvedet».
 
   p Det finst over hundre nedskrivingar av «Draumkvedet», og alle er funne i Telemark. Somme av dei er berre små brotstykke, og ingen av dei er heilt fullstendige. Dessutan skil dei seg til dels sterkt frå kvarandre. Den viktigaste nedskrivinga er etter Maren Ramskeid frå Bronkeberg.
@@ -37,6 +38,10 @@ PageBook(:showAuthor="false")
   p Formålet med den kristne visjonslitteraturen var gjerne å omvende folk og få dei til å leve eit gudfryktig liv. Mange av visjonane inneheldt utførlege og til dels groteske skildringar av pinslene som sjelene i helvete måtte gjennomgå.
 
   p Forfattaren av «Draumkvedet» kjende nok til denne typen forteljingar, men i «Draumkvedet» er tonen meir menneskeleg og forsonande. Den same tematikken som i «Draumkvedet» finn vi også i Edda-diktet «Solarljod» og i Dantes «Divina Commedia». Dantes verk blir elles rekna for å vere høgdepunktet i visjonslitteraturen.
+
+  figure.col.col12
+    img(src="./Draumkvedet_Dante_og_Vergil_i_helvetet.jpg" alt="")
+    figcaption Dante og Vergil i helvetet. Måleri av Euène Delacroix
 
 </template>
 

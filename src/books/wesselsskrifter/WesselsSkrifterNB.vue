@@ -1,14 +1,27 @@
 <template lang="pug">
 PageBook
   p Johan Herman Wessel (1742–1785) kom fra Vestby i Akershus. Han var prestesønn og gikk på latinskole i Oslo. Nitten år gammel reiste han til København for å studere videre på universitetet, men han var ingen flittig student og tok aldri noen eksamen. Derimot var han aktiv i Norske Selskab, en litterær og patriotisk klubb for nordmenn i København. Her var han i godt selskap med Johan Nordahl Brun, Johan Vibe, Jens Zetlitz og flere andre som skrev dikt og annen skjønnlitteratur. 
+
+  figure.col.col12
+   img(src='./Wessel_Huset_i_Vestby.jpg' alt='')
+   figcaption Huset i Vestby i Akershus der Johan Herman Wessel ble født
   
-  h3 Kierlighed uden Strømper 
+  h3.mt40 Kierlighed uden Strømper 
+
+  figure.col.col4.right-image
+   img(src='./Wessel_Kierlighed_uden_Strømper.jpg' alt='')
+   figcaption Titelbladet på den første utgaven av Kierlighed uden Strømper fra 1772
+
   p Wessel er berømt for de elegante versene og de komiske fortellingene sine. Blant annet skrev han en parodi på de franske klassisistiske tragediene: Kierlighed uden Strømper. Her følger han reglene for dramaturgi og høytidelig språkbruk som kjennetegner denne typen tragedier, men karakterene i stykket hans er enkle håndverkere, atferden deres er latterlig og konflikten helt triviell. Stykket kom på trykk i 1772 og ble oppført på Det Kongelige Theater i København i 1773. Det ble en stor suksess. 
 
   p Handlingen går i korte trekk ut på at heltinnen Grete får et varsel om at hun må gifte seg innen dagen er omme. Mannen hun elsker, Johan von Ehrenpreis, er skredder og har reist bort for å bøte buksene til en major. Hun vender seg derfor til den tidligere kjæresten Mads. Johan kommer tilbake, men mangler strømper og kan derfor ikke gifte seg. Han stjeler da strømpene til Mads, men Mads oppdager det og skjeller ut Johan. Deretter tar Johan livet sitt, og til slutt tar for sikkerhets skyld alle livet av seg. 
   
   h3 Andre skrifter av Wessel 
   p Wessel skrev flere teaterstykker, men ingen av dem ble noen suksess. Derimot utgav han en rekke humoristiske fortellinger på verseform som ble populære, for eksempel «Herremanden», «Hundemordet», «Mosters Pølser», «Gaffelen» og «Smeden og Bageren». Også småversene og improvisasjonene hans ble raskt allemannseie. 
+
+  figure.col.col6.left-image.mt5
+   img(src='./Wessel_En_aften_i_Det_norske_Selskab.jpg' alt='')
+   figcaption Detalj frå «En aften i Det norske Selskab» av Eilif Peterssen. Mannen med glaset er Wessel.
 
   p En av grunnene til at Wessel er blitt stående i ettertid, er at han var slagferdig og humoristisk. Han deklamerte egne tekster i Norske Selskab og var en mester i å improvisere, til stor begeistring for alle. 
 
@@ -24,6 +37,8 @@ PageBook
     | Tilsidst han gad ei heller leve. 
   
   h3 «Smeden og Bageren» 
+
+  img.col.col6.right-image(src='./Wessel_Smeden.jpg' alt='')
   p «Smeden og Bageren» er en humoristisk fortelling som kritiserer rettsvesenet og mangelen på fornuft i samfunnet. Handlingen foregår i en liten by der det finnes to bakere og én smed. 
 
   p Smeden er en kranglefant og skaffer seg en fiende i den ene bakeren. En dag møtes de to på vertshuset. De begynner å krangle, og krangelen ender med at smeden slår den andre i hjel. 
@@ -76,5 +91,4 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped></style>  
-  
+<style lang="scss" scoped></style>

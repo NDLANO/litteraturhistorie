@@ -203,81 +203,79 @@ blockquote {
   }
 }
 
-
 /// TOPBAR > FILTER BUTTONS
 
 // OVERRIDES
-.lo_topBar_header{
+.lo_topBar_header {
   flex-wrap: wrap;
-  @include breakpoint($mediumx){
+  @include breakpoint($mediumx) {
     height: $topBarHeight;
     position: fixed;
   }
 }
 
-.lo_topBar_timeline{
-  @include breakpoint($mediumx){
+.lo_topBar_timeline {
+  @include breakpoint($mediumx) {
     top: $topBarHeight;
   }
 }
 
-.lo_sectionList{
+.lo_sectionList {
   top: -10px;
-  @include breakpoint($mediumx){
-    top: $base-line-height*1.8;
+  @include breakpoint($mediumx) {
+    top: $base-line-height * 1.8;
   }
 }
 
-.lo_topBar_header h1{
+.lo_topBar_header h1 {
   font-size: 1rem;
   margin: 0;
 }
 
 // FILTERS
-.lo_topBar_filters{
+.lo_topBar_filters {
   display: flex;
   margin-left: $base-line-height;
   padding-bottom: $base-line-height/2;
-  @include breakpoint($mediumx){
+  @include breakpoint($mediumx) {
     padding-bottom: 0;
   }
 }
 
-.btn_filter{
+.btn_filter {
   display: flex;
   align-items: center;
   background: none;
   border: 2px solid transparent;
-  height: $base-line-height*1.5;
+  height: $base-line-height * 1.5;
   border-radius: 4px;
 }
 
-.btn_filter_icon{
+.btn_filter_icon {
   width: $base-line-height/1.25;
   height: $base-line-height/1.25;
 }
 
-.btn_filter_icon svg{
+.btn_filter_icon svg {
   width: 100%;
   height: auto;
 }
 
-.btn_filter_text{
+.btn_filter_text {
   padding-left: $base-line-height/8;
   font-weight: bold;
   font-size: 0.9rem;
 }
 
-.btn_filter:hover{
+.btn_filter:hover {
   background: white;
   border-color: $main-color;
   color: $main-color;
 }
 
-.btn_filter:hover svg{
+.btn_filter:hover svg {
   fill: $main-color;
 }
-    
 
 /// PART ON THE LEFT OF THE TIMELINE > INSTRUCTIONS
 
@@ -293,7 +291,7 @@ blockquote {
   margin-top: $base-line-height;
 }
 
-.startTimeline{
+.startTimeline {
   position: relative;
   top: 1.1rem;
   display: block;
@@ -312,7 +310,7 @@ blockquote {
   }
 }
 
-.endTimeline{
+.endTimeline {
   position: relative;
   left: -1rem;
   display: block;
@@ -326,14 +324,14 @@ blockquote {
   @include breakpoint($medium) {
     width: $base-line-height * 5;
   }
-  
-  &:before{
+
+  &:before {
     content: "";
     position: sticky;
     background: white;
     width: $base-line-height * 3.6;
     width: 100%;
-    height: $base-line-height*1.35;
+    height: $base-line-height * 1.35;
     left: 0;
     display: block;
     z-index: 1000;
@@ -343,7 +341,6 @@ blockquote {
     }
   }
 }
-
 
 .btn_menu,
 .btn_close,
@@ -808,6 +805,20 @@ blockquote {
   position: relative;
   bottom: $base-line-height * 3;
   background: white;
+
+  @include breakpoint($medium) {
+    // * Make sure images aligns vertically with heading when
+    // * figure/image is floating
+    figure + h3,
+    figure + h2,
+    figure + h5,
+    img + h3,
+    img + h2,
+    img + h5 {
+      margin-top: 0;
+      margin-bottom: 0;
+    }
+  }
 }
 
 .page h3::after {
@@ -845,12 +856,15 @@ blockquote {
 
 .page_content img,
 .page_content figure {
-  width: auto;
+  width: 100%;
   max-width: 100%;
+  margin-left: 0;
+  margin-right: 0;
 
   img {
     display: block;
     margin: 0 auto;
+    width: 100%;
   }
 
   @include breakpoint($medium) {
@@ -914,4 +928,27 @@ blockquote {
 
 .figure-left {
   margin: 0 1rem 1rem 0;
+  padding-right: 1rem;
+}
+.figure-right {
+  margin: 0 0 1rem 1rem;
+  padding-left: 1rem;
+}
+
+.portretter {
+  figure {
+    padding: 5px;
+  }
+
+  img {
+    height: 250px;
+    object-fit: cover;
+  }
+
+  &.portretter-4 img {
+    height: 175px;
+  }
+  &.portretter-5 img {
+    height: 120px;
+  }
 }

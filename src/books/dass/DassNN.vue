@@ -2,6 +2,8 @@
 PageBook
   
   h3 Diktaren Petter Dass
+
+  img.col.col6.right-image(src="./Dass_Dikteren_Petter_Dass.jpg" alt="")
   p Den norske barokkdiktaren Petter Dass var fødd på Helgeland i 1647. Han studerte teologi i København, men fann snart vegen heim att til Nordland. I 1689 vart han sokneprest i Alstadhaug.
 
   p Petter Dass skriv både verdslege og religiøse tekstar i poetisk form. Dei religiøse tekstane er til bruk i kyrkjelyden. Dass er oppteken av folkeopplysning, og i Katechismus-Sange forklarer han heile Luthers vesle katekisme i verseform og med eksempel som er lette å forstå.
@@ -99,6 +101,8 @@ PageBook
     | At fremme. 
 
   h3 Verkemiddelbruk
+
+  img.col.col6.left-image.mt5(src="./Dass_Virkemiddelbruk.jpg" alt="")
   p Diktarens oppgåve i barokken er å hylle Gud og det kongelege eineveldet av Guds nåde. Til slike formål høver det svært godt med verkemiddel som kontrastfylte bilete, frodige adjektiv og sterke overdrivingar, og diktarane bruker dei i stor monn.
 
   p Petter Dass er ingen typisk representant for barokkstilen. Nordlands Trompet rettar seg mot folk av alle samfunnslag. Språket i desse dikta er enkelt og folkeleg, utan store fakter.

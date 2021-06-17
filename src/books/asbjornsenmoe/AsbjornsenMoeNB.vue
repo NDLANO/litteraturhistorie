@@ -13,20 +13,27 @@ PageBook
   h5 Norge følger etter 
   p I 1830-årene slo den romantiske bølgen inn over Norge for fullt. Koplingen mellom den nyvakte interessen for det norske og romantikkens forestillinger om det folkelige som noe opprinnelig og ekte, ble i Norge omtalt som nasjonalromantikken. 
 
+  img.col.col6.left-image.mt5(src='./asbjornsenmoe_01.jpg' alt='')
   p Prosten Andreas Faye gav ut den første samlingen av norske sagn i 1833. I 1840-årene kom så Peter Christen Asbjørnsen og Jørgen Moe med sin første samling av norske eventyr og sagn. I tillegg var det flere andre som samlet inn eventyr, sagn og viser i Norge.  
   
   h3 Asbjørnsen og Moe 
   p De to ungguttene Peter Christen Asbjørnsen fra Christiania og Jørgen Moe fra Hole i Buskerud gikk sammen på Norderhov skole vinteren 1826. Her våknet interessen for norsk folkekultur. De to reiste rundt på bygdene, snakket med folk og skrev ned eventyr og sagn fra ulike bygdelag. Nedtegnelsene fra disse reisene resulterte etter hvert i flere samlinger med norske eventyr og sagn. 
 
+  img.col.col3.left-image.mt5(src='./asbjornsenmoe_02.jpg' alt='')
   p Asbjørnsen var først og fremst folkeminnesamler. Han hadde mye til overs for den direkte og ofte humoristiske fortellemåten til vanlige folk. I bøkene hans får vi levende skildringer av hverdagsmennesker som eventyrsamleren har møtt rundt om på reisene. 
 
+  .clear
+  img.col.col3.left-image.mt5(src='./asbjornsenmoe_03.jpg' alt='')
   p Jørgen Moe var prest i Krødsherad og i Drammen, seinere biskop i Kristiansand. Han var mest opptatt av religiøse folkeeventyr og legender. Også han gav ut egne dikt og fortellinger, blant annet den kjente barneboka I Brønden og i Kjærnet. 
+
+  .clear
   
   h3 Norske folkeeventyr 
   p Den første eventyrsamlingen til Asbjørnsen og Moe, Norske Folkeeventyr, ble utgitt som fire hefter. Det første heftet kom i 1841, det siste i 1844. Seinere gav Asbjørnsen ut flere eventyrsamlinger på egen hånd, blant annet Norske Huldreeventyr og Folkesagn (1845–1847). 
 
   p Eventyrene kan deles inn i grupper etter innhold. I samlingen Norske Folkeeventyr finner vi for eksempel disse undersjangrene: 
 
+  img.col.col6.right-image(src='./asbjornsenmoe_04.jpg' alt='')
   ul
     li 
       strong Dyreeventyr 
@@ -49,13 +56,18 @@ PageBook
 
   p De fleste eventyrene følger et enkelt grunnmønster: Helten møter en utfordring eller et problem som skal løses. Slutten er aldri noe å lure på: Helten lykkes, mens det går dårlig med motstanderne. Spenningen ligger i hva helten må gjøre for å vinne over motstanderne. Handlingen blir alltid fortalt kronologisk, uten frampek eller tilbakeblikk. 
 
+  img.col.col4.right-image(src='./asbjornsenmoe_05.jpg' alt='')
   p Karakterene i eventyret er endimensjonale og statiske. De er enten gode eller slemme, og de endrer seg aldri. Et annet typisk sjangertrekk ved eventyrene er bruken av faste formler som «det var en gang» og «snipp, snapp, snute». Gjentakelse blir gjerne brukt for å øke spenningen: Det er ikke første eller andre gang, men tredje gangen som gjelder. 
 
   p Eventyr finnes i alle kulturer, og ofte går de samme historiene igjen i litt forskjellig form i ulike land. Eventyret om «Kvitebjørn Kong Valamon» er en norsk versjon av det eventyret som Disney-filmen «Skjønnheten og udyret» bygger på.  
   
   h3 Folkedikting 
+
+  img.col.col6.right-image.mt5(src='./asbjornsenmoe_06.jpg' alt='')
   p Asbjørnsen og Moes samlinger inneholder ikke bare eventyr, men også flere sagn, for eksempel «Mannen som gikk i vargham» og «Tuftefolket på Sandflesa». 
 
+  .clear
+  img.col.col6.right-image.mt20(src='./asbjornsenmoe_07.jpg' alt='')
   p Sagnet skiller seg fra eventyret ved at sagnet gjerne er knyttet til et bestemt sted og en bestemt tid. Sagnet gir ofte overnaturlige forklaringer på naturfenomener eller historiske hendinger. 
 
   p Noen ganger lager Asbjørnsen og Moe en såkalt rammefortelling rundt eventyrene eller sagnene. Rammefortellingen handler om hvordan de to folkeminnegranskerne reiser rundt på Østlandet og møter ulike fortellere. På den måten kan de også skildre hva slags personer fortellerne er, og hvordan de forteller historiene sine. Eksempler på slike rammefortellinger er «En natt i Nordmarka» og «En sommernatt på Krokskogen». 
@@ -70,6 +82,8 @@ PageBook
   p Og slik eventyrene gjør, ender også dette godt til slutt. Jenta slipper unna de arbeidsoppgavene de misunnelige kollegaene ville prakke på henne, og lever lykkelig med prinsen alle sine dager. 
   
   h3 Språket hos Asbjørnsen og Moe 
+
+  img.col.col4.left-image.mt5(src='./asbjornsenmoe_08.jpg' alt='')
   p Eventyr og sagn er muntlig litteratur som er blitt fortalt fra generasjon til generasjon. De som påtar seg å skrive ned slike tekster, står derfor overfor en utfordring: Hvordan kan en ta vare på det muntlige i skriftlig form? Resultatet er at eventyrspråket har fått en muntlig setningsbygning med mange sidestilte setninger og et stort innslag av replikker. 
 
   p Da Asbjørnsen og Moe gikk i gang med å skrive ned norske folkeeventyr og sagn, fantes det fortsatt ikke noe eget norsk skriftspråk. Eventyrene ble derfor skrevet ned på dansk. Men Asbjørnsen og Moe prøvde å ta hensyn til den muntlige originalteksten og brukte mange norske dialektord. 

@@ -1,26 +1,47 @@
 <template lang="pug">
 PageBook(:showAuthor="false")
+  .mt40
+  img.col.col6.right-image.mt5(src="./Vinjeboka_Vinjeboka.jpg")
+  
   p Vinjeboka er den eldste svarteboka som er funnet i Norge. Den ble oppdaget i 1796 under golvet i en gammel stavkirke i Vinje i Telemark. Vi regner med at boka er nedskrevet omkring 1490. 
 
   p Språket i boka er en blanding av norsk, dansk og latin. Det tyder på at den er skrevet av en lærd person. I tillegg til trolldomsformler inneholder boka også signingsformler og Maria-hymner (religiøse lovsanger til jomfru Maria). 
 
   h3 Svartebøker 
+
+  figure.col.col6.right-image
+    img(src="./Vinjeboka_Svarteboker.jpg")
+    figcaption Symbol frå Sefer Raziel HaMalakh
+
   p Ei svartebok er en samling oppskrifter og formler for dem som vil utøve magi eller trolldom. Svartebøkene har fått navnet sitt fordi de omtaler «svartekunster» eller svart magi. Ved hjelp av slike kunster kan en få makt over dyr og mennesker og skaffe seg kontakt med djevler og demoner. Men ­bøkene gir også råd om hvordan en kan lege sykdommer og beskytte seg mot ulykker, såkalt hvit magi. 
 
   p De eldste bøkene er skrevet for hånd. Disse bøkene er utformet av kunnskapsrike og skrivekyndige folk – blant dem trolig også prester. Flere prester på 1500- og 1600-tallet hadde ord på seg for å kunne «mer enn sitt fadervår». Blant annet het det seg at dikterpresten Petter Dass var utlært i svartekunst. 
 
   p Noen av svartebøkene er sannsynligvis skrevet av folk med militær bakgrunn. Her finner vi formler som gir vern mot både sverdhogg og kuler, og oppskrifter som forteller hvordan en  kan vinne kjærligheten til en kvinne. 
 
+  figure.col.col6.right-image
+    img(src="./Vinjeboka_Pentakel.jpg")
+    figcaption Et pentakel er et symbol som skal verne mot onde makter. På norsk blir symbolet gjerne kalt marekors, Salomos seil eller hekselås.
+
   p På 1800-tallet tok embetsstanden etter hvert avstand fra alt som ikke var preget av «fornuft og opplysning». I dette århundret ble svartebøkene skrevet av folk fra de lavere samfunnsklassene. De var opptatt av botemidler mot hverdagsproblemer som de fleste måtte stri med, for eksempel sykdom på folk og fe.
 
   p I svartebøkene møter vi en blanding av førkristne ritualer, folkelig legekunst, katolsk helgendyrking og middelalderske forestillinger om djevler og demoner, trolldom og hekseri. Kunnskapen fra svartebøkene har levd i folketradisjonen helt opp til våre dager. Fortsatt kjenner folk mange steder i landet til hvordan de kan stanse blødninger ved hjelp av magiske formler. 
 
   h3 Sjanger og opphav 
+
+  figure.col.col6.right-image
+    img(src="./Vinjeboka_Livstreet.jpg")
+    figcaption Livstreet er viktig i kabbala.
+
   p Svartebøkene hører til sjangeren trolldomsbøker, som har røtter tilbake til middelalderen. Disse bøkene inneholder blant annet elementer fra kristen og jødisk middelaldermystikk. 
 
   p Mystikk i religiøs forstand vil si å oppleve samhørighet og harmoni med det guddommelige. Denne samhørigheten kan oppnås på flere måter. Den jødiske kabbalamystikken er for eksempel basert på troen om at det finnes flere lag av mening i de hellige skriftene, og at en ved hjelp av bestemte metoder kan avsløre kunnskapen om Gud og universet som ligger skjult der. 
 
   p I kabbalamystikken legger en stor vekt  på numerologi (læra om talls mystiske egenskaper). Blant annet har hver eneste engel og djevel i bibelen både et navn, et tall og et tegn knyttet til seg. Slike forestillinger gjenfinner vi  i en type trolldomsbøker fra middelalderen som på fransk heter «grimoires», skyggebøker. 
+
+  figure.col.col6.right-image.mt5
+    img(src="./Vinjeboka_Svartebok_fra_Jeloya.jpg")
+    figcaption Tittelblad på ei svartebok fra Jeløya fra slutten av 1700-talet. Tittelen begynner med «Siprianus Kunste Bog».
 
   p De eldste svartebøkene blir ofte omtalt som 6. og 7. Mosebok. ­Etter folketroen skal disse bøkene være en hemmelig del av den jødisk-kristne bibelen og fortelle om de trolldomskunstene Moses lærte hos egypterne.
 
@@ -87,5 +108,4 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped></style>  
-  
+<style lang="scss" scoped></style>

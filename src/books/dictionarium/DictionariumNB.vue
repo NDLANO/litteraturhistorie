@@ -1,6 +1,8 @@
 <template lang="pug">
 PageBook(:showAuthor="false")
   h3 Den første norske ordboka
+
+  img.col.col4.left-image(src="./Den_Norske_Dictionarium_Den_første_norske_ordboka.jpg" alt="")
   p Det finnes en rekke skriftlige opptegnelser av norske ord og vendinger på 1600-tallet. Et av formålene med disse glosebøkene var å hjelpe danske embetsmenn til å forstå norske dialekter. På 1600-tallet var nemlig de fleste embetsmenn i Norge danske. De skrev og snakket dansk, men levde i et samfunn der folk flest snakket norsk, og måtte derfor lære seg å forstå norske ord og uttrykk. 
 
   p På 1600-tallet finner vi også en økende interesse for folkespråk rundt om i Europa. Mange laget samlinger over særnorske ord, og de hadde gjerne et klart ønske om å vise at norsk er noe annet enn dansk. En av dem var Christen Jensson, sokneprest i Askvoll i Sunnfjord.
@@ -12,6 +14,7 @@ PageBook(:showAuthor="false")
   h3 Prest, språkforsker og folkeminnesamler 
   p Christen Jensson ble trolig født rundt 1610 i Askvoll i Sunnfjord. Faren, Jens Mauritsen, var dansk og sokneprest i bygda. Etter det Jensson skriver i forordet til ordsamlinga, følte han seg selv som nordmann i sinn og skinn. Han ble sendt til katedralskolen i Bergen, og derfra gikk ferden videre til København og teologistudium ved universitetet.
 
+  img.col.col4.right-image(src="./Den_Norske_Dictionarium_Gravstein.jpg" alt="")
   p Etter studiene etterfulgte Jensson sin far som sokneprest i Askvoll, en stilling han hadde resten av livet. Det hendte at han tok seg en tår for tørsten, og i 1643 ble han rapportert til biskopen for drukkenskap og slagsmål. Han ble ikke dømt, men noen mener at han som straff måtte oversette ei tysk lærebok i teologi til dansk. 
 
   p Den Norske Dictionarium eller Glosebog er Jenssons mest kjente verk. Boka viser at han var opptatt av både kultur og natur, og godt kjent med alt som rørte seg i hjembygda. Innimellom tok han med noen humoristiske stubber om dyr og mennesker. 
@@ -25,6 +28,7 @@ PageBook(:showAuthor="false")
 
   //Kan vi skille ut denne delen av lydfila? Altså kun den gamle teksten?
 
+  img.col.col6.left-image(src="./Den_Norske_Dictionarium_Utdrag.jpg" alt="")
   p Den Norske Dictionarium eller Glosebog ble trykt i København. Det kan være grunnen til at også oppslagsordene med norsk dagligtale har fått dansk skrivemåte. De danske boktrykkerne har ganske sikkert slitt med å stave de ukjente ordene. Men forfatteren selv hadde heller ikke noe norsk skriftspråk å støtte seg til, for et slikt språk fantes ikke på 1600-tallet. Uansett får vi noen interessante glimt inn i norsk hverdag og kultur på denne tida. 
 
   p
@@ -62,6 +66,16 @@ PageBook(:showAuthor="false")
   p 
     strong Alm 
     |Er it slags Træ / huie grene gifuis Fæ om Vinteren / oc er saa gaat som Høe / men Barcken aftagen gifuet smaa Kalfue. 
+
+  figure.col.col12
+    img(src="./Den_Norske_Dictionarium_Primstav_Sommerhalvaaret.jpg")
+    figcaption Sommarhalvåret
+  figure.col.col12
+    img(src="./Den_Norske_Dictionarium_Primstav_Vinterhalvaaret.jpg")
+    figcaption Vinterhalvåret
+  figure.col.col12
+    img(src="./Den_Norske_Dictionarium_Primstav_Detalj.jpg")
+    figcaption Detalj
 
   h3 Norsk hverdagsliv på 1600-tallet
   p Den Norske Dictionarium eller Glosebog inneholder mye stoff om norsk hverdagsliv, blant annet denne oppskriften på gomme fra Sunnfjord: 
