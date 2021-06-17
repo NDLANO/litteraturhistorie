@@ -53,10 +53,7 @@ img {
 }
 
 button {
-  z-index: 1 {
-
-  }
-
+  z-index: 1;
   transition: 0.2s all;
 }
 
@@ -249,33 +246,31 @@ blockquote {
   border: 2px solid transparent;
   height: $base-line-height * 1.5;
   border-radius: 4px;
+
+  &:hover{
+    background: white;
+    border-color: $main-color;
+    color: $main-color;
+    svg{
+      fill: $main-color;
+    }
+  }
+
+  &_icon{
+    width: $base-line-height/1.25;
+    height: $base-line-height/1.25;
+    svg{
+      width: 100%;
+      height: auto;
+    }
+  }
+  &_text{
+    padding-left: $base-line-height/8;
+    font-weight: bold;
+    font-size: 0.9rem;
+  }
 }
 
-.btn_filter_icon {
-  width: $base-line-height/1.25;
-  height: $base-line-height/1.25;
-}
-
-.btn_filter_icon svg {
-  width: 100%;
-  height: auto;
-}
-
-.btn_filter_text {
-  padding-left: $base-line-height/8;
-  font-weight: bold;
-  font-size: 0.9rem;
-}
-
-.btn_filter:hover {
-  background: white;
-  border-color: $main-color;
-  color: $main-color;
-}
-
-.btn_filter:hover svg {
-  fill: $main-color;
-}
 
 /// PART ON THE LEFT OF THE TIMELINE > INSTRUCTIONS
 
@@ -376,6 +371,19 @@ blockquote {
   margin-left: $base-line-height / 2;
 }
 
+.page .btn_back {
+  position: relative;
+  left: -$base-line-height / 2;
+  font-weight: bold;
+  margin-top: $base-line-height;
+
+  svg {
+    fill: $main-color;
+  }
+}
+
+
+
 // TIMESLOT
 
 .timeSlot {
@@ -387,37 +395,34 @@ blockquote {
   font-weight: bold;
   align-items: flex-start;
   flex-shrink: 0;
+  &_year{
+    padding: 0.1rem 0 0.5rem 0;
+    background: white;
+    width: 100%;
+    text-align: left;
+    font-size: 0.9rem;
+    transform: translateX(-1rem);
+    box-shadow: 12px 4px 0px 0px $main-color;
+  }
+  &_dot{
+    position: relative;
+    transform: translate(-40%, -40%);
+    width: $base-line-height / 2;
+    height: $base-line-height / 2;
+    background: $main-color;
+    border-radius: 50%;
+  }
+  &_line{
+    position: relative;
+    position: absolute;
+    width: 2px;
+    top: 0;
+    height: 96rem;
+    background: rgba(white, 0.3);
+    overflow: hidden;
+  }
 }
 
-.timeSlot_year {
-  padding: 0.1rem 0 0.5rem 0;
-  background: white;
-  width: 100%;
-  text-align: left;
-  font-size: 0.9rem;
-  transform: translateX(-1rem);
-  box-shadow: 12px 4px 0px 0px $main-color;
-}
-
-.timeSlot_dot {
-  position: relative;
-  transform: translate(-40%, -40%);
-  width: $base-line-height / 2;
-  height: $base-line-height / 2;
-  background: $main-color;
-  border-radius: 50%;
-}
-
-.timeSlot_line {
-  position: relative;
-  position: absolute;
-  width: 2px;
-  top: 0;
-  height: 96rem;
-  background: rgba(white, 0.3);
-  // background: red;
-  overflow: hidden;
-}
 
 // SECTIONS/ERAS
 
@@ -430,21 +435,19 @@ blockquote {
   background: $main-color;
   margin-bottom: 1.75rem;
   box-shadow: -6px 0px 6px 0px rgb(0 0 0 / 30%);
+  &_item{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    &:nth-child(odd) .lo_sectionEra {
+      background: tint($main-color, 90%);
+    }
+    &:nth-child(even) .lo_sectionEra {
+      background: tint($main-color, 80%);
+    }
+  }
 }
 
-.sectionList_item {
-  padding: 0;
-  margin: 0;
-  height: 100%;
-}
-
-.sectionList .sectionList_item:nth-child(odd) .lo_sectionEra {
-  background: tint($main-color, 90%);
-}
-
-.sectionList .sectionList_item:nth-child(even) .lo_sectionEra {
-  background: tint($main-color, 80%);
-}
 
 /// CIRCLE ERA
 
@@ -461,37 +464,36 @@ blockquote {
   width: $base-line-height * 12;
   height: $base-line-height * 12;
   margin: 3rem auto;
-}
-
-.circleEra_content {
-  display: flex;
-  flex-direction: column;
-  position: relative;
-  align-items: center;
-  top: -4 * $base-line-height;
-  padding: 0 ($base-line-height / 2);
-  text-align: center;
-  background: white;
-  border-radius: $base-line-height / 8;
-  max-width: $base-line-height * 10;
-}
-
-.circleEra_title {
-  margin: 0;
-  position: relative;
-  top: -$base-line-height / 4;
-}
-
-.circleEra_date {
-  font-weight: bold;
-  background: $main-color;
-  font-size: 0.9rem;
-  font-weight: bold;
-  color: white;
-  line-height: 100%;
-  padding: $base-line-height / 8;
-  position: relative;
-  top: -$base-line-height / 2;
+  &_content{
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    align-items: center;
+    top: -4 * $base-line-height;
+    padding: 0 ($base-line-height / 2);
+    text-align: center;
+    background: white;
+    border-radius: $base-line-height / 8;
+    max-width: $base-line-height * 10;
+  }
+  &_title{
+    margin: 0;
+    position: relative;
+    top: -$base-line-height / 4;
+    line-height: 100%;
+    font-size: 1.75rem;
+  }
+  &_date{
+    font-weight: bold;
+    background: $main-color;
+    font-size: 0.9rem;
+    font-weight: bold;
+    color: white;
+    line-height: 100%;
+    padding: $base-line-height / 8;
+    position: relative;
+    top: -$base-line-height / 2;
+  }
 }
 
 .btnEra {
@@ -501,15 +503,15 @@ blockquote {
   color: $main-color;
   line-height: 100%;
   border-radius: $base-line-height * 4;
-  padding: ($base-line-height / 3) ($base-line-height / 2)
-    ($base-line-height / 2.5) ($base-line-height / 2);
-  margin-bottom: $base-line-height / 2;
-}
-
-.btnEra:hover {
-  background: $main-color;
-  color: white;
-  border-color: $main-color;
+  padding: ($base-line-height / 4) ($base-line-height / 2)
+    ($base-line-height / 3) ($base-line-height / 2);
+  
+  margin: $base-line-height / 8 0 $base-line-height / 2 0;
+  &:hover{
+    background: $main-color;
+    color: white;
+    border-color: $main-color;
+  }
 }
 
 // BOOKLIST
@@ -517,10 +519,23 @@ blockquote {
 .bookList {
   border-bottom: 2px dashed white;
   height: $circleEraHeight;
-}
+  
+  li{
+    position: absolute;
 
-.bookList li {
-  position: absolute;
+    &:nth-child(odd) .btnBook {
+      box-shadow: 2px 2px 0px 0px $third-color;
+      
+      &:hover {
+        box-shadow: 5px 5px 0px 0px $third-color;
+        border-color: $third-color;
+      }
+      
+      &_icon svg {
+        fill: $third-color;
+      }
+    }
+  }
 }
 
 .btnBook {
@@ -535,46 +550,27 @@ blockquote {
   text-align: left;
   line-height: 100%;
   z-index: 20;
-}
-
-.btnBook:hover {
-  box-shadow: 5px 5px 0px 0px $main-color;
-  border-color: $main-color;
-}
-
-.btnBook_infos {
-  display: flex;
-  flex-direction: column;
-  flex-shrink: 0;
-}
-
-.btnBook_title {
-  font-weight: 600;
-}
-
-.btnBook_author {
-  font-size: 13px;
-}
-
-.btnBook_icon {
-  padding-right: 0.5rem;
-}
-
-.btnBook_icon svg {
-  fill: $main-color;
-}
-
-.bookList li:nth-child(odd) .btnBook .btnBook_icon svg {
-  fill: $third-color;
-}
-
-.bookList li:nth-child(odd) .btnBook {
-  box-shadow: 2px 2px 0px 0px $third-color;
-}
-
-.bookList li:nth-child(odd) .btnBook:hover {
-  box-shadow: 5px 5px 0px 0px $third-color;
-  border-color: $third-color;
+  &:hover{
+    box-shadow: 5px 5px 0px 0px $main-color;
+    border-color: $main-color;
+  }
+  &_infos{
+    display: flex;
+    flex-direction: column;
+    flex-shrink: 0;
+  }
+  &_title{
+    font-weight: 600;
+  }
+  &_author{
+    font-size: 13px;    
+  }
+  &_icon{
+    padding-right: 0.5rem;
+    svg{
+      fill: $main-color;
+    }
+  }
 }
 
 // AUTHOR LIST
@@ -584,21 +580,15 @@ blockquote {
   position: relative;
   top: -$circleEraHeight;
   list-style: none;
-
-  margin: 0 {
-
-  }
-
-  padding: 0;
+  margin: 0;
 }
 
 .authorsList {
   margin-top: $base-line-height; // * 2;
   height: $authorsHeight;
-}
-
-.authorsList li {
-  position: relative;
+  li{
+    position: relative;
+  }
 }
 
 .btnAuthor {
@@ -614,20 +604,25 @@ blockquote {
   padding: ($base-line-height / 16) ($base-line-height / 4)
     ($base-line-height / 16) ($base-line-height / 2);
   box-shadow: 1px 1px 0px 0px $main-color;
-  line-height: initial;
+  //line-height: initial;
+  line-height: 110%;
+  &:hover{
+    border: 3px solid $main-color;
+    cursor: pointer;    
+  }
+  &-noDescription{
+    background: $light-grey;
+    background: none;
+    box-shadow: none;
+    pointer-events: none;
+  }
+  svg{
+    width: $base-line-height/1.75;
+    height: $base-line-height/1.75;
+  }
+
 }
 
-.btnAuthor:hover {
-  border: 3px solid $main-color;
-  cursor: pointer;
-}
-
-.btnAuthor-noDescription {
-  background: $light-grey;
-  background: none;
-  box-shadow: none;
-  pointer-events: none;
-}
 
 .separatorAuthor {
   width: 9rem;
@@ -903,29 +898,67 @@ blockquote {
   @include breakpoint($large) {
     margin-top: -$base-line-height * 10;
   }
+  .circleEra_content{
+    max-width: $base-line-height * 15;
+  }
+  
+  .circleEra_title{
+    font-size: 2.5rem;
+    padding-bottom: $base-line-height/1.5;
+  }
 }
 
 /// MAIN MENU
-.main-menu {
+
+.mainMenu {
   position: absolute;
   top: 0;
-  height: 100vh;
-  width: 100vw;
-  background: $light-grey;
-  z-index: 2000;
   left: 0;
-  margin-top: $base-line-height * 2;
-
+  height: 100vh;
+  width: 100%;
+  background: $light-grey;
+  text-transform: none;
+  font-weight: bold;
+  padding: 0 $base-line-height;
+  box-shadow: $shadow-z4;
+  z-index: 2100;
+  
   @include breakpoint($medium) {
-    width: 20rem;
+    width: 26rem;
   }
 
-  ul {
+  &_title{
+    font-size: 2.197rem;
+    color: $main-color;
+    padding-top: $base-line-height;
+  }
+
+  &_list{
     list-style-type: none;
-    // padding: 0;
-    margin: 0;
+    padding: 0;
+    &_item{
+      margin: 0;
+      color: $main-font-color;
+      padding: $base-line-height/4 0;
+      a{
+        font-size: 1.1rem;
+        color: $main-font-color;
+        &:hover{
+          color: $main-color;
+        }
+      }
+    }   
+  }
+
+  .btn_close{
+    padding: $base-line-height/2;
   }
 }
+
+
+
+
+
 .page_period,
 .page_book {
   .page_banner {
