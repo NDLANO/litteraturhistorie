@@ -1,6 +1,8 @@
 <template lang="pug">
 PageBook
   h3 Salmedikteren Thomas Kingo
+
+  img.col.col6.right-image(src="./Kingo_Salmedikteren_Thomas_Kingo.jpg" alt="")
   p Den danske barokkdikteren Thomas Kingo (1634–1703) vokste opp i enkle kår, men fikk likevel gå på latinskole og ta universitetsutdanning. I 1677 ble han biskop i Fyn Stift. 
 
   p Kingo er best kjent for sin salmediktning, men han skrev også verdslige tekster, blant annet humoristiske dikt, hyllingsdikt og kjærlighetsdikt. 
@@ -8,6 +10,7 @@ PageBook
   p Kingo var en sterk tilhenger av eneveldet, en styreform som gav all makt til kongen. Det var kanskje grunnen til at danskekongen gav han i oppgave å lage en ny kirkeliturgi og ei salmebok for hele Danmark-Norge. Salmeboka kom ut i 1699 med tittelen Dend Forordnede Ny Kirke-Psalme-Bog. Kongen bestemte så at denne salmeboka skulle brukes av alle kirker både i Norge og Danmark. I ettertid er boka blitt kalt Kingos salmebok, siden hele 86 av de 300 salmene i boka er skrevet av Kingo selv. 
 
   h3 Kingos salmebok 
+  img.col.col6.left-image(src="./Kingo_Kingos_salmebok.jpg" alt="")
   p Kingos salmebok inneholder også salmer av Martin Luther, og Kingo falt i unåde hos kongen da han tillot seg å revidere Luthers salmer. 
 
   p Kingos salmer er skrevet i et poetisk språk og i formfullendte vers. I likhet med Petter Dass knyttet Kingo kristendommen til hverdagslivet. Salmene er dessuten skrevet til verdslige melodier. Tanken er at også folk fra allmuen skal kunne bruke salmene i hverdagslivet. 
@@ -22,6 +25,8 @@ PageBook
     li «Tiden skrider, dagen rinner» 
 
   h3 «Som den gyldne sol frembryder» 
+
+  img.col.col3.right-image(src="./Kingo_Alter.jpg" alt="")
 
   blockquote
     | Som den gyldne sol frembryder
@@ -45,6 +50,7 @@ PageBook
   p I salmen oppfordrer Kingo tilhørerne til å takke for dette påskeunderet og meditere over den nåden som er blitt alle til del gjennom Jesu død på korset. Salmen slutter med bønn og takksigelse, slik det er vanlig i den kirkelige liturgien.  
 
   h3 Andre tekster av Kingo 
+  img.col.col4.right-image.mt5(src="./Kingo_Kong_Fredrik_5.jpg" alt="")
   p I eneveldets tid var det viktig å holde seg inne med kongsmakta. En del av Kingos forfatterskap er derfor hyllingsdikt til den eneveldige kong Fredrik 5., som holdt liv i dikteren og gav han kirkelige embeter: 
 
   blockquote Lad dette Hastverk faae en liden Naade-Skygge, Og lad min Digter-Konst oppaa Din Mildhed bygge, Hvad min Blek-Pensel kun hår grunded denne gang, Skal bedre treffis i Din Fremtiids Seyer-Fang. Føer Sværdet midlertiid, hvor hen Dit Øye meder, Og hvor Guds Øye Dig fremlyvser og henleder: Giør af Din Mandoms Drifft hver Almanakke fuld, Saa skal Du skildris ud i Ævighed paa Guld. 
@@ -64,6 +70,10 @@ PageBook
 
   h3 Om salmelitteraturen 
   p På 1600-tallet er den religiøse litteraturen en viktig litterær sjanger. Den danske salmedikteren Thomas Kingo levde samtidig med de norske salmedikterne Petter Dass og Dorothe Engelbretsdotter. 
+
+  figure.col.col6.left-image
+   img(src='./Kingo_Om_salmelitteraturen.jpg' alt='')
+   figcaption Alterparti og barokkorgel frå 1765 i Kongsberg kyrkje
 
   p Salmene er skrevet til bruk hjemme og under gudstjenester i menigheten. De gjenspeiler høytidene i kirkeåret og den kirkelige liturgien. 
   p De fleste salmene er bygd opp etter et fast mønster som menigheten kan gjenkjenne. Formålet er å formidle et religiøst budskap. Gjennomgangsmotivet i barokksalmene er at alt skal forgå, men ved Guds nåde  kan mennesket få del i et liv etter døden. 

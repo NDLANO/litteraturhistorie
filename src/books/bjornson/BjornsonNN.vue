@@ -1,6 +1,10 @@
 <template lang="pug">
 PageBook
   h3 Den allsidige Bjørnstjerne Bjørnson
+
+  
+  img.col.col6.left-image.mt5(src="./Bjornson_Den_allsidige_Bjornstrjerne_Bjornson.jpg" alt="")
+  img.col.col6.left-image(src="./Bjornson_Signatur.jpg" alt="")
   p Bjørnstjerne Bjørnson (1832–1910) var fødd i Kvikne i Østerdalen. I ungdomstida flytte familien til Romsdal, der faren fekk ei prestestilling. Sytten år gammal sende faren Bjørnstjerne til Kristiania for å gå på Heltberg studentfabrikk. Her tok han examen artium som tjueåring. På Heltberg vart Bjørnson kjend med Jonas Lie, Henrik Ibsen og Aasmund Olavsson Vinje.
 
   p Opp gjennom livet skreiv Bjørnson både romanar, noveller, dikt og skodespel. Han var òg ein aktiv samfunnsdebattant og avisskribent. Han skreiv litteratur- og teatermeldingar og ivra mellom anna for ei fornorsking av teaterspråket. Språkengasjementet hans førte til at Riksmålsforbundet vart grunnlagt i 1907.
@@ -13,13 +17,20 @@ PageBook
 
   p Bjørnson døydde i Paris 26. april 1910. Kista vart frakta til København med jernbanevogna til kong Haakon, og vidare heim med panserskipet «Norge» til æresgravferd. Gravferda hans vitna om at Bjørnson var ein høgt elska samfunnsborgar. Det at han fekk nobelprisen i 1903, var òg ei stadfesting av kor høgt akta han var.
 
+  figure.col.col12
+   img(src='./Bjornson_kiste.jpg' alt='')
+   figcaption Bjørnsons kiste på veg heim
+
   h3 Bondeforteljingane – kultivering av bonden
   p Bondeforteljingane til Bjørnson kom ut i tidsrommet 1857–1860. Dei vekte oppsikt i samtida med si nyskapande og dristige form. Bjørnson skildra bøndene på ein måte som braut med den romantiske framstillinga som vi kjenner frå mellom anna Maurits Hansen nokre tiår tidlegare.
 
+  img.col.col6.left-image.mt5(src='./Bjornson_Bondefortellingene.jpg' alt='')
   p Hos Bjørnson møter vi bonden i eit røft kvardagsmiljø. Han skildra mellom anna fyll og slagsmål. Samstundes fekk Bjørnson kritikk for å idealisere livet til bøndene, og for å omtale dei som festkledde idealpersonar. Men for Bjørnson låg det ein pedagogisk tanke bak bondeforteljingane. Ønsket var å «kultivere» nordmennene, og da særleg bøndene – slik nasjonsbyggjarane såg dei som berarar av typisk norske verdiar.
   p Personane i bondeforteljingane er levande menneske med samansette, ofte konfliktfylte sinn, og vi møter dei i livssituasjonar der dei må gjere val. I En glad gutt (1860) får vi alt i første avsnitt vite at hovudpersonen Øyvind har eit varleg sinn. Han vekslar fort mellom sorg og glede, gråt og latter: «Øyvind hette han og gråt da han ble født. Men alt da han satt oppreist på morens fang, lo han, og når de tente lys om kvelden, lo han så det sang, men gråt da han ikke fikk komme bort til det. – ’Av den gutten må det bli noe rart’, sa moren.»
 
   h3 Forteljemåten i bondeforteljingane
+
+  img.col.col6.right-image.mt5(src='./Bjornson_Lokkeleg.jpg' alt='')
   p Når det gjeld forteljemåten, lét Bjørnson seg inspirere av sagastilen. Framstillinga er scenisk og sparsam når det gjeld kommentarar. Vi kjem rett inn i handlinga og lærer personane å kjenne gjennom det dei seier og gjer, med andre ord gjennom dialogar og handling.
 
   p Bjørnson er ordknapp i skildringa. Det ser vi for eksempel i innleiinga til En glad gutt: «Øyvind hette han og gråt da han ble født.» Også her er det sagastilen som har vore ein viktig inspirasjon. I tillegg lét Bjørnson seg inspirere av folkediktinga. Den munnlege stilen i tekstane hans var inspirert av folkeeventyra. Han tok også i bruk rim og regler, slik folkevisene gjer.
@@ -29,6 +40,9 @@ PageBook
   h3 Språket i bondeforteljingane
   p I ortografi og bøyingsmønster heldt Bjørnson seg stort sett til dansk, slik Asbjørnsen og Moe gjorde da dei skreiv ned folkeeventyra. Men både i syntaks (ordstilling) og ordval har bondeforteljingane eit særnorsk preg. Bjørnson gjekk derfor eit steg vidare i det fornorskingsarbeidet som Asbjørnsen og Moe var med på å starte.
 
+  figure.col.col12
+   img(src='./Bjornson_Spraaket_i_bondefortellingene.jpg' alt='')
+   figcaption Garden Bjørgan, der Bjørnson voks opp
   p Ei årsak til at Bjørnson hadde ein norskfarga syntaks, var nok at han sjølv snakka bygdemål i oppveksten. Men stilen i folkeeventyra og sogene spela også inn. Bjørnson bruker eit munnleg norsk språk med korte setningar: «’Er det ellers noe?’ spurte presten, han så på Tord. – ’Ellers er det intet.’ –Tord gikk.» («Faderen» 1860)
 
   p Vi finn særnorske uttrykk og norsk ordstilling i uttrykk som «Au, den gikk i stykker» og «Er den din, den bukken?» (En glad gutt). Bruk av peikande pronomen og bunden form av substantivet kallar vi dobbel bestemming («den bukken»). Dette er norsk uttrykksmåte og ikkje dansk, som har enkel bestemming («den bukk»).
@@ -52,14 +66,20 @@ PageBook
   p Prestesonen Bjørnson gjekk gjennom ei religiøs krise i 1870-åra. Han braut med kristendommen og søkte eit nytt livssyn i naturvitskapen og tankane til Charles Darwin. I darwinismen fann Bjørnson ei vitskapleg stadfesting av den optimistiske livstrua som alltid hadde vore ein grunntone i diktinga hans.
 
   p Det nye livssynet kjem til uttrykk i samlinga Salme II (1880). Her formidlar Bjørnson dei nye tankane han er påverka av, mellom anna at alle levande organismar har utvikla seg frå det enkle og primitive til det meir kompliserte og høgtståande.
+
+  img.col.col12(src='./Bjornson_tre.jpg' alt='')
   
-  h3 Politiker og folketaler
+  h3.mt40 Politiker og folketaler
   p Bjørnson var ein mann som meinte mykje om stort og smått – språk, union, seksualmoral og religion, småfuglar og jernbane. Han var kjend for å vere svært engasjert, og han var langt ifrå redd for konfliktar. Heilt frå han var ung, heldt han foredrag, og han reiste mykje rundt for å tale i ulike slags forsamlingar. Han talte for eksempel i Det Norske Studentersamfund, og han heldt tale for konservative norskamerikanarar i USA, på riksmålssamlingar og på folkemøte om unionsoppløysinga. Bjørnson hadde store talegåver og var ein retorikar av dei sjeldne. Ikkje alt han sa, var like godt grunngitt, og derfor storma det ofte rundt Bjørnson når han heldt innlegga sine.
 
+  img.col.col12(src='./Bjornson_Politiker_og_folketaler.jpg' alt='')
   p Dei innlegga Bjørnson kom med i det offentlege ordskiftet, viser at han var eit menneske i stadig endring og utvikling. Enda om han framførte synsmåtane sine med stor kraft og overtyding, var han ikkje redd for å skifte meining. Samstundes som han endra oppfatning, braut han gjerne med venner. Det gjorde han til ein omstridd person, og samtida hadde ikkje eit udelt positivt bilete av Bjørnson. Han var ofte nedsetjande i måten han omtalte motstandarane sine på, og han kunne vere nokså støyande.
 
   p Partipolitisk heldt Bjørnson med partiet Venstre. Gjennom artiklar og foredrag medverka han til å setje fokus på viktige saker partiet arbeidde for, for eksempel unionsspørsmålet.
 
+  figure.col.col12
+   img(src='./Bjornson_Aulestad.jpg' alt='')
+   figcaption Bjørnson på Aulestad
   p I språkkampen hevda han mellom anna at skilnaden mellom riksmål og landsmål var like stor som mellom norsk og portugisisk. I vår tid er det nok fleire som vil hevde at somme av standpunkta hans til tider var meir prega av fordommar enn av rasjonalisme.
   
   h3 Bjørnson – eit nasjonalt symbol
@@ -71,6 +91,9 @@ PageBook
 
   p Trass i at det til tider storma rundt han, var han ein høgt elska personlegdom. Gravferda hans vitnar om det – ho var ein konge verdig.
 
+  img.col.col12(src='./Bjornson_Grav.jpg' alt='')
+
+  .clear.mt40
 </template>
 
 <script>

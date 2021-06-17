@@ -1,6 +1,8 @@
 <template lang="pug">
 PageBook
   h3 Maurits Christopher Hansen (1794–1842)
+
+  img.col.col6.left-image(src='./MauritsHansen_portrett.jpg' alt='')
   p Maurits Hansen var en av de få norske forfatterne i tida like etter 1814. Interessen for litteratur og skriving ble vakt allerede i ungdommen. I tillegg til å være lærer og lærebokforfatter skrev han både dikt, noveller og romaner. 
 
   p I 1819 kom Maurits Hansens første større verk, romanen Othar af Bretagne – et riddereventyr. Påvirkningen fra tyske ridderromaner var tydelig, men Hansen var også nødt til å hente inspirasjon fra andre land, for det var omtrent ingen andre som skrev romaner i Noreg tidlig på 1800-tallet. 

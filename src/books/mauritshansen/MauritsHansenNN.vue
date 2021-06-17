@@ -2,6 +2,8 @@
 PageBook
   
   h3 Maurits Christopher Hansen (1794–1842)
+  
+  img.col.col6.left-image(src='./MauritsHansen_portrett.jpg' alt='')
   p Maurits Hansen er ein av dei få norske forfattarane i tida like etter 1814. Interessa hans for litteratur og skriving blir vekt allereie i ungdommen. Han skriv både dikt, noveller og romanar. I tillegg er han lærar og lærebokforfattar.
 
   p I 1819 kjem det første større verket av Maurits Hansen, romanen Othar af Bretagne. Det litterære førebiletet for boka er riddarromanane til den tyske romantiske forfattaren Friedrich de la Motte Fouqué (1777–1843).

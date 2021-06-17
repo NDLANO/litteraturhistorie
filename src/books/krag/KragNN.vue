@@ -1,19 +1,26 @@
 <template lang="pug">
 PageBook
   h3 Lyrikken vender tilbake
+
+  img.col.col4.left-image.mt5(src='./Krag_Lyrikken_vender_tilbake1.jpg' alt='')
   p Da diktet «Fandango» vart lese høgt i Studentersamfundet hausten 1890, vekte det stor begeistring hos tilhøyrarane. Her kom det noko heilt anna enn den samfunns- og problemorienterte prosalitteraturen som hadde dominert dei førre to tiåra. Forfattaren var ein nitten år gammal student, Vilhelm Krag. «Fandango» blir rekna som eitt av dei to programdikta som innleidde den nyromantiske perioden. Det andre diktet er «Jeg ser» (1893) av Sigbjørn Obstfelder. 
 
   p Vilhelm Krag (1871–1933) skreiv nokre nyromantiske diktsamlingar, men vart etter kvart meir og meir oppteken av heimstaddikting. Han var fødd og oppvaksen på Sørlandet, og i mange av tekstane skildra han naturen og folket i landsdelen.
 
+  figure.col.col6.right-image.mt5
+   img(src='./Krag_Lyrikken_vender_tilbake2.jpg' alt='')
+   figcaption Vilhelm Krag (i midten) med vener ved huset sitt i Ny Hellesund
+  img.col.col6.right-image.mt5(src='./Krag_Lyrikken_vender_tilbake3.jpg' alt='')
   p I dag er Krag mest kjend for dei muntre sørlandsvisene, og mange komponister har skrevet melodier til dikta hans. Andre kjende verk er folkekomedien Baldevins bryllup og Min barndoms have, ei varm forteljing om barndom og oppvekst. Gjennom dei muntre forteljingane om Morten og Silius har han skildra folket og naturen på Sørlandet. Men skildringane til Krag var ikkje berre idylliserande. Både borgarleg dobbelmoral, religiøs fanatisme og kvinneundertrykking er tema i bøkene hans.
 
   p Vilhelm Krag skreiv både lyrikk, drama, romanar og noveller, 43 bøker i alt. I tillegg til å skrive skjønnlitteratur arbeidde han både som teaterinstruktør, teatersjef og forlagskonsulent, og han var ein aktiv samfunnsdebattant. 
 
   h3 Digte (1891)
   p Vilhelm Krag debuterte med samlinga Digte berre nokre månader etter suksessen med opplesinga i Studentersamfundet. Han fekk strålande kritikkar og skryt i avisene for sin nyskapande poesi, og han vart omtalt som ein komande stor diktar.
-
+  
   p Den første teksten i samlinga er nettopp «Fandango». Diktet var ikkje berre ein frisk pust etter ein lang periode med samfunnskritisk prosa. Det bar også preg av nye impulsar frå europeisk litteratur og kulturliv, ein utradisjonell bruk av musikalske verkemiddel som klangar, rim og rytme. I tillegg kjem ei interesse for eksotiske stader og miljø, ei livskjensle som skifter mellom overstrøymande livsglede og djup melankoli, fortviling og sorg. Desse draga kan vi finne att i mykje av den nyromantiske diktinga i 1890-åra. 
 
+  img.col.col5.right-image.mt5(src='./Krag_Digte.jpg' alt='')
   blockquote
     | Ikke janischarmusik. 
     br
@@ -39,6 +46,8 @@ PageBook
     span(class="ml40") Fandango! 
 
   h3 Inspirasjon utanfrå – det eksotiske og framande 
+
+  img.col.col12(src='./Krag_Det_eksotiske_og_fremmede.jpg' alt='')
   p Eit typisk nyromantisk trekk ved «Fandango» er fascinasjonen for det fjerne og eksotiske, for stader og kulturar som dei fleste knapt hadde høyrt om. Vi finn mange slike eksotiske element i diktet: Her spelar dei janitsjarmusikk og dansar fandango – det eine tyrkisk militærmusikk, det andre ein spansk folkedans. Vi møter også dansarinner frå Tsjerkessia, eit lite avsidesliggjande land i Kaukasus.
 
   p Eg-personen i «Fandango» liknar ein sultan eller herskar i eit fjernt land. Han kan befale at musikantar skal spele, og at kvinner skal danse for han når han ønskjer det. Han kan nyte all verdas gleder og opplevingar. Men det finst ein ting han ikkje rår med, og det er døden. Vissa om at han òg må døy, verkar lammande på han, og det einaste botemidlet han kjenner til, er å be musikantane spele høg, taktfast janitsjarmusikk for å overdøyve dei skremmande tankane.
@@ -46,11 +55,18 @@ PageBook
   p Personen som minner eg-personen om døden, heiter Zerlina. Namnet kling framandarta og uvanleg i seg sjølv, men er nok også valt heilt bevisst. Zerlina er nemleg namnet på ei bondejente i Mozarts opera «Don Giovanni». Don Giovanni prøver å forføre henne, enda ho er trulova med ein annan. Han er berre oppteken av si eiga nyting, tek ikkje omsyn til andre og endar derfor i helvete. Både Don Giovanni og egpersonen i diktet kastar seg ut i uhemma sanseleg nyting for å sleppe å ta stilling til eksistensielle og vonde spørsmål. 
 
   h3 Inspirasjon utanfrå – dekadansediktarane 
+  
+  img.col.col12(src='./Krag_Dekadansedikterne1.jpg' alt='')
   p Med «Fandango» hadde Krag fanga inn straumane i tida. Han var nemleg slett ikkje den einaste diktaren i samtida som skreiv om korleis alt vent og levande ber i seg kimen til sin eigen undergang. Dei såkalla dekadansediktarane dyrka det eksotiske, sanselege og vakre, samstundes som dei var opptekne av forfallet og det heslege.
 
+  img.col.col4.left-image.mt5(src='./Krag_Dekadansedikterne2.jpg' alt='')
   p Ordet dekadanse tyder forfall, nedgang, særleg i kulturell forstand. Tida rett før og etter 1900 opplevde mange som sluttfasen av ein kulturell periode. Ein kunne sjå at ei ny tid var i emning, men samfunnsendringane gjorde menneska utrygge. I Frankrike brukte dei omgrepet «fin de siècle», det vil seie slutten på hundreåret, om den melankolske og urolege stemninga som følgde med denne overgangsfasen. «Fin de siècle»-stemninga prega verka til mange forfattarar og kunstnarar i Europa.
 
+  .clear
+
   h3 Inspirasjon utanfrå – symbolismen 
+
+  img.col.col4.left-image.mt5(src='./Krag_Symbolismen.jpg' alt='')
   p Krag og dei andre nyromantiske diktarane henta også inspirasjon frå symbolismen, ei litterær retning som voks fram i Frankrike og Belgia i andre halvdel av 1800-talet. Symbolistane ville ikkje at kunsten skulle vere realistisk eller samfunnskritisk. Dei ønskte ein kunst som uttrykte idear og kjensler, men på ein indirekte måte. Motivet i eit måleri eller eit dikt skulle ha symbolsk (overført) innhald og stå for noko anna og meir enn seg sjølv.
 
   p Diktet «Der skreg en fugl», som også er henta frå debutsamlinga til Krag, kan seiast å vere eit godt eksempel i så måte. Det skildrar ein kort augneblink, nokre få sanseinntrykk, som formidlar ein sinnstilstand av djup melankoli: 
@@ -81,6 +97,9 @@ PageBook
 
   p Krag skaper ei førestelling om Sørlandet som ein eigen landsdel, og han prøver å gi folket som bur der, ein identitet. I ein artikkel i Morgenbladet frå 1902 foreslår han å kalle landsdelen med kyststripe frå Risør til Flekkefjord for Sørlandet. Forslaget fekk raskt gjennomslag.
 
+  figure.col.col6.right-image
+   img(src='./Krag_Sange_fra_min_oe.jpg' alt='')
+   figcaption «Morgen i Ny Hellesund» av Amaldus Nielsen
   blockquote
     | O Sørland, du min moderjord, 
     br

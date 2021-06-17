@@ -8,11 +8,14 @@ PageBook
   //Lyd eller video her?
 
   h3 En stimulerende oppvekst
+  img.col.col4.left-image.mt5(src='./Collett_En_stimulerende_oppvekst.jpg' alt='')
   p Camilla Collett vokste opp på Eidsvoll prestegård, der faren Nicolai Wergeland var sogneprest. Hjemmet deres gav grobunn for intellekt og kreativitet, både hos Camilla og den eldre broren Henrik. Faren var påvirket av nye tanker og ideer fra Rousseaus opplysningsfilosofi, og han sørget for at Camilla fikk mer utdanning enn det som var vanlig for jenter på den tida. Hun gikk på skole både i Danmark og Tyskland, hun lærte seg språk og var godt orientert i dansk og tysk litteratur. I tillegg var Camilla musikalsk og hadde interesse for teater. 
 
   p Selv om oppveksten på Eidsvoll var stimulerende nok, kjedet Camilla seg på prestegården i ungdomstida. Faren tok henne derfor med på reiser til blant annet Hamburg og Paris. Utenlandsreisene var en inspirasjon, her møtte hun nye mennesker og nye tanker. 
 
   h3 En kvinnelig skribent 
+
+  img.col.col4.left-image.mt5(src='./Collett_En_kvinnelig_skribent.jpg' alt='')
   p Interessen for litteratur og samfunnsspørsmål gjorde at Camilla Collett prøvde seg som skribent mot slutten av 1830-årene. Det håndskrevne bladet ”Forloren Skilpadde” kom ut på Eidsvoll, og hun skrev sine første fiksjonstekster. I tillegg skrev hun litteraturkritiske essay og artikler. I hele denne perioden var hun også en aktiv dagbok- og brevskriver. 
 
   p I 1841 giftet Camilla seg med Peter Jonas Collett. Han var jurist, embetsmann og politiker. Men han var også litteraturkritiker og en kulturinteressert person som oppmuntret Camilla til å fortsette med skrivingen. 
@@ -22,6 +25,8 @@ PageBook
   h3 Amtmandens Døttre 
   p Camilla Collett hadde arbeidet med Amtmandens Døttre i lang tid da boka kom ut anonymt i 1855. Romanen regnes i dag som det første realistiske og samfunnskritiske verket i norsk litteratur, og som den første tendensromanen. Kritikken retter seg mot oppdragelsen og de samfunnsnormene som hindret unge jenter i å bestemme over eget liv. 
 
+  img.col.col12(src='./Collett_Amtmandens_Døttre1.jpg' alt='')
+
   p Handlingen i romanen er lagt til en amtmannsgård. Den yngste amtmannsdattera, Sofie, opplever at søstrene blir giftet bort. Hun ser derfor med gru på at hun selv skal ende opp i et arrangert ekteskap uten kjærlighet. Da hun møter den nyansatte fullmektigen på amtmannskontoret, oppstår det søt musikk mellom dem. Men mistolkinger og uheldige sammentreff gjør at det ikke blir noe mer av forholdet. At Sofie seinere får avklart hva som hindret henne i å få sin store kjærlighet, hjalp ikke. Da var det for seint. Sofie var allerede giftet bort til en eldre enkemann og prest. 
 
   p Budskapet i romanen er at fornuftsekteskap ofte fører til undertrykking av individene, særlig kvinnen. Collett går så langt at hun omtaler kvinner som ”varer”. Kvinnen er et objekt i et mannssamfunn, sier hun. 
@@ -30,6 +35,10 @@ PageBook
   p Amtmandens Døttre er et pionerverk i kvinnesaksdebatten her til lands. Det er den første teksten som for alvor tematiserer kvinnenes manglende rettigheter. 
 
   p Et annet poeng er at Camilla Collett ut fra dagens begreper kan defineres som forskjellsfeminist, i alle fall i Amtmandens Døttre. Hun argumenterer ikke for at menn og kvinner er like og derfor bør ha de samme rettighetene. Hun tar utgangspunkt i at menn og kvinner er ulike, men at kvinner må respekteres på lik linje med menn. Derfor er det retten til å bli hørt og sett – som kvinne – hun kjemper for. 
+
+  figure.col.col12
+   img(src='./Collett_Kvinnesak.jpg' alt='')
+   figcaption Vitseteikning frå 1869 som viser omsnudde kjønnsroller
 
   p En del av samfunnsendringene som skjer mot slutten av 1800-tallet, fører gradvis til et nytt kvinnesyn. De teknologiske og industrielle framskrittene gjør at flere kvinner får lønnsarbeid. Urbanisering og økende utdanning bidrar også til en gradvis endring i synet på kvinnens posisjon i samfunnet. 
 
@@ -63,6 +72,8 @@ PageBook
   p Utover i 1870-årene er det flere tegn på at kampen for kvinnens rettigheter er i ferd med å gi resultater. Tida er nå åpen for å sette kritisk søkelys på emner som har med kvinnens samfunnsrettigheter å gjøre. Andre store forfattere, som Ibsen,  Kielland og Lie, skriver nå samfunnskritiske tekster som alle rommer sterke, selvstendige kvinner med styrke og vilje, og de har det til felles at de er i opposisjon til hykleri og undertrykking. En ny tid og nye  oldninger er i emning. 
 
   p I 1884 ble Norsk Kvindesagsforening stiftet. Kampen motstrøms hadde gitt resultater. Camilla Collett var selv en stor inspirator både for Amalie Skram og andre unge kvinner som skulle komme seinere. 
+
+  img.col.col6.right-image.mt5(src='./Collett_Grav.jpg' alt='')
 
   p De to siste bøkene av Camilla Collett kom ut i 1879 og 1885. Begge er samlinger av tidligere artikler og essay, og begge har tittelen Mod Strømmen (I og II). Det er her hun identifiserer seg med kjerringa fra folkeeventyret, kjerringa som fløt mot strømmen: «Og saa vil jeg blive ved at klippe og klippe de seige Strenge, der binder os til den gamle Trældom, blive ved, blive ved, indtil Stemmen lyder over en Gravhøi.» Collett døde i 1895, men stemmen hennes inspirerer fortsatt kvinner.  
 

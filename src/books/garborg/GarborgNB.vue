@@ -2,6 +2,8 @@
 PageBook
   
   h3 En intellektuell forfatter i møte med ei ny tid
+
+  img.col.col4.left-image.mt5(src='./Garborg_En_intellektuell_forfatter.jpg' alt='')
   p Arne Garborg var dikter, journalist, kritiker og essayist. Han var en av de viktigste forfatterne i samtida si og spilte en sentral rolle i kultur- og samfunnsdebatten i 1880- og 1890-årene. Målet hans var hele tida å modernisere det norske samfunnet, og han hadde tanker og visjoner om hvordan vanlige folk skulle få kunnskap og politisk påvirkningskraft i et samfunn i  endring. 
 
   p I tillegg var han en sterk forsvarer av nynorsk språk både i litteraturen og i journalistikken. For han var språket en forutsetning for kulturen. Men Garborg evnet også å se utover landegrensene. Han mente at kulturen trengte impulser utenfra 
@@ -11,6 +13,11 @@ PageBook
   p Spørsmål om livssyn og kristentro går igjen i det meste av det Garborg skrev. Han vokste opp på Jæren i ei tid da pietismen dominerte og satte strenge grenser for livsutfoldelse, og dette kom til å prege han hele livet. Et tema som han stadig vendte tilbake til, er den pietistiske kristendommen og hvordan tvang og hykleri skaper bundne og ufrie individer.  
   
   h3 Jærbu og fritenker 
+
+  figure.col.col6.right-image
+   img(src='./Garborg_Jaerbu_og_fritenker.jpg' alt='')
+   figcaption På denne garden på Jæren voks Garborg opp.
+
   p Arne Garborg var odelsgutt til en gård på Jæren, men han viste tidlig mer interesse for boklig lærdom enn gårdsarbeid, og det var naturlig for han å ta lærerutdanning. I tillegg hadde han et sterkt behov for å komme seg bort. Han gikk lærerseminaret i Holt i Aust-Agder fra 1868 til 1870, deretter var han lærer i Søndeled et års tid. 
 
   p Men det var skriving han ville drive med, og derfor var han med på å grunnlegge Tvedestrandsposten i 1872. Året etter reiste Garborg til Kristiania for å studere. Han tok en utmerket examen artium ved Heltberg studentfabrikk i 1875. 
@@ -20,6 +27,8 @@ PageBook
   p I 1878 og 1879 skrev han fortsettelsesfortellingen Ein Fritenkjar, som ble publisert i Fedraheimen. Her kan vi lese om teologen som ikke lenger har den rette troen, og som orienterer seg bort fra det kirkelige. Med denne fortellingen gikk Garborg rett inn i et stort stridsemne. Han var hele livet gjennom sterkt kritisk til både kirken og pietismen, men etikken hans bygde på kristne grunnverdier. 
   
   h3 Europeeren Garborg 
+
+  img.col.col4.left-image.mt5(src='./Garborg_Europeeren_Garborg.jpg' alt='')
   p I 1883 kom romanen Bondestudentar, som ble Garborgs gjennombrudd som forfatter. Hovedpersonen i boka, Daniel Braut, er bondesønn og skal studere i byen. Garborg viser hvordan fattigdom og lav selvfølelse ødelegger for Daniel. Han ender opp med å svikte røttene og idealene sine. 
 
   p Garborg så tidlig på seg selv som europeer og gjorde reiser til flere europeiske land. Der ble han påvirket av nye ideer og tanker. I essayet «Bondekultur og åndsfridom» gikk han kraftig imot forestillingen om at en hjemlig kultur skal være bygd på «heimleg grunn». Språket er nasjonalt og en forutsetning for kultur, sier han, men kulturen er grenseløs: 
@@ -35,6 +44,11 @@ PageBook
   p En av karakterene i romanen, Georg Jonathan, drømmer om et frivillig og likeverdig kjærlighetsforhold. Men han og kjæresten Julie Lindner forstår fort at et slikt forhold er umulig i et samfunn der kvinner ikke kan livnære seg selv, og der mennene må vente i mange år før de får råd til å forsørge ei kone. Dette systemet gir mannen makt i samfunnet og i familien, men det ødelegger samtidig følelseslivet hans og tvinger fram usedelighet. For kvinnene er det enda verre – de har verken selvstendige liv eller håp om fritt å kunne velge ektefelle.
 
   p Året før Mannfolk kom ut, hadde Christian Krohg gitt ut romanen Albertine, der hovedpersonen er ei fattig jente som ender opp som prostituert. Boka til Krohg ble stoppet og beslaglagt, og Krohg ble dømt for usedelig virksomhet. Mannfolk ble ikke stoppet, men reaksjonene var kraftige fra både politisk og kulturelt hold, og Garborg mistet jobben som statsrevisor året etter på grunn av boka og debattinnleggene sine.
+
+  .flex.flex-justify-center
+    figure.col.col12
+    img(src='./Garborg_Mannfolk.jpg' alt='')
+    figcaption Chr. Krohg: «Albertine i politilægens venteværelse»
 
   h3 Trætte Mænd – en dekadanseroman 
   p Rundt 1890 hadde Garborg fått et forfatternavn utenfor Norge, og i Tyskland var han en periode den mest leste av alle nordiske forfattere. Trætte Mænd (1891) skrev Garborg på dansk. Det er ein eksperimentell roman i dagbokform. Hovedpersonen Gabriel Gram mislykkes med alle kjærlighetsprosjektene sine. Han får heller aldri riktig bestemt seg for hva slags verdier og normer han vil leve etter. Til slutt ender han opp i en slags religiøs mystisisme. 
@@ -55,10 +69,19 @@ PageBook
   p Verket forteller om ungjenta Veslemøy, som er synsk. Hun ser huldrer, nisser og troll, og haugfolkene (de underjordiske) prøver å lokke henne til seg for å få makt over henne. Men hun står imot. Hun ser at det eneste som kan gi fred, er å gjennomleve sorgen og lidelsen over kjærligheten og sviket hun har opplevd. Bare slik kan hun være et menneske. Budskapet i Haugtussa er at mennesket ikke kan flykte fra sorgene og lidelsene det møter, tvert om må vi møte lidelsene og gjennomleve dem for at vi skal komme videre. 
 
   h3 Journalisten Garborg 
-  Arne Garborg var en svært dyktig journalist, og det var journalistikken som sørget for levebrødet. Særlig i 1880-årene markerte han seg med sine kritiske og skarpsynte artikler om politikk, språk og kultur, og han var svært produktiv. 
+
+  figure.col.col6.right-image
+   img(src='./Garborg_Arne_og_Hulda.jpg' alt='')
+   figcaption Arne og Hulda Garborg var aktive i samfunnsdebatten i 1890-årene
+   
+  p Arne Garborg var en svært dyktig journalist, og det var journalistikken som sørget for levebrødet. Særlig i 1880-årene markerte han seg med sine kritiske og skarpsynte artikler om politikk, språk og kultur, og han var svært produktiv. 
 
   p Garborg var også en ypperlig essayist. I Kolbotnbrev, trykt i Fedraheimen og utgitt i bokform i 1890, finner vi samfunnsrefsende og ironiske tekster om politikk og kultur. Han skrev om spenninger og overganger i åndslivet og tok opp spørsmål knyttet til identitet og modernitet. Til og med i en anmeldelse av Hanna Winsnes’ kjente kokebok greide Garborg på en elegant og vittig måte å vise hvordan sosial urettferdighet og klassekonflikt kommer til syne gjennom matoppskrifter.  
 
+  figure.col.col6.right-image
+   img(src='./Garborg_Knudaheio.jpg' alt='')
+   figcaption Dikterstuen på Knudaheio på Jæren
+   
   p Bakgrunnen for tittelen Kolbotnbrev var at Arne Garborg og kona Hulda i noen år bodde i ei lita stue i Kolbotn i Østerdalen. Garborg var svært produktiv i denne perioden, og Hulda var medprodusent og redaktør. Hulda Garborg (født Bergersen) var dessuten et skrivende menneske, og hun gav blant annet ut to romaner: Et frit Forhold (1892) og Kvinden skabt af Manden (1904). Hulda Garborg stod for et radikalt kvinnesyn som nok påvirket mannen hun var gift med. 
 
   p Utpå 1890-tallet flyttet ekteparet til Jæren, og Garborg bygde ei dikterstue på Knudaheio. I Knudaheibrev (utgitt i bokform i 1904) utdyper han tanker om barndomstida og oppveksten, og han setter hele livet sitt inn i en kulturhistorisk sammenheng. 
@@ -70,7 +93,11 @@ PageBook
 
   p Arne Garborg var en autoritet og pådriver i arbeidet med å videreutvikle det nynorske skriftspråket og den nynorske skriftkulturen. Samtidig var han helt tydelig på at ikke noe land kan være seg selv nok i kultursammenheng, en levende nasjonal kultur har behov for jevnlig fornyelse gjennom impulser utenfra. 
 
+  figure.col.col12
+   img(src='./Garborg_Målmannen_Garborg.jpg' alt='')
+   figcaption Minnesmerke over Arne Garborg på Knudaheio
 
+  .clear.mt40
 
 </template>
 
