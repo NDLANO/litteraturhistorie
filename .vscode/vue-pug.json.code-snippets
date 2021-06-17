@@ -33,7 +33,7 @@
   "Figure image with caption floating left": {
     "prefix": "mffigl",
     "body": [
-      "figure.col.col6.left-image",
+      "figure.col.col6.left-image.mt5",
       " img(src='$1' alt='$2')",
       " figcaption $0"
     ],
@@ -42,7 +42,7 @@
   "Figure image with caption floating right": {
     "prefix": "mffigr",
     "body": [
-      "figure.col.col6.right-image",
+      "figure.col.col6.right-image.mt5",
       " img(src='$1' alt='$2')",
       " figcaption $0"
     ],
