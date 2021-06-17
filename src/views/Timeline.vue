@@ -13,8 +13,12 @@
   .lo_topBar
     header.lo_topBar_header
       // * button - jump to period
-      button.btn_menu
+      button.btn_menu(@click="onButtonMenuClick")
         MenuIcon
+      nav.main-menu
+        ul
+          li(v-for="period in periods" :key="period.id")        
+            a(href="#" @click="onNavButtonClick(period.id)") {{ period.nbTitle}}
       h1 Språk- og litteraturhistorisk tidslinje
       .lo_topBar_filters
           button.btn_filter
@@ -102,6 +106,15 @@ export default {
   },
   inject: ["globalVars"],
   methods: {
+    onNavButtonClick(era) {
+      console.log("Timeline.onNavButtonClick: era = ", era);
+      const eraButton = document.getElementById(era);
+      eraButton.scrollIntoView({
+        // behavior: "smooth",
+        block: "end",
+        inline: "center",
+      });
+    },
     onTimelineSectionClick(event) {
       this.globalVars.timelineScrollLeft = this.$refs.lo_sectionList.scrollLeft;
       this.globalVars.timelineScrollTop = this.$refs.lo_sectionList.scrollTop;
