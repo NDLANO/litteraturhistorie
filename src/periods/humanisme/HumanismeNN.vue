@@ -8,7 +8,7 @@ PagePeriod(
   h3 Tida og samfunnstilhøva  
 
   figure.col.col6.left-image
-    img(src="./Humanisme_Tida_og_samfunnsforholdene1.jpg" alt="Prest, riddar og bonde, dei berande stendene i det føydale samfunnet")
+    img(src="./Humanisme_Tida_og_samfunnsforholdene1.jpg" alt="")
     figcaption Prest, riddar og bonde, dei berande stendene i det føydale samfunnet  
 
   h5 Menneskesynet i mellomalderen 
@@ -25,7 +25,7 @@ PagePeriod(
 
   h5 Frå stormakt til katastrofe 
   figure.col.col6.right-image
-    img(src="./Humanisme_Tida-og-samfunnsforholdene2.jpg" alt="”Pesten i trappa”. Teikning av Theodor Kittelsen")
+    img(src="./Humanisme_Tida-og-samfunnsforholdene2.jpg" alt="")
     figcaption ”Pesten i trappa”. Teikning av Theodor Kittelsen  
   p
    | På 1200-talet er Noreg ei stormakt, men 1300-talet blir ei katastrofal nedgangstid for landet. I 1349 kjem svartedauden til landet, og om lag to tredelar av folket stryk med. Det skal gå fleire hundre år før folketalet kjem opp på same nivået som før pesten braut ut. 
@@ -34,8 +34,8 @@ PagePeriod(
   p
    | Etter svartedauden ligg det meste nede her i landet, men i Italia startar ei ny utvikling. Der blomstrar handelen opp, og kjøpmennene kjem i kontakt med andre land og kulturar. Handelsborgarane i byane blir ei viktig samfunnsgruppe, og jordeigarane mister dermed noko av makta. Med auka handel får også pengeøkonomien etter kvart større plass. 
 
+  img.col.col6.mt5.right-image(src="./Humanisme_Tida-og-samfunnsforholdene3.jpg" alt="")
   h5 Boktrykkjarkunsten – ei ny tid 
-  img.left-image(src="./Humanisme_Tida-og-samfunnsforholdene3.jpg")
 
   p
    | Johann Gutenberg (1397–1468) blir rekna som opphavsmann til boktrykkjarkunsten. Han konstruerer ei presse og blybokstavar til å trykkje med. Den første boka til Gutenberg er ein bibel som kjem på midten av 1400-talet. Den første vekeavisa blir trykt og utgitt i Strasbourg i 1609. Det første trykkjeriet i Noreg blir opna i 1643.
@@ -45,13 +45,13 @@ PagePeriod(
    | er ein av dei første diktarane i mellomalderen som skriv på morsmålet i staden for latin. I Den guddommelege komedien skildrar han si eiga (tenkte) reise gjennom helvete, skjærseld og til slutt paradiset. Samtidig flettar han inn tankar om både religion, filosofi, vitskap og politikk.
    
 
-  h3 Tankar i tida 
 
-  h5 Renessansen 
-  figure.left-image
-    img(src="./Humanisme_Tanker_i_tida1.jpg" alt="”Mona Lisa” av Leonardo da Vinci")
+  h3 Tankar i tida 
+  figure.col.col6.left-image.mt5
+    img(src="./Humanisme_Tanker_i_tida1.jpg" alt="”")
     figcaption ”Mona Lisa” av Leonardo da Vinci
 
+  h5 Renessansen 
   p
     | Kontakten med andre land og kulturar fører til at folk blir meir opne for nye tankar og impulsar. Også kunsten endrar seg. Den nye kulturelle utviklinga byrjar i Italia og blir kalla rinascimento (atterføding). Men det er den franske versjonen av ordet, renaissance, som har funne vegen inn i dei andre europeiske språka. Det som ligg i ordet atterføding, er gjenoppdaginga av den førkristne, antikke kunsten, særleg den greske.
 
@@ -60,36 +60,37 @@ PagePeriod(
     | Det veks også fram ei sterk interesse for gresk og romersk språk og litteratur, og for historie og filosofi. Denne delen av renessansen kallar vi humanisme. Også humanismen har sitt utspring i Italia på 1300-talet. Nord for Alpane får ikkje humanismen gjennomslag før omkring år 1500. Ein framståande representant for humanismen er Leonardo da Vinci (1452–1519). Han er både vitskapsmann og kunstnar. 
 
   
+  div.mb60
+    figure.col.col4.left-image
+      img(src="./Humanisme_Tanker_i_tida2.jpg" alt="")
+      figcaption Copernicus med det nye biletet av universet, måleri av Jan Matejko
+    h5.mt20 Eit nytt menneskesyn 
+    p
+      | Synet på mennesket endrar seg. Gjennom heile mellomalderen har menneska orientert seg mot Gud og livet etter døden. Med renessansen kjem mennesket sjølv og det jordiske livet i fokus. 
 
-  h5 Eit nytt menneskesyn 
-  figure.col.col4.left-image
-    img(src="./Humanisme_Tanker_i_tida2.jpg" alt="Copernicus med det nye biletet av universet, måleri av Jan Matejko")
-    figcaption Copernicus med det nye biletet av universet, måleri av Jan Matejko
-  p
-    | Synet på mennesket endrar seg. Gjennom heile mellomalderen har menneska orientert seg mot Gud og livet etter døden. Med renessansen kjem mennesket sjølv og det jordiske livet i fokus. 
+    h5 Store oppdagingar 
+    p
+      | Det blir gjort store oppdagingar, som for eksempel at jorda er rund, og at planetane går i bane rundt sola. Copernicus påviser at sola står i sentrum av universet, og Galileo Galilei kjem fram til at universet er uendeleg. 
 
-  h5 Store oppdagingar 
-  p
-    | Det blir gjort store oppdagingar, som for eksempel at jorda er rund, og at planetane går i bane rundt sola. Copernicus påviser at sola står i sentrum av universet, og Galileo Galilei kjem fram til at universet er uendeleg. 
+    h5 Ein ny tenkjemåte 
+    p
+      | Slike oppdagingar gjer at mange tek til å tenkje meir kritisk enn dei har gjort før, og det veks fram ei tru på at mennesket er eit tenkjande og sjølvstendig individ. Med andre ord: Trua på mennesket som eit skapande individ er i ferd med å vekse fram. 
 
-  h5 Ein ny tenkjemåte 
-  p
-    | Slike oppdagingar gjer at mange tek til å tenkje meir kritisk enn dei har gjort før, og det veks fram ei tru på at mennesket er eit tenkjande og sjølvstendig individ. Med andre ord: Trua på mennesket som eit skapande individ er i ferd med å vekse fram. 
+  div
+    h5 Reformasjonen: eit trugsmål mot avlatshandelen
+    p
+      | Kyrkja er ein rik institusjon som i heile mellomalderen berre auka rikdommen sin gjennom gåver og skattar. Avlatshandelen er ei viktig inntektskjelde. Avlat går ut på at folk kan kjøpe seg fri frå synd. Dersom ein betaler ein viss sum til ein munk eller ein prest, kan denne på Guds vegner forlate all synd. 
 
-  h5 Reformasjonen: eit trugsmål mot avlatshandelen
-  figure.col.col4.right-image
-    img(src="./Humanisme_Tanker_i_tida3.jpg" alt="Martin Luther måla av Lucas Cranach i 1529")
-    figcaption Martin Luther måla avLucas Cranach i 1529
-  p
-    | Kyrkja er ein rik institusjon som i heile mellomalderen berre auka rikdommen sin gjennom gåver og skattar. Avlatshandelen er ei viktig inntektskjelde. Avlat går ut på at folk kan kjøpe seg fri frå synd. Dersom ein betaler ein viss sum til ein munk eller ein prest, kan denne på Guds vegner forlate all synd. 
-
-  h5 Ein modig opprørar 
-  p
-    | Martin Luther (1483–1546) er ein tysk prest som er kritisk til denne praksisen. Han synest menneska blir haldne nede av autoritære religiøse reglar og ordningar. Luther hevdar mellom anna at det berre er trua som frelser, ikkje gjerningar eller avlat. Konflikten endar med at kyrkja blir splitta i ei katolsk og ei protestantisk (evangelisk-luthersk) retning. 
+    figure.col.col4.right-image.mt20
+      img(src="./Humanisme_Tanker_i_tida3.jpg" alt="")
+      figcaption Martin Luther måla avLucas Cranach i 1529
+    h5 Ein modig opprørar 
+    p
+      | Martin Luther (1483–1546) er ein tysk prest som er kritisk til denne praksisen. Han synest menneska blir haldne nede av autoritære religiøse reglar og ordningar. Luther hevdar mellom anna at det berre er trua som frelser, ikkje gjerningar eller avlat. Konflikten endar med at kyrkja blir splitta i ei katolsk og ei protestantisk (evangelisk-luthersk) retning. 
 
   h3 Litteraturen 
   figure
-    img(src="./Humanisme_Litteraturen.jpg" alt="Det er Bergen som er storbyen og hovudstad i Noreg på 1500-talet. Scholeus-stikket frå 1580 er eit av dei eldste bileta frå Bergen.")
+    img(src="./Humanisme_Litteraturen.jpg" alt="")
     figcaption Det er Bergen som er storbyen og hovudstad i Noreg på 1500-talet. Scholeus-stikket frå 1580 er eit av dei eldste bileta frå Bergen.
   h5 Impulsane frå sør når ikkje fram  
   p
@@ -116,7 +117,7 @@ PagePeriod(
   h3 Språket  
 
   figure
-    img(src="./Humanisme_Spraaket.jpg" alt="Diplomatarium Norvegicum: Ei side av eit brev frå dronning Margrete til kong Håkon 6.")
+    img(src="./Humanisme_Spraaket.jpg" alt="")
     figcaption Diplomatarium Norvegicum: Ei side av eit brev frå dronning Margrete til kong Håkon 6.  
 
   h5 Norrønt skriftspråk går til grunne  

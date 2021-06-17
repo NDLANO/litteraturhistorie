@@ -1,5 +1,9 @@
 <template lang="pug">
 PageBook(:showAuthor="false")
+
+  .mt40
+  img.col.col6.right-image(src="./Flora_Danica_Flora_Danica.jpg" alt="")
+
   p Flora Danica er tittelen på to bøker som i tekst og bilder skildrer dansk og norsk flora (planterike). Den eldste boka ble gitt ut i 1648 av den danske legen Simon Paulli. Han var professor og kirurg ved Universitetet i København. 
 
   p Det var danskekongen Fredrik 3. som gav Paulli oppdraget. Formålet var å lage en plantesamling som kunne være til opplysning for vanlige folk. 
@@ -11,6 +15,8 @@ PageBook(:showAuthor="false")
   h3 Norsk botanikk i Flora Danica og Flora Norvegica 
   p I 1755 startet den tyske professoren Georg Christian Oeder arbeidet med å kartlegge norske planter for Flora Danica. Med seg hadde han en illustratør som tegnet alle plantene som ble registrert. Tegningene ble overført til kopperplater, som så ble brukt i trykkeprosessen. Det ble utgitt både kolorerte (fargelagte) og ukolorerte hefter med disse kopperstikkene. 
 
+  img.col.col6.left-image.mt5(src="./Flora_Danica_Flora_Norvegica.jpg" alt="")
+
   p Flere norske botanikere deltok i arbeidet med verket, blant annet Hans Strøm, biskop Johann Ernst Gunnerus, som også gav ut Flora Norvegica, og bergenseren Martin Vahl, som danskekongen utnevnte til redaktør av Flora Danica i 1785. 
 
   p Gunnerus’ verk Flora Norvegica kom ut for første gang i 1766. I alt er 1118 norske arter omtalt. Boka er skrevet på latin, men Gunnerus fører også opp de tilsvarende norske, danske og tyske navnene. Mange av de plantene Gunnerus skriver om, hadde han selv funnet på visitasreisene han gjorde som biskop i Nordland og Finnmark. 
@@ -18,6 +24,11 @@ PageBook(:showAuthor="false")
   p Gunnerus beskriver plantene, han forteller hvilke medisinske egenskaper de har, og hva de ellers kan brukes til. Samtidig gir han ofte kulturhistoriske opplysninger. 
 
   h3 Barn av opplysingstida 
+
+  figure.col.col6.right-image.mt5
+    img(src="./Flora_Danica_Barn_av_opplysningstida.jpg" alt="")
+    figcaption Illustrasjon fra Flora Norvegica 
+
   p Flora Danica er ett av mange oppslagsverk som så dagens lys i den perioden vi kaller opplysningstida. Bøkene skulle spre kunnskap og skape grobunn for et samfunn bygd på opplysning og fornuft. 
 
   p Professor Oeder var også opptatt av at mandatet hans var å drive folkeopplysning. På 1600- og 1700-tallet ble lærde verk skrevet på latin. Flora Danica kom ut i tre parallellutgaver, på latin og på «landets Sprog, det Danske og det Tydske», slik at vanlige folk skulle kunne lese bøkene. Innholdet var også tilrettelagt for folk som ikke hadde studert botanikk. 
@@ -27,6 +38,11 @@ PageBook(:showAuthor="false")
   p Den svenske vitenskapsmannen Carl von Linné (1707–1778) klassifiserte helt systematisk alle arter han kjente til i plante- og dyreriket. Klassifiseringen hans er ennå gjeldende i biologien, bare med mindre endringer.
   
   h3 Andre læreverk i opplysningstida 
+
+  figure.col.col4.left-image.mt5
+    img(src="./Flora_Danica_Andre_læreverk.jpg" alt="")
+    figcaption Tittelbladet på Det første Forsøg paa Norges naturlige Historie av Erik Pontoppidan
+
   p I samme periode kom det ut flere opplysningsbøker, blant annet reiseskildringer og bøker om språk, geografi og historie. Den danskfødte bergensbiskopen Erik Pontoppidan gav ut ei norsk ordbok i 1749, og en skildring av norsk historie i 1755. Mest kjent er han nok likevel for sin forklaring til Luthers katekisme. Den ble brukt i kristendomsopplæringen i Norge til langt ut på 1900-tallet. 
 
   p Presten Hans Egede ble født på Trondenes i Nordland. I 1721 reiste han til Grønland for å lete etter etterkommerne av de norske vikingene. Han ville også omvende folket der til protestantismen. Som mange andre prester i samtida var Egede opptatt av naturvitenskap og geografi. I 1741 gav han ut boka Grønlands naturelle historie. 

@@ -189,7 +189,7 @@ PagePeriod(
   img(src="./Realisme_Naturalismen1.jpg")
   p I 1880-årene levde realistisk og naturalistisk diktning side om side. Naturalistisk diktning er en videreføring av den realistiske, men hos naturalistene er målet å trenge dypere ned i problemene og vise sammenhengen mellom samfunnsforhold og enkeltmenneskers liv. 
 
-  img.right-image(src="./Realisme_Naturalismen_Zola.jpg" alt="Émile Zola")
+  img.col.col6.right-image(src="./Realisme_Naturalismen_Zola.jpg" alt="Émile Zola")
   p Den franske forfatteren Émile Zola (1840–1902) regnes som den første og største naturalisten. Idealet hans var den nye naturvitenskapen og darwinismen, og diktningen skulle være så dokumentarisk og objektiv som mulig. Zola mente at mennesket bare i liten grad hadde noen fri vilje, det var mer et produkt av arv og miljø. Derfor var det blant annet vanskelig å bryte ut av den klassen eller standen en var født inn i. 
 
   p Naturalismen har mye til felles med realismen. Det som skiller de to retningene, kan vi skissere slik: 
@@ -243,19 +243,19 @@ PagePeriod(
     li Framskritt: Går verden framover? Naturalismen la for dagen et deterministisk og pessimistisk livssyn, uten den samme troen på framskrittet som realistene gav uttrykk for. Hos Skram ser vi dette tydelig. Men også hos Ibsen, Lie og Garborg kan vi merke en utvikling mot et mindre positivt syn på livet, uten den sterke framskrittstroen fra tidligere år. 
     li Fornuft: Er mennesket så fornuftig? Er det gjennom fornuften vi best kan forstå det særegne ved å være menneske i verden? Hva med følelser og de eksistensielle aspektene ved tilværelsen? Mot slutten av århundret begynner Ibsen å fokusere mer på det indre sjelelivet. Og i 1890-årene kritiserer Hamsun realistene og naturalistene for å være for opptatt av ”typer” i stedet for enkeltmennesker. Når vi nærmer oss 1900-tallet, ser vi en generell dreining mot mer psykologisk litteratur, der følelser står i sentrum.
 
-  figure
-    img(src="./Realisme_Naturalismen_Gengangere.jpg")
-    figcaption Frå ei oppføring av Gengangere av Henrik Ibsen
   p Den litteraturen som nå følger, og som vi kaller nyromantisk og modernistisk, tematiserer nettopp de eksistensielle vilkårene for mennesker generelt og for den enkelte. Hva vil det si å leve i et samfunn? På hvilken måte virker industrialisering, urbanisering og sekularisering inn på menneskers liv? 
   
   
   h3 Utviklingen av det norske språket 1850–1890
 
+  figure.col.col6.right-image
+    img(src="./Realisme_Naturalismen_Gengangere.jpg")
+    figcaption Frå ei oppføring av Gengangere av Henrik Ibsen
   p Det viktigste som skjedde språklig i denne perioden, var at Norge fikk et eget skriftspråk. Tidlig på 1800-tallet var hovedargumentet at et norsk skriftspråk ville være med på å styrke den nasjonale identiteten. Seinere var det demokratiske og pedagogiske argumenter som ble utslagsgivende i språkdebatten. 
 
   p I 1850 var det fortsatt mange analfabeter i Norge. Grunnen var blant annet dårlig skolegang og store forskjeller mellom det norske talemålet og det danske skriftspråket. Bare embetsmennene og den kondisjonerte klassen i Kristiania snakket en slags dansk med norsk uttale. Det at folk ikke kunne lese og skrive, var både et demokratisk problem og et hinder for personlig frihet og utvikling. 
 
-  img.right-image(src="./Realisme_Utviklingen_av_det_norske_spraaket1.jpg")
+  img.col.col6.right-image(src="./Realisme_Utviklingen_av_det_norske_spraaket1.jpg")
   p Fram til 1860 måtte bygdefolket betale for skolegangen av egen lomme. Det førte til store forskjeller i tilbudet rundt om i landet. Særlig jentene fikk et dårlig undervisningstilbud. I den nye skoleloven av 1860 ble det økonomiske ansvaret overført til staten. 
 
   p I skolen var lærere og elever pålagt å snakke dansk. Nå argumenterte skolefolk og politikere for at opplæringen måtte foregå på et språk som elevene forstod. I 1879 vedtok Stortinget at ”Undervisningen i Almueskolen saavidt mulig meddeles paa Børnenes eget Talesprog”. Denne lovendringen knesatte et viktig prinsipp om at elevenes talemål var godt nok. 
@@ -271,10 +271,10 @@ PagePeriod(
   p Planen var egentlig å utvikle ett felles skriftspråk for alle, men mot slutten av århundret så en at dette ikke ville lykkes, eller at det i det minste ville ta lang tid. I 1885 ble de to målformene likestilt som selvstendige målformer. 
 
   .flex.flex-justify-center
-    figure.col.col4
+    figure.col.col4.p5
       img(src="./Realisme_Utviklingen_av_det_norske_spraaket_Aasen.jpg" alt="Ivar Aasen")
       figcaption Ivar Aasen
-    figure.col.col4
+    figure.col.col4.p5
       img(src="./Realisme_Utviklingen_av_det_norske_spraaket_Knudsen.jpg" alt="Knud Knudsen")
       figcaption Knud Knudsen
   h5 Landsmålet har framgang

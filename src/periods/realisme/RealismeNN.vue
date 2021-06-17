@@ -206,7 +206,7 @@ PagePeriod(
   img(src="./Realisme_Naturalismen1.jpg")
   p I 1880-åra levde realistisk og naturalistisk dikting side om side. Naturalistisk dikting er ei vidareføring av den realistiske, men hos naturalistane er målet å trengje djupare ned i problema og vise samanhengen mellom samfunnstilhøva og liva til enkeltmenneska. 
 
-  img.right-image(src="./Realisme_Naturalismen_Zola.jpg" alt="Émile Zola")
+  img.col.col6.right-image(src="./Realisme_Naturalismen_Zola.jpg" alt="Émile Zola")
   p Den franske forfattaren Émile Zola (1840–1902) blir rekna som den første og største naturalisten. Idealet hans var den nye naturvitskapen og darwinismen, og diktinga skulle vere så dokumentarisk og objektiv som mogleg. Zola meinte at mennesket berre i liten grad hadde nokon fri vilje, det var meir eit produkt av arv og miljø. Derfor var livet for mange ein vond sirkel som det var vanskeleg å bryte ut av. Derfor var det vanskeleg å bryte ut av den klassen eller standen ein var fødd inn i. 
 
   p Naturalismen har mykje til felles med realismen. Det som skil dei to retningane, kan vi skissere slik: 
@@ -272,14 +272,14 @@ PagePeriod(
 
   h3 Utviklinga av det norske språket 1850–1890
 
-  figure
+  figure.col.col6.right-image
     img(src="./Realisme_Naturalismen_Gengangere.jpg")
     figcaption Frå ei oppføring av Gengangere av Henrik Ibsen
   p Det viktigaste som skjedde språkleg i denne perioden, var at Noreg fekk eit eige skriftspråk. Tidleg på 1800-talet var hovudargumentet at eit norsk skriftspråk ville vere med på å styrke den nasjonale identiteten. Seinare var det demokratiske og pedagogiske argument som tok over i språkdebatten. 
 
   p I 1850 var det enno mange analfabetar i Noreg. Grunnen var mellom anna dårleg skulegang og stor skilnad mellom det norske talemålet og det danske skriftspråket. Berre embetsmennene og den kondisjonerte klassen i Kristiania snakka ein slags dansk med norsk uttale. Det at folk ikkje kunne lese og skrive, var både eit demokratisk problem og eit hinder for personleg fridom og utvikling.
 
-  img.right-image(src="./Realisme_Utviklingen_av_det_norske_spraaket1.jpg")
+  img.col.col6.right-image(src="./Realisme_Utviklingen_av_det_norske_spraaket1.jpg")
   p Fram til 1860 måtte bygdefolket betale for skulegangen av eiga lomme. Det førte til store skilnader i tilbodet rundt om i landet. Særleg jentene fekk eit dårleg undervisningstilbod. I den nye skulelova av 1860 vart det økonomiske ansvaret ført over til staten. 
 
   p I skulen hadde lærarar og elevar pålegg om å snakke dansk. No argumenterte skulefolk og politikarar for at opplæringa måtte gå føre seg på eit språk som elevane forstod. I 1879 vedtok Stortinget at ”Undervisningen i Almueskolen saavidt mulig meddeles paa Børnenes eget Talesprog”. Denne lovendringa knesette eit viktig prinsipp om at talemålet til elevane var godt nok. 
@@ -294,10 +294,10 @@ PagePeriod(
   p Tanken var eigentleg å utvikle eitt felles skriftspråk for alle, men mot slutten av hundreåret såg ein at dette ikkje ville lykkast, eller at det i det minste ville ta lang tid. I 1885 vart dei to målformene jamstilte som sjølvstendige målformer. 
 
   .flex.flex-justify-center
-    figure.col.col4
+    figure.col.col4.p5
       img(src="./Realisme_Utviklingen_av_det_norske_spraaket_Aasen.jpg" alt="Ivar Aasen")
       figcaption Ivar Aasen
-    figure.col.col4
+    figure.col.col4.p5
       img(src="./Realisme_Utviklingen_av_det_norske_spraaket_Knudsen.jpg" alt="Knud Knudsen")
       figcaption Knud Knudsen
   h5 Landsmålet vinn fram

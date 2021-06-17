@@ -9,8 +9,8 @@ PagePeriod(
   h3 Tida og samfunnsforholdene
 
   figure
-    img(src="./Opplysningstid_Tida-og-samfunnsforholdene1.jpg" alt="Stormen på Bastillen 14. juli 1789 Isaac Newton innledet den franske revolusjonen")
-    figcaption Stormen på Bastillen 14. juli 1789 Isaac Newton innledet den franske revolusjonen
+    img(src="./Opplysningstid_Tida-og-samfunnsforholdene1.jpg" alt="")
+    figcaption Stormen på Bastillen 14. juli 1789  innledet den franske revolusjonen
 
   h5 Borgerskapet vokser fram
   p
@@ -34,8 +34,8 @@ PagePeriod(
   h3 Tanker i tida
 
   figure.col.col5.right-image
-    img(src="./Opplysningstid_Tanker_i_tida.jpg" alt="Detalj fra omslaget til Encyclopédie (1772), tegnet av Charles-Nicolas Cochin og gravert av Bonaventure-Louis Prévost. Bildet er fylt med symbolisme: Figuren i midten er sannheten, omgitt av et skinnende lys (det sentrale symbolet i opplysningstiden). Figurane til høyre er fornuft og filosofi, som riv ned sløret som dekker sannheten.")
-    figcaption Detalj fra omslaget til Encyclopédie (1772), tegnet av Charles-Nicolas Cochin og gravert av Bonaventure-Louis Prévost. Bildet er fylt med symbolisme: Figuren i midten er sannheten, omgitt av et skinnende lys (det sentrale symbolet i opplysningstiden). Figurane til høyre er fornuft og filosofi, som riv ned sløret som dekker sannheten.
+    img(src="./Opplysningstid_Tanker_i_tida.jpg" alt="")
+    figcaption Detalj fra omslaget til Encyclopédie (1772), tegnet av Charles-Nicolas Cochin og gravert av Bonaventure-Louis Prévost. Bildet er fylt med symbolisme: Figuren i midten er sannheten, omgitt av et skinnende lys (det sentrale symbolet i opplysningstida). Figurene til høyre er fornuft og filosofi, som river ned sløret foran sannheten.
   h5 Fokus på enkeltmennesket
   p
     | Ideen om at mennesket har grunnleggende rettigheter, uavhengig av stand og klasse, vokser fram. Disse synspunktene finner vi igjen i den norske grunnloven i 1814.
@@ -59,7 +59,7 @@ PagePeriod(
   h3 Om stilen – klassisismen
 
   figure.col.col4.right-image
-    img(src="./Opplysningstid_Klassisismen1.jpg" alt="Palladios Villa Rotonda i Italia")
+    img(src="./Opplysningstid_Klassisismen1.jpg" alt="")
     figcaption Palladios Villa Rotonda i Italia
 
   h5 Det klassiske idealet
@@ -150,8 +150,8 @@ PagePeriod(
     | Stilretningen som dominerer bildekunst, møbler og arkitektur på 1700-tallet, kaller vi rokokko. Denne stilen bryter med barokkens bruk av overdådige virkemidler. Det er en enklere, mer elegant og mindre følelsesladd stil.
   h5 Ny musikkstil
   figure
-    img(src="./Opplysningstid_Andre_kunstformer3.jpg" alt="Mozart spelar kammermusikk saman med systera og faren")
-    figcaption Mozart spelar kammermusikk saman med systera og faren
+    img(src="./Opplysningstid_Andre_kunstformer3.jpg" alt="")
+    figcaption Mozart spiller kammermusikk sammen med søstera og faren.
   p
     | Musikkstilen endrer seg også på 1700-tallet. Uttrykksformen går fra den tunge, kontrastfylte barokkstilen til en lettere og mer elegant form.
   h5 Kammermusikk

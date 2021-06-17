@@ -65,7 +65,7 @@ PagePeriod(
     | Av samme grunn interesserte romantikerne seg for folket og den folkelige kulturen. Her mente de å finne det ekte og det opprinnelige, det som bykulturen og bymenneskene hadde mistet.
 
   h3 Nasjonalromantikken
-  figure
+  figure.col.col6.left-image.mt10
     img(src="./Romantikk_Nasjonalromantikken.jpg" alt="J.C. Dahl:”Bjerk i storm” (1849). Et symbol på den norske folkekarakteren?")
     figcaption J.C. Dahl:”Bjerk i storm” (1849). Et symbol på den norske folkekarakteren?
 
@@ -104,7 +104,7 @@ PagePeriod(
   p
     | Et stev er et kort dikt som kan synges. Stevet formidler gjerne en livsvisdom eller en stemning, men det kan også skildre kjærlighet, natur eller en spesiell hending. Flere stev har humoristisk eller erotisk innhold. 
 
-  figure.col.col6.left-image
+  figure.col.col6.left-image.mt10
     img(src="./Romantikk_Litteraturen3.jpg" alt="H.C. Andersen forteller eventyr")    
     figcaption H.C. Andersen forteller eventyr
   h5 Kunsteventyret
@@ -151,12 +151,15 @@ PagePeriod(
 
   h3 Bildekunsten og musikken
 
-  figure
-    img(src="./Romantikk_Bildekunsten_og_musikken1.jpg" alt="")
-    figcaption Caspar David Friedrich: ”Der Wanderer über dem Nebelmeer” (1818)
-  h5 Malerkunsten
-  p
-    | De romantiske malerne var opptatt av den ville, urørte naturen. Landskapet kan framstå som utilgjengelig for mennesker, og har dramatiske, eksotiske og mytiske trekk som vi i dag kjenner fra dataspill og fantasyfilm. Denne naturen kan ofte ha en symbolsk betydning. Landskapet speiler sjelelivet, og kunstneren blir ofte skildret som ensom og opphøyd.
+  ImageTextBlock(
+    :image="require(`./Romantikk_Bildekunsten_og_musikken1.jpg`)"
+    imageColumns="4"
+    imageCaption="”Caspar David Friedrich: ”Der Wanderer über dem Nebelmeer” (1818)"
+    altText=""
+    )
+    h5 Malerkunsten
+    p
+      | De romantiske malerne var opptatt av den ville, urørte naturen. Landskapet kan framstå som utilgjengelig for mennesker, og har dramatiske, eksotiske og mytiske trekk som vi i dag kjenner fra dataspill og fantasyfilm. Denne naturen kan ofte ha en symbolsk betydning. Landskapet speiler sjelelivet, og kunstneren blir ofte skildret som ensom og opphøyd.
 
   .flex.flex-wrap
     .col.col4
@@ -179,7 +182,7 @@ PagePeriod(
   p
     | Sanger eller ”Lieder” er en musikksjanger som tilhører romantikken. Franz Schubert (1797–1828) og Robert Schumann (1810–1856) er to av de mest kjente komponistene som skapte musikk i denne sjangeren. Også Edvard Grieg (1843-1907) komponerte seinere sanger til tekster av Goethe, Heine og ikke minst Arne Garborg. Andre kjente romantiske komponister er Frédéric Chopin, Pjotr I. Tsjaikovskij og Richard Wagner. 
 
-  .flex
+  .flex.portraits
     figure.col.col4.m1rem
       img(src="./Romantikk_Bildekunsten_og_musikken4.jpg" alt="Franz Schubert")
       figcaption Franz Schubert
@@ -196,13 +199,22 @@ PagePeriod(
 import PagePeriod from "@/components/PagePeriod";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import ImageTextBlock from "@/components/ImageTextBlock";
 
 export default {
   name: "Book",
   components: {
+    ImageTextBlock,
     NdlaAudio,
     NdlaVideo,
     PagePeriod,
   },
 };
 </script>
+
+<style lang="scss" scoped>
+.portraits img {
+  height: 200px;
+  object-fit: cover;
+}
+</style>

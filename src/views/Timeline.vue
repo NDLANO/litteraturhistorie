@@ -19,6 +19,14 @@
         ul
           li(v-for="period in periods" :key="period.id")        
             a(href="#" @click="onNavButtonClick(period.id)") {{ period.nbTitle}}
+      h1 Språk- og litteraturhistorisk tidslinje
+      .lo_topBar_filters
+          button.btn_filter
+              .btn_filter_icon <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"/></svg>
+              .btn_filter_text Vis bøker
+          button.btn_filter
+              .btn_filter_icon <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V5h14v14zM17.99 9l-1.41-1.42-6.59 6.59-2.58-2.57-1.42 1.41 4 3.99z"/></svg>
+              .btn_filter_text Vis sentrale personer
       //- .header_eraName Realisme og naturalisme
 
   // * MAIN CONTENT
@@ -43,7 +51,9 @@
           @authorClick="onAuthorClick"
           @buttonClick="onTimelineSectionClick"
           )
-
+      .lo_endTimeline
+        .endTimeline
+        //h1 test
 </template>
 
 <script>
@@ -276,14 +286,19 @@ export default {
   async created() {
     const ucLangCode = this.globalVars.langCode.toUpperCase();
 
-    // * Disables gsap Draggable if on mobile
-    // * This gives a much smoother experience on mobile
+    // * Checks if app is running on mobile
     if (
       /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
         navigator.userAgent,
       )
     ) {
+      // * Disables gsap Draggable if on mobile
+      // * This gives a much smoother experience on mobile
       this.isDraggable = false;
+
+      // * This has to be set for the page to work properly in H5P iframe
+      let appElement = document.getElementById("app");
+      appElement.style.overflow = "scroll";
     }
 
     this.globalVars.lastYear = 2020;

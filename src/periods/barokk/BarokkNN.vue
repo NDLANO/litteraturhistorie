@@ -6,7 +6,7 @@ PagePeriod(
   // Content here
   h3 Tida og samfunnstilhøva 
 
-  figure
+  figure.col.col6.right-image
     img(src="./Barokk_Tida_og_samfunnsforholdene1.jpg" alt="")
 
   h5 Kyrkja mister makt 
@@ -19,8 +19,8 @@ PagePeriod(
 
   h5 Eineveldet 
 
-  figure.col.col5.left-image
-    img(src="./Barokk_Tida_og_samfunnsforholdene2.jpg" alt="Kong Fredrik 3. av Danmark og Noreg")
+  figure.col.col6.right-image
+    img(src="./Barokk_Tida_og_samfunnsforholdene2.jpg" alt="")
     figcaption Kong Fredrik 3. av Danmark og Noreg
 
   p
@@ -32,7 +32,7 @@ PagePeriod(
 
   h3 Litt om tenkjemåten 
 
-  figure.col.col4.right-image
+  figure.col.col4.right-image.mt10
     img(src="./Barokk_Litt_om_tenkemaaten.jpg" alt="Detalj frå tittelstikket på førsteutgåva av boka Taare-Offer av Dorothe Engelbretsdotter")
     figcaption Detalj frå tittelstikket på førsteutgåva av boka Taare-Offer av Dorothe Engelbretsdotter  
 
@@ -54,7 +54,7 @@ PagePeriod(
 
   h3 Kjennemerke ved barokkstilen 
 
-  figure
+  figure.col.col6.left-image.mt10
     img(src="./Barokk_Kjennetegn_ved_barokkstilen1.jpg" alt="")
 
   h5 Barokken som stilart 
@@ -108,29 +108,29 @@ PagePeriod(
     | I Italia er Giambattista Marino den fremste barokkdiktaren. I Spania er det Francisco de Quevedo, og i England er det John Donne og John Milton. I Tyskland skriv Martin Luther barokke salmar. Han inspirerer nok Thomas Kingo, som skulle bli den største nordiske salmediktaren i denne perioden. 
   
   div.flex.flex-wrap
-    div.col.col3
-      figure.figure-left
+    div.col.col4
+      figure.figure-left.mt10
         img(src="./Barokk_Thomas_Kingo.jpg" alt="Thomas Kingo")
-    div.col.col9
+    div.col.col8
       h5 Thomas Kingo (1634–1703) 
       p
         | er dansk diktar og biskop. I 1699 kjem det ut ei salmebok som inneheld 86 av salmane hans. Denne boka – Kingos salmebok – blir godkjend av kongen til bruk i alle kyrkjer i Danmark og Noreg, og er i bruk heilt fram til 1870-åra. Boka finn du på Tidslinja. 
 
   div.flex.flex-wrap
-    div.col.col3
-      figure.figure-left
+    div.col.col4
+      figure.figure-left.mt10
         img(src="./Barokk_Engelbretsdotter.jpg" alt="Dorothe Engelbretsdotter")
 
-    div.col.col9
+    div.col.col8
       h5 Dorothe Engelbretsdotter (1634–1716) 
       p
         | er fødd og lever i Bergen. Ho er populær i samtida si og kan leve av boksalet. Det er ganske utruleg at ei kvinne kan klare det på 1600-talet. Men i privatlivet opplever ho mykje motgang og sorg. Boka Siælens Sang-Offer finn du på Tidslinja. 
 
   div.flex.flex-wrap
-    div.col.col3
-      figure.figure-left
+    div.col.col4
+      figure.figure-left.mt10
         img(src="./Barokk_Dass.jpg" alt="Peter Dass")
-    div.col.col9
+    div.col.col8
       h5 Petter Dass (1647–1707) 
       p
         | kjem frå Nordland og er ein populær mann i si samtid. Han blir rekna for vår største barokkdiktar, sjølv om stilen hans er mindre tidstypisk enn stilen til Kingo og Engelbretsdotter. Boka Nordlands Trompet finn du på Tidslinja. 
@@ -149,7 +149,7 @@ PagePeriod(
   p
     | Bergen og Vestlandet har hatt ein sterk språkleg påverknad frå den hanseatiske (tysk-nederlandske) handelsverksemda som har gått føre seg heilt sidan 1200-talet. Denne påverknaden held fram og fargar både talemålet og skriftspråket i Bergen. 
 
-  figure
+  figure.col.col6.right-image
     img(src="./Bibel-Chr._III_-_1.jpg" alt="Tittelbladet på bibelen til Kristian 3. frå 1550")
     figcaption Tittelbladet på bibelen til Kristian 3. frå 1550
   h5 Bibelen på dansk 
@@ -174,12 +174,12 @@ PagePeriod(
     img(src="./Barokk_Bildekunst_og_arkitektur1.jpg" alt="Berninis baldakin og kor i Peterskyrkja")
     figcaption Berninis baldakin og kor i Peterskyrkja
 
-  div.col.col6.display-ib
+  div.col.col6.display-ib.p5
     figure
       img(src="./Barokk_Bildekunst_og_arkitektur2.jpg" alt="Peter Paul Rubens: ”Døtrene til Leukippos blir røva”")
       figcaption Peter Paul Rubens: ”Døtrene til Leukippos blir røva”
 
-  div.col.col6.display-ib
+  div.col.col6.display-ib.p5
     figure
       img(src="./Barokk_Bildekunst_og_arkitektur3.jpg" alt="Detalj frå skulpturen ”Den heilage Teresas ekstase” av Giovanni Lorenzo Bernini")
       figcaption Detalj frå skulpturen ”Den heilage Teresas ekstase” av Giovanni Lorenzo Bernini

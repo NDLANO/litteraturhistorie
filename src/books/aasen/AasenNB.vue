@@ -1,6 +1,8 @@
 <template lang="pug">
 PageBook
   h3 Ivar Aasen - oppvekst og utdanning
+
+  img.col.col5.left-image.mt5(src='./Aasen_Oppvekst_og_utdanning.jpg' alt='')
   p Ivar Aasen (1813–1896) var fra ­Ørsta på Sunnmøre. Han vokste opp på et småbruk og hadde dermed en helt annen sosial bakgrunn enn de fleste andre framtredende kulturfolk på 1800-tallet. 
 
   p Som ung gutt viser Aasen uvanlig gode evner, og allerede i 18-årsalderen blir han omgangsskolelærer i heimbygda. ­Seinere får han tilbud om universitetsutdanning, men velger i stedet å studere på egen hånd. Aasen opplever det som sårende at samfunnseliten ser ned på bondekulturen og bondespråket. Han vil ikke glemme hvor han kommer fra, men  heller arbeide for å styrke bondestandens kulturelle og språklige selvtillit. 
@@ -20,6 +22,7 @@ PageBook
 
   h3 Dialekt- og ordsamler 
 
+  img(style="width: auto; float:right" src='./Aasen_Dialekt_og_ordsamlar.jpg' alt='')
   p I 1841 drar Aasen til Bergen og kommer i kontakt med biskop Jacob Neumann. Biskopen er særlig interessert i sunnmørsgrammatikken som Aasen har laget, og hjelper han med å få et stipend fra Videnskabs-Selskabet i Trondheim. Aasen får nå i oppdrag å granske det norske folkemålet. 
 
   p I fire år, fra 1842 til 1846, reiser Aasen rundt i landet og studerer bygdemålene. Bymål og dialekter på Sør-Østlandet unngår han fordi han mener de er for mye oppblandet med dansk. Materialet han får samlet inn, utgjør grunnlaget for to vitenskapelige verk, Det norske Folkesprogs Grammatik (1848) og Ordbog over det norske Folkesprog (1850). 
@@ -27,9 +30,16 @@ PageBook
   p Helt fram til 1868 er Aasen nesten hvert år på språkreiser, gjerne til steder han ikke har vært før. Til sammen reiser han mer enn 400 mil og er innom alle fylker unntatt Finnmark. 
 
   h3 Oversetter og språkkonsulent 
+
+  img.col.col4.left-image(src='./Aasen_Omsetjar_og_spraakonsulent.jpg' alt='')
   p I 1847 flytter Aasen til Kristiania, og her blir han resten av livet. Her finnes de fagmiljøene han trenger i arbeidet sitt. Aasen er blant annet språkkonsulent for Asbjørnsen og Moe i seinere utgaver av eventyrsamlingen, og han oversetter dikt av Shakespeare, Schiller og Byron til landsmål. 
 
   p Selv om han har statsstipend og god inntekt, lever han et enkelt og nøysomt liv. Aasen blir 83 år gammel og arbeider som språkforsker helt til det siste. 
+
+  .clear
+  img.col.col4.left-image(src='./Aasen_Signatur.jpg' alt='')
+  
+  .clear
 
   h3 Det norske Folkesprogs Grammatik (1848)
 
@@ -109,6 +119,10 @@ PageBook
     li Heimen er både vond og god; det skifter med sut og gaman. Hæv er den som med same mod kan taka mot alt i saman. 
     li Kjært er livet med all sin harm; det klårnar, alt som det gjenger. Men endå treng eg ei von i barm om eitt som varer lenger.   
 
+  .flex.flex-justify-center
+    img.col.col6(src='./Aasen_Grav.jpg' alt='')
+
+  .clear.mt40
 
 
 </template>

@@ -125,7 +125,7 @@ PagePeriod(
 
   h3 Litteraturen 1960–1990 
 
-  .flex
+  .flex.portretter
     figure.m1rem
       img(style="width: 198px" src="./Postmodernisme_Litteraturen1.jpg" alt="Stein Mehren")
       figcaption Stein Mehren
@@ -171,18 +171,18 @@ PagePeriod(
     strong Paal Helge Haugen (1945– )
     |. 
 
-  .flex
+  .flex.portretter.portretter-4
     figure.m1rem
-      img(style="width: 198px" src="./Postmodernisme_Litteraturen5.jpg" alt="Jan Erik Vold")
+      img(src="./Postmodernisme_Litteraturen5.jpg" alt="Jan Erik Vold")
       figcaption Jan Erik Vold
     figure.m1rem
-      img(style="width: 198px" src="./Postmodernisme_Litteraturen6.jpg" alt="Eldrid Lunden")
+      img(src="./Postmodernisme_Litteraturen6.jpg" alt="Eldrid Lunden")
       figcaption Eldrid Lunden
     figure.m1rem
-      img(style="width: 198px" src="./Postmodernisme_Litteraturen7.jpg" alt="Einar Økland")
+      img(src="./Postmodernisme_Litteraturen7.jpg" alt="Einar Økland")
       figcaption Einar Økland
     figure.m1rem
-      img(style="width: 198px" src="./Postmodernisme_Litteraturen8.jpg" alt="Paal Helge Haugen")
+      img(src="./Postmodernisme_Litteraturen8.jpg" alt="Paal Helge Haugen")
       figcaption Paal Helge Haugen
 
   h5 1970-årene: Sosialrealistisk litteratur 
@@ -195,15 +195,15 @@ PagePeriod(
     strong Tor Obrestad 
     | (1938–2020) var blant Profil-forfatterne som ble med i AKP. Nå begynte de å skrive såkalte sosialrealistiske romaner. Litteraturen skulle tjene det arbeidende folket og opprøret mot kapitalismen.
 
-  .flex.flex-justify-space-evenly
+  .flex.portretter
     figure.m1rem
-      img(style="width: 100px" src="./Postmodernisme_Litteraturen9.jpg" alt="Dag Solstad")
+      img(src="./Postmodernisme_Litteraturen9.jpg" alt="Dag Solstad")
       figcaption Dag Solstad
     figure.m1rem
-      img(style="width: 100px" src="./Postmodernisme_Litteraturen10.jpg" alt="Espen Haavardsholm")
+      img(src="./Postmodernisme_Litteraturen10.jpg" alt="Espen Haavardsholm")
       figcaption Espen Haavardsholm
     figure.m1rem
-      img(style="width: 100px" src="./Postmodernisme_Litteraturen11.jpg" alt="Tor Obrestad")
+      img(src="./Postmodernisme_Litteraturen11.jpg" alt="Tor Obrestad")
       figcaption Tor Obrestad
 
   figure.col.col6.right-image
@@ -223,7 +223,7 @@ PagePeriod(
     strong Herbjørg Wassmo 
     | (1942– ) skriver alle om hvordan kvinner opplever de nye rollene de har fått, og om forventninger knyttet til disse rollene. Også de kvinnelige prosaforfatterne i 1970-årene brukte stort sett et tradisjonelt, realistisk formspråk.
 
-  .flex.flex-justify-space-evenly
+  .flex.portretter.portretter-5
     figure.m1rem
       img(style="width: 120px" src="./Postmodernisme_Litteraturen13.jpg" alt="Bjørg Vik")
       figcaption Bjørg Vik
@@ -258,15 +258,15 @@ PagePeriod(
     strong Lars Klevstrand 
     | (1949– ) er eksempler på visesangere som framførte egne og andres tekster, gjerne tonesatte dikt – i kampen for fred og likestilling og mot kapitalismen eller krigen i Vietnam. Også arbeiderdiktning og hverdagspoesi ble formidlet gjennom sang. Den populære venstreradikale gruppa Vømmøl gav ut flere LP-er med omfattende tekstvedlegg. 
 
-  .flex.flex-justify-space-evenly
+  .flex.portretter
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen19.jpg" alt="Lillebjørn Nilsen")
+      img(src="./Postmodernisme_Litteraturen19.jpg" alt="Lillebjørn Nilsen")
       figcaption Lillebjørn Nilsen
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen20.jpg" alt="Kari Svendsen")
+      img(src="./Postmodernisme_Litteraturen20.jpg" alt="Kari Svendsen")
       figcaption Kari Svendsen
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen21.jpg" alt="Lars Klevstrand")
+      img(src="./Postmodernisme_Litteraturen21.jpg" alt="Lars Klevstrand")
       figcaption Lars Klevstrand
 
   p De norske visesangerne hentet inspirasjon fra USA og andre engelsktalende land. Innflytelsesrike artister som 
@@ -307,18 +307,18 @@ PagePeriod(
     strong Gro Dahle 
     | (1962– ). Samfunnsengasjementet tones ned eller endrer karakter både hos nye og etablerte forfattere, og det blir igjen plass for mer sentrallyriske motiver. 
 
-  .flex.flex-justify-space-evenly
+  .flex.portretter.portretter-4
     figure.m1rem
-      img(style="width: 100px" src="./Postmodernisme_Litteraturen24.jpg" alt="Øyvind Berg")
+      img(src="./Postmodernisme_Litteraturen24.jpg" alt="Øyvind Berg")
       figcaption Øyvind Berg
     figure.m1rem
-      img(style="width: 100px" src="./Postmodernisme_Litteraturen25.jpg" alt="Rune Christiansen")
+      img(src="./Postmodernisme_Litteraturen25.jpg" alt="Rune Christiansen")
       figcaption Rune Christiansen
     figure.m1rem
-      img(style="width: 100px" src="./Postmodernisme_Litteraturen26.jpg" alt="Gro Dahle")
+      img(src="./Postmodernisme_Litteraturen26.jpg" alt="Gro Dahle")
       figcaption Gro Dahle
     figure.m1rem
-      img(style="width: 100px" src="./Postmodernisme_Litteraturen27.jpg" alt="Triztán Vindtorn")
+      img(src="./Postmodernisme_Litteraturen27.jpg" alt="Triztán Vindtorn")
       figcaption Triztán Vindtorn
 
   p En forfatter som debuterte i 70-årene, men som først slo gjennom i 80-årene, er Triztán Vindtorn (1942–2009). Han er den mest rendyrkete surrealisten i norsk lyrikk, og skrev eksperimentelle dikt der han bryter de fleste språklige konvensjoner.
@@ -357,18 +357,18 @@ PagePeriod(
     strong Jostein Gaarders 
     | (1952– ) filosofiske ungdomsroman Sofies verden (1991), som er oversatt til 54 språk og har solgt i over 30 millioner eksemplarer. 
 
-  .flex.flex-justify-space-evenly
+  .flex.portretter
     figure.m1rem
-      img(style="width: 100px" src="./Postmodernisme_Litteraturen30.jpg" alt="Anne B. Ragde")
+      img(src="./Postmodernisme_Litteraturen30.jpg" alt="Anne B. Ragde")
       figcaption Anne B. Ragde
     figure.m1rem
-      img(style="width: 100px" src="./Postmodernisme_Litteraturen31.jpg" alt="Tore Renberg")
+      img(src="./Postmodernisme_Litteraturen31.jpg" alt="Tore Renberg")
       figcaption Tore Renberg
     figure.m1rem
-      img(style="width: 100px" src="./Postmodernisme_Litteraturen32.jpg" alt="Jostein Gaarder")
+      img(src="./Postmodernisme_Litteraturen32.jpg" alt="Jostein Gaarder")
       figcaption Jostein Gaarder
 
-  ImageTextBlock(
+  ImageTextBlock.mt30(
     :image="require(`./Postmodernisme_Litteraturen33.jpg`)"
     altText="Jan Kjærstad"    
     )
@@ -391,21 +391,21 @@ PagePeriod(
     strong Trude Marstein 
     | (1973– ) tematiserer hvor galt det kan gå når mennesker ikke evner å skape gode relasjoner til hverandre. I et samfunn der vi selv må skape mening i tilværelsen, blir de nære relasjonene ekstra viktige. Hjemmet og familien er dessuten en trygg base som vi trenger i en verden der miljøødeleggelser, naturkatastrofer og krig rammer verden over. Når familien svikter, blir konsekvensene derfor katastrofale for karakterene i Marsteins og Ørstaviks bøker. 
 
-  .flex.flex-justify-space-evenly
+  .flex.portretter.portretter-5
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen35.jpg" alt="Hanne Ørstavik")
+      img(src="./Postmodernisme_Litteraturen35.jpg" alt="Hanne Ørstavik")
       figcaption Hanne Ørstavik
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen36.jpg" alt="Trude Marstein")
+      img(src="./Postmodernisme_Litteraturen36.jpg" alt="Trude Marstein")
       figcaption Trude Marstein
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen37.jpg" alt="Lars Ramslie")
+      img(src="./Postmodernisme_Litteraturen37.jpg" alt="Lars Ramslie")
       figcaption Lars Ramslie
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen38.jpg" alt="Erlend Loe")
+      img(src="./Postmodernisme_Litteraturen38.jpg" alt="Erlend Loe")
       figcaption Erlend Loe
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen39.jpg" alt="Helene Uri")
+      img(src="./Postmodernisme_Litteraturen39.jpg" alt="Helene Uri")
       figcaption Helene Uri
 
 

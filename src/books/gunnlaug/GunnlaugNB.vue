@@ -1,6 +1,7 @@
 <template lang="pug">
 PageBook
   h3 Bakgrunn
+  img.col.col8.mt5.right-image(src="./Gunnlaug_Bakgrunn.jpg" alt="")
   p Sagaen om Gunnlaug Ormstunge er kort, bare på rundt førti små sider. Handlingen er lagt til tusenårsskiftet – en urolig tid på Island. Landnåmet er fullført, og de største ættene driver en rivalisering og kamp for å skaffe seg makt. Det er et lovløst samfunn der makta rår. Makta ligger hos den som har ei stor ætt og mange med seg. I et slikt samfunn er det lurt å inngå gode giftermål, og det er fedrene som alltid har siste ordet før det unge paret får hverandre.
 
   p Sagaen om Gunnlaug er en kjærlighetshistorie, et trekantdrama der to unge menn, Gunnlaug og Ravn, slåss om den samme jenta, Helga den fagre. Mange kaller Gunnlaugssagaen «den vakreste kjærlighetshistorien i Norden». I tillegg er den en islendingesaga med alle de ingredienser som hører til denne sjangeren. Her er stor dramatikk med sjalusi, svik, drap og hevn. 
@@ -8,11 +9,15 @@ PageBook
   h3 Litt om handlingen
   p Gunnlaug er sønn av Illuge Svarte, en islandsk stormann. Han vil reise ut og «se andre folks seder», men faren nekter han å dra fordi han er svært ung og framfus og har ei skarp tunge. Gunnlaug rir av gårde i sinne. Han kommer til gården til Torstein, en annen mektig høvding, og blir tatt godt imot der. 
 
+  img.col.col4.left-image.mt5(src="./Gunnlaug_Helga.jpg" alt="")
+
   p Dattera til Torstein heter Helga, og hun er den fagreste kvinna på Island. Helga og Gunnlaug «får godhug for hverandre», som det står i sagaen. Gunnlaug blir boende på gården til Torstein i et halvt år. 
 
   p Noen år seinere ber Gunnlaug far sin om å få dra utenlands, og denne gangen samtykker faren. Men Gunnlaug vil ikke bare reise, han vil også ha Helga til kone når han kommer hjem igjen. Far til Helga liker dårlig at Gunnlaug frir og skal være borte i lang tid. Men han vil ikke miste vennskapet med Gunnlaugs far og går med på at Gunnlaug skal få Helga dersom han skikker seg vel og er tilbake på Island innen tre år. 
 
   p Turen går til Norge, England og nordsjøøyene, og deretter videre til Uppsala, der svenskekongen holder til. Her møter Gunnlaug Ravn, en annen islending som har reist ut før han. Først er de gode venner, men det ender opp med uvennskap mellom dem etter at Gunnlaug ydmyker Ravn foran svenskekongen. 
+
+  img.col.col8.right-image.mt5(src="./Gunnlaug_Ydmyker_Ravn.jpg" alt="")
 
   p Ravn vet hvordan han skal ta hevn, nemlig ved å kapre Helga den fagre før Gunnlaug når tilbake til Island. Gunnlaug har et oppdrag hos kong Adalråd i London som han må oppfylle, og klarer ikke å overholde treårsavtalen. 
 
@@ -22,6 +27,8 @@ PageBook
   p Det er en enkel, knapp fortellemåte som preger sagaen, en stil som har inspirert mange store forfattere opp gjennom tidene. Bare det som er viktig for handlingen, er kommet med. Fortelleren gir et objektivt referat av det som hender. Personskildringen er nesten bare indirekte, vi lærer personene å kjenne gjennom utseende, handlinger og replikker. Men også navnet til en person kan fortelle mye. 
 
   p Gunnlaug blir for eksempel presentert slik: «Så er sagt om Gunnlaug at han vartidlig voksen og stor og sterk, og hadde  lysebrunt hår som falt pent. Han var svartøyd, med litt stygg nese, men hadde et tiltalende ansikt, var midjesmal og herdebrei, uvanlig velvoksen, storlåten i hele sitt huglynne, tidlig framfus, strid og hard i alt, en stor skald, men laget gjerne nidviser og ble kalt Gunnlaug Ormstunge.» 
+
+  img.col.col6.mt5.left-image(src="./Gunnlaug_Fortellermåten.jpg")
 
   p Underdrivelse er et viktig virkemiddel: Under London-oppholdet er Gunnlaug i tjeneste for kongen, og en dag kommer han i kamp med en viking som heter Tororm. Det foregår om lag slik: «– Ikke er jeg redd for det sverdet! roper Tororm. Gunnlaug gir han da straks banehogg. Kongen takket han for verket.» 
 
@@ -51,7 +58,10 @@ PageBook
     li Troen på skjebnen går igjen i alle islendingesagaer. En skal prøve å avverge katastrofen, men kommer den, skal en stå oppreist og bære nederlaget med rak rygg. Å se skjebnen i øynene er derfor et viktig punkt i alle ættesagaer. 
 
   br
+
+  
   h5 Hva forteller ættesagaene om samfunnsforholdene i landnåmstida? 
+  img.col.col6.right-image.mt20(src="./Gunnlaug_Samfunnsforhold.jpg" alt="")
   ul
     li at ætta, det vil si slekta, var viktig. Makta i det islandske samfunnet lå ikke hos en konge, men var fordelt mellom mektige familier. 
     li at slekta var viktigere enn enkeltmennesket. 
