@@ -225,16 +225,19 @@ blockquote {
 }
 
 .lo_topBar_header h1 {
-  font-size: 1rem;
+  font-size: 0.75rem;
   margin: 0;
+  @include breakpoint($medium) {
+    font-size: 1rem;
+  }
 }
 
 // FILTERS
 .lo_topBar_filters {
   display: flex;
   margin-left: $base-line-height;
-  padding-bottom: $base-line-height/2;
-  @include breakpoint($mediumx) {
+  padding-bottom: $base-line-height/4;
+  @include breakpoint($medium) {
     padding-bottom: 0;
   }
 }
