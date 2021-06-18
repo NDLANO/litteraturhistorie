@@ -8,7 +8,7 @@ PagePeriod(
   h3 Tida og samfunnsforholdene
 
   figure
-    img(src="./Romantikk_Tida_og_samfunnaforholdene1.jpg" alt="Riksforsamlingen på Eidsvoll i 1814. Maleri av Oscar Arnold Wergeland")
+    img(src="./Romantikk_Tida_og_samfunnaforholdene1.jpg" alt="Mann som leser omringet av forsamling som lytter. Maleri.")
     figcaption Riksforsamlingen på Eidsvoll i 1814. Maleri av Oscar Arnold Wergeland
 
   h5 Debatt om kultur og språk
@@ -44,7 +44,7 @@ PagePeriod(
   h3 Stilretningen
 
   figure.col.col4.left-image
-    img(src="./Romantikk_Stilretningen1.jpg" alt="Adolph Tidemand: ”Norsk Juleskik” (1846)")
+    img(src="./Romantikk_Stilretningen1.jpg" alt="Mennesker leker utenfor et stabbur på vinterstid. Maleri.")
     figcaption Adolph Tidemand: ”Norsk Juleskik” (1846)
   h5 En ny retning og en ny tid
   p
@@ -54,7 +54,7 @@ PagePeriod(
     | Med romantikken kom de sterke følelsene inn i litteraturen og kunsten. Framfor alt var dikterne opptatt av den uforløste lengselen. Det kunne være lengselen etter kjærlighet, etter Gud eller evigheten, men også etter fortida. Kunstnerne følte seg ikke hjemme i samtida, de drømte om et bedre, harmonisk samfunn som de mente fantes en gang i fortida.
 
   figure
-    img(src="./Romantikk_Stilretningen2.jpg" alt="Lars Hertervig: ”Skogtjern” (1865)")
+    img(src="./Romantikk_Stilretningen2.jpg" alt="Grønn vegetasjon rundt et vann. Maleri.")
     figcaption Lars Hertervig: ”Skogtjern” (1865)
 
   h5 Det gode livet
@@ -66,7 +66,7 @@ PagePeriod(
 
   h3 Nasjonalromantikken
   figure.col.col6.left-image.mt10
-    img(src="./Romantikk_Nasjonalromantikken.jpg" alt="J.C. Dahl:”Bjerk i storm” (1849). Et symbol på den norske folkekarakteren?")
+    img(src="./Romantikk_Nasjonalromantikken.jpg" alt="Grønt tre med fjellandskap i bakgrunnen. Maleri. ")
     figcaption J.C. Dahl:”Bjerk i storm” (1849). Et symbol på den norske folkekarakteren?
 
   h5 Romantikk og nasjonalfølelse
@@ -84,14 +84,14 @@ PagePeriod(
 
   h3 Litteraturen 
   figure.col.col7.right-image
-    img(src="./Romantikk_Litteraturen1.jpg" alt="Theodor Kittelsens trolltegninger har preget oppfatningen vår av hvordan troll ser ut. Her ”Trollet som grunner på hvor gammelt det er” fra 1911.")
+    img(src="./Romantikk_Litteraturen1.jpg" alt="Et gigantisk sovende troll på toppen av et fjell. Illustrasjon. ")
     figcaption Theodor Kittelsens trolltegninger har preget oppfatningen vår av hvordan troll ser ut. Her ”Trollet som grunner på hvor gammelt det er” fra 1911.
 
   h5 Folkediktningen
   p
     | Den diktningen som blir skapt og overført muntlig, kaller vi folkediktning. Folkediktningen har ikke navngitte forfattere. Tekstene har utviklet seg fra forteller til forteller, med større og mindre endringer underveis.
   figure.col.col7.right-image.tac
-    img(class="tac" src="./Romantikk_Litteraturen2.jpg" alt="Peter Chr. Asbjørnsens ”Norske Huldre-eventyr og Folkesagn” (1848). Typisk romantisk praktbind.")
+    img(class="tac" src="./Romantikk_Litteraturen2.jpg" alt="Omslag til eventyrbok med gullfarga illustrasjoner. Foto.")
     figcaption(class="tal") Peter Chr. Asbjørnsens ”Norske Huldre-eventyr og Folkesagn” (1848). Typisk romantisk praktbind
 
   h5 Norske sagn og eventyr
@@ -105,7 +105,7 @@ PagePeriod(
     | Et stev er et kort dikt som kan synges. Stevet formidler gjerne en livsvisdom eller en stemning, men det kan også skildre kjærlighet, natur eller en spesiell hending. Flere stev har humoristisk eller erotisk innhold. 
 
   figure.col.col6.left-image.mt10
-    img(src="./Romantikk_Litteraturen3.jpg" alt="H.C. Andersen forteller eventyr")    
+    img(src="./Romantikk_Litteraturen3.jpg" alt="Familieportrett av fem personer. Foto.")    
     figcaption H.C. Andersen forteller eventyr
   h5 Kunsteventyret
   p
@@ -115,9 +115,9 @@ PagePeriod(
     | Asbjørnsen og Moe er de mest kjente samlerne av norsk folkediktning, men det finnes flere. Magnus Brostrup Landstad og Sophus Bugge samlet folkeviser, mens Ludvig Mathias Lindeman skrev ned folketoner. Olea Crøger (1801–1855), prestedatter fra Heddal i Telemark, var en stor folkeminne- og folkevisesamler. Flere av tekstene hennes står i Landstads Norske Folkeviser fra 1853.
 
   figure.flex
-    img(src="./Romantikk_Litteraturen4.jpg" alt="")
-    img(src="./Romantikk_Litteraturen5.jpg" alt="")
-  div Henrik Wergeland og Johan Sebastian Welhaven. Begge bileta er måla i 1842 av Carl Peter Lehmann
+    img(src="./Romantikk_Litteraturen4.jpg" alt="Portrett av mann med små briller. Maleri. ")
+    img(src="./Romantikk_Litteraturen5.jpg" alt="Portrett av mann i sort antrekk med stor sløyfe. Maleri.")
+  div Henrik Wergeland og Johan Sebastian Welhaven. Begge bildene er malt i 1842 av Carl Peter Lehmann
   br
   h5 Henrik Wergeland
   p
@@ -136,12 +136,16 @@ PagePeriod(
     | Dansk var skriftspråket i Norge gjennom flere hundre år. Grunnloven fra 1814 er skrevet på dansk, og selv om unionen med Danmark ble oppløst og vi gikk inn i en ny union med Sverige, var det dansk som var det offisielle skriftspråket. Ennå var det vanskelig å tenke seg at skriftspråket i embetsverket og i statsadministrasjonen skulle endres.
 
   figure
-    img(src="./Romantikk_Litt_om_spraaket1.jpg" alt="Det kongelige Frederiks Universitet fotografert på slutten av 1800-tallet av Axel Lindahl")
+    img(src="./Romantikk_Litt_om_spraaket1.jpg" alt="Universitetsplassen i Oslo med park i forgrunnen. Foto. ")
     figcaption Det kongelige Frederiks Universitet fotografert på slutten av 1800-tallet av Axel Lindahl
 
   h5 Et norsk universitet
   p
     | Unionsoppløsningen og åpningen av Det Kongelige Frederiks Universitet (1811) aktualiserte spørsmålet om et norsk skriftspråk. Ludvig Holbergs og Nordahl Bruns tanker om et norsk akademi fikk endelig gjennomslag. (Se artikkel om opplysningstida og Norske Selskab.) Endelig kunne norsk ungdom ta høyere utdanning i sitt eget land.
+    
+  p  
+    a(href="media/periods/romantikk/sprogreform.html" target="_blank") Henrik Wergeland: ”Om norsk Sprogreformation” (1832).
+    
   h5 Folkediktningen og språket
   p
     | Spørsmålet om å bruke norske ord og norsk syntaks ble aktuelt da en begynte å skrive ned den norske folkediktningen. Folkeeventyr, folkeviser og sagn ble fortalt på dialekt, og samlerne syntes det var naturlig å ta hensyn til dette når de skrev ned tekstene.
@@ -155,7 +159,7 @@ PagePeriod(
     :image="require(`./Romantikk_Bildekunsten_og_musikken1.jpg`)"
     imageColumns="4"
     imageCaption="”Caspar David Friedrich: ”Der Wanderer über dem Nebelmeer” (1818)"
-    altText=""
+    altText="Mann med stokk står på en fjelltopp og kikker utover over landskapet. Maleri."
     )
     h5 Malerkunsten
     p
@@ -164,7 +168,7 @@ PagePeriod(
   .flex.flex-wrap
     .col.col4
       figure.figure-left
-        img(src="./Romantikk_Bildekunsten_og_musikken2.jpg" alt="”Brudefærden i Hardanger” malt av Adolph Tidemand og Hans Gude i 1848")
+        img(src="./Romantikk_Bildekunsten_og_musikken2.jpg" alt="Brudefølge i båt i fjord omkranset av fjell. Maleri.")
         figcaption ”Brudefærden i Hardanger” malt av Adolph Tidemand og Hans Gude i 1848
     .col.col8
       h5 Nasjonalromantikken i malerkunsten
@@ -172,7 +176,7 @@ PagePeriod(
         | Nasjonalromantikken kom også til uttrykk i malerkunsten. J.C. Dahl og Tidemand og Gude malte norske landskap og mennesker i harmoni slik ingen hadde gjort det tidligere. ”Brudefærden i Hardanger” står fortsatt som et av de sterkeste symbolene på norsk nasjonalromantikk.
 
   figure.col.col7.right-image
-    img(src="./Romantikk_Bildekunsten_og_musikken3.jpg" alt="Beethoven komponerer ”Pastoralesymfonien” (symfoni nr. 6). Illustrasjon fra “Almanach der Musikgesellschaft”, Zürich 1834")
+    img(src="./Romantikk_Bildekunsten_og_musikken3.jpg" alt="En mann slapper av i frodig vegetasjon ved vannkanten. Maleri")
     figcaption Beethoven komponerer ”Pastoralesymfonien” (symfoni nr. 6). Illustrasjon fra “Almanach der Musikgesellschaft”, Zürich 1834
 
   h5 Musikken
@@ -184,13 +188,13 @@ PagePeriod(
 
   .flex.portraits
     figure.col.col4.m1rem
-      img(src="./Romantikk_Bildekunsten_og_musikken4.jpg" alt="Franz Schubert")
+      img(src="./Romantikk_Bildekunsten_og_musikken4.jpg" alt="Mann med små briller poserer sittende. Illustrasjon.")
       figcaption Franz Schubert
     figure.col.col4.m1rem
-      img(src="./Romantikk_Bildekunsten_og_musikken5.jpg" alt="Robert Schumann")
+      img(src="./Romantikk_Bildekunsten_og_musikken5.jpg" alt="Portrett av mann med blikket til den ene siden. Foto.")
       figcaption Robert Schumann
     figure.col.col4.m1rem
-      img(src="./Romantikk_Bildekunsten_og_musikken6.jpg" alt="Edvard Grieg")
+      img(src="./Romantikk_Bildekunsten_og_musikken6.jpg" alt="Selvsikker mann med bart poserer med hendene i jakkekragen. Foto.")
       figcaption Edvard Grieg
 
 </template>

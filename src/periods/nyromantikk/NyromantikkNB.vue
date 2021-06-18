@@ -8,7 +8,7 @@ PagePeriod(
 
   h3 Tida og samfunnsforholdene
 
-  img.col.col5.left-image(src="./Nyromantikk_Tida_og_samfunnsforholdene1.jpg" alt="")
+  img.col.col5.left-image(src="./Nyromantikk_Tida_og_samfunnsforholdene1.jpg" alt="Åpningsseremoni med damplokomotiv og folkemengde. Foto.")
   p På slutten av 1800-tallet var Norge et samfunn i blomstring. En stadig større del av folket fikk skolegang og utdanning, og med industrien kom nye arbeidsplasser. Arbeiderklassen var i vekst og organiserte seg politisk, det samme gjorde kvinnene. Den teknologiske framgangen førte menneskene sammen – jernbane, bedre veier, telegraf og telefon gjorde det lettere å holde kontakt. 
 
   p Med den industrielle revolusjonen vokste det fram en helt ny samfunnsklasse, arbeiderklassen. Etter hvert ble dette en sterk samfunnsgruppe. Landsorganisasjonen (LO) ble grunnlagt i 1899, og fra nå av var det lettere for arbeiderne å stå samlet og støtte hverandre i kampen for rettigheter i arbeidslivet. I perioden 1884–1887 ble også de tre store politiske partiene Venstre, Høyre og Arbeiderpartiet stiftet. De to siste tiårene av 1800-tallet var i det hele en aktiv tid for utviklingen av norske organisasjoner.
@@ -23,7 +23,7 @@ PagePeriod(
 
   h3 Tanker i tida
 
-  img.col.col6.right-image(src="./Nyromantikk_Tanker_i_tida1.jpg" alt="")
+  img.col.col6.right-image(src="./Nyromantikk_Tanker_i_tida1.jpg" alt="Dame i festkjole og hårpynt. Maleri.")
   h5 ”Fin de siècle”
   p ”Fin de siècle” er fransk og betyr slutten av århundret. Begrepet blir også brukt i betydningen slutten på en æra, og sammenfatter en grunnstemning som vi finner over hele Europa i perioden fra 1890 fram til første verdenskrig. Forfattere og andre kunstnere var opptatt av at århundret snart var slutt, og at en epoke var over. Men hva var det som skulle komme? Tida var preget av motstridende tankestrømmer og følelser: frykt for at det kjente samfunnet skulle gå under, men også en følelse av at nye og bedre tider var i vente. 
 
@@ -36,14 +36,14 @@ PagePeriod(
 
   ImageTextBlock(
     :image="require(`./Nyromantikk_Tanker_i_tida_Freud.jpg`)"
-    altText="Sigmund Freud"    
+    altText="Mann poserer med sigar i hånden. Foto."    
     )
     h5 Sjelelivet i fokus 
     p Interessen for sjelelivet og kanskje særlig for det ubevisste, var et tydelig strømdrag i Europa gjennom hele 1800-tallet. Mot slutten av århundret ble sjelelivet dessuten gjenstand for vitenskapelig gransking. Først ute var den østerrikske psykiateren Sigmund Freud (1856–1939), som grunnla psykoanalysen og skulle bli en av de mest framtredende tenkerne også på 1900-tallet. Mange forfattere var også sterkt opptatt av følelser og de mer irrasjonelle sidene ved mennesket. 
 
   ImageTextBlock(
     :image="require(`./Nyromantikk_Tanker_i_tida_Nietzsche.jpg`)"
-    altText="Friedrich Nietzsche"
+    altText="Nærbilde av mann med stor bart. Foto."
   )
     h5 Friedrich Nietzsche 
     p Den tyske filosofen Friedrich Wilhelm Nietzsche (1844–1900) var en sentral inspirator for forfattere som August Strindberg, Henrik Ibsen, Arne Garborg og Knut Hamsun. Det var særlig Nietzsches fokus på det han kalte livskraft og vitalitet, og på de mer irrasjonelle sidene ved menneskene, som inspirerte forfatterne i 1890-årene. 
@@ -59,10 +59,10 @@ PagePeriod(
       img(src="./Nyromantikk_Tanker-i-tida_Scott.jpg" alt="Gabriel Scott")
       figcaption Gabriel Scott
     figure.m1rem
-      img(src="./Nyromantikk_Tanker_i_tida_Kinck.jpg" alt="Hans E. Kinck")
+      img(src="./Nyromantikk_Tanker_i_tida_Kinck.jpg" alt="Mann poserer i blå dress mot gul bakgrunn. Maleri.")
       figcaption Hans E. Kinck
     figure.m1rem
-      img(src="./Nyromantikk_Tanker_i_tida_Hamsun.jpg" alt="Knut Hamsund")
+      img(src="./Nyromantikk_Tanker_i_tida_Hamsun.jpg" alt="Sideprofil av mann med briller. Foto.")
       figcaption Knut Hamsund
 
   h5 Modernisme
@@ -70,7 +70,14 @@ PagePeriod(
 
   h3 Nyromantikken og ”det ubevidste sjæleliv”
 
-  img.col.col7.right-image(src="./Nyromantikk_og_det_ubevisste_sjaeleliv.jpg" alt="")
+  NdlaAudio(
+    source="media/periods/nyromantikk/Nyromantikken_det_ubeviste_sjeleliv_nrk.mp3"
+  )
+
+  .mt20
+
+
+  img.col.col7.right-image(src="./Nyromantikk_og_det_ubevisste_sjaeleliv.jpg" alt="To personer jobber i hagen som ligger ved et vann. Maleri.")
   p I 1890 holdt Knut Hamsun et foredrag med tittelen ”Fra det ubevidste sjæleliv”. Her kritiserte han realismen og kom med et programskrift for en ny type litteratur. Hamsun mente at realistene fokuserte for mye på ”forlovelser og ball og landturer”, det vil si den ytre handlingen, og at karakterene i de realistiske verkene var typer, ikke individer. Han hevdet at en litteratur for samtida heller burde interessere seg for sjelelige tilstander hos enkeltmennesket. 
 
   p Både Hamsun selv og Arne Garborg, Sigbjørn Obstfelder og Hans E. Kinck begynte nå å skildre stemninger og følelser, sjeleliv og spiritisme. De utforsket ofte de dunkle, irrasjonelle og mystiske sidene ved mennesket, og de hentet inspirasjon fra folkediktning, myter og religiøs tenkning. Denne nye retningen i litteraturen har fått navnet nyromantikken. 
@@ -93,7 +100,7 @@ PagePeriod(
 
   h3 Modernismen 
 
-  img.col.col7.right-image(src="./Nyromantikk_Modernismen1.jpg" alt="")
+  img.col.col7.right-image(src="./Nyromantikk_Modernismen1.jpg" alt="Konsentrert kunstner med pensler og lerret. Maleri.")
   p ”Make it new” kan stå som slagord for modernismen. Felles for alle de modernistiske tekstene er at de bryter med tradisjonelle kunstidealer. Gjennom eksperimenter med form og språk utfordres publikum til å tenke nytt. 
 
   p Modernistene tok opp hva det ville si å være menneske i den moderne verden. Men i motsetning til realistene var de ikke så opptatt av å sette problemer under debatt. De ville heller skildre sjelelivet til det moderne mennesket. 
@@ -117,7 +124,7 @@ PagePeriod(
   h3 Språket i perioden
 
   figure.col.col6.right-image.mt5
-    img(src="./Nyromantikk_Spraaket_i_perioden1.jpg" alt="Nordahl Rolfsen")
+    img(src="./Nyromantikk_Spraaket_i_perioden1.jpg" alt="Mann sitter ved skrivebord. Foto.")
     figcaption Nordahl Rolfsen
   p Fra og med 1885 hadde Norge to offisielle skriftspråk. Gjennom det såkalte jamstillingsvedtaket ble de to målformene landsmål og riksmål likestilt. 
 
@@ -130,7 +137,7 @@ PagePeriod(
   h3 Massemedier
 
   figure.col.col7.left-image
-    img(src="./Nyromantikk_Massemedier_Grammofon.jpg" alt="En Victor grammofon fra omkring 1907")
+    img(src="./Nyromantikk_Massemedier_Grammofon.jpg" alt="En eldre grammofonspiller. Foto.")
     figcaption En Victor grammofon fra omkring 1907
   p Mot slutten av århundret ser vi hvordan den teknologiske utviklingen fører til at gamle medier blir forbedret, mens nye kommer til. Utviklingen av fotoapparatet var nå kommet så langt at det ble mer og mer vanlig med portrettbilder og illustrasjoner i aviser og magasiner. I 1904 kom grammofonen og dermed grammofonplata. Det gjorde at en nå kunne lagre musikk. 
 
@@ -149,26 +156,27 @@ PagePeriod(
 
   p Oda Krohg (1860–1935) er en annen representant for nyromantikken i malerkunsten. Krohg brukte raffinerte farger og spilte på det underforståtte. Hun lot seg her inspirere av symbolismen i malerkunsten.
 
-  img.col.col4.mt10.right-image(src="./Nyromantikk_Andre_kunstformer_Munch.jpg" alt="")
+  img.col.col4.mt10.right-image(src="./Nyromantikk_Andre_kunstformer_Munch.jpg" alt="Portrett av mann med bart og hatt. Foto.")
   h5 Symbolisme 
   p Edvard Munch (1863–1944) er den norske maleren som i ettertid er best kjent og verdsatt. Han var en representant for symbolismen i malerkunsten. Han ville synliggjøre sterke følelser og sjelelige kamper gjennom bildene sine og brukte derfor ofte kontraster, både i motiv og i farger. Kjærlighet, angst, død, smerte og ensomhet blir framstilt i enkle linjer i klare og sterke farger. Munch er ikke opptatt av å male pent, men å male sant. Og det sanneste en kunne male, var følelser og drivkrefter hos menneskene. Det mest kjente maleriet hans, ”Skrik” (1893), framstår som selve symbolet på den eksistensielle angsten hos det siviliserte mennesket. 
 
   h5 Modernismen i bildekunsten 
   p De modernistiske bildekunstnerne brydde seg ikke lenger om sentralperspektiv og fotografisk etterlikning av motivene. De eksperimenterte i stedet med farger, form og perspektiv. I tillegg hevdet de at kunsten ikke trengte noe formål eller budskap utenfor seg selv. Valget av motiv endret seg også. Kunstnerne samlet seg i storbyer – særlig Paris – og malte det moderne bylivet.
 
-  img.col.col6.mt5.left-image(src="./Nyromantikk_Andre_kunstformer_Grieg.jpg" alt="")
+  img.col.col6.mt5.left-image(src="./Nyromantikk_Andre_kunstformer_Grieg.jpg" alt="Selvsikker mann med bart poserer med hendene i jakkekragen. Foto.")
   h5 Musikk 
   p Perioden før og etter århundreskiftet er omtalt som selve gullalderen i norsk musikkhistorie. Edvard Grieg (1843–1907) er den mest kjente komponisten Norge har fostret. Han regnes som en nasjonalromantisk komponist, og den norske folkemusikken er den viktigste inspirasjonskilden hans. 
-  img.col.col12(src="./Nyromantikk_Andre_kunstformer2.jpg" alt="")
+  img.col.col12(src="./Nyromantikk_Andre_kunstformer2.jpg" alt="Noteark med tittel Allegro molto moderato. Illustrasjon.")
 
   .flex.flex-justify-space-evenly.mt40
-    img.col.col4(src="./Nyromantikk_Andre_kunstformer_Sinding.jpg" alt="")
-    img.col.col4(src="./Nyromantikk_Andre_kunstformer_Halvorsen.jpg" alt="")
+    img.col.col4(src="./Nyromantikk_Andre_kunstformer_Sinding.jpg" alt="Portrett av mann med briller. Foto.")
+    img.col.col4(src="./Nyromantikk_Andre_kunstformer_Halvorsen.jpg" alt="Portrett av mann med snurrebart. Foto.")
   p Christian Sinding (1856–1941) og Johan Halvorsen (1864–1935) tok opp arven etter Grieg. Christian Sinding viser slektskap med Grieg i de lyriske pianostykkene sine, og Halvorsen og Grieg samarbeidet blant annet om å skrive ned tradisjonelle slåtter fra Telemark. 
 
   ImageTextBlock(
     :image="require(`./Nyromantikk_Andre_kunstformer_Debussy.jpg`)"
     :imageColumns="5"
+    altText="Portrett av mann med skjegg. Foto."
   )
     p.mt0 På samme måte som de impresjonistiske malerne på slutten av 1800-tallet skildret følelser og stemninger i øyeblikket, fantes det også komponister som lot seg inspirere av naturen, av stemninger, og også av diktning. En av dem var franskmannen Claude Debussy (1862–1918). Han skrev musikk som var flytende og svevende, og det var klangene som var viktige, ikke melodi, form eller framdrift. 
 
@@ -178,8 +186,8 @@ PagePeriod(
   p Felles for både art nouveau og jugendstilen er at arkitektene nå lot seg inspirere av linjene i naturen. Vi kan også se retningene som en reaksjon mot det noen oppfattet som stygge linjer i industrien. På den måten blir dette en protest mot moderniseringen og industrialiseringen av samfunnet. I Norge har vi flere eksempler på jugendstil, for eksempel bykjernen i Ålesund. Etter at byen brant ned i 1904, ble den bygd opp på nytt med en arkitektur sterkt inspirert av jugendstilen. 
 
   .flex.flex-justify-space-evenly.mt40
-    img.col.col6.p5(src="./Nyromantikk_Andre_kunstformer3.jpg")
-    img.col.col6.p5(src="./Nyromantikk_Andre_kunstformer4.jpg")
+    img.col.col6.p5(src="./Nyromantikk_Andre_kunstformer3.jpg" alt="Inngangsparti til et bygg med gitterport. Foto.")
+    img.col.col6.p5(src="./Nyromantikk_Andre_kunstformer4.jpg" alt="Gatehjørne ved et mursteinsbygg. Foto.") 
   br
   br
 

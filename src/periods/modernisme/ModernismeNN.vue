@@ -9,7 +9,7 @@ PagePeriod(
   h5 Dei harde trettiåra 
 
   figure.col.col8.right-image.mt20
-    img(src="./Modernisme_Tida_og_samfunnsforholdene1.jpg" alt="")
+    img(src="./Modernisme_Tida_og_samfunnsforholdene1.jpg" alt="Ei gruppe menn studerer ei okse. Foto.")
     figcaption Ei ku går under hamaren på ein tvangsauksjon på Skullerud gard i 1934. Foto: NTB Scanpix
 
   p
@@ -19,7 +19,7 @@ PagePeriod(
   p
     | Det store børskrakket i USA i 1929 fekk veldige internasjonale konsekvensar for økonomien. I Noreg såg vi verknadene mot slutten av 1930. Da var det særleg skipsfarten det gjekk hardt ut over. Arbeidsløysa nådde ein topp i 1933, da heile 33 prosent av den norske arbeidsstokken var utan arbeid. 
 
-  img.mt20.mb20(src="./Modernisme_Tida_og_samfunnsforholdene2.jpg" alt="")
+  img.mt20.mb20(src="./Modernisme_Tida_og_samfunnsforholdene2.jpg" alt="Seks ulike forsider av norske aviser. Foto.")
   h5 Andre verdskrigen 
   p
     | I 1940 gjekk Hitler til åtak på Noreg. Dei norske troppane kapitulerte etter stutt tid, men den norske kongen nekta å overgi seg og flykta til England saman med regjeringa, for å styre landet derifrå.  
@@ -27,7 +27,7 @@ PagePeriod(
     | Andre europeiske land vart mykje hardare råka av verdskrigen enn Noreg, men også her førte tysk okkupasjon med seg liding og store omveltingar. Den hardaste krigføringa bar til i Nord-Noreg, og under den tyske tilbaketrekkinga brende og øydela tyske troppar alt for å forseinke framrykkinga til dei sovjetiske styrkane. Konsekvensane for bygdefolket var katastrofale.  
 
   figure.col.col6.left-image.mt5
-    img(src="./Modernisme_Tida_og_samfunnsforholdene3.jpg" alt="")
+    img(src="./Modernisme_Tida_og_samfunnsforholdene3.jpg" alt="Ei gruppe kvinner foran disken i ein kolonial. Foto.")
     figcaption Kø av folk som skal handle på eit samvirkelag i Oslo i 1945. Begge foto: NTB Scanpix
 
   p
@@ -40,7 +40,7 @@ PagePeriod(
     | Etter andre verdskrigen vart Europa nokså raskt delt i to politiske blokkar. Dei austlege delane av kontinentet var dominert av den sovjetiske kommunismen, mens Vest-Europa var sterkt prega av verdiane og kulturen som amerikanarane representerte. Noreg vart medlem av NATO i 1949 og signaliserte på den måten tilknyting og lojalitet til vestblokklanda. Den ideologiske kampen mellom aust og vest prega etterkrigsåra. Forståinga av at både USA og Sovjetunionen hadde atomvåpen nok til å utslette heile jorda, førte til frykt og angst.  
 
   figure.col.col6.right-image.mt5
-    img(src="./Modernisme_Tida_og_samfunnsforholdene4.jpg" alt="")
+    img(src="./Modernisme_Tida_og_samfunnsforholdene4.jpg" alt="Familie på fire foran ein radio. Foto.")
     figcaption Å kunne spele inn og bevare inntrykk frå dei første leveåra til barna var draumen for mange foreldre. Her ein familie som prøver ut bandspelaren i heimen. Foto: Sverre A. Børretzen / Aktuell / Scanpix
 
   p
@@ -49,7 +49,7 @@ PagePeriod(
     | Arbeidarpartiet sat med reint fleirtal på Stortinget heilt frå 1945 til 1961, og Einar Gerhardsen var statsminister i mest heile perioden. Gerhardsen-regjeringa byrja byggje opp det såkalla velferdssamfunnet, der staten tok ansvaret for ein del velferdsgode og sikra visse sosiale ytingar til alle utan omsyn til sosial bakgrunn eller etnisk opphav.  
 
   figure.col.col6.right-image.mt5
-    img(src="./Modernisme_Tida_og_samfunnsforholdene5.jpg" alt="")
+    img(src="./Modernisme_Tida_og_samfunnsforholdene5.jpg" alt="Fleire par svingar seg på dansegolvet. Foto.")
     figcaption Oslo ca. 1957. Ungdom dansar rock og swing. Foto: Aktuell / Scanpix
 
   p
@@ -60,7 +60,7 @@ PagePeriod(
   h3 Tankar i tida  
 
   figure.col.col6.right-image.mt5
-    img(src="./Modernisme_Tanker_i_tida1.jpg" alt="")
+    img(src="./Modernisme_Tanker_i_tida1.jpg" alt="Mann på talestol pynta med nazistiske flagg. Ei gruppe soldatar passar på i forgrunnen. Foto.")
     figcaption Adolf Hitler taler til ei folkemengd i Berlin i 1935. Foto: Scanpix
 
   h5 Nazismen 
@@ -70,14 +70,14 @@ PagePeriod(
     | Nazismen er tett knytt til Adolf Hitler (1889–1945) og hans parti NSDAP, det nasjonalsosialistiske tyske arbeidarpartiet. Nazismen var ei antidemokratisk, antisemittisk og antikommunistisk rørsle. Eit anna kjennemerke ved ideologien var ei sterk tru på at germanarane var overlegne som folk – og at andre folkeslag var tilsvarande underlegne og mindreverdige.  
 
   figure.col.col6.right-image.mt5
-    img(src="./Modernisme_Tanker_i_tida2.jpg" alt="")
+    img(src="./Modernisme_Tanker_i_tida2.jpg" alt="Knuste vindusfasadar på butikkar og menneske som går forbi. Foto.")
     figcaption Øydelagde jødiske forretningar i Berlin etter Krystallnatta mellom 9. og 10. november 1938. Foto: Scanpix
 
   p
     | Etter første verdskrigen opplevde det tyske folket arbeidsløyse og nød, og lengta etter ei ny styreform og ein ny statsleiar. NSDAP utnytta denne lengsla gjennom ei sterk propagandaføring før valet i 1933. Tyskland trong ein ny og sterk leiar, hevda dei. Nasjonalsosialistane fekk regjeringsmakta i Tyskland i 1933. Dei nasjonalistiske og antisemittiske tankane i ideologien skulle syne seg å få fatale konsekvensar under andre verdskrigen.  
 
   figure.col.col4.left-image.mt5
-    img(src="./Modernisme_Tanker_i_tida3.jpg" alt="")
+    img(src="./Modernisme_Tanker_i_tida3.jpg" alt="Mann med bart, uniform og armbind med nazitegn ved sidan av uniformert mann som gjer nazistisk helsing. Foto.")
     figcaption Hitler og Mussolini i München i 1937. Foto: Scanpix
 
   h5 Fascismen 
@@ -95,13 +95,13 @@ PagePeriod(
 
   .flex.portretter
     figure.m1rem
-      img(src="./Modernisme_Tanker_i_tida4.jpg" alt="Søren Kierkegaard")
+      img(src="./Modernisme_Tanker_i_tida4.jpg" alt="Poserande mann med bølga hår. Illustrasjon.")
       figcaption Søren Kierkegaard
     figure.m1rem
-      img(src="./Modernisme_Tanker_i_tida5.jpg" alt="Friedrich Wilhelm Nietzsche")
+      img(src="./Modernisme_Tanker_i_tida5.jpg" alt="Poserande mann med stor bart. Foto.")
       figcaption Friedrich Wilhelm Nietzsche
     figure.m1rem
-      img(src="./Modernisme_Tanker_i_tida6.jpg" alt="Fjodor Dostojevskij")
+      img(src="./Modernisme_Tanker_i_tida6.jpg" alt="Mann med skjegg og stor frakk sit med folda hender. Foto.")
       figcaption Fjodor Dostojevskij
   p
     | Eksistensialismen har sitt opphav i ideane til den danske filosofen Søren Kierkegaard (1813–1855). Også filosofen Friedrich Wilhelm Nietzsche (1844–1900) og forfattaren Fjodor Dostojevskij (1821–1881) har spela ei rolle for framveksten av denne retninga.  
@@ -112,19 +112,19 @@ PagePeriod(
 
   .flex.portretter.portretter-5
     figure.m1rem
-      img(src="./Modernisme_Tanker_i_tida7.jpg" alt="Karl Jaspers")
+      img(src="./Modernisme_Tanker_i_tida7.jpg" alt="Portrettbilete av mann i dress. Foto.")
       figcaption Karl Jaspers
     figure.m1rem
-      img(src="./Modernisme_Tanker_i_tida8.jpg" alt="Gabriel Marcel")
+      img(src="./Modernisme_Tanker_i_tida8.jpg" alt="Halvnært portrett av mann med mørkt hår. Foto.")
       figcaption Gabriel Marcel
     figure.m1rem
-      img(src="./Modernisme_Tanker_i_tida9.jpg" alt=" Martin Heidegger")
+      img(src="./Modernisme_Tanker_i_tida9.jpg" alt="Mann med kalott på hovudet. Foto.")
       figcaption  Martin Heidegger
     figure.m1rem
-      img(src="./Modernisme_Tanker_i_tida10.jpg" alt="Jean Paul Sartre")
+      img(src="./Modernisme_Tanker_i_tida10.jpg" alt="Portrett av mann med briller og sigarett. Foto. ")
       figcaption Jean Paul Sartre
     figure.m1rem
-      img(src="./Modernisme_Tanker_i_tida11.jpg" alt="Simone de Beauvoir")
+      img(src="./Modernisme_Tanker_i_tida11.jpg" alt="Halvnært bilete av kvinne i skjorte. Foto.")
       figcaption Simone de Beauvoir
   p
     | Dei ulike eksistensialistane har mykje til felles, men er også forskjellige i tenkinga si. Hos kristne eksistensialistar, som Kierkegaard, Karl Jaspers (1883–1969) og Gabriel Marcel (1889–1973), har Gud ein sentral plass, og eksistensen til mennesket må forståast ut frå eit kriste verdsbilete.  
@@ -139,13 +139,13 @@ PagePeriod(
 
   .flex.portretter
     figure.m1rem
-      img(src="./Modernisme_Tanker_i_tida12.jpg" alt="Samuel Beckett")
+      img(src="./Modernisme_Tanker_i_tida12.jpg" alt="Portrett av mann i dress med briller skjøvet opp i panna. Foto. ")
       figcaption Samuel Beckett
     figure.m1rem
-      img(src="./Modernisme_Tanker_i_tida13.jpg" alt="Eugène Ionesco")
+      img(src="./Modernisme_Tanker_i_tida13.jpg" alt="Portett av eldre mann med lite hår. Foto.")
       figcaption Eugène Ionesco
     figure.m1rem
-      img(src="./Modernisme_Tanker_i_tida14.jpg" alt="Albert Camus")
+      img(src="./Modernisme_Tanker_i_tida14.jpg" alt="Mann i dress og frakk på utsida av eit bygg. Foto.")
       figcaption Albert Camus
   p
     | Forfattaren Samuel Beckett (1906–1989) formidlar denne stemninga plagsamt godt i dramaet Mens vi venter på Godot (1948). Også dramatikaren Eugène Ionesco (1909–1994) og forfattaren Albert Camus (1913–1960) er kjende representantar for absurdismen. 
@@ -153,7 +153,7 @@ PagePeriod(
   h3 Episk litteratur i perioden 1930–1960  
 
   figure.col.col12
-    img(src="./Modernisme_Episk_litteratur1.jpg" alt="")
+    img(src="./Modernisme_Episk_litteratur1.jpg" alt="Mann med to roårer på ei scene. Foto.")
     figcaption Øyvind Brantzæg spela Mattis i teaterversjonen av Fuglane av Tarjei Vesaas på Trøndelag Teater i 2010. Foto: Thor Nielsen / VG / Scanpix
 
   h5 Nyrealismen 
@@ -173,6 +173,7 @@ PagePeriod(
 
   ImageTextBlock(
     :image="require(`./Modernisme_Episke_forfattere1.jpg`)"
+    altText="Mann med briler som skriv på ei skrivemaskin. Foto."
     )
     h5 Sigurd Hoel 
     p
@@ -180,6 +181,7 @@ PagePeriod(
 
   ImageTextBlock(
     :image="require(`./Modernisme_Episke_forfattere2.jpg`)"
+    altText="Halvnært portrett av eldre kvinne som sit på ein benk i parken. Foto."
     )
     h5 Cora Sandel 
     p
@@ -187,6 +189,7 @@ PagePeriod(
 
   ImageTextBlock(
     :image="require(`./Modernisme_Episke_forfattere3.jpg`)"
+    altText="Poserande mann med dress og briller som held ein sneip i handa. Foto."
     )
     h5 Aksel Sandemose 
     p
@@ -194,6 +197,7 @@ PagePeriod(
 
   ImageTextBlock(
     :image="require(`./Modernisme_Episke_forfattere4.jpg`)"
+    altText="Skalla mann med katt på skuldra. Foto."
     )
     h5 Tarjei Vesaas 
     p
@@ -201,6 +205,7 @@ PagePeriod(
 
   ImageTextBlock(
     :image="require(`./Modernisme_Episke_forfattere5.jpg`)"
+    altText="Nærbilete av mann med briller som les ei bok. Foto."
     )
     h5 Johan Borgen 
     p
@@ -210,6 +215,7 @@ PagePeriod(
 
   ImageTextBlock(
     :image="require(`./Modernisme_Episke_forfattere6.jpg`)"
+    altText="Halvnært portrett av ei eldre kvinne. Foto."
     )
     h5 Torborg Nedreaas 
     p
@@ -217,6 +223,7 @@ PagePeriod(
 
   ImageTextBlock(
     :image="require(`./Modernisme_Episke_forfattere7.jpg`)"
+    altText="Portrett av mann med sigarett. Foto. "
     )
     h5 Agnar Mykle 
     p
@@ -238,7 +245,7 @@ PagePeriod(
     | Dei brutale øydeleggingane, overgrepa mot sivile og Hitlers forsøk på å utrydde det jødiske folket og andre minoritetsgrupper, sette Europa i ein slags nullpunktssituasjon. Var det i det heile mogleg å setje ord på det som hadde skjedd? Mange diktarar opplevde at det tradisjonelle lyriske formspråket ikkje lenger strakk til når dei prøvde å formidle røynslene og refleksjonane sine. 
 
   figure.col.col6.right-image.mt5
-    img(src="./Modernisme_Lyrikken_i_perioden1.jpg" alt="")
+    img(src="./Modernisme_Lyrikken_i_perioden1.jpg" alt="Gestikulerende mann med briller på talestol. Foto.")
     figcaption Arnulf Øverland på talarstolen. Foto: Aage Storløkken / Aktuell / Scanpix
 
   h5 Modernismen bryt gjennom 
@@ -247,6 +254,7 @@ PagePeriod(
 
   ImageTextBlock(
     :image="require(`./Modernisme_Norske_lyrikere1.jpg`)"
+    altText="Mann med briller les ved skrivebordet. Foto."
     )
     h5 Arnulf Øverland 
     p
@@ -254,6 +262,7 @@ PagePeriod(
 
   ImageTextBlock(
     :image="require(`./Modernisme_Norske_lyrikere2.jpg`)"
+    altText="Nærbilete av kvinne med briller og langt mørkt hår. Foto."
     )
     h5 Gunvor Hofmo 
     p
@@ -265,13 +274,13 @@ PagePeriod(
 
   .flex.portretter
     figure.m1rem
-      img(src="./Modernisme_Norske_lyrikere3.jpg" alt="Aslaug Vaa")
+      img(src="./Modernisme_Norske_lyrikere3.jpg" alt="Portrett av eldre kvinne med mørkt hår. Foto.")
       figcaption Aslaug Vaa
     figure.m1rem
-      img(src="./Modernisme_Norske_lyrikere4.jpg" alt="Inger Hagerup")
+      img(src="./Modernisme_Norske_lyrikere4.jpg" alt="Kvinne som skriv på skrivemaskin. Foto.")
       figcaption Inger Hagerup
     figure.m1rem
-      img(src="./Modernisme_Norske_lyrikere5.jpg" alt="Halldis Moren Vesaas")
+      img(src="./Modernisme_Norske_lyrikere5.jpg" alt="Portrett av kvinne med skinnande gjenstand på armen. Foto.")
       figcaption Halldis Moren Vesaas
 
   h5 Modernistisk lyrikk 
@@ -280,13 +289,13 @@ PagePeriod(
 
   .flex.portretter
     figure.m1rem
-      img(src="./Modernisme_Norske_lyrikere6.jpg" alt="Rolf Jacobsen")
+      img(src="./Modernisme_Norske_lyrikere6.jpg" alt="Poserande mann med briller, rutete tweedjakke og stokk. Foto.")
       figcaption Rolf Jacobsen. Foto: Tom A. Kolstad / Scanpix
     figure.m1rem
-      img(src="./Modernisme_Norske_lyrikere7.jpg" alt="Claes Gill")
+      img(src="./Modernisme_Norske_lyrikere7.jpg" alt="Gestikulerande eldre mann med skjegg utandørs. Foto.")
       figcaption Claes Gill. Foto: John Myhre / Aftenposten / Scanpix
     figure.m1rem
-      img(src="./Modernisme_Norske_lyrikere8.jpg" alt="Paal Brekke")
+      img(src="./Modernisme_Norske_lyrikere8.jpg" alt="Sittande mann på eit kontor. Foto.")
       figcaption Paal Brekke. Foto: Aktuell / Scanpix
   p
     | Ein av dei mest kjende modernistane i 1950-åra var Paal Brekke (1923–1993). Brekke var inspirert av europeisk modernisme, og særleg vende han blikket mot Finland og Sverige. For Brekke var eit modernistisk uttrykk det einaste som kunne skildre tilværet etter krigen. Tradisjonell strofeinndeling, rim og fast rytme dugde ikkje til dette formålet. Dei emna han tek opp i dikta sine, er typisk modernistiske: identitet, ein oppstykkja røyndom og manglande kommunikasjon mellom menneska.     
@@ -294,7 +303,7 @@ PagePeriod(
   h3 Språket i perioden 
 
   figure.col.col12
-    img(src="./Modernisme_Spraaket_i_perioden1.jpg" alt="")
+    img(src="./Modernisme_Spraaket_i_perioden1.jpg" alt="Bil med megafonar foran ei stor folkemengd. Foto.")
     figcaption Foreldreaksjonen mot samnorsk demonstrer utanfor Stortinget i 1951. Foto: NTB / Scanpix
   p
     | Andre verdskrigen markerer på mange måtar eit brot i moderne norsk språkhistorie. Før krigen hadde Arbeidarpartiet regjeringsmakta, og dei hadde eit klart mål med språkarbeidet: Gjennom språkreformer skulle bokmål og nynorsk smelte saman til ei felles målform – samnorsk.  
@@ -306,7 +315,7 @@ PagePeriod(
   h3 Radioen – eit nytt medium  
 
   figure.col.col12
-    img(src="./Modernisme_Radioen1.jpg" alt="")
+    img(src="./Modernisme_Radioen1.jpg" alt="Kvinne og mann i godt humør foran ein antikk radio. Foto.")
     figcaption To velnøgde radiolyttarar i 1950. Foto: Scanpix
   p
     | I 1933 fekk Norsk rikskringkasting (NRK) monopol på å drive radiosendingar, og for første gong kunne heile landet samle seg rundt eit felles medietilbod. Radioen var for mange den viktigaste formidlingskanalen for nyheiter og underhaldning i tida fram til 1960. I tillegg til nyheiter og underhaldning var folkeopplysning ein svært viktig del av radioprogramma.  
@@ -319,7 +328,7 @@ PagePeriod(
   h3 Filmindustrien veks fram 
 
   figure.col.col7.right-image.mt5
-    img(src="./Modernisme_Filmindustrien1.jpg" alt="")
+    img(src="./Modernisme_Filmindustrien1.jpg" alt="To kvinner i bikini møter tre personar i samiske kofter. Foto.")
     figcaption Per Høsts praktfulle film «Same-Jakki» som han tok opp etter å ha delt kåra til samane på Finnmarksvidda eitt år, vekte oppsikt både nasjonalt og internasjonalt. Filmen vart m.a. presentert på den internasjonale filmfestivalen i Cannes i 1957. Her er samen Anders Pentha (i midten) saman med barna Jo Matti og Biera på stranda i Cannes, ivrig oppteken med å feste inntrykka frå filmfestivalen på eigen film. Foto: NTB arkiv / UPI / Scanpix
   p
     | I etterkrigstida var norsk kino i sterk vekst. Enno var ikkje fjernsynet kome til Noreg, og i tillegg til radioen vart kinoen ei kjelde for underhaldning og avkopling. I 1950-åra kom ei bølgje av lette komediar. Særleg populære var filmar frå kvardagslivet der meir eller mindre hysteriske husmødrer dreiv mennene sine til vanvit. Støv på hjernen frå 1959 er typisk for denne trenden.  
@@ -327,7 +336,7 @@ PagePeriod(
     | Ei norsk kinoframsyning som fekk store følgjer, skjedde i Oslo 20. september 1956. Filmen heitte Rock Around the Clock, og etter framsyninga kom det til gatekampar. Filmen introduserte rockemusikken og vekte straks stormande jubel hos norsk ungdom.  
 
   figure.col.col4.left-image.mt5
-    img(src="./Modernisme_Filmindustrien2.jpg" alt="")
+    img(src="./Modernisme_Filmindustrien2.jpg" alt="Politi på hest bryt opp ei folkemengd. Foto.")
     figcaption Fleire hundre ungdomar laga bråk etter framsyninga av filmen «Rock Around the Clock» i Oslo i 1956. Her går politiet til aksjon for å roe gemytta. Foto: NTB arkiv / Scanpix
   p
     | Amerikanske filmar i 1950-åra dyrka eit ungdomsideal basert på grenseoverskridingar og opprør. James Dean (1931–1955) og Marlon Brando (1924–2004) var for mennene det Audrey Hepburn (1929–1993) og Marilyn Monroe (1926–1962) vart for kvinner – dei representerte nye måtar å leve på og nye ideal for stil og utsjånad.  
@@ -339,7 +348,7 @@ PagePeriod(
   h3 Biletkunst  
 
   figure.col.col4.right-image.mt5
-    img(src="./Modernisme_Bildekunst1.jpg" alt="")
+    img(src="./Modernisme_Bildekunst1.jpg" alt="Russisk plakat med soldat løftar geværet i lufta. Illustrasjon.")
     figcaption Sovjetisk propagandaplakat frå andre verdskrigen.
 
   h5 Kunst som propaganda 
@@ -350,27 +359,27 @@ PagePeriod(
 
   .flex.space-evenly.mt40
     figure.col.col4.right-image.mt5
-      img(src="./Modernisme_Bildekunst2.jpg" alt="")
+      img(src="./Modernisme_Bildekunst2.jpg" alt="Tysk plakat med familie på fem omfamnar kvarandre. Ørn i bakgrunnen. Illustrasjon.")
       figcaption Tysk propagandaplakat frå mellomkrigstida.
     figure.col.col4.right-image.mt5
-      img(src="./Modernisme_Bildekunst3.jpg" alt="")
+      img(src="./Modernisme_Bildekunst3.jpg" alt="Russisk plakat med kunstnerisk motiv med edderkopp og hovudskalle på sort bakgrunn. Illustrasjon.")
       figcaption Tysk antisemitisk propagandaplakat på polsk frå 1942.
 
   p
     | Propagandaplakatane var klare i både utforming og bodskap. Politiske motstandarar og folkegrupper som nazistane såg på som mindreverdige, vart framstilte som vonde forbrytarar eller som dyr – jødane til dømes vart ofte teikna med trekk som minte om rotter. Formålet var å ta frå desse gruppene det menneskelege slik at folk lettare kunne godta overgrepa og mishandlingane som jødar, sigøynarar, homofile, kommunistar og andre grupper vart utsette for. ￼Sovjetisk propagandaplakat frå andre verdskrigen. Tysk propagandaplakat frå mellomkrigstida.  
 
   figure.col.col12.mt40.mb40
-    img(src="./Modernisme_Bildekunst4.jpg" alt="")
+    img(src="./Modernisme_Bildekunst4.jpg" alt="Mannleg kunstnar foran eit av dei fargerike kunstverka sine. Foto.")
     figcaption Jakob Weidemann på ei utstilling på Henie-Onstad kunstsenter i 1997. Foto: Rolf M. Aagaard / Aftenposten / Scanpix
   
 
   .clear
   .div
     figure.col.col6.right-image.mt5
-      img(src="./Modernisme_Bildekunst5.jpg" alt="")
+      img(src="./Modernisme_Bildekunst5.jpg" alt="Kvinne viser fram to kunstverk på lerret. Foto.")
       figcaption Inger Sitter viser måleriet «11. september 2001» på ei ustilling i Galleri Brandstrup. Foto: Rolf M. Aagaard / BONO / Scanpix
     figure.col.col6.right-image.mt5
-      img(src="./Modernisme_Bildekunst6.jpg" alt="")
+      img(src="./Modernisme_Bildekunst6.jpg" alt="Tom vrimlehall med store rosa glassvindauge. Foto.")
       figcaption Odd Tandberg sitt utsmykningsarbeid på det nye Rikshospitalet. Foto: Rolf Chr. Ulrichsen / Scanpix
   .col.col6
     h5 Nonfigurativt formspråk 
@@ -381,7 +390,7 @@ PagePeriod(
   h3 Arkitektur 
 
   figure.col.col12
-    img(src="./Modernisme_Arkitektur1.jpg" alt="")
+    img(src="./Modernisme_Arkitektur1.jpg" alt="Spisestue med ei dame på kjøkkenet i bakgrunnen. Foto.")
     figcaption Spisestove i funksjonalistisk stil i ein villa frå 1950. Foto: NTB / Scanpix
   p
     | I tida etter andre verdskrigen vart det funksjonalistiske og reine uttrykket dyrka. Funksjonalitet stod i sentrum, og heimane vart innreidde etter den same rasjonelle tankegangen som ein utstyrte fabrikkar. Det kom særleg til syne i innreiinga av kjøkken. Systematiske undersøkingar av korleis kvinnene flytte seg på kjøkkenet, skulle vere med på å skape ein standardisert, rasjonell og effektiv arbeidsplass for kvinna. Heimane vart også fylte opp med tekniske hjelpemiddel som vaskemaskinar, kjøleskap og miksmasterar.  
@@ -399,13 +408,13 @@ PagePeriod(
         | Da Elvis Presley (1935–1977) slo gjennom med ”Heartbreak Hotel” i 1956, innleidde han rockens æra. Musikken var inspirert av både gospel, country og rhythm and blues, og appellerte sterkt til den nye ungdomsgenerasjonen. Elvis vart superstjerne – hoftevrikka hans fekk ungjenter til å svime av og foreldre til å reagere: Kraftige reaksjonar førte til forbod mot å filme midja og beina til Elvis under TV-framføringar. ￼Louis Armstrong gav ein forrykande konsert i Colosseum kino i Oslo i 1952, og bidrog på denne måten sterkt til at jazzfeberen breidde seg i hovudstaden på 1950-talet. Entusiastar overnatta i billettkø for å sikre seg ein av dei vel 2000 plassane i kinolokalet. 
     .div.col.col6.pl20
       figure
-        img(src="./Modernisme_Musikk1.jpg" alt="")
+        img(src="./Modernisme_Musikk1.jpg" alt="Mann som spelar trompet. Foto.")
         figcaption Louis Armstrong gav ein forrykande konsert i Colosseum kino i Oslo i 1952, og bidrog på denne måten sterkt til at jazzfeberen breidde seg i hovudstaden på 1950-talet.
       figure
-        img(src="./Modernisme_Musikk2.jpg" alt="")
+        img(src="./Modernisme_Musikk2.jpg" alt="Ei stor folkemengd på begge sider av gata ventar på parade. Foto.")
         figcaption Entusiastar overnatta i billettkø for å sikre seg ein av dei vel 2000 plassane i kinolokalet. Foto: Sverre A. Børretzen / Aktuell / Scanpix
       figure
-        img(src="./Modernisme_Musikk3.jpg" alt="")
+        img(src="./Modernisme_Musikk3.jpg" alt="Tre musikarar speler gitar og kontrabass. Foto.")
         figcaption Elvis Presley under ein konsert i 1957. Foto: AP / Scanpix
 
   .clear 

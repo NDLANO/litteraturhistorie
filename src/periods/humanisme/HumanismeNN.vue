@@ -8,7 +8,7 @@ PagePeriod(
   h3 Tida og samfunnstilhøva  
 
   figure.col.col6.left-image
-    img(src="./Humanisme_Tida_og_samfunnsforholdene1.jpg" alt="")
+    img(src="./Humanisme_Tida_og_samfunnsforholdene1.jpg" alt="Stor bokstav med bilete av ridder med skjold og visir som står mellom to personar. Illustrasjon.")
     figcaption Prest, riddar og bonde, dei berande stendene i det føydale samfunnet  
 
   h5 Menneskesynet i mellomalderen 
@@ -25,16 +25,19 @@ PagePeriod(
 
   h5 Frå stormakt til katastrofe 
   figure.col.col6.right-image
-    img(src="./Humanisme_Tida-og-samfunnsforholdene2.jpg" alt="")
+    img(src="./Humanisme_Tida-og-samfunnsforholdene2.jpg" alt="Eit stirrande gjenferd kryp opp ei tretrapp. Illustrasjon.")
     figcaption ”Pesten i trappa”. Teikning av Theodor Kittelsen  
   p
    | På 1200-talet er Noreg ei stormakt, men 1300-talet blir ei katastrofal nedgangstid for landet. I 1349 kjem svartedauden til landet, og om lag to tredelar av folket stryk med. Det skal gå fleire hundre år før folketalet kjem opp på same nivået som før pesten braut ut. 
+
+  p
+    a(href="media/periods/humanisme/jostedalsrypa.html" target="_blank") Les sagnet om jostedalsrypa
 
   h5 Ny blomstringstid sør i Europa 
   p
    | Etter svartedauden ligg det meste nede her i landet, men i Italia startar ei ny utvikling. Der blomstrar handelen opp, og kjøpmennene kjem i kontakt med andre land og kulturar. Handelsborgarane i byane blir ei viktig samfunnsgruppe, og jordeigarane mister dermed noko av makta. Med auka handel får også pengeøkonomien etter kvart større plass. 
 
-  img.col.col6.mt5.right-image(src="./Humanisme_Tida-og-samfunnsforholdene3.jpg" alt="")
+  img.col.col6.mt5.right-image(src="./Humanisme_Tida-og-samfunnsforholdene3.jpg" alt="Fire personar studerer eit stort ark inne i eit trykkeri. Måleri.")
   h5 Boktrykkjarkunsten – ei ny tid 
 
   p
@@ -48,7 +51,7 @@ PagePeriod(
 
   h3 Tankar i tida 
   figure.col.col6.left-image.mt5
-    img(src="./Humanisme_Tanker_i_tida1.jpg" alt="”")
+    img(src="./Humanisme_Tanker_i_tida1.jpg" alt="Kvinne i halvfigur har eit gåtefullt blikk. Landskap i bakgrunnen. Måleri.")
     figcaption ”Mona Lisa” av Leonardo da Vinci
 
   h5 Renessansen 
@@ -62,7 +65,7 @@ PagePeriod(
   
   div.mb60
     figure.col.col4.left-image
-      img(src="./Humanisme_Tanker_i_tida2.jpg" alt="")
+      img(src="./Humanisme_Tanker_i_tida2.jpg" alt="Mann med langt hår og jakke som vinkar. Måleri.")
       figcaption Copernicus med det nye biletet av universet, måleri av Jan Matejko
     h5.mt20 Eit nytt menneskesyn 
     p
@@ -82,7 +85,7 @@ PagePeriod(
       | Kyrkja er ein rik institusjon som i heile mellomalderen berre auka rikdommen sin gjennom gåver og skattar. Avlatshandelen er ei viktig inntektskjelde. Avlat går ut på at folk kan kjøpe seg fri frå synd. Dersom ein betaler ein viss sum til ein munk eller ein prest, kan denne på Guds vegner forlate all synd. 
 
     figure.col.col4.right-image.mt20
-      img(src="./Humanisme_Tanker_i_tida3.jpg" alt="")
+      img(src="./Humanisme_Tanker_i_tida3.jpg" alt="Halvnært portrett av mann i sort tøy og hatt. Måleri.")
       figcaption Martin Luther måla avLucas Cranach i 1529
     h5 Ein modig opprørar 
     p
@@ -90,7 +93,7 @@ PagePeriod(
 
   h3 Litteraturen 
   figure
-    img(src="./Humanisme_Litteraturen.jpg" alt="")
+    img(src="./Humanisme_Litteraturen.jpg" alt="Oversiktsbilete av Bergens havneområde med skip, bygningar og fjell. Illustrasjon.")
     figcaption Det er Bergen som er storbyen og hovudstad i Noreg på 1500-talet. Scholeus-stikket frå 1580 er eit av dei eldste bileta frå Bergen.
   h5 Impulsane frå sør når ikkje fram  
   p
@@ -117,8 +120,8 @@ PagePeriod(
   h3 Språket  
 
   figure
-    img(src="./Humanisme_Spraaket.jpg" alt="")
-    figcaption Diplomatarium Norvegicum: Ei side av eit brev frå dronning Margrete til kong Håkon 6.  
+    img(src="./Humanisme_Spraaket.jpg" alt="Brunt ark fylt med linjer av handskrift. Illustrasjon.")
+    figcaption Diplomatarium Norvegicum: Ei side av eit brev frå dronning Margrete til kong Håkon 6. <br/><a href="media/periods/humanisme/diplomatarium.html" target="_blandk">Les utskrift av dokumentet</a>
 
   h5 Norrønt skriftspråk går til grunne  
   p

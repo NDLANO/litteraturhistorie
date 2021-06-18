@@ -9,7 +9,7 @@ PagePeriod(
   h3 Tida og samfunnsforholdene
 
   figure
-    img(src="./Opplysningstid_Tida-og-samfunnsforholdene1.jpg" alt="")
+    img(src="./Opplysningstid_Tida-og-samfunnsforholdene1.jpg" alt="Krigføring utenfor en borg med røyk i bakgrunn. Maleri.")
     figcaption Stormen på Bastillen 14. juli 1789  innledet den franske revolusjonen
 
   h5 Borgerskapet vokser fram
@@ -23,7 +23,7 @@ PagePeriod(
   div.flex.flex-wrap
     div.col.col4
       figure.figure-left
-        img(src="./Opplysningstid_Tida-og-samfunnsforholdene2.jpg" alt="Isaac Newton")
+        img(src="./Opplysningstid_Tida-og-samfunnsforholdene2.jpg" alt="Portrettbilete av mann med langt hår. Måleri.")
         figcaption Isaac Newton
     div.col.col8
       h5 Naturvitenskapen skaper framtidsoptimisme
@@ -34,7 +34,7 @@ PagePeriod(
   h3 Tanker i tida
 
   figure.col.col5.right-image
-    img(src="./Opplysningstid_Tanker_i_tida.jpg" alt="")
+    img(src="./Opplysningstid_Tanker_i_tida.jpg" alt="Kvinner med blomsterkranser i håret sitter i grupper. Lysstråler uthever den øverste kvinnen. Illustrasjon.")
     figcaption Detalj fra omslaget til Encyclopédie (1772), tegnet av Charles-Nicolas Cochin og gravert av Bonaventure-Louis Prévost. Bildet er fylt med symbolisme: Figuren i midten er sannheten, omgitt av et skinnende lys (det sentrale symbolet i opplysningstida). Figurene til høyre er fornuft og filosofi, som river ned sløret foran sannheten.
   h5 Fokus på enkeltmennesket
   p
@@ -59,7 +59,7 @@ PagePeriod(
   h3 Om stilen – klassisismen
 
   figure.col.col4.right-image
-    img(src="./Opplysningstid_Klassisismen1.jpg" alt="")
+    img(src="./Opplysningstid_Klassisismen1.jpg" alt="Herskapelig bygg med bred trapp og høye søyler. Foto.")
     figcaption Palladios Villa Rotonda i Italia
 
   h5 Det klassiske idealet
@@ -70,7 +70,7 @@ PagePeriod(
     | Klassisismen er en reaksjon på de sterkt overdrevne effektene i barokkstilen. Idealet er harmoni og mer måtehold i bruken av virkemidler.
 
   figure
-    img(src="./Opplysningstid_Klassisismen2.jpg")
+    img(src="./Opplysningstid_Klassisismen2.jpg" alt="Symmetrisk bygning med dekorativ balkong og tak. Foto.")
     figcaption Klassisistisk arkitektur: Jenisch Haus i Hamburg
 
   h5 Sammenfall i tid, sted og handling
@@ -79,7 +79,7 @@ PagePeriod(
 
   h3 Litteraturen
   figure.col.col5.left-image
-    img(src="./Opplysningstid_Litteraturen1.jpg" alt="Ludvig Holberg")
+    img(src="./Opplysningstid_Litteraturen1.jpg" alt="Portrett av en mann med krøllete hår. Maleri.")
     figcaption Ludvig Holberg
   p
     | Ludvig Holberg ble født i Bergen, der han også vokste opp. I ung alder reiste han til København for å studere. Seinere ble han dansk-norsk forfatter og professor i metafysikk ved universitetet i København. Holberg var den største og viktigste dansk-norske forfatteren på 1700-tallet. I tillegg var han en viktig folkeopplyser og pedagog.
@@ -94,8 +94,9 @@ PagePeriod(
     | Niels Klims underjordiske reise er en sciencefictionroman – på latin! Reisen ender i ideallandet Potu (Utopia), der adelen er ryddet av veien, og bøndene er de mest fornemme. På den måten lanserer Holberg en kamuflert samfunnskritikk.
 
   figure
-    img(src="./Opplysningstid_Litteraturen2.jpg" alt="Norske selskap")
+    img(src="./Opplysningstid_Litteraturen2.jpg" alt="Herskapelige mennesker samla rundt noen bord. Maleri.")
     figcaption Norske selskap
+
   h5 Norsk studentmiljø i København
   p
     | Norske Selskab blir stiftet i 1772 av en gruppe norske studenter i København. På den tida har ikke Norge eget universitet, og alle nordmenn som vil studere, må reise utenlands.
@@ -120,9 +121,15 @@ PagePeriod(
   h5 Fransk som diplomatspråk
   p
     | Frankrike er en stormakt. Latin blir derfor avløst av fransk som diplomatspråk. Også i overklassemiljøene rundt om i Europa får det franske språket status.
+
   h5 Kansellistil
   p
     | Det tysk-latinske stilmønsteret er et ideal. Dette er en uttrykksform med lange ytringer, mange leddsetninger og innskudd. Skrivemåten har seinere fått betegnelsen kansellistil.
+
+  p Eksempel på kansellistil:  
+    br 
+    a(href="media/periods/opplysning/Egede.jpg" target="_blank") Hans Egede: ”Grønlands Naturell Historie” (1741)
+
   h5 Holberg er kritisk
   p
     | Holberg er kritisk til denne skrivestilen. Han er dessuten kritisk til bruken av lånord av fransk eller latinsk opphav, og han argumenterer for å bruke et enklere og mer talemålsnært skriftspråk. Men de få som er skrivekyndige, bruker embetsspråket, og dermed blir kansellistilen normgivende.
@@ -136,13 +143,17 @@ PagePeriod(
   p
     | Skriftspråket er dansk, og de som kan skrive, skriver dansk.
 
+  p Eksempel på språket i opplysningslitteraturen: 
+    br
+    a(href="media/periods/opplysning/Pontoppidan.jpg" target="_blank") Pontoppidan: «Geografisk Oplysning til Kartet over sydlige Norge» (1785) 
+
   h3 Andre kunstformer
 
   figure
-    img(src="./Opplysningstid_Andre_kunstformer1.jpg" alt="Kirke i rokokkostil, Ottobeuren i Böhmen")
+    img(src="./Opplysningstid_Andre_kunstformer1.jpg" alt="Interiør i kirke med benker og hvite, utsmykkende vegger. Foto.")
     figcaption Kirke i rokokkostil, Ottobeuren i Böhmen.
   figure
-    img(src="./Opplysningstid_Andre_kunstformer2.jpg" alt="Maleri av Jean-Antoine Watteau (1721)")
+    img(src="./Opplysningstid_Andre_kunstformer2.jpg" alt="En gruppe mennesker i skogen. Maleri.")
     figcaption Maleri av Jean-Antoine Watteau (1721)
 
   h5 Rokokko
@@ -150,7 +161,7 @@ PagePeriod(
     | Stilretningen som dominerer bildekunst, møbler og arkitektur på 1700-tallet, kaller vi rokokko. Denne stilen bryter med barokkens bruk av overdådige virkemidler. Det er en enklere, mer elegant og mindre følelsesladd stil.
   h5 Ny musikkstil
   figure
-    img(src="./Opplysningstid_Andre_kunstformer3.jpg" alt="")
+    img(src="./Opplysningstid_Andre_kunstformer3.jpg" alt="Ei kvinne og to menn ved et orgel. Mannen på høyre side holder en fiolin. Maleri.")
     figcaption Mozart spiller kammermusikk sammen med søstera og faren.
   p
     | Musikkstilen endrer seg også på 1700-tallet. Uttrykksformen går fra den tunge, kontrastfylte barokkstilen til en lettere og mer elegant form.
@@ -164,7 +175,7 @@ PagePeriod(
   div.flex.flex-wrap
     div.col.col4
       figure.figure-left
-        img(src="./Opplysningstid_Andre_kunstformer4.jpg" alt="")
+        img(src="./Opplysningstid_Andre_kunstformer4.jpg" alt="Mann med hvit pudderparykk. Maleri.")
     div.col.col8
       h5 To store wienerklassisister
       p
@@ -172,7 +183,7 @@ PagePeriod(
   div.flex.flex-wrap
     div.col.col4
       figure.figure-left
-        img(src="./Opplysningstid_Andre_kunstformer5.jpg" alt="")
+        img(src="./Opplysningstid_Andre_kunstformer5.jpg" alt="Fokusert mann noterer i et hefte. Maleri.")
     div.col.col8
       h5 Beethoven som wienerklassisist
       p

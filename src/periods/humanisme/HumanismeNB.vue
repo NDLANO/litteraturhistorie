@@ -8,7 +8,7 @@ PagePeriod(
   h3 Tida og samfunnsforholdene 
 
   figure.col.col6.left-image
-    img(src="./Humanisme_Tida_og_samfunnsforholdene1.jpg" alt="")
+    img(src="./Humanisme_Tida_og_samfunnsforholdene1.jpg" alt="Stor bokstav med bilde av ridder med skjold og visir som står mellom to personer. Illustrasjon.")
     figcaption Prest, ridder og bonde, de bærende stendene i det føydale samfunnet
 
   h5 Menneskesynet i middelalderen 
@@ -26,17 +26,20 @@ PagePeriod(
 
   h5 Fra stormakt til katastrofe 
   figure.col.col6.right-image
-    img(src="./Humanisme_Tida-og-samfunnsforholdene2.jpg" alt="")
+    img(src="./Humanisme_Tida-og-samfunnsforholdene2.jpg" alt="Et stirrende gjenferd kryper opp ei tretrapp. Illustrasjon.")
     figcaption ”Pesten i trappa”. Tegning av Theodor Kittelsen
   p
     | På 1200-tallet er Norge en stormakt, men på 1300-tallet opplever landet en katastrofal nedgangstid. I 1349 kommer svartedauden til landet, og rundt to tredeler av folket stryker med. Det skal gå flere hundre år før folketallet kommer opp på samme nivå som før pesten brøt ut. 
+
+  p
+    a(href="media/periods/humanisme/jostedalsrypa.html" target="_blank") Les sagnet om jostedalsrypa
 
   h5 Ny blomstringstid sør i Europa 
   p
     | Etter svartedauden ligger det meste nede her i landet, men i Italia starter en ny utvikling. Der blomstrer handelen opp, og kjøpmennene kommer i kontakt med andre land og kulturer. Handelsborgerne i byene blir en viktig samfunnsgruppe, og jordeierne mister dermed noe avmakta. Med økt handel får også pengeøkonomien etter hvert større plass.
 
 
-  img.col.col6.mt5.right-image(src="./Humanisme_Tida-og-samfunnsforholdene3.jpg" alt="")
+  img.col.col6.mt5.right-image(src="./Humanisme_Tida-og-samfunnsforholdene3.jpg" alt="Fire personer studerer et stort ark inne i et trykkeri. Maleri.")
   h5 Boktrykkerkunsten – en ny tid
   p.mt0
     | Johann Gutenberg (1397–1468) regnes som opphavsmann til boktrykkerkunsten. Han konstruerte en presse og blybokstaver til å trykke med. Den første boka til Gutenberg var en bibel som kom ut på midten av 1400-tallet. Den første ukeavisa ble trykt og utgitt i Strasbourg i 1609. Det første trykkeriet i Norge ble åpnet i 1643. 
@@ -48,7 +51,7 @@ PagePeriod(
 
   h3 Tanker i tida 
   figure.col.col6.left-image.mt5
-    img(src="./Humanisme_Tanker_i_tida1.jpg" alt="")
+    img(src="./Humanisme_Tanker_i_tida1.jpg" alt="Kvinne i halvfigur har et gåtefullt blikk. Landskap i bakgrunnen. Maleri. ")
     figcaption ”Mona Lisa” av Leonardo da Vinci
 
   h5 Renessansen
@@ -61,7 +64,7 @@ PagePeriod(
 
   div.mb60
     figure.col.col4.left-image
-      img(src="./Humanisme_Tanker_i_tida2.jpg" alt="")
+      img(src="./Humanisme_Tanker_i_tida2.jpg" alt="Mann med langt hår og jakke som vinker. Maleri.")
       figcaption Copernicus med det nye bildet av universet, maleri av Jan Matejko
     p
       | Synet på mennesket endret seg. Gjennom hele middelalderen orienterte menneskene seg mot Gud og livet etter døden. Med renessansen kom mennesket selv og det jordiske livet i fokus. 
@@ -78,7 +81,7 @@ PagePeriod(
   p
     | Kirken var en rik institusjon som i hele middelalderen bare økte rikdommen gjennom gaver og skatter. Avlatshandelen var en viktig inntektskilde. Avlat gikk ut på at folk kunne kjøpe seg fri fra synd. Dersom en betalte en viss sum til en munk eller en prest, kunne vedkommende på Guds vegne tilgi all synd. 
   figure.col.col4.right-image.mt20
-    img(src="./Humanisme_Tanker_i_tida3.jpg" alt="")
+    img(src="./Humanisme_Tanker_i_tida3.jpg" alt="Halvnært portrett av mann i sort tøy og hatt. Maleri.")
     figcaption Martin Luther malt av Lucas Cranach i 1529
 
   h5 En modig opprører 
@@ -88,7 +91,7 @@ PagePeriod(
   h3 Litteraturen  
 
   figure
-    img(src="./Humanisme_Litteraturen.jpg" alt="")
+    img(src="./Humanisme_Litteraturen.jpg" alt="Oversiktsbilde av Bergens havneområde med skip, bebyggelse og fjell. Illustrasjon.")
     figcaption Det er Bergen som er storbyen og hovedstad i Norge på 1500-tallet. Scholeus-stikket fra 1580 er et av de eldste bildene fra Bergen
 
   h5 Impulsene fra sør når ikke fram 
@@ -114,8 +117,8 @@ PagePeriod(
   h3 Språket  
 
   figure
-    img(src="./Humanisme_Spraaket.jpg" alt="")
-    figcaption Diplomatarium Norvegicum: En side av et brev fra dronning Margrete til kong Håkon 6.
+    img(src="./Humanisme_Spraaket.jpg" alt="Brunt ark fylt med linjer av håndskrift. Illustrasjon.")
+    figcaption Diplomatarium Norvegicum: En side av et brev fra dronning Margrete til kong Håkon 6.<br/><a href="media/periods/humanisme/diplomatarium.html" target="_blandk">Les utskrift av dokumentet</a>
 
   h5 Norrønt skriftspråk går til grunne 
   p

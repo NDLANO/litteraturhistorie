@@ -8,10 +8,10 @@ PagePeriod(
   h3 Tida og samfunnsforholdene 
 
   figure.col.col6.right-image.mt5
-    img(src="./Nyrealisme_Tida_og_samfunnsforholdene1.jpg" alt="")
+    img(src="./Nyrealisme_Tida_og_samfunnsforholdene1.jpg" alt="To menn håndhilser. Den ene har et barn på armen. Foto.")
     figcaption Kong Haakon VII (tidligere prins Carl av Danmark) kommer til landet med Kronprins Olav på armen. Statsminister Christian Michelsen ønsker velkommen til Norge
 
-  img.col.col6.right-image(src="./Nyrealisme_Tida_og_samfunnsforholdene2.jpg" alt="")
+  img.col.col6.right-image(src="./Nyrealisme_Tida_og_samfunnsforholdene2.jpg" alt="Det norske flagget datert 13.august 1905 med påskriften Ja vi elsker dette landet. Foto.")
 
   h5 Nasjonal selvstendighet 
   p
@@ -21,14 +21,14 @@ PagePeriod(
   p
     | At Norge endelig var helt uavhengig, vakte stor framtidsoptimisme hos folk. Nå skulle en bygge det nye, selvstendige landet. Perioden etter 1905 kalles derfor også ”den nye arbeidsdagen”. Etableringen av Norsk Hydro i 1905 var på mange måter symbolet på det nye Norge: et samfunn der industrialiseringen var i full gang og preget samfunnsutviklingen. Raskt ble industri og bergverksdrift de viktigste næringene i Norge. De tradisjonelle hovednæringene jordbruk, skogbruk og fiske utgjorde alt i 1923 bare en knapp firedel av bruttonasjonalproduktet. 
 
-  img.col.col5.left-image.mt5(src="./Nyrealisme_Tida_og_samfunnsforholdene3.jpg" alt="")
+  img.col.col5.left-image.mt5(src="./Nyrealisme_Tida_og_samfunnsforholdene3.jpg" alt="Mann taler foran en forsamling. Foto.")
   
   h5 Arbeiderbevegelsen 
   p
     | Antallet arbeidere økte veldig i perioden, og etter at Landsorganisasjonen (LO) ble stiftet i 1899, vokste arbeiderbevegelsen raskt til å bli en mektig organisasjon. I 1899 hadde LO 1578 medlemmer, i 1930 hadde de 139 591. I 1907 fikk arbeiderne den første tariffavtalen, og i 1909 kom den første loven om syketrygd. Kampen for arbeidernes rettigheter gav nå resultater. 
 
   figure.col.col5.left-image.mt5
-    img(src="./Nyrealisme_Tida_og_samfunnsforholdene4.jpg" alt="")
+    img(src="./Nyrealisme_Tida_og_samfunnsforholdene4.jpg" alt="Portrettbilde av ei glad kvinne. Foto.")
     figcaption Ida Cecilie Thoresen Krog, Norges første kvinnelige student
 
   h5 Kvinnelig stemmerett 
@@ -47,7 +47,7 @@ PagePeriod(
   h3 Tanker i tida  
 
   figure.col.col12
-    img(src="./Nyrealisme_Tanker_i_tida1.jpg" alt="")
+    img(src="./Nyrealisme_Tanker_i_tida1.jpg" alt="Folkemengde som feirer. Musikkkorps i forgrunnen. Maleri.")
     figcaption «Demonstrasjon den 17. oktober 1905», skisse av Ilya Yefimovich Repin
 
   h5 Sosialisme, kommunisme og sosialdemokrati 
@@ -55,7 +55,7 @@ PagePeriod(
     | Sosialisme er en fellesbetegnelse på politiske ideologier der kravet om en jevnere fordeling av ressursene står sentralt. Slagordet ”fra enhver etter evne til enhver etter behov” illustrerer den sosialistiske tanken om likhet. Sosialistene mente at staten måtte ha makt til å gripe inn for å sikre en mer rettferdig fordeling av godene. Kommunistene ville avskaffe kapitalismen helt, mens sosialdemokratene ønsket seg en blandingsøkonomi med plass til både privat kapitalisme og sosiale velferdsordninger.  
 
   figure.col.col4.left-image.mt5
-    img(src="./Nyrealisme_Tanker_i_tida2.jpg" alt="")
+    img(src="./Nyrealisme_Tanker_i_tida2.jpg" alt="Mann holder tale til en forsamling. Foto.")
     figcaption Lenin taler til troppene i mai 1920
 
   p
@@ -64,7 +64,7 @@ PagePeriod(
     | Den russiske revolusjonen i 1917 fikk konsekvenser også for norsk politikk, samfunnsliv og kulturliv. Arbeiderpartiet hadde i noen år tette bånd til Sovjetunionen og kommunistpartiet der. Inspirert av den russiske revolusjonen fikk venstrefløyen i Arbeiderpartiet flertall i 1918, og to år etterpå ble partiet opptatt i Komintern, Den kommunistiske internasjonalen. Høyrefløyen gikk da ut og stiftet Norges Socialdemokratiske Parti (1921). I 1923 brøt flertallet i Arbeiderpartiet med Komintern, og mindretallet stiftet nå Norges Kommunistiske Parti. De ble stående i Komintern, mens Arbeiderpartiet og Norges Socialdemokratiske Parti sluttet seg sammen i 1927.  
 
   figure.col.col6.right-image.mt5
-    img(src="./Nyrealisme_Tanker_i_tida3.jpg" alt="")
+    img(src="./Nyrealisme_Tanker_i_tida3.jpg" alt="Folkesamling ved bynær elv. Foto.")
     figcaption Menstadslaget. Politi i kamp med demonstrantar på slusebrua ved Skotfoss 5. juni 1931. Norsk Arbeidsgiverforening sin lockout våren 1931, som i alt ramma 81.000 arbeidarar, førte til store demonstrasjonar og stor uro i samfunnet. Det enda i Menstadslaget der norske demonstrerande arbeidarar kom i konflikt med norsk statspoliti. Foto: NTB arkiv / Scanpix
     
   p
@@ -77,7 +77,7 @@ PagePeriod(
     | Men etter flere tiår i krise fikk kristendommen en slags renessanse tidlig på 1900-tallet, i alle fall i visse kretser. De raske omveltningene i samfunnet førte til at flere var på leting etter mer varige verdier. Mange av de nyrealistiske tekstene tok opp temaer som tro og tvil, skyld og forsoning. Vi ser i tillegg en dreining mot kristen tro som et individuelt valg. Litteraturen handlet nå om verdiene og valgene til den enkelte.  
 
   figure.col.col4.left-image.mt5
-    img(src="./Nyrealisme_Tanker_i_tida4.jpg" alt="")
+    img(src="./Nyrealisme_Tanker_i_tida4.jpg" alt="Portrettbilde av en mann med bustete hår og bart. Foto.")
     figcaption Albert Einstein
 
   h5 Et kvantesprang for naturvitenskapen 
@@ -87,7 +87,7 @@ PagePeriod(
     | Einstein er en av de største tenkerne innen naturvitenskapen, kanskje den største, og i 1922 fikk han nobelprisen i fysikk. Men han var også en samfunnsengasjert sosialist. I tillegg var han jøde og flyktet fra Tyskland til USA da nazistene kom til makta i 1933. Her hjalp han til med utviklingen av atombomba, men angret seinere på dette. Det er likevel som genial vitenskapsmann han blir husket, og i 1999 kåret Time Magazine Einstein til den viktigste personen på 1900-tallet.  
 
   figure.col.col6.right-image.mt5
-    img(src="./Nyrealisme_Tanker_i_tida5.jpg" alt="")
+    img(src="./Nyrealisme_Tanker_i_tida5.jpg" alt="Fire polfarere betrakter et telt med flagg. Foto.")
     figcaption Roald Amundsen og hans menn på Sørpolen i desember 1911
 
   p
@@ -97,7 +97,7 @@ PagePeriod(
   h3 Nyrealismen: En etisk realisme 
 
   figure.col.col6.right-image.mt5
-    img(src="./Nyrealisme_En_etisk_realisme1.jpg" alt="")
+    img(src="./Nyrealisme_En_etisk_realisme1.jpg" alt="Eldre kvinne blir servert mat på sengen. Foto.")
     figcaption Frå stykket «Medmenneske» av Olav Duun på Det Norske Teater. Foto: NTB / Scanpix
 
   p
@@ -112,7 +112,7 @@ PagePeriod(
     | Typisk for de nyrealistiske tekstene er at politiske og sosiale problemer på nytt trer inn i litteraturen. Men i motsetning til realismen i 1870-årene er det ikke lenger samfunnsforholdene i seg selv som blir tematisert. De nyrealistiske forfatterne fokuserer på individet, på samme måte som nyromantikerne før dem. Nå handler det om å skildre enkeltmenneskene i situasjoner der de må foreta viktige og vanskelige etiske valg. Et annet navn på nyrealismen er derfor etisk realisme.  
 
   figure.col.col6.right-image.mt5
-    img(src="./Nyrealisme_En_etisk_realisme2.jpg" alt="")
+    img(src="./Nyrealisme_En_etisk_realisme2.jpg" alt="Kvinne holder et barn i armene. To menn ser på. Foto.")
     figcaption «Kristin Lavransdatter» på Det Norske Teateret i 1958. Foto: Kåre Nymark / Aktuell / Scanpix
 
   h5 Slektsromaner 
@@ -127,16 +127,23 @@ PagePeriod(
   h3 Nyrealistisk litteratur: Problematisering av det moderne 
 
   figure.col.col12
-    img(src="./Nyrealisme_Problematisering_av_det_moderne1.jpg" alt="")
+    img(src="./Nyrealisme_Problematisering_av_det_moderne1.jpg" alt="Landskapsbilde av vann, fjell og skyer. Foto.")
     figcaption I Markens Grøde skisserer Hamsun et positivt alternativ til den kapitalistiske verden. Han bodde på Kråkmo ved enden av Fjerdevatnet da han skrev romanen. Foto: Trygve Indrelid / Scanpix
 
   h5 Et skritt tilbake? 
   p
     | Den nyrealistiske litteraturen blir ofte oppfattet som ”et skritt tilbake” i forhold til de modernistiske strømningene på slutten av 1800-tallet. Vi ser en dreining bort fra eksperimenter med form og sjanger og over mot en mer tradisjonell og realistisk framstillingsform. Der de modernistiske forfatterne skildret det moderne mennesket, pekte de nyrealistiske forfatterne på det de syntes det moderne mennesket hadde mistet i møte med den moderne verden. Løsningen de så for seg, var å vende tilbake til førmoderne og førindustrielle verdier.  
 
+  NdlaVideo(
+    source="media/periods/nyrealisme/kafka_lesekunst8_nrk.mp4" 
+    description="Film om Franz Kafka. Lende 02:49"
+    playertype="local"    
+    )
+      
+  .mt20
   ImageTextBlock.mt5(
     :image="require(`./Nyrealisme_Problematisering_av_det_moderne2.jpg`)"
-    altText=""
+    altText="Mann i hatt på en fjelltopp på vinterstid. Foto."
     )
     h5 Knut Hamsun 
     p
@@ -144,7 +151,7 @@ PagePeriod(
 
   ImageTextBlock.mt5(
     :image="require(`./Nyrealisme_Problematisering_av_det_moderne3.jpg`)"
-    altText=""
+    altText="Dame som sitter og skriver. Foto."
     )
     h5 Sigrid Undset 
     p
@@ -152,7 +159,7 @@ PagePeriod(
 
   ImageTextBlock.mt5(
     :image="require(`./Nyrealisme_Problematisering_av_det_moderne4.jpg`)"
-    altText=""
+    altText="Mann sitter i skogen. Foto."
     )
     h5 Olav Duun 
     p
@@ -161,7 +168,7 @@ PagePeriod(
   ImageTextBlock.mt5(
     :image="require(`./Nyrealisme_Problematisering_av_det_moderne5.jpg`)"
     imageCaption="Foto: NTB / Scanpix"
-    altText=""
+    altText="Mann med stokk foran en innsjø. Foto."
     )
     h5 Johan Falkberget 
     p
@@ -170,7 +177,7 @@ PagePeriod(
   ImageTextBlock.mt5(
     :image="require(`./Nyrealisme_Problematisering_av_det_moderne6.jpg`)"
     imageCaption="Foto: Aage Storløkken /Aktuell / Scanpix"
-    altText=""
+    altText="Mann i kofte foran gårdsbygninger. Foto."
     )
     h5 Kristofer Uppdal 
     p
@@ -180,7 +187,7 @@ PagePeriod(
   h3 Nyrealismens skrivestil 
 
   figure.col.col6.right-image.mt5
-    img(src="./Nyrealisme_Skrivestil1.jpg" alt="")
+    img(src="./Nyrealisme_Skrivestil1.jpg" alt="Seremoni med mennesker i kapper. Foto.")
     figcaption Foto: Gisle Oddstad / Scanpix
     
   p
@@ -194,7 +201,7 @@ PagePeriod(
   h3 Lyrikken 1900–1930: Tradisjonalisme og modernisme  
 
   figure.col.col12
-    img(src="./Nyrealisme_Lyrikken_Tradisjonalisme_og_modernisme1.jpg" alt="")
+    img(src="./Nyrealisme_Lyrikken_Tradisjonalisme_og_modernisme1.jpg" alt="Snøtopper på nattestid. Maleri.")
     figcaption Harald Sohlberg: «Vinternatt» (1914)
 
   p
@@ -209,7 +216,7 @@ PagePeriod(
     | Olav Aukrust (1883–1929) var en forfatter som skrev tradisjonelle, sentrallyriske dikt. Diktene var preget av romantikk og naturmystikk. Aukrust var orientert mot antroposofien, og i mange av diktene finner vi en religiøs lengsel. Menneskesynet til Aukrust bunner i at vi er skapt i Guds bilde, og i flere dikt tematiserer han hvordan mennesket kan finne den guddommelige gnisten i sitt indre. 
 
   figure.col.col4.left-image.mt5
-    img(src="./Nyrealisme_Lyrikken_Tradisjonalisme_og_modernisme2.jpg" alt="")
+    img(src="./Nyrealisme_Lyrikken_Tradisjonalisme_og_modernisme2.jpg" alt="Mann med sigarett foran skrivebord. Foto.")
     figcaption Foto: NTB arkiv / Scanpix
 
   h5 Herman Wildenvey 
@@ -217,7 +224,7 @@ PagePeriod(
     | Herman Wildenvey (1885–1959) var en folkekjær lyriker som har skrevet mange sentrallyriske dikt om våren, kjærligheten og andre allmennmenneskelige temaer. Han brukte stort sett tradisjonelle strofeformer i sine dikt og behandlet temaene på en lett og ofte morsom måte. Men noen ganger finner vi også en undertone av alvor og livsvisdom i diktene hans. Wildenvey er en av de mest siterte norske lyrikerne. Han var også populær i samtida og er den lyrikeren nest etter Alf Prøysen som har solgt best i Norge. 
 
   figure.col.col4.left-image.mt5
-    img(src="./Nyrealisme_Lyrikken_Tradisjonalisme_og_modernisme3.jpg" alt="")
+    img(src="./Nyrealisme_Lyrikken_Tradisjonalisme_og_modernisme3.jpg" alt="Mann sitter i stol og leser bok. Foto.")
 
   h5 Olaf Bull 
   p
@@ -228,7 +235,7 @@ PagePeriod(
     | En forfatter som i enda større grad leker seg med modernistiske uttrykksformer, er Kristofer Uppdal (1878–1961). Uppdal var produktiv. I tillegg til å skrive romaner gav han ut 11 diktsamlinger i perioden 1905–1947. Som lyriker var han først og fremst modernist. I diktene hans er det følelsene og perspektivene til jeg-et som farger skildringen av den ytre verden, på samme måte som i Munchs ekspresjonistiske malerier på slutten av 1800-tallet. 
 
   figure.col.col4.left-image.mt5
-    img(src="./Nyrealisme_Lyrikken_Tradisjonalisme_og_modernisme4.jpg" alt="")
+    img(src="./Nyrealisme_Lyrikken_Tradisjonalisme_og_modernisme4.jpg" alt="Mann poserer med hånden på haka. Foto.")
     figcaption Foto: Scanpix
 
   h5 Rudolf Nilsen 
@@ -239,7 +246,7 @@ PagePeriod(
   h3 Språket i perioden 
 
   figure.col.col6.right-image.mt5
-    img(src="./Nyrealisme_Spraaket_i_perioden1.jpg" alt="")
+    img(src="./Nyrealisme_Spraaket_i_perioden1.jpg" alt="Mann med bart i en rotete skrivestue. Foto.")
     figcaption ”En kan ikke skjære væk hverken vor yngre historie eller vor gamle historie, kan ikke sætte verken bygd eller by utenfor. Begge må være med, fra hver sin kant – mot samme mål: et fælles norsk sprog, fremvokset av de levende talemål, byernes som bygdernes. Den sproglige tvedelthet som vi lider under, ser jeg altså som en historisk nødvendighed både nu og længe fremefter. Den må vi vokse av os, og litt efter litt, ved at nærme os målet, det fælles mål, mer og mer, fra begge sider.” (Sitat Moltke Moe)
 
 
@@ -269,7 +276,7 @@ PagePeriod(
     | Den nye språknormen ble kalt riksmål, og de nye formene ble raskt tatt i bruk. Moltke Moe var den sentrale personen bak 1907-reformen, og han skulle vise seg å bli en sentral person for seinere reformer der samnorsktanken var dominerende.  
 
   figure.col.col6.right-image.mt5
-    img(src="./Nyrealisme_Spraaket_i_perioden2.jpg" alt="")
+    img(src="./Nyrealisme_Spraaket_i_perioden2.jpg" alt="Eldre frimerke med skriften Tanke og draum er himmelske køyrety. Foto.")
     figcaption Noregs Mållag feiret 100 år i 2006. Foto: Posten Norge / Scanpix
 
   h5 Språklige interesseorganisasjoner  
@@ -293,9 +300,9 @@ PagePeriod(
   p
     | Begynnelsen av 1900-tallet var tida da media virkelig ble massemedier, det vil si medier for mange. Både film, aviser og radio fikk stadig flere brukere i perioden etter unionsoppløsningen. 
 
-  img.col.col6.left-image.mt5(src="./Nyrealisme_Massemedier1.jpg" alt="")
+  img.col.col6.left-image.mt5(src="./Nyrealisme_Massemedier1.jpg" alt="Filminnspilling i lift med to som ser på. Foto.")
   figure.col.col6.left-image.mt20
-    img(src="./Nyrealisme_Massemedier2.jpg" alt="")
+    img(src="./Nyrealisme_Massemedier2.jpg" alt="Gatebilde med flere mursteinsbygg. Foto.")
     figcaption Cirkus Verdensteater i Oslo. Den første kinoforestillingen i Norge fant sted her i 1896. Foto: NTB arkiv / Scanpix
   h5 Film 
   p
@@ -303,14 +310,14 @@ PagePeriod(
   p
     | Men den høye statusen var kortvarig. Snart utviklet det seg et skille mellom høy- og lavkultur. Det strømmet på med utenlandske filmer med dristig innhold – lett underholdning for folk fra arbeiderklassen som ønsket å slappe av etter lange arbeidsdager. I 1913 kom derfor kinoloven. Seinere har filmer i Norge vært underlagt sensur. Filmer med umoralsk, voldelig eller støtende innhold blir klipt eller vises ikke på norske kinoer. 
 
-  img.col.col6.right-image.mt20(src="./Nyrealisme_Massemedier3.jpg" alt="")
+  img.col.col6.right-image.mt20(src="./Nyrealisme_Massemedier3.jpg" alt="To personer bruker en eldre rotasjonspresse. Foto.")
   h5 Aviser 
   p
     | I 1890 fantes det 100 aviser i Norge, femten år seinere var antallet fordoblet. Ny teknologi og økende politisk innsikt førte til framveksten av nye aviser. Avisene ble talerør for de politiske partiene. Høyre og Venstre hadde sine aviser i alle de store byene, og også rundt om i landet ellers. Etter hvert kom også Arbeiderpartiet med egne aviser. Ofte satt avisredaktørene i kommunestyret, ja til og med på Stortinget – det var tette bånd mellom pressen og politikken.  
   p
     | Den første verdenskrigen var ikke bare den første teknologiske krigen – det var også den første mediekrigen. Nå kunne folk se bilder og lese artikler om soldatenes hverdag. Inntrykkene fra skyttergravene kom rett inn i stuene. Det var dermed klart at massene kunne påvirkes gjennom media, og media ble brukt aktivt i kampen om sannheten og i framstillingen av virkeligheten. 
 
-  img.col.col6.right-image.mt5(src="./Nyrealisme_Massemedier4.jpg" alt="")
+  img.col.col6.right-image.mt5(src="./Nyrealisme_Massemedier4.jpg" alt="Morseapparat med hodetelefoner. Foto.")
   h5 Radio 
   p
     | I 1920-årene ble det satt opp radiosendere i landet. Teknologien fantes, men det tok tid før en greide å skaffe kapital til å etablere sendere over hele landet. Med etableringen av Norsk Rikskringkasting i 1933 skjøt utviklingen fart. Radiodrift ble et offentlig monopol, styrt av staten og regulert av kringkastingsloven.
@@ -322,18 +329,18 @@ PagePeriod(
   p
     | I begynnelsen av 1900-tallet skjedde det en nærmest eksplosiv utvikling innenfor kunsten. Det vokste fram ulike modernistiske kunstuttrykk som alle tok et oppgjør med de tradisjonelle kunstformene. Retninger som ekspresjonisme, kubisme, futurisme og dadaisme tok i bruk nye uttrykksformer for å skildre tida slik kunstnerne opplevde den.  
 
-  img.col.col5.left-image.mt5(src="./Nyrealisme_Andre_kunstformer1.jpg" alt="")
+  img.col.col5.left-image.mt5(src="./Nyrealisme_Andre_kunstformer1.jpg" alt="Mannsskikkelse i geometirske former. Maleri.")
   h5 Ekspresjonisme og kubisme  
   p
     | Mens ekspresjonister som Edvard Munch (1863–1944) ville framstille de indre følelsene og den subjektive opplevelsen av verden, var kubistene mer interessert i selve formuttrykket, og de hentet inspirasjon fra geometrien. Malere som Pablo Picasso (1881–1973) og norske Per Krohg (1889–1965) forenklet motivene sine til geometriske former som kjegler, kuler og sirkler. De brøt med tradisjonelle krav om dybdevirkning og sentralperspektiv, og malte motivene fra flere vinkler på samme tid. Denne nye framstillingsformen ble kalt simultanperspektiv.  
 
-  img.col.col5.left-image.mt5(src="./Nyrealisme_Andre_kunstformer2.jpg" alt="")
+  img.col.col5.left-image.mt5(src="./Nyrealisme_Andre_kunstformer2.jpg" alt="Kunstnerisk uttrykk med sorte geometriske former. Illustrasjon.")
   h5 Futurisme  
   p
     | Lengst i bruddet med gamle uttrykk og verdier gikk de såkalte futuristene. Denne retningen hadde sitt utspring i Italia, og de futuristiske kunstnerne uttrykte nærmest forakt for fortida. Alt det gamle var totalt ubrukelig! Bare det nye, teknologiske samfunnet hadde verdi. Retningen fikk lite gjennomslag i Norden, men den norske kunstneren Alfred Hagn (1882–1958) malte både kubistiske og futuristiske bilder.  
 
   .clear
-  img.col.col5.left-image.mt5(src="./Nyrealisme_Andre_kunstformer3.jpg" alt="")
+  img.col.col5.left-image.mt5(src="./Nyrealisme_Andre_kunstformer3.jpg" alt="Et pissoar. Foto.i")
   h5 Dadaisme  
   p
     | Første verdenskrig er en viktig milepæl i denne perioden. Grusomme skildringer fra fronten fikk blant annet dadaistene til å ta et oppgjør med de etablerte samfunnsverdiene og kunstnormene. Gjennom tilsynelatende useriøse forsøk på å lage kunst ønsket de å kritisere det de regnet som falsk kunst og falske verdier. Dadaisten Marcel Duchamp (1887–1968) stilte for eksempel ut et pissoar og kalte det kunst. Masseproduserte og hverdagslige gjenstander skulle dra kunsten ned fra en kunstig opphøyd posisjon. Lek og humor var sentrale kjennetegn for retningen, men under lå det altså et alvorlig politisk budskap.  
@@ -342,24 +349,26 @@ PagePeriod(
   p
     | I Norge fikk de modernistiske kunstuttrykkene lite oppmerksomhet. Men kunstnere som Olav Strømme (1909–1978) og Bjarne Engebret (1905–1985) var begge påvirket av ekspresjonistiske og surrealistiske strømninger i mellomkrigstida.  
 
-  img.col.col5.right-image.mt5(src="./Nyrealisme_Andre_kunstformer4.jpg" alt="")
+  img.col.col5.right-image.mt5(src="./Nyrealisme_Andre_kunstformer4.jpg" alt="Prektig grått mursteinsbygg. Foto.")
   h5 Arkitektur: et enklere uttrykk 
   p
     | Innenfor arkitekturen var funksjonalismen den nye retningen som kom til å prege utviklingen gjennom store deler av 1900-tallet. Arkitektene var inspirert av kubistene og tok i bruk geometriske former i sine arbeider. Bygg som Ekeberg-restauranten i Oslo viser hvordan funksjonalistene forkastet tradisjonelle idealer om pynt og dekor. De satset på moderne materialer som glass, stål, aluminium og betong. Bygningene var enkle i uttrykket, formålet var å gjøre dem praktiske og brukervennlige.  
   p
     | En kunstretning som tok avstand fra de funksjonalistiske kravene om det enkle, reine og strenge uttrykket, var art deco. Arkitekter og kunstnere laget produkter som bugnet av utsmykning og dekor, samtidig som de var geometriske og symmetriske i formen. Denne stilarten var lite synlig i Norge, men Chrysler-bygningen i New York er et klassisk eksempel på Art deco.  
     
-  img.col.col5.left-image.mt5(src="./Nyrealisme_Andre_kunstformer5.jpg" alt="")
+  img.col.col5.left-image.mt5(src="./Nyrealisme_Andre_kunstformer5.jpg" alt="Sideprofil av alvorlig mann i dress. Foto.")
   h5 Musikk: nye ideal og sjangrer 
   p
     | Den østerrikske komponisten Arnold Schönberg (1874–1951) og hans elev Alban Berg (1885–1935) var sentrale i den radikale nyorienteringen innenfor kunstmusikken i tida før første verdenskrig. De eksperimenterte med nye komposisjonsprinsipper og brøt med tradisjonelle krav til form og klang.  
 
   .clear
-  img.col.col5.left-image.mt20(src="./Nyrealisme_Andre_kunstformer6.jpg" alt="")
+  img.col.col5.left-image.mt20(src="./Nyrealisme_Andre_kunstformer6.jpg" alt="Mann spiller på trompet. Foto.")
   p
     | Tidlig på 1900-tallet vokste det fram en ny musikksjanger. Jazzen har sine røtter både i bluesmusikken og i musikken som europeiske innvandrere brakte med seg til Amerika, og jazzens hjemby er New Orleans i USA. Felles for alle forskjellige jazzuttrykk er improvisasjon og sjangerblanding.  
   p
     | Louis Armstrong (1901–1971) er den mest kjente musikeren fra denne perioden, og allerede i slutten av 1920-årene ble det etablert jazzband i Norge. 
+
+  .clear
 </template>
 
 <script>
