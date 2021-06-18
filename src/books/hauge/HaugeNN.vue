@@ -98,9 +98,17 @@ PageBook
   p Diktet kan tolkast slik at vi må vere audmjuke og opne i møte med andre, for da blir vi også sjølve møtt med velvilje. I tillegg får vi eit rikare liv når vi deler det vi gjer og tenkjer med andre. Hauge bruker enkle, konkrete bilete frå bondekvardagen. Nettopp fordi han skriv så knapt og biletleg, tvingar han lesaren til å reflektere og dra inn eigne røynsler for å utfylle teksten og gi han meining.
 
   h3 Nynorskforfattar
+
+  figure.col.col4.left-image.mt5
+    img(src='./Hauge_Portrett1.jpg' alt='')
+    figcaption Olav H. Hauge. Foto: NTB / Scanpix
+
   p Diktarspråket til Hauge er nynorsk, og det var utenkjeleg for han å skrive noko anna. Vi ser av ordvalet og formene han bruker, at det er eit arkaisk nynorsk. I dei eldste dikta bruker han former frå før 1938-reforma, som yver, kringum og stjernor. Han skriv substantivforma gjente for jente og talordet tvo for to. Også i seinare produksjon nyttar han stort sett dei eldste skriveformene.
 
+  .clear
+
   h3 Ein lågmælt diktar
+  img.col.col12(src='./Hauge_Portrett2.jpg' alt='')
   p I samlinga Dropar i austavind (1966) går Hauge enda eit steg vidare i diktinga si. Her finn vi korte, tilsynelatande svært enkle dikt om kvardagslege ting: 
 
   blockquote
@@ -176,7 +184,17 @@ PageBook
 
   p Vi kan sjå på elva som eit symbol på livet, mens steinane er symbol for ord og kommunikasjon. Da blir bodskapen at vi ikkje kan klare oss åleine i dette livet. Vi treng kontakt med andre.
 
+  .flex.flex-justify-center
+    figure.col.col8
+      img(src='./Hauge_Frimerke.jpg' alt='')
+      figcaption Sitatet på dette frimer­ket skriv seg frå lyrik­aren Olav H. Hauge. Illustrasjon: Posten Norge / Scanpix
+
   h3 Gartnar og poet
+
+  figure.col.col6.right-image.mt5
+    img(src='./Hauge_i_hagen.jpg' alt='')
+    figcaption  Foto: Line Møller / VG / Scanpix (Hauge i hagen)
+
   p Olav H. Hauge budde heile livet sitt i Ulvik i Hardanger, der han livnærte seg som fruktdyrkar. Han var sjølvlært i litteraturfaget, men stod likevel fram som svært kunnskapsrik og intellektuell.
 
   p Hauge var orientert mot europeisk modernisme, han las og studerte mykje på eiga hand. Han gjendikta poesi av mellom anna Blake, Tennyson, Browning, Brecht, Mallarmé og Rimbaud. Av den grunn fekk han tilnamnet «europearen frå Hardanger». Han var også interessert i austleg filosofi og dikting, og det kjem til uttrykk i dette diktet om ein stor kinesisk diktar:
@@ -213,6 +231,11 @@ PageBook
     | Men eg veit ikkje um han gjer det med godt samvit. 
 
   h3 Eit ideal for Profil-forfattarane
+
+  figure.col.col6.left-image.mt5
+    img(src='./Hauge_Dikteren_fra_Hardanger.jpg' alt='')
+    figcaption Diktaren frå Har­danger
+    
   p I 1966 tok ei gruppe unge forfattarar over redaksjonen i studenttidsskriftet Profil. Dei såg på seg sjølve som antiborgarlege og tok avstand frå det rådande litteratursynet. For mange av desse unge forfattarane var Olav H. Hauge ein inspirator og eit føredøme. Fleire av dei reiste til Ulvik for å intervjue Hauge og for å høyre han snakke om dikting og litteratur.
 
   p Hauge var svært godt orientert om eldre og nyare europeisk dikting. Han hadde lært seg språk og hadde stor kunnskap om både tysk, fransk og engelsk lyrikk. Til og med frå klassisk kinesisk lyrikk henta Hauge inspirasjon til si eiga skriving.

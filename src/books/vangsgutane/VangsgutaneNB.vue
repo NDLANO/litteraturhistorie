@@ -2,6 +2,8 @@
 PageBook(:showAuthor="false")
   
   h3 Tegneserier i ukeblad
+
+  img.col.col6.right-image.mt5(src='./Vangsgutane_Tegneserier_i_ukeblad.jpg' alt='')
   p I 1930- og 1940-årene vokste det fram et rikt utvalg av ukeblad og tegneserier. Ukeblad er publikasjoner som kommer ut regelmessig hver uke, men begrepet blir også brukt om blad som bare utkommer en gang i måneden. 
 
   p Det eldste norske ukebladet, Allers, kom ut første gang i 1877. Ukebladet Hjemmet ble etablert i 1904, og fra 1933 utgav forlaget Ernst G. Mortensen Norsk Ukeblad. Den viktigste målgruppa for slike familieblad var voksne kvinner. Bladene presenterte lettere opplysningsstoff om mat, håndarbeid, moter og kjente personer, men også fiksjonsstoff som noveller og tegneseriestriper. Fra 1937 har tegneseriestripa «Nr. 91 Stomperud» vært et fast innslag i Norsk Ukeblad. 
@@ -11,6 +13,12 @@ PageBook(:showAuthor="false")
   p Norsk Barneblad ble grunnlagt i 1887 og er et av de aller eldste barnebladene i verden. Bladet har all tekst på nynorsk og kommer ut den dag i dag. De første årene gikk bladet under navnet Sysvorti (svarttrost). Norsk Barneblad inneholdt mange litterære tekster for barn, også kjente utenlandske barnebøker i nynorsk oversettelse var med som framhaldsfortellinger. Fra 1938 har tegneserien «Smørbukk» hatt fast plass på baksida av bladet. 
   
   h3 Tegneseriehefter og julehefter 
+  
+  img.col.col6.right-image.mt5(src='./Vangsgutane_Tuss_og_troll.jpg' alt='')
+  figure.col.col6.right-image.mt5
+   img(src='./Vangsgutane_Solveig_Muren_Sanden.jpg' alt='')
+   figcaption Solveig Muren Sanden tegnet i mange år juleheftene «Smørbukk» og «Tuss og Troll». Foto: Scanpix
+   
   p En tegneserie er en tekst som er bygd opp av bilder som framstiller en rekke hendinger som til sammen utgjør en fortelling. Som oftest er tegningene komplettert med snakkebobler eller underliggende tekst til hvert bilde. 
   
   h5 Humorserier og spenningsserier 
@@ -27,9 +35,17 @@ PageBook(:showAuthor="false")
   
   h5 Nye undersjangrer 
   p I 1970-årene skjedde det en endring. Vi fikk flere nye historiske tegneseriealbum som fortalte om hendinger i eldre eller nyere historisk tid, og også mer eksperimentelle tegneseriehefter med sterkere kunstnerisk og litterær profil. I vår tid har tegneseriene ofte en sarkastisk undertone og figurene er forankret i moderne storbyliv, som for eksempel «Olaf G» og «Nemi». 
-  
+
+  figure.col.col12
+   img(src='./Vangsgutane_Lise_Myhre.jpg' alt='')
+   figcaption Lise Myhre tegner serien «Nemi». Foto: Erlend Aas / SCANPIX
+
   h3 «Vangsgutane» 
   p De første tegneseriestripene om Vangsgutane stod å lese i Nynorsk Vekeblad i 1940. Fra 1941 til 1983 ble serien utgitt som julehefte. I nyere tid er serien oversatt til amerikansk under tittelen «The Boys From Vangen». 
+
+  figure.col.col12
+   img(src='./Vangsgutane_1.jpg' alt='')
+   figcaption Fra tegneserien «Vangsgutane» – en snillere versjon av «Knoll og Tott». Foto: Leif Halse, Fonna forlag
 
   p Tekstforfatter er Leif Halse, og de to guttene i serien fikk sine navn etter sønnene hans. De første serieheftene ble tegnet av Jens R. Nilssen. Tegningene er delvis realistiske og delvis karikerende og humoristiske, noe som gjorde serien svært populær. Seinere overtok andre illustratører oppgaven med å formgi historiene om Vangsgutane. 
 
@@ -37,9 +53,16 @@ PageBook(:showAuthor="false")
 
   p En moderne leser vil nok ha etiske motforestillinger når husmannsgutten Larris konsekvent blir framstilt som dum og stygg, mens Steinar og Kåre, de to guttene på bondegarden, alltid er heltene. I 1930- og 1940-årene var det mer akseptert og vanlig å knytte moralske egenskaper til etniske og sosiale grupper enn det er i dag. 
 
-  
+  figure.col.col6.right-image.mt5
+   img(src='./Vangsgutane_2.jpg' alt='')
+   figcaption «Vangsgutane». Illustratør: Jens R. Nilssen Foto: Jens R. Nilssen
+   
   h3 «Ingeniør Knut Berg på eventyr» 
   p En annen svært populær tegneserie på denne tida var fortellingen om ingeniør Knut Berg. Seriestripene ble trykt i Nynorsk Vekeblad i 1941 under tittelen «Knut Berg på eventyr i Austerland» og utkom seinere som eget hefte. Serien har form av en sciencefictionfortelling.
+
+  figure.col.col12
+   img(src='./Vangsgutane_Ingenioer_Knut_Berg_på_eventyr.jpg' alt='')
+   figcaption Nyutgaven av serien «Ingeniør Knut Berg på eventyr» er illustrert av Fantomet-tegneren Knut Westad. Foto: Kristin Rivrud / NRK
 
   p Tekstforfatter er Hallvard Sandnes fra Bygland, som arbeidet som lærer og skrev triviallitteratur på nynorsk. Under krigen ble han sendt til Finnmark fordi han ikke ville underordne seg okkupasjonsmakta. Her skrev han de første utkastene til fortellingen om Knut Berg under pseudonymet Vigleik Vikli. Heftene ble illustrert av Jostein Øvrelid. 
 
@@ -50,6 +73,8 @@ PageBook(:showAuthor="false")
   p Etter hvert som serien utvikler seg, står kampen mellom skurken Dr. Panga og helten Knut Berg ikke bare om jordkloden, men om hele verdensrommet. Ved hjelp av ingeniørkunstene sine legger Knut Berg under seg fjerne galakser. Slik sett kan vi si at ingeniør Knut Berg var den første nordmannen i verdensrommet! 
   
   h3 «Smørbukk» 
+
+  img.col.col8.right-image.mt5(src='./Vangsgutane_Smoerbukk.jpg' alt='')
   p «Smørbukk» ble trykt som tegneserie i Norsk Barneblad i 1938. I 1941 kom det første juleheftet ut. Målgruppa for denne serien var barn. 
 
   p Smørbukk er en omgjengelig og snill gutt som har lett for å rote seg opp i de underligste situasjoner. Men med fantasi og kløkt kommer han alltid helskinnet fra det. 
@@ -59,6 +84,11 @@ PageBook(:showAuthor="false")
   p De første seriene om Smørbukk ble tegnet av Jens R. Nilssen, som også tegnet Vangsgutane. 21 hefter er tegnet av Solveig Muren Sanden, og resten av Håkon Aasnes. I tegningene til Solveig Muren Sanden likner miljøet som Smørbukk ferdes i, det vi finner i øvre Telemark. Forskjellige forfattere har skrevet teksten, blant annet Johannes Farestveit og Øyvind Dybvad. 
 
   h3 Tegneserier som kulturformidlere og språklige forbilder 
+
+  figure.col.col6.right-image.mt5
+   img(src='./Vangsgutane_Odd_Ekre_Nigard.jpg' alt='')
+   figcaption Odd Ekre Nigard i Fonna Forlag med to julehefter om Vangsgutane. Foto: Lise Åserud / SCANPIX
+   
   p Tegneserier som «Smørbukk», «Vangsgutane» og «Ingeniør Knut Berg på eventyr» har vært viktige kulturformidlere og språklige forbilder for de som vokste opp i Norge i etterkrigstida. Dette var tida før barne-tv tok over rollen som offentlig oppdrager. I gjenreisningsperioden etter krigen var det et sterkt fokus på det typisk norske, det som bandt nasjonen sammen, og på å ta de rette moralske valgene. 
 
   p Underholdningslitteratur på nynorsk var kjærkommen for barn på bygdene i 1940- og 1950-årene. Men også for norske bygutter, slik forfatteren Karsten Alnæs skildret det i talen han holdt ved åpningen av Dei nynorske festspela på Aasentunet i 2006: 
@@ -84,5 +114,4 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped></style>  
-  
+<style lang="scss" scoped></style>

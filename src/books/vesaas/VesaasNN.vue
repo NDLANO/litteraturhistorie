@@ -4,6 +4,11 @@ PageBook
   h3 Tarjei Vesaas (1897-1970)
   p Tarjei Vesaas skreiv både romanar, noveller, skodespel og dikt. Han debuterte i 1923 med romanen Menneskebonn. Både i denne boka og i dei neste romanane i 1920- og 1930-åra skreiv han om mennesket som er bunde til tunge eksistensielle kår.
 
+
+  figure.col.col6.right-image.mt5
+    img(src='./Vesaas_Forfatterekteparet.jpg' alt='')
+    figcaption Midtbø, Vinje i Telemark, 1940. På trappa på garden sit forfattarekteparet Halldis Moren Vesaas og Tarjei Vesaas. Foto: NTB / Scanpix
+
   p Vesaas voks opp på ein gard i Vinje i Vest-Telemark og skulle bli bonde, men han var tidleg viss på at det var diktar han ville bli. Dette er bakgrunnen for romanen Det store spelet frå 1934. Boka handlar om odelsguten Per Bufast som vil bryte opp og reise vekk, men familien forventar at han følgjer tradisjonen og blir bonde på heimegarden.
 
   p Vesaas levde sjølv i ein slik konfliktsituasjon i mange år. Han fann inspirasjon ved å reise, og han likte spesielt godt å oppsøkje dei store byane i Europa. Det same gjorde ho som skulle bli ektefellen hans resten av livet.
@@ -11,6 +16,11 @@ PageBook
   p I 1934 gifte han seg med lyrikaren Halldis Moren, og dei to flytte til garden Midtbø i Vinje som Tarjei hadde kjøpt av ein onkel. Farsgarden, som låg i det same landskapet ved Vinjevatnet, hadde Vesaas tidlegare late ein bror få overta.
   
   h3 Kimen – ein modernistisk roman
+
+  figure.col.col6.right-image.mt5
+    img(src='./Vesaas_Skremte_barn.jpg' alt='')
+    figcaption Andre verdskrigen: Skremde barn i frykt gøymer seg for bomber, granatar, flyalarm, skyting. Foto: Novosti / Scanpix
+
   p I perioden 1923–1940 gav Vesaas ut tretten romanar, to novellesamlingar og to skodespel. Det aller meste er skrive i realistisk form, men med ein del eksperimentelle innslag.
 
   p Romanen Kimen (1940) utgjer eit vendepunkt i forfattarskapen og blir det store gjennombrotet for Vesaas. Boka speglar samtidas krigsatmosfære i ei allegorisk og symbolsk form. Med Kimen fann Vesaas det prosaspråket som skulle bli så særmerkt for han.
@@ -46,6 +56,11 @@ PageBook
   p Det er sagt at Kimen er ein roman om villskapen og dei destruktive kreftene i menneskesinnet. Boka er ikkje ei skildring av krig, men av korleis primitiv hemn kan utløyse sterkare utslag av vald og råskap. Tittelen Kimen viser til at det like fullt finst ein kime av det gode i mennesket, midt i all vondskapen.
 
   h3 Å dikte om seg sjølv
+
+  figure.col.col6.right-image.mt5
+    img(src='./Vesaas_Dikte_om_seg_selv.jpg' alt='')
+    figcaption Forfattaren Tarjei Vesaas heime på garden i Vinje (1965). Foto: Rolf Chr. Ulrichsen / Aftenposten / Scanpix
+
   p «Eg meiner sjølv at ein står i bøkene i alle slags forkledningar,» sa Vesaas i eit intervju ein gong. Han var ein blyg person, tilbakehalden og ordknapp, og han snakka ofte om det som var «bortom det som seiest: draumen, lengten, visjonen».
 
   blockquote
@@ -103,14 +118,27 @@ PageBook
     br
     | Utan sorg.
 
+  figure.col.col6.right-image.mt5
+    img(src='./Vesaas_Teaterversjon_av_Fuglane.jpg' alt='')
+    figcaption Øyvind Brantzæg spelar Mattis i teaterversjonen av  Tarjei Vesaas’ Fuglane på Trøndelag Teater.  Foto: Thor Nielsen / VG / Scanpix
+
   p Tarjei Vesaas var ein diktar som i stor grad brukte symbolet som verkemiddel. Symbola har både ei konkret og ei overført tyding. Vi kjem eit stykke på veg når vi bruker fornuft og logikk for å tolke dei, men det ligg gjerne att ein rest i tillegg som ikkje lèt seg forklare.
 
   p Det kan derfor vere vanskeleg å finne ei konkret og avgrensa meining i symbola som Vesaas bruker. Gjennom Mattis skildrar han ei undring over livet som skjerpar sansane mykje meir enn ei rasjonell forståing av verda. Det er denne konkrete undringa, den direkte linja mellom sansar og kjensler, som Mattis er åleine om å ha.
 
   h3 Is-slottet
+
+  figure.col.col6.right-image.mt5
+    img(src='./Vesaas_Is-slottet.jpg' alt='')
+    figcaption Foto: Sverre A. Børretzen / Aktuell / Scanpix
+
   p Romanen Is-slottet kom i 1963. Her finn vi på mange måtar ei vidareføring av den eksperimenterande skrivestilen som hadde gjort Vesaas til ein stor forfattar.
 
   p Boka handlar om to jenter i pubertetsalderen som utviklar ein nær vennskap. Dei mister vennskapen på ein brutal måte, og den eine må kjempe for å kome over tapet og leve vidare. Is-slottet er ei utforsking av pubertetens psykologi, og det er ei forteljing om at mennesket er grunnleggjande einsamt, trass i lengten etter å overvinne kjensla av å stå åleine.
+
+  figure.col.col12
+    img(src='./Vesaas_Aapningsscene.jpg' alt='')
+    figcaption Opningsscena i filmen «Is-slottet»
 
   p Som i romanen Fuglane møter vi også her ein omfattande symbolikk: Den eine jenta går inn i ein labyrint av is og døyr. Den andre bergar seg så vidt etter å ha frigjort seg frå sin eigen dødsangst.
 
@@ -127,10 +155,14 @@ PageBook
     br
     | Dei såg seg bort før dei hadde aning om det. Fire auge med glimt og strålar under vippene. Heile spegelglaset fullt. Spørsmål som skyt fram og gøymer seg att. Eg veit ikkje: Glimt og strålar, glimt frå meg til deg, og frå meg til deg åleine – inn i glaset og tilbake, og aldri svar på kva dette er, aldri noka løysing. 
 
+  figure.col.col6.right-image.mt5
+    img(src='./Vesaas_Ane_Dahl_Torp_pg_Lena_Kristin_Ellingsen.jpg' alt='')
+    figcaption Ane Dahl Torp og Lena Kristin Ellingsen hadde hovud-rollene i dramatiseringa av Tarjei Vesaas’ Is-slottet på Det Norske Teatret. Foto: Aftenposten / Scanpix
 
   p Som i mange andre tekstar av Vesaas går livet og døden hand i hand. Boka gjorde inntrykk på mange lesarar, og særleg unge jenter sat att med ei kjensle av identifisering etter å ha lese Is-slottet. Her er eit lite utdrag av eit brev der forfattaren svarar ei jente som har stilt han spørsmål om boka:
 
-  p «Den dype meningen» med Is-slottet er for skøyr liksom til at eg kan leggje ut om det, eg berre øydelegg det. Du som er jente forstår kanskje betre enn eg jamvel. Synest ei bok skal vera hemmeleg når ho er god.
+  .clear
+  blockquote «Den dype meningen» med Is-slottet er for skøyr liksom til at eg kan leggje ut om det, eg berre øydelegg det. Du som er jente forstår kanskje betre enn eg jamvel. Synest ei bok skal vera hemmeleg når ho er god.
 
   h3 Vesaas som lyrikar
   p Vesaas gav ut seks diktsamlingar, som alle er modernistiske i form og uttrykk. Gjennomgangstemaet i dikta hans er angst, vondskap og destruktive krefter. Symbolbruken er rik, og språket er knapt og fortetta, akkurat som i prosadiktinga.
@@ -142,6 +174,10 @@ PageBook
   p «Regn i Hiroshima» kan stå som illustrasjon på det dei modernistiske diktarane hevda: Når verda er kaotisk, må også språket og diktforma spegle av dette. Da held det ikkje med tradisjonelle strofeformer med rim og fast rytme.
 
   p Hendinga som Vesaas prøver å seie noko om, er så uhøyrd og så utanfor all fatteevne at ingen ord strekk til. Derfor må diktaren appellere til kjenslene våre meir enn til forstanden, og det er nesten heilt nødvendig at orda kan tolkast på nokså ulik måte.
+
+  figure.col.col12
+    img(src='./Vesaas_Atombombe.jpg' alt='')
+    figcaption Atombomba over Hiroshima 6. august 1945. Foto: Scanpix
 
   blockquote
       strong REGN I HIROSHIMA 
@@ -217,6 +253,7 @@ PageBook
   h3 «Bakkane heime»
   p Enda om Vesaas som lyrikar høyrer heime i den modernistiske tradisjonen, kan han også fortelje om heilt enkle, kvardagslege opplevingar, som i dette diktet: 
 
+  img.col.col6.right-image.mt5(src='./Vesaas_Bakkane_heime.jpg' alt='')
   blockquote
     strong BAKKANE HEIME 
     br

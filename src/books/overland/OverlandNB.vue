@@ -1,6 +1,11 @@
 <template lang="pug">
 PageBook
   h3 Opprøreren og radikaleren Øverland
+
+  figure.col.col6.left-image.mt5
+   img(src='./Overland_Portrett1.jpg' alt='')
+   figcaption Arnulf Øverland holder foredrag for kristne studenter om «Kristendommen – den tiende landeplage». Det var en revidert versjon av foredraget han hadde holdt i 1933, der han ble tiltalt for blasfemi, men frifunnet i retten. Foto: Aage Storløkken / Aktuell / Scanpix
+   
   p Arnulf Øverland ble født i Kristiansund i 1889 og vokste opp i Bergen. I 1904 flyttet familien til Oslo. Etter artium ved katedralskolen begynte han med filologiske studier. Men det gikk tregt med studiene, for det var forfatter og maler han ville bli. 
   
   h5 De første utgivelsene 
@@ -22,11 +27,21 @@ PageBook
   p Øverland var en uredd mann med klare holdninger, som han gjerne stod inne for hele livet. Men han endret syn på kommunismen mot slutten av 1930-årene. Moskvaprosessene (1936–1938), en utrenskingsaksjon der Stalin brutalt fjernet mange framstående medlemmer av det sovjetiske kommunistpartiet, fikk Øverland til å melde seg ut av det norske kommunistpartiet i 1937. 
   
   h5 Mot fascisme og nazisme 
+
+  figure.col.col4.left-image.mt20
+   img(src='./Overland_Portrett2.jpg' alt='')
+   figcaption Arnulf Øverland hjemme i æresboligen sin, Grotten. Foto: Age Storløkken / Aktuell / Scanpix
+
   p Da Norge ble okkupert, skrev Øverland mange antinazistiske dikt som ble spredt illegalt. Men det var ikke vanskelig å kjenne igjen den særpregete språkstilen hans. 11. juni 1941 ble han arrestert og først sendt til fangeleiren på Grini, deretter til konsentrasjonsleir i Tyskland. I april 1945 ble han reddet ut av svenske Røde Kors. 
 
   p Også mens han satt i fangenskap, skrev Øverland dikt. Etter krigen ble disse diktene utgitt sammen med motstandsdiktene. Samlingen Vi overlever alt solgte i nesten 50 000 eksemplarer allerede i utgivelsesåret 1945. 
 
   h5 «Du må ikke sove» 
+
+  figure.col.col6.right-image.mt20
+   img(src='./Overland_Krigsfanger1.jpg' alt='')
+   figcaption Bjørnelva, våren 1945. Krigsfanger. Fangeleir. Foto: Novosti / Scanpix
+   
   p Diktet «Du må ikke sove» er fra diktsamlingen Den røde front (1937), og er kanskje det mest kjente og siterte diktet av Øverland. Øverland så den nazistiske faren og krigstrusselen tidligere enn de fleste. 
 
   p Diktet ble skrevet omtrent på samme tid som «Til ungdommen» av Nordahl Grieg. Vi kjenner igjen de retoriske virkemidlene og den alvorsfulle, høystemte stilen som er tilpasset en situasjon med politisk uro og krigsfare. 
@@ -115,6 +130,10 @@ PageBook
 
   p «Tilgi dem ikke; de vet hva de gjør!» er en omskriving av et bibelvers fra Jesu lidelseshistorie. Når Jesus blir korsfestet mellom to forbrytere, sier han: «Far, tilgi dem, for de vet ikke hva de gjør.» Med formuleringen sin vil Øverland framheve at de som utfører overgrepene, bare vet så altfor godt hva de gjør, de kjenner til og med glede ved å se andre folk lide. Derfor finnes det ikke tilgivelse for disse onde handlingene. 
 
+  figure.col.col12
+   img(src='./Overland_Krigsfanger2.jpg' alt='')
+   figcaption Foto: Arnd Wiegmann / REUTERS / Scanpix
+
   p Ved å låne Bibelens språk låner Øverland også alvoret og autoriteten som denne boka representerer i de flestes øyne. Lidelsen til ethvert menneske veier for Øverland like tungt som lidelsene Jesus måtte gjennomgå på korset. 
 
   p Mot slutten av diktet gir den dødsdømte fangen uttrykk for sin idealistiske tro på fred, en tro som er gjort til skamme og som synes forgjeves: 
@@ -141,11 +160,15 @@ PageBook
     br
     | Frels dine barn! Europa brenner! 
 
+  figure.col.col6.right-image.mt5
+   img(src='./Overland_Joede.jpg' alt='')
+   figcaption Oslo, høsten 1940: Et butikkvindu i Oslo har fått påskriften «JØDE (stengt)». Slike hærverk (og enda verre ødeleggelser) rammet også butikkene til jødiske innbyggere i Tyskland. Foto: Ingvald Møllerstad / Aftenposten / Scanpix
+
   p Budskapet er at den eneste måten vi kan forsvare oss mot nazismen og fascismen på, er å stå sammen for å bekjempe dem som står for disse ideologiene. Vi må ikke sitte passive og la uretten skje. Dessverre var det i mellomkrigstida mange mennesker i Europa, ikke minst statsledere, som altfor seint forstod – eller ville forstå – hvilken retning utviklingen tok. 
 
   //Medieinnhold: Beholde bilder. Vurdere video med Øverland. Ta med opplesning av diktet
 
-
+  .clear
 
 </template>
 

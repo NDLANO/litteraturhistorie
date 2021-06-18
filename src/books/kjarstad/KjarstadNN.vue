@@ -2,21 +2,39 @@
 PageBook
   
   h3 Jan Kjærstad – ein postmoderne metafysikar?
+
+  figure.col.col4.left-image.mt5
+    img(src='./kjarstad_Portrett1.jpg' alt='')
+    figcaption Jan Kjærstad. Foto: Mattis Sandblad / VG / Scanpix
+
   p Nemninga postmoderne metafysikar kan verke som ei sjølvmotseiing. Postmodernisten hevdar at «dei store forteljingane» er daude – det finst ingen absolutte sanningar. Metafysikaren leitar derimot etter evige og allmenne sanningar.
 
   p Jan Kjærstad stiller dei heilt store spørsmåla i forfattarskapen sin: Kva er eit menneske? Kva får eit menneskeliv til å hengje saman? Kva er røyndom? Samstundes viser han seg som postmodernist når han insisterer på makta i språket og skaparkrafta i fantasien. Gjennom leik med språket og utforsking av romanen som sjanger granskar han tilhøvet mellom språket og røyndommen.
   
   h3 Kva er eit menneske?
   p Eit grunnleggjande spørsmål i heile forfattarskapen til Kjærstad er spørsmålet om kva det vil seie å vere menneske. Kjærstad bruker språket og forma på forteljinga til å formidle innsikt og gi moglege svar på dette spørsmålet. I botnen ligg ein tanke om at forteljingar kan skape identitet. Forteljingar kan skape meining og samanheng i eit liv som elles kan verke fragmentert og styrt av ulike krefter i eit globalt medie- og informasjonssamfunn. 
+
+  figure.col.col12
+    img(src='./kjarstad_Portrett2.jpg' alt='')
+    figcaption Jan Kjærstad om romanen «Menneskets vidde»
   
   h3 Frå den store til dei små forteljingane
   p Jan Kjærstad er fødd i 1963 og oppvaksen på Grorud i Oslo. Etter vidaregåande utdanning på Oslo katedralskule studerte Kjærstad teologi ved Universitetet i Oslo. Teologistudia er noko ein tydeleg ser spor etter i forfattarskapen hans. Han skriv om dei store spørsmåla i tilværet, og han har referansar til ulike religionar i mange av tekstane sine.
+
+  figure.col.col6.right-image.mt5
+    img(src='./kjarstad_Portrett3.jpg' alt='')
+    figcaption Jan Kjærstad fekk Nordisk råds litteraturpris i 2001. Her er han på veg til pressekonferanse saman med døtrene.Foto: Jan Tomas Espedal /  Aftenposten / Scanpix
 
   p Men Kjærstad valde å ikkje jobbe som prest. Mot slutten av teologiutdanninga fann han ut at han ønskte å skrive fiksjonstekstar, og han debuterte med novellesamlinga Kloden dreier stille rundt i 1980. Gjennombrottet kom med romanen Speil. Leseserie fra det 20 århundre i 1982.
 
   p Kjærstad er på mange måtar ein forfattar med eit litterært program. I tillegg til å skrive romanar og noveller har han skrive ulike essay og artiklar om litteratur. I Menneskets matrise (1989), Menneskets felt (1997) og Menneskets nett (2004) skriv Kjærstad såkalla poetikkar, det vil seie tekstar om kva og korleis litteratur bør vere. Han har også vore redaktør for litteraturtidsskriftet Vinduet, i perioden 1985–89, og Bøk, saman med Jon Fosse, frå 1993–1996. Han har på denne måten vore med på å prege norsk litterær debatt. 
 
   h3 Død og kjærleik
+
+  figure.col.col6.right-image.mt5
+    img(src='./kjarstad_Portrett4.jpg' alt='')
+    figcaption Foto: Jan Petter Lynau / VG / Scanpix
+
   p Homo Falsus eller Det perfekte mord (1984) og Rand (1990) er eksempel på romanar som på mange måtar er typiske for Jan Kjærstad. Forfattaren leikar med ulike sjangrar, og han leikar med lesaren. I begge romanane drep hovudpersonane, men romanane er ikkje realistiske psykologiske portrett eller krimromanar. Kjærstad utnyttar element frå krimromansjangeren til å formidle noko om kva det vil seie å vere menneske i ein postmoderne røyndom.
 
   p Homo Falsus eller Det perfekte mord er ein såkalla metaroman. Romanen tematiserer korleis han blir til gjennom at forteljaren skriv om sin egen skriveprosess. Utover i romanen mistar forteljaren kontrollen over si eiga forteljing, og mot slutten blir det uklart om forteljaren også er oppdikta – av hovudpersonen han har dikta opp. Det heile er både forvirrande og forførande. Kjærstad leikar med forholdet mellom fiksjon og røyndom i ein roman som går i kritisk dialog med ulike postmoderne førestillingar om sanning, røyndom og identitet.
@@ -36,10 +54,18 @@ PageBook
 
   p Dei tre romanane har ulike forteljarar. På den måten får vi sjå hovudpersonen Jonas Wergeland frå fleire perspektiv. Romanserien formidlar historia om eit oppstykka og fragmentert individ, noko som kan spegle samtida han lever i.
 
+  figure.col.col6.right-image.mt5
+    img(src='./kjarstad_Erobreren1.jpg' alt='')
+    figcaption Skodespelaren Jakob Oftebro som Jonas Wergeland under opptaka til tv-serien «Erobreren». Foto: Trond Solberg /VG / Scanpix
+    
   p I Forføreren møter vi Jonas Wergeland idet han finn kona si – den store kjærleiken hans – drepen i deira eiga stove. Denne skilsetjande opplevinga er utgangspunktet for forteljingane om Jonas’ veg frå barndommen til suksessen som programskapar og rikskjendis. Jonas er ein moderne helt. Alt han tek i, blir til gull. Han forfører kvinner med sin «magiske penis», og han forfører eit heilt folk med tv-programmet sitt.
 
   p I Erobreren blir biletet av Jonas nyansert. Dei mørkare sidene ved helten frå Forføreren blir no presentert, utan at vi på nokon måte får eit heildekkjande bilete av kven Jonas er. Vi sit igjen med fleire ulike, og like sanne eller sannsynlege, bilete av Jonas. I Oppdageren møter lesaren Jonas idet han slepp ut av fengselet. Han vart dømd for drapet på Margrete, sjølv om det er uavklart om det er han som drap henne.
 
+  figure.col.col6.right-image.mt5
+    img(src='./kjarstad_Erobreren2.jpg' alt='')
+    figcaption Per Chr. Ellefsen som som lektor i matematikk under opptaka til tv-serien «Erobreren». Foto: Trond Solberg /VG / Scanpix
+    
   p I tillegg til å vere ein leik med biografisjangeren, er trilogien om Jonas Wergeland eit stykke noregshistorie. Tv-programmet Jonas får suksess med, «Å tenke stort», er portrett av norske heltar, eller rettare sagt – nordmenn som også har vorte heltar i utlandet. Programma er laga som tv-portrett av nordmenn med ambisjonar. Ulike personlegdommar, som for eksempel Sonja Hennie, Gro Harlem Brundtland og Henrik Ibsen, speglar Noreg og den norske «folkesjela», noko Kjærstad leikar med, undersøkjer og ironiserer over i eit forsøk på å spegle kva det vil seie å vere norsk. At Jonas heiter Wergeland til etternamn, må også sjåast som ein del av Kjærstads leik med store nordmenn – og kva det vil seie å vere norsk.
   
   h3 Eksperiment med forteljarperspektiv
