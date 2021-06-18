@@ -34,8 +34,8 @@
     "prefix": "mffigl",
     "body": [
       "figure.col.col6.left-image.mt5",
-      " img(src='$1' alt='$2')",
-      " figcaption $0"
+      "\timg(src='$1' alt='$2')",
+      "\tfigcaption $0"
     ],
     "description": "Figure image with caption floating left"
   },
@@ -43,14 +43,14 @@
     "prefix": "mffigr",
     "body": [
       "figure.col.col6.right-image.mt5",
-      " img(src='$1' alt='$2')",
-      " figcaption $0"
+      "\timg(src='$1' alt='$2')",
+      "\tfigcaption $0"
     ],
     "description": "Figure image with caption floating right"
   },
   "Figure image with caption full-width": {
     "prefix": "mffig",
-    "body": ["figure.col.col12", " img(src='$1' alt='$2')", " figcaption $0"],
+    "body": ["figure.col.col12", "\timg(src='$1' alt='$2')", "\tfigcaption $0"],
     "description": "Figure image with caption full-width"
   }
 }
