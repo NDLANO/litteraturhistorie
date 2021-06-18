@@ -11,8 +11,8 @@
 .lo_globalContainer
   
   // * NAV
-  nav.mainMenu
-    button.btn_close
+  nav.mainMenu(v-if="menuVisible")
+    button.btn_close(@click="onMenuCloseClick")
       <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24" style="width: 24px; height:24px"><path d="M0 0h24v24H0z" fill="none"/><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg> 
     .mainMenu_title Meny
     ul.mainMenu_list
@@ -23,7 +23,7 @@
   .lo_topBar
     header.lo_topBar_header
       // * button - jump to period
-      button.btn_menu(@click="onButtonMenuClick")
+      button.btn_menu(@click="onMenuOpenClick")
         MenuIcon
 
       
@@ -91,6 +91,7 @@ export default {
   },
   data() {
     return {
+      menuVisible: false,
       periodLoaded: false,
       artists: null,
       artistRoutes: null,
@@ -113,6 +114,12 @@ export default {
   },
   inject: ["globalVars"],
   methods: {
+    onMenuOpenClick() {
+      this.menuVisible = true;
+    },
+    onMenuCloseClick() {
+      this.menuVisible = false;
+    },
     onNavButtonClick(era) {
       console.log("Timeline.onNavButtonClick: era = ", era);
       const eraButton = document.getElementById(era);
@@ -121,6 +128,7 @@ export default {
         block: "end",
         inline: "center",
       });
+      this.menuVisible = false;
     },
     onTimelineSectionClick(event) {
       this.globalVars.timelineScrollLeft = this.$refs.lo_sectionList.scrollLeft;
