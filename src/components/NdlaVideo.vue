@@ -5,6 +5,7 @@ div
   
   .div.plyr__video-embed(id="ytplayer" v-if="playerType === 'youtube'" ref="ytplayer")
     iframe(:src="source" allowfullscreen allowtransparancy allow="autoplay")
+  .description(v-if="description !== ''") {{ description }}
 </template>
 
 <script>
@@ -16,6 +17,10 @@ export default {
     source: {
       type: String,
       required: true,
+    },
+    description: {
+      type: String,
+      default: "",
     },
     poster: {
       type: String,
