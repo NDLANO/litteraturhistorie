@@ -10,6 +10,8 @@ PageBook
 
 
   h3 Nobelprisvinnaren Sigrid Undset
+
+  img.col.col4.left-image.mt5(src='./undset_Portrett1.jpg' alt='')
   p Sigrid Undset var fødd i Danmark av dansk mor og norsk far, men ho voks opp i Kristiania. Det nære forholdet til Danmark heldt ho likevel oppe gjennom heile livet.
 
   p I 1907 debuterte Undset med samtidsromanen Fru Martha Oulie. To år seinare fekk ho eit forfattarstipend og kunne reise til Italia. Undsets gjennombrot som forfattar kom i 1911, med kunstnarromanen Jenny. 
@@ -23,11 +25,17 @@ PageBook
   p Da tyskarane okkuperte Noreg i 1940, måtte ho flykte til USA, der ho haldt fram med innsatsen mot nazismen. Etter krigen reiste ho tilbake til Noreg. Helsa hennar var svekt, og ho døydde på Lillehammer i 1949.
 
   h3 Stor kunnskap om mellomalderen
+
+  img.col.col6.right-image.mt5(src='./undset_Stor_kunnskap_om_middelalderen.jpg' alt='')
   p For dei nyrealistiske forfattarane var det eit krav at røyndommen skulle skildrast så nøyaktig som råd. Dei historiske detaljane skulle vere sanne og pålitelege. Samstundes skulle personane framstillast truverdig, noko som kravde psykologisk innsikt.
 
   p Sigrid Undset var ikkje historikar av fag, men ho hadde lese mykje og hadde evna til å leve seg inn i menneske som få andre. Ho fekk mange lovord for kunnskapen om norsk mellomalder. Framstillingane hennar er fulle av små detaljar som vitnar om grundig kjennskap til klede, reiskapar, skikkar, bygningar og daglegliv i mellomalderen.
 
+  .clean
+
   h3 Verdikonservativt grunnsyn
+
+  img.col.col4.left-image.mt5(src='./undset_Portrett2.jpg' alt='')
   p Sigrid Undset var kritisk til normoppløysinga i samtida. Individualismen og kapitalismen var øydeleggjande og nedbrytande prosessar, hevda ho. Ho meinte dei førte til framandgjering. Som ein kontrast til denne utviklinga såg ho den katolske mellomalderen, der det ikkje fanst nokon sjølvhevdande individualisme.
 
   p Det verdikonservative menneskesynet kjem til uttrykk i storparten av det ho skreiv. Etter at ho hadde konvertert til katolisismen, vart ho òg ein viktig debattant for den katolske kyrkja i trusspørsmål og i polemikk med lutherske prestar og biskopar.
@@ -37,11 +45,19 @@ PageBook
   h3 Jenny – ein kunstnarroman
   p I 1911 skreiv Sigrid Undset romanen Jenny, som vart gjennombrotet hennar som forfattar. Hovudpersonen Jenny er ein ung biletkunstnar som er fri for alle sosiale band og kan leve eit fritt kunstnarliv. Undset budde i Roma da ho skreiv romanen, og ho fann nok mykje inspirasjon til romanen i kunstnarmiljøet ho møtte der.
 
+  figure.col.col12
+   img(src='./undset_Portrett3.jpg' alt='')
+   figcaption Sigrid Undset i arbeidsrommet på Bjerkebæk ved Lillehammer
+
   p Jenny får ikkje brukt kunstnartalentet sitt, men ho er nær ved å finne kjærleiken. Boka vekte både oppsikt og forarging på grunn av den opne skildringa av kvinneleg erotisk lyst. Det endar dårleg for Jenny, og det er livsførselen hennar og mangelen på normer som er årsak til undergangen.
 
   p Grunntanken hos Sigrid Undset er at mennesket ikkje kan leve ut sine lyster og gjere som det sjølv vil, utan at det får konsekvensar. Vi har alle ansvar og plikter å ta vare på, og familien er fundamentet, meinte ho. 
 
   h3 Trilogien Kristin Lavransdatter
+
+  figure.col.col6.right-image.mt5
+   img(src='./undset_Kristin_Lavransdatter1.jpg' alt='')
+   figcaption Foto: Geir Olsen / VG / Scanpix
   p Med mellomalderromanane om Kristin Lavransdatter oppnådde Sigrid Undset ein suksess som ingen andre hadde hatt før henne. Trilogien er det fremste verket hennar og blir også omtalt som den største kjærleiksromanen i norsk litteratur. Bøkene gjorde henne til ein av dei mest framståande norske forfattarane på 1900-talet.
 
   p Handlinga er lagd til første halvdel av 1300-talet, og vi følgjer Kristin gjennom dei tre bøkene Kransen (1920), Husfrue (1921) og Korset (1922). I Kransen møter vi Kristin som ung jente når ho veks opp på garden Jørundgård i Sel i Gudbrandsdalen. Foreldra, Lavrans og Ragnfrid, er gudfryktige menneske, og trua er ein viktig del av oppveksten. Femten år gammal blir Kristin forlova med Simon Darre, slik fedrane har avgjort.
@@ -57,6 +73,8 @@ PageBook
   p Eit hovudemne i bøkene er konflikten mellom eigenviljen og gudsviljen. Skal Kristin følgje sitt eige hjarte, eller skal ho følgje Gud? Det får konsekvensar både for henne sjølv og for andre når ho bryt normene som fellesskapen byggjer på. 
 
   h3 To bøker om Olav Audunssøn
+
+  img.col.col6.right-image.mt5(src='./undset_Olav_Audunssoen1.jpg' alt='')
   p Suksessen med bøkene om Kristin Lavransdatter vart følgd opp med Olav Audunssøn i Hestviken (1925) og Olav Audunssøn og hans børn (1927). Vi møter på nytt konflikten mellom det å rå over eige liv og plikta ein har mot Gud og medmenneske. Olav har gjort eit brotsverk som han aldri tilstår, enda han veit at det berre er tilståing og soning som kan berge han. Heile livet er han plaga av dette sviket mot seg sjølv, og han står fram som ein inneslutta og ulykkeleg mann.
 
   p Å skrive om menneska som levde i mellomalderen, var for Sigrid Undset ein måte å orientere seg på i samtida. Somme sider ved menneskelivet ligg fast, jamvel om tidene endrar seg, meinte ho. Det er berre dei ytre vilkåra, vanane og miljøet som endrar seg, ikkje kjenslene og draumane, ikkje kjærleiken og håpet, plikta og ansvaret. Sjølv uttrykte ho det slik: 
@@ -64,6 +82,8 @@ PageBook
   blockquote Ti sed og skikk forandres meget, alt som tidene lider, og menneskenes tro forandres og de tænker anderledes om mange ting. Men menneskenes hjerter forandres aldeles intet i alle dager. 
 
   h3 Eigenviljen og gudsviljen
+
+  img.col.col12(src='./undset_Egenviljen_og_gudsviljen.jpg' alt='')
   p Er det ei motsetning mellom det å følgje sitt eige hjarte og det å følgje Gud? For å forstå kva som ligg i denne problematikken, eigenviljen mot gudsviljen, er det nødvendig å setje seg inn i korleis mellomaldermennesket levde og tenkte, og sjå på kva rolle kyrkja spela.
 
   p I trilogien Kristin Lavransdatter har kyrkja og kyrkjelege handlingar ein sentral plass. Kristin er døypt, ho har ei viktig oppleving i Hamar domkyrkje som åtteåring, ho går i kloster som ung jente, går til messe og dreg på pilegrimsferd til Nidaros. Kort sagt lever ho eit liv som ein god kristen.

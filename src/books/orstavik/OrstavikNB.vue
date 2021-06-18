@@ -1,11 +1,18 @@
 <template lang="pug">
 PageBook
   h3 En ordknapp forfatter
+
+  figure.col.col4.left-image.mt5
+    img(src='./orstavik_Portrett1.jpg' alt='')
+    figcaption Foto: Berit Roald / NTB / Scanpix
+
   p Hanne Ørstavik er født i Tana i 1969, men hun flyttet til Oslo da hun var 16 år. Bakgrunnen fra Nord-Norge gjenspeiler seg ofte i litteraturen hennes – i flere av romanene er handlingen lagt til et nordnorsk lokalsamfunn. Tematisk dreier mange av romanene hennes seg om familiens vilkår i det postmoderne samfunnet og hvordan dette påvirker kommunikasjonen og relasjonene mellom nære familiemedlemmer. Spørsmålene hun stiller, er eksistensielle: Hvordan lever vi med andre og oss selv? 
 
   p Hun debuterte som forfatter i 1994 med Hakk. Både denne romanen og Entropi (1995) er karakteristiske for Ørstaviks minimalistiske og ordknappe stil. Fortellemåten i romanene preges av et enkelt og nærmest strippet språk, der hverdagshendelser og detaljer får stor oppmerksomhet. Samtalene mellom de litterære karakterene har ofte preg av å være parallelle monologer – karakterene når ikke fram til hverandre med språket sitt, ordene strekker ikke til. Denne språklige minimalismen minner om den vi finner i forfatterskapene til Kjell Askildsen (1929– ) og Trude Marstein (1973– ). 
 
   h3 Kjærlighet (1997) 
+
+  img.col.col4.right-image.mt5(src='./orstavik_Kjaerlighet1.jpg' alt='')
   p I gjennombruddsromanen Kjærlighet (1997) møter vi Vibeke og den ni år gamle sønnen hennes Jon. De har nettopp flyttet til et lite tettsted nord i Norge. Vibeke har fått jobb i kulturetaten i kommunen. Vi møter den lille familien kvelden før Jons bursdag. Vibeke framstilles som en kvinne som sluker bøker, og som ellers er opptatt av utseendet sitt og jakten på den perfekte mannen. Jon drømmer om samhold og lengter etter mora si. Han gjør mye for å fange oppmerksomheten hennes, men hun gir han få tilbakemeldinger. 
 
   p Fortelleteknikken illustrerer avstanden mellom mor og sønn. Romanen er konstruert som en parallellfortelling der mor og sønn nesten ikke har kontakt med hverandre – til tross for at de ofte befinner seg på samme sted. Jon forsøker hele tida å nærme seg mora, han tenker på henne hele tida og forsøker å være slik han tror hun vil han skal være. Et av de få kontaktpunktene mellom mor og sønn begynner med at mora stryker han gjennom håret, men oppmerksomheten hennes glir fort over fargen på neglelakken og hva som vil matche «en mørk, brunøyd mann».  
@@ -13,12 +20,25 @@ PageBook
   h5 Kommersialiseringens pris 
   p Vibeke lever et liv sterkt inspirert av de «glossy» kvinnebladene hun leser. Hun er opptatt av det ytre, og mennene hun jakter på, oppfyller alle en popkulturell klisjé – enten det er snakk om den høye, mørke ingeniøren eller den spennende omreisende tivolimannen. Vibekes liv og tankeverden avslører det Ørstavik ser på som problemet med den postmoderne verden: Det gjennomkommersialiserte samfunnet skaper avstand mellom menneskene, og en forflatning av både følelser og evnen til å skape sunne relasjoner. 
 
+  figure.col.col6.right-image.mt5
+    img(src='./orstavik_Kjaerlighet2.jpg' alt='')
+    figcaption Foto: Bobbi Dombrowski / stock.xchng
+    
   p I Vibekes tilfelle gjennomsyrer reklame og kvinnemagasiner både måten hun tenker på, hva hun drømmer om, og måten hun snakker på. Hun kunne «trenge et nytt antrekk, det har hun virkelig fortjent […]», og hun ser for seg at hun «er på en endeløs strand» sammen med en mann, «det er vinter og de er alene der, hun småløper i vannkanten og han ser på henne, han ser alt i henne og er klok og varm». Klisjeene Vibeke fyller livet sitt med, fører til en selvopptatthet som grenser til narsissisme – altså en grenseløs selvkjærlighet som gjør henne ute av stand til å se andre mennesker, til og med sin egen sønn. 
 
   h3 Indre og ytre farer 
+
+  figure.col.col6.right-image.mt5
+    img(src='./orstavik_Portrett2.jpg' alt='')
+    figcaption Foto: Håkon Mosvold Larsen / NTB / Scanpix
+    
   p Tematisk kretser Kjærlighet rundt hvilke farer vi møter i den postmoderne verden. Sosiologer som Ulrich Beck (1944–2015 ) og Anthony Giddens (1938– ) omtaler vår tids samfunn som et risikosamfunn. Den teknologiske og industrielle utviklingen har skapt globale trusler som mennesker i dag må leve med vissheten om og ikke kan flykte fra. Samtidig er «de store fortellingene» som gir tilværelsen mening, i ferd med å smuldre bort. 
 
   p Når de store fortellingene ikke lenger kan skape mening for oss, og vi selv må skape mening, blir de nære relasjonene ekstra viktige. Og i en verden der katastrofer som krig og miljøtrusler ikke lenger kun er lokale trusler, men globale, blir hjemmet og familien en viktig mental beskyttelse for å skape mening i tilværelsen. Når familien så svikter – og det er uro i redet, får dette katastrofale følger for karakterene. 
+
+  figure.col.col4.left-image.mt5
+    img(src='./orstavik_Portrett3.jpg' alt='')
+    figcaption Foto: Rolf M. Aagaard / Aftenposten / Scanpix
 
   p I romanen Kjærlighet møter vi «et rede i uro» – altså et hjem og en familie som ikke fungerer. Dette «lille redet i uro» kan leses som en allegori – en fortelling i overført betydning – om det «store redet i uro», altså samfunnet og verden generelt. Mens Jon i romanen blir utsatt for det vi ser på som ytre trusler – han setter seg inn i bilen til en fremmed kvinne, han blir med en ukjent, eldre mann ned i kjelleren, og han vandrer ensom rundt kveldstid, er det ikke disse farene Jon blir offer for. Det er nemlig de indre farene, omsorgssvikt og mangel på kjærlighet og kommunikasjon, som til slutt fører til at Jon blir liggende alene ute i snøen – noe som mest sannsynlig fører til at han dør. 
 
@@ -30,6 +50,11 @@ PageBook
   p Johannes store drøm er at hun etter psykologistudiene skal kjøpe et lite gårdsbruk med et tun – på dette tunet skal hun og mora ha hvert sitt hus slik at de fremdeles kan være sammen. Tunet blir et bilde på hvordan datteren ønsker å skape et trygt rede sammen med mora. Men underveis i romanen blir det tydelig for leseren at dette tunet er moras drøm, ikke Johannes. Tunet blir dermed nok et bevis på hvordan mora invaderer datteren med sine ønsker og behov.  
 
   h3 Å finne sitt eget språk 
+
+  figure.col.col12
+    img(src='./orstavik_Portrett4.jpg' alt='')
+    figcaption Foto: Berit Roald / NTB / Scanpix
+    
   p Hanne Ørstaviks forfatterskap kan på mange måter deles inn i fire ulike faser: 
 
   p Den første fasen omfatter debutromanen Hakk og Entropi. Disse romanene viser Ørstaviks språkbevissthet og minimalistiske skrivestil. 

@@ -1,22 +1,44 @@
 <template lang="pug">
 PageBook
   h3 Verdsett, myteomspunnen – og undervurdert
+
+  figure.col.col4.left-image.mt5
+   img(src='./Sandemose_Portrett.jpg' alt='')
+   figcaption Foto: Bjørn Fjørtoft / Scanpix Sweden
+
   p Aksel Sandemose (1899–1965) har hatt ein underleg posisjon i norsk litteraturhistorie. Han er avhalden, hylla og respektert, men dei mest originale og banebrytande perspektiva i forfattarskapen hans er samstundes oversedde eller nedvurderte.
 
   p I dag ser vi at Sandemose var ein frontfigur for modernismen i norsk romankunst, og at dei tidlegare hyllingane av forfattarskapen hans pressa han inn i ein norsk tradisjon han ikkje tilhøyrer. Litteraturkritikarane stirte seg blinde på psykoanalytiske perspektiv og jantelov.
 
+  .clear
+
   h3 Ein syndefull og antiborgarleg rebell
+
+  figure.col.col4.left-image.mt5
+   img(src='./Sandemose_Syndefull.jpg' alt='')
+   figcaption Foto: Bjørn Fjørtoft / Scanpix Sweden
+
   p Sandemose hevda at det i hans tid var viktig å vise fram «syndenes mangfoldighet» og ha «evne til å unnvære medborgerlig aktelse». Begge delar meistra han fullt ut. Han var nok oppteken av omdømmet sitt og av å nyte gunst hos andre, men var ikkje redd for å banne i kyrkja. Og syndene var det mange av.
 
   p Den danske forfattaren og arbeidarklassesonen emigrerte til Noreg som 31-åring fordi livet hans i København var i ferd med å rakne. Han hadde selt same manuset til to forlag fordi han, som mange gonger før, heldt på å drukne i ubetalte rekningar og gjeld. Derfor hadde han roke uklar med dei store danske avishusa og andre sentrale miljø i København. Løysinga vart å reise frå alt saman – til Noreg. Mora var norskfødd, frå Sandermosen i Asker, og Sandemose gjorde seg til nordmann både i språk, samfunnsengasjement og namneval: Han skifte namn frå Axel Nielsen til Aksel Sandemose.
 
+  figure.col.col6.right-image.mt5
+   img(src='./Sandemose_Mot_Dag.jpg' alt='')
+   figcaption Tidsskriftet Mot Dag på skrivebordet i ein leilighet som var moderne på 1930-talet. Frå Folkemuseet i Oslo. Foto: Morten Holm / Scanpix
+
   p I Oslo kom han inn i den litterære krinsen rundt det kulturradikale tidsskriftet Mot Dag, men han vart sjølv aldri medlem. Han var ein antiborgarleg opprørar som aldri gjekk i takt med nokon.
 
+   
   p I Noreg gjorde han straks inntrykk som ein skarpskodd forfattar og ein stridslysten og kløktig debattant. I tillegg til sine skjønnlitterære tekstar skreiv han mange artiklar i den radikale delen av Oslo-­pressa, og to gonger realiserte han draumen om eit eige tidsskrift, først Fesjå (1934–1936), seinare Årstidene (1951– 1955).
 
   p Men han var òg kjend som drukkenbolt og slagsbror. Sandemose levde på mange måtar eit hardt liv, og forfattarskapen hans handla ikkje minst om dei destruktive kreftene i menneskesinnet.
 
   h3 Jantelov og varulvar
+
+  figure.col.col5.right-image.mt5
+   img(src='./Sandemose_Jantelov_og_varulver.jpg' alt='')
+   figcaption Ein varulv går til åtak på offeret sitt i eit stikk frå 1700-talet
+
   p Sandemose utforska det destruktive og irrasjonelle både i samfunnet, i psyken til kvar enkelt og i mytologiske forteljingar. Den mykje omtalte jantelova som han formulerte i sitt første hovudverk, En flyktning krysser sitt spor (1933), har både sosiologiske og psykologiske perspektiv.
 
   p Boka skildrar korleis samfunnet med sine krav om tilpassing og konformitet bryt ned psyken til enkeltmennesket, og ho illustrerer Sandemoses interesse for vondskap og maktmisbruk. Maktmenneske og mordarar fylte store delar av det litterære landskapet hans, og dei vart gjerne framstilte som menneske med eit fortrengt kjensleliv.
@@ -31,6 +53,10 @@ PageBook
 
   p Karakterteikningane til Sandemose skriv seg rett inn i denne europeiske samtidsmodernismen. I romanen Klabautermanden (norsk utgåve 1932) lyder det slik: «Men ingen vet lenger hvem han er … jeg er én, jeg er to, jeg er tre.» Sandemoses sentrale hovudkarakterar er Espen Arnakke frå romanane En sjømann går i land (1931), En flyktning krysser sitt spor (1933), Det stod en benk i haven (1937) og Brudulje (1938), John Torson frå Det svundne er en drøm (1944) og Erling Vik frå Varulven (1958) og Felicias bryllup (1961).
 
+  figure.col.col6.right-image.mt5
+    img(src='./Sandemose_Aksel_og_Hanne.jpg' alt='')
+    figcaption Forfattaren Aksel Sandemose i byen der han vart fødd, Nykøbing, eller «Jante», som han kallar han i romanane sine. Her med kona Hanne Sandemose. Foto: Aage Storløkken / Aktuell / Scanpix
+    
   p Både Arnakke og Torson er mordarar. Arnakke er likevel det verkelege offeret, øydelagd av eit jantesamfunn og av makt menneske. Han er driven av eit kjærleikshat og prega av disharmoni og ambivalens. Torson på si side har fortrengt ugjerningane sine. Han prøver intenst å rulle opp eit mord han sjølv har utført, men altså ikkje hugsar. Framandkjensla og det indre kaoset er her det mest presserande.
 
   p Erling Vik er også ein spalta karakter med motstridande drivkrefter, og han tviler på at han i det heile har ein identitet: «Var det en kalte personlighet, kanskje ikke så fast forankret som en gjerne ville tro? […] at en levde på en illusjon, en svindel. […] Han kunne kjenne det slik at han slett ikke var, aldri hadde vært til, som annet enn skalkeskjul for et skalkeskjul, et speilkabinett av skalkeskjul. […] Et blendverk, en uvirkelighet holdt sammen av en annen uvirkelighet.»

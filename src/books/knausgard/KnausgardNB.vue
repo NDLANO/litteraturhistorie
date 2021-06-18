@@ -1,6 +1,11 @@
 <template lang="pug">
 PageBook
   h3 Karl Ove Knausgård – og kampen for fiksjonen
+
+  figure.col.col6.left-image.mt5
+    img(src='./knausgaard_Portrett1.jpg' alt='')
+    figcaption Foto: Daniel Nilsson / TT / Scanpix
+    
   p Karl Ove Knausgård (1968– ) debuterte i 1998 med romanen Ute av verden. For denne boka fikk han som første debutant noensinne den prestisjetunge Kritikerprisen. Ni år seinere kom En tid for alt. Romanene har samme hovedkarakter – Henrik Vankel, og da Knausgård i 2009 gav ut første bind i Min kamp-serien, så flere på dette som den tredje boka i serien om Henrik Vankel. Forskjellen var at forfatteren Karl Ove Knausgård trådte inn i Henrik Vankels sted. Grensene mellom fiksjon og virkelighet ble utydelige – og med ett var Karl Ove Knausgård den mest debatterte og omtalte norske samtidsforfatteren. 
 
   p I det ambisiøse seksbindsverket Min kamp (2009–2011) skriver Karl Ove Knausgård svært utleverende og ærlig om sitt eget liv. Han forteller om hendinger fra oppveksten, han bretter ut sine to ekteskap, og han skriver nærgående om forholdet til sine barn og sin avdøde far. Knausgård insisterer på å kalle utgivelsene romaner, selv om de helt klart har en biografisk innfallsvinkel. 
@@ -10,18 +15,34 @@ PageBook
   p Knausgård vokste opp i Arendal og Kristiansand, men bor nå i Malmö, Sverige. Han har skrevet en rekke fagessays om litteratur og var i en periode medredaktør i litteraturtidsskriftet Vagant. Knausgård har mottatt flere priser for forfatterskapet sitt. I tillegg til Kritikerprisen i 1998 fikk han i 2009 Brageprisen for Min kamp 1. To ganger har han også mottatt både P2-lytternes romanpris og Sørlandets litteraturpris. 
 
   h3 En ung mann i drift 
+
+  figure.col.col6.right-image.mt5
+    img(src='./knausgaard_Fjordgaard1.jpg' alt='')
+    figcaption Fjordgård på Senja i Troms der Karl Ove Knausgård jobbet som lærer-vikar etter gymnaset. Foto: Terje Mortensen / VG / Scanpix
+    
   p I Ute av verden (1998) møter vi for første gang Henrik Vankel. I en alder av 26 år reiser han fra hjemtraktene på Sørlandet til et lite lokalsamfunn i Nord-Norge. Her skal han arbeide som lærervikar mens han forsøker å realisere sin drøm om å bli forfatter. Romanen tar en drastisk vending når Henrik Vankel forelsker seg i en av elevene sine, den 13 år gamle Miriam. Det hele kulminerer når Vankel – i fylla – har seksuell omgang med jenta. Etter denne hendelsen nærmest flykter han fra stedet. Romanen tematiserer en ung manns drift – en drift vekselvis bort fra og inn mot seg selv. Identitet og streben etter å fylle en uklar mannsrolle er også sentrale motiv i denne romanen. 
 
   p I En tid for alt (2004) møter vi igjen Henrik Vankel. Denne gangen sitter han på ei øy og gjenforteller bibelhistorier. Han går dypere inn i bibelske karakterer som Noah, Kain og Abel, og deres tanker, sorger og gleder blir dermed frigjort fra den knappe bibelske framstillingen. Gjennom en nærmest essayistisk redegjørelse av den fiktive italienske engleforskeren Antinous Belloris arbeider, utfordrer Knausgård også det klassiske skillet mellom vitenskap og tro. Men hva med Henrik Vankel? Hans historie hentes først opp igjen etter 500 sider om engler og bibelhistorie. På øya Sandholmen sitter han nesten like ribbet, utstøtt og forlatt som en fallen engel. Flukten fra det nordnorske bygdesamfunnet som skildres i Ute av verden, har satt dype spor. 
 
   h3 Min kamp 
+
+  img.col.col6.right-image.mt5(src='./knausgaard_Min_kamp1.jpg' alt='')
   p I Min kamp gjenforteller Knausgård mange av historiene fra de to forrige romanene. Henrik Vankel erstattes av romankarakteren Karl Ove Knausgård, og historiene om han settes inn i en biografisk kontekst, altså forfatteren Karl Ove Knausgårds livshistorie. Dette skiftet i perspektiv er helt klart et risikoprosjekt – gjenfortellingene kan «trøtte» leserne av forfatterskapet hans. Samtidig bidrar det til en spenning i tekstene hans; hvor mye er basert på selvopplevde hendelser, og hvor mye er ren fiksjon? 
 
   p Også innad i Min kamp-serien gjenforteller og gjentar Knausgård samme historier og episoder – med enkelte nyanseforskjeller og endringer. Gjentakelsene bidrar derfor til å problematisere både virkelighetsperspektivet og sannhetsgraden i tekstene hans. Når de ulike gjenfortellingene ofte er litt forskjellige, blir minnene og fortida frigjort fra virkeligheten. 
 
+  figure.col.col12
+    img(src='./knausgaard_Min_kamp2.jpg' alt='')
+    figcaption I sjuende etasje i denne bygården i Malmø bodde Karl Ove Knausgård med kona og de tre barna da han skrev «Min Kamp». Foto: Eivind Griffith Brænde / VG / Scanpix
+
+  figure.col.col6.right-image.mt5
+    img(src='./knausgaard_Min_kamp3.jpg' alt='')
+    figcaption Linda Boström Knausgård utenfor huset ved Ystad i Sverige som de kjøpte etter suksessen med «Min kamp».  Foto: Annemor Larsen / VG / Scanpix
+
   p Romanprosjektet Min Kamp tar for seg Karl Ove Knausgårds liv fram til den dagen prosjektet avsluttes – altså et forløp på 42 år. Leserne får et innblikk i barneog ungdomsår, og hvordan Knausgård i dag lever et tilnærmet A4-familieliv med kone og barn i Malmö i Sverige, et samliv som i perioder trues av psykiske lidelser. Navet som fortellingen dreier seg rundt, er likevel farens død, et dødsfall som fører hovedpersonen Karl Ove inn i en krise. Forholdet til faren beskrives som kaldt og preget av avstand, angst og frykt, men dødsfallet går likevel sterkt inn på sønnen. Hovedpersonens følelsesmessige ambivalens preger hele romanserien. 
 
   h3 Detaljrik impresjonisme 
+
   p Enkelte kritikere har sammenliknet Knausgårds skrivestil med barokkens idealer om detaljrikdom – alt skal skildres så detaljert og nøyaktig som mulig. I Min Kamp er det lange beskrivelser av hvordan Karl Ove vasker opp, lager middag, trakter kaffe eller opplever et barneselskap. Detaljrikdommen er stor, og selv om det ikke skjer så mye, driver språket og fortelleteknikken historien framover. 
 
   p Skrivestilen til Knausgård har mye felles med den retningen som kalles impresjonismen i malekunsten. Forfatteren maler stemninger og inntrykk med språket. I likhet med de impresjonistiske malerne er det ikke en nøyaktig avbildning av virkeligheten som er interessant, men hvilke stemninger og følelser en hendelse vekker. Denne måten å skrive på kan sammenliknes med Marcel Prousts På sporet av den tapte tid (1913–1927). Som Proust er Knausgård opptatt av hvordan følelser og refleksjoner starter med sansing og opplevelse. Det er ikke tingen i seg selv som er interessant, men følelsen den vekker hos karakteren – og hos leseren. 
@@ -30,9 +51,19 @@ PageBook
   p Knausgård har uttalt at drivkraften i hans litterære prosjekt er å nå inn til kjernen i det å være menneske. For å lykkes med det må han utlevere seg selv og sine innerste tanker og følelser – helt ærlig, blottstilt og nådeløst. Gjennom å gå så tett inn på det private og individuelle tematiserer og undersøker romanene samtidig det som er allment menneskelig. Hva er det som driver oss? Hvordan forholder vi oss til andre mennesker? Hvorfor handler vi som vi gjør? For Knausgård er en viktig del av denne prosessen å prøve å forstå faren sin – og dermed seg selv. Hvem var denne skremmende farsfiguren egentlig? Og hvorfor har han selv så mange av de destruktive og negative sidene som han foraktet hos faren? 
   
   h3 Lengsel etter litteraturen 
+
+  figure.col.col5.left-image.mt5
+    img(src='./knausgaard_Portrett2.jpg' alt='')
+    figcaption Foto: Daniel Nilsson /  TT / Scanpix
+
   p Knausgårds lengsel etter å skrive er et gjennomgangstema i store deler av romanprosjektet. Vi møter han som elev på Skrivekunstakademiet i Bergen. Han  søker inspirasjon hos store forfattere som Hamsun, Ulven og Larsson, men opplever at hans forsøk på å skrive blir sett på som klisjéfylte og lite originale. Det er først når han opplever å kunne skrive om sitt indre, at det løsner for han. Min Kamp inneholder flere diskusjoner og refleksjoner omkring hva god litteratur er, og hva den bør forsøke å formidle. Gjennom disse refleksjonene setter Knausgård sitt eget prosjekt inn i en litterær sammenheng. 
   
   h3 Nåtid og fortid 
+
+  figure.col.col6.right-image.mt5
+    img(src='./knausgaard_Portrett3.jpg' alt='')
+    figcaption Foto: © Fredrik Bjerknes / Dagsavisen / Samfoto / Scanpix
+    
   p Knausgård problematiserer og undersøker forholdet mellom nåtid og fortid. I Ute av verden skriver han dette om farens dødsfall:  
 
   p Femten år senere var han død. Og så voldsomme var omstendighetene rundt dødsfallet hans, at han med det ikke bare forandret framtiden vår, men også fortiden. […] En slags kulde har spredd seg ut i den, noe høytidelig som vi ikke visste om mens vi var  der, men som nå preger alt som fant sted, selv det mest trivielle og hverdagslige av det vi gjorde. Og det er en urovekkende tanke, at heller ikke fortiden er avsluttet, at også den fortsetter å endre seg, som om det i virkeligheten bare finnes én tid, for alt.  
@@ -40,11 +71,21 @@ PageBook
   p Den kulden som legger seg over alle minner han har av faren, illustrerer hvordan vi som mennesker hele tiden konstruerer vår egen livshistorie og fortelling. Det finnes ikke én fortid, men mange! Fortiden er ikke en konkret hendelse eller opplevelse, men en fortelling om – og en følelse av – hva denne fortiden var. Romankarakteren Karl Oves følelser og tanker omkring faren er hele tiden preget av hvordan forfatteren Karl Ove Knausgård selv har det her og nå – i den nåtidige skriveprosessen.  
 
   h3 Å skrive sitt liv 
+
+  figure.col.col6.left-image.mt5.mb5
+    img(src='./knausgaard_Sangen_om_den_roede_rubin.jpg' alt='')
+    figcaption Rettssaken om boka «Sangen om den røde rubin» av  Agnar Mykle vekket stor interesse i mediene. Foto: Aktuell / Scanpix
+
   p Knausgård skriver seg inn i en tradisjon der forholdet mellom fiksjon og virkelighet problematiseres. Allerede på 1890-tallet hadde forfattere tilknyttet Kristianiabohemen som mål «å skrive sitt liv». På 1950-tallet ble Agnar Mykles (1915–1994) roman Sangen om den røde rubin (1956) trukket for retten. Selv om det i første rekke var «usedelig» innhold som førte til rettssak, var også et av ankepunktene Mykles bruk av «levende modeller». Flere personer i Mykles omgangskrets reagerte på at romankarakterene hans var lett forkledde utgaver av dem selv. 
 
   p Flere romanforfattere på 2000-tallet tar utgangspunkt i eller bruker bevisst biografisk materiale i sine litterære verk. I Norge har blant annet Nikolaj Frobenius (1965– ) skrevet en «løgnaktig selvbiografi» – Teori og praksis (2004) – om sin oppvekst på Rykkin – illustrert med bilder og kart fra stedene han skriver om. I Sverige har Åsa Lindeborg (1968– ) skrevet Meg eier ingen (2007), om sin oppvekst med en alkoholisert far, og våren 2011 ble danske Claus Beck-Nielsen (1963– ) frikjent for injurierende omtale av en tidligere venn i romanen Suverenen (2008). 
   
   h3 Pseudovirkelighet 
+
+  figure.col.col4.left-image.mt5
+    img(src='./knausgaard_Portrett4.jpg' alt='')
+    figcaption Foto: Daniel Nilsson / Scanpix
+
   p Knausgårds prosjekt kan også plasseres i en postmoderne medievirkelighet som preges av lek med virkelighet og reality. TV-serier som The Hills og Paradise Hotel er eksempler på at man kan leke med, og iscenesette, virkeligheten. De sprenger den tradisjonelle sjangerforståelsen og skaper en pseudovirkelighet. Dette er noe den moderne mediebrukeren er godt vant til å forholde seg til – så hvorfor da ikke i en skjønnlitterær sammenheng også? 
 
   p Debatten i kjølvannet av Min kamp-serien hyller på den ene siden prosjektet som banebrytende, nettopp som en del av en slags pseudovirkelighet. På den andre siden er mange svært kritiske til at han trekker inn – med eller uten samtykke – virkelige personer i sitt romanprosjekt. Og for de involverte partene, blant annet Knausgårds ekskone, oppleves ikke romanprosjektet som en pseudovirkelighet, men som en utlevering av intime følelser og hendelser. 
@@ -55,6 +96,10 @@ PageBook
   p Romanprosjektet til Knausgård tematiserer på mange måter hva som kan være følgene av at «de store fortellingene er døde», og at vi mennesker er overlatt til oss selv i forsøket på å skape mening i tilværelsen. Hvordan kan vi finne vår egen identitet i et mylder av valgmuligheter? Hvor går grensene for hvor mye man kan si og skrive om andre mennesker i et forsøk på å forstå seg selv? 
 
   p Selv hevder Knausgård at han har rett til å formidle sin historie, sin sannhet – med trykk på sin. For å skape seg en identitet er han nødt til å fortelle historien om sitt eget liv. På denne måten konstruerer han sin egen sannhet og sin egen virkelighet. 
+
+  figure.col.col12
+    img(src='./knausgaard_Min_kamp4.jpg' alt='')
+    figcaption «Mitt liv som romanfigur.» Bøkene til Knausgård vekket både begeistring og harme. Her får du et lite utsnitt av oppstyret. NRK Skole
 
 
   // Medieinnhold: Vurdere om noen av bildene skal ut (bosteder og rettssak). Vurdere video fra NRK skole

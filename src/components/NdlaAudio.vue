@@ -1,6 +1,7 @@
 <template lang="pug">
 audio(ref="player" controls)
   source(:src="source")
+.description {{ description }}
 </template>
 
 <script>
@@ -12,6 +13,10 @@ export default {
     source: {
       type: String,
       required: true,
+    },
+    description: {
+      type: String,
+      default: "",
     },
   },
   data() {

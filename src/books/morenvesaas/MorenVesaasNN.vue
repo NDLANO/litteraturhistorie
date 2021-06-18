@@ -2,6 +2,8 @@
 PageBook
   
   h3 Forfattar, omsetjar og kulturperson
+
+  img.col.col4.left-image.mt5(src='./MorenVesaas_Portrett.jpg' alt='')
   p Halldis Moren var fødd i Trysil i 1907. Barndomsheimen var prega av kjærleik til litteratur og kultur, og alt i ein alder av ni år debuterte ho med ei historie i Norsk Barneblad. I 1934 gifte ho seg med forfattaren Tarjei Vesaas. Ho flytte til Vinje i Telemark og vart buande på garden Midtbø saman med mannen sin. Etter at ho vart enkje i 1970, busette ho seg i Oslo.
 
   p Halldis Moren Vesaas debuterte som lyrikar i 1929 med samlinga Harpe og dolk. I perioden fram til 1955 gav ho ut i alt seks diktsamlingar. Den siste samlinga hennar, Livshus, kom ut like etter at ho døydde i 1995. I tillegg til lyrikken gav ho ut memoarar, essaysamlingar og barnebøker. I tida etter andre verdskrigen arbeidde ho mellom anna for Det Norske Samlaget og Det Norske Teatret. Her vart ho kjend som ein svært dugande omsetjar av dramatikk. Ho omsette mellom anna Shakespeare og Racine til nynorsk.
@@ -16,6 +18,10 @@ PageBook
   p Moren Vesaas skreiv om røynsler og opplevingar som var felles for kvinner – ho skildra den første menstruasjonen, kjensla av å bli mor, og ho skreiv om kvinnas seksuelle drifter. Trass i at desse emna førte til ein del negative reaksjonar frå det etablerte lyrikkmiljøet, fekk Moren Vesaas straks ein stor lesarskare. Livsvisdommen ho formidla gjennom dikta sine, appellerte til mange, og framleis blir dikta hennar ofte lesne ved høgtidlege høve som bryllaup og gravferd.
 
   p Eit typisk tema i diktinga til Halldis Moren Vesaas er motsetninga mellom å høyre saman med nokon og å vere fri og sjølvstendig. Korleis kan ein finne ein balanse mellom desse to motstridande behova? I diktet «Ord over grind» seier ho klart at det finst ei grense for kor langt inn i livet til kvarandre vi kan gå dersom vi ikkje vil miste oss sjølve. Vi må respektere behovet vi har for eit rom som berre er vårt eige. Først da har eit forhold sjanse for å lykkast.
+
+  figure.col.col12
+   img(src='./MorenVesaas_Grind.jpg' alt='')
+   figcaption Foto: Rolf Chr. Ulrichsen / Aftenposten / Scanpix
 
   blockquote
     | Du går fram til mi inste grind, 
@@ -55,6 +61,11 @@ PageBook
 
 
   h3 Forelsking og begjær
+
+  figure.col.col4.right-image.mt5
+   img(src='./MorenVesaas_Frimerke.jpg' alt='')
+   figcaption I 2007 var det hundre år sidan Halldis Moren Vesaas blei født. Posten markerte hundreårsjubileet med eit eige frimerke. Foto: Erik Johansen / Scanpix
+
   p Både Halldis Moren Vesaas, Aslaug Vaa og Inger Hagerup var pionerar i litteraturen. Dei skildra sider ved kvinnelivet som til da var skildra med mannens blikk, eller som det ikkje hadde vore skrive om i det heile. Dette gjaldt særleg kvinnenes seksuelle drifter og erotiske lengt. Halldis Moren Vesaas fekk kritikk for å skildre kvinna som ein aktiv part i det seksuelle samlivet. I diktet «Bølgje» frå samlinga Strender (1933) bruker ho havet som symbol i si skildring av seksualiteten:
 
   blockquote
@@ -80,6 +91,11 @@ PageBook
   p Også i den siste livsfasen kan ein møte kjærleiken, ei røyst som kviskrar: «Det er vi. Det er eg og du.»
 
   h3 Fellesskap og kvardagslykke
+
+  figure.col.col6.right-image.mt5
+   img(src='./MorenVesaas_Hverdagslykke.jpg' alt='')
+   figcaption Forfattarane Tarjei Vesaas og Halldis Moren Vesaas heime på garden i Vinje i 1964. Foto: Rolf Chr. Ulrichsen / Aftenposten / Scanpix
+
   p Under og etter andre verdskrigen skreiv Halldis Moren Vesaas fleire dikt med motiv og tema henta frå krigen. Som elles i lyrikken sin er ho også her oppteken av mellommenneskelege relasjonar. Ho skriv om korleis ei mor kjempar for å halde motet oppe og for å skape ein mest mogleg normal kvardag for barna sine, og ho skildrar samhald og fellesskap med sterk innleving.
 
   p Moren Vesaas skildrar også lykka som ligg i livet som husmor og mor. I motsetning til andre samtidige røyster i litteraturen er ho ikkje interessert i å leite etter lykka ein annan stad – for Moren Vesaas er det viktig å finne lykka i det livet ein faktisk lever. Dikta hennar er ei oppmoding til å ta vare på det som er verdt å ta vare på, og til å finne lykka i det nære og kvardagslege. Og kanskje er det nettopp her vi finn nøkkelen til å forstå Moren Vesaas’ popularitet som lyrikar: Gjennom lyrikken inspirerer ho lesaren til å omfamne livet i alle fasar og finne lykka der vi er.

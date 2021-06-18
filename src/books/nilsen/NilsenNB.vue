@@ -11,7 +11,17 @@ PageBook
   p For mange framstod arbeiderbevegelsen som en internasjonal bevegelse som hevet seg over særinteressene til stormakter og kapitaleiere. Klasseforskjellene mellom rike og fattige gav næring til sosial uro. Deler av arbeiderbevegelsen ble radikalisert, både ute i Europa og i Norge. Forbildet var den russiske revolusjonen i 1917, tuftet på marxistisk ideologi. I tråd med dette krevde arbeiderne eiendomsretten til jord og produksjonsmidler.  
   
   h3 En ekte østkantdikter 
-  p Rudolf William Nilsen (1901–1929) var en ekte østkantdikter. Han ble født på Vålerenga i Oslo, som den gang het Kristiania. Faren var jernarbeider på Nylands Mekaniske Verksted. Etter at foreldrene skilte seg, vokste sønnen opp hos mora, som livnærte seg som syerske. Oppveksten kom til å prege både samfunnsengasjementet og hele forfatterskapet til Rudolf Nilsen: 
+
+  img.col.col4.left-image.mt5(src='./Nilsen_En_ekte_oestlandsdikter.jpg' alt='')
+  p Rudolf William Nilsen (1901–1929) var en ekte østkantdikter. Han ble født på Vålerenga i Oslo, som den gang het Kristiania. Faren var jernarbeider på Nylands Mekaniske Verksted. Etter at foreldrene skilte seg, vokste sønnen opp hos mora, som livnærte seg som syerske. 
+
+  .clear
+
+  p Oppveksten kom til å prege både samfunnsengasjementet og hele forfatterskapet til Rudolf Nilsen: 
+
+  figure.col.col5.right-image.mt5
+   img(src='./Nilsen_Fredensborg.jpg' alt='')
+   figcaption Fredensborg i Oslo. Foto: Ingvald Møllerstad / Aftenposten /Scanpix
 
   blockquote
     | Jeg kom til verden i en murstensgård 
@@ -25,6 +35,11 @@ PageBook
     | og krutt. 
 
   p I diktet «Nr. 13» skildrer Rudolf Nilsen hvordan det er å vokse opp i gråbeinsgårdene på østkanten i Oslo. Menneskene som bor i nr. 13, er skildret med både varme, humor og ironi. Diktet er en ekte folkelivsskildring fra østkanten. Men forfatteren minner oss på at de som bor der, deler skjebne med arbeidere over hele verden – nr. 13 finnes alle steder der fattigfolk bor. 
+
+  .clear 
+  figure.col.col6.right-image.mt20
+   img(src='./Nilsen_Enerhaugen.jpg' alt='')
+   figcaption Enerhaugen. Foto: NTB / Scanpix
 
   blockquote
     | De spør hvor Nr. 13 er – 
@@ -67,6 +82,10 @@ PageBook
   h3 På stengrunn 
   p Rudolf Nilsens første diktsamling kom ut i 1925 med tittelen På stengrunn. I denne diktsamlingen skildrer han livet til vanlige arbeidsfolk øst for Akerselva. Livet er hardt, og gledene er få. Men dypt i alle lever lengselen etter et bedre liv. De unge bjerkene i svarte byen de står og bruser med sitt lyse løv, som om de åndet store skogers vårluft og ikke skorstensrøk og gatestøv. 
 
+  figure.col.col12
+   img(src='./Nilsen_Gamle_Vika.jpg' alt='')
+   figcaption Gamle Vika med Akers Mekaniske Verksted i bakgrunnen. Foto: Scanpix
+
   p Til tross for dette er det få diktere som har skildret livet i storbyen med større kjærlighet enn Rudolf Nilsen. I det urbane samfunnet er alt skapt av mennesker og underlagt menneskelig kontroll. Hos realisten og ateisten Rudolf Nilsen er det ikke plass til metafysikk og religion. 
 
   blockquote
@@ -87,6 +106,10 @@ PageBook
     | sin uforståelige hem’lighet. 
 
   p I 1920-årene var forfattere som Olav Duun og Sigrid Undset opptatt av enkeltmenneskets etiske ansvar for slekta og for lokalsamfunnet det er en del av. I sitt forfatterskap peker Rudolf Nilsen på en ny form for slektskap og forpliktelse: Arbeiderklassen er den nye slekta, og de som hører til arbeiderklassen, er etisk forpliktet til å ta del i klassekampen. 
+
+  figure.col.col6.right-image.mt5
+   img(src='./Nilsen_demonstrasjon.jpg' alt='')
+   figcaption «De navnløses hær» ved en 1. mai-demonstrasjon i Oslo i 1935. Foto: NTB / Scanpix
 
   blockquote
     | Jeg kjenner en mening med livet. 
@@ -124,6 +147,7 @@ PageBook
     br
     | med tanke og sang og gevær.
 
+  .clear
 
   h3 «Revolusjonens røst» 
   p Allerede som gymnasiast var Rudolf Nilsen politisk interessert. I 1919 meldte han seg inn i Norges Socialdemokratiske Ungdomsforbund. Da arbeiderbevegelsen ble politisk splittet i 1923, valgte Rudolf Nilsen den revolusjonære linja som Norges Kommunistiske Parti stod for. 
@@ -204,6 +228,10 @@ PageBook
     br
     span(class="ml40") men kjemper til døden for den. 
 
+  figure.col.col12
+   img(src='./Nilsen_Kamplyrikk.jpg' alt='')
+   figcaption Avdukingen av monumentet over Rudolf Nilsen på Rudolf Nilsens plass i Oslo 1. mai 1954. Foto: NTB / Scanpix
+
   p Mannlig utgang på verselinja er med på å skape et kontant og bestemt uttrykk. I «Revolusjonens røst» rimer dessuten alle linjene i strofen på hverandre, slik at rimordene kommer tett i tett. Rimet virker insisterende og er med på å hamre det steile budskapet inn i leseren. 
 
   p Språket i diktene til Nilsen er liketil og direkte. Han bruker enkle bilder hentet fra hverdagslivet, og ord som vekker sterke følelser. Rim og rytme understreker innholdet. Målet er å påvirke leserne og mane til handling. 
@@ -211,6 +239,10 @@ PageBook
   p En fellesbetegnelse for lyrikk med et klart politisk formål er kamplyrikk. Andre forfattere som seinere skrev på samme måte, er Arnulf Øverland og Nordahl Grieg. Det kanskje mest berømte norske kampdiktet er likevel skrevet av en kvinne. Det er Inger Hagerups «Aust-Vågøy. 1941», som maner til motstand mot tyskerne under andre verdenskrig. 
 
   h3 Fra Rudolf Nilsen til Lillebjørn Nilsen 
+  figure.col.col6.right-image.mt5
+   img(src='./Nilsen_Lars_Klevstrand.jpg' alt='')
+   figcaption Visesangeren Lars Klevstrand ved statuen av Rudolf Nilsen. Foto: VG / Scanpix
+   
   p Rudolf Nilsen mente at forfatteren ikke kunne la være å ta stilling i klassekampen. Pennen skulle brukes som et våpen for revolusjonen. Dette synet på forfatterrollen går igjen hos radikale forfattere tidlig i 1970-årene, for eksempel hos Dag Solstad. Forfatterne skulle skrive for folket, og litteraturen skulle tjene arbeiderklassen. 
 
   p De kjente visesangerne Lillebjørn Nilsen, Lars Klevstrand, Jon Arne Corell og Kari Svendsen utgav musikkalbumet «På stengrunn» i 1973. Rudolf Nilsens viser ble mye brukt da den radikale ungdomsbevegelsen mante til opprør mot det etablerte samfunnet i 1970-årene. Vi kan derfor si at det går ei linje fra Rudolf Nilsen til Lillebjørn Nilsen. 

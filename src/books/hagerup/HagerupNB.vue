@@ -1,6 +1,11 @@
 <template lang="pug">
 PageBook
   h3 Folkekjær og kontroversiell
+
+  figure.col.col6.left-image.mt5
+   img(src='./hagerup_Portrett1.jpg' alt='')
+   figcaption Foto: Aage Storløkken / Aktuell / Scanpix
+   
   p Inger Johanne Hagerup (1905–1985), født Halsør, er en av våre mest folkekjære diktere gjennom tidene. Mange av hennes dikt er blitt stående som høydepunkter i vår lyrikkarv.
 
   p Men Hagerup var også kontroversiell – og en radikal kritiker av det bestående samfunn. I hennes kulturelle virke finner vi noe av den samme allsidigheten og utadrettetheten som hos de store folkekjære og kontroversielle poetene Henrik Wergeland og Bjørnstjerne Bjørnson. De representerer alle tre, på hvert sitt vis, en kritisk, intellektuell kunstnertype: dikteren som lever et offentlig liv, engasjert og involvert i samtidas stridstemaer. 
@@ -10,11 +15,21 @@ PageBook
   p Under andre verdenskrig flyktet hun til Sverige, der hun levde i en koloni av framstående norske forfattere. I sine siste leveår leste hun dikt i sympati med sultestreikende samer og holdt appell mot den sovjetiske invasjonen i Afghanistan. Som politisk menneske var hun likevel en fritenker. Inger Hagerup var aldri medlem av noe politisk parti.
 
   h3 Barnelitteratur og kvinneperspektiv 
+
+  figure.col.col6.right-image.mt5
+   img(src='./hagerup_Folkekjaer_og_kontroversiell1.jpg' alt='')
+   figcaption På karneval i Forfatterforeningen i 1948. Her er forfatter Sigurd Hoel i ivrig diskusjon med Inger Hagerup. Foto: Scanpix
+   
   p Allsidighet preget også forfatterskapet hennes. Hun er best kjent for en lyrikk med fascinerende spennvidde, men hun skrev også noveller, hørespill, skuespill, barnebøker og tre selvbiografiske erindringsbøker. Dessuten gjendiktet og oversatte hun store forfattere som Johann Wolfgang von Goethe, William Shakespeare, Emily Dickinson og Samuel Beckett. 
 
   p Inger Hagerup var en viktig kvinnelig stemme i et litterært landskap dominert av menn. Hun nektet å innordne seg en tradisjonell kvinnerolle. Hun ville leve et fullt liv, kunstnerisk og erotisk, på tvers av de rådende konvensjonene for kvinner. Derfor ble hun også en viktig fornyer i norsk lyrikk. 
 
   h3 «Det ene diktet om krigen som vil leve om hundre år» 
+
+  figure.col.col12
+   img(src='./hagerup_Det_ene_diktet1.jpg' alt='')
+   figcaption Tyske tropper marsjerer nedover Karl Johans gate i Oslo 20. april 1940. Foto: Ingvald Møllerstad / Aftenposten / Scanpix
+   
   p Inger Hagerup debuterte med diktsamlingen Jeg gikk meg vill i skogene i 1939. Hun fortsatte med samlingen Flukten til Amerika i 1942, en ganske dristig tittel akkurat da. Krigen var naturlig nok ikke til stede som åpent motiv i denne samlingen, men den fantes der for den som ville se. 
 
   p I 1942 hadde hun også skrevet et dikt hun ikke kunne utgi, «Aust-Vågøy. Mars 1941». Dette diktet distribuerte hun til fem mennesker hun stolte på. Derfra nådde det de frie norske sendingene fra BBC, det prydet i sin helhet forsiden til en svensk avis, og det ble trykt i antologier som kom ut i Sverige. 
@@ -32,11 +47,20 @@ PageBook
     br
     | det om og om igjen. 
 
+  figure.col.col6.right-image.mt5
+   img(src='./hagerup_Det_ene_diktet2.jpg' alt='')
+   figcaption Fra det allierte angrepet på Lofoten i mars 1941. Bildet viser Stamsund der et oljelager er satt i brann. Senere hevnet tyskerne seg med å brenne ned Aust-Vågøy. Foto: Scanpix
+   
   p Som mange andre av Inger Hagerups dikt tar også «Aust-Vågøy. Mars 1941» utgangspunkt i en konkret situasjon. Diktet handler om tyskernes nedbrenning av Austvågøy i mars 1941. Det var en straffereaksjon etter at britene hadde klart å frakte 200 tyske fanger og 300 norske frivillige over til England fra stedet. 
 
   p Diktet formidler samtidig i knapp og konsentrert form den følelsen av innbitt håp og vilje som var så viktig for motstandsarbeidet under andre verdenskrig. Slik peker diktet også på noe mer allment enn den konkrete situasjonen det springer ut av. 
   
   h3 En splittet livsfølelse 
+
+  figure.col.col6.right-image.mt5
+   img(src='./hagerup_Familieportrett1.jpg' alt='')
+   figcaption Inger Hagerup saman med ektemannen og dei to sønene sine. Foto: Ivar Aaserud / Aktuell / Scanpix
+   
   p I malerkunsten og litteraturen har kvinner tradisjonelt fått tildelt tre nokså snevre roller: De er enten blitt framstilt som madonnaer, idealiserte og ikke-seksuelle skapninger, eller som mødre, omsorgsfulle og selvoppgivende, eller som skjøger, det vil si prostituerte. I dramatikken var Henrik Ibsen den første som brøt med dette, i lyrikken var Inger Hagerup en pioner. Hun tilførte den norske lyrikken en kvinnelig stemme som spilte på et bredt og oftest motsetningsfylt følelsesregister, og hun var, sammen med Halldis Moren Vesaas (1907–1995), den første kvinnelige lyrikeren i Norge som skrev om begjær og fysisk lidenskap. 
 
   p Det kvinnelige lyriske jeg-et hos Hagerup drives av mange motstridende krefter og følelser, og en splittet livsfølelse er et gjennomgående tema i hele forfatterskapet hennes. Dette preger ikke minst kjærlighetslyrikken: 
@@ -55,6 +79,11 @@ PageBook
   p Noen av diktene har en kjønnspolitisk undertekst. «Sånn vil du ha meg: Som en spøk / ditt trette sinn kan hvile i,» skriver hun i «Sånn vil du ha meg». Men det lyriske jeget vil være mer enn et erotisk leketøy, hennes hjerte kan «et annet språk / som det må brenne inne med». I diktet «Nærgående brev til Sigurd Hoel og hans tid» kritiserer hun kjønnsideologien til kulturradikalismens menn: «Fra hjernen til kjønnet gikk en direkte linje, / men utenom hjertet, for guds skyld utenom dét.» 
   
   h3 «Midt i det skoddeland som heter jeg …» 
+
+  figure.col.col6.right-image.mt5
+   img(src='./hagerup_Skoddeland1.jpg' alt='')
+   figcaption Foto: Marius Knutsen / VG / Scanpix
+
   p Slik begynner diktet «Detalj av usynlig novemberlandskap». Vi ser her et sentralt trekk ved Hagerups diktning: identitetstematikken. Det splittede selvet, tapet av mening, angsten, rotløsheten og tomheten er typisk modernistiske grunntemaer, og i Hagerups diktning er denne tematikken tydelig representert. Det er modernitetens erfaringer hun skriver om, men hun har valgt et tradisjonelt formspråk til sin modernisme. Derfor har hun av enkelte fått betegnelsen melodramatisk modernist. Den melodramatiske stilen kjennetegnes ved følelsesladde historier, og Hagerups kombinasjon av situasjonslyrikk og sterke, dramatiske stemninger kan kanskje rettferdiggjøre en slik betegnelse. 
 
   p «Detalj av usynlig novemberlandskap» skildrer et diffust tåkelandskap, og det tematiserer jegets hjemløshet og villrede. Men i kontrast til de typiske modernistene forteller hun om denne livsfølelsen – i stedet for å vise kaoset og oppløsningen gjennom skrivemåten, slik modernister som Paal Brekke (1923– 1993) gjør. Den samme kombinasjonen av modernisme og tradisjonelt formspråk finner vi i dikt som «Nå har atter natten kastet anker», der smerte og angst er knyttet til menneskets forgjengelighet: «Svart er ingen farge / men en angst.» I diktet «Den korsfestede sier» sår Hagerup tvil om meningen med tilværelsen ved å la Gud selv tvile: 
@@ -73,11 +102,21 @@ PageBook
   p Dette er den modernistiske opplevelsen av meningsløshet i etterkant av krigens erfaringer. 
   
   h3 Ein ny type barnepoesi 
+
+  figure.col.col6.right-image.mt5
+   img(src='./hagerup_Barnepoesi1.jpg' alt='')
+   figcaption Inger Hagerup og Jan-Magnus fekk Kyrkjedepartementet sine prisar for beste barnebøker i 1961. Foto: Arne Tjensvold / Aftenposten / Scanpix
+   
   p Hvis vi ser nærmere på Hagerups formspråk, oppdager vi mer enn tradisjonelle rim og taktfaste rytmer. Det mest åpenbare finner vi i barnediktene. Her velger Hagerup å bryte med tradisjonen, hun skaper sin egen form. Slik ble Hagerups barnedikt et gjennombrudd for en ny type barnepoesi. 
 
   p Da diktsamlingen Så rart ble utgitt i 1950, var norsk barnelitteratur preget av realisme og moralisme. Hagerup gjør snarere det motsatte: Hun setter virkeligheten på hodet, og i stedet for å skildre pedagogisk hvordan ting er, setter hun ord på små, rare spørsmål som alle en gang har grublet på. Den lyriske røsten har en oppriktig barnlighet og åpenhet, på lag med barnets spontane undring, og den står i sterk kontrast til Margrethe Munthe-tradisjonen. Stiltonen i diktene varierer fra det groteske til det naivistiske. Noen av diktene kan også kalles nonsensdikt, det vil si tekster uten logisk innhold, der poenget er leken med ord, rytmer og klanger. 
   
   h3 Forløper for 60-tallslyrikken 
+
+  figure.col.col4.left-image.mt5
+   img(src='./hagerup_Portrett2.jpg' alt='')
+   figcaption Foto: Erik Thorberg / NTB / Scanpix
+
   p Hagerups følger ikke bare tradisjonen, men peker framover mot det som skulle komme i 1960-årene. De symboltunge modernistene i femtiårene forkastet Hagerups lyrikk, men sekstitallsmodernistene hadde en helt ny og åpen holdning til den. 
 
   p Disse sekstitallsmodernistene tilhørte en retning som gjerne kalles nyenkel eller konkretistisk. De ville vekk fra symbolmettet lyrikk og ville «ikke gi kaffekjelen vinger», som en av forfatterne i denne kretsen, Dag Solstad (1941– ), formulerte det. 
@@ -103,5 +142,4 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped></style>  
-  
+<style lang="scss" scoped></style>

@@ -2,9 +2,19 @@
 PageBook
   
   h3 En fornyer av norsk lyrikk
+
+  figure.col.col4.left-image.mt5
+    img(src='./vold_Portrett1.jpg' alt='')
+    figcaption Dikteren Jan Erik Vold. Foto: Olav Olsen / Aftenposten / Scanpix
+
   p Jan Erik Vold (1939– ) er født i Oslo, men har i store deler av sitt voksne liv bodd i Stockholm. Bostedet har likevel ikke hindret ham i å delta i den norske samfunnsdebatten. Gjennom hele sitt forfatterskap har han vært en kritisk røst. Vietnamkrigen, politivold, utviklingen av det norske sosialdemokratiet, høyrevridningen i landet og byutviklingen i Oslo er temaer som har provosert og forarget både lyrikeren og debattanten Vold. Særlig kjent er han for sitt engasjement for å beholde gamle Bislett stadion og trikken i Oslo. Som forfatter har han lekt med, og utfordret, oppfatningen av hva man kan dikte om, og hvordan man kan skrive et dikt. 
   
   h3 Mellom speil og speil 
+
+  figure.col.col6.right-image.mt5
+    img(src='./vold_Mellom_speil_og_speil1.jpg' alt='')
+    figcaption Jan Erik Vold mottar Tarjei Vesaas’ debutantpris i 1965. Foto: NTB / Scanpix
+    
   p Jan Erik Vold er en svært produktiv forfatter. Som lyriker debuterte han i 1965 med diktsamlingen mellom speil og speil, en diktsamling han fikk Tarjei Vesaas’ debutantpris for. Et gjennomgående tema i denne samlingen er at mennesket er innesperret i språket og tviler på om verden der ute eksisterer. Diktene er til tider klaustrofobiske. Den eneste redningen er kjærligheten til «den andre» – en venn, en elsket person. 
 
   p I 1966 kom diktsamlingen HEKT. Mange av diktene har et konkret og hverdagslig motiv, de er knappe, språket er talemålsnært, og forfatteren er bevisst diktets grafiske oppsetning. I Blikket (1966) er eksperimenteringen med den grafiske oppsetningen av diktene gjort til en hovedsak. 
@@ -16,6 +26,10 @@ PageBook
   h3 Mor Godhjertas glade versjon. Ja 
   p
     strong «trikkeskinnene, de binder ikke byen fast» 
+
+  figure.col.col6.right-image.mt5
+    img(src='./vold_Portrett2.jpg' alt='')
+    figcaption Dikteren Jan Erik Vold og Briskebytrikken i 1975. Foto: Stig Næss / VG / Scanpix    
 
   p Med Mor Godhjertas glade versjon. Ja (1968) fikk Jan Erik Vold en større gruppe lesere enn de fleste poeter kan drømme om. Med over 20 000 solgte bøker har samlingen truffet et stort publikum. Det er også her mange av de mest kjente diktene til Vold står, for eksempel «Trikkeskinnediktet», «Funny», «Tale for loffen» og «Bildet stanser på Barkåkerdiktet». Diktene er preget av lekenhet, overskudd og åpenhet. 
 
@@ -77,6 +91,11 @@ PageBook
   p Ved flere anledninger har Vold uttrykt at diktsamlingen i stor grad handler om faren hans, som døde året før diktsamlingen kom ut. Er dette en glad versjon, ment for trøst? En versjon som viser at livet er mangfoldig og rikt? Uansett – underforstått sier tittelen noe om at det finnes en annen versjon også, men dette er altså den glade versjonen.  
   
   h3 Døden, kjærligheten og pengemakta 
+
+  figure.col.col12
+    img(src='./vold_Portrett3.jpg' alt='')
+    figcaption Jan Erik Vold med diktsamlingen «Tolv meditasjoner». Foto: Bjørn Aslaksen / VG / Scanpix
+    
   p På 80-tallet framstår Vold som en mer «moden» forfatter, opptatt av sentrallyriske emner som kjærlighet, forgjengelighet, sorg og savn. Sorgen. Sangen. Veien (1987) inneholder også politiske dikt. Vold er kritisk til pengemakt, maktpersoner og autoritære regimer. I Elg (1989), som er en samling med tidligere skrevne tekster utgitt på plate eller trykket i aviser, ser man mer av den politisk og sosialt engasjerte Vold. Her skriver han om politivold, hushaier og Oslo byråd. 
 
   p Den mer samfunnsengasjerte dikteren ser vi mer av på 90-tallet. IKKE. Skillingstrykk fra nittitallet (1993) og Kalenderdikt (1995) inneholder mange politiske og samtidssatiriske dikt. En sirkel is (1994) er tekster Jan Erik Vold skrev til Norges Skøyteforbunds hundreårsjubileum i 1993, som i utvidet versjon er utgitt som en lyrikksamling. I han siste diktsamlinger, Tolv meditasjoner (2002), Drømmemakeren sa (2004) og Diktet minner om verden (2005) finner en både politiske dikt, eksistensielle dikt og dikt om vår konkrete og nære hverdag og virkelighet. 
@@ -91,6 +110,10 @@ PageBook
   h3 Nyenkelhet og tingenes tale
   p Da Vold i 1968 ga ut Mor Godhjertas glade versjon. Ja var han en del av den såkalte Profil-kretsen. Profil var et litteraturtidsskrift som ble utgitt av ei gruppe samfunnskritiske og radikale forfattere og studenter ved Universitetet i Oslo fra midten av 1960-tallet. Sammen med andre Profil-forfattere som Dag Solstad (1941– ), Espen Haavardsholm (1945– ), Liv Køltzow (1945– ) og Einar Økland (1940– ) var Vold med på å fornye synet på hvordan litteratur skulle skrives og hva den skal handle om. 
 
+  figure.col.col12
+    img(src='./vold_NRK1.jpg' alt='')
+    figcaption Profil-forfatterne i tv-studio. Du kan lære mer om Jan Erik Vold og denne tida på NRK Skole.
+
   p Felles for Vold og de andre lyrikerne i Profil-kretsen var deres opposisjon mot den tradisjonelle etterkrigsmodernismen. De mente den var for innadvent og alvorlig, og tynget av komplekse symboler og metaforer. Lyrikk skal ikke være for «eliten», hevdet de, men for folk flest. Og dikteren er ikke et visjonært geni, men et menneske som er engasjert i det samfunnet han eller hun er en del av. 
 
   p Vold og de andre Profil-forfatterne ønsket seg, og lanserte, en ny form for modernisme – Profil-modernismen eller nyenkel diktning. Formmessig var de inspirert av blant annet haikudiktenes stramme og ordknappe form. I tema og motiv var de påvirket av eksistensialismen. Grunntanken om at det vi har, er livet her og nå, uten forsikringer om et evig liv i det hinsidige, skapte dikt med hverdagslige og konkrete motiv. Språklig lot de seg inspirere av hverdagsspråk, muntlig sjargong, poptekster og reklamespråk.
@@ -101,10 +124,17 @@ PageBook
   p Vold er kritisk til den tradisjonelle jeg-dyrkingen i lyrikken. Han har selv sagt at han mener lyrikere bør interessere seg mer for tingene rundt seg enn for sorgen inni seg. Jeg-et er likevel tydelig til stede til Vold, men da som observatør av tilsynelatende ganske trivielle motiver i omgivelsene. 
   
   h3 Konkret poesi eller figurdikt 
+
+  img.col.col6.right-image.mt5(src='./vold_Figurdikt1.jpg' alt='')
+  
   p Konkret poesi eller figurdikt er en retning innenfor lyrikken som kom til Norge med Profil-forfatterne. Her er diktets typografiske kvaliteter like sentrale som ordenes mening – ja, typografien er meningsbærende for diktet. Et eksempel er Volds diktsamling Mellom speil og speil (1965). Her finner man et dikt som grafisk speiler seg i seg selv, og et som er satt opp som et yin og yang-symbol. I begge diktene er formen meningsbærende, formen har betydning for tematikken i diktet. 
   
   h3 Jazz & poetry 
   p I den nyenkle lyrikken ligger vekten i mindre grad på de språklige bildene, og i større grad på diktets klanglige og formelle sider. Vold leker med lyder og ordklanger, og vektleggingen av diktets rytme, klang og musikalitet har ført til at mange av Volds dikt egner seg godt til muntlig framføring. 
+
+  figure.col.col12
+    img(src='./vold_Jazz_and_poetry.jpg' alt='')
+    figcaption På Notodden Blues Festival med musikeren Kåre Virud. Foto: Alf Øystein Støtvig / VG / Scanpix
 
   p Forfatteren er selv en fremragende formidler av egen, og andres, lyrikk gjennom opplesninger eller framføring av dikt akkompagnert av musikk. Han har blant annet samarbeidet med saksofonisten Jan Garbarek (1947– ). Med dette samarbeidet innførte han sjangeren jazz & poetry – jazz og poesi – i Norge. Briskeby blues (1969) og ingentings bjeller (1977) er kritikerroste album der Vold samarbeider med nettopp Garbarek. Vold har også samarbeidet med trompetisten Chet Baker (1929–1988) og pianisten Egil Kapstad (1940–2017). 
 

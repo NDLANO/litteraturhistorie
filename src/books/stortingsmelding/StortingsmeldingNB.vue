@@ -5,6 +5,10 @@ PageBook(:showAuthor="false")
 
   p I Norge er det Språkrådet som er normerende organ for både bokmål og nynorsk. I Frankrike har Det franske akademi ansvaret for å redigere den offisielle ordboka over det franske språket. En tilsvarende offisiell normering av engelsk finnes ikke. Her er det i stedet Oxford English Dictionary (britisk engelsk) og Webster’s Dictionary (amerikansk engelsk) som regnes som rettesnorer. 
 
+  figure.col.col12
+   img(src='./Stortingsmelding_Skriftspraaknormering.jpg' alt='')
+   figcaption I Norge er det vanlig at folk snakker dialekt, vi trenger ikke å legge om til et normert talemål for å forstå hverandre. Men når de unge begynner å uttale ord annerledes enn tidligere, reagerer de voksne: «Det heter ikke sjærste, men kjæreste», sier lærer Anne Lise Kaarbø i klasse 9B på Kjelsås skole i Oslo. Tonje er en av de få i klassen som bruker kj-lyden. Foto: Rune Petter Ness / NTB / Scanpix
+
   p I engelsk og en del andre språk er det stor forskjell på talemål og skriftspråk. Det skyldes at disse skriftspråkene sjelden eller aldri er blitt normert. Det norske skriftspråket har derimot gjennomgått mange normeringer på vel hundre år. Dagens bokmål og nynorsk ligger derfor nokså langt unna dansk-norsken og landsmålet som folk skrev for hundre år siden. 
 
   h3 Normgrunnlag og normeringsprinsipp 
@@ -20,6 +24,10 @@ PageBook(:showAuthor="false")
   h5 Etymologi 
   p Det finnes flere prinsipper enn ortofoni som vi kan ta hensyn til. Ett av dem er etymologiprinsippet, det vil si at ordformen avspeiler hvordan ordet ble uttalt en gang i fortida. For eksempel har enkelte stedsnavn i dag en historisk skrivemåte som avviker fra den uttalen som er blitt vanlig. 
 
+  figure.col.col12
+   img(src='./Stortingsmelding_Normgrunnlag_og_normeringsprinsipp.jpg' alt='')
+   figcaption De som bor på tettstedet Stiklestad, uttaler i dag navnet omtrent som «Steksta». Skrivemåten tar derimot hensyn til etymologiprinsippet og avspeiler det historiske opphavet til navnet.
+
   h5 Andre prinsipper 
   p Også nasjonalisme kan styre normeringen. De fleste som var med i språkdebatten i 1830-årene, ønsket seg et skriftspråk som var genuint norsk, selv om de kunne være uenige om hvordan dette norske språket skulle skapes. 
 
@@ -28,6 +36,11 @@ PageBook(:showAuthor="false")
   p Ellers kan vi for eksempel ta hensyn til hvilke former flertallet bruker, vi kan velge de formene som har høyest sosial prestisje, vi kan gå inn for forenkling for å skape et logisk system, eller vi kan fremme valgfrihet. Ofte kan flere prinsipper være like aktuelle, slik at vi må prioritere ett av dem. 
 
   h3 Tilnærming mellom riksmål og landsmål 
+
+  figure.col.col4.left-image.mt5
+   img(src='./Stortingsmelding_Arne_Garborg.jpg' alt='')
+   figcaption Forfatteren Arne Garborg (1851–1924) brukte betegnelsen samnorsk så tidlig som i 1877.
+
   p Språkpolitikken i første halvdel av 1900-tallet hadde som overordnet mål å få landsmålet og riksmålet til å nærme seg hverandre. Håpet var at de to målformene på sikt kunne smelte sammen til et felles norsk skriftspråk, et samnorsk. 
 
   p Men en skjønte også at denne prosessen ville ta tid. En av grunnene var at språkdebatten vakte så sterke følelser. Både de som gikk inn for en tilnærming mellom målformene, og de som var imot, oppfattet nemlig skriftspråket sitt som en viktig del av identiteten. 
@@ -40,9 +53,21 @@ PageBook(:showAuthor="false")
   p Heller ikke alle i landsmålsleiren ønsket å gi større rom for de østlandske dialektene, mange ville holde fast ved de tradisjonelle formene. 
 
   h5 Arbeiderpartiet 
+
+  figure.col.col5.right-image.mt20
+   img(src='./Stortingsmelding_Halvdan_Koht.jpg' alt='')
+   figcaption Halvdan Koht (1873– 1965) var en sentral aktør i norsk språkpolitikk. Han var nestformann i Østlandsk reisning, en organisasjon som arbeidet for at talemålet på Østlandet skulle få bredere plass i skriftmålene. Dessuten var han formann i Noregs Mållag i perioden 1921–1925 og medlem i nemnda som laget forslaget til 1938-reformen Foto Sverre A. Børretzen / Aktuell / Scanpix
+
   p Mange av de tradisjonelle velgerne til Arbeiderpartiet følte seg ikke hjemme verken i riksmål eller landsmål. Men Arbeiderpartiet prøvde lenge å unngå å ta stilling i språkstriden. Først i 1920-årene kom språkspørsmålet på dagsordenen også her. 
 
   p En viktig pådriver i den interne debatten var professor Halvdan Koht. Han mente at en måtte arbeide for et framtidig felles skriftspråk. Dette skriftspråket måtte bygge på folkemålet i hele landet. Koht fikk gjennomslag for synet sitt, og i 1936 gikk et flertall på Ap-landsmøtet inn for at skriftnormene skulle gi «bredere plass til folkemålet». 
+
+  .clear
+
+  .flex.flex-justify-center
+    figure.col.col10
+      img(src='./Stortingsmelding_Skolestart_i_Oslo.jpg' alt='')
+      figcaption Oslo ca. 1935: Skolestart på en skole i Oslo. Første skoledag. Barn følges til skolen av mødrene, som er stilig kledd med kåper og hatter. Foto: NTB / Scanpix
 
   h5 Ny reform 
   p I 1934 vedtok stortingsflertallet å nedsette ei nemnd med todelt mandat. Nemnda skulle for det første komme med forslag om endringer i rettskriving, ordformer og bøyningsformer som kunne føre de to målformene nærmere sammen. For det andre skulle nemnda prøve å redusere antall dobbeltformer i begge skriftspråk. 
@@ -64,6 +89,11 @@ PageBook(:showAuthor="false")
   p Fra 1938 fikk om lag 900 hunkjønnsord obligatorisk a-ending i bokmål, særlig ord fra plante- og dyrelivet og fra arbeidslivet: bjørka, høna, nåla, øksa osv. Former som bjerken, hønen, nålen og øksen forsvant ut av skriftnormalen. Også diftong ble påbudt i en rekke ord, for eksempel i stein, røyk, eik, geit, øy. Dermed kunne en ikke lenger skrive sten, røk, ek, gjet, ø. 
   
   h3 Utviklingen i nynorsk 
+
+  figure.col.col5.right-image.mt5
+   img(src='./Stortingsmelding_Utviklingen_i_nynorsk.jpg' alt='')
+   figcaption Ver gild ikkje røyk her. Foto: Bjørn E. Larsen / VG / Scanpix
+
   p I motsetning til riksmålet bygde landsmålet fra starten av på norsk talemål i deler av landet. Men for dem som bodde på det sentrale Østlandet og snakket ulike byog bygdedialekter, var heller ikke landsmålet et skriftspråk de følte seg hjemme i. 
   
   h5 1910
@@ -80,6 +110,11 @@ PageBook(:showAuthor="false")
   p Mange nynorskfolk var til å begynne med sterkt misfornøyd med den nye rettskrivingen fordi de tradisjonelle bøyningsformene nå var fjernet. Men motstanden la seg etter hvert. 
   
   h5 Antallet dobbeltformer
+
+  figure.col.col6.right-image.mt20
+   img(src='./Stortingsmelding_Skrivemaskin.jpg' alt='')
+   figcaption Oslo ca. 1935: Moderne skrivemaskin fotografert i NTB. Foto: NTB / Scanpix
+
   p Nemnda lyktes ikke i å få ned mengden av dobbeltformer, snarere tvert imot. Men det var i grunnen umulig å fjerne dobbeltformene om en fortsatt ville ha en gradvis og smidig tilnærming mellom målformene, og i tillegg gi rom for østlandske former. 
 
   p Etter 1938-reformen fantes det ennå mange sidestilte former, for eksempel melk og mjølk (i bokmål). I tillegg kom det enda en type dobbeltformer, der den ene formen var hovedform og skulle brukes i lærebøker og i statstjenesten, mens den andre var sideform (klammeform) og kunne brukes av elever og privatpersoner: hva [ka] i bokmål, gjekk [gikk] i nynorsk. 
@@ -93,6 +128,11 @@ PageBook(:showAuthor="false")
 
   
   h3 Bokbål og samnorskdyret
+
+  figure.col.col6.right-image.mt5
+   img(src='./Stortingsmelding_Samnorskdyret.jpg' alt='')
+   figcaption Latterleggjering var eitt av verkemidla til riksmålsrørsla i kampen mot den nye bokmålsnormalen. Karikaturteikninga med «samnorskdyret» utan hovud skulle vise kva slags resultat ein fekk om ein prøvde å manipulere den «naturlege» språkutviklinga
+   
   p Etter krigen kom Riksmålsforbundet raskt på banen igjen, med dikteren Arnulf Øverland som leder. Riksmålsforbundet var godt organisert og hadde sterke støttespillere, blant annet de store konservative avisene Morgenbladet og Aftenposten. 
 
   p Det var først og fremst de folkelige formene i bokmålet Øverland og tilhengerne hans ville til livs. De argumenterte blant annet med at språket måtte få utvikle seg fritt og uten statlig innblanding, og at en måtte ta vare på en lang skrifttradisjon. 
@@ -102,12 +142,21 @@ PageBook(:showAuthor="false")
   h5 Kampen om lærebokspråket 
   p Kampen gjaldt i første omgang språket i lærebøkene. I Oslo startet en foreldreaksjoner med organisert retting av språket i lærebøkene, det ble satt i gang underskriftslister, opprop og demonstrasjoner. I 1954 gav Oslo skolestyre etter for presset, og de moderate bokmålsformene kom på nytt inn i lærebøkene. Alt i 1952 utgav Riksmålsforbundet i tillegg sin egen ordliste, og Morgenbladet og Aftenposten gikk raskt over til å bruke den. Språknormen i denne lista ble kalt riksmål, til forskjell fra bokmålet. 
 
+  figure.col.col6.right-image.mt5
+   img(src='./Stortingsmelding_Foreldreaksjonen.jpg' alt='')
+   figcaption Foreldreaksjonen mot samnorsk foran Stortinget i Oslo i 1951. Foto: NTB / Scanpix
+   
   p Øverland og de andre riksmålstilhengerne brukte begrepet samnorsk om den radikale bokmålsvarianten. Et begrep som før hadde gitt uttrykk for et optimistisk framtidshåp, ble nå et belastet uttrykk. Kampen var intens, og de fleste midler ble tatt i bruk, ikke minst konsekvent latterliggjøring. Det fantes tilfeller der riksmålstilhengere laget bokbål av bøker med radikal språkdrakt, og mange riksmålsfolk var også svært aktive i kampen for å få stemt ut nynorsk når skolekretsene skulle avgjøre opplæringsmålet. 
 
   p Harseleringen var så kraftig og gikk så langt at Arbeiderpartiet, som i hele mellomkrigstida hadde vært positiv til samnorsktanken, fant det klokest å tone ned språkspørsmålet. Dermed fikk riksmålsleiren dominere arenaen nesten aleine. 
   
   h3 Nynorsken etter andre verdenskrig 
   p Fram til 1940 økte tallet på nynorskbrukere jevnt, og mot slutten av andre verdenskrig hadde hver tredje elev i Norge nynorsk som hovedmål. NRK hadde gjort nynorsk til en del av hverdagen for radiolytterne, mye av reklamen i avisene var på nynorsk, og «Smørbukk» var en typisk nynorsk tegneserie. 
+
+  .flex.flex-justify-center
+    figure.col.col10
+      img(src='./Stortingsmelding_Etter_andre_verdenskrig.jpg' alt='')
+      figcaption Formann i Norsk Lytterforening Alf Nielsen tel opp røystesetlar mot for mykje nynorsk i NRK i 1978. Foto: Oddvar Walle Jensen / NTB / Scanpix
 
   p Etter andre verdenskrig gikk tallet på nynorskbrukere nedover. Det tok blant annet mye lengre tid for Noregs Mållag enn for Riksmålsforbundet å komme i gang igjen med arbeidet etter krigen. Krigen førte òg til at nynorskfolket mistet et viktig argument, det nasjonale. Det nyttet ikke lenger å argumentere med at nynorsken var mer norsk enn bokmål. Nasjonal innstilling hadde vist seg gjennom å legge for dagen den rette holdningen overfor tyskere og NS, slik blant annet riksmålsforkjemperen Øverland hadde gjort. 
   
@@ -146,5 +195,4 @@ export default {
 };
 </script>
 
-<style lang="scss" scoped></style>  
-  
+<style lang="scss" scoped></style>
