@@ -28,6 +28,13 @@ PagePeriod(
   h5 Attende til naturen
   p
     | Allereie midt på 1700-talet hevdar den franske filosofen Rousseau (1712–1778) at sivilisasjonen øydelegg menneska. Verken vitskap eller kunst har klart å skape eit betre samfunn. Vi må attende til naturen. Tankane hans er først omstridde, men dei får gjennomslag etter kvart. Frå slutten av 1700-talet får vi ein motreaksjon mot opplysningstidas fornuftstru, og mot det klassisistiske, regelstyrte stilidealet.
+
+  NdlaAudio(
+    source="media/periods/romantikk/romantikken_rocketekster_Morten_Moi_nrk_lesekunst.mp3"
+    description="Forlagsredaktør Morten Moi har arbeidd med samanhengen mellom romantisk dikting og rockemusikk. Begge byggjer på opprør, på folkeleg veremåte (”romance” tyder folkeleg) og på bruk av sterke metaforar. Forfattarar som Goethe og Wergeland hadde i sine unge dagar status som ikoniske figurar i samtida si, ikkje ulikt popstjernene i dag."
+  )    
+
+  .mt40
   h5 Ein ny tenkjemåte
   p
     | Ved inngangen til 1800-talet er det fleire filosofar og diktarar som tek til å interessere seg for dei sidene ved tilværet som ikkje lèt seg forklare ved fornuft. Den tyske filosofen Immanuel Kant (1724-1804) seier mellom anna at sansane og fornufta er skrøpelege rettleiarar gjennom livet. Det er litt andre tankar enn dei vi finn hos rasjonalistane, som har klokkartru på fornufta og på opplysning som vegen til eit betre og meir rettferdig samfunn.
@@ -104,9 +111,15 @@ PagePeriod(
   p
     | Eit stev er eit kort dikt som kan syngjast. Stevet formidlar gjerne ein livsvisdom eller ei stemning, men det kan òg skildre kjærleik, natur eller ei spesiell hending. Somme stev har humoristisk eller erotisk innhald. 
 
+  NdlaAudio(
+    source="media/periods/romantikk/03_gammelstev.mp3"
+  )
+
+  .mt20
   figure.col.col6.left-image.mt10
     img(src="./Romantikk_Litteraturen3.jpg" alt="Familieportrett av fem personar. Foto.")    
     figcaption H.C. Andersen fortel eventyr
+
   h5 Kunsteventyret
   p
     | Kunsteventyret, som er ei blanding av folkeeventyr og novelle, er også eit produkt av romantikken. Den store meisteren innanfor denne sjangeren er Hans Christian Andersen (1805–1875). Sjå meir om H.C. Andersen ein annan stad i Tidslinja.
@@ -138,6 +151,12 @@ PagePeriod(
     img(src="./Romantikk_Litt_om_spraaket1.jpg" alt="Universitetsplassen med park i forgrunnen. Foto. ")
     figcaption Det kongelige Frederiks Universitet fotografert på slutten av 1800-talet av Axel Lindahl
 
+  NdlaAudio(
+    source="media/periods/romantikk/tekst12_wergeland_sprogreformasjon.mp3"
+    description="Henrik Wergeland: «Om norsk Sprogreformation» (1832)."
+  )
+
+  .mt40
   h5 Eit norsk universitet
   p
     | Unionsoppløysinga og opninga av Det Kongelige Frederiks Universitet (1811) aktualiserer spørsmålet om eit norsk skriftspråk. Ludvig Holberg og Nordahl Brun sine tankar om eit norsk akademi får endeleg gjennomslag. (Sjå artikkel om opplysningstida og Norske Selskab.) Endeleg kan norsk ungdom ta høgare utdanning i sitt eige land.

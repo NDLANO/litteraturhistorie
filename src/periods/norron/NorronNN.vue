@@ -72,6 +72,10 @@ PagePeriod(
   p
     | Tor er son til Odin. Han er den sterkaste av æsene og bruker hammaren Mjolne når han skal utføre bragdene sine. Når Tor køyrer over himmelen med bukkane sine framfor vogna, slår det gneistar under hjula. Da er det torevêr.  
 
+  NdlaAudio(
+    source="media/periods/norron/Tor_og_bukkane.mp3"
+    )
+
   h5 Vaktmannen  
   p
     | Heimdall er vaktmann for gudane. Han skal varsle om ragnarok ved å blåse i hornet Gjallarhorn. Ragnarok er verdas undergang.  
@@ -148,6 +152,11 @@ PagePeriod(
       li Skaldekvada er for det meste brukslyrikk: Dikta skal kaste glans over ein oppdragsgivar eller over ein død person, men dei kan òg kommentere ei aktuell hending eller ein heltedåd.  
       li Mange av skaldekvada er signerte – i motsetning til eddadikta, som ikkje har namngitte forfattarar. 
 
+  NdlaAudio(
+    source="media/periods/norron/skaldekvad_norron_litteratur.mp3"
+    description="Om skaldekvad"
+    )
+
 
 
   h3 Den yngre Edda  
@@ -199,6 +208,10 @@ PagePeriod(
     li På 1200-talet er kongemakta stor i Noreg, og kong Håkon Håkonsson er interessert i europeisk litteratur. Han får omsett ein del franske og engelske forteljingar til norrønt. Eit eksempel på ei slik forteljing er ”Tristram og Isond”, som handlar om forboden og tragisk kjærleik.  
     li Håkon Håkonsson får òg omsett Strengleikar, ei samling kjærleiksnoveller med erotisk innhald.  
     li Kongsspegelen er ei lærebok i høvisk framferd som er nedskriven rundt 1250. Boka er truleg skriven for sønene til Håkon Håkonsson.  
+
+  NdlaAudio(
+    source="media/periods/norron/riddervise_bendikt_og Aarolija_nrk.mp3"
+    )
 
   h3 Litt om språket 
 

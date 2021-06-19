@@ -93,9 +93,24 @@ PagePeriod(
   p
     | Niels Klims underjordiske reise er en sciencefictionroman – på latin! Reisen ender i ideallandet Potu (Utopia), der adelen er ryddet av veien, og bøndene er de mest fornemme. På den måten lanserer Holberg en kamuflert samfunnskritikk.
 
+  NdlaAudio(
+    source="media/periods/opplysning/Holberg_Erasmus_Montanus_nrk_lesekunst.mp3"
+    description="Erasmus Montanus"
+    )
+
+  NdlaAudio(
+    source="media/periods/opplysning/Jeppe_på_Bjerget_med_Hauk_Aabel.mp3"
+    description="Jeppe på Bjerget"
+  )
+
   figure
     img(src="./Opplysningstid_Litteraturen2.jpg" alt="Herskapelige mennesker samla rundt noen bord. Maleri.")
     figcaption Norske selskap
+
+  NdlaAudio(
+    source="media/periods/opplysning/Norges_skaal.mp3"
+    description="Norske selskap"
+  )
 
   h5 Norsk studentmiljø i København
   p
@@ -129,6 +144,9 @@ PagePeriod(
   p Eksempel på kansellistil:  
     br 
     a(href="media/periods/opplysning/Egede.jpg" target="_blank") Hans Egede: ”Grønlands Naturell Historie” (1741)
+    NdlaAudio(
+      source="media/periods/opplysning/tekst5_Egede_gronlands_naturelle_historie.mp3"
+    )
 
   h5 Holberg er kritisk
   p
@@ -146,6 +164,9 @@ PagePeriod(
   p Eksempel på språket i opplysningslitteraturen: 
     br
     a(href="media/periods/opplysning/Pontoppidan.jpg" target="_blank") Pontoppidan: «Geografisk Oplysning til Kartet over sydlige Norge» (1785) 
+    NdlaAudio(
+      source="media/periods/opplysning/tekst6_Pontoppidan_Geografisk_beskivelse.mp3"
+    )
 
   h3 Andre kunstformer
 

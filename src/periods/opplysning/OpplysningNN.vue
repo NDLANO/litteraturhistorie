@@ -94,9 +94,24 @@ PagePeriod(
   p
     | Niels Klims underjordiske reise er ein sciencefictionroman – på latin! Reisa endar i ideallandet Potu (Utopia), der adelen er rydda av vegen, og bøndene er dei mest fornemme. På den måten lanserer Holberg ein kamuflert samfunnskritikk.
 
+  NdlaAudio(
+    source="media/periods/opplysning/Holberg_Erasmus_Montanus_nrk_lesekunst.mp3"
+    description="Erasmus Montanus"
+    )
+
+  NdlaAudio(
+    source="media/periods/opplysning/Jeppe_på_Bjerget_med_Hauk_Aabel.mp3"
+    description="Jeppe på Bjerget"
+  )
+
   figure
     img(src="./Opplysningstid_Litteraturen2.jpg" alt="Herskapelege menneske samla rundt noen bord. Måleri.")
     figcaption Norske selskap
+
+  NdlaAudio(
+    source="media/periods/opplysning/Norges_skaal.mp3"
+    description="Norske selskap"
+  )
 
   h5 Norsk studentmiljø i København
   p
@@ -127,9 +142,12 @@ PagePeriod(
   p
     | Det tysk-latinske stilmønsteret er eit ideal. Dette er ei uttrykksform med lange ytringar, mange leddsetningar og innskot. Skrivemåten har seinare fått nemninga kansellistil.
 
-  p Eksempel på kansellistil:  
+  p Eksempel på kansellistil:
     br 
     a(href="media/periods/opplysning/Egede.jpg" target="_blank") Hans Egede: ”Grønlands Naturell Historie” (1741)
+    NdlaAudio(
+      source="media/periods/opplysning/tekst5_Egede_gronlands_naturelle_historie.mp3"
+    )
 
   h5 Holberg er kritisk
   p
@@ -147,6 +165,9 @@ PagePeriod(
   p Eksempel på språket i opplysningslitteraturen: 
     br
     a(href="media/periods/opplysning/Pontoppidan.jpg" target="_blank") Pontoppidan: «Geografisk Oplysning til Kartet over sydlige Norge» (1785) 
+    NdlaAudio(
+      source="media/periods/opplysning/tekst6_Pontoppidan_Geografisk_beskivelse.mp3"
+    )
 
 
   .clear 

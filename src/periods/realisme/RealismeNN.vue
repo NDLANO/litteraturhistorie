@@ -114,6 +114,10 @@ PagePeriod(
 
   p Tida mellom 1850 og 1870 var ikkje berre ei tid prega av endringar i samfunnet. Også i litteraturen skjedde det endringar. Trass i at den romantiske diktinga vart halden i live av forfattarar som enno var produktive, kom det til nye. Og det er den nye, realistiske skrivemåten som kom til å dominere meir og meir. Perioden 1850–1870, overgangen frå romantikk til realisme, kan vi derfor kalle poetisk realisme eller romantisk realisme. 
 
+  NdlaAudio(
+    source="media/periods/realisme/poetisk_realisme_nrk_Kritisk_sosialrealisme.mp3"
+  )
+
   p Av aktive forfattarar i 1850- og 1860-åra nemner vi Aasmund Olavsson Vinje, Camilla Collett, Henrik Ibsen og Bjørnstjerne Bjørnson. 
 
   img.col.col4.left-image(src="./Realisme_Fra_romantikk_til_realisme3.jpg" alt="Portrettbilete av mann med skjegg. Foto.")
@@ -155,7 +159,15 @@ PagePeriod(
 
   p Å setje problem under debatt vart eit slagord for dei realistiske forfattarane. No kom det tekstar som tematiserte og problematiserte livet til den moderne mannen og kvinna. 
 
+  .clear
+  .mt40
   h5 Kritisk realisme 
+
+  NdlaAudio(
+    source="media/periods/realisme/poetisk_realisme_nrk_Kritisk_sosialrealisme.mp3"
+  )
+
+
   p Realistane la stor vekt på emnevalet, og i motsetning til romantikarane sette dei søkjelyset på samfunnet og problema der. Realistane ville noko bestemt med diktinga si, dei ville reformere, avsløre og vere kritiske. Epoken har derfor fått namnet kritisk realisme. Nokre av dei viktigaste emna var religion og kyrkje, samliv og ekteskap – med særleg fokus på kvinnas stilling –, pliktmoral og hykleri, oppseding i skule og heim og dårleg forretningsmoral. 
 
   p Vi kan seie at realistisk dikting skildrar menneska og samfunnstilhøva slik dei er i samtida, og formålet med diktinga er å endre noko. Derfor var det viktig å vere sannferdig når ein skreiv, og dramaet og romanen var dei sjangrane som høvde best til å få fram denne sanninga. Da fekk ein tid og rom til å utdjupe og drøfte problema. 
@@ -176,6 +188,13 @@ PagePeriod(
     img(src="./Realisme_Det_moderne_gjennombruddet2.jpg" alt="Tre ulike bilete av tre poserande kvinner ved arbeidsplassane sine. Foto.")
 
   p Utover i 1880-åra får skodespela til Ibsen ein annan karakter. No tematiserer han meir korleis individet opplever å leve med moderniteten. Dei radikale endringane i samfunnet har også skapt problem. Med desse tekstane peiker Ibsen fram mot den modernismen som kjem til Noreg i slutten av hundreåret. 
+
+  NdlaAudio(
+    source="media/periods/realisme/borgerskapet_nrk_Kritisk_sosialrealisme.mp3"
+    description="Borgarskapet i 1880-åra"
+  )
+
+
 
   .flex.flex-wrap
     .col.col4.mt1rem
@@ -202,6 +221,13 @@ PagePeriod(
     | er den fjerde av dei kritiske realistane. Han er òg påverka av Brandes, men er ikkje så skarp i pennen som dei tre andre. Lie er romanforfattar, og hovudverket hans er Familjen på Gilje (1883), ei skildring av ein embetsmannsfamilie i eit norsk bygdemiljø. Her set han mellom anna søkjelyset på likestillingsspørsmålet og på manglande rettar for kvinner. I Livsslaven (også 1883) viser han korleis fattigdom kan drepe det gode som bur i menneska – eigentleg eit typisk naturalistisk tema. Kommandørens Døttre (1886) har noko av den same tematikken som Familjen på Gilje. Jonas Lie viser ikkje same kritiske røysta som dei tre andre, men han er ein populær og mykje lesen forfattar i samtida. 
 
   h3 Naturalismen
+
+  NdlaAudio(
+    source="media/periods/realisme/Naturalismen.mp3"
+  )
+
+  .mt40
+
 
   img(src="./Realisme_Naturalismen1.jpg" alt="Bekymra kvinne med ein politimann, omringa av ei forsamling i eit trangt rom. Måleri.")
   p I 1880-åra levde realistisk og naturalistisk dikting side om side. Naturalistisk dikting er ei vidareføring av den realistiske, men hos naturalistane er målet å trengje djupare ned i problema og vise samanhengen mellom samfunnstilhøva og liva til enkeltmenneska. 

@@ -154,6 +154,9 @@ PagePeriod(
     figcaption Tittelbladet på bibelen til Kristian 3. frå 1550
       br
       a(href="media/periods/barokk/Bibel1550.jpg" target="_blank") Sjå ark fra bibelen
+      NdlaAudio(
+        source="media/periods/barokk/tekst2_Christian_III_bibel_juleevangeliet.mp3"
+      )
 
   h5 Bibelen på dansk 
   p

@@ -20,20 +20,30 @@ PagePeriod(
    | Mellomaldersamfunnet er delt opp i klart åtskilte lag eller stender: Øvst står presteskapet (dei som ber), så kjem adelen (dei som slåst) og til sist folket (dei som arbeider). Standen avgjer rang, rettar og plikter. Eigedom og stand går i arv, og det er ikkje lett å komme seg opp og fram i samfunnet, enda om ein gjerne vil.
 
   h5 Presteskapet og adelen har stor makt 
-  p
-   | Det er store skilnader mellom fattige og rike. Rikdom er det same som å eige jord, og jordeigarane er få og mektige. I mange land er det adelen og kyrkja som eig det meste av jorda. I tillegg har presteskapet og adelen fleire særrettar.   
-
-  h5 Frå stormakt til katastrofe 
   figure.col.col6.right-image
     img(src="./Humanisme_Tida-og-samfunnsforholdene2.jpg" alt="Eit stirrande gjenferd kryp opp ei tretrapp. Illustrasjon.")
     figcaption ”Pesten i trappa”. Teikning av Theodor Kittelsen  
   p
+   | Det er store skilnader mellom fattige og rike. Rikdom er det same som å eige jord, og jordeigarane er få og mektige. I mange land er det adelen og kyrkja som eig det meste av jorda. I tillegg har presteskapet og adelen fleire særrettar.   
+
+  h5 Frå stormakt til katastrofe 
+  p
    | På 1200-talet er Noreg ei stormakt, men 1300-talet blir ei katastrofal nedgangstid for landet. I 1349 kjem svartedauden til landet, og om lag to tredelar av folket stryk med. Det skal gå fleire hundre år før folketalet kjem opp på same nivået som før pesten braut ut. 
 
-  p
-    a(href="media/periods/humanisme/jostedalsrypa.html" target="_blank") Les sagnet om jostedalsrypa
+  .clear 
 
-  h5 Ny blomstringstid sør i Europa 
+  NdlaAudio(
+    source="media/periods/humanisme/jostedalsrypa.mp3"
+    description="Hør sagnet om Jostedalsrypa"
+    )
+    p Da svartedauden gjekk i landet, var det mange av dei gjævaste slektene i Sogn som drog opp i Jostedalen. På den måten ville dei sleppe unna pesten. Der busette dei seg og bygde hus og rydda gardar. Dei hadde gjort den avtalen at folket nede ved fjordane ikkje måtte ta seg fram til dei før pesten var over. Ville nokon skrive til dei, måtte dei leggje breva sine under ein viss stein. Denne steinen har dei sidan kalla Brevsteinen. Under den kunne dei òg hente brev, dei som levde att nede ved sjøen. Steinen ligg tett attmed vegen frå Jostedalen til Luster. 
+
+    p Kor omtenksame og varsame dei enn var, kom svartedauden til Jostedalen også, og der fór pesten så hardt fram at alle strauk med, så nær som ei lita jente. Somme seier at det til nabosokna i Gudbrandsdalen kom sju bølingar med sine bjøllekyr. Ingen kom og lette etter dei, men det var somme som trudde at dei hørte til i Jostedalen. Gjorde dei det, stod det visst gale til der. Nokre folk drog over fjellet og ville finne ut korleis tilstanden var. 
+    p Husa stod tomme, og mange av dei døde var ikkje gravlagde. Folka fór gjennom heile dalen, men dei såg ikkje røyk frå ei einaste sute og fann ikkje eit einaste liv. Da dei kom til Mjelvesdalen, såg dei i nysnøen spor etter menneske. Dei føljde det, og på garden Bjørkahaug såg dei ei lita jente. Med det same ho merkte dei, la ho på sprang inn iu bjørkeskogen; men dei klarte å fange henne. Dei spurde henne om forskjellig, men ikkje skjønte ho dei og ikkje dei henne, så nær som nokre få ord: "Mor, vesle rypa." 
+    p Dei fortel at da mor hennar døydde, sette ho mat igjen på bordet, putta veslejenta i ei seng kledd med fjør og stakk mat nedi der, så ho i alle fall ikkje skulle svelte i hel. Da dei fann henne, var det vakse fjør på henne. 
+    p Mennene tok henne med seg heim, og ho blei ei skikkeleg og bra jente. Somme fortel at ho blei gift og budde på Bjørkahaug, men fleire seier at ho busette seg på Runnøy i enden av Gaupnefjorden, der jostyedølene kjører til sjøs. Dei kalla henne Jostedalsrypa, etter det mor hennar hadde sagt da ho stakk henne ned i fjørsenga. Og slekta hennar kalla dei Rypeslekta; det var gjæve og mektige folk. Denne slekta skulle ha det til merke framfor andre at ho hadde "fuglehold", det vil seie store opne sveittehol i huda etter den duna som hadde begynt å vekse på henne.
+
+  h5.mt20 Ny blomstringstid sør i Europa 
   p
    | Etter svartedauden ligg det meste nede her i landet, men i Italia startar ei ny utvikling. Der blomstrar handelen opp, og kjøpmennene kjem i kontakt med andre land og kulturar. Handelsborgarane i byane blir ei viktig samfunnsgruppe, og jordeigarane mister dermed noko av makta. Med auka handel får også pengeøkonomien etter kvart større plass. 
 

@@ -31,6 +31,13 @@ PagePeriod(
   h5 Tilbake til naturen
   p
     | Allerede på midten av 1700-tallet hevdet den franske filosofen Rousseau (1712–1778) at sivilisasjonen ødelegger menneskene. Verken vitenskap eller kunst har klart å skape et bedre samfunn. Vi må tilbake til naturen. Tankene hans var først omstridt, men etter hvert fikk de gjennomslag. Fra slutten av 1700-tallet får vi en motreaksjon mot opplysningstidas fornuftstro, og mot det klassisistiske, regelstyrte stilidealet.
+
+  NdlaAudio(
+    source="media/periods/romantikk/romantikken_rocketekster_Morten_Moi_nrk_lesekunst.mp3"
+    description="Forlagsredaktør Morten Moi har arbeidet med sammenhengen mellom romantisk diktning og rockemusikk. Begge bygger på opprør, på folkelighet og på bruk av sterke metaforer. Forfattere som Goethe og Wergeland hadde i sine unge dager status som ikoniske figurer i samtida, ikke ulikt popstjernene i dag."
+  )    
+
+  .mt40
   h5 En ny tenkemåte
   p
     | Ved inngangen til 1800-tallet var det flere filosofer og diktere som begynte å interessere seg for de sidene ved tilværelsen som ikke lot seg forklare ved fornuft. Den tyske filosofen Immanuel Kant (1724–1804) sa blant annet at sansene og fornuften var skrøpelige veiledere gjennom livet. Det er litt andre tanker enn dem vi finner hos rasjonalistene, som hadde klokkertro på fornuften og på opplysning som veivisere til et bedre og mer rettferdig samfunn.
@@ -104,6 +111,12 @@ PagePeriod(
   p
     | Et stev er et kort dikt som kan synges. Stevet formidler gjerne en livsvisdom eller en stemning, men det kan også skildre kjærlighet, natur eller en spesiell hending. Flere stev har humoristisk eller erotisk innhold. 
 
+  NdlaAudio(
+    source="media/periods/romantikk/03_gammelstev.mp3"
+  )
+
+  .mt20
+
   figure.col.col6.left-image.mt10
     img(src="./Romantikk_Litteraturen3.jpg" alt="Familieportrett av fem personer. Foto.")    
     figcaption H.C. Andersen forteller eventyr
@@ -138,6 +151,11 @@ PagePeriod(
   figure
     img(src="./Romantikk_Litt_om_spraaket1.jpg" alt="Universitetsplassen i Oslo med park i forgrunnen. Foto. ")
     figcaption Det kongelige Frederiks Universitet fotografert på slutten av 1800-tallet av Axel Lindahl
+
+  NdlaAudio(
+    source="media/periods/romantikk/tekst12_wergeland_sprogreformasjon.mp3"
+    description="Henrik Wergeland: «Om norsk Sprogreformation» (1832)."
+  )
 
   h5 Et norsk universitet
   p
