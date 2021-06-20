@@ -71,7 +71,6 @@ import ButtonAuthor from "@/components/ButtonAuthor";
 
 import MenuIcon from "@/components/ui/MenuIcon";
 import NdlaLogo from "@/components/ui/NdlaLogo";
-import SeparatorAuthor from "@/components/ui/SeparatorAuthor";
 import TimelineSection from "@/components/TimelineSection";
 
 import { readFile } from "@/js/fileTools";
@@ -86,7 +85,6 @@ export default {
     ButtonAuthor,
     MenuIcon,
     NdlaLogo,
-    SeparatorAuthor,
     TimelineSection,
   },
   data() {

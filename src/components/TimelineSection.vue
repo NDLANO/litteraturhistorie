@@ -30,7 +30,8 @@ li.sectionList_item
           :style="getBookStyle(book)"
           @buttonClick="$emit('buttonClick')"
         )
-    SeparatorAuthor(v-if="showAuthorSeparator")
+    SeparatorAuthor_nb(v-if="showAuthorSeparator && globalVars.langCode === 'nb'")
+    SeparatorAuthor_nn(v-if="showAuthorSeparator && globalVars.langCode === 'nn'")
     // * List of authors
     ul.authorsList
       li(v-for="author in periodAuthors" :key="author.id")
@@ -55,7 +56,8 @@ li.sectionList_item
 import ButtonBook from "@/components/ButtonBook";
 import ButtonAuthor from "@/components/ButtonAuthor";
 
-import SeparatorAuthor from "@/components/ui/SeparatorAuthor";
+import SeparatorAuthor_nb from "@/components/ui/SeparatorAuthor_nb";
+import SeparatorAuthor_nn from "@/components/ui/SeparatorAuthor_nn";
 import TimelineTimeslot from "@/components/TimelineTimeslot";
 
 import { books } from "@/js/booksData";
@@ -125,7 +127,8 @@ export default {
   components: {
     ButtonBook,
     ButtonAuthor,
-    SeparatorAuthor,
+    SeparatorAuthor_nb,
+    SeparatorAuthor_nn,
     TimelineTimeslot,
   },
   computed: {
