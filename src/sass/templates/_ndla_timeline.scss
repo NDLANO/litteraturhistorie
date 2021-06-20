@@ -252,30 +252,29 @@ blockquote {
   height: $base-line-height * 1.5;
   border-radius: 4px;
 
-  &:hover{
+  &:hover {
     background: white;
     border-color: $main-color;
     color: $main-color;
-    svg{
+    svg {
       fill: $main-color;
     }
   }
 
-  &_icon{
+  &_icon {
     width: $base-line-height/1.25;
     height: $base-line-height/1.25;
-    svg{
+    svg {
       width: 100%;
       height: auto;
     }
   }
-  &_text{
+  &_text {
     padding-left: $base-line-height/8;
     font-weight: bold;
     font-size: 0.9rem;
   }
 }
-
 
 /// PART ON THE LEFT OF THE TIMELINE > INSTRUCTIONS
 
@@ -387,8 +386,6 @@ blockquote {
   }
 }
 
-
-
 // TIMESLOT
 
 .timeSlot {
@@ -400,7 +397,7 @@ blockquote {
   font-weight: bold;
   align-items: flex-start;
   flex-shrink: 0;
-  &_year{
+  &_year {
     padding: 0.1rem 0 0.5rem 0;
     background: white;
     width: 100%;
@@ -409,7 +406,7 @@ blockquote {
     transform: translateX(-1rem);
     box-shadow: 12px 4px 0px 0px $main-color;
   }
-  &_dot{
+  &_dot {
     position: relative;
     transform: translate(-40%, -40%);
     width: $base-line-height / 2;
@@ -417,7 +414,7 @@ blockquote {
     background: $main-color;
     border-radius: 50%;
   }
-  &_line{
+  &_line {
     position: relative;
     position: absolute;
     width: 2px;
@@ -427,7 +424,6 @@ blockquote {
     overflow: hidden;
   }
 }
-
 
 // SECTIONS/ERAS
 
@@ -440,7 +436,7 @@ blockquote {
   background: $main-color;
   margin-bottom: 1.75rem;
   box-shadow: -6px 0px 6px 0px rgb(0 0 0 / 30%);
-  &_item{
+  &_item {
     padding: 0;
     margin: 0;
     height: 100%;
@@ -452,7 +448,6 @@ blockquote {
     }
   }
 }
-
 
 /// CIRCLE ERA
 
@@ -469,7 +464,7 @@ blockquote {
   width: $base-line-height * 12;
   height: $base-line-height * 12;
   margin: 3rem auto;
-  &_content{
+  &_content {
     display: flex;
     flex-direction: column;
     position: relative;
@@ -481,14 +476,14 @@ blockquote {
     border-radius: $base-line-height / 8;
     max-width: $base-line-height * 10;
   }
-  &_title{
+  &_title {
     margin: 0;
     position: relative;
     top: -$base-line-height / 4;
     line-height: 100%;
     font-size: 1.75rem;
   }
-  &_date{
+  &_date {
     font-weight: bold;
     background: $main-color;
     font-size: 0.9rem;
@@ -510,9 +505,9 @@ blockquote {
   border-radius: $base-line-height * 4;
   padding: ($base-line-height / 4) ($base-line-height / 2)
     ($base-line-height / 3) ($base-line-height / 2);
-  
+
   margin: $base-line-height / 8 0 $base-line-height / 2 0;
-  &:hover{
+  &:hover {
     background: $main-color;
     color: white;
     border-color: $main-color;
@@ -524,18 +519,18 @@ blockquote {
 .bookList {
   border-bottom: 2px dashed white;
   height: $circleEraHeight;
-  
-  li{
+
+  li {
     position: absolute;
 
     &:nth-child(odd) .btnBook {
       box-shadow: 2px 2px 0px 0px $third-color;
-      
+
       &:hover {
         box-shadow: 5px 5px 0px 0px $third-color;
         border-color: $third-color;
       }
-      
+
       &_icon svg {
         fill: $third-color;
       }
@@ -555,24 +550,24 @@ blockquote {
   text-align: left;
   line-height: 100%;
   z-index: 20;
-  &:hover{
+  &:hover {
     box-shadow: 5px 5px 0px 0px $main-color;
     border-color: $main-color;
   }
-  &_infos{
+  &_infos {
     display: flex;
     flex-direction: column;
     flex-shrink: 0;
   }
-  &_title{
+  &_title {
     font-weight: 600;
   }
-  &_author{
-    font-size: 13px;    
+  &_author {
+    font-size: 13px;
   }
-  &_icon{
+  &_icon {
     padding-right: 0.5rem;
-    svg{
+    svg {
       fill: $main-color;
     }
   }
@@ -591,7 +586,7 @@ blockquote {
 .authorsList {
   margin-top: $base-line-height; // * 2;
   height: $authorsHeight;
-  li{
+  li {
     position: relative;
   }
 }
@@ -611,23 +606,21 @@ blockquote {
   box-shadow: 1px 1px 0px 0px $main-color;
   //line-height: initial;
   line-height: 110%;
-  &:hover{
+  &:hover {
     border: 3px solid $main-color;
-    cursor: pointer;    
+    cursor: pointer;
   }
-  &-noDescription{
+  &-noDescription {
     background: $light-grey;
     background: none;
     box-shadow: none;
     pointer-events: none;
   }
-  svg{
+  svg {
     width: $base-line-height/1.75;
     height: $base-line-height/1.75;
   }
-
 }
-
 
 .separatorAuthor {
   width: 9rem;
@@ -903,11 +896,11 @@ blockquote {
   @include breakpoint($large) {
     margin-top: -$base-line-height * 10;
   }
-  .circleEra_content{
+  .circleEra_content {
     max-width: $base-line-height * 15;
   }
-  
-  .circleEra_title{
+
+  .circleEra_title {
     font-size: 2.5rem;
     padding-bottom: $base-line-height/1.5;
   }
@@ -927,42 +920,38 @@ blockquote {
   padding: 0 $base-line-height;
   box-shadow: $shadow-z4;
   z-index: 2100;
-  
+
   @include breakpoint($medium) {
     width: 26rem;
   }
 
-  &_title{
+  &_title {
     font-size: 2.197rem;
     color: $main-color;
     padding-top: $base-line-height;
   }
 
-  &_list{
+  &_list {
     list-style-type: none;
     padding: 0;
-    &_item{
+    &_item {
       margin: 0;
       color: $main-font-color;
       padding: $base-line-height/4 0;
-      a{
+      a {
         font-size: 1.1rem;
         color: $main-font-color;
-        &:hover{
+        &:hover {
           color: $main-color;
         }
       }
-    }   
+    }
   }
 
-  .btn_close{
+  .btn_close {
     padding: $base-line-height/2;
   }
 }
-
-
-
-
 
 .page_period,
 .page_book {
