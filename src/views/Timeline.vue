@@ -97,6 +97,8 @@ export default {
       periods: periods,
       showAuthorModal: false,
       selectedAuthor: null,
+      showBooks: true,
+      showPersons: true,
       prevDragX: null,
       prevDragY: null,
       newDragX: null,
