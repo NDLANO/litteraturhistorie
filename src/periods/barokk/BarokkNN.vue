@@ -1,6 +1,6 @@
 <template lang="pug">
 PagePeriod(
-  :bannerImage="require(`./Barokk_01.jpg`)"
+  :bannerImage="require(`./barokk.jpg`)"
   :circleImage="require(`./sirkel_barokk.png`)"
   )
   // Content here
