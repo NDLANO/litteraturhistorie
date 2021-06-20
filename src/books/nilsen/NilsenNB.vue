@@ -216,6 +216,8 @@ PageBook
   h3 Kamplyrikk
   p Diktene til Rudolf Nilsen har strofeform: Alle avsnittene er bygd opp likt, og de har fast rim og rytme. Et annet typisk trekk er at rimordene ofte har såkalt mannlig utgang – de ender på trykktung staving, som for eksempel i diktet «Revolusjonens røst»: 
 
+  NdlaAudio(source="media/books/nilsen/gi_meg_de_rene_og_ranke.mp4")
+
   blockquote
     | Gi mig de rene og ranke, 
     br

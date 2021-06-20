@@ -276,6 +276,9 @@ PageBook(:showAuthor="false")
 
     //| Beholde lydklipp av diktet
 
+  NdlaAudio(source="media/books/billedbog/Bekken_går_i_engen.mp3")
+
+
   h3 Fortellinger om barndom på 1800-tallet 
 
   blockquote
@@ -310,7 +313,11 @@ PageBook(:showAuthor="false")
 
   figure.col.col6.right-image
    img(src='./Billedbog_Kvensk.jpg' alt='')
-   figcaption Kvensk ABC
+   figcaption 
+    | Kvensk ABC
+    br
+    NdlaAudio(source="media/books/billedbog/kvensk_abc.mp3")
+    
   p De første lærebøkene for barn var uten illustrasjoner. Men etter hvert som barnelitteraturen ble en egen sjanger, endret også skolebøkene seg. Alle norske barn skulle lære seg å lese og skrive. I dette pedagogiske arbeidet var illustrasjonene viktig. 
 
   p I 1850- og 1860-årene åpnet skolelovene for at etniske minoriteter som samer og kvener kunne lære å lese på sitt eget språk. Den første kvenske abc-boka ble utgitt i 1867. Tillatelsen til å la barn fra etniske minoriteter få opplæring på sitt eget morsmål ble opphevet i 1880. Først i 1959 ble det på nytt lov å bruke samisk som undervisningsspråk i skolen. 

@@ -28,6 +28,8 @@ PageBook(:showAuthor="false")
 
   p Gunnlaug blir for eksempel presentert slik: «Så er sagt om Gunnlaug at han vartidlig voksen og stor og sterk, og hadde  lysebrunt hår som falt pent. Han var svartøyd, med litt stygg nese, men hadde et tiltalende ansikt, var midjesmal og herdebrei, uvanlig velvoksen, storlåten i hele sitt huglynne, tidlig framfus, strid og hard i alt, en stor skald, men laget gjerne nidviser og ble kalt Gunnlaug Ormstunge.» 
 
+  NdlaAudio(source="media/books/gunnlaug/Illuges_drøm.mp3")
+
   img.col.col6.mt5.left-image(src="./Gunnlaug_Fortellermåten.jpg")
 
   p Underdrivelse er et viktig virkemiddel: Under London-oppholdet er Gunnlaug i tjeneste for kongen, og en dag kommer han i kamp med en viking som heter Tororm. Det foregår om lag slik: «– Ikke er jeg redd for det sverdet! roper Tororm. Gunnlaug gir han da straks banehogg. Kongen takket han for verket.» 

@@ -29,6 +29,8 @@ PageBook(:showAuthor="false")
 
   p Gunnlaug blir til for eksempel presentert slik: «Så er sagt om Gunnlaug at han var tidleg vaksen og stor og sterk, og hadde lysbrunt hår som fall vent. Han var svartøygd, med litt stygg nase, men hadde eit tiltalande andlet, var midjesmal og herdebrei, uvanleg velvaksen, storlåten i heile sitt huglynde, tidleg framfus, strid og hard i alt, ein stor skald, men laga gjerne nidviser og vart kalla Gunnlaug Ormstunge.»
 
+  NdlaAudio(source="media/books/gunnlaug/Illuges_drøm.mp3")
+
   img.col.col6.mt5.left-image(src="./Gunnlaug_Fortellermåten.jpg")
   
   p Underdriving er eit viktig verkemiddel: Under London-opphaldet er Gunnlaug i teneste for kongen, og ein dag kjem han i kamp med ein viking som heiter Tororm. Det går føre seg om lag slik: «– Ikkje er eg redd for det sverdet! roper Tororm. Gunnlaug hogg han da straks banehogg. Kongen takka han for verket.»
