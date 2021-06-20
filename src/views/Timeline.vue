@@ -127,13 +127,19 @@ export default {
     },
     onNavButtonClick(era) {
       console.log("Timeline.onNavButtonClick: era = ", era);
+
       const eraButton = document.getElementById(era);
       eraButton.scrollIntoView({
         // behavior: "smooth",
         block: "end",
         inline: "center",
       });
+
       this.menuVisible = false;
+
+      this.$nextTick(() => {
+        eraButton.focus();
+      });
     },
     onTimelineSectionClick(event) {
       this.globalVars.timelineScrollLeft = this.$refs.lo_sectionList.scrollLeft;
