@@ -1,5 +1,5 @@
 <template lang="pug">
-PageBook
+PageBook(:showAuthor="false")
 
   h3 Bakgrunn
   img.col.col8.mt5.right-image(src="./Gunnlaug_Bakgrunn.jpg" alt="")

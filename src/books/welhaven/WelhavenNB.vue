@@ -3,7 +3,7 @@ PageBook
   
   h3 Johan Sebastian Welhaven (1807–1873)
 
-  img.col.col4.left-image(src='./Welhaven_Johan_Sebastian_Welhaven.jpg' alt='')
+  img.col.col4.right-image(src='./Welhaven_Johan_Sebastian_Welhaven.jpg' alt='')
   p Johan Sebastian Welhaven var prestesønn fra Bergen. Faren ville at han skulle lese teologi, men Welhaven var lite motivert for å bli prest og gav opp teologistudiet etter nokså kort tid. I stedet begynte han å studere litteratur og filosofi. Etter hvert ble han lektor, seinere professor, ved universitetet i Christiania. 
 
   p Welhavens syn på kunstverket var i tråd med klassisistiske idealer. Etter hans oppfatning måtte et kunstverk oppfylle strenge krav til skjønnhet og harmoni. Diktene måtte for eksempel bygges opp etter klare regler. Dessuten mente Welhaven at form og innhold hørte sammen: Tankene måtte modnes før de kunne bli til dikt, og formen skulle gjenspeile denne modningen. 

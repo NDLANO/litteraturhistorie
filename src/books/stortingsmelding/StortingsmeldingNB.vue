@@ -176,6 +176,17 @@ PageBook(:showAuthor="false")
   h5 2012 
   p Språkrådet arbeider med en ny rettskrivingsnormal for nynorsk som skal tas i bruk i 2012. Normen skal være «tydeleg, enkel og stram og utan sideformer», slik at det blir lettere for alle å skrive korrekt på nynorsk. 
 
+  p.mt40 
+    | Kjelder:
+    br
+    strong Fiskerstrand, Pernille
+    br
+    | Den internaliserte nynorsknormalen: om oppfatta nynorsk hos eit utval nynorskelevar
+    br
+    | Masteroppgåve, Universitetet i Agder 2008
+    br
+    a(href="media/books/stortingsmelding/Den_internaliserte_nynorsknormalen.pdf" target="_blank") Les i fulltekst
+
   // Medieinnhold: Beholde bilder, men ta ut Lomheim. Sjekk om lenke til masteroppgave virker
 
 </template>

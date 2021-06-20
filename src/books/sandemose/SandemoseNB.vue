@@ -14,7 +14,7 @@ PageBook
 
   h3 En syndefull og antiborgerlig rebell 
 
-  figure.col.col4.left-image.mt5
+  //figure.col.col4.left-image.mt5
    img(src='./Sandemose_Syndefull.jpg' alt='')
    figcaption Foto: Bjørn Fjørtoft / Scanpix Sweden
 

@@ -9,6 +9,158 @@ PageBook(:showAuthor="false")
 
   p Fortelleren skildrer hva han ser på veien dit: Her er det sjeler som blir straffet for gjerrighet, trolldom, incest og andre onde gjerninger. Så får han oppleve kampen mellom de gode og de onde maktene. Satan med sin hær kommer farende fra nord, mens St. Mikael og Jesus står i spissen for englehæren. Til slutt får Olav Åsteson se hva som skjer med de angrende sjelene på dommedag. De blir veid på vektskåla, og alle blir de vist til Jesus Kristus. Ingen sjeler som angrer, er fortapt. 
 
+  NdlaAudio(
+    source="media/books/draumkvedet/draumkvedet1a_Norsk_folkedikting_nrk.mp3"
+    description="Rammen rundt visjonen"
+    )
+    h1 Utdrag fra Draumkvedet
+    p Moltke Moes restitusjon fr&aring; 1890-&aring;rene, basert p&aring; fleire oppskrifter
+    h3   1. Visionens ramme
+    table(width='100%' border='1')
+      tr
+        th(width='50%' scope='col') Moltke Moes tekstversjon
+        th(width='50%' scope='col') Ordforklaring
+      tr
+        td(width='50%')
+          | 1.   Vi&apos;du me lye, eg kvea kan
+          br
+          | um einkvan nytan drengjen,
+          br
+          | alt um&apos;n Olav &angst;steson,
+          br
+          | som heve sovi so lengji.
+        td(width='50%')
+          em
+            | lye: h&oslash;yre
+            br
+            | einkvan nytan drengjen: ein eller annan dugande kar
+            br
+            | kvea: syngje
+      tr
+        td(width='50%')
+          | 6.   Gamle menner og unge
+          br
+          | dei gjev&apos;e etti gaum&apos;e,
+          br
+          | m&aelig; han Olav &angst;steson
+          br
+          | tel&apos;e sine draume.
+          br
+          | &angst; de etc.
+        td(width='50%')
+          em
+            | gaum&apos;e: merksemd
+            br
+            | tel&apos;e: fortelje
+    p
+      | Kilde: Biblioteket, H&oslash;gskolen i Vestfold
+
+  NdlaAudio(
+    source="media/books/draumkvedet/draumkvedet1b_Norsk_folkedikting_nrk.mp3"
+    description="Ferden til dødsriket"
+    )
+    h1 Utdrag fra Draumkvedet
+    p Moltke Moes restitusjon fr&aring; 1890-&aring;rene, basert p&aring; fleire oppskrifter
+    h3  2. Ferda til d&oslash;dsriket
+    table(width='100%' border='1')
+      tr
+        th(width='50%' scope='col') Moltke Moes tekstversjon
+        th(width='50%' scope='col') Ordforklaring
+      tr
+        td(width='50%')
+          | 20.  Bikkja bit, &aring; ormen sting,
+          br
+          | &aring; stuten stend &aring; stangar -
+          br
+          | de slepp ingjen ivi Gjaddarbrui
+          br
+          | som fedder domane vrange.
+          br
+          | For etc.
+        td(width='50%')
+          em
+            | Ormane sting: ormane h&oslash;gg
+            br
+            |       ivi: over
+            br
+            |     Gjaddarbrui: dialektuttale av Gjallarbrua (segmentering: ll&gt;dd)
+    p
+      | Kilde: Biblioteket, H&oslash;gskolen i Vestfold
+
+  NdlaAudio(
+    source="media/books/draumkvedet/draumkvedet1c_Norsk_folkedikting_nrk.mp3"
+    description="Dommen"
+    )
+    h1 Utdrag fra Draumkvedet
+    p Moltke Moes restitusjon fr&aring; 1890-&aring;rene, basert p&aring; fleire oppskrifter
+    h3 3. Domen
+    table(width='100%' border='1')
+      tr
+        th(width='50%' scope='col') Moltke Moes tekstversjon
+        th(width='50%' scope='col') Ordforklaring
+      tr
+        td(width='50%')
+          | 36.  Men d&aring; skolv dei synde-s&aring;line,
+          br
+          | som ospelauv fy vinde,
+          br
+          | &aring; kv&ograve;r den, kv&ograve;r den s&aring;l der va,
+          br
+          | ho gret fy syndine sine.
+          br
+          | I etc.
+        td(width='50%')
+          em
+            | synde-s&aring;line: sjelene som hadde synda
+            br
+            |       fy vindi: for vinden 
+            br
+            |       kv&ograve;r: kvar
+            br
+            |       s&aring;l: sjel
+            br
+            |     fy sindine: for syndene
+    p
+      | Kilde: Biblioteket, H&oslash;gskolen i Vestfold
+
+  NdlaAudio(
+    source="media/books/draumkvedet/draumkvedet1d_Norsk_folkedikting_nrk.mp3"
+    description="Straffedom og lønn for gode gjerninger"
+    )
+    h1 Utdrag fra Draumkvedet
+    p Moltke Moes restitusjon fr&aring; 1890-&aring;rene, basert p&aring; fleire oppskrifter
+    h3 4. Straffedom og l&oslash;n for gode gjerningar
+    table(width='100%' border='1')
+      tr
+        th(width='50%' scope='col') Moltke Moes tekstversjon
+        th(width='50%' scope='col') Ordforklaring
+      tr
+        td(width='50%')
+          | 49.  S&aelig;l &aelig; den i f&oslash;isheimen
+          br
+          | fatike gjev&apos;e k&ograve;nn:
+          br
+          | han tar inkji r&aelig;ast p&aring; Gjaddarbrui
+          br
+          | fy kvasse stuteh&ograve;nn.
+          br
+          | Tunga etc.
+        td(width='50%')
+          em
+            | I f&oslash;isheimen: i f&oslash;desheimen, i  verda
+            br
+            |       k&ograve;nn: dialektform av korn 
+            br
+            |       r&aelig;ast: vere redd
+            br
+            |       Gjaddarbrui: dialektuttale av Gjallarbrua (segmentering: ll&gt;dd)
+            br
+            |       fy: for
+            br
+            |     stuteh&ograve;nn: oksehorn
+    p
+      | Kilde: Biblioteket, H&oslash;gskolen i Vestfold
+
   h3 Form 
   p Strofene i «Draumkvedet» er bygd opp etter mønster av balladestrofen på fire linjer: Andre og fjerde linje rimer på hverandre, første og tredje linje rimer ikke. Hver strofe slutter med et omkved. 
 

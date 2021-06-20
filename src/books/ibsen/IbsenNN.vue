@@ -14,7 +14,6 @@ PageBook
 
   p Ibsen hadde vore leiar for Det Norske Theateret i Kristiania, men i 1862 gjekk teateret konkurs, og Ibsen opplevde nokre vanskelege år både økonomisk, kunstnarleg og privat. I 1864 forlét han og kona Noreg og busette seg så i Italia og Tyskland. Fedrelandet besøkte dei berre nokre få gonger i denne utanlandsperioden, som skulle vare i 27 år. Men det var i desse åra Ibsen fekk det store kunstnarlege gjennombrotet sitt, både i Noreg og ute i Europa. 
 
-  img.col.col6.right-image.mt5(src='./ibsen_ikon_og_folkehelt2.jpg' alt='')
   p Først i 1891 flytte Ibsen og kona attende til heimlandet, og dei busette seg i Arbins gate like ved Slottet i Oslo. Ibsen var no ein kjend diktar, ja ein kjendis. Han hadde ein dagleg spasertur på same tid kvar dag, frå heimen sin og ned til stamkafeen Grand Café, og mange menneske kom berre for å sjå han spasere. Ibsen døydde i 1906, etter fleire års sjukdom. Han hadde da vorte eit nasjonalt ikon og ein folkehelt, og han vart gravlagd i Æreslunden på Vår Frelsers gravlund i Oslo. 
 
   h3 Frå nasjonalromantikk til modernisme
@@ -105,9 +104,6 @@ PageBook
   p Både i samtida og seinare har ein fokusert mykje på Ibsen som ein realistisk forfattar som sette problema under debatt. Men med Hedda Gabler og dei andre stykka frå 1890-åra peiker Ibsen i større grad fram mot eit meir modernistisk teater. Han set mellom anna søkjelyset på fleire av problemstillingane ved modernismen, som opplevinga av meiningstap og isolasjon, av framandgjering og identitetsløyse.
 
   h3 Ibsen i dag
-  figure.col.col6.left-image.mt5
-   img(src='./ibsen_Ibsen_i_dag.jpg' alt='')
-   figcaption Tidligare kultur- og kyrkjeminister Trond Giske ved eit portrett av Henrik Ibsen. Foto: Lise Åserud / Scanpix
 
   p Nest etter Shakespeare er Henrik Ibsen den mest spela dramatikaren i verda. Nora, Hedda, Peer Gynt og Hedvig blir tolka av kinesiske, brasilianske, russiske og indiske skodespelarar, for å nemne nokon. Men kvifor alt engasjementet rundt Ibsen? Kva er det som gjer at han framleis er så aktuell? 
 

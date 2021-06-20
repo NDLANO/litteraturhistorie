@@ -78,6 +78,7 @@ PageBook
     br
     | ja, De finner Nr. 13 helst i byers øst og nord. 
 
+  NdlaAudio(source="media/books/nilsen/Nr_13_av_Rudolf_Nilsen_-_Lest_av_Jens_Bolling.mp3")
 
   h3 På stengrunn 
   p Rudolf Nilsens første diktsamling kom ut i 1925 med tittelen På stengrunn. I denne diktsamlingen skildrer han livet til vanlige arbeidsfolk øst for Akerselva. Livet er hardt, og gledene er få. Men dypt i alle lever lengselen etter et bedre liv. De unge bjerkene i svarte byen de står og bruser med sitt lyse løv, som om de åndet store skogers vårluft og ikke skorstensrøk og gatestøv. 

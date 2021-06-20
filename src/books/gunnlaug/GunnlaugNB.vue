@@ -1,5 +1,5 @@
 <template lang="pug">
-PageBook
+PageBook(:showAuthor="false")
   h3 Bakgrunn
   img.col.col8.mt5.right-image(src="./Gunnlaug_Bakgrunn.jpg" alt="")
   p Sagaen om Gunnlaug Ormstunge er kort, bare på rundt førti små sider. Handlingen er lagt til tusenårsskiftet – en urolig tid på Island. Landnåmet er fullført, og de største ættene driver en rivalisering og kamp for å skaffe seg makt. Det er et lovløst samfunn der makta rår. Makta ligger hos den som har ei stor ætt og mange med seg. I et slikt samfunn er det lurt å inngå gode giftermål, og det er fedrene som alltid har siste ordet før det unge paret får hverandre.

@@ -37,6 +37,8 @@ PageBook(:showAuthor="false")
 
   p Kong Håkon Håkonsson fekk omsett utanlandsk litteratur til norsk, mellom anna franske kvad og riddarromanar. Slik kom ein del ord frå det europeiske riddarmiljøet inn i språket, som fru, herra og jungfru frå tysk.
 
+  a(href="media/books/kongespegelen/kongespegelen_utdrag.html" target="_blank") Utdrag frå Kongsspegelen
+
 </template>
 
 <script>

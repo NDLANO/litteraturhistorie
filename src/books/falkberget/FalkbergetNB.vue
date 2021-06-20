@@ -11,6 +11,11 @@ PageBook
 
   p Falkberget skrev først føljetonger i lokalavisa Fjell-Ljom og publiserte noen fortellinger i bokform. I 1907, samme år som Olav Duun, Sigrid Undset og Herman Wildenvey ga ut sine første bøker, kom romanen Svarte fjelde. Med denne boka fikk Falkberget sitt litterære gjennombrudd. Romanen handler om livet og slitet til gruvearbeiderne i bergstaden, et tema han hele tiden skulle vende tilbake til. 
 
+  NdlaAudio(
+    source="media/books/falkberget/Johan_Falkberget.mp3"
+    description="Johan Falkberget forteller om arbeidet i gruva som barn. Foto: NTB / Scanpix"
+  )
+
   h3 Historiefortelleren
 
   figure.col.col6.left-image.mt5

@@ -166,6 +166,8 @@ PageBook(:showAuthor="false")
   h5 Ulik form – forskjellig innhold 
   p Hos setesdølene er det en oppfatning at gamlestevene er alvorlige og mer lyriske i formen. Nystevene er derimot friskere både i innhold og form og kan være mer direkte i uttrykksmåten. Her er det større rom for å improvisere. 
 
+  // Medieinnhold: Beholde bilder. 
+
 </template>
 
 <script>

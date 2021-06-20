@@ -44,6 +44,8 @@ PageBook
     br
     span(class="ml40") Fandango! 
 
+  NdlaAudio(source="media/books/krag/Fandango.mp3")
+
   h3 Inspirasjon utenfra – det eksotiske og fremmede 
 
   img.col.col12(src='./Krag_Det_eksotiske_og_fremmede.jpg' alt='')

@@ -48,6 +48,46 @@ PageBook
     br
     | det om og om igjen. 
 
+  NdlaAudio(
+    source="media/books/hagerup/Inger_Hagerup_-_Aust-Vagoy.mp3"
+    description="Aust-Vågøy. Mars 1941"
+    )
+    blockquote
+      | De brente våre gårder.
+      br
+      | De drepte våre menn.
+      br
+      | La våre hjerter hamre
+      br
+      | det om og om igjen.
+      br
+      br
+      | La våre hjerter hamre
+      br
+      | med harde, vonde slag:
+      br
+      | De brente våre gårder.
+      br
+      | De gjorde det i dag.
+      br
+      br
+      | De brente våre gårder.
+      br
+      | De drepte våre menn.
+      br
+      | Bak hver som gikk i døden,
+      br
+      | står tusener igjen.
+      br
+      br
+      | Står tusen andre samlet
+      br
+      | i seil og naken tross.
+      br
+      | Å, døde kamerater,
+      br
+      | de kuer aldri oss.
+
   figure.col.col6.right-image.mt5
    img(src='./hagerup_Det_ene_diktet2.jpg' alt='')
    figcaption Frå det allierte angrepet på Lofoten i mars 1941. Bildet viser Stamsund der eit oljelager er sett i brann. Seinare hemna tyskarane seg med å brenne ned Aust-Vågøy. Foto: Scanpix
@@ -76,6 +116,38 @@ PageBook
     br
     | og jeg blir aldri din,
     br
+
+
+  NdlaAudio(
+    source="media/books/hagerup/Inger_Hagerup_-_To_tunger.mp3"
+    description="To tunger"
+    )
+    blockquote
+      | To tunger har mitt hjerte
+      br
+      | To viljer har mitt sinn
+      br
+      | Jeg elsker deg bestandig
+      br
+      | Og jeg blir aldri din
+      br
+      br
+      | Dypt i det røde mørket
+      br
+      | Fikk livet dobbelt form
+      br
+      | Der kurrer det en due
+      br
+      | Der hvisler det en orm
+      br
+      br
+      | To tunger har mitt hjerte
+      br
+      | Hør på det likevel
+      br
+      | Bli hos meg og gå fra meg
+      br
+      | Og frels meg fra meg selv
 
   p seier ho om spaltinga av hjartet i diktet «To tunger». Parforholdet er skildra med dobbel botn, som i diktet «Episode», der avgrunnsdjup avstand og uskiljeleg nærleik blir knytte saman: «Hun merket dypt bak hat og nag og kulde / den spente streng fra hans til hennes hjerte.» 
 

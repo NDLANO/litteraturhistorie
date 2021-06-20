@@ -38,6 +38,8 @@ PageBook
 
   h5 «Du må ikke sove» 
 
+  NdlaVideo.mt20.mb20(source="https://www.youtube.com/watch?v=xwl2vLc8HoY" playerType="youtube")
+
   figure.col.col6.right-image.mt20
    img(src='./Overland_Krigsfanger1.jpg' alt='')
    figcaption Bjørnelva, våren 1945. Krigsfanger. Fangeleir. Foto: Novosti / Scanpix

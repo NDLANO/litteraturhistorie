@@ -39,8 +39,6 @@ PageBook(:showAuthor="false")
 
 
 
-
-
 </template>
 
 <script>
