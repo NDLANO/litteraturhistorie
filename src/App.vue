@@ -82,3 +82,16 @@ export default {
 <style lang="scss">
 @use "./sass/main";
 </style>
+
+<style>
+.slideInLeft-enter-active,
+.slideInLeft-leave-active {
+  transition: all 0.25s ease;
+}
+
+.slideInLeft-enter-from,
+.slideInLeft-leave-to {
+  transform: translateX(-26rem);
+  opacity: 0;
+}
+</style>
