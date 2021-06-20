@@ -29,13 +29,8 @@
       
       h1 Språk- og litteraturhistorisk tidslinje
       .lo_topBar_filters
-          button.btn_filter
-              .btn_filter_icon <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"/></svg>
-              .btn_filter_text Vis bøker
-          button.btn_filter
-              .btn_filter_icon <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V5h14v14zM17.99 9l-1.41-1.42-6.59 6.59-2.58-2.57-1.42 1.41 4 3.99z"/></svg>
-              .btn_filter_text Vis sentrale personer
-      //- .header_eraName Realisme og naturalisme
+        ButtonCheckbox(v-model="showBooks") {{ $t("general.showBooks")}}
+        ButtonCheckbox(v-model="showPersons") {{ $t("general.showPersons")}}
 
   // * MAIN CONTENT
   div.lo_sectionList-wrapper(ref="lo_sectionList")
@@ -68,6 +63,7 @@ import { gsap } from "gsap";
 import { Draggable } from "gsap/Draggable";
 import ButtonBook from "@/components/ButtonBook";
 import ButtonAuthor from "@/components/ButtonAuthor";
+import ButtonCheckbox from "@/components/ButtonCheckbox";
 
 import MenuIcon from "@/components/ui/MenuIcon";
 import NdlaLogo from "@/components/ui/NdlaLogo";
@@ -83,6 +79,7 @@ export default {
   components: {
     ButtonBook,
     ButtonAuthor,
+    ButtonCheckbox,
     MenuIcon,
     NdlaLogo,
     TimelineSection,
