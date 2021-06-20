@@ -116,6 +116,11 @@ export default {
   methods: {
     onMenuOpenClick() {
       this.menuVisible = true;
+
+      // * Set focus to first menu option
+      this.$nextTick(() => {
+        this.$refs.menuItem0.focus();
+      });
     },
     onMenuCloseClick() {
       this.menuVisible = false;
