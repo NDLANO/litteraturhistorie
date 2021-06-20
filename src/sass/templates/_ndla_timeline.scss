@@ -8,7 +8,8 @@ $restrainedWidth: $base-line-height * 24;
 $topBarHeight: $base-line-height * 2;
 $timelineHeight: 60rem;
 $circleEraHeight: 30rem;
-$introPageWidth: 40rem;
+// $introPageWidth: 40rem;
+$introPageWidth: 15rem;
 $authorsHeight: 33rem;
 
 %restrained {
@@ -191,7 +192,8 @@ blockquote {
   position: relative;
   display: flex;
   flex-shrink: 0;
-  width: 110vw;
+  // width: 110vw;
+  width: 7rem;
   margin-bottom: 1.75rem;
   padding: $base-line-height 0 $base-line-height $base-line-height;
 
