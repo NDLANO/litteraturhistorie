@@ -1,7 +1,7 @@
 <template lang="pug">
 li.sectionList_item
   // * The entire section
-  section.lo_sectionEra(:style="sectionWidth")
+  section.lo_sectionEra(:style="sectionSize")
     // * Topbar with line and dots
     ul.lo_topBar_timeline
       TimelineTimeslot(
@@ -21,8 +21,8 @@ li.sectionList_item
             @pointerup="onEraPointerUp"
           ) Mer info                  
     // * List of books
-    ul.bookList
-      li(v-for="book in periodBooks" :key="book.id")
+    ul.bookList(:style="borderBottomStyle")
+      li(v-if="showBooks" v-for="book in periodBooks" :key="book.id")
         ButtonBook(
           :id="book.id"
           :title="book.nbTitle"
@@ -30,10 +30,11 @@ li.sectionList_item
           :style="getBookStyle(book)"
           @buttonClick="$emit('buttonClick')"
         )
-    SeparatorAuthor_nb(v-if="showAuthorSeparator && globalVars.langCode === 'nb'")
-    SeparatorAuthor_nn(v-if="showAuthorSeparator && globalVars.langCode === 'nn'")
+    .div(v-if="showPersons")
+      SeparatorAuthor_nb(v-if="showAuthorSeparator && globalVars.langCode === 'nb'")
+      SeparatorAuthor_nn(v-if="showAuthorSeparator && globalVars.langCode === 'nn'")
     // * List of authors
-    ul.authorsList
+    ul.authorsList(v-if="showPersons")
       li(v-for="author in periodAuthors" :key="author.id")
         ButtonAuthor(
           :name="author.name"
@@ -48,7 +49,7 @@ li.sectionList_item
         :key="year"
         :style="{ width: year[1] * sectionWidthMultiplier + 'px'}"
       )
-        .timeSlot_line
+        .timeSlot_line(:style="timeSlotLineStyle")
 
 </template>
 
@@ -113,6 +114,14 @@ export default {
       type: Number,
       default: 1,
     },
+    showBooks: {
+      type: Boolean,
+      default: true,
+    },
+    showPersons: {
+      type: Boolean,
+      default: true,
+    },
   },
   data() {
     return {
@@ -132,12 +141,23 @@ export default {
     TimelineTimeslot,
   },
   computed: {
-    sectionWidth() {
+    timeSlotLineStyle() {
+      if (!this.showPersons) return { height: "500px" };
+      return {};
+    },
+    borderBottomStyle() {
+      if (!this.showPersons) return { borderBottom: "none" };
+      return {};
+    },
+    sectionSize() {
       const widthValues = this.yearMarkings.map(
         e => e[1] * this.sectionWidthMultiplier,
       );
       const sum = widthValues.reduce((a, b) => a + b, 0);
-      return { width: sum + "px" };
+
+      let heightValue = "auto";
+      if (!this.showPersons) heightValue = "555px";
+      return { width: sum + "px", height: heightValue };
     },
     periodPath() {
       return "/" + this.globalVars.langCode + "/periods/" + this.id + "/";

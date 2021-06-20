@@ -51,6 +51,8 @@
           :id="period.id"
           :yearMarkings="period.yearMarkings"
           :sectionWidthMultiplier="period.widthMultiplier"
+          :showBooks="showBooks"
+          :showPersons="showPersons"
           @authorClick="onAuthorClick"
           @buttonClick="onTimelineSectionClick"
           )
