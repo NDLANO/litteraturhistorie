@@ -7,7 +7,7 @@
       .pageTopBar_secondItem {{ author }}
     
     .page.page_book
-      PageBanner(:src="bannerImage")
+      PageBanner(:src="bannerImageLink")
       .page_content
         PageBookAuthor(:title="title" :author="author" :showAuthor="showAuthor")
         slot
@@ -54,6 +54,17 @@ export default {
     },
     cover() {
       return this.$route.meta.cover;
+    },
+    bannerImageLink() {
+      // * If bannerImage is defined, use that
+      if (this.bannerImage !== "") return this.bannerImage;
+
+      // * If not use period banner
+      const periodId = this.$route.query.period;
+
+      const bannerUrl = `media/periods/${periodId}/${periodId}.jpg`;
+
+      return bannerUrl;
     },
   },
 };

@@ -34,6 +34,10 @@ export default {
       type: String,
       default: "",
     },
+    period: {
+      type: String,
+      default: "",
+    },
   },
   data() {
     return {
@@ -58,10 +62,10 @@ export default {
       }
     },
     showLink() {
-      console.log("ButtonBook.showLink: id = ", this.id);
+      // Add period query param to the URL
       if (this.id !== "") {
-        // this.$router.push(this.path);
-        const route = `/${this.globalVars.langCode}/books/${this.id}`;
+        let route = `/${this.globalVars.langCode}/books/${this.id}`;
+        if (this.period !== "") route += `?period=${this.period}`;
         this.$router.push(route);
       } else {
         this.$router.push("/nn/books/asbjornsenmoe");

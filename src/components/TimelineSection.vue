@@ -28,6 +28,7 @@ li.sectionList_item
           :title="book.nbTitle"
           :author="book.author"
           :style="getBookStyle(book)"
+          :period="id"
           @buttonClick="$emit('buttonClick')"
         )
     .div(v-if="showPersons")
