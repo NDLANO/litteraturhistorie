@@ -174,6 +174,11 @@ blockquote {
   }
 }
 
+// * Fixes problem with sticky header not working horizontally
+.lo_sectionList-wrapper {
+  overflow: auto;
+}
+
 .lo_sectionList {
   position: relative;
   //top: $base-line-height * 1.8; //*Mod for filter
