@@ -1,5 +1,5 @@
 <template lang="pug">
-button.btnBook(@pointerdown="onPointerDown" @pointerup="onPointerUp")
+button.btnBook(@pointerdown="onPointerDown" @pointerup="onPointerUp" @keyup.enter="onEnterKey")
   .btnBook_icon
     IconButtonBook
   .btnBook_infos
@@ -46,13 +46,17 @@ export default {
     };
   },
   methods: {
+    onEnterKey(event){
+      this.$emit("buttonClick");
+      this.showLink();
+    },
     onPointerDown(event) {
-      console.log("ButtonBook.onPointerDown: event = ", event);
 
       this.mouseX = event.clientX;
       this.mouseY = event.clientY;
     },
     onPointerUp(event) {
+      console.log("OnPointerUp")
       if (this.mouseX === event.clientX && this.mouseY === event.clientY) {
         console.log("ButtonBook.onPointerUp: both x and y is the same");
         this.$emit("buttonClick");

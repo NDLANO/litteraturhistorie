@@ -17,6 +17,7 @@ li.sectionList_item
           .circleEra_date {{ from }}-{{ to }}
           h2.circleEra_title {{ title }}
           button.btnEra(:id="id"
+            @keyup.enter="onEraEnterKey"
             @pointerdown="onPointerDown"
             @pointerup="onEraPointerUp"
           ) Mer info                  
@@ -43,6 +44,7 @@ li.sectionList_item
           :gotText="author.nnText !== ''"
           @pointerdown="onPointerDown"
           @pointerup="onAuthorPointerUp(author, $event)"
+          @keyup.enter="onAuthorClick(author)"
         )
     ul.lo_topBar_timeline.lineslots
       li.timeslot(
@@ -195,6 +197,10 @@ export default {
       } else {
         console.log("TimelineSection.onEraPointerUp: mouse has moved");
       }
+    },
+    onEraEnterKey(event){
+      const route = `/${this.globalVars.langCode}/periods/${this.id}`;
+      this.$router.push(route);
     },
     onAuthorClick(author) {
       this.$emit("authorClick", this.$event, author);
