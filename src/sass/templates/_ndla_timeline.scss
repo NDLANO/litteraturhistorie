@@ -281,6 +281,40 @@ blockquote {
   }
 }
 
+
+.btn_audioText{
+  display: flex;
+  align-items: center;
+  background: $light-grey;
+  border: 2px solid $middle-grey;
+  height: $base-line-height * 1.5;
+  border-radius: 4px;
+
+  &:hover {
+    background: white;
+    border-color: $main-color;
+    color: $main-color;
+    svg {
+      fill: $main-color;
+    }
+  }
+
+  &_icon {
+    width: $base-line-height/1.25;
+    height: $base-line-height/1.25;
+    svg {
+      width: 100%;
+      height: auto;
+    }
+  }
+  &_text {
+    padding: 0 $base-line-height/8;
+    font-weight: bold;
+    //font-size: 0.9rem;
+  }
+}
+
+
 /// PART ON THE LEFT OF THE TIMELINE > INSTRUCTIONS
 
 .startInstructions h1 {
