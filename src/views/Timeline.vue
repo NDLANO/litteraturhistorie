@@ -2,7 +2,7 @@
 // * POPUP AUTHOR
 .lo_fullOverlay_popup(v-if="showAuthorModal" @pointerdown.self="showAuthorModal = false")
   .lo_authorPopup
-      button.btn_close#closePopup
+      button.btn_close#closePopup(ref="buttonCloseAuthor" @keyup.enter="showAuthorModal = false")
         <svg @click="showAuthorModal = false" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24" style="width: 24px; height:24px"><path d="M0 0h24v24H0z" fill="none"/><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg> 
       .authorPopupContent
         h2 {{selectedAuthor.name}} <br>({{selectedAuthor.from}}–{{selectedAuthor.to}})
@@ -148,6 +148,10 @@ export default {
     onAuthorClick(event, author) {
       this.selectedAuthor = author;
       this.showAuthorModal = true;
+      this.$nextTick(() => {
+        this.$refs.buttonCloseAuthor.focus();
+      });
+
     },
     getPeriodId(periodPath) {
       return periodPath
