@@ -77,6 +77,9 @@ PageBook(:showAuthor="false")
     img(src="./Den_Norske_Dictionarium_Primstav_Detalj.jpg")
     figcaption Detalj
 
+  p Les mer om privstaven i 
+    a(href="https://snl.no/primstav") Store Norske Leksikon
+
   h3 Norsk hverdagsliv på 1600-tallet
   p Den Norske Dictionarium eller Glosebog inneholder mye stoff om norsk hverdagsliv, blant annet denne oppskriften på gomme fra Sunnfjord: 
 

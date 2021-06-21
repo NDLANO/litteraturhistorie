@@ -1,7 +1,8 @@
 <template lang="pug">
 PageBook
 
-  NdlaAudio(source="media/books/snorre/kongesagaene_Sagalitteraturen_Daniel_Haakonsen_nrk.mp3")
+  //NdlaAudio(source="media/books/snorre/kongesagaene_Sagalitteraturen_Daniel_Haakonsen_nrk.mp3")
+
   p Snorre har skrevet det viktigste historiske verket i den norrøne epoken. Verket heter Heimskringla (Kringla heimsins på norrønt). Verket kalles også Snorres kongesagaer fordi det inneholder sagaene om de norske kongene fra Halvdan Svarte, som levde midt på 800-tallet, og fram til kong Sverre, som levde samtidig med Snorre.
 
   p Heimskringla består av i alt 17 kongesagaer. «Olav den helliges saga» er den mest omfattende. Kongesagaene er en blanding av historie og diktning. 
@@ -54,19 +55,19 @@ PageBook
   img.col.col6.right-image.mt20(src='./Snorre_Olavs_fall.jpg' alt='')
   p I 1028 kommer Knut den mektige (konge over Danmark og England) til Norge med 50 krigsskip. Olav blir sveket av sine egne hærmenn og må flykte. Han reiser med sønnen Magnus og kona Astrid, som er datter av svenskekongen, til Gardarike (Russland). Der slår de seg ned hos svenske slektninger. 
 
-  // NdlaAudio(source="media/books/snorre/olav_som_helgen__jack_fjeldstad_nrk.mp3")
-
   p Etter en stund har Olav en drøm der Olav Tryggvason viser seg for han og oppfordrer han til å følge Guds vilje og reise tilbake til Norge. I tillegg får Olav vite at Håkon Ladejarl, som Knut den mektige har innsatt som jarl over Norge, er omkommet i et skipsforlis.  Han samler mennene sine og drar til Trøndelag, der han vet han vil møte den sterkeste motstanden. Han er fullt klar over at det er et vågestykke, men går med den innstillingen at det får bære eller briste. 
+  
+  NdlaAudio(source="media/books/snorre/olavs_syn__jack_fjeldstad_nrk.mp3")
 
   p Like før slaget på Stiklestad drømmer han at han klatrer opp en stige som når helt til himmelen. Han lover mennene sine at Gud vil gi dem større lønn enn gleden over verdslige ting. De kjemper modig mot overmakta, men må gi tapt. Olav faller på Stiklestad 29. juli 1030. 
 
-  // NdlaAudio(source="media/books/snorre/slaget_paa_stiklestad_jack_fjeldstad_nrk.mp3")
+  NdlaAudio(source="media/books/snorre/slaget_paa_stiklestad_jack_fjeldstad_nrk.mp3")
 
   h3 Olav som helgen 
   img.col.col3.left-image.mt5(src='./Snorre_Olav_som_helgen.jpg' alt='')
   p Snorre framstiller Olavs fall som en martyrdød, og etter slaget på Stiklestad får fortellingen om Olavs død status som kristusliknende helgenfortelling. 
 
-  // NdlaAudio(source="media/books/snorre/olav_som_helgen__jack_fjeldstad_nrk.mp3")
+  NdlaAudio(source="media/books/snorre/olav_som_helgen__jack_fjeldstad_nrk.mp3")
 
   p En bonde fra Stiklestad tar med seg liket av Olav og gravlegger det der Nidarosdomen står i dag. Snart begynner folk å tenke på Olav som en hellig mann. Det blir fortalt historier om underlige ting som skjer ved grava hans: Blinde får tilbake synet, og syke folk blir friske etter å ha rørt ved Olavs grav. Olav blir opphøyd til katolsk helgen.
 

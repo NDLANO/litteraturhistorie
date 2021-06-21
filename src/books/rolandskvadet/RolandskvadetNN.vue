@@ -11,11 +11,12 @@ PageBook(:showAuthor="false")
 
   p Diktaren er ein elles ukjend mann ved namn Turold (Thorvald). Namnet kan tyde på at han var frå Normandie, den delen av Frankrike som vart erobra av vikingar på 900-talet. Desse vikingane blanda seg med folket på staden og gjekk over til å snakke fransk.
 
+  a(href="media/books/rolandskvadet/roland.html" target="_blank") Les heile kvadet
+
   h3 Handlinga i kvadet
   p Roland er nevø av Karl den store og leiar for baktroppen i hæren til keisaren. Keisaren er med hæren sin på veg tilbake frå Spania over Pyreneane. Ein svikar får ordna eit overfall på Roland og baktroppen frå maurarane. Roland har eit horn, Olifant, som han kan bruke for å tilkalle hovudtroppen. Men han nektar først å bruke hornet. Han er overmodig og trur han kan slå fienden utan hjelp. Roland og mennene hans maktar å drive maurarane på flukt, men prisen for sigeren er høg: Alle som ein fell i kampen.
 
   p Når mest alle mennene hans er døde, blæs Roland i hornet. Han vil at keisaren skal hemne han og dei andre døde. Det gjer Karl den store: Han nedkjempar fienden og straffar svikaren og ætta hans. Før Roland døyr, vedgår han at han har synda. Det er han som er skuldig i at alle mennene er døde, han burde ikkje ha venta med å blåse i hornet for å tilkalle hjelp. Han rekkjer hansken sin til Gud, og Gud tek imot hansken. Gud har gjort Rolands overmodige handling til ein reiskap for kristendommen: Fienden er slått tilbake.
-
 
   h3 Historisk bakgrunn for «Rolandskvadet»
   figure.col.col7.right-image.mt5

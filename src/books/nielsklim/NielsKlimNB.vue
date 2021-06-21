@@ -42,6 +42,8 @@ PageBook
 
   p Holbergs Epistler (1748–1754) er skrevet på dansk. Her legger Holberg fram meningene sine om så mangt, fra parykkens historie til nestekjærlighet. En av epistlene heter ”Hvorfor jeg foretrekker fruentimmer-selskab”. 
   
+  a(href="https://no.wikisource.org/wiki/Smeden_og_Bageren" target="_blank") Les «Smeden og Bageren»
+
   h3 Ludvig Holberg 
   p Ludvig Holberg (1684–1754) var satiriker, komedieforfatter, historiker og opplysningsmann. Han skrev det satiriske verket Peder Paars som en parodi på antikkens helteepos, og hele 26 komedier. I tillegg skrev han essay og vitenskapelige verk. Niels Klims underjordiske rejse er Holbergs eneste roman.  
 

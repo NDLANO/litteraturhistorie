@@ -12,6 +12,8 @@ PageBook
 
   p Nesten hele dagboka er bevart, men først i 1858 ble den gitt ut i sin helhet. Boka regnes som den viktigste kilden til norsk sosial- og kulturhistorie på 1500-tallet. 
 
+  a(href="media/books/bergenskapitelsbok/bergen_tekst.html" target="_blank") Les utdrag
+
   h3 Forfatteren 
   ImageTextBlock(
     :image="require(`./Bergens_Kapitelsbok_Forfatteren.jpg`)"

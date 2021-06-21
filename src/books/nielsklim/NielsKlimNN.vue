@@ -41,6 +41,8 @@ PageBook
   p Etter kvart tok Holberg til å gjere narr av denne pompøse stilen. Han skreiv på dansk og var dermed med på å utvikle eit moderne dansk skriftspråk. Holberg ville avgrense bruken av tyske, franske og latinske ord i det danske språket, men slike ord kunne òg gjere det danske språket rikare.
 
   p Holbergs Epistler (1748–1754) er skriven på dansk. Her gjer Holberg greie for meiningane sine om så mangt, frå parykkens historie til nestekjærleik. Ein av epistlane heiter «Hvorfor jeg foretrekker fruentimmer-selskab».
+
+  a(href="https://no.wikisource.org/wiki/Smeden_og_Bageren" target="_blank") Les «Smeden og Bageren»
   
   h3 Ludvig Holberg
   p Ludvig Holberg (1684–1754) var satirikar, komedieforfattar, historikar og opplysningsmann. Han skreiv det satiriske verket Peder Paars som ein parodi på antikkens helteepos, og heile 26 komediar. I tillegg skreiv han essay og vitskaplege verk. Niels Klims underjordiske rejse er Holbergs einaste roman.

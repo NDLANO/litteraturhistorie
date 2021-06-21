@@ -29,7 +29,7 @@ PageBook(:showAuthor="false")
 
   p Gunnlaug blir til for eksempel presentert slik: «Så er sagt om Gunnlaug at han var tidleg vaksen og stor og sterk, og hadde lysbrunt hår som fall vent. Han var svartøygd, med litt stygg nase, men hadde eit tiltalande andlet, var midjesmal og herdebrei, uvanleg velvaksen, storlåten i heile sitt huglynde, tidleg framfus, strid og hard i alt, ein stor skald, men laga gjerne nidviser og vart kalla Gunnlaug Ormstunge.»
 
-  NdlaAudio(source="media/books/gunnlaug/Illuges_drøm.mp3")
+  NdlaAudio(source="media/books/gunnlaug/Illuges_drøm.mp3" description="Illuges draum")
 
   img.col.col6.mt5.left-image(src="./Gunnlaug_Fortellermåten.jpg")
   

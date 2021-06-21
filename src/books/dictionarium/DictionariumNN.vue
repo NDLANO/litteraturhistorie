@@ -75,6 +75,9 @@ PageBook(:showAuthor="false")
     img(src="./Den_Norske_Dictionarium_Primstav_Detalj.jpg")
     figcaption Detalj
 
+  p Les mer om privstaven i 
+    a(href="https://snl.no/primstav") Store Norske Leksikon
+    
   h3 Norske ordsamlingar og ordbøker
   p Det er ikkje berre Christen Jensson som samlar inn norske ord på 1600-talet. Vi finn liknande skrifter frå andre delar av landet. Dei eldste norske ordsamlingane frå 1600-talet er oppteikningar over lokale dialektord. Det kan vere litt vilkårleg kva for ord som er komne med, og korleis dei blir skrivne.
 

@@ -102,6 +102,8 @@ PageBook
     br
     | At fremme. 
 
+  a(href="https://www.dendanskesalmebogonline.dk/salme/227/401/2" target="_blank") Les «Som den gylne sol frembyder»
+
   h3 Verkemiddelbruk
 
   img.col.col6.left-image.mt5(src="./Dass_Virkemiddelbruk.jpg" alt="")

@@ -23,6 +23,9 @@ PageBook(:showAuthor="false")
 
   p Gunnerus beskriver plantene, han forteller hvilke medisinske egenskaper de har, og hva de ellers kan brukes til. Samtidig gir han ofte kulturhistoriske opplysninger. 
 
+  a(href="https://books.google.no/books?id=uxMWAAAAYAAJ&dq=Flora+norvegica&printsec=frontcover&source=bl&ots=fnHxf0WagE&sig=J8Q5DOGuYy-dO74k37c5cIF9G1A&hl=no&ei=kLMXS8-mLZCE-QaCr_jSDw&sa=X&oi=book_result&ct=result#v=onepage&q&f=false" target="_blank") Les Flora Norvegica
+
+
   h3 Barn av opplysingstida 
 
   figure.col.col6.right-image.mt5
