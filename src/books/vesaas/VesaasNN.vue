@@ -249,6 +249,9 @@ PageBook
       br
       | i tungt regn nedover – 
   
+  NdlaAudio(
+    source="media/books/vesaas/Tarjei_Vesaas_-_Regn_i_Hiroshima.mp3"    
+  )
 
   h3 «Bakkane heime»
   p Enda om Vesaas som lyrikar høyrer heime i den modernistiske tradisjonen, kan han også fortelje om heilt enkle, kvardagslege opplevingar, som i dette diktet: 
@@ -290,6 +293,11 @@ PageBook
     | Endeleg kjenner ein e
     br
     | in er heime for godt.  
+
+  NdlaAudio(
+    source="media/books/vesaas/Tarjei_Vesaas_-_Bakkane_heime.mp3"    
+  )
+
 
 </template>
 

@@ -1,5 +1,5 @@
 <template lang="pug">
-PageBook
+PageBook(:showAuthor="false")
   h3 Bakgrunn
   img.col.col8.mt5.right-image(src="./Gunnlaug_Bakgrunn.jpg" alt="")
   p Sagaen om Gunnlaug Ormstunge er kort, bare på rundt førti små sider. Handlingen er lagt til tusenårsskiftet – en urolig tid på Island. Landnåmet er fullført, og de største ættene driver en rivalisering og kamp for å skaffe seg makt. Det er et lovløst samfunn der makta rår. Makta ligger hos den som har ei stor ætt og mange med seg. I et slikt samfunn er det lurt å inngå gode giftermål, og det er fedrene som alltid har siste ordet før det unge paret får hverandre.
@@ -27,6 +27,8 @@ PageBook
   p Det er en enkel, knapp fortellemåte som preger sagaen, en stil som har inspirert mange store forfattere opp gjennom tidene. Bare det som er viktig for handlingen, er kommet med. Fortelleren gir et objektivt referat av det som hender. Personskildringen er nesten bare indirekte, vi lærer personene å kjenne gjennom utseende, handlinger og replikker. Men også navnet til en person kan fortelle mye. 
 
   p Gunnlaug blir for eksempel presentert slik: «Så er sagt om Gunnlaug at han vartidlig voksen og stor og sterk, og hadde  lysebrunt hår som falt pent. Han var svartøyd, med litt stygg nese, men hadde et tiltalende ansikt, var midjesmal og herdebrei, uvanlig velvoksen, storlåten i hele sitt huglynne, tidlig framfus, strid og hard i alt, en stor skald, men laget gjerne nidviser og ble kalt Gunnlaug Ormstunge.» 
+
+  NdlaAudio(source="media/books/gunnlaug/Illuges_drøm.mp3")
 
   img.col.col6.mt5.left-image(src="./Gunnlaug_Fortellermåten.jpg")
 

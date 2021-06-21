@@ -33,7 +33,9 @@ PageBook(:showAuthor="false")
 
   p Fra 1200-tallet og utover fikk vi mange nedertyske ord gjennom hanseatene. Hanseatiske kjøpmenn slo seg ned i Bergen, Tønsberg, Oslo og andre norske byer. Nedertysk var det vanlige handelsspråket i hele Nord-Europa og påvirket derfor alle de nordiske språkene. 
 
-  p Kong Håkon Håkonsson fikk oversatt utenlandsk litteratur til norsk, blant annet franske kvad og ridderromaner. Slik fikk en del ord fra det europeiske riddermiljøet innpass i språket, som fru, herra og jungfru fra tysk.  
+  p Kong Håkon Håkonsson fikk oversatt utenlandsk litteratur til norsk, blant annet franske kvad og ridderromaner. Slik fikk en del ord fra det europeiske riddermiljøet innpass i språket, som fru, herra og jungfru fra tysk. 
+
+  a(href="media/books/kongespegelen/kongespegelen_utdrag.html" target="_blank") Utdrag fra Kongespeilet
 
   // Medieinnhold: Beholde bilder
 

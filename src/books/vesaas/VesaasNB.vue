@@ -249,6 +249,10 @@ PageBook
     br
     | i tungt regn nedover – 
 
+  NdlaAudio(
+    source="media/books/vesaas/Tarjei_Vesaas_-_Regn_i_Hiroshima.mp3"    
+  )
+
   h3 «Bakkane heime» 
   p Selv om Vesaas som lyriker hører hjemme i den modernistiske tradisjonen, kan han også fortelle om helt enkle, hverdagslige opplevelser, som i dette diktet: 
 
@@ -286,10 +290,13 @@ PageBook
     | er som ein vennleg hoggestabbe. 
     br
     br
-    | Endeleg kjenner ein e
+    | Endeleg kjenner ein
     br
-    | in er heime for godt.    
+    | ein er heime for godt.    
 
+  NdlaAudio(
+    source="media/books/vesaas/Tarjei_Vesaas_-_Bakkane_heime.mp3"    
+  )
 
   // Medieinnhold: Beholde bilder og lydfiler av diktopplesning. Vurdere intervju med Vesaas
 

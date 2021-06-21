@@ -2,7 +2,7 @@
 // * POPUP AUTHOR
 .lo_fullOverlay_popup(v-if="showAuthorModal" @pointerdown.self="showAuthorModal = false")
   .lo_authorPopup
-      button.btn_close#closePopup
+      button.btn_close#closePopup(ref="buttonCloseAuthor" @keyup.enter="showAuthorModal = false")
         <svg @click="showAuthorModal = false" xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24" style="width: 24px; height:24px"><path d="M0 0h24v24H0z" fill="none"/><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg> 
       .authorPopupContent
         h2 {{selectedAuthor.name}} <br>({{selectedAuthor.from}}–{{selectedAuthor.to}})
@@ -11,37 +11,33 @@
 .lo_globalContainer
   
   // * NAV
-  nav.mainMenu
-    button.btn_close
-      <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24" style="width: 24px; height:24px"><path d="M0 0h24v24H0z" fill="none"/><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg> 
-    .mainMenu_title Meny
-    ul.mainMenu_list
-      li.mainMenu_list_item(v-for="period in periods" :key="period.id")        
-        a(href="#" @click="onNavButtonClick(period.id)") {{ period.nbTitle}}  
-  
+  transition(name="slideInLeft")
+    nav.mainMenu(v-show="menuVisible")
+      button.btn_close(@click="onMenuCloseClick")
+        <svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 0 24 24" width="24" style="width: 24px; height:24px"><path d="M0 0h24v24H0z" fill="none"/><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg> 
+      .mainMenu_title {{$t("general.menuTitle")}}
+      ul.mainMenu_list
+        li.mainMenu_list_item(v-for="(period, index) in periods" :key="period.id")        
+          a(:ref="'menuItem' + index" href="#" @click="onNavButtonClick(period.id)" tabindex="1") {{ period.nbTitle}}  
+    
   // * HEADER
   .lo_topBar
     header.lo_topBar_header
       // * button - jump to period
-      button.btn_menu(@click="onButtonMenuClick")
+      button.btn_menu(@click="onMenuOpenClick")
         MenuIcon
 
       
       h1 Språk- og litteraturhistorisk tidslinje
       .lo_topBar_filters
-          button.btn_filter
-              .btn_filter_icon <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M19 5v14H5V5h14m0-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z"/></svg>
-              .btn_filter_text Vis bøker
-          button.btn_filter
-              .btn_filter_icon <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 0 24 24" width="24px" fill="#000000"><path d="M0 0h24v24H0V0z" fill="none"/><path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V5h14v14zM17.99 9l-1.41-1.42-6.59 6.59-2.58-2.57-1.42 1.41 4 3.99z"/></svg>
-              .btn_filter_text Vis sentrale personer
-      //- .header_eraName Realisme og naturalisme
+        ButtonCheckbox(v-model="showBooks") {{ $t("general.showBooks")}}
+        ButtonCheckbox(v-model="showPersons") {{ $t("general.showPersons")}}
 
   // * MAIN CONTENT
   div.lo_sectionList-wrapper(ref="lo_sectionList")
     main.lo_sectionList
       .lo_sectionsIntroPage
-        .startInstructions
+        //.startInstructions
           NdlaLogo(style="width: 84px")
           h1 Språk- og litteraturhistorisk tidslinje
           p Duis augue tortor, gravida non nisi ut, bibendum hendrerit nulla. Quisque vitae ultrices massa. Maecenas sollicitudin ligula et velit varius, in sollicitudin libero iaculis. Nulla facilisi. Phasellus dolor turpis, dapibus sed nisi eu, hendrerit laoreet turpis. Duis accumsan pellentesque libero, in auctor sapien convallis non.
@@ -56,6 +52,8 @@
           :id="period.id"
           :yearMarkings="period.yearMarkings"
           :sectionWidthMultiplier="period.widthMultiplier"
+          :showBooks="showBooks"
+          :showPersons="showPersons"
           @authorClick="onAuthorClick"
           @buttonClick="onTimelineSectionClick"
           )
@@ -68,10 +66,10 @@ import { gsap } from "gsap";
 import { Draggable } from "gsap/Draggable";
 import ButtonBook from "@/components/ButtonBook";
 import ButtonAuthor from "@/components/ButtonAuthor";
+import ButtonCheckbox from "@/components/ButtonCheckbox";
 
 import MenuIcon from "@/components/ui/MenuIcon";
 import NdlaLogo from "@/components/ui/NdlaLogo";
-import SeparatorAuthor from "@/components/ui/SeparatorAuthor";
 import TimelineSection from "@/components/TimelineSection";
 
 import { readFile } from "@/js/fileTools";
@@ -84,13 +82,14 @@ export default {
   components: {
     ButtonBook,
     ButtonAuthor,
+    ButtonCheckbox,
     MenuIcon,
     NdlaLogo,
-    SeparatorAuthor,
     TimelineSection,
   },
   data() {
     return {
+      menuVisible: false,
       periodLoaded: false,
       artists: null,
       artistRoutes: null,
@@ -98,6 +97,8 @@ export default {
       periods: periods,
       showAuthorModal: false,
       selectedAuthor: null,
+      showBooks: true,
+      showPersons: true,
       prevDragX: null,
       prevDragY: null,
       newDragX: null,
@@ -113,13 +114,31 @@ export default {
   },
   inject: ["globalVars"],
   methods: {
+    onMenuOpenClick() {
+      this.menuVisible = true;
+
+      // * Set focus to first menu option
+      this.$nextTick(() => {
+        this.$refs.menuItem0.focus();
+      });
+    },
+    onMenuCloseClick() {
+      this.menuVisible = false;
+    },
     onNavButtonClick(era) {
       console.log("Timeline.onNavButtonClick: era = ", era);
+
       const eraButton = document.getElementById(era);
       eraButton.scrollIntoView({
         // behavior: "smooth",
         block: "end",
         inline: "center",
+      });
+
+      this.menuVisible = false;
+
+      this.$nextTick(() => {
+        eraButton.focus();
       });
     },
     onTimelineSectionClick(event) {
@@ -129,6 +148,10 @@ export default {
     onAuthorClick(event, author) {
       this.selectedAuthor = author;
       this.showAuthorModal = true;
+      this.$nextTick(() => {
+        this.$refs.buttonCloseAuthor.focus();
+      });
+
     },
     getPeriodId(periodPath) {
       return periodPath

@@ -12,6 +12,7 @@ PageBook(:showAuthor="false")
 
   p Dei tre mest kjende dikta frå Den eldre Edda er «Voluspå», «Trymskvida» og «Håvamål».
 
+
   ImageTextBlock.mt5(
     :image="require(`./Edda_Faeroeyene.jpg`)"
     :imageColumns="4"
@@ -36,6 +37,7 @@ PageBook(:showAuthor="false")
     img(src="./Edda_Haavamaal.jpg")
     figcaption Vatn og handduk han ventar å få, 
   h3 «Håvamål»
+
   p «Håvamål» tyder «den høges tale», det vil seie at det er Odin som taler. «Håvamål» er på mange måtar eit læredikt, og det er Odin som gir råd og livsvisdom til menneska i eit samfunn som er fylt av fiendskap og farar.
 
 

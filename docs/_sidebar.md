@@ -1,4 +1,5 @@
 - [NDLA Statistikk](/)
   - [Oppbygging og filestruktur](filestructure.md)
+  - [Hvordan legge inn en ny bok](new_item.md)
   - Redigere innhold
     - [VS Code snippets](snippets.md)

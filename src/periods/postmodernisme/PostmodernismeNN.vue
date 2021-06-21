@@ -8,7 +8,7 @@ PagePeriod(
   h3 Tida og samfunnstilhøva
 
   figure
-    img(src="./Postmodernisme_Tida_og_samfunnsforhold1.jpg" alt="I 1970 kunne industriminister Sverre Walter Rostoft helle den første norskproduserte bensinen på bilen sin. Foto: NTB / Scanpix")
+    img(src="./Postmodernisme_Tida_og_samfunnsforhold1.jpg" alt="Mann i dress fyller bilen med bensin frå ei kanne. Foto.")
     figcaption I 1970 kunne industriminister Sverre Walter Rostoft helle den første norskproduserte bensinen på bilen sin. Foto: NTB / Scanpix
 
   h5 Velferdsstat og oljeøkonomi
@@ -18,7 +18,7 @@ PagePeriod(
 
 
   figure
-    img(src="./Postmodernisme_Tida_og_samfunnsforhold2.jpg" alt="Rockebandet Steppenwolf, kjend for låta «Born to Be Wild».")
+    img(src="./Postmodernisme_Tida_og_samfunnsforhold2.jpg" alt="Fem personar med mye hår, store frakkar og slengbukser poserer foran eit utbrend hus. Foto.")
     figcaption Rockebandet Steppenwolf, kjend for låta «Born to Be Wild». Foto: Henry Diltz / Corbis / Scanpix
 
   h5 Ungdoms- og hippiekultur
@@ -29,7 +29,7 @@ PagePeriod(
   p I USA voks hippiekulturen fram i 1960-åra. Hippie kjem av det engelske ordet ”hip”, eit slanguttrykk for ”moderne og frigjort menneske”. Rockemusikk, alternativ livsstil og rusmiddel var sentrale element i hippieprotesten mot materialistiske verdiar og mot USAs krigføring i Vietnam.
 
   figure.col.col4.left-image
-    img(src="./Postmodernisme_Tida_og_samfunnsforhold3.jpg" alt="Demonstrasjon mot EEC i 1972.")
+    img(src="./Postmodernisme_Tida_og_samfunnsforhold3.jpg" alt="Fredeleg demonstrasjonstog mot EEC på Karl Johan med Slottet i bakgrunnen.Foto.")
     figcaption Demonstrasjon mot EEC i 1972. Foto: Jan A. Martinsen / Aftenposten / Scanpix
 
   h5 EU-kamp i Noreg
@@ -39,7 +39,7 @@ PagePeriod(
   p Tilhøvet mellom Sovjetunionen og USA utvikla seg etter andre verdskrigen til å bli svært spent. Denne ”kalde krigen” påverka heile verdssamfunnet. Europa var delt i to – dei vesteuropeiske landa var stort sett USAs allierte, mens dei austeuropeiske landa var i allianse med Sovjetunionen. 
 
   figure.col.col7.right-image
-    img(src="./Postmodernisme_Tida_og_samfunnsforhold4.jpg" alt="Eit par i Vest-Berlin talar med slektningar i Aust-Berlin.")
+    img(src="./Postmodernisme_Tida_og_samfunnsforhold4.jpg" alt="To personar som tittar over ein mur med piggtråd. Foto.")
     figcaption Eit par i Vest-Berlin talar med slektningar i Aust-Berlin. Foto: Bettmann/Corbis/Scanpix
 
   p Grensene mellom austblokk- og vestblokklanda var så godt som stengde, særleg for austeuropeiske borgarar, og levestandarden i Aust-Europa var mykje lågare enn i dei vesteuropeiske landa. 
@@ -53,7 +53,7 @@ PagePeriod(
   p I dei fleste austblokklanda gjekk endringsprosessane i 1990-åra fredeleg for seg, men i det tidlegare Jugoslavia auka spenningane mellom dei ulike folkegruppene. Den verste konflikten braut ut i Bosnia-Hercegovina, der over hundre tusen menneske vart drepne. Krigen gjekk hardast ut over den muslimske delen av innbyggjarane. 
 
   figure.col.col4.left-image
-    img(src="./Postmodernisme_Tida_og_samfunnsforhold5.jpg" alt="Fane til Kvinnedagen i 1982.")
+    img(src="./Postmodernisme_Tida_og_samfunnsforhold5.jpg" alt="To kvinner held opp eit banner der det står «lønna arbeid til alle kvinner. Husarbeid til alle menn». Foto.")
     figcaption Fane til Kvinnedagen i 1982. Foto: Aftenposten/Scanpix
 
   h5 Jamstillingskamp 
@@ -65,7 +65,7 @@ PagePeriod(
   p I 1980-åra kom avskoging og utslepp av klimagassar på den miljøpolitiske dagsordenen. Utfordringane har ikkje vorte mindre på 2000-talet. Klimaendringane vi ser i dag, er mest sannsynleg menneskeskapte, men arbeidet med å redusere CO2-utsleppa går likevel seint. 
 
   figure.col.col6.right-image
-    img(src="./Postmodernisme_Tida_og_samfunnsforhold6.jpg" alt="Åtaket på World Trade Center 11. september 2001.")
+    img(src="./Postmodernisme_Tida_og_samfunnsforhold6.jpg" alt="To skyskraparar med røyk og eksplosjon. Foto.")
     figcaption Åtaket på World Trade Center 11. september 2001. Foto: Carmen Taylor / AP / Scanpix
 
   h5 Kampen mot terror 
@@ -74,7 +74,7 @@ PagePeriod(
   p USA reagerte på terroråtaket med å lansere krigen mot terrorisme, ein global kampanje for å aksjonere mot internasjonale terroristgrupper og terrornettverk. Men også i perioden etter 2001 har islamistiske grupper gjennomført fleire terroråtak, ikkje berre i vestlege land, men også i Afrika, Midtausten og Asia. 
 
   figure
-    img(src="./Postmodernisme_Tida_og_samfunnsforhold7.jpg" alt="Gode vener på tvers av livssyn, verdiar og levemåtar.")
+    img(src="./Postmodernisme_Tida_og_samfunnsforhold7.jpg" alt="Syv glade ungdomar med ulik hudfarge poserer på rekkje. Foto.")
     figcaption Gode vener på tvers av livssyn, verdiar og levemåtar. Foto: Kerstin Mertens / Samfoto / Scanpix
 
   h5 Eit meir mangfaldig Noreg
@@ -83,7 +83,7 @@ PagePeriod(
   h3 Tankar i tida
 
   figure
-    img(src="./Postmodernisme_Tanker_i_tiden1.jpg" alt="Aker Brygge i Oslo kan stå som symbol på postmoderne arkitektur i Norge.")
+    img(src="./Postmodernisme_Tanker_i_tiden1.jpg" alt="Høghus i bybilete. Foto.")
     figcaption Aker Brygge i Oslo kan stå som symbol på postmoderne arkitektur i Norge. Foto: Vegard Grøtt / NTB Scanpix
 
   h5 Postmodernitet
@@ -92,7 +92,7 @@ PagePeriod(
   p Modernitet kallar vi epoken frå opplysningstida og fram til vår tid. Dei sentrale ideane i denne epoken har vore ”dei tre f-ane”: trua på fridom, framsteg og fornuft. Vitskapleg og teknologisk utvikling og politisk og personleg fridom skulle leggje grunnlaget for at menneska fekk eit stadig betre og meir lykkeleg liv. Med fornufta som rettesnor skulle det vere mogleg å komme fram til absolutte sanningar i både vitskap, politikk og samfunnsliv. 
 
   figure.col.col4.left-image
-    img(src="./Postmodernisme_Tanker_i_tiden2.jpg" alt="Jean-François Lyotard")
+    img(src="./Postmodernisme_Tanker_i_tiden2.jpg" alt="Portrett av mann i kvit skjorte. Foto.")
     figcaption Jean-François Lyotard. Foto: Bracha L. Ettinger / Wikimedia Commons
 
   h5 Kritikk av moderniteten
@@ -104,7 +104,7 @@ PagePeriod(
   p Men er Gud død? I 2005 var det 6,7 millionar besøk under gudstenester i Den norske kyrkja. I 2010 fanst det 42 registrerte trussamfunn og 2 livssynssamfunn berre i Oslo og Akershus. Mange menneske trur, men kva trur vi på? 
 
   figure.col.col4.left-image
-    img(src="./Postmodernisme_Tanker_i_tiden3.jpg" alt="Jürgen Habermas")
+    img(src="./Postmodernisme_Tanker_i_tiden3.jpg" alt="Portrett av smilande mann i dress. Foto.")
     figcaption Jürgen Habermas. Foto: Marit Hommedal / Scanpix
 
   p Den tyske filosofen og sosiologen <strong>Jürgen Habermas</strong> (1929– ) omtaler våre vestlege samfunn i dag som postsekulære. Han meiner at religionen har ein sentral plass, både i livet til enkeltmenneska og i internasjonal storpolitikk. Den dominerande konflikten internasjonalt er i dag knytt til radikal islam, og vi ser ei stadig aukande interesse for ulike religionar og livssyn. Menneska søkjer etter meining og samanheng i tilværet, og opnar opp for både Gud, englar og trua på eit liv etter døden.
@@ -113,7 +113,7 @@ PagePeriod(
   p Frå 1960-åra og utover ser vi nye tendensar og straumdrag innanfor kunst, arkitektur og litteratur som vi gjerne summerer opp i nemninga postmodernisme. Postmodernisme er altså ein estetisk teori, ei lære om kva kunsten er og vil, om tilhøvet mellom kunstverk og publikum og om tilhøvet mellom den kunstnarlege verda og kvardagslivet. 
 
   figure.col.col4.right-image
-    img(src="./Postmodernisme_Tanker_i_tiden4.jpg" alt="Andy Warhol: «Campbell’s Soup»")
+    img(src="./Postmodernisme_Tanker_i_tiden4.jpg" alt="Eit par ser på vegg med mange like plakatar av Campell hermetikkboks. Foto.")
     figcaption Andy Warhol: «Campbell’s Soup». Foto: Nelson Almeida/AFP/Scanpix
 
   p Postmodernismen kan sjåast som eit oppgjer med krava til innhald og form i den modernistiske kunsten. Der høgmodernistane bevisst braut med tidlegare kunstformer og tok avstand frå massekulturen, gjer postmodernistane det stikk motsette: Dei kombinerer nytt og gammalt, høgkultur og massekultur, dei alluderer til kjende tekstar, ironiserer over både eigne og andre sine verk – og resultatet er ofte eit leikande og frodig uttrykk. 
@@ -122,13 +122,13 @@ PagePeriod(
 
   .flex.portretter
     figure.m1rem
-      img(style="width: 198px" src="./Postmodernisme_Litteraturen1.jpg" alt="Stein Mehren")
+      img(style="width: 198px" src="./Postmodernisme_Litteraturen1.jpg" alt="Portrett av mann med briller og halvlangt hår. Foto.")
       figcaption Stein Mehren
     figure.m1rem
-      img(style="width: 198px" src="./Postmodernisme_Litteraturen2.jpg" alt="Kolbein Falkeid")
+      img(style="width: 198px" src="./Postmodernisme_Litteraturen2.jpg" alt="Portrett av snakkande, eldre mann med skjegg i kofte. Foto.")
       figcaption Kolbein Falkeid
     figure.m1rem
-      img(style="width: 198px" src="./Postmodernisme_Litteraturen3.jpg" alt="Georg Johannesen")
+      img(style="width: 198px" src="./Postmodernisme_Litteraturen3.jpg" alt="Portrett av en mann grått hår og skjegg, tørkle i halsen. Foto. ")
       figcaption Georg Johannesen
 
   h5 1960-åra: Sentrallyrikk i fokus
@@ -138,13 +138,13 @@ PagePeriod(
 
   p <strong>Kolbein Falkeid</strong> (1933– ) debuterte i 1962. Falkeid er kjend for å skrive ein kombinasjon av eksistensiell sentrallyrikk og kvardagspoesi, og han er ein folkekjær og mykje lesen poet. Samarbeidet med gruppa Vamp har òg ført til at tekstane hans er formidla til mange. 
 
-  p Ein lyrikar som vanskeleg lèt seg plassere innanfor ei retning, er <strong>Georg Johannesen</strong> (1931–2005). Han debuterte i slutten av 1950-åra, men var med på å prege norsk litteratur og norsk litterær debatt i fleire tiår. Som politisk radikalar engasjerte han seg sterkt gjennom både dikt, essay, romanar og sakprosatekstar – ofte med eit kritisk blikk på Noreg og nordmenn.
+  p Ein lyrikar som vanskeleg lèt seg plassere innanfor ei retning, er <a href="https://www.nrk.no/kultur/georg-johannesen-om-kassandra-1.6849754" target="_blank"><strong>Georg Johannesen</strong></a> (1931–2005). Han debuterte i slutten av 1950-åra, men var med på å prege norsk litteratur og norsk litterær debatt i fleire tiår. Som politisk radikalar engasjerte han seg sterkt gjennom både dikt, essay, romanar og sakprosatekstar – ofte med eit kritisk blikk på Noreg og nordmenn.
 
   h5 Kjøpt: ja – lesen: tja 
   p I 1965 vart innkjøpsordninga for nyskriven norsk skjønnlitteratur etablert. Ordninga er ein føresetnad for det mangfaldet vi etter kvart får av diktsamlingar i Noreg. Stortinget gjer vedtak om at 1000 eksemplar av dei fleste norske skjønnlitterære bøkene, prosa, drama, lyrikk og gjendiktingar av lyrikk, skal kjøpast inn av staten. Norsk kulturråd administrerer ordninga, og bøkene blir sende ut til folkebiblioteka rundt om i landet. 
 
   figure.col.col6.right-image
-    img(src="./Postmodernisme_Litteraturen4.jpg" alt="«Dei tre unge opprørarane frå gruppa kring det litterære tidsskriftet Profil» var teksten til dette biletet då det sto på trykk i 1966. Tor Obrestad, Paal-Helge Haugen og Einar Økland.")
+    img(src="./Postmodernisme_Litteraturen4.jpg" alt="Tre menn i samtale rundt stovebordet. Foto.")
     figcaption «Dei tre unge opprørarane frå gruppa kring det litterære tidsskriftet Profil» var teksten til dette biletet då det sto på trykk i 1966. Tor Obrestad, Paal-Helge Haugen og Einar Økland.  Foto: NTB / Scanpix
 
   h5 Profil-gruppa
@@ -154,35 +154,41 @@ PagePeriod(
 
   .flex.portretter.portretter-4
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen5.jpg" alt="Jan Erik Vold")
+      img(src="./Postmodernisme_Litteraturen5.jpg" alt="Portrett av mann med briller og grått hår. Foto.")
       figcaption Jan Erik Vold
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen6.jpg" alt="Eldrid Lunden")
+      img(src="./Postmodernisme_Litteraturen6.jpg" alt="Smilande kvinne held blomebukett. Foto.")
       figcaption Eldrid Lunden
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen7.jpg" alt="Einar Økland")
+      img(src="./Postmodernisme_Litteraturen7.jpg" alt="Portrett av mann med briller. Foto.")
       figcaption Einar Økland
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen8.jpg" alt="Paal Helge Haugen")
+      img(src="./Postmodernisme_Litteraturen8.jpg" alt="Portrett av mann med grå bart og hår. Foto.")
       figcaption Paal Helge Haugen
 
+  NdlaAudio(
+    source="media/periods/postmodernisme/Vold_trikkeskinnediktetdiktet.mp3"
+    description="Jan Erik Vold: Trikkeskinnediktet"
+    )
+  
 
+  .mt40
   h5 1970-åra: Sosialrealistisk litteratur
   p I 1973 vart eit nytt, radikalt parti stifta: Arbeidaranes Kommunistparti (marxist-leninistane) – forkorta AKP (m-l). <strong>Dag Solstad</strong> (1941– ), <strong>Espen Haavardsholm</strong> (1945– ) og <strong>Tor Obrestad</strong> (1938–2020) var blant dei Profil-forfattarane som vart med i AKP. No byrja dei å skrive såkalla sosialrealistiske romanar. Litteraturen skulle tene det arbeidande folket og opprøret mot kapitalismen.
 
   .flex.portretter
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen9.jpg" alt="Dag Solstad")
+      img(src="./Postmodernisme_Litteraturen9.jpg" alt="Halvnært portrett av mann med bustete hår og briller. Foto.")
       figcaption Dag Solstad
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen10.jpg" alt="Espen Haavardsholm")
+      img(src="./Postmodernisme_Litteraturen10.jpg" alt="Portrett av smilande mann med grått skjegg og rutete skjorte. Foto.")
       figcaption Espen Haavardsholm
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen11.jpg" alt="Tor Obrestad")
+      img(src="./Postmodernisme_Litteraturen11.jpg" alt="Portrett av mann med grått hår. Foto.")
       figcaption Tor Obrestad
 
   figure.col.col6.right-image
-    img(src="./Postmodernisme_Litteraturen12.jpg" alt="Kvinnefronten i 8. marstog i 1973.")
+    img(src="./Postmodernisme_Litteraturen12.jpg" alt="Demonstrasjonstog for kvinnefrigjering. Foto.")
     figcaption Kvinnefronten i 8. marstog i 1973. Foto: Svein Erik Dahl / Samfoto / Scanpix
 
   h5 Nye kjønnsroller og sosiale endringar
@@ -192,19 +198,19 @@ PagePeriod(
 
   .flex.portretter.portretter-5
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen13.jpg" alt="Bjørg Vik")
+      img(src="./Postmodernisme_Litteraturen13.jpg" alt="Portrett av kvinne med oppsatt hår. Foto.")
       figcaption Bjørg Vik
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen14.jpg" alt="Tove Nilsen")
+      img(src="./Postmodernisme_Litteraturen14.jpg" alt="Portrett av glad kvinne med blondt hår og hjartesmykke. Foto.")
       figcaption Tove Nilsen
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen15.jpg" alt="Anne Karin Elstad")
+      img(src="./Postmodernisme_Litteraturen15.jpg" alt="Portrett av kvinne med halvlangt, kvitt hår. Foto.")
       figcaption Anne Karin Elstad
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen16.jpg" alt="Herbjørg Wassmo")
+      img(src="./Postmodernisme_Litteraturen16.jpg" alt="Portrett av glad kvinne med mørkt, halvlangt hår. Foto.")
       figcaption Herbjørg Wassmo
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen17.jpg" alt="Kjartan Fløgstad")
+      img(src="./Postmodernisme_Litteraturen17.jpg" alt="Portrett av mann med bart. Han ser ned. Foto.")
       figcaption Kjartan Fløgstad
 
   h5 Kjartan Fløgstad (1944– ) 
@@ -214,20 +220,20 @@ PagePeriod(
   p Også lyrikken i 1970-åra er prega av politikk og samfunnsengasjement, og kamp- og brukslyrikken får ei ny blomstringstid. I kampen for eit betre og meir rettferdig samfunn blir det på nytt meir akseptert å skrive dikt med fast rytme og enderim. 
 
   figure
-    img(src="./Postmodernisme_Litteraturen18.jpg" alt="Visegruppa Ballade øver til ein turné i 1978.")
+    img(src="./Postmodernisme_Litteraturen18.jpg" alt="Fire musikarar som opptrer i stue. Foto.")
     figcaption Visegruppa Ballade øver til ein turné i 1978. Frå venstre: Lillebjørn Nilsen, Lars Klevstrand, Åse Kleveland og Birgitte Grimstad. Foto: Paul Owesen / NTB Scanpix
 
   p Det veks òg fram nye arenaer for formidling av dikt. <strong>Lillebjørn Nilsen</strong> (1950– ), <strong>Kari Svendsen</strong> (1950– ) og <strong>Lars Klevstrand</strong> (1949– ) er eksempel på visesongarar som framførte eigne og andre sine tekstar, gjerne tonesette dikt – i kampen for fred og jamstilling og mot kapitalismen eller krigen i Vietnam. Også arbeidardikting og kvardagspoesi vart formidla gjennom song. Den populære venstreradikale gruppa Vømmøl gav ut fleire LP-ar med omfattande tekstvedlegg. 
 
   .flex.portretter
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen19.jpg" alt="Lillebjørn Nilsen")
+      img(src="./Postmodernisme_Litteraturen19.jpg" alt="Portrett av mann med langt hår, åpen skjorte med skjerf i halsen. Foto.")
       figcaption Lillebjørn Nilsen
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen20.jpg" alt="Kari Svendsen")
+      img(src="./Postmodernisme_Litteraturen20.jpg" alt="Sprudlande kvinne opptrer med banjo på scenen. Foto.")
       figcaption Kari Svendsen
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen21.jpg" alt="Lars Klevstrand")
+      img(src="./Postmodernisme_Litteraturen21.jpg" alt="Portrett av mann i sorte klede utendørs. Foto.")
       figcaption Lars Klevstrand
 
   p Dei norske visesongarane henta inspirasjon frå USA og andre engelsktalande land. Framståande artistar som <strong>Bob Dylan</strong> (1941– ), <strong>Joni Mitchell</strong> (1943– ) og <strong>Neil Young</strong> (1945– ) påverka ein heil generasjon gjennom songane sine. 
@@ -238,14 +244,14 @@ PagePeriod(
 
   h5 Nostalgi og sjarmerande outsiderar 
   figure.col.col4.right-image
-    img(src="./Postmodernisme_Litteraturen22.jpg" alt="Lars Saabye Christensen")
+    img(src="./Postmodernisme_Litteraturen22.jpg" alt="Skalla mann med skjegg poserar med handa bak hovudet. Foto.")
     figcaption Lars Saabye Christensen
 
   p <strong>Lars Saabye Christensen</strong> (1953– ) er ein av dei forfattarane som har selt mest i nyare tid. Frå 1980-åra har Saabye Christensen lykkast i å skrive kritikarrost litteratur for den breie massen. Romanar som Beatles (1984), Herman (1988) og Halvbroren (2001) har nesten ikonisk status for generasjonen som var ungdom i 60-åra. Det er ofte ein outsiderkarakter vi følgjer i romanane – ein karakter som blir skildra med varme og humor. 
 
   h5 Rus, vald og psykiatri 
   figure.col.col4.right-image
-    img(src="./Postmodernisme_Litteraturen23.jpg" alt="Ingvar Ambjørnsen")
+    img(src="./Postmodernisme_Litteraturen23.jpg" alt="Portrett av langhåra mann med briller. Foto.")
     figcaption Ingvar Ambjørnsen
 
   p <strong>Ingvar Ambjørnsen</strong> (1956– ) er ein annan forfattar som har skrive om outsiderar, og som tradisjonelt har hatt ein sterk posisjon i skulen. Romanen Hvite niggere (1986) er forteljinga om nokre kameratar som blir dregne meir og meir inn i eit rusmiljø. Tittelen siktar til at hovudpersonane oppfattar seg sjølve som utstøytte individ i samfunnet. Ambjørnsen er òg svært kritisk til tilbodet som psykiatriske pasientar får i Noreg, og gjennom bøkene sine om Elling skildrar han varmt og menneskeleg livet til ein psykiatrisk pasient. 
@@ -255,23 +261,23 @@ PagePeriod(
 
   .flex.portretter.portretter-4
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen24.jpg" alt="Øyvind Berg")
+      img(src="./Postmodernisme_Litteraturen24.jpg" alt="Portrett av smilande mann med briller. Foto.")
       figcaption Øyvind Berg
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen25.jpg" alt="Rune Christiansen")
+      img(src="./Postmodernisme_Litteraturen25.jpg" alt="Portrett av mann med høyhalsa genser. Foto.")
       figcaption Rune Christiansen
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen26.jpg" alt="Gro Dahle")
+      img(src="./Postmodernisme_Litteraturen26.jpg" alt="Portrett av kvinne med musefletter som held hendene foran munnen. Foto.")
       figcaption Gro Dahle
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen27.jpg" alt="Triztán Vindtorn")
+      img(src="./Postmodernisme_Litteraturen27.jpg" alt="Portrett av mann med langt lyst hår. Foto.")
       figcaption Triztán Vindtorn
 
   p Ein forfattar som debuterte i 70-åra, men som først slo gjennom i 80-åra, er <strong>Triztán Vindtorn</strong> (1942–2009). Han er den mest reindyrka surrealisten i norsk lyrikk, og skreiv eksperimentelle dikt der han bryt dei fleste språklege konvensjonane. 
 
   h3 Litteraturen 1990–2010
   figure.col.col6.left-image
-    img(src="./Postmodernisme_Litteraturen28.jpg" alt="Ei scene frå «Rambuku» av Jon Fosse på Det Norske Teatret, med Ragnhild Hilt og Svein  Erik Brodal")
+    img(src="./Postmodernisme_Litteraturen28.jpg" alt="Kvinne i kjole opptrer på scene. Mannleg kollega i bakgrunnen. Foto.")
     figcaption Ei scene frå «Rambuku» av Jon Fosse på Det Norske Teatret, med Ragnhild Hilt og Svein  Erik Brodal. Foto: Carl Martin Nordby / Scanpix
 
   h5 Språkleik og sjangerblanding
@@ -284,7 +290,7 @@ PagePeriod(
   p I Noreg er det få forfattarar som omtaler seg sjølve som postmoderne, men vi finn eksempel på lyrikk inspirert av postmodernismen hos så ulike forfattarar som for eksempel <strong>Jan Erik Vold</strong> og <strong>Gro Dahle</strong>. 
 
   figure.col.col6.left-image
-    img(src="./Postmodernisme_Litteraturen29.jpg" alt="Frå innspelinga av filmen «Sofies verden», som byggjer på Jostein Gaarders roman. Her er det ei scene frå den franske revolusjonen som blir spela inn.")
+    img(src="./Postmodernisme_Litteraturen29.jpg" alt="Statister i militære kostymer ved kulisser til ei sceneoppsetning. Foto.")
     figcaption Frå innspelinga av filmen «Sofies verden», som byggjer på Jostein Gaarders roman. Her er det ei scene frå den franske revolusjonen som blir spela inn. Foto: Rolf Øhman / Scanpix
 
 
@@ -295,26 +301,26 @@ PagePeriod(
 
   .flex.portretter
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen30.jpg" alt="Anne B. Ragde")
+      img(src="./Postmodernisme_Litteraturen30.jpg" alt="Portrett av kvinne med kort, sort hår. Foto.")
       figcaption Anne B. Ragde
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen31.jpg" alt="Tore Renberg")
+      img(src="./Postmodernisme_Litteraturen31.jpg" alt="Halvnært portrett av mann med kort hår. Foto.")
       figcaption Tore Renberg
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen32.jpg" alt="Jostein Gaarder")
+      img(src="./Postmodernisme_Litteraturen32.jpg" alt="Portrett av mann med kort skjegg. Foto.")
       figcaption Jostein Gaarder
 
 
   ImageTextBlock.mt30(
     :image="require(`./Postmodernisme_Litteraturen33.jpg`)"
-    altText="Jan Kjærstad"    
+    altText="Nærbilete av mann med gitar i bakgrunnen. Foto."    
     )
     h5 Jan Kjærstad 
     p (1953– ) blir rekna for ein av dei mest sentrale postmoderne forfattarane i norsk litteratur. I sine romanar frå 1980- og 1990-åra eksperimenterer han med form, forteljeteknikk, komposisjon og karakterbygging. 
 
   ImageTextBlock(
     :image="require(`./Postmodernisme_Litteraturen34.jpg`)"
-    altText="Jon Fosse"    
+    altText="Portrett av mann med handa på haka. Foto."    
     )
     h5 Jon Fosse 
     p (1959– ) blir gjerne kalla ”den nye Ibsen”. Frå 1990-åra har Fosse hatt stor internasjonal suksess med sine drama, og til liks med Ibsen er teaterteknikken hans nyskapande og utforskande. Fosses forfattarskap er allereie av stort omfang – han har gitt ut mange verk og har òg skrive romanar og lyrikk.
@@ -324,23 +330,23 @@ PagePeriod(
 
   .flex.portretter.portretter-5
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen35.jpg" alt="Hanne Ørstavik")
+      img(src="./Postmodernisme_Litteraturen35.jpg" alt="Portrett av smilande kvinne med kort, kvitt hår. Foto.")
       figcaption Hanne Ørstavik
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen36.jpg" alt="Trude Marstein")
+      img(src="./Postmodernisme_Litteraturen36.jpg" alt="Portrett av kvinne med handa på kinnet. Foto.")
       figcaption Trude Marstein
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen37.jpg" alt="Lars Ramslie")
+      img(src="./Postmodernisme_Litteraturen37.jpg" alt="Halvnært portrett av mann som bøyer hovudet litt og ser opp. Foto.")
       figcaption Lars Ramslie
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen38.jpg" alt="Erlend Loe")
+      img(src="./Postmodernisme_Litteraturen38.jpg" alt="Portrett av skalla mann med rutete skjorte. Foto. ")
       figcaption Erlend Loe
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen39.jpg" alt="Helene Uri")
+      img(src="./Postmodernisme_Litteraturen39.jpg" alt="Portrett av smilande kvinne med langt mellomblondt hår. Foto.")
       figcaption Helene Uri
 
   figure.col.col4.left-image
-    img(src="./Postmodernisme_Litteraturen40.jpg" alt="Gard B. Eidsvold og Helle Haugen i ei scene frå Centralteatret si oppsetjing av teaterstykket «Tatt av kvinnen», som byggjer på romanen til Erlend Loe.")
+    img(src="./Postmodernisme_Litteraturen40.jpg" alt="Mann med ryggsekk sit ved sidan av ei kvinne under eit laken på scenen. Foto.")
     figcaption Gard B. Eidsvold og Helle Haugen i ei scene frå Centralteatret si oppsetjing av teaterstykket «Tatt av kvinnen», som byggjer på romanen til Erlend Loe. Foto: Erlend Aas / Scanpix
 
   h5 Den postmoderne mannen – ”tatt av kvinnen” 
@@ -349,14 +355,14 @@ PagePeriod(
   p I Dyp rød 315 (2001) av <strong>Helene Uri</strong> (1964– ) møter vi ei kvinne som reduserer mannen til eit objekt og ein gjenstand på lik linje med skjerf og hanskar. Den kvinnelege hovudkarakteren Gina Beck solar seg i glansen av ein mann som ho trær på armen som ei ny veske. Og når denne mannen ikkje lenger tilfredsstiller behova hennes, byter ho han ut. 
 
   figure.col.col4.right-image
-    img(src="./Postmodernisme_Litteraturen41.jpg" alt="Åsne Seierstad på Litteraturhuset i 2008.")
+    img(src="./Postmodernisme_Litteraturen41.jpg" alt="Kvinneleg forfattar på bokbad. Foto. ")
     figcaption Åsne Seierstad på Litteraturhuset i 2008. Foto: Knut Falch / Scanpix
 
   h5 Nye problemstillingar
   p Dei store konfliktane i litteraturen i dag handlar ikkje lenger om form, men om grensene mellom fiksjon og sakprosa og om dei verdivala forfattarane gjer. I kor stor grad kan ein basere seg på verkelege personar og hendingar når ein skriv skjønnlitteratur? Kva er skilnaden på ein roman og ei dokumentarbok? 
 
   figure.col.col4.left-image
-    img(src="./Postmodernisme_Litteraturen42.jpg" alt="Karl Ove Knausgård")
+    img(src="./Postmodernisme_Litteraturen42.jpg" alt="Mann med kort hår, skjeggstubbar og skinnjakke. Foto. ")
     figcaption Karl Ove Knausgård. Foto: Tore Meek / Scanpix
 
   p Desse spørsmåla har vorte særleg aktuelle etter dommen mot <strong>Åsne Seierstad</strong> (1970– ) i 2010. Seierstad vart dømd til å betale Shah Mohammad Rais erstatning for å ha basert romanen Bokhandleren i Kabul (2002) på livet til Rais og hans familie. Også det veldige seksbindsverket til <strong>Karl Ove Knausgård</strong> (1968– ), Min Kamp (2009–2011), synleggjer etiske dilemma ved å skrive så tett opp til eige liv og røynsle: Kva skjer når ekskoner, nære familiemedlemmer og ein avdød far blir romankarakterar? 
@@ -364,7 +370,7 @@ PagePeriod(
   h3 Språket i perioden
 
   figure
-    img(src="./Postmodernisme_Spraaket_i_perioden1.jpg" alt="Elevar frå Oddernes gymnas overleverte i 1975 ca. 25 000 underskrifter til stortingspresident Guttorm Hansen (til høgre) for å be Stortinget om å ta sidemålsstilen opp til revisjon.")
+    img(src="./Postmodernisme_Spraaket_i_perioden1.jpg" alt="Mann får gave mens fleire menneske ser på. Foto.")
     figcaption Elevar frå Oddernes gymnas overleverte i 1975 ca. 25 000 underskrifter til stortingspresident Guttorm Hansen (til høgre) for å be Stortinget om å ta sidemålsstilen opp til revisjon. Men sidemålsundervisninga i skulen står støtt også i dag. Foto: Erik Berglund / Aftenposten / Scanpix
 
   h5 Språkfred
@@ -377,18 +383,18 @@ PagePeriod(
   h3 Andre kunstformer
 
   figure
-    img(src="./Postmodernisme_Andre_kunstformer1.jpg" alt="Odd Nerdrum: «Baby» (1993)")
+    img(src="./Postmodernisme_Andre_kunstformer1.jpg" alt="Kunstverk av sovande barn i ramme. Foto. ")
     figcaption Odd Nerdrum: «Baby» (1993). Foto: Bjørn Reese / VG / Scanpix
 
   h5 Biletkunst
   figure.col.col4.left-image
-    img(src="./Postmodernisme_Andre_kunstformer2.jpg" alt="Andy Warhol: «Campbell’s Soup»")
+    img(src="./Postmodernisme_Andre_kunstformer2.jpg" alt="Eit par ser på vegg med mange like plakatar av Campell hermetikkboks. Foto.")
     figcaption Andy Warhol: «Campbell’s Soup»
 
   p Då <strong>Andy Warhol</strong> (1928–1987) i 1960-åra stilte ut bilete av Campbell tomatsuppe, vart publikum nøydde til å tenkje over kva kunst eigentleg er. Warhol tok kjende produkt og gjenstandar ut av sin vanlege samanheng og gjorde dei til kunst. På den måten vart han ein banebrytar for postmoderne kunstretningar der ideen bak kunstverket var viktigare enn sjølve produktet. 
 
   figure.col.col4.left-image
-    img(src="./Postmodernisme_Andre_kunstformer3.jpg" alt="Pushwagner (Terje Brofos)")
+    img(src="./Postmodernisme_Andre_kunstformer3.jpg" alt="Eldre mann med solbriller og dress foran tre av kunstverka sine. Foto.")
     figcaption Pushwagner (Terje Brofos)
 
   p Den norske kunstnaren <strong>Terje Brofos</strong> (1940–2018), kjend under namnet <strong>Hariton Pushwagner</strong>, gjer bruk av formspråket i popkunsten. Som den amerikanske ”popart”-kunstnaren <strong>Roy Lichtenstein</strong> (1923–1997) nyttar Pushwagner teikneserien, ein tradisjonell lågkultursjanger, som utgangspunkt. Han er mellom anna kjend for bilete som viser det uoversiktlege bylivet og det framandgjorde gjennomsnittsmennesket. 
@@ -396,20 +402,20 @@ PagePeriod(
   p Her i landet markerer <strong>Odd Nerdrum</strong> (1944– ) seg som ein av dei mest sentrale postmoderne kunstnarane. I motsetning til andre samtidige kunstnarar har Nerdrum valt eit formspråk som liknar barokkmålarane på 1600-talet. Men motiva hans er henta frå samtida, og på den måten blandar Nerdrum nytt og gammalt. Nerdrum kallar sjølv bileta sine kitsch, for å markere at han tek avstand frå det etablerte kunstsynet i samtida. 
 
   figure.col.col3.right-image
-    img.col.col12(src="./Postmodernisme_Andre_kunstformer4.jpg" alt="Marianne Heske på ei utstilling på Henie Onstad Kunstsenter.")
+    img.col.col12(src="./Postmodernisme_Andre_kunstformer4.jpg" alt="Kvinne sit i ein kunstinstallasjon med mange små glassfigurar. Foto.")
     figcaption Marianne Heske på ei utstilling på Henie Onstad Kunstsenter. Foto: Rolf M. Aagaard / Aftenposten / Scanpix
 
   p Ein annan sentral norsk kunstnar i den postmoderne tradisjonen er <strong>Marianne Heske</strong> (1946– ). Marianne Heske tingar produkt av lokale handverkarar, som ho så set saman til installasjonar, bilete eller skulpturar. Ein slik konseptuell kunst – der ideen er viktigare enn sjølve handverket – er typisk for den postmoderne retninga. 
 
   figure.col.col4.left-image
-    img(src="./Postmodernisme_Andre_kunstformer5.jpg" alt="Kjartan Slettemark")
+    img(src="./Postmodernisme_Andre_kunstformer5.jpg" alt="Mann utkledd i kunstnerisk kostyme. Foto.")
     figcaption Kjartan Slettemark
 
   p <strong>Kjartan Slettemark</strong> (1932–2008) er ein annan sentral kunstnar i denne perioden. Slettemarks kunst er både sterkt politisk, eksperimentell og leikande i forma. Slettemark er òg kjend for å eksperimentere med ulike medium i kunsten og for sin performancekunst. 
 
   h5 Arkitektur 
   figure.col.col5.left-image
-    img(src="./Postmodernisme_Andre_kunstformer6.jpg" alt="Aker Brygge")
+    img(src="./Postmodernisme_Andre_kunstformer6.jpg" alt="Fasade på bygg med mykje glass. Foto.")
     figcaption Aker Brygge
   p <strong>Aker Brygge</strong> i Oslo kan stå som symbol på postmoderne arkitektur i Noreg. Fram til 1982 var Aker Brygge ein travel industristad der Akers mekaniske Verksted bygde skip. Etter at denne verksemda vart nedlagd, gjorde ein om heile industriområdet til ein stad for underhaldning, forretningar og bustader for pengesterke menneske. Aker Brygge kan dermed symbolisere overgangen frå eit industrisamfunn til eit kommersielt mediesamfunn. 
 
@@ -419,20 +425,20 @@ PagePeriod(
   p Frå 1960-åra og fram til vår tid har rock og pop vore dei klart dominerande musikksjangrane. Det musikalske uttrykket spenner vidt – frå lett diskomusikk i 1970-åra til opprørsk punk i 1980-åra og glatte ”boyband” i 1990-åra. Felles er evna til å formidle kjensler, anten det er snakk om kjærleikssorg, politisk urett eller gleda over å vere ung. Saman med filmen har pop- og rockemusikken ein eineståande identitetsskapande posisjon hos ungdom som annan litteratur og kunst aldri har hatt. 
 
   figure
-    img(src="./Postmodernisme_Andre_kunstformer7.jpg" alt="Mick Jagger i aksjon under ein Rolling Stones-konsert.")
+    img(src="./Postmodernisme_Andre_kunstformer7.jpg" alt="Mannleg vokalist på scenen foran stort publikum på ein fotballstadion. Foto.")
     figcaption Mick Jagger i aksjon under ein Rolling Stones-konsert. Foto: Lynn Goldsmith / Corbis/  Scanpix
 
 
   p I 1960-åra var musikken knytt til ungdomsopprøret i samtida, og grupper som <strong>Beatles</strong> og <strong>Rolling Stones</strong> vart saman med <strong>Bob Dylan</strong> (1941– ) viktige symbol for ungdomane den gong. I 70-åra tok den litt meir svevande og drøymande hippiekulturen over, og artistar som <strong>Janis Joplin</strong> (1943–1970), <strong>Jimi Hendrix</strong> (1942–1970) og <strong>Jim Morrison</strong> (1943–1971, med gruppa Doors) var viktige stemmer her. 
 
   figure.col.col4.left-image
-    img(src="./Postmodernisme_Andre_kunstformer8.jpg" alt="Michael Jackson. Foto: Mark Shenley / Camera Press / Scanpix")
+    img(src="./Postmodernisme_Andre_kunstformer8.jpg" alt="Artist på scenen i gullkostyme med sølvdetaljar. Foto.")
     figcaption Michael Jackson. Foto: Mark Shenley / Camera Press / Scanpix
 
   p <strong>Michael Jackson</strong> (1958–2009) står att som den store artisten i 80- og 90-åra – ein artist som visste å skape sitt eige uttrykk, både musikalsk og visuelt. Fleire av musikkvideoane hans var banebrytande med omsyn til effektar og komposisjon. Michael Jackson kan òg stå som symbol på den postmoderne identiteten: Han skapte og endra identiteten sin ved stadig å skifte utsjånad og klesstil. 
 
   figure
-    img(src="./Postmodernisme_Andre_kunstformer9.jpg" alt="Den siste konserten til a-ha i Oslo Spektrum (2010)")
+    img(src="./Postmodernisme_Andre_kunstformer9.jpg" alt="Musikkgruppe framfører låt på scene. Foto.")
     figcaption Den siste konserten til a-ha i Oslo Spektrum (2010). Foto: Knut Erik Knudsen / VG / Scanpix
   
 
@@ -440,14 +446,14 @@ PagePeriod(
 
   ImageTextBlock(
     :image="require(`./Postmodernisme_Andre_kunstformer10.jpg`)"
-    altText="Jan Garbarek"    
+    altText="Mannleg saksofonist på scene. Foto."    
     )
     h5 Jan Garbarek 
     p (1947– ) er ein av få norske musikarar med internasjonal aksept som stilskapar innanfor jazzen. Garbarek er kjend for å blande inn folketonar i jazzen, og for sitt samarbeid med poeten Jan Erik Vold. Album som Briskeby Blues (1969) og Ingentings bjeller (1977) nådde eit breitt publikum. 
 
   ImageTextBlock(
     :image="require(`./Postmodernisme_Andre_kunstformer11.jpg`)"
-    altText="Mari Boine"    
+    altText="Kvinneleg vokalist på scene. Foto."    
     )
     h5 Mari Boine 
     p (1956– ) er ein annan norsk artist med internasjonal suksess. Musikken hennar er sterkt inspirert av samiske folketonar og joik. Ho bruker jazz og rock til å fornye og modernisere den samiske musikken – ein musikk som ofte blir omtalt som ”verdsmusikk”. 
@@ -458,7 +464,7 @@ PagePeriod(
   p Fram til 1982 hadde NRK monopol på å sende fjernsyns- og radioprogram, men så vart det opna opp for andre aktørar. Både lokale kringkastarar og internasjonale satellittoverførte kanalar skapte konkurranse. 
 
   figure
-    img(src="./Postmodernisme_Andre_kunstformer12.jpg" alt="Biletet er teke i 2007 og viser ein pressekonferanse med dåverande LO-leiar Gerd-Liv Valla.")
+    img(src="./Postmodernisme_Andre_kunstformer12.jpg" alt="Kvinne foran mange mikrofonar på ein pressekonferanse. Foto.")
     figcaption I dag finst det eit mangfald av tv- og radiokanalar som formidlar nyheiter til norske sjåarar og lyttarar. Biletet er teke i 2007 og viser ein pressekonferanse med dåverande LO-leiar Gerd-Liv Valla. Foto: Knut Erik Knudsen / VG /Scanpix
 
   p Eit typisk trekk ved moderne mediehistorie er kommersialisering. Eit ledd i kommersialiseringa av media er meir tabloidisering og kjendisdyrking. Avisene VG og Dagbladet og vekebladet Se og Hør representerer på ulike måtar presse som bruker kjendis- og livsstilsstoff for å nå ut til eit større publikum. Men også tv og radio sel kjendisstoff – og dei skaper kjendisar. 

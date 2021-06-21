@@ -1,5 +1,5 @@
 <template lang="pug">
-PageBook
+PageBook(:showAuthor="false")
 
   h3 Bakgrunn
   img.col.col8.mt5.right-image(src="./Gunnlaug_Bakgrunn.jpg" alt="")
@@ -28,6 +28,8 @@ PageBook
   p Det er ein enkel, knapp forteljemåte som pregar soga, ein stil som har inspirert mange store forfattarar opp gjennom tidene. Berre det som er viktig for handlinga, er komme med. Forteljaren gir eit objektivt referat av det som hender. Personskildringa er nesten berre indirekte, vi lærer personane å kjenne gjennom utsjånad, handlingar og replikkar. Men også namnet til ein person kan fortelje mykje. 
 
   p Gunnlaug blir til for eksempel presentert slik: «Så er sagt om Gunnlaug at han var tidleg vaksen og stor og sterk, og hadde lysbrunt hår som fall vent. Han var svartøygd, med litt stygg nase, men hadde eit tiltalande andlet, var midjesmal og herdebrei, uvanleg velvaksen, storlåten i heile sitt huglynde, tidleg framfus, strid og hard i alt, ein stor skald, men laga gjerne nidviser og vart kalla Gunnlaug Ormstunge.»
+
+  NdlaAudio(source="media/books/gunnlaug/Illuges_drøm.mp3")
 
   img.col.col6.mt5.left-image(src="./Gunnlaug_Fortellermåten.jpg")
   

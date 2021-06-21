@@ -34,7 +34,7 @@ PageBook
 
   p For det første har Fløgstad gjennom hele forfatterskapet kjempet for nynorsk skriftspråk og skriftkultur. Han skriver på nynorsk og har i ulike sammenhenger argumentert for å heve statusen til nynorsk skriftspråk og skriftkultur, noe han blant annet markerte gjennom å gi prispengene fra Nordisk Råds litteraturpris til nettopp Noregs Mållag. 
 
-  figure.col.col6.right-image.mt5
+  //figure.col.col6.right-image.mt5
     img(src='./flogstad_og_kronprinsen.jpg' alt='')
     figcaption Da kronprins Haakon besøkte Chile i 2008, la han veien om Isla Negra der den berømte forfatteren Pablo Neruda hadde holdt til. Kjartan Fløgstad til venstre. Foto: Lise Åserud / Scanpix
     

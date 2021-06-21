@@ -41,7 +41,7 @@ PageBook
 
   p Samtidig har romanen også alvorlige undertoner fordi den tematiserer en generasjon unge radikaleres forsøk på frigjøring. Den provoserte da også samtidas verdikonservative og kristne, selv om dagens lesere nok vil synes at det syndes nokså lite i Syndere i sommersol. 
 
-  .flex.flex-justify-center
+  //.flex.flex-justify-center
     figure.col.col10
     img(src='./hoel_modernist2.jpg' alt='')
     figcaption Filmfestivalen i Haugesund, 2001: Skuespilleren Maria Bonnevie presenterer filmen «Syndere i sommersol». Her er hun sammen med regissøren Daniel Alfredson og skuespilleren Rebecka Hemse. Foto: Heiko Junge / Scanpix

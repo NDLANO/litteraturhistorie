@@ -38,6 +38,11 @@ PageBook
 
   p Obstfelder forfatta rundt 30 tekstar i denne sjangeren. Fleire av dei vart publiserte i tidsskrift, men det var òg mange han ikkje rakk å publisere før han døydde. I 1903 kom Efterladte arbejder, der mellom anna «Byen» og «Hustru» stod på trykk, dei to mest kjende prosalyriske tekstane av Obstfelder. 
 
+  NdlaAudio(
+    source="media/books/obstfelder/Sigbjoern_Obstfelder_Jeg_ser_Ny_versjon.mp3"
+    description="Sigbjørn Obstfelder: Jeg ser"
+  )
+
   h3 «Byen»: eksistensiell angst og framandgjering
   
   figure.col.col12

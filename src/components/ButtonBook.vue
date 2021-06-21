@@ -1,5 +1,5 @@
 <template lang="pug">
-button.btnBook(@pointerdown="onPointerDown" @pointerup="onPointerUp")
+button.btnBook(@pointerdown="onPointerDown" @pointerup="onPointerUp" @keyup.enter="onEnterKey")
   .btnBook_icon
     IconButtonBook
   .btnBook_infos
@@ -34,6 +34,10 @@ export default {
       type: String,
       default: "",
     },
+    period: {
+      type: String,
+      default: "",
+    },
   },
   data() {
     return {
@@ -42,13 +46,17 @@ export default {
     };
   },
   methods: {
+    onEnterKey(event){
+      this.$emit("buttonClick");
+      this.showLink();
+    },
     onPointerDown(event) {
-      console.log("ButtonBook.onPointerDown: event = ", event);
 
       this.mouseX = event.clientX;
       this.mouseY = event.clientY;
     },
     onPointerUp(event) {
+      console.log("OnPointerUp")
       if (this.mouseX === event.clientX && this.mouseY === event.clientY) {
         console.log("ButtonBook.onPointerUp: both x and y is the same");
         this.$emit("buttonClick");
@@ -58,10 +66,10 @@ export default {
       }
     },
     showLink() {
-      console.log("ButtonBook.showLink: id = ", this.id);
+      // Add period query param to the URL
       if (this.id !== "") {
-        // this.$router.push(this.path);
-        const route = `/${this.globalVars.langCode}/books/${this.id}`;
+        let route = `/${this.globalVars.langCode}/books/${this.id}`;
+        if (this.period !== "") route += `?period=${this.period}`;
         this.$router.push(route);
       } else {
         this.$router.push("/nn/books/asbjornsenmoe");

@@ -68,6 +68,11 @@ PageBook
     br
     | med brostein solidarisk på begge sider, gå ut. 
 
+  NdlaAudio(
+    source="media/books/vold/Vold_trikkeskinnediktetdiktet.mp3"
+    description="Trikkeskinnediktet"
+    )
+
   h3 Språk og form
   p Diktsamlinga er delt inn i seks delar. Kvar del inneheld frå sju til 32 dikt. Vold bruker svært sjeldan fast rim og rytme; han varierer mellom å skrive korte dikt i fri form, dikt med to og to eller fire og fire verselinjer i kvar strofe, og lange – nærmast prosaaktige og forteljande parti. Språket er munnleg og lite høgstemt. Og med unntak av den delen som blir kalla Byen H, er tekstane veldig konkrete og inneheld få bilete som krev tolking. I fleire av dikta blir lesaren presentert for fleire versjonar, og forfattaren reviderer sitt eige dikt i diktet. Eit eksempel er «Tale for loffen»:
 

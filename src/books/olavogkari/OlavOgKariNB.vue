@@ -72,6 +72,8 @@ PageBook(:showAuthor="false")
   h5 Dyre- og skjemteviser 
   p er eventyr i strofeform. De gjør narr av balladesjangeren og er reine parodier. «Tor Brynjulv og fluga» og «Reven og bonden» er eksempler på slike viser. 
 
+  NdlaAudio(source="media/books/olavogkari/04_kjerringa_med_staven.mp3")
+
   h3 Balladeformen 
   h5 To- eller firelinjet strofeform 
   p Balladene har tolinjete eller firelinjete strofer og omkved (refreng). Den firelinjete strofen har bare ett refreng, som er etterstilt. Her er et eksempel fra visa «Bendik og Årolilja»: 
@@ -134,6 +136,8 @@ PageBook(:showAuthor="false")
   h5 Gammelstev og nystev
   p Det finnes to slags stevstrofer. Begge har fire verselinjer, men rimmønsteret er ulikt. Gammelstevet er bygd opp slik at linjene 2 og 4 rimer, mens linjene 1 og 3 ikke har rim: 
 
+  NdlaAudio(source="media/books/olavogkari/03_gammelstev.mp3" description="Gammelstev")
+
   em
     p
       | Hanen stend på stabburshella
@@ -165,6 +169,8 @@ PageBook(:showAuthor="false")
 
   h5 Ulik form – forskjellig innhold 
   p Hos setesdølene er det en oppfatning at gamlestevene er alvorlige og mer lyriske i formen. Nystevene er derimot friskere både i innhold og form og kan være mer direkte i uttrykksmåten. Her er det større rom for å improvisere. 
+
+  // Medieinnhold: Beholde bilder. 
 
 </template>
 

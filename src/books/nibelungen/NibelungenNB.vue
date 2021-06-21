@@ -27,6 +27,8 @@ PageBook(:showAuthor="false")
 
   p Andre del handler om hvordan Kriemhild tar hevn. Hun gifter seg med hunerkongen Atle og ber brødrene på besøk. De kommer, selv om de aner uråd. Det ender med at alle burgunderne blir drept, også Kriemhild selv, og ingen får noen gang vite hvor Nibelung-skatten er skjult. 
 
+  // Medieinnhold: beholde både bilder og lydspor om mulig
+  
 </template>
 
 <script>

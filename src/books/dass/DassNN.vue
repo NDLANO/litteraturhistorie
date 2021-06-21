@@ -15,6 +15,8 @@ PageBook
   h3 Nordlands Trompet
   p Nordlands Trompet er eit hyllingsdikt til folk og natur i «Nordlandene» – det som i dag er Troms og Nordland. Hyllinga gjeld alle: prestar og styresmakter, fiskarar, bønder, tenestefolk og leiglendingar:
 
+  NdlaAudio(source="media/books/dass/P_Dass_-_Nordlands_Trompet_-_Ver_hilset.mp3")
+
   blockquote
     | Vær hilset, I Nordlands bebyggende Mænd 
     br

@@ -1,6 +1,6 @@
 <template lang="pug">
 PagePeriod(
-  :bannerImage="require(`./Barokk_01.jpg`)"
+  :bannerImage="require(`./barokk.jpg`)"
   :circleImage="require(`./sirkel_barokk.png`)"
   )
   // Content here
@@ -8,7 +8,7 @@ PagePeriod(
   //p Eksempel på link til boken <router-link to="/nn/books/asbjornsenmoe">Norske folkeeventyr</router-link>
 
   figure.col.col6.right-image
-    img(src="./Barokk_Tida_og_samfunnsforholdene1.jpg" alt="")
+    img(src="./Barokk_Tida_og_samfunnsforholdene1.jpg" alt="Portrettbilde av tre voksne, ei lita jente og en lekende hund. Maleri.")
 
   h5 Kirken mister makt
   p
@@ -21,7 +21,7 @@ PagePeriod(
   h5 Eneveldet
 
   figure.col.col6.right-image
-    img(src="./Barokk_Tida_og_samfunnsforholdene2.jpg" alt="")
+    img(src="./Barokk_Tida_og_samfunnsforholdene2.jpg" alt="Mann i profil. Portrettmaleri.")
     figcaption Kong Fredrik 3. av Danmark og Norge
   p
     | I 1660 blir Fredrik 3. eneveldig konge over Danmark og Norge. Det vil si at han får ubegrenset makt. Kongen konfiskerer deler av de kirkelige eiendommene etter reformasjonen og skaffer seg dermed mer rikdom.  
@@ -33,7 +33,7 @@ PagePeriod(
   h3 Litt om tenkemåten 
 
   figure.col.col4.left-image.mt10
-    img(src="./Barokk_Litt_om_tenkemaaten.jpg" alt="")
+    img(src="./Barokk_Litt_om_tenkemaaten.jpg" alt="Bord med hodeskalle. Illustrasjon.")
     figcaption Detalj fra tittelstikket på førsteutgaven av boka Taare-Offer av Dorothe Engelbretsdotter
 
   h5 Eneveldet  
@@ -55,7 +55,7 @@ PagePeriod(
   h3 Kjennetegn ved barokkstilen 
 
   figure.col.col6.left-image.mt10
-    img(src="./Barokk_Kjennetegn_ved_barokkstilen1.jpg" alt="")
+    img(src="./Barokk_Kjennetegn_ved_barokkstilen1.jpg" alt="Stort pipeorgel som strekker seg opp mot taket. Foto.")
 
   h5 Barokken som stilart 
   p
@@ -70,7 +70,7 @@ PagePeriod(
     | I barokken møter vi en pompøs og prangende livsutfoldelse, med vekt på det overdådige. Skulptur- og malerkunst, barokk arkitektur og møbelstil er preget av en slik overveldende utsmykking. Det spares ikke på verken materialer eller effekter.  
 
   figure.col.col4.left-image
-    img(src="./Barokk_Kjennetegn_ved_barokkstilen2.jpg" alt="")
+    img(src="./Barokk_Kjennetegn_ved_barokkstilen2.jpg" alt="Mann blir korsfestet og tre personer prøver å løfte korset. Maleri.")
 
   h5 Konflikt og dramatikk  
   p
@@ -81,11 +81,11 @@ PagePeriod(
     | Gud står i sentrum i barokken, men kunsten er likevel dualistisk. Det vil si at kunstneren fokuserer både på mennesket (det verdslige) og på Gud (det åndelige). Kunstneren fokuserer altså både på dette livet og på livet etter døden.  
 
   figure.col.col4.right-image
-    img(src="./Barokk_Kjennetegn_ved_barokkstilen3.jpg" alt="Antonio Vivaldi")
+    img(src="./Barokk_Kjennetegn_ved_barokkstilen3.jpg" alt="Portrett av person med fiolin.  Maleri.")
     figcaption Antonio Vivaldi
 
   figure.col.col4.right-image
-    img(src="./Barokk_Kjennetegn_ved_barokkstilen4.jpg" alt="Johan Sebastian Back")
+    img(src="./Barokk_Kjennetegn_ved_barokkstilen4.jpg" alt="Mann med et ark i hånden. Maleri.")
     figcaption Johan Sebastian Back
 
 
@@ -96,7 +96,7 @@ PagePeriod(
   h3 Litteraturen 
 
   figure.col.col6.left-image
-    img(src="./Barokk_Litteraturen.jpg" alt="")
+    img(src="./Barokk_Litteraturen.jpg" alt="Tenkende kvinne som skriver i ei notatbok. Illustrasjon.")
     figcaption Tittelstikket på førsteutgaven av boka Taare-Offer av Dorothe Engelbretsdotter
     
   h5 Religiøs litteratur 
@@ -110,7 +110,7 @@ PagePeriod(
   div.flex.flex-wrap
     div.col.col4
       figure.figure-left.mt10
-        img(src="./Barokk_Thomas_Kingo.jpg" alt="Thomas Kingo")
+        img(src="./Barokk_Thomas_Kingo.jpg" alt="Prest i sort kappe og hvit krage som leser i ei bok. Illustrasjon.")
     div.col.col8
       h5 Thomas Kingo (1634–1703) 
       p
@@ -119,7 +119,7 @@ PagePeriod(
   div.flex.flex-wrap
     div.col.col4
       figure.figure-left.mt10
-        img(src="./Barokk_Engelbretsdotter.jpg" alt="Dorothe Engelbretsdotter")
+        img(src="./Barokk_Engelbretsdotter.jpg" alt="Portrett av kvinne med elegant hatt. Illustrasjon.")
     div.col.col8
       h5 Dorothe Engelbretsdotter (1634–1716)  
       p
@@ -128,7 +128,7 @@ PagePeriod(
   div.flex.flex-wrap
     div.col.col4
       figure.figure-left.mt10
-        img(src="./Barokk_Dass.jpg" alt="Peter Dass")
+        img(src="./Barokk_Dass.jpg" alt="Prest i sort kappe og hvit prestekrage som holder ei bok. Maleri.")
     div.col.col8
       h5 Petter Dass (1647–1707)  
       p
@@ -146,17 +146,30 @@ PagePeriod(
     | Bergen og Vestlandet er blitt sterkt språklig påvirket av den hanseatiske (tysk-nederlandske) handelsvirksomheten som har foregått helt siden 1200-tallet. Denne påvirkningen fortsetter og farger både talemålet og skriftspråket i Bergen.  
 
   figure.col.col6.right-image
-    img(src="./Bibel-Chr._III_-_1.jpg" alt="")
+    img(src="./Bibel-Chr._III_-_1.jpg" alt="Forsiden til eldre utgave av Bibelen. Illustrasjon.")
     figcaption Tittelbladet på bibelen til Kristian 3. fra 1550
+      br
+      a(href="media/periods/barokk/Bibel1550.jpg" target="_blank") Se ark fra bibelen
+      NdlaAudio(
+        source="media/periods/barokk/tekst2_Christian_III_bibel_juleevangeliet.mp3"
+      )
+
+
   h5 Bibelen på dansk  
   p
     | Det kirkelige språket er dansk fordi det ble brukt av danske prester. Både bibel, katekisme og salmebok er trykt på dansk. Bibelen kommer ut på dansk i 1550, og det er denne oversettelsen som blir brukt her i landet helt fram til 1904. 
   h5 Administrasjonsspråket 
   p
-    | Dansk er administrasjonsspråket på 1600-tallet. De fleste embetsmenn er danske, og de skriver og snakker dansk. Offentlige dokumenter og sakspapir (såkalte diplomer) blir skrevet på dansk.  
+    | Dansk er administrasjonsspråket på 1600-tallet. De fleste embetsmenn er danske, og de skriver og snakker dansk. Offentlige dokumenter og sakspapir (såkalte diplomer) blir skrevet på dansk.
+
   h5 Bygdemålstekster  
   p
     | Det finnes likevel tekster med innslag av dialekt og norsk syntaks. Dette er tekster som blir brukt i bryllup og festlige lag. Det finnes også jordbøker (dokumenter om eiendommer), lover og brev der teksten er farget av forfatterens dialekt. Slike tekster kaller vi gjerne bygdemålstekster.  
+
+  p
+    a(href="media/periods/barokk/anfind.html" target="_blank") Les folkevisa ”Anfind han gjenghir” fra ”Tiende lystige Norske Viser”
+
+
   h5 Norvagismer  
   p
     | Både Petter Dass og Dorothe Engelbretsdotter skriver på dansk, men de bruker norske ord og uttrykk enkelte steder. Slike ord kaller vi norvagismer. Et eksempel kan være foss for det danske ordet ”vandfald”. Petter Dass brukte ellers norske ord når han omtalte fiskeslag og fangstredskaper.
@@ -164,17 +177,17 @@ PagePeriod(
   h3 Bildekunst og arkitektur 
 
   figure
-    img(src="./Barokk_Bildekunst_og_arkitektur1.jpg" alt="Berninis baldakin og kor i Peterskirken")
+    img(src="./Barokk_Bildekunst_og_arkitektur1.jpg" alt="Innsiden av en kirke med utsmykninger i marmorgulvet og i taket. Foto.")
     figcaption Berninis baldakin og kor i Peterskirken
 
   div.col.col6.display-ib
     figure
-      img(src="./Barokk_Bildekunst_og_arkitektur2.jpg" alt="Peter Paul Rubens: ”Døtrene til Leukippos blir røvet”")
+      img(src="./Barokk_Bildekunst_og_arkitektur2.jpg" alt="To nakne kvinner som er omfavnet av to menn, samt to hester og et barn. Maleri.  ")
       figcaption Peter Paul Rubens: «Leukippos’ døtre blir røvet»
 
   div.col.col6.display-ib
     figure
-      img(src="./Barokk_Bildekunst_og_arkitektur3.jpg" alt="Detalj fra skulpturen ”Den hellige Teresas ekstase” av Giovanni Lorenzo Bernini")
+      img(src="./Barokk_Bildekunst_og_arkitektur3.jpg" alt="Skulptur av bøyd hode med krøllete hår. Foto.")
       figcaption Detalj fra skulpturen «Den hellige Teresas ekstase» av Giovanni Lorenzo Bernini
 </template>
 

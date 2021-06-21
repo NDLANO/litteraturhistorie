@@ -26,6 +26,8 @@ PageBook
 
   h3 «Som den gyldne sol frembryder»
 
+  NdlaAudio(source="media/books/kingo/kingo.mp3")
+
   img.col.col3.right-image(src="./Kingo_Alter.jpg" alt="")
   blockquote
     | Som den gyldne sol frembryder

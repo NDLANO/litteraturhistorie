@@ -1,7 +1,7 @@
 <template lang="pug">
 li.sectionList_item
   // * The entire section
-  section.lo_sectionEra(:style="sectionWidth")
+  section.lo_sectionEra(:style="sectionSize")
     // * Topbar with line and dots
     ul.lo_topBar_timeline
       TimelineTimeslot(
@@ -17,22 +17,26 @@ li.sectionList_item
           .circleEra_date {{ from }}-{{ to }}
           h2.circleEra_title {{ title }}
           button.btnEra(:id="id"
+            @keyup.enter="onEraEnterKey"
             @pointerdown="onPointerDown"
             @pointerup="onEraPointerUp"
           ) Mer info                  
     // * List of books
-    ul.bookList
-      li(v-for="book in periodBooks" :key="book.id")
+    ul.bookList(:style="borderBottomStyle")
+      li(v-if="showBooks" v-for="book in periodBooks" :key="book.id")
         ButtonBook(
           :id="book.id"
           :title="book.nbTitle"
           :author="book.author"
           :style="getBookStyle(book)"
+          :period="id"
           @buttonClick="$emit('buttonClick')"
         )
-    SeparatorAuthor(v-if="showAuthorSeparator")
+    .div(v-if="showPersons")
+      SeparatorAuthor_nb(v-if="showAuthorSeparator && globalVars.langCode === 'nb'")
+      SeparatorAuthor_nn(v-if="showAuthorSeparator && globalVars.langCode === 'nn'")
     // * List of authors
-    ul.authorsList
+    ul.authorsList(v-if="showPersons")
       li(v-for="author in periodAuthors" :key="author.id")
         ButtonAuthor(
           :name="author.name"
@@ -40,6 +44,7 @@ li.sectionList_item
           :gotText="author.nnText !== ''"
           @pointerdown="onPointerDown"
           @pointerup="onAuthorPointerUp(author, $event)"
+          @keyup.enter="onAuthorClick(author)"
         )
     ul.lo_topBar_timeline.lineslots
       li.timeslot(
@@ -47,7 +52,7 @@ li.sectionList_item
         :key="year"
         :style="{ width: year[1] * sectionWidthMultiplier + 'px'}"
       )
-        .timeSlot_line
+        .timeSlot_line(:style="timeSlotLineStyle")
 
 </template>
 
@@ -55,7 +60,8 @@ li.sectionList_item
 import ButtonBook from "@/components/ButtonBook";
 import ButtonAuthor from "@/components/ButtonAuthor";
 
-import SeparatorAuthor from "@/components/ui/SeparatorAuthor";
+import SeparatorAuthor_nb from "@/components/ui/SeparatorAuthor_nb";
+import SeparatorAuthor_nn from "@/components/ui/SeparatorAuthor_nn";
 import TimelineTimeslot from "@/components/TimelineTimeslot";
 
 import { books } from "@/js/booksData";
@@ -111,6 +117,14 @@ export default {
       type: Number,
       default: 1,
     },
+    showBooks: {
+      type: Boolean,
+      default: true,
+    },
+    showPersons: {
+      type: Boolean,
+      default: true,
+    },
   },
   data() {
     return {
@@ -125,16 +139,28 @@ export default {
   components: {
     ButtonBook,
     ButtonAuthor,
-    SeparatorAuthor,
+    SeparatorAuthor_nb,
+    SeparatorAuthor_nn,
     TimelineTimeslot,
   },
   computed: {
-    sectionWidth() {
+    timeSlotLineStyle() {
+      if (!this.showPersons) return { height: "500px" };
+      return {};
+    },
+    borderBottomStyle() {
+      if (!this.showPersons) return { borderBottom: "none" };
+      return {};
+    },
+    sectionSize() {
       const widthValues = this.yearMarkings.map(
         e => e[1] * this.sectionWidthMultiplier,
       );
       const sum = widthValues.reduce((a, b) => a + b, 0);
-      return { width: sum + "px" };
+
+      let heightValue = "auto";
+      if (!this.showPersons) heightValue = "555px";
+      return { width: sum + "px", height: heightValue };
     },
     periodPath() {
       return "/" + this.globalVars.langCode + "/periods/" + this.id + "/";
@@ -171,6 +197,10 @@ export default {
       } else {
         console.log("TimelineSection.onEraPointerUp: mouse has moved");
       }
+    },
+    onEraEnterKey(event){
+      const route = `/${this.globalVars.langCode}/periods/${this.id}`;
+      this.$router.push(route);
     },
     onAuthorClick(author) {
       this.$emit("authorClick", this.$event, author);

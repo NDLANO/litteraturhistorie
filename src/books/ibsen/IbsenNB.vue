@@ -15,7 +15,6 @@ PageBook
 
   p Ibsen hadde vært leder for Det Norske Theateret i Kristiania, men i 1862 gikk teateret konkurs, og Ibsen opplevde noen vanskelige år både økonomisk, kunstnerisk og privat. I 1864 forlot han og kona Norge og bosatte seg så i Italia og Tyskland. Fedrelandet besøkte de bare noen få ganger i denne utenlandsperioden, som skulle vare i 27 år. Men det var i disse årene Ibsen fikk det store kunstneriske gjennombruddet sitt, både i Norge og ute i Europa. 
 
-  img.col.col6.right-image.mt5(src='./ibsen_ikon_og_folkehelt2.jpg' alt='')
   p Først i 1891 flyttet Ibsen og kona tilbake til hjemlandet, og de bosatte seg i Arbins gate like ved Slottet i Oslo. Ibsen var nå en kjent dikter, ja en kjendis. Han hadde en daglig spasertur til samme tid hver dag, fra hjemmet sitt og ned til stamkafeen Grand Café, og mange mennesker kom bare for å se ham spasere. Ibsen døde i 1906, etter flere års sykdom. Han var da blitt et nasjonalt ikon og en folkehelt, og han ble gravlagt i Æreslunden på Vår Frelsers gravlund i Oslo.  
   
   h3 Fra nasjonalromantikk til modernisme 
@@ -108,9 +107,6 @@ PageBook
   p Både i samtida og seinere har en fokusert mye på Ibsen som en realistisk forfatter som satte problemer under debatt. Men med Hedda Gabler og de andre stykkene fra 1890-årene peker Ibsen i større grad fram mot et mer modernistisk teater. Han setter blant annet søkelyset på flere av modernismens problemstillinger, som opplevelsen av meningstap og isolasjon, av fremmedgjøring og mangel på identitet.  
 
   h3 Ibsen i dag 
-  figure.col.col6.left-image.mt5
-   img(src='./ibsen_Ibsen_i_dag.jpg' alt='')
-   figcaption Tidligare kultur- og kyrkjeminister Trond Giske ved eit portrett av Henrik Ibsen. Foto: Lise Åserud / Scanpix
 
   p Nest etter Shakespeare er Henrik Ibsen den mest spilte dramatikeren i verden. Nora, Hedda, Peer Gynt og Hedvig blir tolket av kinesiske, brasilianske, russiske og indiske skuespillere, for å nevne noen. Men hvorfor alt engasjementet rundt Ibsen? Hva er det som gjør at han fortsatt er så aktuell? 
 

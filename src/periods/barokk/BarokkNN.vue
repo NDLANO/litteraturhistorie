@@ -1,13 +1,13 @@
 <template lang="pug">
 PagePeriod(
-  :bannerImage="require(`./Barokk_01.jpg`)"
+  :bannerImage="require(`./barokk.jpg`)"
   :circleImage="require(`./sirkel_barokk.png`)"
   )
   // Content here
   h3 Tida og samfunnstilhøva 
 
   figure.col.col6.right-image
-    img(src="./Barokk_Tida_og_samfunnsforholdene1.jpg" alt="")
+    img(src="./Barokk_Tida_og_samfunnsforholdene1.jpg" alt="Portrettbilete av tre vaksne, ei lita jente og ein leikande hund. Måleri.")
 
   h5 Kyrkja mister makt 
   p
@@ -20,7 +20,7 @@ PagePeriod(
   h5 Eineveldet 
 
   figure.col.col6.right-image
-    img(src="./Barokk_Tida_og_samfunnsforholdene2.jpg" alt="")
+    img(src="./Barokk_Tida_og_samfunnsforholdene2.jpg" alt="Mann i profil. Portrettmåleri.")
     figcaption Kong Fredrik 3. av Danmark og Noreg
 
   p
@@ -33,7 +33,7 @@ PagePeriod(
   h3 Litt om tenkjemåten 
 
   figure.col.col4.right-image.mt10
-    img(src="./Barokk_Litt_om_tenkemaaten.jpg" alt="Detalj frå tittelstikket på førsteutgåva av boka Taare-Offer av Dorothe Engelbretsdotter")
+    img(src="./Barokk_Litt_om_tenkemaaten.jpg" alt="Bord med hovudskalle. Illustrasjon.")
     figcaption Detalj frå tittelstikket på førsteutgåva av boka Taare-Offer av Dorothe Engelbretsdotter  
 
   h5 Eineveldet 
@@ -55,7 +55,7 @@ PagePeriod(
   h3 Kjennemerke ved barokkstilen 
 
   figure.col.col6.left-image.mt10
-    img(src="./Barokk_Kjennetegn_ved_barokkstilen1.jpg" alt="")
+    img(src="./Barokk_Kjennetegn_ved_barokkstilen1.jpg" alt="Stort pipeorgel som strekk seg opp mot taket. Foto.")
 
   h5 Barokken som stilart 
   p 
@@ -70,7 +70,7 @@ PagePeriod(
     | I barokken møter vi ei pompøs og prangande livsutfolding, med vekt på det overdådige. Skulptur- og målarkunst, barokk arkitektur og møbelstil er prega av ei slik overveldande utsmykking. Det blir ikkje spart på verken materiale eller effektar.  
 
   figure.col.col4.left-image
-    img(src="./Barokk_Kjennetegn_ved_barokkstilen2.jpg" alt="")    
+    img(src="./Barokk_Kjennetegn_ved_barokkstilen2.jpg" alt="Mann blir korsfesta og tre personar prøver å løfte korset. Måleri.")    
 
   h5 Konflikt og dramatikk 
   p 
@@ -81,11 +81,11 @@ PagePeriod(
     | Gud står i sentrum i barokken, men kunsten er likevel dualistisk. Det vil seie at kunstnaren fokuserer på både mennesket (det verdslege) og Gud (det åndelege). Kunstnaren fokuserer altså både på dette livet og på livet etter døden. 
 
   figure.col.col4.right-image
-    img(src="./Barokk_Kjennetegn_ved_barokkstilen3.jpg" alt="Antonio Vivaldi")
+    img(src="./Barokk_Kjennetegn_ved_barokkstilen3.jpg" alt="Portrett av person med fiolin.  Måleri.")
     figcaption Antonio Vivaldi
 
   figure.col.col4.right-image
-    img(src="./Barokk_Kjennetegn_ved_barokkstilen4.jpg" alt="Johan Sebastian Back")
+    img(src="./Barokk_Kjennetegn_ved_barokkstilen4.jpg" alt="Mann med et ark i handa. Måleri.")
     figcaption Johan Sebastian Back
 
   h5 Sterke kontrastar 
@@ -96,7 +96,7 @@ PagePeriod(
   h3 Litteraturen 
 
   figure.col.col6.left-image
-    img(src="./Barokk_Litteraturen.jpg" alt="Tittelstikket på førsteutgåva av boka Taare-Offer av Dorothe Engelbretsdotter")
+    img(src="./Barokk_Litteraturen.jpg" alt="Tenkande kvinne som skriv i ei notatbok. Illustrasjon.")
     figcaption Tittelstikket på førsteutgåva av boka Taare-Offer av Dorothe Engelbretsdotter
 
   h5 Religiøs litteratur 
@@ -110,7 +110,7 @@ PagePeriod(
   div.flex.flex-wrap
     div.col.col4
       figure.figure-left.mt10
-        img(src="./Barokk_Thomas_Kingo.jpg" alt="Thomas Kingo")
+        img(src="./Barokk_Thomas_Kingo.jpg" alt="Prest i sort kappe og kvit krage som les i ei bok. Illustrasjon.")
     div.col.col8
       h5 Thomas Kingo (1634–1703) 
       p
@@ -119,7 +119,7 @@ PagePeriod(
   div.flex.flex-wrap
     div.col.col4
       figure.figure-left.mt10
-        img(src="./Barokk_Engelbretsdotter.jpg" alt="Dorothe Engelbretsdotter")
+        img(src="./Barokk_Engelbretsdotter.jpg" alt="Portrett av kvinne med elegant hatt. Illustrasjon.")
 
     div.col.col8
       h5 Dorothe Engelbretsdotter (1634–1716) 
@@ -129,7 +129,7 @@ PagePeriod(
   div.flex.flex-wrap
     div.col.col4
       figure.figure-left.mt10
-        img(src="./Barokk_Dass.jpg" alt="Peter Dass")
+        img(src="./Barokk_Dass.jpg" alt="Prest i sort kappe og kvit prestekrage som held ei bok. Måleri.")
     div.col.col8
       h5 Petter Dass (1647–1707) 
       p
@@ -150,8 +150,14 @@ PagePeriod(
     | Bergen og Vestlandet har hatt ein sterk språkleg påverknad frå den hanseatiske (tysk-nederlandske) handelsverksemda som har gått føre seg heilt sidan 1200-talet. Denne påverknaden held fram og fargar både talemålet og skriftspråket i Bergen. 
 
   figure.col.col6.right-image
-    img(src="./Bibel-Chr._III_-_1.jpg" alt="Tittelbladet på bibelen til Kristian 3. frå 1550")
+    img(src="./Bibel-Chr._III_-_1.jpg" alt="Forsida til eldre utgåve av Bibelen. Illustrasjon.")
     figcaption Tittelbladet på bibelen til Kristian 3. frå 1550
+      br
+      a(href="media/periods/barokk/Bibel1550.jpg" target="_blank") Sjå ark fra bibelen
+      NdlaAudio(
+        source="media/periods/barokk/tekst2_Christian_III_bibel_juleevangeliet.mp3"
+      )
+
   h5 Bibelen på dansk 
   p
     | Det kyrkjelege språket er dansk fordi det blei brukt av danske prestar. Både bibel, katekisme og salmebok er prenta på dansk. Bibelen kjem ut på dansk i 1550, og det er denne omsetjinga som blir brukt her i landet heilt fram til 1904. 
@@ -160,9 +166,16 @@ PagePeriod(
   p
     | Dansk er administrasjonsspråket på 1600-talet. Dei fleste embetsmenn er danske, og dei skriv og taler dansk. Offentlege dokument og sakspapir (såkalla diplom) blir skrivne på dansk. 
 
+  p
+    a(href="media/periods/barokk/anfind.html" target="_blank") Les folkevisa ”Anfind han gjenghir” frå ”Tiende lystige Norske Viser”
+
   h5 Bygdemålstekstar  
   p
     | Det finst likevel tekstar med innslag av dialekt og norsk syntaks. Dette er tekstar som blir nytta til bryllaup og festlege lag. Det finst også jordbøker (dokument om eigedommar), lover og brev der teksten er farga av dialekten til forfattaren. Slike tekstar kallar vi gjerne bygdemålstekstar. 
+
+  p
+    a(href="media/periods/barokk/anfind.html" target="_blank") Les folkevisa ”Anfind han gjenghir” frå ”Tiende lystige Norske Viser”
+
 
   h5 Norvagismar 
   p
@@ -171,17 +184,17 @@ PagePeriod(
   h3 Biletkunst og arkitektur
 
   figure
-    img(src="./Barokk_Bildekunst_og_arkitektur1.jpg" alt="Berninis baldakin og kor i Peterskyrkja")
+    img(src="./Barokk_Bildekunst_og_arkitektur1.jpg" alt="Innsida av ei kjerke med utsmykkingar i marmorgolvet og i taket. Foto.")
     figcaption Berninis baldakin og kor i Peterskyrkja
 
   div.col.col6.display-ib.p5
     figure
-      img(src="./Barokk_Bildekunst_og_arkitektur2.jpg" alt="Peter Paul Rubens: ”Døtrene til Leukippos blir røva”")
+      img(src="./Barokk_Bildekunst_og_arkitektur2.jpg" alt="To nakne kvinner som er omfavna av to menn, samt to hestar og eit barn.  Måleri.")
       figcaption Peter Paul Rubens: ”Døtrene til Leukippos blir røva”
 
   div.col.col6.display-ib.p5
     figure
-      img(src="./Barokk_Bildekunst_og_arkitektur3.jpg" alt="Detalj frå skulpturen ”Den heilage Teresas ekstase” av Giovanni Lorenzo Bernini")
+      img(src="./Barokk_Bildekunst_og_arkitektur3.jpg" alt="Skulptur av bøygd hovud med krøllete hår. Foto.")
       figcaption Detalj frå skulpturen ”Den heilage Teresas ekstase” av Giovanni Lorenzo Bernini
 
 </template>

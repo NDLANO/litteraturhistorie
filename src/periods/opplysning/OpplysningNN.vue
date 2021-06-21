@@ -8,7 +8,7 @@ PagePeriod(
   h3 Tida og samfunnstilhøva 
 
   figure
-    img(src="./Opplysningstid_Tida-og-samfunnsforholdene1.jpg" alt="Stormen på Bastillen 14. juli 1789 Isaac Newton innleidde den franske revolusjonen")
+    img(src="./Opplysningstid_Tida-og-samfunnsforholdene1.jpg" alt="Krigføring utanfor ein borg med røyk i bakgrunnen. Måleri.")
     figcaption Stormen på Bastillen 14. juli 1789 Isaac Newton innleidde den franske revolusjonen
 
   h5 Borgarskapet veks fram
@@ -22,7 +22,7 @@ PagePeriod(
   div.flex.flex-wrap
     div.col.col4
       figure.figure-left
-        img(src="./Opplysningstid_Tida-og-samfunnsforholdene2.jpg" alt="Isaac Newton")
+        img(src="./Opplysningstid_Tida-og-samfunnsforholdene2.jpg" alt="Portrettbilete av mann med langt hår. Måleri.")
         figcaption Isaac Newton
     div.col.col8
       h5 Naturvitskapen skaper framtidsoptimisme
@@ -32,7 +32,7 @@ PagePeriod(
   h3 Tankar i tida
 
   figure.col.col5.right-image
-    img(src="./Opplysningstid_Tanker_i_tida.jpg" alt="Detalj frå omslaget til Encyclopédie (1772), teikna av Charles-Nicolas Cochin og gravert av Bonaventure-Louis Prévost. Biletet er fylt med symbolisme: Figuren i midten er sanninga, omgitt av eit skinande lys (det sentrale symbolet i opplysningstida). Figurane til høgre er fornuft og filosofi, som riv ned sløret som dekkjer sanninga.")
+    img(src="./Opplysningstid_Tanker_i_tida.jpg" alt="Kvinner med blomekransar i håret sit i grupper. Lysstrålar uthevar den øvste kvinna. Illustrasjon.")
     figcaption Detalj frå omslaget til Encyclopédie (1772), teikna av Charles-Nicolas Cochin og gravert av Bonaventure-Louis Prévost. Biletet er fylt med symbolisme: Figuren i midten er sanninga, omgitt av eit skinande lys (det sentrale symbolet i opplysningstida). Figurane til høgre er fornuft og filosofi, som riv ned sløret som dekkjer sanninga.
 
   h5 Fokus på enkeltmennesket
@@ -58,7 +58,7 @@ PagePeriod(
   h3 Om stilen – klassisismen
 
   figure.col.col4.right-image
-    img(src="./Opplysningstid_Klassisismen1.jpg" alt="Palladios Villa Rotonda i Italia")
+    img(src="./Opplysningstid_Klassisismen1.jpg" alt="Herskapeleg bygg med brei trapp og høge søyler. Foto.")
     figcaption Palladios Villa Rotonda i Italia
 
 
@@ -68,13 +68,18 @@ PagePeriod(
   h5 Idealet: harmoni og måtehald
   p
     | Klassisismen er ein reaksjon på dei sterkt overdrivne effektane i barokkstilen. Idealet er harmoni og meir måtehald i bruken av verkemiddel.
+
+  figure
+    img(src="./Opplysningstid_Klassisismen2.jpg" alt="Symmetrisk bygning med dekorativ balkong og tak. Foto.")
+    figcaption Klassisistisk arkitektur: Jenisch Haus i Hamburg
+
   h5 Samanfall i tid, stad og handling
   p
     | Diktekunst blir rekna for handverk. Det er tydelege reglar for korleis ein skal skrive i dei ulike sjangrane. Det klassiske dramaet følgjer regelen om samanfall i tid, stad og handling.
 
   h3 Litteraturen
   figure.col.col5.left-image
-    img(src="./Opplysningstid_Litteraturen1.jpg" alt="Ludvig Holberg")
+    img(src="./Opplysningstid_Litteraturen1.jpg" alt="Portrett av en mann med krøllete hår. Måleri.")
     figcaption Ludvig Holberg
 
   p
@@ -89,9 +94,24 @@ PagePeriod(
   p
     | Niels Klims underjordiske reise er ein sciencefictionroman – på latin! Reisa endar i ideallandet Potu (Utopia), der adelen er rydda av vegen, og bøndene er dei mest fornemme. På den måten lanserer Holberg ein kamuflert samfunnskritikk.
 
+  NdlaAudio(
+    source="media/periods/opplysning/Holberg_Erasmus_Montanus_nrk_lesekunst.mp3"
+    description="Erasmus Montanus"
+    )
+
+  NdlaAudio(
+    source="media/periods/opplysning/Jeppe_på_Bjerget_med_Hauk_Aabel.mp3"
+    description="Jeppe på Bjerget"
+  )
+
   figure
-    img(src="./Opplysningstid_Litteraturen2.jpg" alt="Norske selskap")
+    img(src="./Opplysningstid_Litteraturen2.jpg" alt="Herskapelege menneske samla rundt noen bord. Måleri.")
     figcaption Norske selskap
+
+  NdlaAudio(
+    source="media/periods/opplysning/Norges_skaal.mp3"
+    description="Norske selskap"
+  )
 
   h5 Norsk studentmiljø i København
   p
@@ -116,9 +136,19 @@ PagePeriod(
   h5 Fransk som diplomatspråk
   p
     | Frankrike er ei stormakt. Latin blir derfor avløyst av fransk som diplomatspråk. Også i overklassemiljøa rundt om i Europa får det franske språket status.
+
   h5 Kansellistil
+
   p
     | Det tysk-latinske stilmønsteret er eit ideal. Dette er ei uttrykksform med lange ytringar, mange leddsetningar og innskot. Skrivemåten har seinare fått nemninga kansellistil.
+
+  p Eksempel på kansellistil:
+    br 
+    a(href="media/periods/opplysning/Egede.jpg" target="_blank") Hans Egede: ”Grønlands Naturell Historie” (1741)
+    NdlaAudio(
+      source="media/periods/opplysning/tekst5_Egede_gronlands_naturelle_historie.mp3"
+    )
+
   h5 Holberg er kritisk
   p
     | Holberg er kritisk til denne skrivestilen. Han er dessutan kritisk til bruken av lånord av fransk eller latinsk opphav, og han argumenterer for å bruke eit enklare og meir talemålsnært skriftspråk. Dei få som er skrivekunnige, bruker embetsspråket, og dermed blir kansellistilen normgivande.
@@ -132,13 +162,22 @@ PagePeriod(
   p
     | Skriftspråket er dansk, og dei som kan skrive, skriv dansk. 
 
+  p Eksempel på språket i opplysningslitteraturen: 
+    br
+    a(href="media/periods/opplysning/Pontoppidan.jpg" target="_blank") Pontoppidan: «Geografisk Oplysning til Kartet over sydlige Norge» (1785) 
+    NdlaAudio(
+      source="media/periods/opplysning/tekst6_Pontoppidan_Geografisk_beskivelse.mp3"
+    )
+
+
+  .clear 
   h3 Andre kunstformer
 
   figure
-    img(src="./Opplysningstid_Andre_kunstformer1.jpg" alt="Kyrkje i rokokkostil, Ottobeuren i Böhmen")
+    img(src="./Opplysningstid_Andre_kunstformer1.jpg" alt="Interiør i kirke med benkar og kvite, utsmykka vegger. Foto.")
     figcaption Kyrkje i rokokkostil, Ottobeuren i Böhmen.
   figure
-    img(src="./Opplysningstid_Andre_kunstformer2.jpg" alt="Måleri av Jean-Antoine Watteau (1721)")
+    img(src="./Opplysningstid_Andre_kunstformer2.jpg" alt="Ei gruppe menneske i skogen. Måleri.")
     figcaption Måleri av Jean-Antoine Watteau (1721)
 
 
@@ -147,7 +186,7 @@ PagePeriod(
     | Stilretninga som dominerer biletkunst, møblar og arkitektur på 1700-talet, kallar vi rokokko. Denne stilen bryt med barokkens bruk av overdådige verkemiddel. Det er ein enklare, meir elegant og mindre kjensleladd stil. 
   h5 Ny musikkstil
   figure
-  img(src="./Opplysningstid_Andre_kunstformer3.jpg" alt="Mozart spelar kammermusikk saman med systera og faren")
+  img(src="./Opplysningstid_Andre_kunstformer3.jpg" alt="Ei kvinne og to menn ved eit orgel. Mannen på høgre side held ein fiolin. Måleri.")
   figcaption Mozart spelar kammermusikk saman med systera og faren
 
   p
@@ -162,7 +201,7 @@ PagePeriod(
   .flex.flex-wrap
     .col.col4
       figure.figure-left
-        img(src="./Opplysningstid_Andre_kunstformer4.jpg" alt="")
+        img(src="./Opplysningstid_Andre_kunstformer4.jpg" alt="Mann med kvit pudderparykk. Måleri.")
     .col.col8
       h5 To store wienerklassisistar
       p
@@ -170,7 +209,7 @@ PagePeriod(
   .flex.flex-wrap
     .col.col4
       figure.figure-left
-        img(src="./Opplysningstid_Andre_kunstformer5.jpg" alt="")
+        img(src="./Opplysningstid_Andre_kunstformer5.jpg" alt="Fokusert mann noterer i eit hefte. Måleri.")
     .col.col8
       h5 Beethoven som wienerklassisist
       p

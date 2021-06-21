@@ -77,6 +77,8 @@ PageBook
 
   p De to siste bøkene av Camilla Collett kom ut i 1879 og 1885. Begge er samlinger av tidligere artikler og essay, og begge har tittelen Mod Strømmen (I og II). Det er her hun identifiserer seg med kjerringa fra folkeeventyret, kjerringa som fløt mot strømmen: «Og saa vil jeg blive ved at klippe og klippe de seige Strenge, der binder os til den gamle Trældom, blive ved, blive ved, indtil Stemmen lyder over en Gravhøi.» Collett døde i 1895, men stemmen hennes inspirerer fortsatt kvinner.  
 
+  // Medieinnhold: Beholde bilder. Usikker på hva det er i lyd/video helt i starten og under politikk
+
 </template>
 
 <script>

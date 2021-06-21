@@ -49,6 +49,18 @@ PageBook(:showAuthor="false")
 
   p Hans Strøm var prest i Borgund prestegjeld på Sunnmøre. Han var inspirert av Linné og Pontoppidans opplysningsskrifter. I 1755 begynte han å nedtegne systematisk det folk fortalte han, og ting han selv observerte. Han laget også egne tegninger. Det viktigste samlet han i ei notisbok som han kalte Annotations Boog over de Merkværdigheder som udi Syndmørs Fogderie forefindes. I 1766 gav han ut hovedverket sitt, Søndmørs Beskrivelse. 
 
+  NdlaAudio(
+    source="media/periods/opplysning/tekst5_Egede_gronlands_naturelle_historie.mp3"
+    description="Hans Egede: Grønlands naturelle historie"
+    )
+    img.col.col12(src='media/periods/opplysning/Egede.jpg' alt='')
+
+  NdlaAudio(
+    source="media/periods/opplysning/tekst6_Pontoppidan_Geografisk_beskivelse.mp3"
+    description="Erik Pontoppidan: Geografisk beskrivelse av det sydlige Norge"
+    )
+    img.col.col12(src='media/periods/opplysning/Pontoppidan.jpg' alt='')
+
 
   //Medieinnhold: Beholde bilder og de to nederste lydklippene
 

@@ -12,7 +12,7 @@ PagePeriod(
 
   h3 Vikingtida (ca. 800–1050)  
 
-  img.col.col7.right-image(src="./Norroen_Tida_og_samfunnsforholdene1.jpg" alt="")
+  img.col.col7.right-image(src="./Norroen_Tida_og_samfunnsforholdene1.jpg" alt="Tre vikingskip seiler avgårde ut mot horisonten i havet. Illustrasjon.")
 
   p
     | I 793 plyndret vikingene det engelske klosteret Lindisfarne. Det er et av de første vikingtoktene som er sikkert datert, og historisk sett regner vi dette året som opptakten til vikingtida. I hele denne perioden drar vikingene ut på handels- og plyndringstokt: først til øyene i nordsjøområdet, seinere også sørover i Europa. Vikingferdene fortsetter helt til tusenårsskiftet.  
@@ -23,7 +23,7 @@ PagePeriod(
 
   h3 Gammelnorsk tid (ca. 1050–1350)
 
-  img.col.col6.right-image(src="./Norroen_Tida_og_samfunnsforholdene2.jpg" alt="")
+  img.col.col6.right-image(src="./Norroen_Tida_og_samfunnsforholdene2.jpg" alt="En gruppe mennesker ber foran et høyt alter med en gudommelig skikkelse på toppen. Illustrasjon.")
 
   p
     | Rundt år 1000 skjer det noen viktige endringer: Vikingtoktene tar slutt, kristendommen kommer til Norden, og sammen med den kristne troen får vi skrivekunsten og det latinske alfabetet. Disse endringene markerer slutten på vikingtida og begynnelsen på gammelnorsk tid.  
@@ -43,7 +43,7 @@ PagePeriod(
   h3 Norrøn mytologi
 
   figure
-    img(src="./Norroen_Norroen_Mytologi1.jpg" alt="Tor med hammeren slik Mårten Eskil Winge skildrer han i maleriet ”Tors kamp med jotene” i 1872")
+    img(src="./Norroen_Norroen_Mytologi1.jpg" alt="Stor og sterk mann med hammer i guddommelige omgivelser. Illustrasjon.")
     figcaption Tor med hammeren slik Mårten Eskil Winge skildrer han i maleriet” Tors kamp med jotene" i 1872
 
   h5 Norrøn gudelære  
@@ -59,7 +59,7 @@ PagePeriod(
     | Odin er krigsgud, men også gud for visdom og skaldskap. Når det er krig, svever valkyrjene over stridsplassen og peker ut dem som skal falle i krigen og komme til Valhall. Der skal de leve et evig krigerliv.  
 
   figure.col.col6.left-image
-    img(src="./Norroen_Norroen_Mytologi2.jpg" alt="Ledbergsstenen, ein svensk runestein frå 1000-talet")
+    img(src="./Norroen_Norroen_Mytologi2.jpg" alt="Rød runeskrift og tre utydelige illustrasjoner på en stående runestein. Foto.")
     figcaption Ledbergsstenen, en svensk runestein frå 1000-talet
 
   h5 Gudinnen for ekteskapet  
@@ -69,6 +69,11 @@ PagePeriod(
   h5 Den sterkeste guden  
   p
     | Tor er sønn av Odin. Han er den sterkeste av æsene og bruker hammeren Mjolne når han skal utføre bragdene sine. Når Tor kjører over himmelen med bukkene sine foran vogna, slår det gnister under hjulene. Da er det tordenvær.  
+
+  NdlaAudio(
+    source="media/periods/norron/Tor_og_bukkane.mp3"
+    )
+
 
   h5 Vaktmannen  
   p
@@ -97,7 +102,7 @@ PagePeriod(
   // * Norrøn litteratur
   h3 Norrøn litteratur  
 
-  img(src="./Norroen_Norroen_litteratur.jpg" alt="")
+  img(src="./Norroen_Norroen_litteratur.jpg" alt="En mann med skjegg står og gestikulerer, mens en annen mann sitter og er opptatt med et håndverk. Maleri.")
   p
     | Med norrøn litteratur mener vi litteraturen som blir skapt i Norge og på Island i norrøn tid, det vil si mellom ca. 800 og 1350.  
 
@@ -124,7 +129,7 @@ PagePeriod(
     :image="require(`./Norroen_Den_eldre_Edda.jpg`)"
     imageColumns="5"
     imageCaption="Volva (fra «Voluspå») på et færøysk frimerke av Anker Eli Petersen"
-    altText=""
+    altText="Kvinne i orange kappe er omringet av skog. Illustrasjon på frimerke."
     ) 
     ul.mt0
       li Diktene i Den eldre Edda er den eldste norrøne litteraturen vi kjenner til. Disse tekstene går helt tilbake til 800-tallet. Ordet ”edda” betyr oldemor og indikerer at det dreier seg om gammel diktning.  
@@ -138,7 +143,7 @@ PagePeriod(
     :image="require(`./Norroen_Skaldedikt.jpg`)"
     imageColumns="5"
     imageCaption="Egil Skallagrimsson, illustrert i et islandsk manuskript fra 1600-tallet"
-    altText=""
+    altText="En eldre mann med kappe og hatt holder et sverd. Illustrasjon i bok."
     )
     ul.mt0
       li Skald er den norrøne betegnelsen for dikter og historieforteller. I norrøn tid fikk skaldene ofte lønn av høvdinger og småkonger for å være husdiktere. Det å være en god skald gav ære og heder.  
@@ -146,12 +151,17 @@ PagePeriod(
       li Skaldekvadene var for det meste brukslyrikk: Diktene skulle kaste glans over en oppdragsgiver eller over en død person, men de kunne også kommentere en aktuell hending eller en heltedåd.  
       li Mange av skaldekvadene er signert – i motsetning til eddadiktene, som ikke har navngitte forfattere.  
 
+  NdlaAudio(
+    source="media/periods/norron/skaldekvad_norron_litteratur.mp3"
+    description="Om skaldekvad"
+    )
+
   h3 Den yngre Edda  
   ImageTextBlock(
     :image="require(`./Norroen_Den_yngre_Edda.jpg`)"
     imageColumns="5"
     imageCaption="Detalj fra «Codex Frisianus» (1325), den eneste bevarte avskriften av Heimskringla fra middelalderen"
-    altText=""
+    altText="En fullskreven side med gotisk skrift. Illustrasjon. "
     )
     ul.mt0
       li Den yngre Edda er ei lærebok i skaldekunst som er skrevet av Snorre Sturluson.  
@@ -166,7 +176,7 @@ PagePeriod(
     :image="require(`./Norroen_Islendingesagaene.jpg`)"
     imageColumns="5"
     imageCaption="«Njåls saga» i et islandsk manuskript fra omkring 1350"
-    altText=""
+    altText="Utdrag av manuskript med gotisk skrift. Illustrasjon. "
     )
     ul.mt0
       li Islendingesagaene er de mest kjente prosafortellingene fra norrøn litteratur.  
@@ -179,7 +189,7 @@ PagePeriod(
     :image="require(`./Norroen_Kristen_litteratur.jpg`)"
     imageColumns="5"
     imageCaption="Olav den hellige på et maleri i Överselö kirke i Sverige"
-    altText=""
+    altText="En smilende voksen mann med skjegg og krone på hodet er omgitt av religiøse motiv. Maleri."
     )
     ul
       li Den kristne litteraturen i norrøn tid omfatter prekener, helgenlegender og kristne kvad. Tekstene ble skrevet ned av prester, munker og nonner.  
@@ -189,7 +199,7 @@ PagePeriod(
   h3 Høvisk litteratur
 
   figure
-    img(src="./Norroen_Hoevisk_litteratur.jpg" alt="Tysk tresnitt fra 1500-talet med motiv fra fortellingen om Tristram og Isond.")
+    img(src="./Norroen_Hoevisk_litteratur.jpg" alt="Sort-hvitt tresnitt hvor ei kvinne mottar et dyr i gave. To menn og en hest observerer hendelsen. Illustrasjon. ")
     figcaption Tysk tresnitt fra 1500-talet med motiv fra fortellingen om Tristram og Isond.
   ul
     li Med høvisk litteratur mener vi litteratur som er knyttet til kongen og hoffet (høvisk betyr ”som ved hoffet”).  
@@ -197,13 +207,17 @@ PagePeriod(
     li Håkon Håkonsson fikk også oversatt Strengleiker, en samling kjærlighetsnoveller med erotisk innhold.  
     li Kongespeilet er ei lærebok i høvisk framferd som er nedskrevet rundt 1250. Boka er trolig skrevet for sønnene til Håkon Håkonsson. 
 
+  NdlaAudio(
+    source="media/periods/norron/riddervise_bendikt_og Aarolija_nrk.mp3"
+    )
+
   h3 Litt om språket
 
   NdlaVideo(source="media/periods/norron/Spraket_i_Norge_på_1200-tallet.mp4")
 
   .mt40
   figure.col.col5.right-image
-    img(src="./Norroen_Litt_om_spraaket1.jpg" alt="Hunarkongen Attila (Atle), fra en svensk utgave av Den eldre Edda (1893)")
+    img(src="./Norroen_Litt_om_spraaket1.jpg" alt="En kongelig mann med pelsjakke og hatt poserer med et alvorspreget uttrykk. Illustrasjon.")
     figcaption Hunarkongen Attila (Atle), fra en svensk utgave av Den eldre Edda (1893)
   h5.mt40 URNORDISK TID  
   p
@@ -214,6 +228,8 @@ PagePeriod(
     | ”Atlekvadet” er et heltedikt fra rundt år 400. I dette diktet møter vi to personer som faktisk har levd, hunerkongen Attila (norrønt Atli) og burgunderkongen Gunnar. Atles menn tar Gunnar og broren Hogne til fange. Atle vil presse de to til å røpe gjemmestedet for en stor gullskatt som ligger på bunnen av Rhinen. Gunnar er redd for at broren skal røpe hemmeligheten, og krever at han skal drepes. Atles menn prøver først å narre Gunnar med hjertet til trellen Hjalle den feige, men Gunnar avslår. Så får han det riktige hjertet.
 
   NdlaVideo(source="media/periods/norron/urnordisk_atlekvadet.mp4")
+  br
+  a(href="media/periods/norron/atlekvadet.html" target="_blank") Les utdrag fra Atlekvadet
 
   h5.mt40 Fra urnordisk til norrønt språk  
   p
@@ -222,7 +238,7 @@ PagePeriod(
   h5 NORRØN TID  
 
   figure
-    img(src="./Norroen_Litt_om_spraaket2.jpg" alt="Kong Sigurd og kong Baldvine rir fra Jorsalaborg til elva Jordan. Illustrasjon fra Snorre av Gerhard Munthe")
+    img(src="./Norroen_Litt_om_spraaket2.jpg" alt="En konge rir på hest sammen med to tjenestemenn. Illustrasjon.")
     figcaption Kong Sigurd og kong Baldvine rir fra Jorsalaborg til elva Jordan. Illustrasjon fra Snorre av Gerhard Munthe
 
   p

@@ -8,7 +8,7 @@ PagePeriod(
   h3 Tida og samfunnsforholdene 
 
   figure.col.col6.left-image
-    img(src="./Humanisme_Tida_og_samfunnsforholdene1.jpg" alt="")
+    img(src="./Humanisme_Tida_og_samfunnsforholdene1.jpg" alt="Stor bokstav med bilde av ridder med skjold og visir som står mellom to personer. Illustrasjon.")
     figcaption Prest, ridder og bonde, de bærende stendene i det føydale samfunnet
 
   h5 Menneskesynet i middelalderen 
@@ -20,23 +20,36 @@ PagePeriod(
     | Middelaldersamfunnet er delt opp i klart atskilte lag eller stender: Øverst står presteskapet (de som ber), så kommer adelen (de som slåss) og til slutt folket (de som arbeider). Standen avgjør rang, rettigheter og plikter. Eiendom og stand går i arv, og det er ikke lett å komme seg opp og fram i samfunnet, enda om en gjerne vil.
 
   h5 Presteskapet og adelen har stor makt
+  figure.col.col6.right-image
+    img(src="./Humanisme_Tida-og-samfunnsforholdene2.jpg" alt="Et stirrende gjenferd kryper opp ei tretrapp. Illustrasjon.")
+    figcaption ”Pesten i trappa”. Tegning av Theodor Kittelsen
 
   p
     | Det er store forskjeller mellom fattig og rik. Rikdom er det samme som å eie jord, og jordeierne er få og mektige. I mange land er det adelen og kirken som eier det meste av jorda. I tillegg har presteskapet og adelen flere særretter.
 
   h5 Fra stormakt til katastrofe 
-  figure.col.col6.right-image
-    img(src="./Humanisme_Tida-og-samfunnsforholdene2.jpg" alt="")
-    figcaption ”Pesten i trappa”. Tegning av Theodor Kittelsen
   p
     | På 1200-tallet er Norge en stormakt, men på 1300-tallet opplever landet en katastrofal nedgangstid. I 1349 kommer svartedauden til landet, og rundt to tredeler av folket stryker med. Det skal gå flere hundre år før folketallet kommer opp på samme nivå som før pesten brøt ut. 
 
-  h5 Ny blomstringstid sør i Europa 
+  .clear 
+
+  NdlaAudio(
+    source="media/periods/humanisme/jostedalsrypa.mp3"
+    description="Hør sagnet om Jostedalsrypa"
+    )
+    p Da svartedauden gjekk i landet, var det mange av dei gjævaste slektene i Sogn som drog opp i Jostedalen. På den måten ville dei sleppe unna pesten. Der busette dei seg og bygde hus og rydda gardar. Dei hadde gjort den avtalen at folket nede ved fjordane ikkje måtte ta seg fram til dei før pesten var over. Ville nokon skrive til dei, måtte dei leggje breva sine under ein viss stein. Denne steinen har dei sidan kalla Brevsteinen. Under den kunne dei òg hente brev, dei som levde att nede ved sjøen. Steinen ligg tett attmed vegen frå Jostedalen til Luster. 
+
+    p Kor omtenksame og varsame dei enn var, kom svartedauden til Jostedalen også, og der fór pesten så hardt fram at alle strauk med, så nær som ei lita jente. Somme seier at det til nabosokna i Gudbrandsdalen kom sju bølingar med sine bjøllekyr. Ingen kom og lette etter dei, men det var somme som trudde at dei hørte til i Jostedalen. Gjorde dei det, stod det visst gale til der. Nokre folk drog over fjellet og ville finne ut korleis tilstanden var. 
+    p Husa stod tomme, og mange av dei døde var ikkje gravlagde. Folka fór gjennom heile dalen, men dei såg ikkje røyk frå ei einaste sute og fann ikkje eit einaste liv. Da dei kom til Mjelvesdalen, såg dei i nysnøen spor etter menneske. Dei føljde det, og på garden Bjørkahaug såg dei ei lita jente. Med det same ho merkte dei, la ho på sprang inn iu bjørkeskogen; men dei klarte å fange henne. Dei spurde henne om forskjellig, men ikkje skjønte ho dei og ikkje dei henne, så nær som nokre få ord: "Mor, vesle rypa." 
+    p Dei fortel at da mor hennar døydde, sette ho mat igjen på bordet, putta veslejenta i ei seng kledd med fjør og stakk mat nedi der, så ho i alle fall ikkje skulle svelte i hel. Da dei fann henne, var det vakse fjør på henne. 
+    p Mennene tok henne med seg heim, og ho blei ei skikkeleg og bra jente. Somme fortel at ho blei gift og budde på Bjørkahaug, men fleire seier at ho busette seg på Runnøy i enden av Gaupnefjorden, der jostyedølene kjører til sjøs. Dei kalla henne Jostedalsrypa, etter det mor hennar hadde sagt da ho stakk henne ned i fjørsenga. Og slekta hennar kalla dei Rypeslekta; det var gjæve og mektige folk. Denne slekta skulle ha det til merke framfor andre at ho hadde "fuglehold", det vil seie store opne sveittehol i huda etter den duna som hadde begynt å vekse på henne.
+
+  h5.mt20 Ny blomstringstid sør i Europa 
   p
     | Etter svartedauden ligger det meste nede her i landet, men i Italia starter en ny utvikling. Der blomstrer handelen opp, og kjøpmennene kommer i kontakt med andre land og kulturer. Handelsborgerne i byene blir en viktig samfunnsgruppe, og jordeierne mister dermed noe avmakta. Med økt handel får også pengeøkonomien etter hvert større plass.
 
 
-  img.col.col6.mt5.right-image(src="./Humanisme_Tida-og-samfunnsforholdene3.jpg" alt="")
+  img.col.col6.mt5.right-image(src="./Humanisme_Tida-og-samfunnsforholdene3.jpg" alt="Fire personer studerer et stort ark inne i et trykkeri. Maleri.")
   h5 Boktrykkerkunsten – en ny tid
   p.mt0
     | Johann Gutenberg (1397–1468) regnes som opphavsmann til boktrykkerkunsten. Han konstruerte en presse og blybokstaver til å trykke med. Den første boka til Gutenberg var en bibel som kom ut på midten av 1400-tallet. Den første ukeavisa ble trykt og utgitt i Strasbourg i 1609. Det første trykkeriet i Norge ble åpnet i 1643. 
@@ -48,7 +61,7 @@ PagePeriod(
 
   h3 Tanker i tida 
   figure.col.col6.left-image.mt5
-    img(src="./Humanisme_Tanker_i_tida1.jpg" alt="")
+    img(src="./Humanisme_Tanker_i_tida1.jpg" alt="Kvinne i halvfigur har et gåtefullt blikk. Landskap i bakgrunnen. Maleri. ")
     figcaption ”Mona Lisa” av Leonardo da Vinci
 
   h5 Renessansen
@@ -61,7 +74,7 @@ PagePeriod(
 
   div.mb60
     figure.col.col4.left-image
-      img(src="./Humanisme_Tanker_i_tida2.jpg" alt="")
+      img(src="./Humanisme_Tanker_i_tida2.jpg" alt="Mann med langt hår og jakke som vinker. Maleri.")
       figcaption Copernicus med det nye bildet av universet, maleri av Jan Matejko
     p
       | Synet på mennesket endret seg. Gjennom hele middelalderen orienterte menneskene seg mot Gud og livet etter døden. Med renessansen kom mennesket selv og det jordiske livet i fokus. 
@@ -78,7 +91,7 @@ PagePeriod(
   p
     | Kirken var en rik institusjon som i hele middelalderen bare økte rikdommen gjennom gaver og skatter. Avlatshandelen var en viktig inntektskilde. Avlat gikk ut på at folk kunne kjøpe seg fri fra synd. Dersom en betalte en viss sum til en munk eller en prest, kunne vedkommende på Guds vegne tilgi all synd. 
   figure.col.col4.right-image.mt20
-    img(src="./Humanisme_Tanker_i_tida3.jpg" alt="")
+    img(src="./Humanisme_Tanker_i_tida3.jpg" alt="Halvnært portrett av mann i sort tøy og hatt. Maleri.")
     figcaption Martin Luther malt av Lucas Cranach i 1529
 
   h5 En modig opprører 
@@ -88,7 +101,7 @@ PagePeriod(
   h3 Litteraturen  
 
   figure
-    img(src="./Humanisme_Litteraturen.jpg" alt="")
+    img(src="./Humanisme_Litteraturen.jpg" alt="Oversiktsbilde av Bergens havneområde med skip, bebyggelse og fjell. Illustrasjon.")
     figcaption Det er Bergen som er storbyen og hovedstad i Norge på 1500-tallet. Scholeus-stikket fra 1580 er et av de eldste bildene fra Bergen
 
   h5 Impulsene fra sør når ikke fram 
@@ -114,8 +127,8 @@ PagePeriod(
   h3 Språket  
 
   figure
-    img(src="./Humanisme_Spraaket.jpg" alt="")
-    figcaption Diplomatarium Norvegicum: En side av et brev fra dronning Margrete til kong Håkon 6.
+    img(src="./Humanisme_Spraaket.jpg" alt="Brunt ark fylt med linjer av håndskrift. Illustrasjon.")
+    figcaption Diplomatarium Norvegicum: En side av et brev fra dronning Margrete til kong Håkon 6.<br/><a href="media/periods/humanisme/diplomatarium.html" target="_blandk">Les utskrift av dokumentet</a>
 
   h5 Norrønt skriftspråk går til grunne 
   p

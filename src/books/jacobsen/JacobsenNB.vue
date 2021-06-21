@@ -18,6 +18,8 @@ PageBook
   .clear 
 
   h3 Jord og jern (1933) 
+  
+  NdlaAudio(source="media/books/jacobsen/jacobsen_byens_metafysikk.mp3" description="Byens metafysikk")
 
   figure.col.col6.right-image.mt5
    img(src='./jacobsen_Jord_og_jern1.jpg' alt='')

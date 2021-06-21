@@ -26,6 +26,8 @@ PageBook
 
   h3 Min kamp 
 
+  NdlaAudio(source="media/books/knausgard/Knausgard.mp3")
+  
   img.col.col6.right-image.mt5(src='./knausgaard_Min_kamp1.jpg' alt='')
   p I Min kamp gjenforteller Knausgård mange av historiene fra de to forrige romanene. Henrik Vankel erstattes av romankarakteren Karl Ove Knausgård, og historiene om han settes inn i en biografisk kontekst, altså forfatteren Karl Ove Knausgårds livshistorie. Dette skiftet i perspektiv er helt klart et risikoprosjekt – gjenfortellingene kan «trøtte» leserne av forfatterskapet hans. Samtidig bidrar det til en spenning i tekstene hans; hvor mye er basert på selvopplevde hendelser, og hvor mye er ren fiksjon? 
 

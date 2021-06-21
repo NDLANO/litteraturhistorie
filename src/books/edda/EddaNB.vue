@@ -12,6 +12,7 @@ PageBook(:showAuthor="false")
 
   p De tre mest kjente diktene fra Den eldre Edda er «Voluspå», «Trymskvida» og «Håvamål». 
 
+
   ImageTextBlock.mt5(
     :image="require(`./Edda_Faeroeyene.jpg`)"
     imageColumns="4"
@@ -20,6 +21,7 @@ PageBook(:showAuthor="false")
     )
     h3 «Voluspå» 
     p «Voluspå» er et gudedikt om jordas skapelse, hva som fører til jordas undergang, og om selve undergangen, det såkalte ragnarok. Det er en spåkvinne (volve) som snakker til oss gjennom diktet. 
+
   
   ImageTextBlock.mt5(
     :image="require(`./Edda_Tor_strir_med_jotnene.jpg`)"
@@ -74,6 +76,7 @@ PageBook(:showAuthor="false")
   p «Fåvnesmål» forteller hvordan det går til når Sigurd dreper Fåvne. Før Fåvne dør, råder han Sigurd til å dra hjem uten skatten fordi gullet kommer til å bli hans bane. Dessuten advarer han Sigurd mot Regin. 
 
   p Etter at Fåvne er død, vil Regin ete hjertet til Fåvne. Han ber Sigurd steike Fåvnes hjerte over et bål. Sigurd tar på hjertet for å kjenne om det er fullsteikt. Da brenner han seg, stikker fingeren i munnen og får Fåvnes hjerteblod på tunga. Nå kan han forstå fuglemål. Fuglene forteller at Regin planlegger å svike han. Da dreper han Regin, tar med seg mye gull fra Fåvnes bol og rir deretter av gårde.  
+
 
   p.flex.flex-wrap
     .col.col6.p5

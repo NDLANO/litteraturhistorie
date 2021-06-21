@@ -59,6 +59,7 @@ PageBook
     br
     | skal eg ha ein heim i mitt hus. 
 
+  NdlaAudio(source="media/books/morenvesaas/Halldis_Moren_Vesaas_-_Ord_over_grind.mp3")
 
   h3 Forelsking og begjær
 
@@ -120,6 +121,73 @@ PageBook
     br
     br
     | Fra diktet «No plantar kvinna» (1945) 
+
+  NdlaAudio(source="media/books/morenvesaas/Halldis_Moren_Vesaas_-_No_plantar_kvinna.mp3")
+    strong No plantar kvinna 
+    br
+    | Frå  samlinga Tung tids tale 1945
+    blockquote
+      br
+      | No plantar kvinna i verda eit tre.
+      br
+      | På kne liksom ein som bed
+      br
+      | ligg ho blant restene etter dei mange
+      br
+      | som stormen har brote ned.
+      br
+      br
+      | På ny må ho prøve, om ein gang eitt
+      br
+      | får vekse seg stort i fred.
+      br
+      br
+      | Ho opnar molda og reier eit rom
+      br
+      | for røtene, fine som hår,
+      br
+      | så dei kan få feste og finne ned
+      br
+      | dit livsens straumar går.
+      br
+      | Plante eit tre er å bygge ein veg
+      br
+      | fram gjennom mange år.
+      br
+      br
+      | Ein draum om det fullvaksne treet
+      br
+      | står som ein kvelving bjart
+      br
+      | av blomar og lauv over kvinna,
+      br
+      | som klappar så fast og vârt
+      br
+      | mold inntil røter, og vonfull tel
+      br
+      | kvar knupp som skal breste snart.
+      br
+      br
+      | ----
+      br
+      br
+      | Da dirrar treet, og handa som held det,
+      br
+      | og grunnen der det er fest.
+      br
+      | Kva er det? Skalet kring kjerna
+      br
+      | av mørker i djupet, som brest?
+      br
+      br
+      | Ho set dei utspilte hender mot molda
+      br
+      | som ville ho tvinge til ro
+      br
+      | den trugande dirring. Å jord, ver still,
+      br
+      | ver still, så mitt tre får gro!
+
 
 
 </template>

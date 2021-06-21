@@ -15,6 +15,8 @@ PageBook
   h3 Nordlands Trompet 
   p Nordlands Trompet åpner med et hyllingsdikt til folk og natur i «Nordlandene» – det som i dag er Troms og Nordland. Hyllesten gjelder alle – prester og øvrighet, fiskere, bønder, tjenestefolk og leilendinger: 
 
+  NdlaAudio(source="media/books/dass/P_Dass_-_Nordlands_Trompet_-_Ver_hilset.mp3")
+
   blockquote
     | Vær hilset, I Nordlands bebyggende Mænd 
     br

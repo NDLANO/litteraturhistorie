@@ -1,6 +1,7 @@
 <template lang="pug">
-.page_banner
-  img(:src="imageSrc")
+.page_banner_wrapper.overflow-hidden
+  .page_banner
+    img(:src="imageSrc")
 </template>
 
 <script>

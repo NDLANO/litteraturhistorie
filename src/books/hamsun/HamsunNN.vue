@@ -85,6 +85,10 @@ PageBook
 
   p Vi kan seie at Hamsun her illustrerer konflikten mellom natur og sivilisasjon, som vi kjenner frå nyromantikken, på ein ny måte. I Markens Grøde vender han attende til ein meir realistisk forteljemåte, utan dei komplekse psykologiske portretta vi kjenner frå 1890-åra.
 
+  NdlaAudio(
+    source="media/books/hamsun/Hamsun_ Markens_Groede _Brikt_Jensen_nrk.mp3"
+    description="Hamsun - Markens Grøde - Brikt Jensen"
+    )
 
 </template>
 

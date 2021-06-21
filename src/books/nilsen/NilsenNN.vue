@@ -76,6 +76,8 @@ PageBook
     br
     | ja, De finner Nr. 13 helst i byers øst og nord. 
 
+  NdlaAudio(source="media/books/nilsen/Nr_13_av_Rudolf_Nilsen_-_Lest_av_Jens_Bolling.mp3")
+
   h3 På stengrunn
   p Den første diktsamlinga til Rudolf Nilsen kom ut i 1925 med tittelen På stengrunn. I denne diktsamlinga skildrar han livet til vanlege arbeidsfolk aust for Akerselva. Livet er hardt, og gledene er få. Men djupt i alle lever lengten etter eit betre liv. De unge bjerkene i svarte byen de står og bruser med sitt lyse løv, som om de åndet store skogers vårluft og ikke skorstensrøk og gatestøv.
 
@@ -209,6 +211,8 @@ PageBook
 
   h3 Kamplyrikk
   p Dikta til Rudolf Nilsen har strofeform: Alle avsnitta er bygde opp likt, og dei har fast rim og rytme. Eit anna typisk trekk er at rimorda ofte har såkalla mannleg utgang – dei endar på trykktung staving, som for eksempel i diktet «Revolusjonens røst»:
+
+  NdlaAudio(source="media/books/nilsen/gi_meg_de_rene_og_ranke.mp4")
 
   blockquote
     | Gi mig de rene og ranke, 
