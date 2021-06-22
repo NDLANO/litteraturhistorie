@@ -6,7 +6,6 @@ div
       v-if="captionsUrl!==''" 
       kind="captions"
       :src="captionsUrl"
-      srcLang="nb"
       )
   
   .div.plyr__video-embed(id="ytplayer" v-if="playerType === 'youtube'" ref="ytplayer")
