@@ -31,7 +31,12 @@ PageBook(:showAuthor="false")
 
   p Dei eldste teikneseriehefta har hatt fleire tekstforfattarar og teiknarar. Somme gonger er det så markerte skilnader i uttrykket at vi kan dele hefta inn i tidsepokar ut frå kven som har teikna seriane. Dette gjeld mellom anna den nynorske teikneserien «Smørbukk».
 
-  p Dei tradisjonelle norske teikneseriefigurane høyrer heime i eit folkeleg kvardagsmiljø. Nr. 91 Stomperud reiser heim til Sørumsand til jul. Også Smørbukk og kompisane hans er plasserte inn i eit typisk norsk bygdemiljø. Det same gjeld teikneserien «Nils og Blåmann». Denne serien vart skapt i 1927 og kom ut fast i førti år.
+  p Dei tradisjonelle norske teikneseriefigurane høyrer heime i eit folkeleg kvardagsmiljø. Nr. 91 Stomperud reiser heim til Sørumsand til jul. Også Smørbukk og kompisane hans er plasserte inn i eit typisk norsk bygdemiljø. Det same gjeld teikneserien 
+    a(href='http://www.fjukstads.net/21256291' target='_blank') «Nils og Blåmann»
+    | . Denne serien vart skapt i 1927 og kom ut fast i førti år.
+
+  p
+    a(href='http://www.notem.no/nils/utgivelser.html' target='_blank') Oversikt over norske tegneserier
   
   h5 Nye undersjangrar
   p I 1970-åra skjedde det ei endring. Vi fekk fleire nye historiske teikneseriealbum som fortalde om hendingar i eldre eller nyare historisk tid, og også meir eksperimentelle teikneseriehefte med sterkare kunstnarleg og litterær profil. I vår tid har teikneseriane ofte ein sarkastisk undertone og figurane er forankra i moderne storbyliv, som for eksempel «Olaf G» og «Nemi».
@@ -73,6 +78,15 @@ PageBook(:showAuthor="false")
 
   p Etter kvart som serien utviklar seg, står kampen mellom skurken Dr. Panga og helten Knut Berg ikkje berre om jordkloden, men om heile verdsrommet. Ved hjelp av ingeniørkunstane sine legg Knut Berg under seg fjerne galaksar. Slik sett kan vi seie at ingeniør Knut Berg var den første nordmannen i verdsrommet!
 
+  p
+    a(href='https://nynorsksenteret.no/teikneseriar/KnutBerg.html' target='_blank') Sjå ei stripe frå teikneserien «Ingeniør Knut Berg på eventyr»
+
+  p
+    a(href='http://www.minetegneserier.no/pls/htmldb/f?p=100:11:0::NO::P11_SERIE_GRUPPER_ID:542&cs=18A9D3F0D5ED9E261D211F02BB14576B6' target='_blank') Framsider til teikneserien «Ingeniør Knut Berg på eventyr»
+
+  NrkVideo(id="3708")
+  p NRK Skole: Teikneserie som sjanger
+
   h3 «Smørbukk» 
 
   img.col.col8.right-image.mt5(src='./Vangsgutane_Smoerbukk.jpg' alt='')
@@ -83,6 +97,8 @@ PageBook(:showAuthor="false")
   p Mens Vangsgutane vart verande i eit typisk miljø frå 1940- og 1950-åra, har Smørbukk vist evne til å følgje med i tida. I våre dagar er treski og tønnestavar bytte ut med moderne snøbrettutstyr. Men teikneserien formidlar framleis eit verdisyn som vi kan kalle typisk norsk bygdemoral. Det gjeld å vere snill, ærleg, trufast og lite jålete. Innimellom slår Smørbukk òg eit slag for nynorsken!
 
   p Dei første seriane om Smørbukk vart teikna av Jens R. Nilssen, som også teikna Vangsgutane. 21 hefte er teikna av Solveig Muren Sanden, og resten av Håkon Aasnes. I teikningane til Solveig Muren Sanden liknar miljøet som Smørbukk ferdast i, det vi finn i øvre Telemark. Ulike forfattarar har skrive teksten, mellom anna Johannes Farestveit og Øyvind Dybvad. 
+
+  a(href='https://nynorsksenteret.no/teikneseriar/smorbukk.html' target='_blank') Den første teikneseriestripa om Smørbukk i 1938, samanlikna med ei moderne utgåve
   
   h3 Teikneseriar som kulturformidlarar og språklege førebilete
 
@@ -102,12 +118,14 @@ PageBook(:showAuthor="false")
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

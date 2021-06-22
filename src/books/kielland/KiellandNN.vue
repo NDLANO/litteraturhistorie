@@ -45,7 +45,10 @@ PageBook
   h3 Gift
 
   img.col.col6.right-image.mt5(src='./Kielland_Gift1.jpg' alt='')
-  p I 1883 kom romanen Gift. I denne boka rettar Kielland søkjelyset mot verdigrunnlaget for skule og oppseding.
+  p 
+    | I 1883 kom romanen 
+    a(href="https://www.nb.no/items/7d0ada9cfdc39067ceaaf8ff90974edf?page=0&searchText=gift" target="_blank") Gift
+    | . I denne boka rettar Kielland søkjelyset mot verdigrunnlaget for skule og oppseding.
 
   p Boka er omtalt som den store skuleromanen i norsk litteratur frå 1880- åra. Skildringa av skulegangen til dei to gutane Abraham og Marius gjer det tydeleg kva Kielland meinte om skulesystemet. Han hevda at latinen tok altfor stor plass i skulen, og at opplæringa gav lite nyttig kunnskap som kunne gjere barna til sjølvstendige menneske. I tillegg fekk pedagogane gjennomgå for metodane dei brukte overfor elevane. Heile oppsedinga i skulen var bygd på tvang og fornedring, elevane skulle underkaste seg systemet utan å stille spørsmål. Det var det motsette av danning, meinte Kielland. nyttar alle høve til å spreie idear om menneskeverd, sann kristendom, opplæring til sjølvstende og levande undervisning i skulen.
 

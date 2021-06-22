@@ -49,9 +49,14 @@ PageBook
   p Samlingen omfatter også høvesdikt og en del dikt med motiver fra antikken, ikke minst det litteraturfilosofiske diktet “Digtets Aand”. 
   
   h5 “Digtets Aand” 
-  p “Digtets Aand” er et dikt om det å dikte. Her presenterer Welhaven sitt syn på hva diktning er, og hvilke roller dikteren og leseren har i denne spesielle formen for kommunikasjon. 
+  NdlaAudio(source="media/books/welhaven/Digtets_Aand_-_Welhaven.mp3")
+  p 
+    a(href="https://www.bokselskap.no/boker/welhavendikt/digtetsaand" target="_blank") “Digtets Aand” 
+    | &nbsp;er et dikt om det å dikte. Her presenterer Welhaven sitt syn på hva diktning er, og hvilke roller dikteren og leseren har i denne spesielle formen for kommunikasjon. 
 
   p Ifølge Welhaven skal diktet røpe «det uutsigelige», noe som ikke kan formidles direkte med ord. Dette «uutsigelige» finner dikteren i dypet av sin egen sjel. Det blir en del av teksten gjennom den kunstneriske skapingsprosessen, som krever modning og streng disiplin. Leseren må så gjenskape «det uutsigelige» i sitt eget indre. Slik kan kunsten bidra til et rikere indre liv hos leseren og til et åndelig fellesskap mellom dikter og leser. 
+
+  a(href="https://www.nb.no/nbsok/nb/584ad5d29e2516bfaed2e61a59325467?lang=no#0" target="_blank") Flere dikt av Welhaven
 
   // Medieinnhold: Ta ut film. Hvis det er et dikt som leses opp på lydsporet til slutt, kan vi ta det med. Må legge inn diktet da
 

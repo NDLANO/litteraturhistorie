@@ -67,6 +67,7 @@ PageBook
 
   p Åsne Seierstad fortel frå eit av kapitla i «Bokhandleren i Kabul»
 
+  NrkVideo(id="3427c759-9a7b-4f20-9989-9f5358df743e")
 
 </template>
 
@@ -74,12 +75,14 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

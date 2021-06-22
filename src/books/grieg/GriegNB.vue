@@ -149,11 +149,18 @@ PageBook
       br
       | (6 av 14 strofer) 
 
+  NrkVideo(id="72562")
+
   p I diktet gir Nordahl Grieg uttrykk for et humanistisk menneskesyn. Han tror på de gode kreftene i mennesket, og han tror  at disse kreftene er sterkere enn de destruktive når de blir satt på prøve. 
 
   p «Til ungdommen» har mye til felles med Arnulf Øverlands dikt «Du må ikke sove». Både Grieg og Øverland hadde vært i Spania og opplevd fascismen på nært hold, og begge var opptatt av at vi er forpliktet til å kjempe for rettferdighet og frihet. Diktenes budskap er det samme: Friheten må forsvares når den står i fare – og før det er for seint. 
 
-  p Rudolf Nilsen hadde tatt opp de samme tankene i «Revolusjonens røst» ti år tidligere. I motsetning til Nilsen, som mante til væpnet kamp, mente Grieg at kampen for fred kunne vinnes ved å bruke menneskelig fornuft og ånd. Ikke bare politisk kamp Nordahl Grieg var først og fremst politisk dikter, og for krigsgenerasjonen ble han en nasjonal folkehelt. Men dette vakre diktet viser at livet ikke bare handler om politisk kamp. Hverdagsliv og kjærlighet hører også med. 
+  p Rudolf Nilsen hadde tatt opp de samme tankene i «Revolusjonens røst» ti år tidligere. I motsetning til Nilsen, som mante til væpnet kamp, mente Grieg at kampen for fred kunne vinnes ved å bruke menneskelig fornuft og ånd. 
+  
+  h5 Ikke bare politisk kamp 
+  p Nordahl Grieg var først og fremst politisk dikter, og for krigsgenerasjonen ble han en nasjonal folkehelt. Men dette vakre diktet viser at livet ikke bare handler om politisk kamp. Hverdagsliv og kjærlighet hører også med. 
+
+  a(href='media/books/grieg/sykkelstyret.html' target='_blank') Diktet «Sykkelstyret»
 
   h3 Journalisten og krigsreporteren 
   p Nordahl Grieg var ikke bare lyriker, dramatiker og romanforfatter. Han var også journalist og ikke minst krigsreporter. Etter krigsutbruddet i april 1940 meldte han seg til tjeneste, og han var med på den famøse gulltransporten gjennom Nord-Norge til England som sikret at gullbeholdningen i Norges Bank ikke falt i hendene på tyskerne. 
@@ -187,6 +194,7 @@ PageBook
       br
       | under de fremmedes åk. 
 
+  NrkVideo(id="4758")
 
   p Norske krigsdikt gikk oftest som stensiler fra hånd til hånd, og det var i London-tida under krigen at Nordahl Grieg ble kjent som en stor lyriker. For krigsgenerasjonen var Grieg en folkehelt, og krigslyrikken hans framstår som den aller viktigste delen av forfatterskapet. 
   
@@ -196,12 +204,14 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

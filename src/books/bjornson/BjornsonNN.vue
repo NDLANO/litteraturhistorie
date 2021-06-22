@@ -61,6 +61,11 @@ PageBook
   p Vi kan derfor seie at «Faderen» har eit romantisk verdigrunnlag – jakta på det gode, sanne og vakre livet. Men personane er plasserte i meir realistiske omgivnader og må kjempe mot desse omgivnadene på vegen. Litteraturhistorisk høyrer derfor bondeforteljingane heime i den epoken vi kallar poetisk eller romantisk realisme.
 
   h3 Melodiøs lyrikk og livssynskrise
+
+  NdlaVideo(
+    source="media/books/bjornson/Ja_vi_elsker.mp4"
+    captionsUrl="media/books/bjornson/Ja_vi_elsker.nb-no.vtt"
+  )
   p Bjørnstjerne Bjørnson skreiv mange songar og dikt. Mest kjend er nok nasjonalsongen «Ja, vi elsker» (1859). I 1870 kom samlinga Digte og Sange ut for første gong, og som tittelen vitnar om, skreiv Bjørnson gjerne melodiøs lyrikk. Fleire komponistar har sett tonar til dikta hans, og på den måten har Bjørnson vore ein viktig bidragsytar til den norske songtradisjonen.
 
   p Prestesonen Bjørnson gjekk gjennom ei religiøs krise i 1870-åra. Han braut med kristendommen og søkte eit nytt livssyn i naturvitskapen og tankane til Charles Darwin. I darwinismen fann Bjørnson ei vitskapleg stadfesting av den optimistiske livstrua som alltid hadde vore ein grunntone i diktinga hans.
@@ -70,6 +75,11 @@ PageBook
   img.col.col12(src='./Bjornson_tre.jpg' alt='')
   
   h3.mt40 Politiker og folketaler
+
+  NdlaVideo.mt40(
+    source="media/books/bjornson/Bjornson_taler_stumt.mp4"
+  )
+
   p Bjørnson var ein mann som meinte mykje om stort og smått – språk, union, seksualmoral og religion, småfuglar og jernbane. Han var kjend for å vere svært engasjert, og han var langt ifrå redd for konfliktar. Heilt frå han var ung, heldt han foredrag, og han reiste mykje rundt for å tale i ulike slags forsamlingar. Han talte for eksempel i Det Norske Studentersamfund, og han heldt tale for konservative norskamerikanarar i USA, på riksmålssamlingar og på folkemøte om unionsoppløysinga. Bjørnson hadde store talegåver og var ein retorikar av dei sjeldne. Ikkje alt han sa, var like godt grunngitt, og derfor storma det ofte rundt Bjørnson når han heldt innlegga sine.
 
   img.col.col12(src='./Bjornson_Politiker_og_folketaler.jpg' alt='')

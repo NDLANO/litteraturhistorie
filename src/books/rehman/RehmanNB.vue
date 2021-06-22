@@ -59,6 +59,8 @@ PageBook
     
   p Språklig har Shabana Rehman utviklet en egen stil, med utgangspunkt i typiske trekk fra stand-up og kåseri. Hun skriver personlig og direkte – ofte med utgangspunkt i eget liv og egne erfaringer, som norsk-pakistansk kvinne og komiker: «Mens Europa flørter med Hitlers mustasjer, drar jeg til Køben for å snakke om mine.» Gjennom denne sammenligningen mellom Hitlers mustasjer og sine egne leker hun med både fenomenet fremmedfrykt, voksende rasisme og pakistansk – og kanskje norsk – tabu: kvinnens kroppshår. 
 
+  NrkVideo(id="3642")  
+
   p Hun boltrer seg med morsomme eller krasse sammenligninger og uvante sammenstillinger. Under overskriften «Deadline» sammenligner hun døden med journalistens deadline, og ordet dødsdom får en annen klang: «Vi er alle dødsdømte. Da jeg innså det, sluttet jeg å være redd for døden.» Hun bruker muntlige uttrykk og slang som «sladrekjerringa», «sommersexy», «dra til helvete» og «driter på». Og hun leker med ord og skaper nye uttrykk: «Skrekk og gud» og «Norgistan».
 
   p Andre typiske kåseritrekk Rehman benytter seg av, er overdrivelser, underdrivelser og generaliseringer: I en framtidsvisjon om Norge, og som et sleivspark til dagens presse, skriver hun: «Dagen starter med at samtlige norske aviser melder om at det også denne agen hersker fred, frihet og harmoni i landet.» Og i et forsvar for kostholdsrådene til Fedon Lindberg skriver hun: «Det er sultepidemi i Afrika. Resten av oss er feitinger.» 
@@ -66,6 +68,12 @@ PageBook
   p Ofte henvender hun seg personlig og direkte til leseren. Hun bruker «jeg», «meg» og «mitt» – «du», «vi», og «vårt». «Jeg er også opptatt av helbredelse», skriver hun – i et kritisk innlegg mot nok et utsagn om at homofili kan kureres. Hun argumenterer med at hun tror på helbredelse – av «legningsfobi og sneversynthet». Og i en tekst om kroppsfiksering og skjønnhetshysteri skriver hun: «Du tror Amerikas menn bare tenker på terrorkrigen. Feil. De tenker på magen sin.» 
 
   p Tekstene er i stor grad preget av forfatterens holdninger, tanker og følelser. Til tross for humoren og ironien er det lett å få tak i Rehmans personlige meninger. Hun setter et personlig avtrykk i alle tekstene sine, alltid lojal mot sine grunnleggende verdier. I forordet skriver hun: «Les denne boken, del mine emosjoner; bli glad, forbannet og gå ut og hiss opp verden. Til fred.»             
+
+  NdlaVideo(
+    source="media/video/rehman/Shabana_Rehman.mp4"
+    captionsUrl="media/video/rehman/Shabana_Rehman.nb-no.vtt"
+  )
+
 
   //Medieinnhold: Beholde bilder. Sjekke siste video.      
 
@@ -75,12 +83,14 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

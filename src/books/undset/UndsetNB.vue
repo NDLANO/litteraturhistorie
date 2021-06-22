@@ -24,6 +24,8 @@ PageBook
 
   p Da tyskerne okkuperte Norge i 1940, måtte hun flykte til USA, der fortsatte hun innsatsen mot nazismen. Etter krigen reiste  hun tilbake til Norge. Helsen hennes var svekket, og hun døde på Lillehammer i 1949. 
 
+  NrkVideo(id="158932")
+
   h3 Stor kunnskap om middelalderen 
 
   img.col.col6.right-image.mt5(src='./undset_Stor_kunnskap_om_middelalderen.jpg' alt='')
@@ -41,7 +43,10 @@ PageBook
   p Undset kastet seg ut i avisdebatter, hun skrev artikler om ulike emner og var hele tida i opposisjon til dem som stod for moderniseringsprosjektet. Hun så på kvinnesaksforkjemperne som fiender av familien og fellesskapstanken. Plikten mot andre mennesker og mot Gud var viktigere enn lysten til å gå egne veier, mente hun. Riktignok forstod hun og argumenterte for at det var viktig for kvinner å frigjøre seg både økonomisk og sosialt, men hun mente den viktigste oppgaven likevel var å være mor og verne om familien. 
 
   h3 Jenny – en kunstnerroman
-  p I 1911 skrev Sigrid Undset romanen Jenny. Hovedpersonen i romanen er en ung bildekunstner som er fri for alle sosiale bånd og kan leve et fritt kunstnerliv. Undset bodde i Roma da hun skrev boka, og hun fant nok mye inspirasjon til romanen i kunstnermiljøet hun møtte der. 
+  p 
+    | I 1911 skrev Sigrid Undset romanen 
+    a(href="https://www.nb.no/items/4bd834284ecf1f389451ae6e811ebd02?page=0&searchText=Sigrid%20Undset" target="_blank") Jenny
+    | . Hovedpersonen i romanen er en ung bildekunstner som er fri for alle sosiale bånd og kan leve et fritt kunstnerliv. Undset bodde i Roma da hun skrev boka, og hun fant nok mye inspirasjon til romanen i kunstnermiljøet hun møtte der. 
 
   figure.col.col12
    img(src='./undset_Portrett3.jpg' alt='')
@@ -51,6 +56,8 @@ PageBook
 
   p Grunntanken hos Sigrid Undset er at mennesket ikke kan leve ut sine lyster og gjøre som det selv vil, uten at det får konsekvenser. Vi har alle ansvar og plikter å ta vare på, og familien er fundamentet, mente hun. 
 
+  NrkVideo(id="4943")
+
   h3 Trilogien Kristin Lavransdatter 
 
   figure.col.col6.right-image.mt5
@@ -58,7 +65,10 @@ PageBook
    figcaption Foto: Geir Olsen / VG / Scanpix
   p Med middelalderromanene om Kristin Lavransdatter oppnådde Sigrid Undset en suksess som ingen andre hadde hatt før henne. Trilogien er hennes fremste verk og blir også omtalt som den største kjærlighetsromanen i norsk litteratur. Bøkene gjorde henne til en av de fremste norske forfatterne på 1900-tallet. 
 
-  p Handlingen er lagt til første halvdel av 1300-tallet, og vi følger Kristin gjennom de tre bøkene Kransen (1920), Husfrue (1921) og Korset (1922). I Kransen møter vi Kristin som ung jente når hun vokser opp på gården Jørundgård i Sel i Gudbrandsdalen. Foreldrene, Lavrans og Ragnfrid, er gudfryktige mennesker, og troen er en viktig del av oppveksten. Femten år gammel blir Kristin forlovet med Simon Darre, slik fedrene har bestemt. 
+  p 
+    | Handlingen er lagt til første halvdel av 1300-tallet, og vi følger Kristin gjennom de tre bøkene 
+    a(href="https://www.nb.no/items/056dd4f952d4fc3843c8d5942a8e8f64?page=7&searchText=Sigrid Undset" target="_blank") Kransen
+    | &nbsp;(1920), Husfrue (1921) og Korset (1922). I Kransen møter vi Kristin som ung jente når hun vokser opp på gården Jørundgård i Sel i Gudbrandsdalen. Foreldrene, Lavrans og Ragnfrid, er gudfryktige mennesker, og troen er en viktig del av oppveksten. Femten år gammel blir Kristin forlovet med Simon Darre, slik fedrene har bestemt. 
 
   p Skikken den gang var at ei ungjente fra en velsituert familie skulle gå et år i kloster, og Kristin blir sendt til Nonnesæter. Under en utflukt ved klosteret møter hun Erlend Nikulaussøn. Han er tolv år eldre enn Kristin og har en tvilsom fortid, men er rik slik det passer seg og framstår som en storsjarmør. Kristin forelsker seg hodestups. 
 
@@ -70,10 +80,15 @@ PageBook
 
   p Et hovedtema i bøkene er konflikten mellom egenviljen og gudsviljen. Skal Kristin følge sitt eget hjerte, eller skal hun følge Gud? Det får konsekvenser både for henne selv og for andre når hun bryter normene som fellesskapet bygger på. 
 
+  NrkVideo(id="4968")
+
   h3 To bøker om Olav Audunssøn 
 
   img.col.col6.right-image.mt5(src='./undset_Olav_Audunssoen1.jpg' alt='')
-  p Suksessen med bøkene om Kristin Lavransdatter ble fulgt opp med Olav Audunssøn i Hestviken (1925) og Olav Audunssøn og hans børn (1927). Vi møter på nytt konflikten mellom det å rå over eget liv og plikten en har mot Gud og medmennesker. Olav har gjort en forbrytelse som han aldri tilstår, selv om han vet at det bare er tilståelse og soning som kan redde han. Hele livet er han plaget av dette sviket mot seg selv, og han framstår som en innesluttet og ulykkelig mann. 
+  p 
+    | Suksessen med bøkene om Kristin Lavransdatter ble fulgt opp med Olav Audunssøn i Hestviken (1925) og 
+    a(href="https://www.nb.no/items/c18bd62abb19cbc6f9af20471d9a9a74?page=0&searchText=Sigrid%20Undset" target="_blank") Olav Audunssøn og hans børn
+    | &nbsp;(1927). Vi møter på nytt konflikten mellom det å rå over eget liv og plikten en har mot Gud og medmennesker. Olav har gjort en forbrytelse som han aldri tilstår, selv om han vet at det bare er tilståelse og soning som kan redde han. Hele livet er han plaget av dette sviket mot seg selv, og han framstår som en innesluttet og ulykkelig mann. 
 
   p Å skrive om mennesker som levde i middelalderen, var for Sigrid Undset en måte å orientere seg på i samtida. Enkelte sider ved menneskelivet er uforanderlige, selv om tidene skifter, mente hun. Det er bare de ytre forholdene, vanene og miljøet som endrer seg, ikke følelsene og drømmene, ikke kjærligheten og håpet, plikten og ansvaret. Selv uttrykte hun det slik: 
 
@@ -98,12 +113,14 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

@@ -27,6 +27,8 @@ PageBook
     figcaption 
 
   p Mens sentrale 80-talsforfattarar som Jan Kjærstad og Kjartan Fløgstad skreiv maksimalistisk, ordrikt og ekspanderande, er tekstane til Erlend Loe minimalistiske, ordfattige og nærast stikkordaktige. Ein kan seie at han med Tatt av kvinnen og Naiv.Super så å seie punkterer den store 80-talsromanen. Og mens postmoderne forfattarar, etter «dei store forteljinganes død», ofte skriv om dei «små forteljingane», er romanane til Loe fulle av «dei bitte små forteljingane» – forteljingar som tilsynelatande er så enkle, kvardagslege og utan meining at dei umogleg kan danne utgangspunkt for ein heil roman. Men det er nettopp slike små episodar Loe byggjer det litterære universet sitt rundt.
+
+  NrkVideo(id="3279")
   
   h3 Mannen i krise
 
@@ -55,6 +57,8 @@ PageBook
   
   h3 Naiv.Super
   p Naiv.Super er den store kommersielle suksessen til Erlend Loe, og er omsett til heile tjue ulike språk. Handlinga er tilsynelatande enkel – romanen handlar om ein ung mann som opplever ei eksistensiell krise etter at han taper for broren sin i krokket. Han gir opp studia og søkjer tilbake til barndommen. Saman med far sin går han rundar rundt barndomsheimen, han sparkar ball med ein fem år gammal gut som heiter Børre, og han bankar på eit Brio bankebrett. For ein heil generasjon lesarar vart dermed bankebrettet sjølve definisjonen på eksistensiell livskrise og ei alternativ løysing for å handtere ei slik krise. 
+
+  NrkVideo(id="4365")
   
   h3 Korleis skape meining i eit meiningslaust tilvære?
 
@@ -80,12 +84,14 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

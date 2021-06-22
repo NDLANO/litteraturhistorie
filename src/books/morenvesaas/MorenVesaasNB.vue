@@ -19,9 +19,13 @@ PageBook
 
   p Et typisk tema i diktningen til Halldis Moren Vesaas er motsetningen mellom å høre sammen med noen og å være fri og selvstendig. Hvordan kan en finne en balanse mellom disse to motstridende behovene? I diktet «Ord over grind» sier hun klart at det finnes en grense for hvor langt inn i hverandres liv vi kan gå dersom vi vil unngå å miste oss selv. Vi må respektere hverandres behov for et rom som bare er vårt eget. Først da har et forhold mulighet for å lykkes. 
 
-  figure.col.col12
+  NdlaAudio(source="media/books/morenvesaas/Moren_intervju.mp3" description="Halldis Moren Vesaas om det å være et selvstendig menneske")
+
+  //figure.col.col12
    img(src='./MorenVesaas_Grind.jpg' alt='')
    figcaption Foto: Rolf Chr. Ulrichsen / Aftenposten / Scanpix
+
+  h5.mt20 Grind
 
   blockquote
     | Du går fram til mi inste grind, 
@@ -188,6 +192,10 @@ PageBook
       | den trugande dirring. Å jord, ver still,
       br
       | ver still, så mitt tre får gro!
+
+  p.mt40
+    a(href='https://www.nb.no/nbsok/nb/21afb9896ede9da30028876428043801?lang=no#0' target='_blank') Boken Dikt i samling
+
 
   //Medieinnhold: Beholde bilder. Kanskje ta ut gjerdet? Vurdere video med forfatteren. Ta med lydspor av diktopplesing. Ta ut NRK-video
 

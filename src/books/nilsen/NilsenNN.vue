@@ -34,6 +34,8 @@ PageBook
     | og krutt. 
 
   p I diktet «Nr. 13» skildrar Rudolf Nilsen korleis det er å vekse opp i gråbeinsgardane på austkanten i Oslo. Menneska som bur i nr. 13, er skildra med både varme, humor og ironi. Diktet er ei ekte folkelivsskildring frå austkanten. Men forfattaren minner oss på at dei som bur der, deler lagnad med arbeid
+
+  a(href="https://www.oslo.kommune.no/OBA/gallerier/Kjaerlighet/Rudolf_Nilsen/Rudolf_Nilsen_i_Byarkivet.asp" target="_blank") Rudolf_Nilsen i Byarkivet
   
   .clear 
   figure.col.col6.right-image.mt20
@@ -77,6 +79,8 @@ PageBook
     | ja, De finner Nr. 13 helst i byers øst og nord. 
 
   NdlaAudio(source="media/books/nilsen/Nr_13_av_Rudolf_Nilsen_-_Lest_av_Jens_Bolling.mp3")
+
+  a(href="https://no.wikisource.org/wiki/Nr._13" target="_blank") Les hele Nr. 13
 
   h3 På stengrunn
   p Den første diktsamlinga til Rudolf Nilsen kom ut i 1925 med tittelen På stengrunn. I denne diktsamlinga skildrar han livet til vanlege arbeidsfolk aust for Akerselva. Livet er hardt, og gledene er få. Men djupt i alle lever lengten etter eit betre liv. De unge bjerkene i svarte byen de står og bruser med sitt lyse løv, som om de åndet store skogers vårluft og ikke skorstensrøk og gatestøv.
@@ -194,7 +198,9 @@ PageBook
     br
     span(class="ml40") hvor Nr. 13 ikke er! 
 
-  p I diktet «Revolusjonens røst» kjem den revolusjonære, kommunistiske bodskapen enda tydelegare fram. Diktet uttrykkjer ei overtyding om at målet om eit rettferdig samfunn berre kan nåast gjennom kamp med livet som innsats. Lesarane blir oppmoda til å ta del i denne kampen. I siste strofe blir dei som er villige til å gi livet sitt, bedne om å melde seg til teneste. Trur vi på noko, må vi kjempe for det, elles er ikkje trua vår noko verd.
+  p I diktet 
+    a(href='http://herlov.dk/nilsen.htm' target='_blank') «Revolusjonens røst»
+    | &nbsp;kjem den revolusjonære, kommunistiske bodskapen enda tydelegare fram. Diktet uttrykkjer ei overtyding om at målet om eit rettferdig samfunn berre kan nåast gjennom kamp med livet som innsats. Lesarane blir oppmoda til å ta del i denne kampen. I siste strofe blir dei som er villige til å gi livet sitt, bedne om å melde seg til teneste. Trur vi på noko, må vi kjempe for det, elles er ikkje trua vår noko verd.
 
   blockquote
     | Ja, gi meg de beste blant dere, 
@@ -212,7 +218,7 @@ PageBook
   h3 Kamplyrikk
   p Dikta til Rudolf Nilsen har strofeform: Alle avsnitta er bygde opp likt, og dei har fast rim og rytme. Eit anna typisk trekk er at rimorda ofte har såkalla mannleg utgang – dei endar på trykktung staving, som for eksempel i diktet «Revolusjonens røst»:
 
-  NdlaAudio(source="media/books/nilsen/gi_meg_de_rene_og_ranke.mp4")
+  //NdlaAudio(source="media/books/nilsen/gi_meg_de_rene_og_ranke.mp4")
 
   blockquote
     | Gi mig de rene og ranke, 

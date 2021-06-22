@@ -148,11 +148,19 @@ PageBook
     br
     | (6 av 14 strofer)
 
+  NrkVideo(id="72562")
+
   p I diktet gir Nordahl Grieg uttrykk for eit humanistisk menneskesyn. Han trur på dei gode kreftene i mennesket, og han trur at desse kreftene er sterkare enn dei destruktive når dei blir sette på prøve.
 
   p «Til ungdommen» har mykje til felles med Arnulf Øverlands dikt «Du må ikke sove». Både Grieg og Øverland hadde vore i Spania og opplevd fascismen på nært hald, og begge var opptekne av at vi er forplikta til å kjempe for rettferd og fridom. Bodskapen i dikta er den same: Fridomen må forsvarast når han står i fare – og før det er for seint.
 
-  p Rudolf Nilsen hadde teke opp dei same tankane i «Revolusjonens røst» ti år tidlegare. I motsetning til Nilsen, som mante til væpna kamp, meinte Grieg at kampen for fred kunne vinnast ved å bruke menneskeleg fornuft og ånd. Ikkje berre politisk kamp Nordahl Grieg var først og fremst politisk diktar, og for krigsgenerasjonen vart han ein nasjonal folkehelt. Men dette vakre diktet viser at livet ikkje berre handlar om politisk kamp. Kvardagsliv og kjærleik høyrer òg med.
+  p Rudolf Nilsen hadde teke opp dei same tankane i «Revolusjonens røst» ti år tidlegare. I motsetning til Nilsen, som mante til væpna kamp, meinte Grieg at kampen for fred kunne vinnast ved å bruke menneskeleg fornuft og ånd. 
+  
+  h5 Ikkje berre politisk kamp 
+  p Nordahl Grieg var først og fremst politisk diktar, og for krigsgenerasjonen vart han ein nasjonal folkehelt. Men dette vakre diktet viser at livet ikkje berre handlar om politisk kamp. Kvardagsliv og kjærleik høyrer òg med.
+
+  a(href='media/books/grieg/sykkelstyret.html' target='_blank') Diktet «Sykkelstyret»
+
 
   h3 Journalisten og krigsreporteren
 
@@ -187,6 +195,8 @@ PageBook
       br
       | under de fremmedes åk.
 
+  NrkVideo(id="4758")
+
   p Norske krigsdikt gjekk oftast som stensilar frå hand til hand, og det var i Londontida under krigen at Nordahl Grieg vart kjend som ein stor lyrikar. For krigsgenerasjonen var Grieg ein folkehelt, og krigslyrikken hans framstår som den aller viktigaste delen av forfattarskapen. 
 
 </template>
@@ -195,12 +205,14 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

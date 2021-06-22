@@ -24,6 +24,8 @@ PageBook
 
   p Da tyskarane okkuperte Noreg i 1940, måtte ho flykte til USA, der ho haldt fram med innsatsen mot nazismen. Etter krigen reiste ho tilbake til Noreg. Helsa hennar var svekt, og ho døydde på Lillehammer i 1949.
 
+  NrkVideo(id="158932")
+
   h3 Stor kunnskap om mellomalderen
 
   img.col.col6.right-image.mt5(src='./undset_Stor_kunnskap_om_middelalderen.jpg' alt='')
@@ -43,7 +45,10 @@ PageBook
   p Undset kasta seg ut i avisdebattar, ho skreiv artiklar om ulike emne og var heile tida i opposisjon til dei som stod for moderniseringsprosjektet. Ho såg på kvinnesaksforkjemparane som fiendar av familien og fellesskapstanken. Plikta mot andre menneske og mot Gud var viktigare enn lysta til å gå eigne vegar, meinte ho. Rett nok forstod ho og argumenterte for at det var viktig for kvinnene å frigjere seg både økonomisk og sosialt, men ho meinte den viktigaste oppgåva likevel var å vere mor og verne om familien. 
 
   h3 Jenny – ein kunstnarroman
-  p I 1911 skreiv Sigrid Undset romanen Jenny, som vart gjennombrotet hennar som forfattar. Hovudpersonen Jenny er ein ung biletkunstnar som er fri for alle sosiale band og kan leve eit fritt kunstnarliv. Undset budde i Roma da ho skreiv romanen, og ho fann nok mykje inspirasjon til romanen i kunstnarmiljøet ho møtte der.
+  p 
+    | I 1911 skreiv Sigrid Undset romanen 
+    a(href="https://www.nb.no/items/4bd834284ecf1f389451ae6e811ebd02?page=0&searchText=Sigrid%20Undset" target="_blank") Jenny
+    | , som vart gjennombrotet hennar som forfattar. Hovudpersonen Jenny er ein ung biletkunstnar som er fri for alle sosiale band og kan leve eit fritt kunstnarliv. Undset budde i Roma da ho skreiv romanen, og ho fann nok mykje inspirasjon til romanen i kunstnarmiljøet ho møtte der.
 
   figure.col.col12
    img(src='./undset_Portrett3.jpg' alt='')
@@ -53,6 +58,8 @@ PageBook
 
   p Grunntanken hos Sigrid Undset er at mennesket ikkje kan leve ut sine lyster og gjere som det sjølv vil, utan at det får konsekvensar. Vi har alle ansvar og plikter å ta vare på, og familien er fundamentet, meinte ho. 
 
+  NrkVideo(id="4943")
+
   h3 Trilogien Kristin Lavransdatter
 
   figure.col.col6.right-image.mt5
@@ -60,7 +67,10 @@ PageBook
    figcaption Foto: Geir Olsen / VG / Scanpix
   p Med mellomalderromanane om Kristin Lavransdatter oppnådde Sigrid Undset ein suksess som ingen andre hadde hatt før henne. Trilogien er det fremste verket hennar og blir også omtalt som den største kjærleiksromanen i norsk litteratur. Bøkene gjorde henne til ein av dei mest framståande norske forfattarane på 1900-talet.
 
-  p Handlinga er lagd til første halvdel av 1300-talet, og vi følgjer Kristin gjennom dei tre bøkene Kransen (1920), Husfrue (1921) og Korset (1922). I Kransen møter vi Kristin som ung jente når ho veks opp på garden Jørundgård i Sel i Gudbrandsdalen. Foreldra, Lavrans og Ragnfrid, er gudfryktige menneske, og trua er ein viktig del av oppveksten. Femten år gammal blir Kristin forlova med Simon Darre, slik fedrane har avgjort.
+  p 
+    | Handlinga er lagd til første halvdel av 1300-talet, og vi følgjer Kristin gjennom dei tre bøkene 
+    a(href="https://www.nb.no/items/056dd4f952d4fc3843c8d5942a8e8f64?page=7&searchText=Sigrid Undset" target="_blank") Kransen
+    | &nbsp;(1920), Husfrue (1921) og Korset (1922). I Kransen møter vi Kristin som ung jente når ho veks opp på garden Jørundgård i Sel i Gudbrandsdalen. Foreldra, Lavrans og Ragnfrid, er gudfryktige menneske, og trua er ein viktig del av oppveksten. Femten år gammal blir Kristin forlova med Simon Darre, slik fedrane har avgjort.
 
   p Skikken den gongen var at ei ungjente frå ein velsituert familie skulle gå eit år i kloster, og Kristin blir send til Nonnesæter. Under ei utflukt ved klosteret møter ho Erlend Nikulaussøn. Han er tolv år eldre enn Kristin og har ei tvilsam fortid, men er rik slik det høver seg, og står fram som ein storsjarmør. Kristin forelskar seg hovudstups.
 
@@ -72,10 +82,15 @@ PageBook
 
   p Eit hovudemne i bøkene er konflikten mellom eigenviljen og gudsviljen. Skal Kristin følgje sitt eige hjarte, eller skal ho følgje Gud? Det får konsekvensar både for henne sjølv og for andre når ho bryt normene som fellesskapen byggjer på. 
 
+  NrkVideo(id="4968")
+
   h3 To bøker om Olav Audunssøn
 
   img.col.col6.right-image.mt5(src='./undset_Olav_Audunssoen1.jpg' alt='')
-  p Suksessen med bøkene om Kristin Lavransdatter vart følgd opp med Olav Audunssøn i Hestviken (1925) og Olav Audunssøn og hans børn (1927). Vi møter på nytt konflikten mellom det å rå over eige liv og plikta ein har mot Gud og medmenneske. Olav har gjort eit brotsverk som han aldri tilstår, enda han veit at det berre er tilståing og soning som kan berge han. Heile livet er han plaga av dette sviket mot seg sjølv, og han står fram som ein inneslutta og ulykkeleg mann.
+  p 
+    | Suksessen med bøkene om Kristin Lavransdatter vart følgd opp med Olav Audunssøn i Hestviken (1925) og 
+    a(href="https://www.nb.no/items/c18bd62abb19cbc6f9af20471d9a9a74?page=0&searchText=Sigrid%20Undset" target="_blank") Olav Audunssøn og hans børn
+    | &nbsp;(1927). Vi møter på nytt konflikten mellom det å rå over eige liv og plikta ein har mot Gud og medmenneske. Olav har gjort eit brotsverk som han aldri tilstår, enda han veit at det berre er tilståing og soning som kan berge han. Heile livet er han plaga av dette sviket mot seg sjølv, og han står fram som ein inneslutta og ulykkeleg mann.
 
   p Å skrive om menneska som levde i mellomalderen, var for Sigrid Undset ein måte å orientere seg på i samtida. Somme sider ved menneskelivet ligg fast, jamvel om tidene endrar seg, meinte ho. Det er berre dei ytre vilkåra, vanane og miljøet som endrar seg, ikkje kjenslene og draumane, ikkje kjærleiken og håpet, plikta og ansvaret. Sjølv uttrykte ho det slik: 
 
@@ -98,12 +113,14 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

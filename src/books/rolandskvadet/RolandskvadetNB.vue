@@ -11,6 +11,8 @@ PageBook(:showAuthor="false")
 
   p Dikteren er en ellers ukjent mann ved navn Turold (Thorvald). Navnet kan tyde på at han var fra Normandie, den delen av Frankrike som ble erobret av vikinger på 900-tallet. Disse vikingene blandet seg med lokalbefolkningen og gikk over til å snakke fransk. 
 
+  a(href="media/books/rolandskvadet/roland.html" target="_blank") Les hele kvadet
+
   h3 Handlingen i kvadet
 
   p Roland er nevø av Karl den store og leder for baktroppen i keiserens hær. Keiseren er sammen med hæren sin på vei tilbake fra Spania over Pyreneene. En sviker sørger for at Roland og baktroppen blir utsatt for et bakholdsangrep fra maurerne. Roland har et horn, Olifant, som han kan bruke for å tilkalle hovedtroppen. Men han nekter først å bruke hornet. Han er overmodig og tror han kan slå fienden uten hjelp. Roland og mennene hans makter å drive maurerne på flukt, men prisen for seieren er høy: alle som en faller i kampen. 

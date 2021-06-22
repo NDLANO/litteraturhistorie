@@ -13,6 +13,8 @@ PageBook
   p Vesaas levde selv i en slik konfliktsituasjon i mange år. Han fant inspirasjon ved å reise, og han likte spesielt godt å oppsøke de store byene i Europa. Det samme gjorde hun som skulle bli ektefellen hans resten av livet. 
 
   p I 1934 giftet han seg med lyrikeren Halldis Moren, og de to flyttet til gården Midtbø i Vinje som Tarjei hadde kjøpt av en onkel. Farsgården, som lå i det samme landskapet ved Vinjevatnet, hadde Vesaas tidligere overlatt til en bror. 
+
+  NrkVideo(id="0837c794-704a-4962-bb15-c538b80f2291")
   
   h3 Kimen – en modernistisk roman 
 
@@ -22,7 +24,9 @@ PageBook
     
   p I perioden 1923–1940 utgav Vesaas tretten romaner, to novellesamlinger og to skuespill. Det aller meste er skrevet i realistisk form, men med en del eksperimentelle innslag. 
 
-  p Romanen Kimen (1940) utgjør et vendepunkt i forfatterskapet og blir det store gjennombruddet for Vesaas. Boka formidler samtidas krigsatmosfære i en allegorisk og symbolsk form. Med Kimen fant Vesaas det prosaspråket som skulle bli så typisk for han. 
+  p Romanen 
+    a(href='https://www.nb.no/items/d2b54c2130870d79d2aef5ab674a45ce?page=0&searchText=kimen' target='_blank') Kimen
+    | &nbsp;(1940) utgjør et vendepunkt i forfatterskapet og blir det store gjennombruddet for Vesaas. Boka formidler samtidas krigsatmosfære i en allegorisk og symbolsk form. Med Kimen fant Vesaas det prosaspråket som skulle bli så typisk for han. 
 
   p Det er et knapt språk med korte, enkle setninger. Uttrykket er fortettet, ofte bruker Vesaas bare setningsfragmenter og enkeltstående ord. Det er en minimalistisk form der det enkle og komprimerte er fylt med mening, og det som ikke blir sagt, men som ligger mellom ordene, er en like viktig del av teksten. 
 
@@ -54,6 +58,11 @@ PageBook
 
   p Det er sagt at Kimen er en roman om villskapen og de destruktive kreftene i menneskesinnet. Boka er ikke en skildring av krig, men av hvordan primitiv hevn kan utløse sterkere utslag av vold og råskap. Tittelen Kimen viser til at det like fullt finnes en kime av det gode i mennesket, midt i all ondskapen. 
 
+  NdlaVideo(
+    source="media/video/vesaas/TarjeVesaas2.mp4"
+    description="Ungdomstid og krig. Intervju med Tarjei Vesaas, blant annet om boka Kimen"
+  )
+
   h3 Å dikte om seg selv
 
   figure.col.col6.right-image.mt5
@@ -79,7 +88,9 @@ PageBook
   p Tarjei Vesaas har fått flere priser for bøkene sine, blant annet Nordisk Råds litteraturpris i 1964 for romanen Is-slottet. Denne boka og romanen Fuglane (1957) er blitt stående som de mest berømte verkene i forfatterskapet. 
   
   h3 Fuglane 
-  p Romanen Fuglane (1957) handler om raringen Mattis, som bor sammen med søstera si, Hege, og som ikke er som andre. Folk i bygda kaller han Tusten. Mattis er ikke i stand til å gjøre vanlig arbeid, men han er god til å ro og vil prøve seg som ferjemann. 
+  p Romanen 
+    a(href='https://www.nb.no/items/14ac565f836ab1fee0cfaf9e59bc3396?page=7&searchText=fuglane' target='_blank') Fuglane
+    | &nbsp;(1957) handler om raringen Mattis, som bor sammen med søstera si, Hege, og som ikke er som andre. Folk i bygda kaller han Tusten. Mattis er ikke i stand til å gjøre vanlig arbeid, men han er god til å ro og vil prøve seg som ferjemann. 
 
   p Mattis er det vi i dag kaller psykisk utviklingshemmet, men han har et følsomt sinn og kan sanse mange ting som vanlige folk ikke oppfatter. Mattis sanser og tolker de fleste naturfenomener. Han er redd i tordenvær, men ser han for eksempel et fugletrekk, slipper angsten taket, og dagen blir god for han.  
 
@@ -131,7 +142,9 @@ PageBook
     img(src='./Vesaas_Is-slottet.jpg' alt='')
     figcaption Foto: Sverre A. Børretzen / Aktuell / Scanpix
 
-  p Romanen Is-slottet kom i 1963. Her finner vi på mange måter en videreføring av den eksperimenterende skrivestilen som hadde gjort Vesaas til en stor forfatter. 
+  p Romanen 
+    a(href='https://www.nb.no/items/131e8f3a9f34883cff1258b103df307a?page=0&searchText=is-slottet' target='_blank') Is-slottet
+    | &nbsp;kom i 1963. Her finner vi på mange måter en videreføring av den eksperimenterende skrivestilen som hadde gjort Vesaas til en stor forfatter. 
 
   p Boka handler om to jenter i pubertetsalderen som utvikler et nært vennskap. De mister vennskapet på en brutal måte, og den ene må kjempe for å komme over tapet og leve videre. Is-slottet er en utforskning av pubertetens psykologi, og det er en fortelling om at mennesket er grunnleggende ensomt, til tross for lengselen etter å overvinne følelsen av å stå aleine. 
 
@@ -167,7 +180,9 @@ PageBook
   h3 Vesaas som lyriker
   p Vesaas gav ut seks diktsamlinger, som alle er modernistiske i form og uttrykk. Gjennomgangstemaet i diktene hans er angst, ondskap og destruktive krefter. Symbolbruken er rik, og språket er knapt og fortettet, akkurat som i prosadiktningen. 
 
-  p Diktet «Regn i Hiroshima» er fra samlingen Leiken og lynet (1947). Diktet handler om atombomba som ble sluppet over Hiroshima 6. august 1945. 150 000 mennesker ble rammet, og nesten hele byen Hiroshima lå i ruiner etterpå. 
+  p Diktet 
+    a(href='https://www.nb.no/items/e6a765a02cfa293c75ffe5eb66dc3db8?page=81&searchText=regn i hiroshima' target='_blank') «Regn i Hiroshima»
+    | &nbsp;er fra samlingen Leiken og lynet (1947). Diktet handler om atombomba som ble sluppet over Hiroshima 6. august 1945. 150 000 mennesker ble rammet, og nesten hele byen Hiroshima lå i ruiner etterpå. 
 
   p Diktformen var utradisjonell i 1947. I første delen av diktet er setningene stykket opp og spredd over flere korte linjer, som for å understreke hvordan menneskene ble sprengt i filler under dette bombeangrepet. 
 
@@ -306,12 +321,14 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

@@ -87,6 +87,8 @@ PageBook(:showAuthor="false")
   p 1938-reformen var langt mer radikal. Den dannede dagligtale ble ikke lenger regnet som rettesnor for normering av bokmålet. I stedet tok en utgangspunkt i talemålet til flertallet av folket. 
 
   p Fra 1938 fikk om lag 900 hunkjønnsord obligatorisk a-ending i bokmål, særlig ord fra plante- og dyrelivet og fra arbeidslivet: bjørka, høna, nåla, øksa osv. Former som bjerken, hønen, nålen og øksen forsvant ut av skriftnormalen. Også diftong ble påbudt i en rekke ord, for eksempel i stein, røyk, eik, geit, øy. Dermed kunne en ikke lenger skrive sten, røk, ek, gjet, ø. 
+
+  NrkVideo(id="3435")
   
   h3 Utviklingen i nynorsk 
 
@@ -195,12 +197,14 @@ PageBook(:showAuthor="false")
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

@@ -22,7 +22,9 @@ PageBook
   p Duun regnes som en stor språkkunstner og hører til blant de fremste forfatterne i norsk litteratur på 1900-tallet. Han var svært produktiv og utgav i alt 25 romaner, fire novellesamlinger og to barnebøker. 
   
   h3 Juvikfolke 
-  p Gjennombruddet for Duun som forfatter kom i 1918 med slektsromanen Juvikingar, der handlingen er knyttet til hjemstedet Jøa i Namdalen. Fram til 1923 skrev han ei bok i året om Juvikfolke, til sammen seks romaner. 
+  p Gjennombruddet for Duun som forfatter kom i 1918 med slektsromanen 
+    a(href='https://www.nb.no/items/73789710969cf776a62c4cbb1b6009e9?page=9&searchText=juvikfolket' target='_blank') Juvikingar
+    | , der handlingen er knyttet til hjemstedet Jøa i Namdalen. Fram til 1923 skrev han ei bok i året om Juvikfolke, til sammen seks romaner. 
 
   p Det er øyene, havet og folket i dette kystlandskapet som utgjør ramma om bokserien. Vi følger Juvik-slekta gjennom seks generasjoner, fra 1600-tallet og fram mot 1800-tallet. Slektas medlemmer kjemper en kamp mot hedenskap og villskap. De har lett for å gripe til vold og kommer stadig i konflikt med hverandre. 
 
@@ -31,7 +33,9 @@ PageBook
   h3 Medmenneske 
   img.col.col6.right-image.mt5(src='./Duun_Medmenneske.jpg' alt='')
 
-  p Det neste høydepunktet i forfatterskapet er Medmenneske, en roman fra 1929. Boka er første bind i trilogien om Ragnhild, som også omfatter bøkene Ragnhild (1930) og Siste leveåre (1931). 
+  p Det neste høydepunktet i forfatterskapet er 
+    a(href='https://www.nb.no/items/5dc71ecc7d156708ea0d271b76755c58?page=5&searchText=medmenneske' target='_blank') Medmenneske
+    | , en roman fra 1929. Boka er første bind i trilogien om Ragnhild, som også omfatter bøkene Ragnhild (1930) og Siste leveåre (1931). 
 
   p Hovedtemaet i Medmenneske er ondskapen i mennesket og hva som kan stilles opp mot det onde. Motsetningene i romanen er den gode Ragnhild og svigerfaren Didrik, som representerer ondskapen selv. Det er en lang og ondsinnet konflikt mellom Ragnhilds mann Håkon og svigerfaren, og denne konflikten ender med en katastrofe, for Ragnhild dreper svigerfaren. 
 
@@ -40,7 +44,9 @@ PageBook
   p Ragnhild må sone fengselsstraff, og hun sier selv: «Det vonde drep du ikkje med øks.» Hun vet at hun har handlet galt og må ta sin straff for det, men hun kjenner seg også sveket av Håkon da hun må sone. Først mange år seinere blir de to  forsont, og da er det Håkon som har problemer med å reise seg når han innser at han har sveket kona. 
 
   h3 Menneske og maktene 
-  p Menneske og maktene (1938) er den siste boka i Duuns forfatterskap. Boka er en kollektivroman uten fast hovedperson, og handlingen utspiller seg i et fiktivt øysamfunn som Duun kaller Øyvære. Menneskene som lever på denne øya, må måle krefter med maktene, det vil si kreftene som styrer livet deres. Vi møter forskjellige mennesker som lar seg styre av ulike makter. Noen gir tapt for maktene, andre frykter maktene og lever i angst, og atter andre grubler over maktene og mister livslysten.
+  p 
+    a(href='https://www.nb.no/items/3ecb9574b82aad7759491cff624e34fa?page=7&searchText=menneskene%20og%20maktene' target='_blank') Menneske og maktene
+    | &nbsp;(1938) er den siste boka i Duuns forfatterskap. Boka er en kollektivroman uten fast hovedperson, og handlingen utspiller seg i et fiktivt øysamfunn som Duun kaller Øyvære. Menneskene som lever på denne øya, må måle krefter med maktene, det vil si kreftene som styrer livet deres. Vi møter forskjellige mennesker som lar seg styre av ulike makter. Noen gir tapt for maktene, andre frykter maktene og lever i angst, og atter andre grubler over maktene og mister livslysten.
 
   p Første og siste kapittel i boka utgjør en rammefortelling. Det finnes en gammel spådom om at øysamfunnet skal gå under ei uværsnatt med storflom og storm, og at mange skal drukne, men enkelte skal overleve. Siste kapittel skildrer nettopp denne natta med uvær og flom. Midtpartiet i boka består av fem fortellinger. Hver fortelling gir oss forhistorien til en av hovedpersonene som stilles overfor kriser og påkjenninger i uværsnatta som kommer. 
 

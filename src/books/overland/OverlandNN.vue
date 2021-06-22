@@ -15,7 +15,9 @@ PageBook
   p Alt i 1920-åra markerte Øverland seg som ein radikalar. Han var mellom anna medlem av den politiske organisasjonen Mot Dag. Motdagistane samla seg om ideane til Karl Marx og hadde mange kjende medlemmer. Dei gav òg ut eit tidsskrift med same namnet. 
   
   h5 Ein overtydd ateist
-  p Arnulf Øverland var alltid krass i kritikken når han gjekk til åtak på forhold han ikkje kunne godta. Han var overtydd ateist og reiste landet rundt med det polemiske foredraget «Kristendommen – den tiende landeplage». I 1933 vart han tiltalt etter blasfemiparagrafen på grunn av dette foredraget. Øverland måtte møte i retten, men vart frikjend med éi stemmes overvekt.
+  p Arnulf Øverland var alltid krass i kritikken når han gjekk til åtak på forhold han ikkje kunne godta. Han var overtydd ateist og reiste landet rundt med det polemiske foredraget 
+    a(href='http://virksommeord.no/tale/387/' target='_blank') «Kristendommen – den tiende landeplage»
+    | . I 1933 vart han tiltalt etter blasfemiparagrafen på grunn av dette foredraget. Øverland måtte møte i retten, men vart frikjend med éi stemmes overvekt.
   
   h5 Riksmålsmann
   p I 1938 kom det ei omfattande rettskrivingsreform som skulle føre bokmål og nynorsk nærare kvarandre. Denne reforma var Øverland sterkt imot. Som formann i Riksmålsforbundet frå 1947 til 1956 var han mellom dei fremste i kampen mot den statlege språkpolitikken. Han kunne vere ein sterkt usakleg debattant.
@@ -38,7 +40,8 @@ PageBook
 
   h5 «Du må ikke sove»
   
-  NdlaVideo.mt20.mb20(source="https://www.youtube.com/watch?v=xwl2vLc8HoY" playerType="youtube")
+  //NdlaVideo.mt20.mb20(source="https://www.youtube.com/watch?v=xwl2vLc8HoY" playerType="youtube")
+  NrkVideo(id="54d85f67-c48e-4e9f-8ee9-182170323c98")
 
   figure.col.col6.right-image.mt20
    img(src='./Overland_Krigsfanger1.jpg' alt='')
@@ -175,12 +178,14 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

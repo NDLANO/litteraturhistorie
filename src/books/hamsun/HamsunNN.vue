@@ -29,6 +29,8 @@ PageBook
 
   p Da nazistane kom til makta i Tyskland i 1933, var Hamsun alt ein gammal mann på over sytti år. Samfunnssynet og verdiane hans samsvara mykje med ideane til nazistane. Han støtta Tyskland offentleg, også etter at tyskarane hadde invadert Noreg i 1940. Etter Hitlers sjølvmord i 1945 skreiv han jamvel ein rosande nekrolog om diktatoren. 
 
+  NrkVideo(id="3262")
+  
   img.col.col6.right-image.mt5(src='./Hamsun_Nazismen.jpg' alt='')
   p Støtta til nazismen skapte store problem for Hamsun personleg og for ryktet hans som forfattar. Etter krigen vart han stilt for retten og dømd til å betale ei veldig bot. I tillegg fekk han diagnosen «varig svekkede sjelsevner». Hamsun endra aldri syn, og da han døydde i 1952, var han på mange måtar ein hata mann. Røynslene frå krigen var vonde for mange, og det var forkasteleg å ha hatt sympatiar med nazismen.
 
@@ -67,12 +69,13 @@ PageBook
   h3 Språk og forteljemåte i Pan
 
   img.col.col12(src='./Hamsun_Spraak_og_fortellermaate_i_Pan.jpg' alt='')
-  h5 Prosalyrisk stil
+  NdlaAudio(source="media/books/hamsun/Fra_Pan_lest_av_Kjetil_Bang-Hansen.mp3" description="Frå Pan")
+  h5.mt20 Prosalyrisk stil
   p Framstillinga i Pan er prega av mange prosalyriske skildringar, det vil seie skildringar med sterke lyriske innslag. Særleg i avsnitt der Hamsun skildrar naturen og lèt seg inspirere av mytar, nyttar han mange verkemiddel på ein måte vi er mest vane med frå lyrikken: rytme, allitterasjon, gjentakingar og biletbruk får ein dominerande funksjon. Dei framhevar den subjektive, sanselege og ekstatiske stemninga som hovudpersonen opplever i naturen. Nokre av dei vakraste avsnitta i romanen gjeld skildringane av nordlandssommaren, midnattssola, havet og skogen.
 
   img.col.col12(src='./Hamsun_Nyrealisme.jpg' alt='')
   
-  h5 Eg-forteljing
+  h5.mt20 Eg-forteljing
   p Pan er ei førstepersonsforteljing, med hovudpersonen Glahn som forteljar. Eg-forma høver svært godt når forfattaren vil skildre «det ubevidste Sjæleliv» til ein person. Eg-forma gir lesaren direkte tilgang til tankane og kjenslene til forteljaren, slik at vi får med oss dei til tider irrasjonelle og brå endringane i sinnet hans.
   
   h3 Nyrealisme og nobelpris
@@ -85,7 +88,7 @@ PageBook
 
   p Vi kan seie at Hamsun her illustrerer konflikten mellom natur og sivilisasjon, som vi kjenner frå nyromantikken, på ein ny måte. I Markens Grøde vender han attende til ein meir realistisk forteljemåte, utan dei komplekse psykologiske portretta vi kjenner frå 1890-åra.
 
-  NdlaAudio(
+  //NdlaAudio(
     source="media/books/hamsun/Hamsun_ Markens_Groede _Brikt_Jensen_nrk.mp3"
     description="Hamsun - Markens Grøde - Brikt Jensen"
     )
@@ -96,12 +99,14 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

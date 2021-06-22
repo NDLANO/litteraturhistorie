@@ -72,7 +72,7 @@ PageBook(:showAuthor="false")
   h5 Dyre- og skjemteviser 
   p er eventyr i strofeform. De gjør narr av balladesjangeren og er reine parodier. «Tor Brynjulv og fluga» og «Reven og bonden» er eksempler på slike viser. 
 
-  NdlaAudio(source="media/books/olavogkari/04_kjerringa_med_staven.mp3")
+  NdlaAudio(source="media/books/olavogkari/04_kjerringa_med_staven.mp3" description="Kjerringa med staven")
 
   h3 Balladeformen 
   h5 To- eller firelinjet strofeform 

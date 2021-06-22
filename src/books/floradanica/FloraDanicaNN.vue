@@ -22,6 +22,8 @@ PageBook(:showAuthor="false")
   p Gunnerus´ verk Flora Norvegica kjem ut for første gong i 1766. I alt er 1118 norske artar omtalte. Boka er skriven på latin, men Gunnerus fører også opp dei tilsvarande norske, danske og tyske namna. Mange av dei plantane Gunnerus skriv om, hadde han sjølv funne på visitasreisene han gjorde som biskop i Nordland og Finnmark.
 
   p Gunnerus omtaler plantane, han fortel kva slags medisinske eigenskapar dei har, og kva dei elles kan brukast til. Samstundes gir han ofte kulturhistoriske opplysningar. 
+
+  a(href="https://books.google.no/books?id=uxMWAAAAYAAJ&dq=Flora+norvegica&printsec=frontcover&source=bl&ots=fnHxf0WagE&sig=J8Q5DOGuYy-dO74k37c5cIF9G1A&hl=no&ei=kLMXS8-mLZCE-QaCr_jSDw&sa=X&oi=book_result&ct=result#v=onepage&q&f=false" target="_blank") Les Flora Norvegica
   
   h3 Barn av opplysingstida
 

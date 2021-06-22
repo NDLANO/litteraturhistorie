@@ -5,7 +5,7 @@ PageBook(:showAuthor="false")
     img(src="./Beowulf_utklipp.jpg" alt="Første side av ”Beowulf”-kvadet i eit manuskript skrive ein gong mellom 700 og 1000")
     figcaption Første side av ”Beowulf”-kvadet i eit manuskript skrive ein gong mellom 700 og 1000
       NdlaAudio(source="media/books/beowulf/beowulf_sitat_britishlibary.mp3")
-      a(href="http://www.heimskringla.no/wiki/Beowulf") Les teksten
+      a(href="http://www.heimskringla.no/wiki/Beowulf" target="_blank") Les teksten
 
   p «Beowulf» er eit angelsaksisk heltekvad. Kvadet blir rekna for å vere det engelske nasjonaleposet og er det viktigaste enkeltverket frå angelsaksisk tid (om lag 400–1066). 
 
@@ -17,11 +17,11 @@ PageBook(:showAuthor="false")
 
   p Det finst òg to moderne filmversjonar av Beowulf.
 
+
+  h3 Innhald
   figure.col.col6.left-image
     img(src="./Beowulf_film.jpg" alt="Det finst òg to moderne filmversjonar av Beowulf.")
     figcaption Det finst òg to moderne filmversjonar av Beowulf.
-
-  h3 Innhald
   p Handlinga i eposet er lagd til Danmark og Sverige i urnordisk tid. Uhyret Grendel herjar i riket til danskekongen Hrothgar. Kvar natt heimsøkjer Grendel kongshallen og drep mennene til kongen. Da dreg helten Beowulf ut for å hjelpe Hrothgar. Han nedkjempar først Grendel og deretter mor hans, som prøver å hemne sonen.
 
   p Seinare blir Beowulf konge i heimlandet sitt, Gautland (kanskje dagens Götaland i Sør Sverige). Siste del av kvadet skildrar korleis han dreg ut saman med mennene sine for å drepe ein drake som legg landet hans i øyde. Men det er berre éin av mennene som torer møte draken saman med han. Beowulf maktar å ta livet av draken, men blir sjølv drepen. Han blir så hauglagd av mennene sine.
@@ -34,11 +34,11 @@ PageBook(:showAuthor="false")
 
   p Helten Beowulf er prega av ei sterk lagnadstru. Han er overtydd om at det er lagnaden som avgjer når han skal døy. Denne lagnadstrua er djupt forankra i germansk krigartradisjon. Vi finn den same trua også i dei norrøne heltedikta og i islendingesogene. 
 
+
+  h3 Heltedikt
   figure.col.col6.right-image
     img(src="./Beowulf_i_kamp_med_draken.jpg" alt="Beowulf i kamp med draken. Til høgre gravhaugen i Skalunda i Götaland der Beowulf skal vere hauglagd.")
     figcaption Beowulf i kamp med draken. Til høgre gravhaugen i Skalunda i Götaland der Beowulf skal vere hauglagd.
-
-  h3 Heltedikt
   p Alle stammar og nasjonar har segner og mytar som stadfestar kven dei er, kvar dei kjem frå, og formidlar tenkjemåtar og verdiar som er viktige for dei.
 
   p Dikta som byggjer på slike segner og mytar frå ei heroisk fortid, kallar vi heltedikt.

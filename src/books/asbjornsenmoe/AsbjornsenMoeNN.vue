@@ -39,7 +39,13 @@ PageBook(:bannerImage="require(`./banner.jpg`)")
       | som «Reveenka», «De tre bukkene Bruse» og «Hanen og høna»: Hovudpersonane er dyr som blir tillagde spesielle eigenskapar. Bjørnen er for eksempel som oftast sterk, men dum, mens reven er ein luring.
     li 
       strong Skjemteeventyr 
-      | som «Pannekaka», «Mannen som skulle stelle heime» og «Presten og klokkeren»: Desse eventyra har ofte ei satirisk form og hengjer ut negative eigenskapar som det å vere grådig, dum eller innbilsk.
+      | som «Pannekaka», «Mannen som skulle stelle heime» og 
+      a(href="http://runeberg.org/folkeven/027.html" target="_blank") «Presten og klokkeren»
+      |: Desse eventyra har ofte ei satirisk form og hengjer ut negative eigenskapar som det å vere grådig, dum eller innbilsk.
+      NdlaAudio(
+        source="media/books/asbjornsenmoe/AsbjogMoe_Prestenogklokkeren_med_HaukAabel.mp3"
+        description="«Presten og klokkeren»"
+        )
     li 
       strong Legendeeventyr 
       | som «Gjertrudsfuglen» og «Jomfru Maria og svala»: Dette er religiøse forteljingar der hovudpersonen er jomfru Maria, St. Peter, Heilag-Olav eller Vårherre. Mange av forteljingane illustrerer religiøse eller moralske sanningar.
@@ -89,7 +95,11 @@ PageBook(:bannerImage="require(`./banner.jpg`)")
 
   p Gjennom det språklege arbeidet med eventyra er Asbjørnsen og Moe med på å rydde grunnen for fornorskingsprogrammet til språkmannen Knud Knudsen, og for så vidt også for arbeidet til Ivar Aasen med å reise eit nytt norsk skriftspråk med utgangspunkt i norske dialektar.
   
-
+  NdlaAudio(
+    source="media/books/asbjornsenmoe/Skarvene_fra_Utrøst.mp3"
+    description="Skarvene fra Utrøst"
+  )
+  a(href="http://runeberg.org/folkeven/011.html" target="_blank") Les som tekst
 </template>
 
 <script>

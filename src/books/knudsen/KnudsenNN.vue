@@ -53,7 +53,10 @@ PageBook
   
   p Knudsen var i grunnen meir oppteken av ordtilfang enn av grammatikk og lydlære. Han var purist og sterkt imot ein ukritisk bruk av framandord i norsk. Han meinte framandorda gjorde det vanskelegare for folk å skaffe seg kunnskap. Aller helst burde vi bruke norske avløysarord, meinte han, men der det var naturleg å bruke framandord eller lånord, måtte dei ha ein norsk skrivemåte.
   
-  p I åra 1879–1881 gav Knudsen ut ei ordbok som han kalla Unorsk og Norsk, eller Fremmedords Avløsning. Her lanserte han fleire avløysarord, anten ord han sjølv hadde konstruert, eller ord andre hadde føreslått. Boka var tenkt som ei praktisk oppslagsbok. I forordet heiter det: 
+  p 
+    | I åra 1879–1881 gav Knudsen ut ei ordbok som han kalla 
+    a(href="https://www.nb.no/items/6c1919818745103c4bf5725112b47a4a?page=5&searchText=unorsk%20og%20norsk", target="_blank") Unorsk og Norsk
+    | , eller Fremmedords Avløsning. Her lanserte han fleire avløysarord, anten ord han sjølv hadde konstruert, eller ord andre hadde føreslått. Boka var tenkt som ei praktisk oppslagsbok. I forordet heiter det: 
 
   p Bogen nævner op de ord, som det til brug for den skrivende i øjeblikket kan blive spørsmål om, for at han ej skal være nød til at hangle igjennom med det fremmede eller mindre gode, fordi han ikke er i stand til at hitte på noget av vore indenlandske og bedre.
 
@@ -71,7 +74,8 @@ PageBook
   .clear
   p Knudsen fekk lite støtte for forslaga sine i samtida. Å skape nye ord og få folk til å ta dei i bruk, er ein prosess som tek lang tid. I dag fører Språkrådet vidare det arbeidet som Knud Knudsen sette i gang med å finne gode norske avløysarord.
 
-
+  a(href="https://www.nb.no/items/5ab0d1761e1b666871ec87b231263462?page=13&searchText=Det%20norske%20m%C3%A5lstr%C3%A6v" target="_blank") Les Det norske målstræv (1867)
+  
 </template>
 
 <script>

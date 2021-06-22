@@ -31,8 +31,14 @@ PageBook(:showAuthor="false")
 
   p De eldste tegneserieheftene har hatt flere tekstforfattere og tegnere. Noen ganger er det så markerte forskjeller i uttrykket at vi kan dele heftene inn i tidsepoker ut fra hvem som har tegnet seriene. Dette gjelder blant annet den nynorske tegneserien «Smørbukk». 
 
-  p De tradisjonelle norske tegneseriefigurene hører hjemme i et folkelig hverdagsmiljø. Nr. 91 Stomperud reiser hjem til Sørumsand til jul. Også Smørbukk og kompisene hans er plassert inn i et typisk norsk bygdemiljø. Det samme gjelder tegneserien «Nils og Blåmann». Denne serien ble skapt i 1927 og ble utgitt fast i førti år. 
+  p De tradisjonelle norske tegneseriefigurene hører hjemme i et folkelig hverdagsmiljø. Nr. 91 Stomperud reiser hjem til Sørumsand til jul. Også Smørbukk og kompisene hans er plassert inn i et typisk norsk bygdemiljø. Det samme gjelder tegneserien 
+    a(href='http://www.fjukstads.net/21256291' target='_blank') «Nils og Blåmann»
+    | . Denne serien ble skapt i 1927 og ble utgitt fast i førti år. 
   
+  p
+    a(href='http://www.notem.no/nils/utgivelser.html' target='_blank') Oversikt over norske tegneserier
+  
+
   h5 Nye undersjangrer 
   p I 1970-årene skjedde det en endring. Vi fikk flere nye historiske tegneseriealbum som fortalte om hendinger i eldre eller nyere historisk tid, og også mer eksperimentelle tegneseriehefter med sterkere kunstnerisk og litterær profil. I vår tid har tegneseriene ofte en sarkastisk undertone og figurene er forankret i moderne storbyliv, som for eksempel «Olaf G» og «Nemi». 
 
@@ -71,7 +77,16 @@ PageBook(:showAuthor="false")
   p Serien om ingeniør Knut Berg oppstod som et norsk motstykke til den amerikanske tegneserien «Lyn Gordon». I de første seriene utfører den staute, lyshårete nordmannen heltegjerningene sine i det ukjente landet Kalimanko i Det fjerne østen. Her kjemper han mot den onde diktatoren Dr. Panga, som vil gifte seg med prinsesse Aima og underlegge seg hele riket. Eventyreren Knut Berg viser seg som en sann humanist og redder prinsessen og folket hennes fra nød og undertrykking. 
 
   p Etter hvert som serien utvikler seg, står kampen mellom skurken Dr. Panga og helten Knut Berg ikke bare om jordkloden, men om hele verdensrommet. Ved hjelp av ingeniørkunstene sine legger Knut Berg under seg fjerne galakser. Slik sett kan vi si at ingeniør Knut Berg var den første nordmannen i verdensrommet! 
-  
+
+  p
+    a(href='https://nynorsksenteret.no/teikneseriar/KnutBerg.html' target='_blank') Se en stripe fra tegneserien «Ingeniør Knut Berg på eventyr»
+
+  p
+    a(href='http://www.minetegneserier.no/pls/htmldb/f?p=100:11:0::NO::P11_SERIE_GRUPPER_ID:542&cs=18A9D3F0D5ED9E261D211F02BB14576B6' target='_blank') Forsider til tegneserien «Ingeniør Knut Berg på eventyr»
+
+  NrkVideo(id="3708") 
+  p NRK Skole: Tegneserie som sjanger
+
   h3 «Smørbukk» 
 
   img.col.col8.right-image.mt5(src='./Vangsgutane_Smoerbukk.jpg' alt='')
@@ -82,6 +97,9 @@ PageBook(:showAuthor="false")
   p Mens Vangsgutane forble i et typisk miljø fra 1940- og 1950-årene, har Smørbukk vist evne til å følge med i tida. I våre dager er treski og tønnestaver byttet ut med moderne snøbrettutstyr. Men tegneserien formidler fortsatt et verdisyn som vi kan kalle typisk norsk bygdemoral. Det gjelder å være snill, ærlig, trofast og lite jålete. Innimellom slår Smørbukk også et slag for nynorsken!
 
   p De første seriene om Smørbukk ble tegnet av Jens R. Nilssen, som også tegnet Vangsgutane. 21 hefter er tegnet av Solveig Muren Sanden, og resten av Håkon Aasnes. I tegningene til Solveig Muren Sanden likner miljøet som Smørbukk ferdes i, det vi finner i øvre Telemark. Forskjellige forfattere har skrevet teksten, blant annet Johannes Farestveit og Øyvind Dybvad. 
+
+  a(href='https://nynorsksenteret.no/teikneseriar/smorbukk.html' target='_blank') Den første tegneseriestripa om Smørbukk i 1938, sammenliknet med en moderne utgave
+
 
   h3 Tegneserier som kulturformidlere og språklige forbilder 
 
@@ -103,12 +121,13 @@ PageBook(:showAuthor="false")
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
-
+import NrkVideo from "@/components/NrkVideo";
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

@@ -59,6 +59,8 @@ PageBook
 
   p Språkleg har Shabana Rehman utvikla ein eigen stil, med utgangspunkt i typiske trekk frå stand-up og kåseri. Ho skriv personleg og direkte – ofte med utgangspunkt i eige liv og eigne erfaringar, som norsk-pakistansk kvinne og komikar: «Mens Europa flørter med Hitlers mustasjer, drar jeg til Køben for å snakke om mine.» Gjennom denne samanlikninga mellom Hitlers mustasjar og sine eigne leikar ho med både fenomenet framandfrykt, veksande rasisme og pakistansk – og kanskje norsk – tabu: kroppshår på kvinner.
 
+  NrkVideo(id="3642")  
+
   p Ho boltrar seg med morosame eller krasse samanlikningar og uvande samanstillingar. Under overskrifta «Deadline» samanliknar ho døden med journalistens deadline, og ordet dødsdom får ein annan klang: «Vi er alle dødsdømte. Da jeg innså det, sluttet jeg å være redd for døden.» Ho bruker munnlege uttrykk og slang som «sladrekjerringa», «sommersexy», «dra til helvete» og «driter på». Og ho leikar med ord og skaper nye uttrykk: «Skrekk og gud» og «Norgistan».
 
   p Andre typiske kåseritrekk Rehman nyttar, er overdrivingar, underdrivingar og generaliseringar: I ein framtidsvisjon om Noreg, og som eit sleivspark til dagens presse, skriv ho: «Dagen starter med at samtlige norske aviser melder om at det også denne dagen hersker fred, frihet og harmoni i landet.» Og i eit forsvar for kosthaldsråda til Fedon Lindberg skriv ho: «Det er sultepidemi i Afrika. Resten av oss er feitinger.»
@@ -67,6 +69,10 @@ PageBook
 
   p Tekstane er i stor grad prega av haldningane, tankane og kjenslene til forfattaren. Trass i humoren og ironien er det lett å få tak i Rehmans personlege meiningar. Ho set eit personleg avtrykk i alle tekstane sine, alltid lojal mot dei grunnleggjande verdiane sine. I forordet skriv ho: «Les denne boken, del mine emosjoner; bli glad, forbannet og gå ut og hiss opp verden. Til fred.»
 
+  NdlaVideo(
+    source="media/video/rehman/Shabana_Rehman.mp4"
+    captionsUrl="media/video/rehman/Shabana_Rehman.nb-no.vtt"
+  )
 
 </template>
 
@@ -74,12 +80,14 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

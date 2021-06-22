@@ -34,7 +34,9 @@ PageBook
    img(src='./Falkberget_Den_fjerde_nattevakt.jpg' alt='')
    figcaption Den fjerde nattevakt på Trødelag teater i 1994. Foto: Ned Alley / Scanpix
 
-  p Et av hovedverkene til Falkberget er romanen Den fjerde nattevakt fra 1923. Handlingen er lagt til begynnelsen av 1800-tallet, og hovedpersonen er presten Benjamin Sigismund, som kommer på kant med de fleste i menigheten. 
+  p Et av hovedverkene til Falkberget er romanen 
+  a(href="https://www.nb.no/items/dcda97d5b4249a0a6b3f9a99bcaa3b6a?page=0&searchText=den%20fjerde%20nattevakt" target="_blank") Den fjerde nattevakt
+  | &nbsp;fra 1923. Handlingen er lagt til begynnelsen av 1800-tallet, og hovedpersonen er presten Benjamin Sigismund, som kommer på kant med de fleste i menigheten. 
 
   p Presten er hovmodig og stridig og skal gjennom mange prøvelser før han virkelig blir en prest for folket. I tillegg utvikler han et kjærlighetsforhold til Gunhild, en ung kvinne fra bergstaden, enda både han selv og Gunhild er gift. Det ender med at Benjamins kone dør og Gunhilds mann tar sitt eget liv. 
 
@@ -69,7 +71,9 @@ PageBook
    img(src='./Falkberget_Boer_Boerson.jpg' alt='')
    figcaption Paul Ottar Haga spilte rollen som Bør Børson på Det Norske Teatret i 2001. Rolv Wesenlund var Gammel-Bør. Foto: Knut Erik Knudsen / Scanpix
 
-  p I 1920 kom Bør Børson jr., en satirisk og ustyrtelig morsom historie om jobbetida under første verdenskrig. Historien hadde først gått som føljetong i Hvepsen. Enda større suksess fikk Bør Børson jr. da serien ble gitt ut i bokform. Falkberget tegner et satirisk bilde av jobbetida med børsspekulasjoner, svindel, oppkomlinger og konkurser. Her får spekulantene gjennomgå for at de tjente store penger på andres ulykke i skyggen av verdenskrigen. 
+  p I 1920 kom 
+    a(href="https://www.nb.no/items/72a525a76057f336475454839ea614c3?page=0&searchText=b%C3%B8r%20b%C3%B8rson" target="_blank") Bør Børson jr.
+    | , en satirisk og ustyrtelig morsom historie om jobbetida under første verdenskrig. Historien hadde først gått som føljetong i Hvepsen. Enda større suksess fikk Bør Børson jr. da serien ble gitt ut i bokform. Falkberget tegner et satirisk bilde av jobbetida med børsspekulasjoner, svindel, oppkomlinger og konkurser. Her får spekulantene gjennomgå for at de tjente store penger på andres ulykke i skyggen av verdenskrigen. 
 
   figure.col.col6.right-image.mt5
    img(src='./Falkberget_Ung_i_Valdres.jpg' alt='')

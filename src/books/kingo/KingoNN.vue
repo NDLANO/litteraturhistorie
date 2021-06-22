@@ -46,6 +46,9 @@ PageBook
     br
     | imod påske-morgenrøde.
 
+  a(href="https://www.dendanskesalmebogonline.dk/salme/227/401/2" target="_blank") Les heile «Som den gylne sol frembyder»
+
+
   p Dette er ein påskesalme som skildrar Jesu oppstode frå dei døde. Påskedramaet blir formidla ved hjelp av sterke kontrastar: sola som bryt gjennom det kolsvarte mørket, den strålande morgonhimmelen i kontrast til døden på havbotnen.
 
   p I salmen oppmodar Kingo tilhøyrarane til å takke for dette påskeunderet og meditere over den nåden som har vorte alle til del gjennom Jesu død på krossen. Salmen sluttar med bønn og takkseiing, slik det er vanleg i den kyrkjelege liturgien.

@@ -15,7 +15,7 @@ PageBook
   h3 Nordlands Trompet
   p Nordlands Trompet er eit hyllingsdikt til folk og natur i «Nordlandene» – det som i dag er Troms og Nordland. Hyllinga gjeld alle: prestar og styresmakter, fiskarar, bønder, tenestefolk og leiglendingar:
 
-  NdlaAudio(source="media/books/dass/P_Dass_-_Nordlands_Trompet_-_Ver_hilset.mp3")
+  NdlaAudio(source="media/books/dass/tekst9_nordlands_trompet.mp3")
 
   blockquote
     | Vær hilset, I Nordlands bebyggende Mænd 
@@ -58,8 +58,11 @@ PageBook
     br
     | Madamer og ugifte Piger; […]  
 
-  p I diktet «Nordlands Beliggende» plasserer Dass landsdelen på kartet og skildrar dei geografiske særtrekka. Vi får lære om landdyr, fuglar og fisk, vêr og vind, jordbruk og fiske og om dei menneska som lever i desse områda.
+  p I diktet 
+    a(href="media/books/dass/nordlands_beliggende.html" target="_blank") «Nordlands Beliggende»
+    | &nbsp;plasserer Dass landsdelen på kartet og skildrar dei geografiske særtrekka. Vi får lære om landdyr, fuglar og fisk, vêr og vind, jordbruk og fiske og om dei menneska som lever i desse områda.
 
+  
   p Nordlands Trompet inneheld læredikt. Forfattaren vil gi lesaren innsikt i eit emne. Rytmen er fast, og språket er enkelt og nøkternt. Men som den gode prest han er, priser Dass samstundes også Vårherre og skaparverket hans.
 
   p I motsetning til mange embetsmenn i samtida er Petter Dass oppteken av det norske, både i skildringa av norsk kvardagsliv og natur, og ved at han bruker mange særnorske ord. Slike ord kallar vi norvagismar.

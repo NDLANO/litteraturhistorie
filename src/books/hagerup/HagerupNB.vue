@@ -34,6 +34,8 @@ PageBook
 
   p I 1942 hadde hun også skrevet et dikt hun ikke kunne utgi, «Aust-Vågøy. Mars 1941». Dette diktet distribuerte hun til fem mennesker hun stolte på. Derfra nådde det de frie norske sendingene fra BBC, det prydet i sin helhet forsiden til en svensk avis, og det ble trykt i antologier som kom ut i Sverige. 
 
+  a(href='https://www.nb.no/items/b8f1c1c1f67287a78f7a1a29d8dfc400?page=3&searchText=videre' target='_blank') Diktsamlingen «Videre» (1945)
+
   p Dette lille diktet gir oss det enkleste og samtidig sterkeste uttrykk for følelsene som preget folk i Norge gjennom krigsårene. Forfatteren Sigurd Hoel (1890– 1960) sier om diktet: «Det falt i Inger Hagerups lodd å skrive det mest berømte diktet fra denne krigen – det ene diktet vi alle vet vil leve om hundre år.» 
 
   p Det er ikke vanskelig å skjønne hvorfor «Aust-Vågøy. Mars 1941» ble så populært. Tankeinnholdet er enkelt, følelsene er sterke og samlende. Den lyriske stemmen er et vi, noe som var typisk for krigslyrikken. Slik ble fellesskapet og samholdet understreket. I tillegg finner vi et tydelig samsvar mellom rytme og motiv. Den korthogde rytmen «hamrer med harde, vonde slag» inn verselinjene: 
@@ -149,6 +151,8 @@ PageBook
   p sier hun om hjertets splittelse i diktet «To tunger». Parforholdet skildres med dobbelthet, som i diktet «Episode», der avgrunnsdyp avstand og uatskillelig nærhet knyttes sammen: «Hun merket dypt bak hat og nag og kulde / den spente streng fra hans til hennes hjerte.» 
 
   p Noen av diktene har en kjønnspolitisk undertekst. «Sånn vil du ha meg: Som en spøk / ditt trette sinn kan hvile i,» skriver hun i «Sånn vil du ha meg». Men det lyriske jeget vil være mer enn et erotisk leketøy, hennes hjerte kan «et annet språk / som det må brenne inne med». I diktet «Nærgående brev til Sigurd Hoel og hans tid» kritiserer hun kjønnsideologien til kulturradikalismens menn: «Fra hjernen til kjønnet gikk en direkte linje, / men utenom hjertet, for guds skyld utenom dét.» 
+
+  a(href=' https://www.nb.no/items/2bdf37e84be4331499de7cf8d96253d7?page=3&searchText=to tunger' target='_blank') Diktsamlingen «Ord»
   
   h3 «Midt i det skoddeland som heter jeg …» 
 
@@ -181,7 +185,9 @@ PageBook
    
   p Hvis vi ser nærmere på Hagerups formspråk, oppdager vi mer enn tradisjonelle rim og taktfaste rytmer. Det mest åpenbare finner vi i barnediktene. Her velger Hagerup å bryte med tradisjonen, hun skaper sin egen form. Slik ble Hagerups barnedikt et gjennombrudd for en ny type barnepoesi. 
 
-  p Da diktsamlingen Så rart ble utgitt i 1950, var norsk barnelitteratur preget av realisme og moralisme. Hagerup gjør snarere det motsatte: Hun setter virkeligheten på hodet, og i stedet for å skildre pedagogisk hvordan ting er, setter hun ord på små, rare spørsmål som alle en gang har grublet på. Den lyriske røsten har en oppriktig barnlighet og åpenhet, på lag med barnets spontane undring, og den står i sterk kontrast til Margrethe Munthe-tradisjonen. Stiltonen i diktene varierer fra det groteske til det naivistiske. Noen av diktene kan også kalles nonsensdikt, det vil si tekster uten logisk innhold, der poenget er leken med ord, rytmer og klanger. 
+  p Da diktsamlingen 
+    a(href='https://www.nb.no/items/bb21206bfaf4de20b76db24899e2cc53?page=7&searchText=s%C3%A5%20rart' target='_blank') «Så rart»
+    | &nbsp;ble utgitt i 1950, var norsk barnelitteratur preget av realisme og moralisme. Hagerup gjør snarere det motsatte: Hun setter virkeligheten på hodet, og i stedet for å skildre pedagogisk hvordan ting er, setter hun ord på små, rare spørsmål som alle en gang har grublet på. Den lyriske røsten har en oppriktig barnlighet og åpenhet, på lag med barnets spontane undring, og den står i sterk kontrast til Margrethe Munthe-tradisjonen. Stiltonen i diktene varierer fra det groteske til det naivistiske. Noen av diktene kan også kalles nonsensdikt, det vil si tekster uten logisk innhold, der poenget er leken med ord, rytmer og klanger. 
   
   h3 Forløper for 60-tallslyrikken 
 

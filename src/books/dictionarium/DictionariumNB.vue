@@ -25,6 +25,9 @@ PageBook(:showAuthor="false")
   p Christen Jensson ble sannsynligvis født i Norge, og han regnet seg som nordmann. I forordet skrev han at han tilegnet arbeidet sitt til «alle gode Norbagger som ere mine kiere Landmænd». Men språket han bruker i innledningen, er dansk kansellispråk med innslag av latin:
 
   blockquote DEt er en allmindelig / oc lofflig Sedvane / at naar nogen skriffuer noget / som skal komme til Liuset / enten det som de haffuer componeret, oc tilhobe samlet aff andre deris Skrifter / eller Tungemaal transfereret, at de da same deris Arbejde / oc Skrift ville dedicere oc tilskriffue nogle ypperlige Mænd / oc det for den Aarsags skyld / at samme deris Arbeyde / skal formedelst saadanne høye Personers Nafn / bliffue handthefvit / oc forsuarit / imod andre vrange Dommere / oc Wvenner: Fordi saa / her nu udi denne sidste Verdsens onde Tjd gaar det alt for megit til / som det gamle Ordsprog lyder: Nihil tutttm à calumniatoris morsu. Det er / Der er intet saa fuldkomen giort / at det kand være sickert oc trygt / for Spotteres Munde. En liden Bog vdi huilcken kortelig er forfattet / adskellige Norske Gloser / oc daglige Tale / Fiskes Fuglis oc Diurs vnderlige Natur oc Naffne / sampt adskillige Ordsprog. Som Alphabeticé effterfølger. 
+  NdlaAudio(
+    source="media/books/dictionarium/tekst11a_den_norske_dictionarium_1646_.mp3"
+  )
 
   //Kan vi skille ut denne delen av lydfila? Altså kun den gamle teksten?
 
@@ -77,10 +80,16 @@ PageBook(:showAuthor="false")
     img(src="./Den_Norske_Dictionarium_Primstav_Detalj.jpg")
     figcaption Detalj
 
+  p Les mer om privstaven i 
+    a(href="https://snl.no/primstav") Store Norske Leksikon
+
   h3 Norsk hverdagsliv på 1600-tallet
   p Den Norske Dictionarium eller Glosebog inneholder mye stoff om norsk hverdagsliv, blant annet denne oppskriften på gomme fra Sunnfjord: 
 
   blockquote «Gombe er en slags Oest, som sydes  (kokes) aff fersk Melck hen ved 3 Bytter oc sydes saa ner en Dag, ved idelig Rørelse, indtil det blifuer til Oest, men lidet førend Oesten blifuer, tagis der tynd Rømme af et Kar eller to, oc ladis i samme Melck, oc lader det saa lidet syde til haabe, siden ladis derpaa Osten, Eggeblommer oc smeltet Smør, samme Oest blifuer baaren til Barsel-Quinder i Barsøl, som en Baars Øels føøne (av fooner, foiner: det ein tok med til barsel eller bryllaup), oc kaldis Sengie Konne-Matt» 
+  NdlaAudio(
+    source="media/books/dictionarium/tekst11b_den_norske_dictionarium_1646.mp3"
+  )
 
   p Christen Jensson skrev om urter og blomster, fugler og dyr, jordbruk og fiske. Han tok også med tegninger av primstaven, som har et symbol for hver merkedag i året. Den ene sida på staven viser merkedagene i vinterhalvåret, den andre sida viser merkedagene i sommerhalvåret. 
 

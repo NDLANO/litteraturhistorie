@@ -67,6 +67,8 @@ PageBook
 
   p Felles for de ulike fasene i Ørstaviks forfatterskap er hvordan hun filosoferer over hva språk er, og hva det kan brukes til. Dette ser vi også i Ørstaviks roman 48 rue Defacqz (2009) der Ørstavik blant annet utforsker forholdet mellom kjønn og språk. Et språk som er gjennomsyret av den postmoderne medieverdens formuleringer og perspektiver, er et falskt språk – og et falskt språk fortrenger både den personlige stemmen og den selvstendige tanken. 
 
+  NrkVideo(id="3412")
+
   // Medieinnhold: Beholde bilder. Usikker på både lydspor og video. Må sjekke lengde og kvalitet. Skal antagelig ut
 
 </template>
@@ -75,12 +77,14 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

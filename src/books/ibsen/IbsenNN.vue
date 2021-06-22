@@ -2,7 +2,7 @@
 PageBook
   h3 Ikon og folkehelt 
   
-  figure.col.col6.left-image
+  figure.col.col6.right-image.mt5
    img(src='./ibsen_ikon_og_folkehelt1.jpg' alt='')
    figcaption Foto: Scanpix
 
@@ -34,7 +34,10 @@ PageBook
 
   p Ibsens store gjennombrot som dramatikar kom i 1866 med idédramaet Brand. Stykket handlar om presten Brand og dei ufråvikelege, harde krava han stiller til seg sjølv og omverda. Brand er først ein populær prest i ei lita fjellbygd, men han driv bodskapen sin så langt at kyrkjelyden til slutt jagar han opp på fjellet. Eit snøskred tek med seg både Brand og bygda.
 
-  p I 1867 gav Henrik Ibsen ut det dramatiske diktet Peer Gynt. Eit dramatisk dikt er bygd opp som eit skodespel med replikkar og inndeling i scener og akter, men sjølve replikkane har rim og fast rytme. Peer Gynt er eit av dei mest framførte stykka til Ibsen, trass i at persongalleriet er svært omfattande og handlinga går føre seg både i Noreg og i utlandet, til havs og på land, i den verkelege verda og i draumeverda. 
+  p 
+    | I 1867 gav Henrik Ibsen ut det dramatiske diktet 
+    a(href="https://www.nb.no/items/c705f61f387941bee1f5cb3e6510b9d1?page=23&searchText=peer%20gynt" target="_blank") Peer Gynt
+    | . Eit dramatisk dikt er bygd opp som eit skodespel med replikkar og inndeling i scener og akter, men sjølve replikkane har rim og fast rytme. Peer Gynt er eit av dei mest framførte stykka til Ibsen, trass i at persongalleriet er svært omfattande og handlinga går føre seg både i Noreg og i utlandet, til havs og på land, i den verkelege verda og i draumeverda. 
 
   p Med Peer Gynt tok Ibsen eit oppgjer med det han såg på som typisk norske karaktertrekk og norsk veremåte. Ibsen meinte at nordmenn var «seg selv nok». Peer Gynt lyg, snik seg unna problem, driv med tvilsame forretningar og sviktar menneske rundt seg. I kontrast til Peer står Solveig. Ho ventar tolmodig på kjærasten sin heime i Noreg. I henne såg Ibsen mange av dei kvalitetane han meinte det var verdt å ta vare på, og det er kjærleiken til Solveig som bergar Peer frå å gå under.
 
@@ -48,7 +51,10 @@ PageBook
   p Det moderne gjennombrotet og kritisk realisme er for norsk litteratur nærast synonymt med Ibsen og hans samtidsdrama: Samfundets Støtter (1877), Et Dukkehjem (1879), Gengangere (1881) og En Folkefiende (1882). I desse tekstane utfordrar Ibsen tradisjonelle verdiar og normer som han meinte var undertrykkjande og hyklerske. Tanken var at menneska – både mann og kvinne – måtte få leve i fridom og sanning. 
 
   h5 Et Dukkehjem 
-  p I Et Dukkehjem er det Nora som må ta eit oppgjer med sitt eige liv. Ektemannen omtaler Nora som lerkefuglen sin, han ser på henne som ei leikedokke, ikkje som eit vakse og likeverdig menneske. Men også Nora sjølv spelar rolla som lerkefugl etter beste evne, heilt til det går opp for henne at ho ikkje er meir for mannen sin enn nettopp det. Da forlèt ho mann og barn for å finne seg sjølv. Et Dukkehjem vekte sterke reaksjonar da stykket vart framført. På tyske scener nekta dei å setje opp stykket om ikkje Ibsen endra slutten. At Nora gjekk frå både mann og barn, vart for mykje å svelgje for publikum.
+  p 
+    | I  
+    a(href="https://www.nb.no/items/ac782e5c8d19e74132fd2cb625ea4138?page=0&searchText=et dukkehjem" target="_blank") Et Dukkehjem 
+    | &nbsp;er det Nora som må ta eit oppgjer med sitt eige liv. Ektemannen omtaler Nora som lerkefuglen sin, han ser på henne som ei leikedokke, ikkje som eit vakse og likeverdig menneske. Men også Nora sjølv spelar rolla som lerkefugl etter beste evne, heilt til det går opp for henne at ho ikkje er meir for mannen sin enn nettopp det. Da forlèt ho mann og barn for å finne seg sjølv. Et Dukkehjem vekte sterke reaksjonar da stykket vart framført. På tyske scener nekta dei å setje opp stykket om ikkje Ibsen endra slutten. At Nora gjekk frå både mann og barn, vart for mykje å svelgje for publikum.
 
   p Et Dukkehjem var òg eit innlegg i samtidsdebatten om stillinga til gifte kvinner. Gifte kvinner var juridisk umyndige, det var mannen som rådde i økonomiske spørsmål. Han hadde også rett til å avgjere korleis barna skulle oppsedast, og kvar familien skulle bu. Lova stadfesta at kvinner vart rekna som store barn, ikkje som vaksne. 
 
@@ -58,12 +64,18 @@ PageBook
    img(src='./ibsen_Kristisk_realisme_og_det_moderne_gjennombruddet1.jpg' alt='')
    figcaption Fru Alving spelt av Marit Østbye i Riksteatret si oppsetjing av  Gengangere. Foto: Lise Åse-rud / Scanpix
 
-  p I Gengangere møter vi fru Alving, som mange ser på som motstykket til Nora. Fru Alving er kvinna som har halde ut i eit ekteskap der fasade var viktigare enn kjærleik, omsorg og sanning. Ektemannen hennar er død, men framleis jobbar ho hardt for å skjule sanninga om livet han førte. Først da sonen kjem heim sjuk av syfilis – ein arv etter det utsvevande livet til faren – raknar alt. Barneheimen ho har bygd i mannens namn, brenn ned, og til sist hjelper ho sonen med å ta livet sitt.
+  p 
+    | I 
+    a(href="https://www.nb.no/items/ac782e5c8d19e74132fd2cb625ea4138?page=0&searchText=et dukkehjem" target="_blank") Gengangere 
+    | &nbsp;møter vi fru Alving, som mange ser på som motstykket til Nora. Fru Alving er kvinna som har halde ut i eit ekteskap der fasade var viktigare enn kjærleik, omsorg og sanning. Ektemannen hennar er død, men framleis jobbar ho hardt for å skjule sanninga om livet han førte. Først da sonen kjem heim sjuk av syfilis – ein arv etter det utsvevande livet til faren – raknar alt. Barneheimen ho har bygd i mannens namn, brenn ned, og til sist hjelper ho sonen med å ta livet sitt.
 
   p Skodespelet vart slakta i pressa – somme samanlikna det med «en åpen kloakk». I Gengangere spelar arv og miljø ei sentral rolle, her finst ikkje lenger noka tru på at menneska kan søkje fridom. Fru Alving finn ikkje vegen ut slik Nora gjorde. 
   
   h3 Ibsens symbolisme: tidleg modernisme 
-  p Frå og med Vildanden (1884) skjer det noko nytt i Ibsens forfattarskap. Han riv seg laus frå det realistiske teateret og skriv psykologiske og symbolladde drama. Vi finn att drag i tekstane som vi har sett før, for eksempel konflikten mellom ideal og røyndom og mellom løgn og sanning. Men Ibsen går no djupare inn i karakterane sine og gjer dei meir komplekse. Han nyttar dessutan i større grad symbol i tekstane sine, symbol som ikkje er uttømmande, men kan tolkast på fleire måtar.
+  p 
+    | Frå og med 
+    a(href="https://www.nb.no/items/ac782e5c8d19e74132fd2cb625ea4138?page=0&searchText=et dukkehjem" target="_blank") Vildanden
+    | &nbsp;(1884) skjer det noko nytt i Ibsens forfattarskap. Han riv seg laus frå det realistiske teateret og skriv psykologiske og symbolladde drama. Vi finn att drag i tekstane som vi har sett før, for eksempel konflikten mellom ideal og røyndom og mellom løgn og sanning. Men Ibsen går no djupare inn i karakterane sine og gjer dei meir komplekse. Han nyttar dessutan i større grad symbol i tekstane sine, symbol som ikkje er uttømmande, men kan tolkast på fleire måtar.
 
   p I Vildanden er det mykje mystikk knytt til mørkeloftet hos familien Ekdal. På dette loftet gøymer dei ei skadeskoten villand. Denne villanda blir sjølve symbolet på den vesle familien, der alle er skadeskotne på kvar sin måte. Hjalmar Ekdal får vite at Hedvig eigentleg ikkje er dottera hans, og vender henne ryggen. Hedvig blir knust og tek til sist livet sitt.
 
@@ -77,7 +89,9 @@ PageBook
    img(src='./ibsen_Hedda_Gabler1.jpg' alt='')
    figcaption Fleirkulturell Hedda Gabler på Riksteateret. Norsk-indiske Lavleen Kaur spelar Hedda, norsk-pakistanske Assad Siddique spelar Eilert Løvborg.  Foto: Tor G. Stenersen / Scanpix
 
-  p Hedda Gabler, hovudpersonen i dramaet med same tittelen, er på mange måtar eit eksempel på ei moderne kvinne. Ho er ei av dei mest mystiske kvinnene hos Ibsen, vakker og omsverma, kravstor og eigenrådig, men også eit offer for konvensjonane i samtida og for eigne ideal.
+  p 
+    a(href="https://www.nb.no/items/9080b4a54c4b8a986f5f03b97a78e29b?page=0&searchText=hedda%20gabler" target="_blank") Hedda Gabler
+    | , hovudpersonen i dramaet med same tittelen, er på mange måtar eit eksempel på ei moderne kvinne. Ho er ei av dei mest mystiske kvinnene hos Ibsen, vakker og omsverma, kravstor og eigenrådig, men også eit offer for konvensjonane i samtida og for eigne ideal.
   h5 Personane rundt Hedda 
   p Far til Hedda var general, og rang og status er viktig for henne. Mora får vi ikkje vite noko om, men det er tydeleg at Hedda har vakse opp i eit maskulint miljø. Mellom anna har ho to pistolar etter far sin som ho har lært å bruke. Faren har ikkje etterlate Hedda nokon arv, og sidan ho er ei kvinne frå overklassen, er vegen til ein yrkeskarriere stengd. Ho gifter seg med Jørgen Tesman for å sikre seg den posisjonen og levestandarden ho vil ha. Planen er at Tesman skal gjere karriere på universitetet. Han er ein snill og veik mann – ein tøffelhelt, synest Hedda, som ikkje elskar mannen sin. To andre menn er òg sentrale i stykket. Den eine er Ejlert Løvborg, ein tidlegare flamme hos Hedda og kanskje den ho kjenner størst indre slektskap med. Den andre mannen er husvennen, assessor Brack.
   

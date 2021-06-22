@@ -15,7 +15,7 @@ PageBook
   h3 Nordlands Trompet 
   p Nordlands Trompet åpner med et hyllingsdikt til folk og natur i «Nordlandene» – det som i dag er Troms og Nordland. Hyllesten gjelder alle – prester og øvrighet, fiskere, bønder, tjenestefolk og leilendinger: 
 
-  NdlaAudio(source="media/books/dass/P_Dass_-_Nordlands_Trompet_-_Ver_hilset.mp3")
+  NdlaAudio(source="media/books/dass/tekst9_nordlands_trompet.mp3")
 
   blockquote
     | Vær hilset, I Nordlands bebyggende Mænd 
@@ -58,7 +58,9 @@ PageBook
     br
     | Madamer og ugifte Piger; […]  
 
-  p I diktet «Nordlands Beliggende» plasserer Dass landsdelen på kartet og skildrer de geografiske særtrekkene. Vi får lære om landdyr, fugler og fisk, vær og vind, jordbruk og fiske og om menneskene som lever i disse områdene. 
+  p I diktet 
+    a(href="media/books/dass/nordlands_beliggende.html" target="_blank") «Nordlands Beliggende»
+    | &nbsp;«Nordlands Beliggende» plasserer Dass landsdelen på kartet og skildrer de geografiske særtrekkene. Vi får lære om landdyr, fugler og fisk, vær og vind, jordbruk og fiske og om menneskene som lever i disse områdene. 
 
   p Nordlands Trompet inneholder læredikt. Forfatteren vil gi leseren innsikt i et emne. Rytmen er fast, og språket er enkelt og nøkternt. Men som den gode prest han er, priser Dass samtidig også Vårherre og skaperverket hans. 
 
@@ -101,8 +103,6 @@ PageBook
     | Ey være seene hands Navn det reene  
     br
     | At fremme. 
-
-  p Beholde opplesning av salmen. Ta ut de andre lydsporene
 
   h3 Virkemiddelbruk 
 

@@ -52,5 +52,17 @@
     "prefix": "mffig",
     "body": ["figure.col.col12", "\timg(src='$1' alt='$2')", "\tfigcaption $0"],
     "description": "Figure image with caption full-width"
+  },
+  "Link": {
+    "prefix": "mflink",
+    "body": "a(href='$1' target='_blank')$0"
+  },
+  "Blank space code": {
+    "prefix": "blank",
+    "body": "&nbsp;"
+  },
+  "Nrk Video component import": {
+    "prefix": "mfnrk",
+    "body": "import NrkVideo from '@/components/NrkVideo';"
   }
 }
