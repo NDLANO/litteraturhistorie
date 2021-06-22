@@ -56,5 +56,9 @@
   "Link": {
     "prefix": "mflink",
     "body": "a(href='$1' target='_blank')$0"
+  },
+  "Blank space code": {
+    "prefix": "blank",
+    "body": "&nbsp;"
   }
 }
