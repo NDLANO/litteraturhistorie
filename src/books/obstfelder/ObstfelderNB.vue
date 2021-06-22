@@ -44,11 +44,16 @@ PageBook
     description="Sigbjørn Obstfelder: Jeg ser"
   )
 
+  a(href="https://www.nb.no/items/155422348a5a997f7f3c6b97fcdacbdf?page=33&searchText=digte" target="_blank") Les «Digte»
+
+
   h3 «Byen»: eksistensiell angst og fremmedgjøring 
 
   figure.col.col12
    img(src='./Obstfelder_Aften_på_Karl_Johan.jpg' alt='')
    figcaption «Aften på Karl Johan» av Edvard Munch (1892)
+
+  NdlaAudio(source="media/books/obstfelder/Sigbjoern_Obstfelder_Byen.mp3")
 
   p I den prosalyriske teksten «Byen» møter vi en jeg-person som ikke finner ro der han er. Han bor på fjellet og har ikke sett noe menneske på mange uker. Livet hans er preget av absolutt stillhet og ensomhet, han hører ikke annet enn sine egne tanker og bølgeskvulpet i tjernet. Plutselig kjenner han angst og et savn etter andre mennesker, og fjellet framstår nå som kaldt, det har «intet hjerte». 
 

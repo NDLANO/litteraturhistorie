@@ -58,9 +58,9 @@ PageBook
     br
     | Madamer og ugifte Piger; […]  
 
-  a(href="https://www.dendanskesalmebogonline.dk/salme/227/401/2" target="_blank") Les «Som den gylne sol frembyder»
-
-  p I diktet «Nordlands Beliggende» plasserer Dass landsdelen på kartet og skildrer de geografiske særtrekkene. Vi får lære om landdyr, fugler og fisk, vær og vind, jordbruk og fiske og om menneskene som lever i disse områdene. 
+  p I diktet 
+    a(href="media/books/dass/nordlands_beliggende.html" target="_blank") «Nordlands Beliggende»
+    | &nbsp;«Nordlands Beliggende» plasserer Dass landsdelen på kartet og skildrer de geografiske særtrekkene. Vi får lære om landdyr, fugler og fisk, vær og vind, jordbruk og fiske og om menneskene som lever i disse områdene. 
 
   p Nordlands Trompet inneholder læredikt. Forfatteren vil gi leseren innsikt i et emne. Rytmen er fast, og språket er enkelt og nøkternt. Men som den gode prest han er, priser Dass samtidig også Vårherre og skaperverket hans. 
 
@@ -103,8 +103,6 @@ PageBook
     | Ey være seene hands Navn det reene  
     br
     | At fremme. 
-
-  p Beholde opplesning av salmen. Ta ut de andre lydsporene
 
   h3 Virkemiddelbruk 
 

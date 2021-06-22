@@ -1,13 +1,14 @@
 <template lang="pug">
 PageBook
   h3 En folkekjær modernist
+  img.col.col4.left-image.mt5(src='./jacobsen_Portrett1.jpg' alt='')
   p Rolf Jacobsen (1907−1994) regnes som en av Norges aller største lyrikere. Han er også en av de få norske lyrikerne med internasjonal suksess. Diktsamlingene hans er oversatt til flere språk. 
 
   p Modernistisk litteratur forbindes ofte med vanskelig tilgjengelige tekster, men lyrikken til Jacobsen er et unntak. Den er inkluderende og filosoferende, og den berører temaer som identitet og virkelighet i et språk som når fram til mange. 
 
   p Rolf Jacobsen ble født i Kristiania, men slo seg til slutt ned på Hamar, der han arbeidet som journalist og bokhandler. Han debuterte i 1933 med diktsamlingen Jord og jern. I 1935 kom samlingen Vrimmel, men så skulle det gå 16 år til neste utgivelse, Fjerntog (1951). 
 
-  figure.col.col6.right-image.mt5
+  figure.col.col6.left-image.mt5
    img(src='./jacobsen_En_folkekjaer_modernist1.jpg' alt='')
    figcaption Rolf Jacobsen tar imot kritikerprisen av lederen i Norsk litteraturkritikerlag, Magli Elster, i 1960. Foto: Aftenposten / Scanpix
    
@@ -47,6 +48,8 @@ PageBook
   h3 Politisk engasjement og samfunnskritikk 
   p Jacobsen så også tidlig faresignaler ved medie- og forbrukssamfunnet som utviklet seg i etterkrigsårene. Hans påstand var at kommersialiseringen av samfunnet førte folk bort fra hverandre og bort fra seg selv. 
 
+  NrkVideo(id="4370")
+
   figure.col.col12
    img(src='./jacobsen_Politisk_engasjement1.jpg' alt='')
    figcaption Gate i Saigon, Vietnam, i 1975. Foto: NTB / Scanpix
@@ -62,6 +65,8 @@ PageBook
   p Da Rolf Jacobsen debuterte i begynnelsen av 1930-årene, var samtidslyrikken dominert av en pompøs og høystemt tone. Motivene var ofte såkalt sentrallyriske – dikterne tematiserte de evige spørsmål om «livet, døden og kjærligheten». Jacobsens lyrikk bød på noe helt annet. Ordene han valgte, var hverdagslige, enkle og direkte, og formen var fri. 
 
   p Å skrive dikt uten rim og rytme var for så vidt ikke noe nytt. Tida da slike «snakkedikt» provoserte og sjokkerte leseren, var over. Likevel var det noe helt nyskapende over diktningen til Jacobsen. I tillegg til det klare bruddet med den pompøse tonen var det motivene og bildebruken som vakte oppsikt. Aldri hadde en norsk lyriker i så stor grad trukket den moderne verden inn i tekstene sine. Trikker, busser, telefonledninger og kloakksystemer – alt den moderne verden brakte med seg av teknologiske nyvinninger, brukte Jacobsen i lyrikken sin. 
+
+  NrkVideo(id="5553")
 
   h3 Bruken av kontraster og bilder 
 
@@ -90,12 +95,14 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

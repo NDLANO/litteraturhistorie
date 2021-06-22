@@ -2,7 +2,7 @@
 PageBook
   h3 Henrik Wergeland
 
-  figure.col.col6.left-image
+  figure.col.col6.right-image.mt5
    img(src='./Sprogreformation_Henrik_Wegeland.jpg' alt='')
    figcaption Daguerreotypi av Henrik Wergeland. Systera hans, Camilla Collett, meinte det var det einaste biletet av han som verkeleg likna.
 
@@ -12,7 +12,7 @@ PageBook
 
   p Henrik Wergeland er både romantikar og fornuftsdyrkar på same tid. Begeistringa hans for naturen, fantasiflukta og dei sterke kjenslene han formidlar i dikta sine, knyter Wergeland til romantikken. Samstundes er han ein engasjert samfunnsdebattant. Han kjempar mellom anna for full religionsfridom i landet, og han ønskjer eit fritt og sjølvstendig Noreg. I tillegg ivrar han for opplysningsarbeid, han skriv for bønder og arbeidarar og er med på å etablere folkebibliotek fleire stader i landet. 
 
-  NdlaVideo(source="media/books/wergeland/hva_ville_wergeland_(30_minutt).mp4")
+  NdlaVideo(source="media/video/wergeland/hva_ville_wergeland_(30_minutt).mp4")
 
   h3 Wergeland som diktar
 
@@ -34,7 +34,10 @@ PageBook
   p Ein av dei få på denne tida som har omfattande kunnskap om språk, er professor Peter Andreas Munch. I 1832 skriv han artikkelen «Norsk Sprogreformation», der han går imot ideen om ei gradvis fornorsking av skriftspråket. I artikkelen gjer han narr av tanken om å lage eit skriftspråk utan å ta omsyn til at språket er eit system som heng saman. Munch argumenterer for at ein anten bør halde fram med å skrive dansk, eller basere eit norsk skriftspråk på ein av dei dialektane som best tek best vare på det norrøne systemet.
 
   h3 «Om Norsk Sprogreformation»
-  p Artikkelen «Om Norsk Sprogreformation» er svaret frå Wergeland til Peter Andreas Munch. Wergeland meiner at Munchs metode er altfor radikal og omfattande. Han argumenterer for større samsvar mellom skriftspråk og talemål, og han presenterer tre argument for fornorskingstanken: 
+  p 
+    | Artikkelen 
+    a(href="media/books/wergeland/sprogreformation.html" target="_blank") «Om Norsk Sprogreformation»
+    | &nbsp;er svaret frå Wergeland til Peter Andreas Munch. Wergeland meiner at Munchs metode er altfor radikal og omfattande. Han argumenterer for større samsvar mellom skriftspråk og talemål, og han presenterer tre argument for fornorskingstanken: 
 
   figure.col.col12
    img(src='./Sprogreformation_lapp.jpg' alt='')
@@ -70,14 +73,31 @@ PageBook
   figure.col.col12
    img(src='./Sprogreformation_Wergelands_kontor.jpg' alt='')
    figcaption Som riksarkivar hadde Wergeland dette kontoret på Akershus festning.
-  p Wergeland blir stadig dårlegare, men skriv likevel heile tida. Somme av dei vakraste og mest kjende dikta hans blir til på dødsleiet i 1845. Til desse dikta høyrer «Til Foraaret» og «Til min Gyldenlak». I juli 1845 døyr han, berre 37 år gammal. 
+  p 
+    | Wergeland blir stadig dårlegare, men skriv likevel heile tida. Somme av dei vakraste og mest kjende dikta hans blir til på dødsleiet i 1845. Til desse dikta høyrer «Til Foraaret» og 
+    a(href="https://www.dokpro.uio.no/wergeland/WI3/WI3141.html" target="_blank") «Til min Gyldenlak»
+    |. I juli 1845 døyr han, berre 37 år gammal. 
+
+  NdlaAudio(
+    source="media/books/wergeland/Henrik_Wergeland__Til_min_Gyldenlak.mp3"
+    description="«Til min Gyldenlak»"
+  )
 
   h3 «Til Foraaret» (1845)
+
+
+  NdlaAudio(
+    source="media/books/wergeland/Henrik_Wergeland__Til_Foraaret.mp3"
+    description="«Til Foraaret»"
+  )
 
   figure.col.col6.right-image
    img(src='./Sprogreformation_Wergeland_tegnet_av_Christian_Olsen.jpg' alt='')
    figcaption Wergeland teikna av Christian Olsen i 1844
-  p Like før han døyr, i mai 1845, skriv Wergeland diktet «Til Foraaret». Wergeland ligg sjuk og veit at han skal døy. Diktet hans er ei fortvilt og grenselaus bønn til naturen om at han må få leve vidare.
+  p 
+    | Like før han døyr, i mai 1845, skriv Wergeland diktet 
+    a(href="https://www.dokpro.uio.no/wergeland/WI3/WI3140.html" target="_blank") «Til Foraaret»
+    | . Wergeland ligg sjuk og veit at han skal døy. Diktet hans er ei fortvilt og grenselaus bønn til naturen om at han må få leve vidare.
 
   p Wergeland tilber våren – og plantane og dyra som høyrer våren til: det første graset, symra, løvetanna, hestehoven, svalene som er komne tilbake, og det gamle treet som har fått nye knoppar. Han ber dei vitne om kjærleiken han føler for dei.
 

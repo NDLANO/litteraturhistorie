@@ -40,7 +40,13 @@ PageBook
       | som «Reveenka», «De tre bukkene Bruse» og «Hanen og høna»: Hovedpersonene er dyr som blir tillagt spesielle egenskaper. Bjørnen er for eksempel oftest sterk, men dum, mens reven er en luring. 
     li 
       strong Skjemteeventyr 
-      | som «Pannekaka», «Mannen som skulle stelle heime» og «Presten og klokkeren»: Disse eventyrene har ofte en satirisk form og henger ut negative egenskaper som det å være grådig, dum eller innbilsk. 
+      | som «Pannekaka», «Mannen som skulle stelle heime» og 
+      a(href="http://runeberg.org/folkeven/027.html" target="_blank") «Presten og klokkeren»
+      | : Disse eventyrene har ofte en satirisk form og henger ut negative egenskaper som det å være grådig, dum eller innbilsk. 
+      NdlaAudio(
+        source="media/books/asbjornsenmoe/AsbjogMoe_Prestenogklokkeren_med_HaukAabel.mp3"
+        description="«Presten og klokkeren»"
+        )
     li 
       strong Legendeeventyr 
       | som «Gjertrudsfuglen» og «Jomfru Maria og svala»: Dette er religiøse fortellinger der hovedpersonen er Jomfru Maria, St. Peter, Olav den hellige eller Vårherre. Mange av fortellingene illustrerer religiøse eller moralske sannheter. 
@@ -89,6 +95,12 @@ PageBook
   p Da Asbjørnsen og Moe gikk i gang med å skrive ned norske folkeeventyr og sagn, fantes det fortsatt ikke noe eget norsk skriftspråk. Eventyrene ble derfor skrevet ned på dansk. Men Asbjørnsen og Moe prøvde å ta hensyn til den muntlige originalteksten og brukte mange norske dialektord. 
 
   p Gjennom det språklige arbeidet medeventyrene var Asbjørnsen og Moe med på å rydde grunnen for fornorskingsprogrammet til språkmannen Knud Knudsen, og for så vidt også for Ivar Aasens arbeid med å reise et nytt norsk skriftspråk som tok utgangspunkt i norske dialekter. 
+
+  NdlaAudio(
+    source="media/books/asbjornsenmoe/Skarvene_fra_Utrøst.mp3"
+    description="Skarvene fra Utrøst"
+  )
+  a(href="http://runeberg.org/folkeven/011.html" target="_blank") Les som tekst
 
   //Medieinnhold: beholde bilder
 

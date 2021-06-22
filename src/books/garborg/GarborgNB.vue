@@ -68,6 +68,11 @@ PageBook
 
   p Verket forteller om ungjenta Veslemøy, som er synsk. Hun ser huldrer, nisser og troll, og haugfolkene (de underjordiske) prøver å lokke henne til seg for å få makt over henne. Men hun står imot. Hun ser at det eneste som kan gi fred, er å gjennomleve sorgen og lidelsen over kjærligheten og sviket hun har opplevd. Bare slik kan hun være et menneske. Budskapet i Haugtussa er at mennesket ikke kan flykte fra sorgene og lidelsene det møter, tvert om må vi møte lidelsene og gjennomleve dem for at vi skal komme videre. 
 
+  NdlaAudio(
+    source="media/books/garborg/Garborg_haugtussa_Maaneskinsmoyane_Nils_Erik.mp3"
+    description="Måneskinsmøyane"
+  )
+
   h3 Journalisten Garborg 
 
   figure.col.col6.right-image

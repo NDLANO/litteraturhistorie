@@ -3,7 +3,7 @@ PageBook
   
   h3 Ein sentral forfattar frå mellomkrigsperioden
   
-  figure.col.col4.left-image.mt5
+  figure.col.col4.right-image.mt5
    img(src='./hoel_portrett1.jpg' alt='')
    figcaption Sigurd Hoel. Foto: Aftenposten / Scanpix
   p Sigurd Hoel (1890–1960) voks opp i Nord-Odal i Hedmark, men levde storparten av livet sitt i Oslo. Litt misvisande vart han derfor kalla ein hovudstadsintellektuell. Dei litterære karakterane hans høyrer gjerne til i eit liberalt og intellektuelt hovudstadsmiljø, men som forfattaren sjølv har dei ofte røtene sine i eit bygdesamfunn.
@@ -37,7 +37,9 @@ PageBook
 
   p To av dei største litterære førebileta til Hoel var Knut Hamsun (1859−1952) og Franz Kafka (1883–1924), og forfattarskapen hans ber preg av dette på ein del område. Som Hamsun var også Hoel oppteken av «blodets hvisken og benpipenes bønn» – det vil seie det umedvitne sjelelivet. Dei to første verka til Hoel, novellesamlinga Veien vi gaar frå 1922 og romanen Syvstjernen frå 1924, har dessutan klare modernistiske trekk og er tydeleg inspirerte av Kafka.
 
-  p Med si tredje bok, romanen Syndere i sommersol (1927), fekk Hoel sitt litterære gjennombrot. Boka er skriven i eit meir tradisjonelt formspråk og er prega, som tittelen vitnar om, av ein munter og lett ironisk tone. Motivet er ei gruppe unge menneske av begge kjønn som ferierer saman om sommaren ein stad på Sørlandet.
+  p Med si tredje bok, romanen 
+    a(href='https://www.nb.no/items/URN:NBN:no-nb_digibok_2008042800092' target='_blank') Syndere i sommersol
+    | &nbsp;(1927), fekk Hoel sitt litterære gjennombrot. Boka er skriven i eit meir tradisjonelt formspråk og er prega, som tittelen vitnar om, av ein munter og lett ironisk tone. Motivet er ei gruppe unge menneske av begge kjønn som ferierer saman om sommaren ein stad på Sørlandet.
 
   p Samstundes har romanen også alvorlege undertonar fordi han tematiserer søket til ein generasjon unge radikalarar på å frigjere seg. Romanen provoserte då også dei verdikonservative og kristne i samtida, jamvel om lesarane i dag nok synest at det blir synda ganske lite i Syndere i sommersol.
 
@@ -93,6 +95,8 @@ PageBook
   p Både form og komposisjon i denne romanen kan sjåast som eit typisk eksempel på den realistiske og tradisjonelle stilen til Hoel. Forteljinga er bygd opp av knappe, novellistiske parti. Lesaren følgjer Anders på vegen hans frå barn til vaksen, episode føyer seg til episode. Slik gir romanen eit bilete av korleis eit menneske blir forma.
 
   p Romanen skildrar både konkrete hendingar og dei indre prosessane og sjelelege tilstandane som desse hendingane kallar fram hos Anders. Forteljeteknisk er boka nyskapande. Forteljaren ser alt gjennom barneauga og stiller seg fullstendig solidarisk med vesle Anders. Ved å bruke denne personale synsvinkelen får Hoel best fram undringa og den indre utviklinga til barnet.
+
+  a(href='https://digitaltmuseum.no/011085440262/odoling-og-verdensborger' target='_blank') Odøling og verdensborger (video)
   
   h3 Dei siste publikasjonane
 

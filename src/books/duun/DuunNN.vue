@@ -22,8 +22,9 @@ PageBook
   p Duun blir rekna som ein stor språkkunstnar og høyrer til mellom dei fremste forfattarane i norsk litteratur på 1900- talet. Han var svært produktiv og gav ut i alt 25 romanar, fire novellesamlingar og to barnebøker. 
 
   h3 Juvikfolke
-  p Gjennombrotet for Duun som forfattar kom i 1918 med slektsromanen Juvikingar, 
-  der handlinga er knytt til heimstaden Jøa i Namdalen. Fram til 1923 skreiv han ei bok i året om Juvikfolke, til saman seks romanar.
+  p Gjennombrotet for Duun som forfattar kom i 1918 med slektsromanen 
+   a(href='https://www.nb.no/items/73789710969cf776a62c4cbb1b6009e9?page=9&searchText=juvikfolket' target='_blank') Juvikingar
+   | , der handlinga er knytt til heimstaden Jøa i Namdalen. Fram til 1923 skreiv han ei bok i året om Juvikfolke, til saman seks romanar.
 
   p Det er øyane, havet og folket i dette kystlandskapet som utgjer ramma om bokserien. Vi følgjer Juvik-slekta gjennom seks generasjonar, frå 1600-talet og fram mot 1800-talet. Medlemmene i slekta kjempar ein kamp mot heidenskap og villskap. Dei har lett for å gripe til vald og kjem stadig i konflikt med kvarandre.
 
@@ -32,7 +33,9 @@ PageBook
   h3 Medmenneske
 
   img.col.col6.right-image.mt5(src='./Duun_Medmenneske.jpg' alt='')
-  p Det neste høgdepunktet i forfattarskapen er Medmenneske, ein roman frå 1929. Boka er første bind i trilogien om Ragnhild, som også omfattar bøkene Ragnhild (1930) og Siste leveåre (1931).
+  p Det neste høgdepunktet i forfattarskapen er 
+    a(href='https://www.nb.no/items/5dc71ecc7d156708ea0d271b76755c58?page=5&searchText=medmenneske' target='_blank') Medmenneske
+    | , ein roman frå 1929. Boka er første bind i trilogien om Ragnhild, som også omfattar bøkene Ragnhild (1930) og Siste leveåre (1931).
 
   p Hovudtemaet i Medmenneske er vondskapen i mennesket og kva som kan stillast opp mot det vonde. Motsetningane i romanen er den gode Ragnhild og svigerfaren Didrik, som representerer vondskapen sjølv. Det er ein lang og vond konflikt mellom Ragnhilds mann Håkon og svigerfaren, og denne konflikten endar med ein katastrofe, for Ragnhild drep svigerfaren.
 
@@ -41,7 +44,9 @@ PageBook
   p Ragnhild må sone fengselsstraff, og ho seier sjølv: «Det vonde drep du ikkje med øks.» Ho veit at ho har handla gale og må ta si straff for det, men ho kjenner seg òg sviken av Håkon da ho må sone. Først mange år seinare blir dei to forlikte, og da er det Håkon som har problem med å reise seg når han innser at han har svike kona. 
 
   h3 Menneske og maktene
-  p Menneske og maktene (1938) er den siste boka i forfattarskapen til Duun. Boka er ein kollektivroman utan nokon fast hovudperson, og handlinga går føre seg i eit fiktivt øysamfunn som Duun kallar Øyvære. Menneska som lever på denne øya, må måle krefter med maktene, det vil seie kreftene som styrer livet deira. Vi møter ulike menneske som lèt seg styre av ulike makter. Somme gir tapt for maktene, andre fryktar maktene og lever i angst, og ein del grublar over maktene og mister livslysta.
+  p 
+    a(href='https://www.nb.no/items/3ecb9574b82aad7759491cff624e34fa?page=7&searchText=menneskene%20og%20maktene' target='_blank') Menneske og maktene
+    | &nbsp;(1938) er den siste boka i forfattarskapen til Duun. Boka er ein kollektivroman utan nokon fast hovudperson, og handlinga går føre seg i eit fiktivt øysamfunn som Duun kallar Øyvære. Menneska som lever på denne øya, må måle krefter med maktene, det vil seie kreftene som styrer livet deira. Vi møter ulike menneske som lèt seg styre av ulike makter. Somme gir tapt for maktene, andre fryktar maktene og lever i angst, og ein del grublar over maktene og mister livslysta.
 
   p Første og siste kapittel i boka utgjer ei rammeforteljing. Det finst ein gammal spådom om at øysamfunnet skal gå under ei uvêrsnatt med storflod og storm, og at mange skal drukne, men somme skal overleve. Siste kapittel skildrar nett denne natta med uvêr og flaum. Midtpartiet i boka rommar fem forteljingar. Kvar forteljing gir oss forhistoria til ein av hovudpersonane som blir stilt overfor kriser og påkjenningar i uvêrsnatta som kjem.
 

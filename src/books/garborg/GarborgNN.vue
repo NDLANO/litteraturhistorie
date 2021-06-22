@@ -66,6 +66,11 @@ PageBook
   p Garborg har gitt diktarverket ei folkloristisk form, der kvart dikt står åleine. Haugtussa er tonesett av Edvard Grieg, det er ført opp som drama fleire gonger, og verket har inspirert mange biletkunstnarar. Kjende tekstar og melodiar er mellom anna «Småsporven gjeng i tunet» og «Det stig av hav eit alveland».
 
   p Verket fortel historia om ungjenta Veslemøy, som er synsk. Ho ser huldrer, nissar og troll, og haugfolka (dei underjordiske) prøver å lokke til seg Veslemøy for å få makt over henne. Men ho står imot. Ho ser at det einaste som kan gi fred, er å gjennomleve sorga og lidinga over kjærleiken og sviket ho har opplevd. Berre slik kan ho vere eit menneske. Bodskapen i Haugtussa er at mennesket ikkje kan flykte frå sorgene og lidingane det møter i livet, tvert om må vi møte lidingane og gjennomleve dei for at vi skal kome oss vidare. 
+
+  NdlaAudio(
+    source="media/books/garborg/Garborg_haugtussa_Maaneskinsmoyane_Nils_Erik.mp3"
+    description="Måneskinsmøyane"
+  )
   
   h3 Journalisten Garborg
 

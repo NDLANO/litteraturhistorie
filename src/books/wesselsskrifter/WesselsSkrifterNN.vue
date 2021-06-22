@@ -37,6 +37,167 @@ PageBook
   
 
   h3 «Smeden og Bageren»
+  NdlaAudio(
+    source="media/books/wesselsskrifter/Smeden_og_Bageren_Wessel.mp3"
+    )
+    p
+    p
+      | Der var en liden By, i Byen var en smed,
+      br
+    p
+      | Som farlig var, naar han blev vred.
+      br
+      | Han sig en Fiende fik; (dem kan man altid faa,
+      br
+      | Jeg ingen har, det gaa
+      br
+      | Min L&aelig;ser ligesaa!)
+      br
+      | Til Uh&aelig;ld for dem begge to
+      br
+      | De tr&aelig;ffes i en Kro.
+      | De drak (jeg selv i Kro vil drikke;
+      br
+    p
+      | For andet kommer jeg der ikke.
+      br
+      | Anmerk dog, L&aelig;ser! dette:
+      br
+      | Jeg immer gaar paa de honnette).
+      br
+      | Som sagt, de drak,
+      br
+      | Og efter mange Skjeldsord, hidsigt Snak,
+      br
+      | Slaar Smeden Fienden paa Planeten.
+      br
+    p
+      | Saa sterkt var dette Slag,
+      br
+      | At han saa ikke Dag,
+      br
+      | Og har ei siden seet&apos;en.
+      br
+      | Strax i Arrest blev Smeden sat.
+      br
+      | En Feldskj&aelig;r faar den D&oslash;de fat,
+      br
+      | Og om en voldsom D&oslash;d Attest hensender.
+      br
+    p
+      | Den Mordere forh&oslash;res og bekjender.
+      br
+      | Hans Haab var, at han skulle hisset gaa,
+      br
+      | Og der Forladelse af sin Modstander faa.
+      br
+      | Men h&oslash;r nu L&oslash;ier! netop Dagen,
+      br
+      | F&oslash;r Dom skal gaa i Sagen,
+      br
+      | Fremtriner fire Borgere
+      br
+    p
+      | For Dommeren; den mest veltalende
+      br
+      | Ham saa tiltalede:
+      br
+      | &laquo;Velviseste!
+      br
+      | Vi ved, paa Byens Vel De altid se;
+      br
+      | Men Byens Vel beror derpaa,
+      br
+      | At vi vor Smed igjen maa faa.
+      br
+    p
+      | Hans D&oslash;d oppvekker jo dog ei den D&oslash;de?
+      br
+      | Vi aldrig faar igjen saa duelig en Mand.
+      br
+      | For hans Forbrydelse vi alt for grusomt b&oslash;de,
+      br
+      | Om han ei hjelpes kan.&raquo; &ndash;
+      br
+      | &laquo;Bet&aelig;nk dog, kjere Ven! der Liv for Liv maa b&oslash;des.&raquo;
+      br
+      | &laquo;Her bor en arm udlevet Bager,
+      br
+    p
+      | Som Pokker snart desuden tager.
+      br
+      | Vi har jo to, om man den &aelig;ldste tog af dem?
+      br
+      | Saa blev jo Liv for Liv betalt.&raquo; &ndash;
+      br
+      | &laquo;Ja,&raquo; sagde Dommeren, &laquo;det Indfald var ei galt.
+      br
+      | Jeg Sagen at opsette n&oslash;des;
+      br
+      | Thi i saa vigtig Fald man maa sig vel bet&aelig;nke,
+      br
+    p
+      | Gid vores Smed jeg Livet kunde skjenke!
+      br
+      | Farvel godt Folk! jeg gj&oslash;r alt, hvad jeg kan.&raquo; &ndash;
+      br
+      | &laquo;Farvel velvise Mand!&raquo; &ndash;
+      br
+      | Han bladrer i sin Lov omhyggelig;
+      br
+      | Men finder intet der for sig,
+      br
+    p
+      | Hvorved forbuden er, for Smed at rette Bager;
+      br
+      | Han sin Beslutning tager,
+      br
+      | Og saa afsiger denne Dom:
+      br
+      | (Hvem, som vil h&oslash;re den, han kom!)
+      br
+      | &laquo;Vel er Grovsmeden Jens
+      br
+      | For al Undskyldning l&aelig;ns,
+      br
+    p
+      | Og her for Retten selv bekjendte,
+      br
+      | Han Anders Pedersen til Evigheden sendte;
+      br
+      | Men da i vores By en Smed vi ikkun have,
+      br
+      | Jeg maatte v&aelig;re rent af Lave,
+      br
+      | Ifald jeg vilde se ham d&oslash;d.
+      br
+      | Men her er to, som bager Br&oslash;d.&raquo;
+      br
+    p
+      | &laquo;Thi kjender jeg for Ret:
+      br
+      | Den &aelig;ldste Bager skal undgjelde det,
+      br
+      | Og for det skedte Mord med Liv for Liv b&oslash;r b&oslash;de,
+      br
+      | Til velfortjente Straf for sig
+      br
+      | Og ligesindede til Afsky og til Skr&aelig;k.&raquo;
+      br
+      | Den Bager gr&aelig;d Guds jammerlig,
+      br
+    p
+      | Da man ham f&oslash;rte v&aelig;k.
+    p
+      | MORAL
+    p
+      | Beredt til D&oslash;den altid v&aelig;r!
+      br
+      | Den kommer, naar du mindst den t&aelig;nker n&aelig;r.
+    p
+      | Kilde: 
+      a(href="https://no.wikisource.org/wiki/Smeden_og_Bageren" target="_blank") wikisource.org
+
   img.col.col6.right-image(src='./Wessel_Smeden.jpg' alt='')
   p «Smeden og Bageren» er ei humoristisk forteljing som kritiserer rettsstellet og mangelen på fornuft i samfunnet. Handlinga går føre seg i ein liten by der det finst to bakarar og éin smed.
 

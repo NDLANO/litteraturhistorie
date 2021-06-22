@@ -53,7 +53,10 @@ PageBook
   h3 Unorsk og norsk 
   p Knudsen var i grunnen mer opptatt av ordtilfang enn av grammatikk og lydlære. Han var purist og sterkt imot en ukritisk bruk av fremmedord i norsk. Han mente fremmedordene gjorde det vanskeligere for folk å skaffe seg kunnskap. Aller helst burde vi bruke norske avløserord, mente han, men der det var naturlig å bruke fremmedord eller lånord, måtte de ha en norsk skrivemåte. 
 
-  p I årene 1879–1881 utgav Knudsen ei ordbok som han kalte Unorsk og Norsk, eller Fremmedords Avløsning. Her lanserte han flere avløserord, enten ord han selv hadde konstruert, eller ord andre hadde foreslått. Boka var tenkt som ei praktisk oppslagsbok. I forordet heter det: 
+  p 
+    | I årene 1879–1881 utgav Knudsen ei ordbok som han kalte 
+    a(href="https://www.nb.no/items/6c1919818745103c4bf5725112b47a4a?page=5&searchText=unorsk%20og%20norsk" target="_blank") Unorsk og Norsk
+    | , eller Fremmedords Avløsning. Her lanserte han flere avløserord, enten ord han selv hadde konstruert, eller ord andre hadde foreslått. Boka var tenkt som ei praktisk oppslagsbok. I forordet heter det: 
 
   p Bogen nævner op de ord, som det til brug for den skrivende i øjeblikket kan blive spørsmål om, for at han ej skal være nød til at hangle igjennom med det fremmede eller mindre gode, fordi han ikke er i stand til at hitte på noget av vore indenlandske og bedre.
 
@@ -69,6 +72,8 @@ PageBook
     li forelsket – hjerteskudt 
 
   p Knudsen fikk lite støtte for forslagene sine i samtida. Å skape nye ord og få folk til å ta dem i bruk, er en prosess som tar lang tid. I dag viderefører Språkrådet det arbeidet som Knud Knudsen satte i gang med å finne gode norske avløserord. 
+
+  a(href="https://www.nb.no/items/5ab0d1761e1b666871ec87b231263462?page=13&searchText=Det%20norske%20m%C3%A5lstr%C3%A6v" target="_blank") Les Det norske målstræv (1867)
 
   // Medieinnhold: beholde bilder
 

@@ -66,12 +66,13 @@ PageBook
   h3 Språk og fortellemåte i Pan 
   
   img.col.col12(src='./Hamsun_Spraak_og_fortellermaate_i_Pan.jpg' alt='')
-  h5 Prosalyrisk stil 
+  NdlaAudio(source="media/books/hamsun/Fra_Pan_lest_av_Kjetil_Bang-Hansen.mp3" description="Fra Pan")
+  h5.mt20 Prosalyrisk stil 
   p Framstillingen i Pan er preget av mange prosalyriske skildringer, det vil si skildringer med sterke lyriske innslag. Særlig i partier der Hamsun skildrer naturen og lar seg inspirere av myter, bruker han mange virkemidler på en måte vi er mest vant til fra lyrikken: rytme, allitterasjon, gjentakelser og bildebruk får en framtredende funksjon. De understreker den subjektive, sanselige og ekstatiske stemningen som hovedpersonen opplever i naturen. Noen av de vakreste avsnittene i romanen gjelder skildringene av nordlandssommeren, midnattssola, havet og skogen. 
   
   img.col.col12(src='./Hamsun_Nyrealisme.jpg' alt='')
   
-  h5 Jeg-fortelling 
+  h5.mt20 Jeg-fortelling 
   p Pan er en førstepersonsfortelling, med hovedpersonen Glahn som forteller. Jeg-formen egner seg svært godt når forfatteren vil skildre en persons «ubevidste Sjæleliv». Jeg-formen gir leseren direkte adgang til tankene og følelsene til fortelleren, slik at vi får oppleve de tidvis irrasjonelle og brå endringene i sinnet hans. 
 
   h3 Nyrealisme og nobelpris 
@@ -84,7 +85,7 @@ PageBook
 
   p Vi kan si at Hamsun her illustrerer konflikten mellom natur og sivilisasjon, som vi kjenner fra nyromantikken, på en ny måte. I Markens Grøde vender han tilbake til en mer realistisk fortellemåte, uten de komplekse psykologiske portrettene vi kjenner fra 1890-årene. 
 
-  NdlaAudio(
+  // NdlaAudio(
     source="media/books/hamsun/Hamsun_ Markens_Groede _Brikt_Jensen_nrk.mp3"
     description="Hamsun - Markens Grøde - Brikt Jensen"
     )

@@ -22,7 +22,10 @@ PageBook
   p Amalie Skram kritiserer dobbeltmoralen i den borgerlige oppdragelsen og viser hva de store forskjellene mellom menn og kvinner fører til. Det er ikke bare ungjenta Ory som blir forrådt, men like mye mannen hun blir giftet bort til. Begge er underlagt det miljøet de vokste opp i, og de normene som er rådende i samfunnet. 
 
   h3 «Karens jul» 
-  p I novellen «Karens jul» fra 1885 forteller Amalie Skram om en ung mor og barnet hennes som begge fryser i hjel en kald vinternatt på ei brygge i Kristiania. 
+  p 
+    | I novellen 
+    a(href="https://www.nb.no/items/547cb135039e2249815736c9c9a9d1ce?page=43&searchText=karens%20jul" target="_blank") «Karens jul» 
+    | &nbsp;fra 1885 forteller Amalie Skram om en ung mor og barnet hennes som begge fryser i hjel en kald vinternatt på ei brygge i Kristiania. 
 
   p Bakgrunnen for hendingen er at Karen har fått barn uten å være gift. Faren hennes er død, og stemora har kastet henne ut av huset. Hun overnatter med barnet sitt i et trehus ved kaia mens hun venter på at kvinna som hun har vært hushjelp hos, skal komme tilbake. 
 

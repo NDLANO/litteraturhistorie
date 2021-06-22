@@ -48,6 +48,12 @@ PageBook
 
   p Inntrykkene fra denne reisa ble utgitt i bokform i 1861 med tittelen Ferdaminni frå Sumaren 1860. Boka er en essayistisk reiseskildring, der Vinje fletter sammen naturskildringer, anekdoter og andre korte fortellinger, dikt, små personportretter og refleksjoner over folk og levesett ulike steder på ferden. Han roser mye av det han ser underveis, samtidig som han er kritisk til det han oppfatter som vanstell og ukyndighet hos bøndene.
 
+  NdlaAudio(
+    source="media/books/vinje/Vinje_Ferdaminne_aapningdikt_Nils_Erik.mp3"
+    description="Vinje sitt åpningsdikt til reiseskildringen Ferdaminni frå Sumaren 1860"
+    )
+
+
   h3 «Grauten på Grut» 
   p Et av kapitlene i Ferdaminni frå Sumaren 1860 har tittelen “Grauten på Grut”. Vinje har gått fra Rennebu, badet i Orkla og kjenner at sulten melder seg. Han stikker innom gjestgivergården på Grut og får servert havregrøt: 
 
@@ -127,6 +133,8 @@ PageBook
     | i song og fløyte- og felelåt, 
     br
     | men endå best i min eigen gråt. 
+
+  NdlaAudio(source="media/books/vinje/Vinje_Den_dag_kjem_aldri_Nils_Erik.mp3")
 
   h3 Språket til Vinje 
   p På midten av 1800-tallet var språket i avisene preget av den kansellistilen som var vanlig i akademiske utredninger og i lovtekster. Setningene var lange og innfløkte, med mange vanskelige ord. Et slikt språk var ikke lett å forstå for folk flest. Vinje var kritisk til denne måten å skrive på: 

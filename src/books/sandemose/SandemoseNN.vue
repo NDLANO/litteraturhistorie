@@ -39,7 +39,9 @@ PageBook
    img(src='./Sandemose_Jantelov_og_varulver.jpg' alt='')
    figcaption Ein varulv går til åtak på offeret sitt i eit stikk frå 1700-talet
 
-  p Sandemose utforska det destruktive og irrasjonelle både i samfunnet, i psyken til kvar enkelt og i mytologiske forteljingar. Den mykje omtalte jantelova som han formulerte i sitt første hovudverk, En flyktning krysser sitt spor (1933), har både sosiologiske og psykologiske perspektiv.
+  p Sandemose utforska det destruktive og irrasjonelle både i samfunnet, i psyken til kvar enkelt og i mytologiske forteljingar. Den mykje omtalte 
+    a(href='https://no.wikipedia.org/wiki/Janteloven' target='_blank') jantelova
+    | &nbsp;som han formulerte i sitt første hovudverk, En flyktning krysser sitt spor (1933), har både sosiologiske og psykologiske perspektiv.
 
   p Boka skildrar korleis samfunnet med sine krav om tilpassing og konformitet bryt ned psyken til enkeltmennesket, og ho illustrerer Sandemoses interesse for vondskap og maktmisbruk. Maktmenneske og mordarar fylte store delar av det litterære landskapet hans, og dei vart gjerne framstilte som menneske med eit fortrengt kjensleliv.
 
@@ -51,7 +53,9 @@ PageBook
   h3 Eit spegelkabinett av skalkeskjul
   p Modernistane meinte at førestellinga om eit eigentleg eg, ein fast kjerne eller identitet, er ei djup løgn i sivilisasjonen vår. Det same gjeld ideen om mennesket som eit tenkjande vesen. Det er derfor vi møter kontrastfylte, irrasjonelle og variable karakterar i den modernistiske litteraturen. Dei meinte også at den moderne sivilisasjonen skapte framandgjorde menneske med eit stort indre tomrom.
 
-  p Karakterteikningane til Sandemose skriv seg rett inn i denne europeiske samtidsmodernismen. I romanen Klabautermanden (norsk utgåve 1932) lyder det slik: «Men ingen vet lenger hvem han er … jeg er én, jeg er to, jeg er tre.» Sandemoses sentrale hovudkarakterar er Espen Arnakke frå romanane En sjømann går i land (1931), En flyktning krysser sitt spor (1933), Det stod en benk i haven (1937) og Brudulje (1938), John Torson frå Det svundne er en drøm (1944) og Erling Vik frå Varulven (1958) og Felicias bryllup (1961).
+  p Karakterteikningane til Sandemose skriv seg rett inn i denne europeiske samtidsmodernismen. I romanen Klabautermanden (norsk utgåve 1932) lyder det slik: «Men ingen vet lenger hvem han er … jeg er én, jeg er to, jeg er tre.» Sandemoses sentrale hovudkarakterar er Espen Arnakke frå romanane En sjømann går i land (1931), 
+    a(href='https://www.nb.no/items/6f2790fd91c562cb136dc118ec080f09?page=0&searchText=En%20flyktning%20krysser%20sitt%20spor' target='_blank') En flyktning krysser sitt spor
+    | &nbsp;(1933), Det stod en benk i haven (1937) og Brudulje (1938), John Torson frå Det svundne er en drøm (1944) og Erling Vik frå Varulven (1958) og Felicias bryllup (1961).
 
   figure.col.col6.right-image.mt5
     img(src='./Sandemose_Aksel_og_Hanne.jpg' alt='')

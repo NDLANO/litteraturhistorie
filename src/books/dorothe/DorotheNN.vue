@@ -44,6 +44,11 @@ PageBook
 
   p På 1600-talet er salmane den vanlegaste brukslyrikken. Mange menneske på den tida kan ikkje lese, men så godt som kan salmane utanåt. _ Salmar blir gjerne laga til populære verdslege melodiar. Allereie på 1500-talet tok Martin Luther i bruk kjende melodiar og laga salmar til dei.
   
+  NdlaAudio(
+    source="media/books/dorothe/julesalme_D_Engelbretsdatter_nrk.mp3"
+    description="Julesalme"
+  )  
+
   h3 Dorothe Engelbretsdotter i samtida
 
   p Dorothe er den første kjende kvinnelege diktaren i Noreg. På 1600-talet er det framleis nokså utruleg at ei kvinne skal vere diktar. Det er menn som driv med den slags, er den vanlege oppfatninga. Men Dorothe har stor respekt i samtida, og samtidige forfattarar som Petter Dass og Thomas Kingo sette stor pris på diktinga hennar.

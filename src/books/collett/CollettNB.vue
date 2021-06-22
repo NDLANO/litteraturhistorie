@@ -1,6 +1,8 @@
 <template lang="pug">
 PageBook
   h3 Kjerringa mot strømmen
+
+  NrkVideo(id="98624")
   p Camilla Collett, født Wergeland, var en foregangskvinne i kampen for kvinnefrigjøring i Norge. Hovedverket Amtmandens Døttre (1855) er den første norske tendensromanen – det vil si en roman med tydelig samfunnskritikk. Tendensen eller kritikken i boka retter seg mot den borgerlige kvinneoppdragelsen i samtida. 
 
   p Store deler av sitt voksne liv var Camilla Collett på reisefot, og det eneste faste i livet hennes var skrivingen. Hun brøt med kvinneidealet i samtida, både i liv og diktning, og omtalte seg selv som kjerringa mot strømmen. 
@@ -23,7 +25,10 @@ PageBook
   p I 1842 kom Nogle Strikketøisbetragtninger, kritiske tanker og skildringer av omgangsformer og selskapsliv i dannete kretser. Boka ble selvsagt gitt ut anonymt, for det var ikke akseptert at en kvinne kunne være forfatter i 1840-årene. På den tida hadde Camilla også et samarbeid med eventyrsamler Asbjørnsen og skrev tekster sammen med han. 
 
   h3 Amtmandens Døttre 
-  p Camilla Collett hadde arbeidet med Amtmandens Døttre i lang tid da boka kom ut anonymt i 1855. Romanen regnes i dag som det første realistiske og samfunnskritiske verket i norsk litteratur, og som den første tendensromanen. Kritikken retter seg mot oppdragelsen og de samfunnsnormene som hindret unge jenter i å bestemme over eget liv. 
+  p 
+    | Camilla Collett hadde arbeidet med 
+    a(href="https://www.nb.no/items/dcb90ad0cbf705ac722b7a84f24e26fc?page=0&searchText=amtmannens%20d%C3%B8ttre" target="_blank") Amtmandens Døttre 
+    | &nbsp;i lang tid da boka kom ut anonymt i 1855. Romanen regnes i dag som det første realistiske og samfunnskritiske verket i norsk litteratur, og som den første tendensromanen. Kritikken retter seg mot oppdragelsen og de samfunnsnormene som hindret unge jenter i å bestemme over eget liv. 
 
   img.col.col12(src='./Collett_Amtmandens_Døttre1.jpg' alt='')
 
@@ -71,9 +76,9 @@ PageBook
 
   p Utover i 1870-årene er det flere tegn på at kampen for kvinnens rettigheter er i ferd med å gi resultater. Tida er nå åpen for å sette kritisk søkelys på emner som har med kvinnens samfunnsrettigheter å gjøre. Andre store forfattere, som Ibsen,  Kielland og Lie, skriver nå samfunnskritiske tekster som alle rommer sterke, selvstendige kvinner med styrke og vilje, og de har det til felles at de er i opposisjon til hykleri og undertrykking. En ny tid og nye  oldninger er i emning. 
 
+  img.col.col6.right-image.mt5(src='./Collett_Grav.jpg' alt='')
   p I 1884 ble Norsk Kvindesagsforening stiftet. Kampen motstrøms hadde gitt resultater. Camilla Collett var selv en stor inspirator både for Amalie Skram og andre unge kvinner som skulle komme seinere. 
 
-  img.col.col6.right-image.mt5(src='./Collett_Grav.jpg' alt='')
 
   p De to siste bøkene av Camilla Collett kom ut i 1879 og 1885. Begge er samlinger av tidligere artikler og essay, og begge har tittelen Mod Strømmen (I og II). Det er her hun identifiserer seg med kjerringa fra folkeeventyret, kjerringa som fløt mot strømmen: «Og saa vil jeg blive ved at klippe og klippe de seige Strenge, der binder os til den gamle Trældom, blive ved, blive ved, indtil Stemmen lyder over en Gravhøi.» Collett døde i 1895, men stemmen hennes inspirerer fortsatt kvinner.  
 
@@ -85,12 +90,14 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

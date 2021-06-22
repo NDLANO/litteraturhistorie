@@ -26,7 +26,10 @@ PageBook
   h3 Kvitebjørnen
 
   img.col.col6.left-image.mt5(src='./Loeland_Kvitebjoernen.jpg' alt='')
-  p Barneboka Kvitebjørnen var høydepunktet i Lølands produksjon. Boka utkom i 1906, året før han døde. Handlingen foregår i et bygdemiljø, og i sentrum står fire gutter i alderen ni til tolv år. Vi følger dem gjennom ni kapitler, fra den første snøen faller seinhøstes og fram til våren kommer på nytt.
+  p 
+    | Barneboka 
+    a(href="https://www.nb.no/items/90132b3343b4529f708162de4f888c4e?page=7&searchText=kvitebj%C3%B8rnen" target="_blank") Kvitebjørnen
+    | &nbsp;var høydepunktet i Lølands produksjon. Boka utkom i 1906, året før han døde. Handlingen foregår i et bygdemiljø, og i sentrum står fire gutter i alderen ni til tolv år. Vi følger dem gjennom ni kapitler, fra den første snøen faller seinhøstes og fram til våren kommer på nytt.
 
   p Løland lar barna dagdrømme og fantasere. Blant annet lager de en stor bjørn av snø. De graver ut snøbjørnen og drar av gårde på en fantasireise til Nordpolen. Guttene er også på alle andre måter som barn ellers: De rømmer hjemmefra, de er i opposisjon til de voksne, og de gjør ikke alltid slik foreldrene har formanet dem om. For eksempel blir en lekmannspredikant som kommer til bygda, utsatt for snøballkasting.
 

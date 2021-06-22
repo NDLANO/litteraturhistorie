@@ -5,13 +5,23 @@ PageBook
   img.col.col6.left-image(src='./MauritsHansen_portrett.jpg' alt='')
   p Maurits Hansen var en av de få norske forfatterne i tida like etter 1814. Interessen for litteratur og skriving ble vakt allerede i ungdommen. I tillegg til å være lærer og lærebokforfatter skrev han både dikt, noveller og romaner. 
 
-  p I 1819 kom Maurits Hansens første større verk, romanen Othar af Bretagne – et riddereventyr. Påvirkningen fra tyske ridderromaner var tydelig, men Hansen var også nødt til å hente inspirasjon fra andre land, for det var omtrent ingen andre som skrev romaner i Noreg tidlig på 1800-tallet. 
+  p 
+  | I 1819 kom Maurits Hansens første større verk, romanen 
+  a(href="https://www.nb.no/items/2538500f8e0c7ed397b6a5952b8efd12?page=0&searchText=Othar af Bretagne" target="_blank") Othar af Bretagne
+  | &nbsp;– et riddereventyr. Påvirkningen fra tyske ridderromaner var tydelig, men Hansen var også nødt til å hente inspirasjon fra andre land, for det var omtrent ingen andre som skrev romaner i Noreg tidlig på 1800-tallet. 
 
-  p I 1840 gav Maurits Hansen ut Mordet paa Maskinbygger Roolfsen, ei bok som seinere er omtalt som Norges første kriminalroman. Boka kom faktisk ut ett år før Edgar Allan Poes fortelling The Murders in the Rue Morgue, som av mange blir regnet for verdens første kriminalfortelling. 
+  p 
+    | I 1840 gav Maurits Hansen ut 
+    a(href="https://www.nb.no/nbsok/nb/0ec6c7e96e537d15f788a734e3424879?lang=no#0" target="_blank") Mordet paa Maskinbygger Roolfsen
+    | , ei bok som seinere er omtalt som Norges første kriminalroman. Boka kom faktisk ut ett år før Edgar Allan Poes fortelling The Murders in the Rue Morgue, som av mange blir regnet for verdens første kriminalfortelling. 
 
-  p I samtida ble Hansen gjerne regnet som den største forfatteren. Han var også den mest leste og en inspirasjonskilde for mange etterfølgende forfattere, for eksempel Henrik Wergeland, Jørgen Moe, Peter Christen Asbjørnsen, Camilla Collett og Henrik Ibsen. 
+  p I samtida ble Hansen gjerne regnet som den største forfatteren. Han var også den mest leste og en inspirasjonskilde for mange etterfølgende forfattere, for eksempel Henrik Wergeland, Jørgen Moe, Peter Christen Asbjørnsen, Camilla Collett og Henrik Ibsen.
+
   h3 Novellen «Luren»
-  p Novellen «Luren» av Maurits Hansen kom ut i 1819. Den omtales gjerne som den første bondefortellingen i norsk litteratur, og novellen har klare nasjonalromantiske trekk. 
+  p 
+    | Novellen 
+    a(href="https://www.nb.no/items/b0f17c7819e26ec07d1ae1ca771e09cc?page=17&searchText=Luren" target="_blank") «Luren» 
+    | &nbsp;av Maurits Hansen kom ut i 1819. Den omtales gjerne som den første bondefortellingen i norsk litteratur, og novellen har klare nasjonalromantiske trekk. 
 
   p Handlingen i novellen er lagt til Gudbrandsdalen. Fortelleren er Carl Møllmann, en ung akademiker på reise gjennom dalen. Han forteller begeistret om folkelivet og om sjeldne inntrykk og opplevelser på ferden. 
 

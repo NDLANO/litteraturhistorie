@@ -26,9 +26,13 @@ PageBook
    img(src='./frich_Skillingsviser1.jpg' alt='')
    figcaption Engelsk skillingstrykk fra 1833
 
-  p Skillingsvisene er også en del av den folkelige litteraturen. Betegnelsen skillingsvise kommer av at visene ble spredd som skillingstrykk, det vil si som små trykksaker som ble solgt for en skilling. Skillingsvisene handlet gjerne om kjærlighet, svik og sladder, men de kunne også formidle nyheter i poetiske vendinger. Slik sett kan vi si at skillingsvisene utgjorde forløperen til ukebladene. 
+  p 
+    a(href="http://www-bib.hive.no/tekster/skillingsviser/" target="_blank") Skillingsvisene
+    | &nbsp;er også en del av den folkelige litteraturen. Betegnelsen skillingsvise kommer av at visene ble spredd som skillingstrykk, det vil si som små trykksaker som ble solgt for en skilling. Skillingsvisene handlet gjerne om kjærlighet, svik og sladder, men de kunne også formidle nyheter i poetiske vendinger. Slik sett kan vi si at skillingsvisene utgjorde forløperen til ukebladene. 
 
   p Omreisende bokselgere sørget for at  også folk utenom byene fikk tilgang på lesestoff. En omreisende bokselger ble gjerne kalt kolportør. Forfatteren Edvard Hoem skildrer møtet med en slik kolportør i boka Heimlandet Barndom. 
+
+  a(href="https://no.wikipedia.org/wiki/Tullingen" target="blank") Skillingsvisa Tullingen
 
   h3 Øvre Richter Frich – en sukessforfatter 
 
@@ -44,7 +48,9 @@ PageBook
   h3 De knyttede næver – en spenningsroman 
 
   img.col.col6.right-image.mt5(src='./frich_De_knyttede_naever.jpg' alt='')
-  p De knyttede næver fra 1911 er den første boka i serien om Jonas Fjeld. Cappelen forlag trykte boka på nytt i 1997, og i forordet skrev Christopher Hals Gylseth dette: 
+  p 
+    a(href="https://www.nb.no/items/0bf4aa3876dd70b6208aa9678803cfb3?page=9&searchText=%C3%98vre%20Richter%20Frich" target="_blank") De knyttede næver
+    | &nbsp;fra 1911 er den første boka i serien om Jonas Fjeld. Cappelen forlag trykte boka på nytt i 1997, og i forordet skrev Christopher Hals Gylseth dette: 
 
   blockquote Skikkelsen Jonas Fjeld kan best beskrives som en slags germansk blanding av Indiana Jones, James Bond og Arnold Schwarzenegger – nordisk utseende, med isblå øyne og firkantet kjeve, og med stål i ben og armer. 
 

@@ -45,6 +45,11 @@ PageBook
 
   p På 1600-tallet var salmene den vanligste brukslyrikken. Mange mennesker på den tida kunne ikke lese, men så godt som alle kunne salmene utenat. Salmer blir gjerne laget til populære verdslige melodier. Allerede på 1500-tallet tok Martin Luther i bruk kjente melodier og laget salmer til dem. 
   
+  NdlaAudio(
+    source="media/books/dorothe/julesalme_D_Engelbretsdatter_nrk.mp3"
+    description="Julesalme"
+  )  
+
   h3 Dorothe Engelbretsdotter i samtida
   p Dorothe var den første kjente kvinnelige dikteren i Norge. På 1600-tallet var det ennå nokså uhørt at en kvinne skulle være dikter. Dette var noe menn drev med, var den vanlige oppfatningen. Men Dorothe nøt stor respekt i samtida, og samtidige forfattere som Petter Dass og Thomas Kingo satte stor pris på diktningen hennes.
 

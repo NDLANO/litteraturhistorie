@@ -9,7 +9,7 @@ PageBook
 
   p Rolf Jacobsen var fødd i Kristiania, men slo seg til slutt ned på Hamar, der han arbeidde som journalist og bokhandlar. Han debuterte i 1933 med diktsamlinga Jord og jern. I 1935 kom samlinga Vrimmel, men så skulle det gå 16 år til neste utgiving, Fjerntog (1951).
 
-  figure.col.col6.right-image.mt5
+  figure.col.col6.left-image.mt5
    img(src='./jacobsen_En_folkekjaer_modernist1.jpg' alt='')
    figcaption Rolf Jacobsen tek imot kritikarprisen av leiaren i Norsk litteraturkritikarlag, Magli Elster, i 1960. Foto: Aftenposten / Scanpix
 
@@ -46,6 +46,8 @@ PageBook
 
   p Men dette blir ikkje sagt direkte i diktet. Menneska er faktisk ikkje nemnde i det heile, dei er usynlege bak maskinane sine. Slik kan lesaren få inntrykk av at den øydeleggjande utviklinga har sin eigen dynamikk, uavhengig av alt og alle. Ho kan ikkje stansast. 
 
+  NrkVideo(id="4370")
+
   h3 Politisk engasjement og samfunnskritikk
   p Jacobsen såg også tidleg faresignala ved medie- og forbrukssamfunnet som utvikla seg i etterkrigsåra. Påstanden hans var at kommersialiseringa av samfunnet førte folk bort frå kvarandre og bort frå seg sjølve.
 
@@ -64,6 +66,8 @@ PageBook
   p Då Rolf Jacobsen debuterte tidleg i 1930-åra, var samtidslyrikken dominert av ein pompøs og høgstemd tone. Motiva var gjerne såkalla sentrallyriske – diktarane tematiserte dei evige spørsmåla om «livet, døden og kjærleiken». Jacobsens lyrikk bydde på noko heilt anna. Orda han valde, var kvardagslege, enkle og direkte, og forma var fri.
 
   p Å skrive dikt utan rim og rytme var for så vidt ikkje noko nytt. Tida då slike «snakkedikt» provoserte og sjokkerte lesaren, var over. Likevel var det noko heilt nyskapande over diktinga til Jacobsen. I tillegg til det klare brotet med den pompøse tonen var det motiva og biletbruken som vekte oppsikt. Aldri hadde ein norsk lyrikar i så stor grad drege inn den moderne verda i tekstane sine. Trikkar, bussar, telefonleidningar og kloakksystem – alt den moderne verda førte med seg av teknologiske nyvinningar, brukte Jacobsen i lyrikken sin. 
+
+  NrkVideo(id="5553")
   
   h3 Bruken av kontrastar og bilete
 
@@ -90,12 +94,14 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

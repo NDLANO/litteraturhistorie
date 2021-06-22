@@ -86,7 +86,11 @@ PageBook(:showAuthor="false")
 
   h3 Norsk Billedbog for Børn
 
-  img.col.col6.right-image.mt5(src='./Billedbog_Norsk_Billedbog_for_Boern.jpg' alt='')
+  figure.col.col6.right-image.mt5
+    img(src='./Billedbog_Norsk_Billedbog_for_Boern.jpg' alt='')
+    figcaption
+      a(href="https://www.nb.no/items/7d875605f3631187b9d51e8ee03490c9?page=15&searchText=Norsk%20Billedbog%20for%20B%C3%B8rn" target="_blank") Les boka
+      
   p I 1888 gav forfattaren Elling Holst og illustratøren Eivind Nielsen ut den første norske biletboka for barn med fargebilete. Boka kom i ny utgåve i 1890, og seinare også i 1903.
   p Boka inneheld ei samling av munnleg tradisjonsstoff som barnerim, regler og folkeviser. Dei er nedskrivne i eit munnleg, dialektfarga språk. Men vi finn også utdrag frå dikt og songar av kjende forfattarar som Henrik Wergeland, Bjørnstjerne Bjørnson og Aasmund Olavsson Vinje.
 
@@ -295,6 +299,8 @@ PageBook(:showAuthor="false")
 
   p I Jørgen Moes barnebok, I Brønden og i Tjærnet (1850), møter vi eit borgarleg samfunn der det å vere lydig mot dei vaksne er resepten på eit godt liv. Barndommen til jenter og gutar er ulik. Beate er snill og føyeleg, med nyvaska andlet og kvit ballkjole. Universet hennar er heimen, der ho har omsorg for dokka Lille-Beate. Broren, Viggo Viking, er ein ekte villstyring som jagar høns og ender med øks i handa, og som endar med å halshogge Lille-Beate på ekte vikingvis. Dette klassiske kjønnsrollemønsteret finn vi att i mange seinare barnebøker, for eksempel i boka Emil fra Lønneberget av Astrid Lindgren. Emil er ein skikkeleg rakkarunge og skøyar, mens veslesystera Ida er snill og grei.
 
+  a(href="https://www.nb.no/items/c4cc2eb182b4d18146236b63a9016188?page=7&searchText=Dukken%20under%20nypetornbusken" target="_blank") Les «Dukken under nypetornbusken»
+
   h3 Lærebøker for barn på 1800-talet
 
   figure.col.col6.right-image
@@ -309,7 +315,7 @@ PageBook(:showAuthor="false")
   figure.col.col6.right-image
    img(src='./Billedbog_Kvensk.jpg' alt='')
    figcaption 
-    | Kvensk ABC
+    a(href="media/books/billedbog/Aapinen.pdf" target="_blank") Kvensk ABC
     br
     NdlaAudio(source="media/books/billedbog/kvensk_abc.mp3")
     
@@ -317,7 +323,11 @@ PageBook(:showAuthor="false")
 
   p I 1850- og 1860-åra opna skulelovene for at etniske minoritetar som samar og kvener kunne lære å lese på sitt eige språk. Den første kvenske abc-boka vart gitt  ut i 1867. Løyvet til å la barn frå etniske minoritetar få opplæring på sitt eige morsmål vart oppheva i 1880. Først i 1959 vart det på nytt lov å bruke samisk som undervisningsspråk i skulen.
 
+  p
+    a(href="https://www.nb.no/items/afac462b545a22963165fd011d8ad344?page=0&searchText=Billed-ABC%20for%20B%C3%B8rn%201854" target="_blank") Les Billed-ABC for Børn 1854
 
+  p
+    a(href="https://www.nb.no/items/3d9489b0cf31fdc4a42fbc96215367fe?page=1&searchText=Norsk%20ABC-bok%201880" target="_blank") Les Norsk ABC-bok 1880
 
 
 </template>
