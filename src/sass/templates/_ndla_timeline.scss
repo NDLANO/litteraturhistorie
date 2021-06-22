@@ -281,8 +281,7 @@ blockquote {
   }
 }
 
-
-.btn_audioText{
+.btn_audioText {
   display: flex;
   align-items: center;
   background: $light-grey;
@@ -313,7 +312,6 @@ blockquote {
     //font-size: 0.9rem;
   }
 }
-
 
 /// PART ON THE LEFT OF THE TIMELINE > INSTRUCTIONS
 
@@ -846,9 +844,11 @@ blockquote {
     figure + h3,
     figure + h2,
     figure + h5,
+    figure + p,
     img + h3,
     img + h2,
-    img + h5 {
+    img + h5,
+    img + p {
       margin-top: 0;
       margin-bottom: 0;
     }
@@ -907,6 +907,7 @@ blockquote {
       float: left;
       margin-left: 0;
       margin-right: 1rem;
+      margin-top: 5px;
       img {
         display: inline;
       }
@@ -916,6 +917,7 @@ blockquote {
       float: right;
       margin-right: 0;
       margin-left: 1rem;
+      margin-top: 5px;
       img {
         display: inline;
       }
@@ -1016,11 +1018,11 @@ blockquote {
 }
 
 .figure-left {
-  margin: 0 1rem 1rem 0;
+  margin: 5px 1rem 1rem 0;
   padding-right: 1rem;
 }
 .figure-right {
-  margin: 0 0 1rem 1rem;
+  margin: 5px 0 1rem 1rem;
   padding-left: 1rem;
 }
 
