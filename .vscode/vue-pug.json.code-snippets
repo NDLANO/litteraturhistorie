@@ -60,5 +60,9 @@
   "Blank space code": {
     "prefix": "blank",
     "body": "&nbsp;"
+  },
+  "Nrk Video component import": {
+    "prefix": "mfnrk",
+    "body": "import NrkVideo from '@/components/NrkVideo';"
   }
 }
