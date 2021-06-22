@@ -249,6 +249,8 @@ PageBook
 
   p Det han søkte, og frirommet han fann, var litteraturen. Litteraturen gav han det livet han ikkje fann i den verda som av dei fleste blir kalla den verkelege. Det var eit lese liv, difor var det eit levd liv, difor var kvar samtale om litteratur ein samtale om livet, difor var oppgåva ikkje å gjera draumen til liv, men livet til draum. 
 
+  NrkVideo(id="281719")
+
   blockquote
     | Det er den draumen 
     br
@@ -282,12 +284,14 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

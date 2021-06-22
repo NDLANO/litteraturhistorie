@@ -8,6 +8,8 @@ PageBook
 
   p Jan Erik Vold (1939– ) er fødd i Oslo, men har i store delar av det vaksne livet sitt budd i Stockholm. Bustaden har likevel ikkje hindra han i å delta i den norske samfunnsdebatten. Gjennom heile forfattarskapen sin har han vore ei kritisk røyst. Vietnamkrigen, politivald, utviklinga av det norske sosialdemokratiet, høgredreiinga i landet og byutviklinga i Oslo er tema som har provosert og forarga både lyrikaren og debattanten Vold. Særleg kjend er han for engasjementet for å ta vare på gamle Bislett stadion og trikken i Oslo. Som forfattar har han leika med, og utfordra, oppfatninga av kva ein kan dikte om, og korleis ein kan skrive eit dikt. 
 
+  NrkVideo(id="3636")
+
   h3 Mellom speil og speil
 
   figure.col.col6.right-image.mt5
@@ -128,7 +130,9 @@ PageBook
 
   img.col.col6.right-image.mt5(src='./vold_Figurdikt1.jpg' alt='')
 
-  p Konkret poesi eller figurdikt er ei retning innanfor lyrikken som kom til Noreg med Profil-forfattarane. Her er dei typografiske kvalitetane ved diktet like sentrale som meininga i orda – ja, typografien er meiningsberande for diktet. Eit eksempel er Volds diktsamling Mellom speil og speil (1965). Her finn ein eit dikt som grafisk speglar seg i seg sjølv, og eit som er sett opp som eit yin og yang-symbol. I begge dikta er forma meiningsberande, forma tyder noko for tematikken i diktet.
+  p Konkret poesi eller figurdikt er ei retning innanfor lyrikken som kom til Noreg med Profil-forfattarane. Her er dei typografiske kvalitetane ved diktet like sentrale som meininga i orda – ja, typografien er meiningsberande for diktet. Eit eksempel er Volds diktsamling 
+    a(href=' https://urn.nb.no/URN:NBN:no-nb_digibok_2007052304008' target='_blank') Mellom speil og speil
+    | &nbsp;(1965). Her finn ein eit dikt som grafisk speglar seg i seg sjølv, og eit som er sett opp som eit yin og yang-symbol. I begge dikta er forma meiningsberande, forma tyder noko for tematikken i diktet.
 
   .clear
 
@@ -147,12 +151,14 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

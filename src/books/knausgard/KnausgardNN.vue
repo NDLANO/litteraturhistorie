@@ -14,6 +14,8 @@ PageBook
   p Romanserien vekte sterke reaksjonar i den norske offentlegheita. Knausgårds slekt og ekskona hans har reagert på å bli gjorde om til romanfigurar – figurar heilt prisgitte Knausgårds blikk og penn. Min kamp-prosjektet har vorte stempla som «uetisk judaslitteratur», noko som synleggjer kva som kan skje når skiljet mellom fiksjon og røyndom blir utfordra.
 
   p Knausgård vaks opp i Arendal og Kristiansand, men bur no i Malmö, Sverige. Han har skrive ei rekkje fagessays om litteratur og var i ein periode medredaktør i litteraturtidsskriftet Vagant. Knausgård har fått fleire prisar for forfattarskapen sin. I tillegg til Kritikarprisen i 1998 fekk han i 2009 Brageprisen for Min kamp 1. To gonger har han også fått både P2-lyttaranes romanpris og Sørlandets litteraturpris.
+
+  NrkVideo(id="159353")
   
   h3 Ein ung mann i drift
 
@@ -44,6 +46,11 @@ PageBook
 
   p Romanprosjektet Min Kamp tek for seg Karl Ove Knausgårds liv fram til den dagen prosjektet blir avslutta – altså eit forløp på 42 år. Lesarane får eit innblikk i barne- og ungdomsår, og korleis Knausgård i dag lever eit tilnærma A4-familieliv med kone og barn i Malmö i Sverige, eit samliv som i periodar er truga av psykiske lidingar. Navet som forteljinga dreier seg rundt, er likevel farens død, eit dødsfall som fører hovudpersonen Karl Ove inn i ei krise. Forholdet til faren blir skildra som kaldt og prega av avstand, angst og frykt, men dødsfallet går likevel sterkt inn på sonen. Den kjensleborne ambivalensen til hovudpersonen pregar heile romanserien. 
 
+  p
+    a(href='https://ndla.no/subject:1:50dfc86d-6566-4a45-a531-d32b82e8bfa1/topic:3:b34684b3-3e91-44ee-88b4-1c3e588586dc/topic:1:67a76db2-578b-4543-812b-4270e1ffd137/resource:bc3791a9-2134-45e1-ab17-12e4431ddfe9' target='_blank') Utdrag frå Min kamp 1
+
+  p
+    a(href='https://ndla.no/subject:1:50dfc86d-6566-4a45-a531-d32b82e8bfa1/topic:3:b34684b3-3e91-44ee-88b4-1c3e588586dc/topic:3:1cc14972-df1f-4294-b19b-1c2472f5489a/topic:3:16901c14-d7b7-45a8-839b-96aabbf174e2/resource:d2aa9ff3-c685-4d48-baad-b9f408906b0d' target='_blank') Utdrag frå Min kamp 4
 
   h3 Detaljrik impresjonisme
 
@@ -101,9 +108,10 @@ PageBook
 
   p Sjølv hevdar Knausgård at han har rett til å formidle si historie, si sanning – med trykk på si. For å skape seg ein identitet er han nøydt til å fortelje historia om sitt eige liv. På denne måten konstruerer han si eiga sanning og sin eigen røyndom.
 
-  figure.col.col12
+  //figure.col.col12
     img(src='./knausgaard_Min_kamp4.jpg' alt='')
     figcaption «Mitt liv som romanfigur.» Bøkene til Knausgård vekte både begeistring og harme. Her får du eit lite utsnitt av oppstyret. NRK Skole.
+  NrkVideo(id="51112")
 
 </template>
 
@@ -111,12 +119,14 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

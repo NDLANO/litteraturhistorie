@@ -10,6 +10,12 @@ PageBook(:showAuthor="false")
 
   p Dekameronen er et bevisst komponert verk. Boccaccio samler novellene tematisk ved hjelp av rammefortellingen: Hver dag velger ungdommene en ny konge eller en ny dronning, som så avgjør temaet som alle fortellingene skal handle om denne dagen. 
 
+  NdlaVideo(
+    source="media/books/dekameronen/Dekameronen.mp4"
+    captionsUrl="media/books/dekameronen/Dekameronen.nb-no.vtt"
+  )
+
+
   //Film her. Hva viser den?
 
   h3 Innhold

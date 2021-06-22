@@ -9,6 +9,8 @@ PageBook
 
   p Jan Erik Vold (1939– ) er født i Oslo, men har i store deler av sitt voksne liv bodd i Stockholm. Bostedet har likevel ikke hindret ham i å delta i den norske samfunnsdebatten. Gjennom hele sitt forfatterskap har han vært en kritisk røst. Vietnamkrigen, politivold, utviklingen av det norske sosialdemokratiet, høyrevridningen i landet og byutviklingen i Oslo er temaer som har provosert og forarget både lyrikeren og debattanten Vold. Særlig kjent er han for sitt engasjement for å beholde gamle Bislett stadion og trikken i Oslo. Som forfatter har han lekt med, og utfordret, oppfatningen av hva man kan dikte om, og hvordan man kan skrive et dikt. 
   
+  NrkVideo(id="3636")
+
   h3 Mellom speil og speil 
 
   figure.col.col6.right-image.mt5
@@ -132,7 +134,9 @@ PageBook
 
   img.col.col6.right-image.mt5(src='./vold_Figurdikt1.jpg' alt='')
   
-  p Konkret poesi eller figurdikt er en retning innenfor lyrikken som kom til Norge med Profil-forfatterne. Her er diktets typografiske kvaliteter like sentrale som ordenes mening – ja, typografien er meningsbærende for diktet. Et eksempel er Volds diktsamling Mellom speil og speil (1965). Her finner man et dikt som grafisk speiler seg i seg selv, og et som er satt opp som et yin og yang-symbol. I begge diktene er formen meningsbærende, formen har betydning for tematikken i diktet. 
+  p Konkret poesi eller figurdikt er en retning innenfor lyrikken som kom til Norge med Profil-forfatterne. Her er diktets typografiske kvaliteter like sentrale som ordenes mening – ja, typografien er meningsbærende for diktet. Et eksempel er Volds diktsamling 
+    a(href=' https://urn.nb.no/URN:NBN:no-nb_digibok_2007052304008' target='_blank') Mellom speil og speil
+    | &nbsp;(1965). Her finner man et dikt som grafisk speiler seg i seg selv, og et som er satt opp som et yin og yang-symbol. I begge diktene er formen meningsbærende, formen har betydning for tematikken i diktet. 
   
   h3 Jazz & poetry 
   p I den nyenkle lyrikken ligger vekten i mindre grad på de språklige bildene, og i større grad på diktets klanglige og formelle sider. Vold leker med lyder og ordklanger, og vektleggingen av diktets rytme, klang og musikalitet har ført til at mange av Volds dikt egner seg godt til muntlig framføring. 

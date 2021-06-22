@@ -3,9 +3,15 @@ PageBook
   
   h3 Jan Kjærstad – en postmoderne metafysiker?
 
-  figure.col.col4.left-image.mt5
+  //figure.col.col4.left-image.mt5
     img(src='./kjarstad_Portrett1.jpg' alt='')
     figcaption Jan Kjærstad. Foto: Mattis Sandblad / VG / Scanpix
+
+  NdlaVideo(
+    source="https://www.youtube.com/watch?v=ohIPlcG-ow8" 
+    playerType="youtube"
+    description="Jan Kjærstad om romanen «Menneskets vidde»"
+    )
 
   p Betegnelsen postmoderne metafysiker kan virke som en selvmotsigelse. Postmodernisten hevder at «de storefortell­ingene» er døde – det finnes ingen absolutte sannheter. Metafysikeren leter  derimot etter evige og allmenne sannheter. 
 
@@ -61,6 +67,9 @@ PageBook
     
   p I Forføreren møter vi Jonas Wergeland idet han finner sin kone – hans store kjærlighet – drept i deres egen stue. Denne skjellsettende opplevelsen er utgangspunktet for fortellingene om Jonas’ vei fra barndommen til hans suksess som programskaper og rikskjendis. Jonas er en moderne helt. Alt han tar i, blir til gull. Han forfører kvinner med sin «magiske penis», og han forfører et helt folk med tv-programmet sitt. 
 
+  NrkVideo(id="3966")
+  div Om tv-serien «Erobreren» fra 2012. Hvordan kler du opp 80 skuespillere og mer enn 2000 statister når handlingen strekker seg over fire tiår?
+
   p I Erobreren blir bildet av Jonas nyansert. De mørkere sidene ved helten fra Forføreren blir nå presentert, uten at vi på noen måte får et heldekkende bilde av hvem Jonas er. Vi sitter igjen med flere ulike, og like sanne eller sannsynlige, bilder av Jonas. I Oppdageren møter leseren Jonas idet han slipper ut av fengselet. Han ble dømt for drapet på Margrete, selv om det er uavklart om det er han som drepte henne. 
 
   figure.col.col6.right-image.mt5
@@ -74,7 +83,15 @@ PageBook
 
   p Romanene er komponert som mange små fortellinger, som ikke er bundet sammen av kronologi og kausalitet. Ofte kan årsak komme før virkning, slik at hendelser som skjer i ettertida på merkverdige måter kan få betydning for hendelser som har gått forut. Og i og med at de tre romanene har ulike fortellere, som formidler ganske ulike bilder av Jonas Wergeland, får vi mange ulike sannheter, eller sannsynlige versjoner, av fortellingen om tv-helten. 
 
+  NdlaAudio(
+    source="media/books/kjarstad/Kjarstad.mp3"
+    description="Jan Kjærstad om teksten som en vev"
+    )
+
   p Man kan se komposisjonen i romanene som et slags svar på påstanden om at de store fortellingene er døde. Religion, modernitetens tro på framskritt, fornuft og frihet, og de store politiske ideologiene har alle feilet. I stedet må man bygge seg en forståelse av verden ut fra de små fortellingene. Et postmoderne individ er overlatt til seg selv i forsøket på å skape mening i mangfoldet som møter han. Dette er også prosjektet i fortellingene om Jonas Wergeland. 
+
+  NrkVideo(id="3305")
+
 
   //Medieinnhold: Vurdere klippet fra Skavlan. Beholde bilder. 
 
@@ -84,12 +101,14 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

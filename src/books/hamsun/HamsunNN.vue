@@ -29,6 +29,8 @@ PageBook
 
   p Da nazistane kom til makta i Tyskland i 1933, var Hamsun alt ein gammal mann på over sytti år. Samfunnssynet og verdiane hans samsvara mykje med ideane til nazistane. Han støtta Tyskland offentleg, også etter at tyskarane hadde invadert Noreg i 1940. Etter Hitlers sjølvmord i 1945 skreiv han jamvel ein rosande nekrolog om diktatoren. 
 
+  NrkVideo(id="3262")
+  
   img.col.col6.right-image.mt5(src='./Hamsun_Nazismen.jpg' alt='')
   p Støtta til nazismen skapte store problem for Hamsun personleg og for ryktet hans som forfattar. Etter krigen vart han stilt for retten og dømd til å betale ei veldig bot. I tillegg fekk han diagnosen «varig svekkede sjelsevner». Hamsun endra aldri syn, og da han døydde i 1952, var han på mange måtar ein hata mann. Røynslene frå krigen var vonde for mange, og det var forkasteleg å ha hatt sympatiar med nazismen.
 
@@ -97,12 +99,14 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

@@ -10,6 +10,11 @@ PageBook(:showAuthor="false")
 
   p Dekameronen er eit bevisst komponert verk. Boccaccio samlar novellene tematisk ved hjelp av rammeforteljinga: Kvar dag vel ungdommane ein ny konge eller ei ny dronning, som så avgjer temaet som alle forteljingane denne dagen skal handle om. 
 
+  NdlaVideo(
+    source="media/books/dekameronen/Dekameronen.mp4"
+    captionsUrl="media/books/dekameronen/Dekameronen.nb-no.vtt"
+  )
+
   h3 Innhald
   p Bakgrunnen for rammeforteljinga i Dekameronen er ein pestsjukdom som rammar Firenze. Denne pestsjukdommen er ein historisk realitet, for våren og sommaren 1348 vart byen heimsøkt av pesten.
 

@@ -14,6 +14,8 @@ PageBook
 
   p Knausgård vokste opp i Arendal og Kristiansand, men bor nå i Malmö, Sverige. Han har skrevet en rekke fagessays om litteratur og var i en periode medredaktør i litteraturtidsskriftet Vagant. Knausgård har mottatt flere priser for forfatterskapet sitt. I tillegg til Kritikerprisen i 1998 fikk han i 2009 Brageprisen for Min kamp 1. To ganger har han også mottatt både P2-lytternes romanpris og Sørlandets litteraturpris. 
 
+  NrkVideo(id="159353")
+  
   h3 En ung mann i drift 
 
   figure.col.col6.right-image.mt5
@@ -42,6 +44,12 @@ PageBook
     figcaption Linda Boström Knausgård utenfor huset ved Ystad i Sverige som de kjøpte etter suksessen med «Min kamp».  Foto: Annemor Larsen / VG / Scanpix
 
   p Romanprosjektet Min Kamp tar for seg Karl Ove Knausgårds liv fram til den dagen prosjektet avsluttes – altså et forløp på 42 år. Leserne får et innblikk i barneog ungdomsår, og hvordan Knausgård i dag lever et tilnærmet A4-familieliv med kone og barn i Malmö i Sverige, et samliv som i perioder trues av psykiske lidelser. Navet som fortellingen dreier seg rundt, er likevel farens død, et dødsfall som fører hovedpersonen Karl Ove inn i en krise. Forholdet til faren beskrives som kaldt og preget av avstand, angst og frykt, men dødsfallet går likevel sterkt inn på sønnen. Hovedpersonens følelsesmessige ambivalens preger hele romanserien. 
+
+  p
+    a(href='https://ndla.no/subject:1:50dfc86d-6566-4a45-a531-d32b82e8bfa1/topic:3:b34684b3-3e91-44ee-88b4-1c3e588586dc/topic:1:67a76db2-578b-4543-812b-4270e1ffd137/resource:bc3791a9-2134-45e1-ab17-12e4431ddfe9' target='_blank') Utdrag fra Min kamp 1
+
+  p
+    a(href='https://ndla.no/subject:1:50dfc86d-6566-4a45-a531-d32b82e8bfa1/topic:3:b34684b3-3e91-44ee-88b4-1c3e588586dc/topic:3:1cc14972-df1f-4294-b19b-1c2472f5489a/topic:3:16901c14-d7b7-45a8-839b-96aabbf174e2/resource:d2aa9ff3-c685-4d48-baad-b9f408906b0d' target='_blank') Utdrag fra Min kamp 4
 
   h3 Detaljrik impresjonisme 
 
@@ -99,9 +107,11 @@ PageBook
 
   p Selv hevder Knausgård at han har rett til å formidle sin historie, sin sannhet – med trykk på sin. For å skape seg en identitet er han nødt til å fortelle historien om sitt eget liv. På denne måten konstruerer han sin egen sannhet og sin egen virkelighet. 
 
-  figure.col.col12
+  //figure.col.col12
     img(src='./knausgaard_Min_kamp4.jpg' alt='')
     figcaption «Mitt liv som romanfigur.» Bøkene til Knausgård vekket både begeistring og harme. Her får du et lite utsnitt av oppstyret. NRK Skole
+
+  NrkVideo(id="51112")
 
 
   // Medieinnhold: Vurdere om noen av bildene skal ut (bosteder og rettssak). Vurdere video fra NRK skole
@@ -112,12 +122,14 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

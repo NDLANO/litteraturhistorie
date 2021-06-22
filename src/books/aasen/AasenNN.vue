@@ -29,6 +29,11 @@ PageBook
 
   p Heilt fram til 1868 er Aasen nesten kvart år på språkreiser, gjerne til stader han ikkje har vore før. Til saman reiser han meir enn 400 mil og er innom alle fylka bortsett frå Finnmark.
 
+  NdlaVideo(
+    source="media/books/aasen/Ivar_Aasen_landsmalet.mp4"
+    captionsUrl="media/books/aasen/Ivar_Aasen_landsmalet.nb-no.vtt"
+  )
+
   h3 Omsetjar og språkkonsulent
   
   img.col.col4.left-image(src='./Aasen_Omsetjar_og_spraakonsulent.jpg' alt='')
@@ -91,6 +96,12 @@ PageBook
     | Me skulo aldri finnast.
 
   p Vi veit lite om Ivar Aasens privatliv. Han frir og får nei to gonger, og deretter slår han frå seg tanken om giftarmål. Han er ingen einstøing og går gjerne i teater, på konsert, i kneiper og salongar. Likevel kjenner han i periodar eit sterkt sakn etter nokon å dele livet med.
+
+  NdlaVideo(
+    source="media/books/aasen/Forfattaren_Ivar_Aasen.mp4"
+    captionsUrl="media/books/aasen/Forfattaren_Ivar_Aasen.nb-no.vtt"
+  )
+
 
   h3 Gamle former i Aasens landsmål
   p Aasen bruker det norrøne språket som rettesnor når han vel ut ordformene som skal vere ein del av landsmålet. Her følgjer nokre eksempel:

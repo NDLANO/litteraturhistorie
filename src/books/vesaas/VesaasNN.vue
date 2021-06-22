@@ -14,6 +14,8 @@ PageBook
   p Vesaas levde sjølv i ein slik konfliktsituasjon i mange år. Han fann inspirasjon ved å reise, og han likte spesielt godt å oppsøkje dei store byane i Europa. Det same gjorde ho som skulle bli ektefellen hans resten av livet.
 
   p I 1934 gifte han seg med lyrikaren Halldis Moren, og dei to flytte til garden Midtbø i Vinje som Tarjei hadde kjøpt av ein onkel. Farsgarden, som låg i det same landskapet ved Vinjevatnet, hadde Vesaas tidlegare late ein bror få overta.
+
+  NrkVideo(id="0837c794-704a-4962-bb15-c538b80f2291")
   
   h3 Kimen – ein modernistisk roman
 
@@ -23,7 +25,9 @@ PageBook
 
   p I perioden 1923–1940 gav Vesaas ut tretten romanar, to novellesamlingar og to skodespel. Det aller meste er skrive i realistisk form, men med ein del eksperimentelle innslag.
 
-  p Romanen Kimen (1940) utgjer eit vendepunkt i forfattarskapen og blir det store gjennombrotet for Vesaas. Boka speglar samtidas krigsatmosfære i ei allegorisk og symbolsk form. Med Kimen fann Vesaas det prosaspråket som skulle bli så særmerkt for han.
+  p Romanen 
+    a(href='https://www.nb.no/items/d2b54c2130870d79d2aef5ab674a45ce?page=0&searchText=kimen' target='_blank') Kimen
+    | &nbsp;(1940) utgjer eit vendepunkt i forfattarskapen og blir det store gjennombrotet for Vesaas. Boka speglar samtidas krigsatmosfære i ei allegorisk og symbolsk form. Med Kimen fann Vesaas det prosaspråket som skulle bli så særmerkt for han.
 
   p Det er eit knapt språk med korte, enkle setningar. Uttrykket er fortetta, ofte bruker Vesaas berre setningsfragment og enkeltståande ord. Det er ei minimalistisk form der det enkle og komprimerte er ladd med meining, og det som ikkje blir sagt, men som ligg mellom orda, er ein like viktig del av teksten.
 
@@ -55,6 +59,11 @@ PageBook
 
   p Det er sagt at Kimen er ein roman om villskapen og dei destruktive kreftene i menneskesinnet. Boka er ikkje ei skildring av krig, men av korleis primitiv hemn kan utløyse sterkare utslag av vald og råskap. Tittelen Kimen viser til at det like fullt finst ein kime av det gode i mennesket, midt i all vondskapen.
 
+  NdlaVideo(
+    source="media/video/vesaas/TarjeVesaas2.mp4"
+    description="Ungdomstid og krig. Intervju med Tarjei Vesaas, mellom anna om boka Kimen"
+  )
+
   h3 Å dikte om seg sjølv
 
   figure.col.col6.right-image.mt5
@@ -80,7 +89,9 @@ PageBook
   p Tarjei Vesaas har fått fleire prisar for bøkene sine, mellom anna Nordisk Råds litteraturpris i 1964 for romanen Is-slottet. Denne boka og romanen Fuglane (1957) har vorte ståande som dei mest kjende verka i forfattarskapen.
 
   h3 Fuglane
-  p Romanen Fuglane (1957) handlar om raringen Mattis, som bur saman med syster si, Hege, og som ikkje er som andre. Folk i bygda kallar han Tusten. Mattis er ikkje i stand til å gjere vanleg arbeid, men han er god til å ro og vil prøve seg som ferjemann.
+  p Romanen 
+    a(href='https://www.nb.no/items/14ac565f836ab1fee0cfaf9e59bc3396?page=7&searchText=fuglane' target='_blank') Fuglane
+    | &nbsp;(1957) handlar om raringen Mattis, som bur saman med syster si, Hege, og som ikkje er som andre. Folk i bygda kallar han Tusten. Mattis er ikkje i stand til å gjere vanleg arbeid, men han er god til å ro og vil prøve seg som ferjemann.
 
   p Mattis er det vi i dag kallar psykisk utviklingshemma, men han har eit kjenslevart sinn og kan sanse mange ting som vanlege folk ikkje oppfattar. Mattis sansar og tolkar dei fleste naturfenomena. Han er redd i torevêr, men ser han for eksempel eit fugletrekk, slepper angsten taket, og dagen blir god for han.
 
@@ -132,7 +143,9 @@ PageBook
     img(src='./Vesaas_Is-slottet.jpg' alt='')
     figcaption Foto: Sverre A. Børretzen / Aktuell / Scanpix
 
-  p Romanen Is-slottet kom i 1963. Her finn vi på mange måtar ei vidareføring av den eksperimenterande skrivestilen som hadde gjort Vesaas til ein stor forfattar.
+  p Romanen 
+    a(href='https://www.nb.no/items/131e8f3a9f34883cff1258b103df307a?page=0&searchText=is-slottet' target='_blank') Is-slottet
+    | &nbsp;kom i 1963. Her finn vi på mange måtar ei vidareføring av den eksperimenterande skrivestilen som hadde gjort Vesaas til ein stor forfattar.
 
   p Boka handlar om to jenter i pubertetsalderen som utviklar ein nær vennskap. Dei mister vennskapen på ein brutal måte, og den eine må kjempe for å kome over tapet og leve vidare. Is-slottet er ei utforsking av pubertetens psykologi, og det er ei forteljing om at mennesket er grunnleggjande einsamt, trass i lengten etter å overvinne kjensla av å stå åleine.
 
@@ -167,7 +180,9 @@ PageBook
   h3 Vesaas som lyrikar
   p Vesaas gav ut seks diktsamlingar, som alle er modernistiske i form og uttrykk. Gjennomgangstemaet i dikta hans er angst, vondskap og destruktive krefter. Symbolbruken er rik, og språket er knapt og fortetta, akkurat som i prosadiktinga.
 
-  p Diktet «Regn i Hiroshima» er frå samlinga Leiken og lynet (1947). Diktet handlar om atombomba som vart sleppt over Hiroshima 6. august 1945. 150 000 menneske vart råka, og mest heile byen Hiroshima låg i ruinar etterpå.
+  p Diktet 
+    a(href='https://www.nb.no/items/e6a765a02cfa293c75ffe5eb66dc3db8?page=81&searchText=regn i hiroshima' target='_blank') «Regn i Hiroshima»
+    | &nbsp;er frå samlinga Leiken og lynet (1947). Diktet handlar om atombomba som vart sleppt over Hiroshima 6. august 1945. 150 000 menneske vart råka, og mest heile byen Hiroshima låg i ruinar etterpå.
 
   p Diktforma var utradisjonell i 1947. I første delen av diktet er setningane stykkja opp og spreidde over fleire korte linjer, som for å understreke korleis menneska vart sprengde i filler under dette bombeåtaket.
 
@@ -298,6 +313,7 @@ PageBook
     source="media/books/vesaas/Tarjei_Vesaas_-_Bakkane_heime.mp3"    
   )
 
+  a(href='https://www.nb.no/items/f5b6300a509b5f0013a30f7ab4f9dc58?page=63&searchText=Bakkane heime' target='_blank') Bakkane heime
 
 </template>
 
@@ -305,12 +321,14 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PageBook,
   },
 };

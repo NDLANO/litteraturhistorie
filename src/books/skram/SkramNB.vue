@@ -19,6 +19,11 @@ PageBook
 
   p Den fjerde og siste ekteskapsromanen var Forraadt fra 1892. Her møter vi den sytten år gamle Ory som blir giftet bort til en sjøkaptein som er femten år eldre. Uvitende om det meste som har med ekteskap og samliv å gjøre, blir Ory plassert om bord på en seilskute med ektemann og mannskap på vei til England. Det ender tragisk også her.  
 
+  NdlaVideo(
+    source="media/video/skram/Amalie-Skram.mp4"
+    captionsUrl="media/video/skram/Amalie-Skram.nb-no.vtt"
+  )
+
   p Amalie Skram kritiserer dobbeltmoralen i den borgerlige oppdragelsen og viser hva de store forskjellene mellom menn og kvinner fører til. Det er ikke bare ungjenta Ory som blir forrådt, men like mye mannen hun blir giftet bort til. Begge er underlagt det miljøet de vokste opp i, og de normene som er rådende i samfunnet. 
 
   h3 «Karens jul» 
