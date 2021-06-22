@@ -7,10 +7,10 @@ PagePeriod(
   h3 Tida og samfunnsforholdene 
   //p Eksempel på link til boken <router-link to="/nn/books/asbjornsenmoe">Norske folkeeventyr</router-link>
 
-  figure.col.col6.right-image
+  h5 Kirken mister makt
+  figure.col.col6.right-image.mt5
     img(src="./Barokk_Tida_og_samfunnsforholdene1.jpg" alt="Portrettbilde av tre voksne, ei lita jente og en lekende hund. Maleri.")
 
-  h5 Kirken mister makt
   p
     | Kirken mister mye av sin makt etter middelalderen, men denne makta går ikke til folket. Det er kongene i de ulike landene i Europa som samler makta og får større kontroll over kirken. 
 
@@ -18,9 +18,11 @@ PagePeriod(
   p
     | De som har makt i samfunnet, blir dyrket. Det er stor avstand mellom de få rike og resten av folket. Herskerne utnytter religionen til å rettferdiggjøre makt og posisjon. Ifølge Luther har kongen fått sin makt fra Gud fordi all makt kommer fra Gud.   
 
+  .clear
+
   h5 Eneveldet
 
-  figure.col.col6.right-image
+  figure.col.col6.right-image.mt5
     img(src="./Barokk_Tida_og_samfunnsforholdene2.jpg" alt="Mann i profil. Portrettmaleri.")
     figcaption Kong Fredrik 3. av Danmark og Norge
   p
@@ -32,11 +34,11 @@ PagePeriod(
 
   h3 Litt om tenkemåten 
 
-  figure.col.col4.left-image.mt10
+  h5 Eneveldet  
+  figure.col.col4.left-image.mt5
     img(src="./Barokk_Litt_om_tenkemaaten.jpg" alt="Bord med hodeskalle. Illustrasjon.")
     figcaption Detalj fra tittelstikket på førsteutgaven av boka Taare-Offer av Dorothe Engelbretsdotter
 
-  h5 Eneveldet  
   p
     | Samfunnsbildet (verdensbildet) kan sammenliknes med en pyramide der alle mennesker har sin faste plass. På toppen står kongen, og over kongen står bare Gud. Under kommer de adelige, deretter borgerskapet med handelsmenn og håndverkere. Bønder, leilendinger og husmenn står nederst i hierarkiet.  
 
@@ -69,7 +71,7 @@ PagePeriod(
   p
     | I barokken møter vi en pompøs og prangende livsutfoldelse, med vekt på det overdådige. Skulptur- og malerkunst, barokk arkitektur og møbelstil er preget av en slik overveldende utsmykking. Det spares ikke på verken materialer eller effekter.  
 
-  figure.col.col4.left-image
+  figure.col.col4.left-image.mt5
     img(src="./Barokk_Kjennetegn_ved_barokkstilen2.jpg" alt="Mann blir korsfestet og tre personer prøver å løfte korset. Maleri.")
 
   h5 Konflikt og dramatikk  
@@ -80,11 +82,11 @@ PagePeriod(
   p
     | Gud står i sentrum i barokken, men kunsten er likevel dualistisk. Det vil si at kunstneren fokuserer både på mennesket (det verdslige) og på Gud (det åndelige). Kunstneren fokuserer altså både på dette livet og på livet etter døden.  
 
-  figure.col.col4.right-image
+  figure.col.col4.right-image.mt5
     img(src="./Barokk_Kjennetegn_ved_barokkstilen3.jpg" alt="Portrett av person med fiolin.  Maleri.")
     figcaption Antonio Vivaldi
 
-  figure.col.col4.right-image
+  figure.col.col4.right-image.mt5
     img(src="./Barokk_Kjennetegn_ved_barokkstilen4.jpg" alt="Mann med et ark i hånden. Maleri.")
     figcaption Johan Sebastian Back
 
@@ -95,7 +97,7 @@ PagePeriod(
 
   h3 Litteraturen 
 
-  figure.col.col6.left-image
+  figure.col.col6.left-image.mt5
     img(src="./Barokk_Litteraturen.jpg" alt="Tenkende kvinne som skriver i ei notatbok. Illustrasjon.")
     figcaption Tittelstikket på førsteutgaven av boka Taare-Offer av Dorothe Engelbretsdotter
     
@@ -145,7 +147,7 @@ PagePeriod(
   p
     | Bergen og Vestlandet er blitt sterkt språklig påvirket av den hanseatiske (tysk-nederlandske) handelsvirksomheten som har foregått helt siden 1200-tallet. Denne påvirkningen fortsetter og farger både talemålet og skriftspråket i Bergen.  
 
-  figure.col.col6.right-image
+  figure.col.col6.right-image.mt5
     img(src="./Bibel-Chr._III_-_1.jpg" alt="Forsiden til eldre utgave av Bibelen. Illustrasjon.")
     figcaption Tittelbladet på bibelen til Kristian 3. fra 1550
       br
@@ -180,14 +182,14 @@ PagePeriod(
     img(src="./Barokk_Bildekunst_og_arkitektur1.jpg" alt="Innsiden av en kirke med utsmykninger i marmorgulvet og i taket. Foto.")
     figcaption Berninis baldakin og kor i Peterskirken
 
-  div.col.col6.display-ib
+  div.col.col6.display-ib.p5
     figure
-      img(src="./Barokk_Bildekunst_og_arkitektur2.jpg" alt="To nakne kvinner som er omfavnet av to menn, samt to hester og et barn. Maleri.  ")
+      img(src="./Barokk_Bildekunst_og_arkitektur2.jpg" alt="To nakne kvinner som er omfavnet av to menn, samt to hester og et barn. Maleri.  " style="min-height: 305px; object-fit: cover;")
       figcaption Peter Paul Rubens: «Leukippos’ døtre blir røvet»
 
-  div.col.col6.display-ib
+  div.col.col6.display-ib.p5
     figure
-      img(src="./Barokk_Bildekunst_og_arkitektur3.jpg" alt="Skulptur av bøyd hode med krøllete hår. Foto.")
+      img(src="./Barokk_Bildekunst_og_arkitektur3.jpg" alt="Skulptur av bøyd hode med krøllete hår. Foto." style="min-height: 305px; object-fit: cover;")
       figcaption Detalj fra skulpturen «Den hellige Teresas ekstase» av Giovanni Lorenzo Bernini
 </template>
 

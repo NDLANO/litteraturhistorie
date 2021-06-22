@@ -6,11 +6,11 @@ PagePeriod(
   // Content here
   h3 Tida og samfunnstilhøva  
 
-  h5 Dei harde trettiåra 
-
-  figure.col.col8.right-image.mt20
+  figure.col.col8.right-image
     img(src="./Modernisme_Tida_og_samfunnsforholdene1.jpg" alt="Ei gruppe menn studerer ei okse. Foto.")
     figcaption Ei ku går under hamaren på ein tvangsauksjon på Skullerud gard i 1934. Foto: NTB Scanpix
+  
+  h5 Dei harde trettiåra 
 
   p
     | I mellomkrigstida (1918–1939) var det lite att av den framtidsoptimismen som hadde prega folk rundt hundreårsskiftet. Både i Noreg og i Europa elles var perioden merkt av stor arbeidsløyse, stadige regjeringsskifte og ustabile valutakursar.  
@@ -76,6 +76,11 @@ PagePeriod(
   p
     | Etter første verdskrigen opplevde det tyske folket arbeidsløyse og nød, og lengta etter ei ny styreform og ein ny statsleiar. NSDAP utnytta denne lengsla gjennom ei sterk propagandaføring før valet i 1933. Tyskland trong ein ny og sterk leiar, hevda dei. Nasjonalsosialistane fekk regjeringsmakta i Tyskland i 1933. Dei nasjonalistiske og antisemittiske tankane i ideologien skulle syne seg å få fatale konsekvensar under andre verdskrigen.  
 
+  .clear
+  
+  NrkVideo.mt20(id="75954")
+
+  .mt20
   figure.col.col4.left-image.mt5
     img(src="./Modernisme_Tanker_i_tida3.jpg" alt="Mann med bart, uniform og armbind med nazitegn ved sidan av uniformert mann som gjer nazistisk helsing. Foto.")
     figcaption Hitler og Mussolini i München i 1937. Foto: Scanpix
@@ -89,7 +94,9 @@ PagePeriod(
   p
     | Mussolini kom til makta i Italia i 1922, og frå 1940 var Italia under Mussolini med på Tysklands side i andre verdskrigen. Som nazistane i Tyskland kom fascistane til makta i eit svakt og økonomisk tappa land, prega av indre uro og kløyving. Fascistane gav makthavarane skulda, og dei fekk med seg eit italiensk folk merkt av nederlag og nød.  
 
-  h5 Eksistensialismen  
+  NrkVideo(id="75953")
+  
+  h5.mt20 Eksistensialismen  
   p
     | Eksistensialismen er ei filosofisk retning som fekk sterk innverknad på filosofi, litteratur og psykologi på midten av 1900-talet. På mange måtar pregar denne retninga framleis måten vår å forstå oss sjølve og forholdet til omverda på.  
 
@@ -194,6 +201,8 @@ PagePeriod(
     h5 Aksel Sandemose 
     p
       | Ein forfattar som var sterkt med på å fornye den norske romanen i modernistisk lei, var den danskfødde Aksel Sandemose (1899–1965). Han var ein radikal rebell og sokna til dei kulturradikale krinsane i samtida. Sandemose eksperimenterte med forteljemåte og komposisjon, og i ettertid har han vorte ståande som ein av dei første banebrytande modernistane i norsk litteraturhistorie. 
+      br
+      a(href='https://no.wikipedia.org/wiki/Janteloven' target='_blank') Janteloven
 
   ImageTextBlock(
     :image="require(`./Modernisme_Episke_forfattere4.jpg`)"
@@ -212,8 +221,9 @@ PagePeriod(
       | Den norske forfattaren som er mest kjend for å tematisere og utforske den menneskelege identiteten, sjølve eg-kjensla, er Johan Borgen (1902–1979). Til liks med Vesaas skreiv også Borgen både modernistiske og realistiske tekstar. Forfattarskapen hans kan i stor monn lesast som ei gransking av spørsmålet: Kva er eit eg? Dette er eit typisk modernistisk spørsmål, og romanen med den illustrerande tittelen Jeg (1959) er Borgens mest modernistiske tekst. Her blir eg-et spalta i to, og den ytre realismen i teksten forsvinn.  
     p
       | I hovudverket til Borgen, trilogien om Lillelord (1955–1957), blir identitetens problem drøfta på ein meir realistisk måte. Hovudkarakteren Wilfred Sagen slitst mellom ulike sosiale roller og finn aldri ein autentisk identitet bak nokon av dei – ei typisk eksistensialistisk problemstilling. 
+  NrkVideo(id="3914")
 
-  ImageTextBlock(
+  ImageTextBlock.mt20(
     :image="require(`./Modernisme_Episke_forfattere6.jpg`)"
     altText="Halvnært portrett av ei eldre kvinne. Foto."
     )
@@ -230,6 +240,7 @@ PagePeriod(
       | Den etterkrigsforfattaren som er mest kjend for å bryte tabu og utfordre normene i samtida, er Agnar Mykle (1915–1994). Som Nedreaas var han ein framifrå novellist og romanforfattar, og ein kulturradikalar som gjorde opprør mot undertrykkjande og livshemmande verdiar. I dei to romanane Lasso rundt fru Luna (1954) og Sangen om den røde rubin (1956) møter vi den unge mannen Ask Burlefot og følgjer utviklinga hans.  
     p
       | Dei to bøkene inneheld også erotiske skildringar som verka såpass provoserande i 1950-åra at både forfattar og forlag vart politimelde. Tiltalen handla både om usømelege skildringar og om utlevering av lett attkjennande personar. Mykle-saka skapte stor debatt, og saka gjekk heilt til Høgsterett. I dag kan vi sjå at forfattarskapen til Mykle varsla den seksuelle frigjeringa som skulle kome i 1960- og 1970-åra.  
+  NrkVideo(id="3220")
 
   h3 Lyrikken i perioden 1930–1960  
 
@@ -259,6 +270,7 @@ PagePeriod(
     h5 Arnulf Øverland 
     p
       | Arnulf Øverland (1889–1968) var ein svært framståande samfunns- og kulturpersonlegdom. Som leiar av Riksmålsforbundet engasjerte han seg sterkt i norsk språkdebatt, under krigen var han aktiv motstandsmann, og han var sterkt kritisk til kyrkja og kristendommen. I tillegg var han ein engasjert talsmann for formspråket i den tradisjonelle lyrikken. Øverlands eigne dikt førte det lyriske språket nærare kvardagsspråket og prosaen. Ordvalet er ofte enkelt og kvardagsleg, og han er kjend for ein svært poengtert skrivemåte. 
+  NrkVideo.mb20(id="4621")
 
   ImageTextBlock(
     :image="require(`./Modernisme_Norske_lyrikere2.jpg`)"
@@ -297,6 +309,8 @@ PagePeriod(
     figure.m1rem
       img(src="./Modernisme_Norske_lyrikere8.jpg" alt="Sittande mann på eit kontor. Foto.")
       figcaption Paal Brekke. Foto: Aktuell / Scanpix
+
+  NrkVideo(id="4375")
   p
     | Ein av dei mest kjende modernistane i 1950-åra var Paal Brekke (1923–1993). Brekke var inspirert av europeisk modernisme, og særleg vende han blikket mot Finland og Sverige. For Brekke var eit modernistisk uttrykk det einaste som kunne skildre tilværet etter krigen. Tradisjonell strofeinndeling, rim og fast rytme dugde ikkje til dette formålet. Dei emna han tek opp i dikta sine, er typisk modernistiske: identitet, ein oppstykkja røyndom og manglande kommunikasjon mellom menneska.     
 
@@ -322,8 +336,12 @@ PagePeriod(
   p
     | Nazistane skjønte tidleg kor viktig det var å kontrollere massemedia – alt i 1941 vart det forbode å ha radio i Noreg. Berre folk med tilknyting til det nazistiske regimet fekk ha radio, og berre tyskvennlege redaksjonar fekk lov til å halde fram med å kringkaste nyheiter og gi ut aviser. Dei som braut reglar og retningslinjer, risikerte å bli arresterte – i verste fall sende til ein konsentrasjonsleir. Likevel tok fleire sjansen på å få spreidd informasjon – illegale aviser florerte, og folk samla seg rundt skjulte radioar for å høyre ”stemma frå London”. Regjeringa og kongen stod bak fleire radiosendingar frå den britiske hovudstaden, og dei både informerte om motstandskampen og oppmuntra til vidare innsats.  
 
+  NrkVideo(id="3283")
+
   p
     | Filmavisen viste nytt frå den siste veka og gjekk som forfilm på norske kinoar. Allereie frå slutten av 1920-åra vart det laga lokale nyheitsvariantar av Filmavisen, men i 1940 tok tyske styresmakter over denne produksjonen. No vart det laga ein nasjonal versjon som den tyske okkupasjonsmakta brukte til propagandaformål. Etter krigen bygde Filmavisen seg opp til å bli ein svært viktig kanal for nyheiter og folkeopplysning.
+
+  NrkVideo.mb20(id="60241")
 
   h3 Filmindustrien veks fram 
 
@@ -425,6 +443,7 @@ import ImageTextBlock from "@/components/ImageTextBlock";
 import PagePeriod from "@/components/PagePeriod";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
@@ -432,6 +451,7 @@ export default {
     ImageTextBlock,
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PagePeriod,
   },
 };

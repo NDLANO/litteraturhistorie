@@ -1,5 +1,5 @@
 <template>
-  <div ref="videoWrapper">
+  <div ref="videoWrapper" class="mt20 mb20">
     <div class="nrk-video" :data-nrk-id="id">&nbsp;</div>
     <!-- <script src="https://static.nrk.no/ludo/latest/video-embed.js"></script> -->
   </div>

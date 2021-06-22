@@ -111,9 +111,9 @@ PagePeriod(
 
   p Tida mellom 1850 og 1870 var ikke bare en tid preget av endringer i samfunnet. Også i litteraturen skjedde det endringer. Selv om den romantiske diktningen ble holdt i live av forfattere som ennå var produktive, kom det til nye. Og det er den nye, realistiske skrivemåten som kom til å dominere mer og mer. Perioden 1850–1870, overgangen fra romantikk til realisme, kan vi derfor kalle poetisk realisme eller romantisk realisme.
 
-  NdlaAudio(
-    source="media/periods/realisme/poetisk_realisme_nrk_Kritisk_sosialrealisme.mp3"
-  )
+  //- NdlaAudio(
+  //-   source="media/periods/realisme/poetisk_realisme_nrk_Kritisk_sosialrealisme.mp3"
+  //- )
 
   p Av aktive forfattere i 1850- og 1860-årene nevner vi Aasmund Olavsson Vinje, Camilla Collett, Henrik Ibsen og Bjørnstjerne Bjørnson. 
 
@@ -151,9 +151,9 @@ PagePeriod(
   .mt40
   h5 Kritisk realisme 
 
-  NdlaAudio(
-    source="media/periods/realisme/poetisk_realisme_nrk_Kritisk_sosialrealisme.mp3"
-  )
+  //- NdlaAudio(
+  //-   source="media/periods/realisme/poetisk_realisme_nrk_Kritisk_sosialrealisme.mp3"
+  //- )
 
   p Realistene la stor vekt på emnevalget, og i motsetning til romantikerne satte de søkelys på samfunnet og problemene der. Realistene ville noe bestemt med diktningen sin, de ville reformere, avsløre og være kritiske. Epoken har derfor fått navnet kritisk realisme. Noen av de viktigste emnene var religion og kirke, samliv og ekteskap – med særlig fokus på kvinnens stilling –, pliktmoral og hykleri, oppdragelse i skole og hjem og slett forretningsmoral.
 
@@ -175,10 +175,10 @@ PagePeriod(
 
   p Utover i 1880-årene får Ibsens skuespill en annen karakter. Nå tematiserer han mer hvordan individet opplever å leve med moderniteten. De radikale endringene i samfunnet har også skapt problemer. Med disse tekstene peker Ibsen fram mot den modernismen som kommer til Norge i slutten av århundret. 
 
-  NdlaAudio(
-    source="media/periods/realisme/borgerskapet_nrk_Kritisk_sosialrealisme.mp3"
-    description="Borgerskapet i 1880-åra"
-  )
+  //- NdlaAudio(
+  //-   source="media/periods/realisme/borgerskapet_nrk_Kritisk_sosialrealisme.mp3"
+  //-   description="Borgerskapet i 1880-åra"
+  //- )
 
   .flex.flex-wrap
     .col.col4.mt1rem
@@ -188,12 +188,15 @@ PagePeriod(
     .col.col8
       p <strong>Bjørnstjerne Bjørnson</strong> tar også opp aktuelle temaer i tida. I 1875 gir han ut En Fallit, der han går til angrep på snuskete forretningsmoral. I Magnhild (1877) setter han søkelyset på usedelige ekteskap, og i En Hanske (1883) tar Bjørnson opp kjønnsdebatten. Bjørnson er provosert av at det finnes ulike regler for kvinner og menn, og krever at både kvinne og mann må ”være reine” før ekteskapet. Andre temaer han går inn på, er makta til kirka og oppdragelsen i hjem og skole. 
 
-  
+  .clear
+  .mt20
   figure.col.col4.left-image
     img(src="./Realisme_De_fire_store_Kielland.jpg" alt="Portrettbilde av mann med hvitt hår, langt skinnskjegg, briller og sort dress. Foto.")
     figcaption Alexander Kielland
   p <strong>Alexander Kielland (1849–1906)</strong> er kanskje den av de fire som mest konsekvent følger Brandes’ krav. Kielland setter søkelyset på dobbeltmoral og hykleri i hjem og samfunn. Han skriv åtte romaner, tre novellesamlinger og seks skuespill. De mest kjente romanene er Garman & Worse (1880), Gift (1883) og Sankt Hans Fest (1887). Her drøfter han forholdet mellom fattig og rik, han avslører religiøst hykleri, og han kritiserer latinpugget i skolen. I novelleteksten ”Karen” (1882) avslører han hvordan uskyldige jenter kan bli lurt av kyniske mannfolk. 
 
+  .clear
+  .mt20
   figure.col.col4.left-image
     img(src="./Realisme_De_fire_store_Lie.jpg" alt="Portrettbilde av mann med briller og sort hatt på hodet. Foto.")
     figcaption Jonas Lie
@@ -202,9 +205,9 @@ PagePeriod(
   h3 Naturalismen
 
 
-  NdlaAudio(
-    source="media/periods/realisme/Naturalismen.mp3"
-  )
+  //- NdlaAudio(
+  //-   source="media/periods/realisme/Naturalismen.mp3"
+  //- )
 
   .mt40
 

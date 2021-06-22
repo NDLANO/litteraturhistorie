@@ -22,7 +22,7 @@ PagePeriod(
 
   div.flex.flex-wrap
     div.col.col4
-      figure.figure-left
+      figure.figure-left.mt5
         img(src="./Opplysningstid_Tida-og-samfunnsforholdene2.jpg" alt="Portrettbilete av mann med langt hår. Måleri.")
         figcaption Isaac Newton
     div.col.col8
@@ -33,7 +33,7 @@ PagePeriod(
   // * Tanker i tida
   h3 Tanker i tida
 
-  figure.col.col5.right-image
+  figure.col.col5.right-image.mt5
     img(src="./Opplysningstid_Tanker_i_tida.jpg" alt="Kvinner med blomsterkranser i håret sitter i grupper. Lysstråler uthever den øverste kvinnen. Illustrasjon.")
     figcaption Detalj fra omslaget til Encyclopédie (1772), tegnet av Charles-Nicolas Cochin og gravert av Bonaventure-Louis Prévost. Bildet er fylt med symbolisme: Figuren i midten er sannheten, omgitt av et skinnende lys (det sentrale symbolet i opplysningstida). Figurene til høyre er fornuft og filosofi, som river ned sløret foran sannheten.
   h5 Fokus på enkeltmennesket

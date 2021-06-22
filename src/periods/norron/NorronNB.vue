@@ -12,7 +12,7 @@ PagePeriod(
 
   h3 Vikingtida (ca. 800–1050)  
 
-  img.col.col7.right-image(src="./Norroen_Tida_og_samfunnsforholdene1.jpg" alt="Tre vikingskip seiler avgårde ut mot horisonten i havet. Illustrasjon.")
+  img.col.col7.right-image.mt5(src="./Norroen_Tida_og_samfunnsforholdene1.jpg" alt="Tre vikingskip seiler avgårde ut mot horisonten i havet. Illustrasjon.")
 
   p
     | I 793 plyndret vikingene det engelske klosteret Lindisfarne. Det er et av de første vikingtoktene som er sikkert datert, og historisk sett regner vi dette året som opptakten til vikingtida. I hele denne perioden drar vikingene ut på handels- og plyndringstokt: først til øyene i nordsjøområdet, seinere også sørover i Europa. Vikingferdene fortsetter helt til tusenårsskiftet.  
@@ -70,7 +70,7 @@ PagePeriod(
   p
     | Tor er sønn av Odin. Han er den sterkeste av æsene og bruker hammeren Mjolne når han skal utføre bragdene sine. Når Tor kjører over himmelen med bukkene sine foran vogna, slår det gnister under hjulene. Da er det tordenvær.  
 
-  NdlaAudio(
+  //NdlaAudio(
     source="media/periods/norron/Tor_og_bukkane.mp3"
     )
 
@@ -151,7 +151,7 @@ PagePeriod(
       li Skaldekvadene var for det meste brukslyrikk: Diktene skulle kaste glans over en oppdragsgiver eller over en død person, men de kunne også kommentere en aktuell hending eller en heltedåd.  
       li Mange av skaldekvadene er signert – i motsetning til eddadiktene, som ikke har navngitte forfattere.  
 
-  NdlaAudio(
+  //NdlaAudio(
     source="media/periods/norron/skaldekvad_norron_litteratur.mp3"
     description="Om skaldekvad"
     )
@@ -207,7 +207,7 @@ PagePeriod(
     li Håkon Håkonsson fikk også oversatt Strengleiker, en samling kjærlighetsnoveller med erotisk innhold.  
     li Kongespeilet er ei lærebok i høvisk framferd som er nedskrevet rundt 1250. Boka er trolig skrevet for sønnene til Håkon Håkonsson. 
 
-  NdlaAudio(
+  //NdlaAudio(
     source="media/periods/norron/riddervise_bendikt_og Aarolija_nrk.mp3"
     )
 
@@ -216,10 +216,10 @@ PagePeriod(
   NdlaVideo(source="media/periods/norron/Spraket_i_Norge_på_1200-tallet.mp4")
 
   .mt40
-  figure.col.col5.right-image
+  h5.mt40 URNORDISK TID  
+  figure.col.col5.right-image.mt20
     img(src="./Norroen_Litt_om_spraaket1.jpg" alt="En kongelig mann med pelsjakke og hatt poserer med et alvorspreget uttrykk. Illustrasjon.")
     figcaption Hunarkongen Attila (Atle), fra en svensk utgave av Den eldre Edda (1893)
-  h5.mt40 URNORDISK TID  
   p
     | Den eldste perioden i språkhistorien vår heter urnordisk tid. Perioden strekker seg fra om lag år 200 til år 800. Den viktigste kilden til kunnskap om språket fra denne tida er runeinnskrifter. Et særtrekk ved urnordisk er at ordene er klangfulle, vokalrike og lange, med atskillig flere stavelser enn i moderne norsk. I utdraget av ”Atlekvadet” (professor Arne Torp) får du et inntrykk av hvordan urnordisk hørtes ut.  
 

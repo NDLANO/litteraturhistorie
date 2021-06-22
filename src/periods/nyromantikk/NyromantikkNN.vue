@@ -68,11 +68,11 @@ PagePeriod(
 
   h3 Nyromantikken og ”det ubevidste sjæleliv” 
 
-  NdlaAudio(
-    source="media/periods/nyromantikk/Nyromantikken_det_ubeviste_sjeleliv_nrk.mp3"
-  )
+  //- NdlaAudio(
+  //-   source="media/periods/nyromantikk/Nyromantikken_det_ubeviste_sjeleliv_nrk.mp3"
+  //- )
 
-  .mt20
+  //- .mt20
 
   img.col.col7.right-image(src="./Nyromantikk_og_det_ubevisste_sjaeleliv.jpg" alt="To personar jobber i hagen som ligg ved eit vatn. Måleri.")
   p I 1890 heldt Knut Hamsun eit foredrag med tittelen ”Fra det ubevidste sjæleliv”. Her kritiserte han realismen og kom med eit programskrift for ein ny type litteratur. Hamsun meinte at realistane fokuserte for mykje på ”forlovelser og ball og landturer”, det vil seie den ytre handlinga, og at karakterane i dei realistiske verka var typar, ikkje individ. Han hevda at ein litteratur for samtida heller burde interessere seg for sjelelege tilstandar hos enkeltmennesket. 
@@ -154,7 +154,9 @@ PagePeriod(
 
   img.col.col4.mt10.right-image(src="./Nyromantikk_Andre_kunstformer_Munch.jpg" alt="Portrett av mann med bart og hatt. Foto.")
   h5 Symbolisme 
-  p Edvard Munch (1863–1944) er den norske målaren som i ettertid er best kjend og verdsett. Han var ein representant for symbolismen i målarkunsten. Han ville synleggjere sterke kjensler og sjelelege kampar gjennom bileta sine og brukte derfor ofte kontrastar, både i motiv og i fargar. Kjærleik, angst, død, smerte og einsemd blir framstilt i enkle linjer i klare og sterke fargar. Munch er ikkje oppteken av å måle pent, men å måle sant. Og det sannaste ein kunne måle, var kjensler og drivkrefter hos menneska. Det mest kjende måleriet hans, ”Skrik” (1893), står fram som sjølve symbolet på den eksistensielle angsten hos det siviliserte mennesket. 
+  p 
+    a(href='https://www.munchmuseet.no/edvard-munch/' target='_blank') Edvard Munch
+    | &nbsp;(1863–1944) er den norske målaren som i ettertid er best kjend og verdsett. Han var ein representant for symbolismen i målarkunsten. Han ville synleggjere sterke kjensler og sjelelege kampar gjennom bileta sine og brukte derfor ofte kontrastar, både i motiv og i fargar. Kjærleik, angst, død, smerte og einsemd blir framstilt i enkle linjer i klare og sterke fargar. Munch er ikkje oppteken av å måle pent, men å måle sant. Og det sannaste ein kunne måle, var kjensler og drivkrefter hos menneska. Det mest kjende måleriet hans, ”Skrik” (1893), står fram som sjølve symbolet på den eksistensielle angsten hos det siviliserte mennesket. 
 
   h5 Modernismen i biletkunsten 
   p Dei modernistiske biletkunstnarane brydde seg ikkje lenger om sentralperspektiv og fotografisk etterlikning av motiva. Dei eksperimenterte i staden med fargar, form og perspektiv. I tillegg hevda dei at kunsten ikkje trong noko formål eller bodskap utanfor seg sjølv. Valet av motiv endra seg òg. Kunstnarane samla seg i storbyar – særleg Paris – og måla det moderne bylivet. 
