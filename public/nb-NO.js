@@ -5,6 +5,7 @@ window.litteraturhistorieDictionaryNb = {
     pageBookBackButton: "Tilbake til tidslinjen",
     showBooks: "Vis bøker",
     showPersons: "Vis sentrale personer",
+    periodTimelineButton: "Mer info",
   },
   audioplayer: {
     showText: "Vis tekst",

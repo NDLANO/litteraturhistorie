@@ -20,7 +20,7 @@ li.sectionList_item
             @keyup.enter="onEraEnterKey"
             @pointerdown="onPointerDown"
             @pointerup="onEraPointerUp"
-          ) Mer info                  
+          ) {{ $t("general.periodTimelineButton")}}                  
     // * List of books
     ul.bookList(:style="borderBottomStyle")
       li(v-if="showBooks" v-for="book in periodBooks" :key="book.id")
@@ -198,7 +198,7 @@ export default {
         console.log("TimelineSection.onEraPointerUp: mouse has moved");
       }
     },
-    onEraEnterKey(event){
+    onEraEnterKey(event) {
       const route = `/${this.globalVars.langCode}/periods/${this.id}`;
       this.$router.push(route);
     },
