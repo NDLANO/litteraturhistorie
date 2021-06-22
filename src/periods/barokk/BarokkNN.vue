@@ -6,24 +6,25 @@ PagePeriod(
   // Content here
   h3 Tida og samfunnstilhøva 
 
-  figure.col.col6.right-image
-    img(src="./Barokk_Tida_og_samfunnsforholdene1.jpg" alt="Portrettbilete av tre vaksne, ei lita jente og ein leikande hund. Måleri.")
-
   h5 Kyrkja mister makt 
-  p
+  figure.col.col6.right-image.mt5
+    img(src="./Barokk_Tida_og_samfunnsforholdene1.jpg" alt="Portrettbilete av tre vaksne, ei lita jente og ein leikande hund. Måleri.")
+  p.mt0
     | Kyrkja mister mykje av den makta ho hadde i mellomalderen, men denne makta går ikkje til folket. Det er kongane i dei ulike landa i Europa som samlar makta og får større kontroll over kyrkja. 
 
   h5 Konge av Guds nåde 
   p
     | Dei som har makt i samfunnet, blir dyrka. Det er stor avstand mellom dei få rike og resten av folket. Herskarane utnyttar religionen til å rettferdiggjere makt og posisjon. Ifølgje Luther har kongen fått makta si frå Gud fordi all makt kjem frå Gud. 
 
+  .clear
+
   h5 Eineveldet 
 
-  figure.col.col6.right-image
+  figure.col.col6.right-image.mt5
     img(src="./Barokk_Tida_og_samfunnsforholdene2.jpg" alt="Mann i profil. Portrettmåleri.")
     figcaption Kong Fredrik 3. av Danmark og Noreg
 
-  p
+  p.mt0
     | I 1660 blir Fredrik 3. eineveldig konge over Danmark og Noreg. Det vil seie at han får uavgrensa makt. Kongen konfiskerer delar av dei kyrkjelege eigedommane etter reformasjonen og skaffar seg dermed meir rikdom. 
 
   h5 Merkantilisme 
@@ -32,12 +33,12 @@ PagePeriod(
 
   h3 Litt om tenkjemåten 
 
-  figure.col.col4.right-image.mt10
+  h5 Eineveldet 
+  figure.col.col4.right-image.mt0
     img(src="./Barokk_Litt_om_tenkemaaten.jpg" alt="Bord med hovudskalle. Illustrasjon.")
     figcaption Detalj frå tittelstikket på førsteutgåva av boka Taare-Offer av Dorothe Engelbretsdotter  
 
-  h5 Eineveldet 
-  p 
+  p.mt0 
     | Samfunnsbiletet (verdsbiletet) kan samanliknast med ein pyramide der alle menneska har sin faste plass. På toppen står kongen, og over kongen står berre Gud. Under kjem dei adelege, deretter borgarskapet med handelsmenn og handverkarar. Bønder, leiglendingar og husmenn står nedst i hierarkiet. 
 
   h5 Grip dagen, men hugs at du skal døy 
@@ -69,7 +70,7 @@ PagePeriod(
   p 
     | I barokken møter vi ei pompøs og prangande livsutfolding, med vekt på det overdådige. Skulptur- og målarkunst, barokk arkitektur og møbelstil er prega av ei slik overveldande utsmykking. Det blir ikkje spart på verken materiale eller effektar.  
 
-  figure.col.col4.left-image
+  figure.col.col4.left-image.mt5
     img(src="./Barokk_Kjennetegn_ved_barokkstilen2.jpg" alt="Mann blir korsfesta og tre personar prøver å løfte korset. Måleri.")    
 
   h5 Konflikt og dramatikk 
@@ -80,11 +81,11 @@ PagePeriod(
   p 
     | Gud står i sentrum i barokken, men kunsten er likevel dualistisk. Det vil seie at kunstnaren fokuserer på både mennesket (det verdslege) og Gud (det åndelege). Kunstnaren fokuserer altså både på dette livet og på livet etter døden. 
 
-  figure.col.col4.right-image
+  figure.col.col4.right-image.mt5
     img(src="./Barokk_Kjennetegn_ved_barokkstilen3.jpg" alt="Portrett av person med fiolin.  Måleri.")
     figcaption Antonio Vivaldi
 
-  figure.col.col4.right-image
+  figure.col.col4.right-image.mt5
     img(src="./Barokk_Kjennetegn_ved_barokkstilen4.jpg" alt="Mann med et ark i handa. Måleri.")
     figcaption Johan Sebastian Back
 
@@ -95,7 +96,7 @@ PagePeriod(
 
   h3 Litteraturen 
 
-  figure.col.col6.left-image
+  figure.col.col6.left-image.mt5
     img(src="./Barokk_Litteraturen.jpg" alt="Tenkande kvinne som skriv i ei notatbok. Illustrasjon.")
     figcaption Tittelstikket på førsteutgåva av boka Taare-Offer av Dorothe Engelbretsdotter
 
@@ -149,7 +150,9 @@ PagePeriod(
   p
     | Bergen og Vestlandet har hatt ein sterk språkleg påverknad frå den hanseatiske (tysk-nederlandske) handelsverksemda som har gått føre seg heilt sidan 1200-talet. Denne påverknaden held fram og fargar både talemålet og skriftspråket i Bergen. 
 
-  figure.col.col6.right-image
+
+  h5 Bibelen på dansk 
+  figure.col.col6.right-image.mt5
     img(src="./Bibel-Chr._III_-_1.jpg" alt="Forsida til eldre utgåve av Bibelen. Illustrasjon.")
     figcaption Tittelbladet på bibelen til Kristian 3. frå 1550
       br
@@ -157,8 +160,6 @@ PagePeriod(
       NdlaAudio(
         source="media/periods/barokk/tekst2_Christian_III_bibel_juleevangeliet.mp3"
       )
-
-  h5 Bibelen på dansk 
   p
     | Det kyrkjelege språket er dansk fordi det blei brukt av danske prestar. Både bibel, katekisme og salmebok er prenta på dansk. Bibelen kjem ut på dansk i 1550, og det er denne omsetjinga som blir brukt her i landet heilt fram til 1904. 
 
@@ -184,7 +185,7 @@ PagePeriod(
   h3 Biletkunst og arkitektur
 
   figure
-    img(src="./Barokk_Bildekunst_og_arkitektur1.jpg" alt="Innsida av ei kjerke med utsmykkingar i marmorgolvet og i taket. Foto.")
+    img(src="./Barokk_Bildekunst_og_arkitektur1.jpg" alt="Innsida av ei kjerke med utsmykkingar i marmorgolvet og i taket. Foto." style="min-height: 305px; object-fit: cover;")
     figcaption Berninis baldakin og kor i Peterskyrkja
 
   div.col.col6.display-ib.p5
@@ -194,7 +195,7 @@ PagePeriod(
 
   div.col.col6.display-ib.p5
     figure
-      img(src="./Barokk_Bildekunst_og_arkitektur3.jpg" alt="Skulptur av bøygd hovud med krøllete hår. Foto.")
+      img(src="./Barokk_Bildekunst_og_arkitektur3.jpg" alt="Skulptur av bøygd hovud med krøllete hår. Foto." style="min-height: 305px; object-fit: cover;")
       figcaption Detalj frå skulpturen ”Den heilage Teresas ekstase” av Giovanni Lorenzo Bernini
 
 </template>

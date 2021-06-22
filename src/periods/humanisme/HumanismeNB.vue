@@ -7,7 +7,7 @@ PagePeriod(
 
   h3 Tida og samfunnsforholdene 
 
-  figure.col.col6.left-image
+  figure.col.col6.left-image.mt5
     img(src="./Humanisme_Tida_og_samfunnsforholdene1.jpg" alt="Stor bokstav med bilde av ridder med skjold og visir som står mellom to personer. Illustrasjon.")
     figcaption Prest, ridder og bonde, de bærende stendene i det føydale samfunnet
 
@@ -20,7 +20,7 @@ PagePeriod(
     | Middelaldersamfunnet er delt opp i klart atskilte lag eller stender: Øverst står presteskapet (de som ber), så kommer adelen (de som slåss) og til slutt folket (de som arbeider). Standen avgjør rang, rettigheter og plikter. Eiendom og stand går i arv, og det er ikke lett å komme seg opp og fram i samfunnet, enda om en gjerne vil.
 
   h5 Presteskapet og adelen har stor makt
-  figure.col.col6.right-image
+  figure.col.col6.right-image.mt20
     img(src="./Humanisme_Tida-og-samfunnsforholdene2.jpg" alt="Et stirrende gjenferd kryper opp ei tretrapp. Illustrasjon.")
     figcaption ”Pesten i trappa”. Tegning av Theodor Kittelsen
 
@@ -49,9 +49,9 @@ PagePeriod(
     | Etter svartedauden ligger det meste nede her i landet, men i Italia starter en ny utvikling. Der blomstrer handelen opp, og kjøpmennene kommer i kontakt med andre land og kulturer. Handelsborgerne i byene blir en viktig samfunnsgruppe, og jordeierne mister dermed noe avmakta. Med økt handel får også pengeøkonomien etter hvert større plass.
 
 
-  img.col.col6.mt5.right-image(src="./Humanisme_Tida-og-samfunnsforholdene3.jpg" alt="Fire personer studerer et stort ark inne i et trykkeri. Maleri.")
   h5 Boktrykkerkunsten – en ny tid
-  p.mt0
+  img.col.col6.mt20.right-image(src="./Humanisme_Tida-og-samfunnsforholdene3.jpg" alt="Fire personer studerer et stort ark inne i et trykkeri. Maleri.")
+  p
     | Johann Gutenberg (1397–1468) regnes som opphavsmann til boktrykkerkunsten. Han konstruerte en presse og blybokstaver til å trykke med. Den første boka til Gutenberg var en bibel som kom ut på midten av 1400-tallet. Den første ukeavisa ble trykt og utgitt i Strasbourg i 1609. Det første trykkeriet i Norge ble åpnet i 1643. 
 
   h5 Dante Alighieri (1265–1321) 
@@ -73,9 +73,10 @@ PagePeriod(
     | Det oppstod også en sterk interesse for gresk og romersk språk og litteratur, og dessuten for historie og filosofi. Denne delen av renessansen kalles humanisme. Humanismen hadde også sitt utspring i Italia på 1300-tallet. Nord for Alpene fikk ikke humanismen gjennomslag før omkring år 1500. En framstående representant for humanismen var Leonardo da Vinci (1452–1519). Han var både vitenskapsmann og kunstner.
 
   div.mb60
-    figure.col.col4.left-image
+    figure.col.col4.left-image.mt5
       img(src="./Humanisme_Tanker_i_tida2.jpg" alt="Mann med langt hår og jakke som vinker. Maleri.")
       figcaption Copernicus med det nye bildet av universet, maleri av Jan Matejko
+    h5.mt20 Et nytt menneskesyn
     p
       | Synet på mennesket endret seg. Gjennom hele middelalderen orienterte menneskene seg mot Gud og livet etter døden. Med renessansen kom mennesket selv og det jordiske livet i fokus. 
 
@@ -90,7 +91,7 @@ PagePeriod(
   h5 Reformasjonen. Avlatshandelen blir truet 
   p
     | Kirken var en rik institusjon som i hele middelalderen bare økte rikdommen gjennom gaver og skatter. Avlatshandelen var en viktig inntektskilde. Avlat gikk ut på at folk kunne kjøpe seg fri fra synd. Dersom en betalte en viss sum til en munk eller en prest, kunne vedkommende på Guds vegne tilgi all synd. 
-  figure.col.col4.right-image.mt20
+  figure.col.col4.right-image.mt5
     img(src="./Humanisme_Tanker_i_tida3.jpg" alt="Halvnært portrett av mann i sort tøy og hatt. Maleri.")
     figcaption Martin Luther malt av Lucas Cranach i 1529
 

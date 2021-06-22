@@ -138,6 +138,8 @@ PagePeriod(
 
   p <strong>Kolbein Falkeid</strong> (1933– ) debuterte i 1962. Falkeid er kjend for å skrive ein kombinasjon av eksistensiell sentrallyrikk og kvardagspoesi, og han er ein folkekjær og mykje lesen poet. Samarbeidet med gruppa Vamp har òg ført til at tekstane hans er formidla til mange. 
 
+  NrkVideo(id="3284")
+
   p Ein lyrikar som vanskeleg lèt seg plassere innanfor ei retning, er <a href="https://www.nrk.no/kultur/georg-johannesen-om-kassandra-1.6849754" target="_blank"><strong>Georg Johannesen</strong></a> (1931–2005). Han debuterte i slutten av 1950-åra, men var med på å prege norsk litteratur og norsk litterær debatt i fleire tiår. Som politisk radikalar engasjerte han seg sterkt gjennom både dikt, essay, romanar og sakprosatekstar – ofte med eit kritisk blikk på Noreg og nordmenn.
 
   h5 Kjøpt: ja – lesen: tja 
@@ -236,6 +238,8 @@ PagePeriod(
       img(src="./Postmodernisme_Litteraturen21.jpg" alt="Portrett av mann i sorte klede utendørs. Foto.")
       figcaption Lars Klevstrand
 
+  NrkVideo(id="74741")
+
   p Dei norske visesongarane henta inspirasjon frå USA og andre engelsktalande land. Framståande artistar som <strong>Bob Dylan</strong> (1941– ), <strong>Joni Mitchell</strong> (1943– ) og <strong>Neil Young</strong> (1945– ) påverka ein heil generasjon gjennom songane sine. 
 
   p Den politiske kampen i 1970-åra var også nasjonal i sin karakter. Kampen mot EEC, dagens EU, førte til ei interesse for bygda og det som var særmerkt norsk. Dette syner seg i at folkeliv over heile landet vart brukt som motiv i tekstar som gjerne var skrivne på dialekt. 
@@ -249,12 +253,16 @@ PagePeriod(
 
   p <strong>Lars Saabye Christensen</strong> (1953– ) er ein av dei forfattarane som har selt mest i nyare tid. Frå 1980-åra har Saabye Christensen lykkast i å skrive kritikarrost litteratur for den breie massen. Romanar som Beatles (1984), Herman (1988) og Halvbroren (2001) har nesten ikonisk status for generasjonen som var ungdom i 60-åra. Det er ofte ein outsiderkarakter vi følgjer i romanane – ein karakter som blir skildra med varme og humor. 
 
+  .clear 
+  .mt20
   h5 Rus, vald og psykiatri 
   figure.col.col4.right-image
     img(src="./Postmodernisme_Litteraturen23.jpg" alt="Portrett av langhåra mann med briller. Foto.")
     figcaption Ingvar Ambjørnsen
 
   p <strong>Ingvar Ambjørnsen</strong> (1956– ) er ein annan forfattar som har skrive om outsiderar, og som tradisjonelt har hatt ein sterk posisjon i skulen. Romanen Hvite niggere (1986) er forteljinga om nokre kameratar som blir dregne meir og meir inn i eit rusmiljø. Tittelen siktar til at hovudpersonane oppfattar seg sjølve som utstøytte individ i samfunnet. Ambjørnsen er òg svært kritisk til tilbodet som psykiatriske pasientar får i Noreg, og gjennom bøkene sine om Elling skildrar han varmt og menneskeleg livet til ein psykiatrisk pasient. 
+
+  NrkVideo(id="3244")
 
   h5 Lyrikken på 1980-talet 
   p I 1980-åra debuterer <strong>Øyvind Berg</strong> (1959– ), <strong>Rune Christiansen</strong> (1963– ) og <strong>Gro Dahle</strong> (1962– ). Samfunnsengasjementet blir tona ned eller endrar karakter både hos nye og etablerte forfattarar, og det opnar rom for meir sentrallyriske motiv.
@@ -345,6 +353,10 @@ PagePeriod(
       img(src="./Postmodernisme_Litteraturen39.jpg" alt="Portrett av smilande kvinne med langt mellomblondt hår. Foto.")
       figcaption Helene Uri
 
+  NrkVideo(id="3412")
+
+  NrkVideo(id="3246")
+
   figure.col.col4.left-image
     img(src="./Postmodernisme_Litteraturen40.jpg" alt="Mann med ryggsekk sit ved sidan av ei kvinne under eit laken på scenen. Foto.")
     figcaption Gard B. Eidsvold og Helle Haugen i ei scene frå Centralteatret si oppsetjing av teaterstykket «Tatt av kvinnen», som byggjer på romanen til Erlend Loe. Foto: Erlend Aas / Scanpix
@@ -366,6 +378,8 @@ PagePeriod(
     figcaption Karl Ove Knausgård. Foto: Tore Meek / Scanpix
 
   p Desse spørsmåla har vorte særleg aktuelle etter dommen mot <strong>Åsne Seierstad</strong> (1970– ) i 2010. Seierstad vart dømd til å betale Shah Mohammad Rais erstatning for å ha basert romanen Bokhandleren i Kabul (2002) på livet til Rais og hans familie. Også det veldige seksbindsverket til <strong>Karl Ove Knausgård</strong> (1968– ), Min Kamp (2009–2011), synleggjer etiske dilemma ved å skrive så tett opp til eige liv og røynsle: Kva skjer når ekskoner, nære familiemedlemmer og ein avdød far blir romankarakterar? 
+
+  NrkVideo.mt20(id="5980")
 
   h3 Språket i perioden
 
@@ -480,13 +494,15 @@ import ImageTextBlock from "@/components/ImageTextBlock";
 import PagePeriod from "@/components/PagePeriod";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
-  name: "Book",
+  name: "PostmodernismeNN",
   components: {
     ImageTextBlock,
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PagePeriod,
   },
 };

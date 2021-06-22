@@ -21,7 +21,7 @@ PagePeriod(
 
   div.flex.flex-wrap
     div.col.col4
-      figure.figure-left
+      figure.figure-left.mt5
         img(src="./Opplysningstid_Tida-og-samfunnsforholdene2.jpg" alt="Portrettbilete av mann med langt hår. Måleri.")
         figcaption Isaac Newton
     div.col.col8
@@ -31,7 +31,7 @@ PagePeriod(
 
   h3 Tankar i tida
 
-  figure.col.col5.right-image
+  figure.col.col5.right-image.mt5
     img(src="./Opplysningstid_Tanker_i_tida.jpg" alt="Kvinner med blomekransar i håret sit i grupper. Lysstrålar uthevar den øvste kvinna. Illustrasjon.")
     figcaption Detalj frå omslaget til Encyclopédie (1772), teikna av Charles-Nicolas Cochin og gravert av Bonaventure-Louis Prévost. Biletet er fylt med symbolisme: Figuren i midten er sanninga, omgitt av eit skinande lys (det sentrale symbolet i opplysningstida). Figurane til høgre er fornuft og filosofi, som riv ned sløret som dekkjer sanninga.
 
@@ -143,8 +143,9 @@ PagePeriod(
     | Det tysk-latinske stilmønsteret er eit ideal. Dette er ei uttrykksform med lange ytringar, mange leddsetningar og innskot. Skrivemåten har seinare fått nemninga kansellistil.
 
   p Eksempel på kansellistil:
-    br 
-    a(href="media/periods/opplysning/Egede.jpg" target="_blank") Hans Egede: ”Grønlands Naturell Historie” (1741)
+    br
+    img.col.col12(src="./Egede.jpg" alt="") 
+    //a(href="media/periods/opplysning/Egede.jpg" target="_blank") Hans Egede: ”Grønlands Naturell Historie” (1741)
     NdlaAudio(
       source="media/periods/opplysning/tekst5_Egede_gronlands_naturelle_historie.mp3"
     )
@@ -164,7 +165,8 @@ PagePeriod(
 
   p Eksempel på språket i opplysningslitteraturen: 
     br
-    a(href="media/periods/opplysning/Pontoppidan.jpg" target="_blank") Pontoppidan: «Geografisk Oplysning til Kartet over sydlige Norge» (1785) 
+    img.col.col12(src="./Pontoppidan.jpg" alt="")
+    //a(href="media/periods/opplysning/Pontoppidan.jpg" target="_blank") Pontoppidan: «Geografisk Oplysning til Kartet over sydlige Norge» (1785) 
     NdlaAudio(
       source="media/periods/opplysning/tekst6_Pontoppidan_Geografisk_beskivelse.mp3"
     )

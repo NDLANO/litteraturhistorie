@@ -29,10 +29,10 @@ PagePeriod(
   p
     | Allereie midt på 1700-talet hevdar den franske filosofen Rousseau (1712–1778) at sivilisasjonen øydelegg menneska. Verken vitskap eller kunst har klart å skape eit betre samfunn. Vi må attende til naturen. Tankane hans er først omstridde, men dei får gjennomslag etter kvart. Frå slutten av 1700-talet får vi ein motreaksjon mot opplysningstidas fornuftstru, og mot det klassisistiske, regelstyrte stilidealet.
 
-  NdlaAudio(
+  //NdlaAudio(
     source="media/periods/romantikk/romantikken_rocketekster_Morten_Moi_nrk_lesekunst.mp3"
     description="Forlagsredaktør Morten Moi har arbeidd med samanhengen mellom romantisk dikting og rockemusikk. Begge byggjer på opprør, på folkeleg veremåte (”romance” tyder folkeleg) og på bruk av sterke metaforar. Forfattarar som Goethe og Wergeland hadde i sine unge dagar status som ikoniske figurar i samtida si, ikkje ulikt popstjernene i dag."
-  )    
+  | )    
 
   .mt40
   h5 Ein ny tenkjemåte
@@ -111,9 +111,9 @@ PagePeriod(
   p
     | Eit stev er eit kort dikt som kan syngjast. Stevet formidlar gjerne ein livsvisdom eller ei stemning, men det kan òg skildre kjærleik, natur eller ei spesiell hending. Somme stev har humoristisk eller erotisk innhald. 
 
-  NdlaAudio(
+  //NdlaAudio(
     source="media/periods/romantikk/03_gammelstev.mp3"
-  )
+    )
 
   .mt20
   figure.col.col6.left-image.mt10
@@ -153,17 +153,14 @@ PagePeriod(
 
   NdlaAudio(
     source="media/periods/romantikk/tekst12_wergeland_sprogreformasjon.mp3"
-    description="Henrik Wergeland: «Om norsk Sprogreformation» (1832)."
-  )
-
+    )
+  a(href="media/periods/romantikk/sprogreform.html" target="_blank") Henrik Wergeland: ”Om norsk Sprogreformation” (1832).
+  
   .mt40
   h5 Eit norsk universitet
   p
     | Unionsoppløysinga og opninga av Det Kongelige Frederiks Universitet (1811) aktualiserer spørsmålet om eit norsk skriftspråk. Ludvig Holberg og Nordahl Brun sine tankar om eit norsk akademi får endeleg gjennomslag. (Sjå artikkel om opplysningstida og Norske Selskab.) Endeleg kan norsk ungdom ta høgare utdanning i sitt eige land.
 
-  p  
-    a(href="media/periods/romantikk/sprogreform.html" target="_blank") Henrik Wergeland: ”Om norsk Sprogreformation” (1832).
-    
   h5 Folkediktinga og språket
   p
     | Spørsmålet om å bruke norske ord og norsk syntaks blir aktuelt når ein begynner å skrive ned den norske folkediktinga. Folkeeventyr, folkeviser og segner blir fortalde på dialekt, og samlarane synest det er naturleg å ta omsyn til dette når dei skriv ned tekstane.

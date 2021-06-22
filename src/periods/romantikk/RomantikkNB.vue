@@ -32,10 +32,10 @@ PagePeriod(
   p
     | Allerede på midten av 1700-tallet hevdet den franske filosofen Rousseau (1712–1778) at sivilisasjonen ødelegger menneskene. Verken vitenskap eller kunst har klart å skape et bedre samfunn. Vi må tilbake til naturen. Tankene hans var først omstridt, men etter hvert fikk de gjennomslag. Fra slutten av 1700-tallet får vi en motreaksjon mot opplysningstidas fornuftstro, og mot det klassisistiske, regelstyrte stilidealet.
 
-  NdlaAudio(
+  //NdlaAudio(
     source="media/periods/romantikk/romantikken_rocketekster_Morten_Moi_nrk_lesekunst.mp3"
     description="Forlagsredaktør Morten Moi har arbeidet med sammenhengen mellom romantisk diktning og rockemusikk. Begge bygger på opprør, på folkelighet og på bruk av sterke metaforer. Forfattere som Goethe og Wergeland hadde i sine unge dager status som ikoniske figurer i samtida, ikke ulikt popstjernene i dag."
-  )    
+    )    
 
   .mt40
   h5 En ny tenkemåte
@@ -111,9 +111,9 @@ PagePeriod(
   p
     | Et stev er et kort dikt som kan synges. Stevet formidler gjerne en livsvisdom eller en stemning, men det kan også skildre kjærlighet, natur eller en spesiell hending. Flere stev har humoristisk eller erotisk innhold. 
 
-  NdlaAudio(
+  //NdlaAudio(
     source="media/periods/romantikk/03_gammelstev.mp3"
-  )
+    )
 
   .mt20
 

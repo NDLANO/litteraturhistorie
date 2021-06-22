@@ -6,11 +6,12 @@ PagePeriod(
   // Content here
   h3 Tida og samfunnsforholdene 
 
-  h5 De harde trettiårene 
-
-  figure.col.col8.right-image.mt20
+  figure.col.col8.right-image
     img(src="./Modernisme_Tida_og_samfunnsforholdene1.jpg" alt="En gruppe menn studerer ei okse. Foto.")
     figcaption Ei ku går under hammeren på en tvangsauksjon på Skullerud gård i 1934. Foto: NTB Scanpix
+
+  h5 De harde trettiårene 
+
     
   p
     | I mellomkrigstida (1918–1939) var det lite igjen av den framtidsoptimismen som hadde preget folk rundt århundreskiftet. Perioden var merket av høy arbeidsledighet, stadige regjeringsskifter og ustabile valutakurser.  
@@ -76,6 +77,11 @@ PagePeriod(
   p
     | Etter første verdenskrig opplevde det tyske folk arbeidsledighet og nød, og lengtet etter en ny styreform og statsleder. NSDAP utnyttet denne lengselen gjennom en sterk propagandaføring før valget i 1933. Tyskland trengte en ny og sterk leder, påstod de. Nasjonalsosialistene fikk regjeringsmakta i Tyskland i 1933. Ideologiens nasjonalistiske og antisemittiske tanker skulle vise seg å få fatale konsekvenser under andre verdenskrig. 
 
+  .clear
+  
+  NrkVideo.mt20(id="75954")
+
+  .mt20
   figure.col.col4.left-image.mt5
     img(src="./Modernisme_Tanker_i_tida3.jpg" alt="Mann med bart, uniform og armbind med nazitegn ved siden av uniformert mann som gjør nazistisk hilsen. Foto.")
     figcaption Hitler og Mussolini i München i 1937. Foto: Scanpix
@@ -86,7 +92,9 @@ PagePeriod(
   p
     | Mussolini kom til makta i Italia i 1922, og fra 1940 deltok Italia under hans styre på Tysklands side i andre verdenskrig. Som nazistene i Tyskland kom fascistene til makta i et svakt og økonomisk tappet land, preget av indre uro og splittelse. Fascistene gav makthaverne skylda, og de fikk med seg et italiensk folk merket av nederlag og nød. 
 
-  h5 Eksistensialismen 
+  NrkVideo(id="75953")
+  
+  h5.mt20 Eksistensialismen 
   p
     | Eksistensialismen er en filosofisk retning som fikk sterk innflytelse på filosofi, litteratur og psykologi på midten av 1900-tallet. På mange måter preger den fortsatt vår måte å forstå oss selv og forholdet til omverdenen på.  
 
@@ -191,6 +199,8 @@ PagePeriod(
     h5 Aksel Sandemose 
     p
       | En forfatter som sterkt bidro til å fornye den norske romanen i modernistisk retning, var danskfødte Aksel Sandemose (1899–1965). Han var en radikal rebell og tilhørte de kulturradikale kretsene i sin samtid. Sandemose eksperimenterte med fortelleteknikk og komposisjon, og i ettertid er han blitt stående som en av de første banebrytende modernistene i norsk litteraturhistorie.  
+      br
+      a(href='https://no.wikipedia.org/wiki/Janteloven' target='_blank') Janteloven
 
   ImageTextBlock(
     :image="require(`./Modernisme_Episke_forfattere4.jpg`)"
@@ -209,6 +219,7 @@ PagePeriod(
       | Den norske forfatteren som er mest kjent for å tematisere og utforske den menneskelige identiteten, selve jeg-følelsen, er Johan Borgen (1902–1979). I likhet med Vesaas skrev også Borgen både modernistiske og realistiske tekster. Forfatterskapet hans kan i stor grad leses som en undersøkelse av spørsmålet: Hva er et jeg? Dette er et typisk modernistisk spørsmål, og romanen med den illustrerende tittelen Jeg (1959) er Borgens mest modernistiske tekst. Her spaltes jeget i to, og den ytre realismen i teksten forsvinner.  
     p
       | I hovedverket til Borgen, trilogien om Lillelord (1955–1957), blir identitetens problem behandlet på en mer realistisk måte. Hovedkarakteren Wilfred Sagen slites mellom ulike sosiale roller og finner aldri en trygg identitet bak noen av dem – en typisk eksistensialistisk problemstilling.  
+  NrkVideo(id="3914")
 
   ImageTextBlock(
     :image="require(`./Modernisme_Episke_forfattere6.jpg`)"
@@ -227,6 +238,7 @@ PagePeriod(
       | Den etterkrigsforfatteren som er mest kjent for å bryte tabuer og utfordre samtidas normer, er Agnar Mykle (1915–1994). Som Nedreaas var han en ypperlig novellist og romanforfatter, og en kulturradikaler som gjorde opprør mot undertrykkende og livshemmende verdier. I de to romanene Lasso rundt fru Luna (1954) og Sangen om den røde rubin (1956) møter vi den unge mannen Ask Burlefot og følger utviklingen hans.  
     p
       | De to bøkene inneholder også erotiske skildringer som virket såpass provoserende i 1950-årene at forfatter og forlag ble anmeldt. Tiltalen handlet både om usømmelige beskrivelser og om utlevering av lett gjenkjennelige personer. Mykle-saken skapte stor debatt, og saken gikk helt til Høyesterett. I dag kan vi se at Mykles forfatterskap varslet den seksuelle frigjøringen som skulle komme i 1960- og 1970-årene.  
+  NrkVideo(id="3220")
 
   h3 Lyrikken i perioden 1930–1960 
 
@@ -256,6 +268,7 @@ PagePeriod(
     h5 Arnulf Øverland 
     p
       | Arnulf Øverland (1889–1968) var en svært framtredende samfunns- og kulturpersonlighet. Som leder av Riksmålsforbundet engasjerte han seg sterkt i norsk språkdebatt, under krigen var han aktiv motstandsmann, og han var sterkt kritisk til kirken og kristendommen. I tillegg var han en engasjert talsmann for den tradisjonelle lyrikkens formspråk. Øverlands egne dikt brakte det lyriske språket nærmere hverdagsspråket og prosaen. Ordvalget er ofte enkelt og hverdagslig, og han er kjent for en svært poengtert skrivemåte. 
+  NrkVideo.mb20(id="4621")
 
   ImageTextBlock(
     :image="require(`./Modernisme_Norske_lyrikere2.jpg`)"
@@ -294,6 +307,9 @@ PagePeriod(
     figure.m1rem
       img(src="./Modernisme_Norske_lyrikere8.jpg" alt="Sittende mann på et kontor. Foto.")
       figcaption Paal Brekke. Foto: Aktuell / Scanpix
+
+  NrkVideo(id="4375")
+
   p
     | En av de mest kjente modernistene i 1950-årene var Paal Brekke (1923–1993). Brekke var inspirert av europeisk modernisme, og særlig så han mot Finland og Sverige. For Brekke var et modernistisk uttrykk det eneste som kunne beskrive tilværelsen etter krigen. Tradisjonell strofeinndeling, rim og fast rytme kunne ikke brukes til dette formålet. Temaene han tar opp i diktene sine, er typisk modernistiske: identitet, en oppstykket virkelighet og manglende kommunikasjon mellom mennesker. 
 
@@ -318,8 +334,13 @@ PagePeriod(
     | I 1933 fikk Norsk rikskringkasting (NRK) monopol på å drive radiosendinger, og for første gang kunne hele landet samle seg rundt et felles medietilbud. Radioen var for mange den viktigste formidlingskanalen for nyheter og underholdning i tida fram til 1960. I tillegg til nyheter og underholdning var folkeopplysning en svært viktig del av radiovirksomheten.  
   p
     | Nazistene skjønte tidlig betydningen av å kontrollere massemediene – alt i 1941 ble det forbudt å ha radio i Norge. Bare folk med tilknytning til det nazistiske regimet fikk beholde radioen, og bare tyskvennlige redaksjoner fikk lov til å fortsette å kringkaste nyheter og gi ut aviser. De som brøt regler og retningslinjer, risikerte å bli arrestert – i verste fall sendt til en av nazistenes konsentrasjonsleirer. Likevel tok flere sjansen på å få spredd informasjon – illegale aviser florerte, og folk samlet seg rundt skjulte radioer for å høre ”stemmen fra London”. Regjering og konge stod bak flere radiosendinger fra den britiske hovedstaden, og de både informerte om motstandskampen og oppmuntret til videre innsats.  
+
+  NrkVideo(id="3283")
+
   p
     | Filmavisen viste nyheter fra den siste uka og gikk som forfilm på norske kinoer. Allerede fra slutten av 1920-årene var det blitt laget lokale nyhetsvarianter av Filmavisen, men i 1940 overtok tyske myndigheter denne produksjonen. Nå ble det laget en nasjonal versjon som den tyske okkupasjonsmakta brukte i propagandaøyemed. Etter krigen bygde Filmavisen seg opp til å bli en svært viktig kanal for nyheter og folkeopplysning. 
+
+  NrkVideo(id="60241")
 
   h3 Filmindustrien vokser fram 
 
@@ -418,6 +439,7 @@ import ImageTextBlock from "@/components/ImageTextBlock";
 import PagePeriod from "@/components/PagePeriod";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
@@ -425,6 +447,7 @@ export default {
     ImageTextBlock,
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PagePeriod,
   },
 };

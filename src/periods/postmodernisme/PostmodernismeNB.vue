@@ -147,6 +147,8 @@ PagePeriod(
     strong Kolbein Falkeid 
     | (1933– ) debuterte i 1962. Falkeid er kjent for å skrive en kombinasjon av sentrallyrikk og hverdagspoesi, og han er en folkekjær og mye lest poet. Samarbeidet med gruppa Vamp har også ført til at tekstene hans er formidlet til mange. 
 
+  NrkVideo(id="3284")
+
   p En lyriker som vanskelig lar seg plassere innenfor en retning, er 
     a(href="https://www.nrk.no/kultur/georg-johannesen-om-kassandra-1.6849754" target="_blank")
       strong Georg Johannesen 
@@ -277,6 +279,8 @@ PagePeriod(
       img(src="./Postmodernisme_Litteraturen21.jpg" alt="Portrett av mann i sorte klær utendørs. Foto.")
       figcaption Lars Klevstrand
 
+  NrkVideo(id="74741")
+  
   p De norske visesangerne hentet inspirasjon fra USA og andre engelsktalende land. Innflytelsesrike artister som 
     strong Bob Dylan 
     | (1941– ), 
@@ -298,6 +302,9 @@ PagePeriod(
     strong Lars Saabye Christensen
     | (1953– ) er en av de forfatterne som har solgt mest i nyere tid. Fra 1980-årene har Saabye Christensen lyktes i å skrive kritikerrost litteratur for den brede massen. Romaner som Beatles (1984), Herman (1988) og Halvbroren (2001) har nærmest ikonisk status for generasjonen som var ungdom i 60-årene. Det er ofte en outsiderkarakter vi følger i romanene – en karakter som skildres med varme og humor.     
 
+  .clear 
+  .mt20
+
   h5 Rus, vold og psykiatri 
   figure.col.col4.right-image
     img(src="./Postmodernisme_Litteraturen23.jpg" alt="Portrett av langhåra mann med briller. Foto.")
@@ -305,6 +312,8 @@ PagePeriod(
   p       
     strong Ingvar Ambjørnsen
     | (1956– ) er en annen forfatter som har skrevet om outsidere, og som tradisjonelt har hatt en sterk posisjon i skolen. Romanen Hvite niggere (1986) er fortellingen om noen kamerater som trekkes mer og mer inn i et rusmiljø. Tittelen henspiller på at hovedpersonene ser på seg selv som utstøtte individer i samfunnet. Ambjørnsen er også svært kritisk til tilbudet som psykiatriske pasienter får i Norge, og gjennom bøkene sine om Elling skildrer han varmt og menneskelig livet til en psykiatrisk pasient.
+
+  NrkVideo(id="3244")
 
   h5 Lyrikken i 1980-årene
   p I løpet av 1980-årene debuterer lyrikere som 
@@ -416,6 +425,9 @@ PagePeriod(
       img(src="./Postmodernisme_Litteraturen39.jpg" alt="Portrett av smilende kvinne med langt mellomblondt hår. Foto.")
       figcaption Helene Uri
 
+  NrkVideo(id="3412")
+
+  NrkVideo(id="3246")
 
   figure.col.col4.left-image
     img(src="./Postmodernisme_Litteraturen40.jpg" alt="Mann med ryggsekk sitter ved siden av ei kvinne under et laken på scenen. Foto.")
@@ -448,6 +460,8 @@ PagePeriod(
     | (1970– ) i 2010. Seierstad ble dømt til å betale Shah Mohammad Rais erstatning for å ha basert romanen Bokhandleren i Kabul (2002) på livet til Rais og hans familie. Også det enorme seksbindsverket til 
     strong Karl Ove Knausgård 
     | (1968– ), Min Kamp (2009–2011), synliggjør de etiske dilemmaene ved å skrive så tett opp til eget liv og erfaring: Hva skjer når ekskoner, nære familiemedlemmer og en avdød far blir romankarakterer?
+
+  NrkVideo.mt20(id="5980")
 
   h3 Språket i perioden
 
@@ -588,13 +602,15 @@ import ImageTextBlock from "@/components/ImageTextBlock";
 import PagePeriod from "@/components/PagePeriod";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
-  name: "Book",
+  name: "PostmodernismeNB",
   components: {
     ImageTextBlock,
     NdlaAudio,
     NdlaVideo,
+    NrkVideo,
     PagePeriod,
   },
 };

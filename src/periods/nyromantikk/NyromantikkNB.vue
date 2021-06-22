@@ -70,11 +70,11 @@ PagePeriod(
 
   h3 Nyromantikken og ”det ubevidste sjæleliv”
 
-  NdlaAudio(
-    source="media/periods/nyromantikk/Nyromantikken_det_ubeviste_sjeleliv_nrk.mp3"
-  )
+  //- NdlaAudio(
+  //-   source="media/periods/nyromantikk/Nyromantikken_det_ubeviste_sjeleliv_nrk.mp3"
+  //- )
 
-  .mt20
+  //- .mt20
 
 
   img.col.col7.right-image(src="./Nyromantikk_og_det_ubevisste_sjaeleliv.jpg" alt="To personer jobber i hagen som ligger ved et vann. Maleri.")
@@ -158,7 +158,9 @@ PagePeriod(
 
   img.col.col4.mt10.right-image(src="./Nyromantikk_Andre_kunstformer_Munch.jpg" alt="Portrett av mann med bart og hatt. Foto.")
   h5 Symbolisme 
-  p Edvard Munch (1863–1944) er den norske maleren som i ettertid er best kjent og verdsatt. Han var en representant for symbolismen i malerkunsten. Han ville synliggjøre sterke følelser og sjelelige kamper gjennom bildene sine og brukte derfor ofte kontraster, både i motiv og i farger. Kjærlighet, angst, død, smerte og ensomhet blir framstilt i enkle linjer i klare og sterke farger. Munch er ikke opptatt av å male pent, men å male sant. Og det sanneste en kunne male, var følelser og drivkrefter hos menneskene. Det mest kjente maleriet hans, ”Skrik” (1893), framstår som selve symbolet på den eksistensielle angsten hos det siviliserte mennesket. 
+  p 
+    a(href='https://www.munchmuseet.no/edvard-munch/' target='_blank') Edvard Munch
+    | &nbsp;(1863–1944) er den norske maleren som i ettertid er best kjent og verdsatt. Han var en representant for symbolismen i malerkunsten. Han ville synliggjøre sterke følelser og sjelelige kamper gjennom bildene sine og brukte derfor ofte kontraster, både i motiv og i farger. Kjærlighet, angst, død, smerte og ensomhet blir framstilt i enkle linjer i klare og sterke farger. Munch er ikke opptatt av å male pent, men å male sant. Og det sanneste en kunne male, var følelser og drivkrefter hos menneskene. Det mest kjente maleriet hans, ”Skrik” (1893), framstår som selve symbolet på den eksistensielle angsten hos det siviliserte mennesket. 
 
   h5 Modernismen i bildekunsten 
   p De modernistiske bildekunstnerne brydde seg ikke lenger om sentralperspektiv og fotografisk etterlikning av motivene. De eksperimenterte i stedet med farger, form og perspektiv. I tillegg hevdet de at kunsten ikke trengte noe formål eller budskap utenfor seg selv. Valget av motiv endret seg også. Kunstnerne samlet seg i storbyer – særlig Paris – og malte det moderne bylivet.
