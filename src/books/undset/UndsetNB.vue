@@ -105,7 +105,7 @@ PageBook
   p I vår tid opplever vi en kraftig sekularisering, det vil si en verdsliggjøring eller avkristning, som har satt spor etter seg både i menneskene og i samfunnet. Samtidig ser vi at flere og flere søker tilbake til de verdiene som kirken alltid har stått for.   
 
 
-  Medieinnhold: Beholde bilder. Ut med resten
+  //Medieinnhold: Beholde bilder. Ut med resten
 
 </template>
 
