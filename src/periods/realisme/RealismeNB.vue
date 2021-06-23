@@ -391,7 +391,7 @@ PagePeriod(
     img(src="./Realisme_Andre_kunstformer_Arkitektur.jpg" alt="Herskapelig trebygning med altaner i flere etasjer. Foto.")
     figcaption Kviknes Hotel i Balestrand er tegnet av Franz Wilhelm Schiertz i en blanding av sveitser- og dragestil.
   h5 Arkitektur
-  I arkitekturen stod drakestilen og sveitserstilen sterkt. Begge retningene hentet inspirasjon fra tradisjonelle norske formuttrykk, som utskårne ornamenter og listverk. Sveitserstilen kom opprinnelig fra Sveits og Tyskland, men ble tilpasset norske forhold. Sveitserstilen bidro til å sette tydelig preg på norske byer og bygder. Sentrale bygg som jernbanestasjoner, skysstasjoner og hotell ble ofte bygd i sveitserstil.
+  p I arkitekturen stod drakestilen og sveitserstilen sterkt. Begge retningene hentet inspirasjon fra tradisjonelle norske formuttrykk, som utskårne ornamenter og listverk. Sveitserstilen kom opprinnelig fra Sveits og Tyskland, men ble tilpasset norske forhold. Sveitserstilen bidro til å sette tydelig preg på norske byer og bygder. Sentrale bygg som jernbanestasjoner, skysstasjoner og hotell ble ofte bygd i sveitserstil.
 
   p Stavkirkene våre og norrøn mytologi la grunnlaget for drakestilen. Drakestilen er en videreføring av sveitserstilen, og den dukket opp mot slutten av århundret. Frognerseteren restaurant og Holmenkollen hotell er bygd i drakestil. 
 
