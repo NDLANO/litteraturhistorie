@@ -2,5 +2,6 @@
   - [Oppbygging og filestruktur](filestructure.md)
   - [Hvordan legge inn en ny bok](new_item.md)
   - [Komponenter](components.md)
+  - [Videoer/store filer](videoer.md)
   - Redigere innhold
     - [VS Code snippets](snippets.md)
