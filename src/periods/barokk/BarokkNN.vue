@@ -87,7 +87,7 @@ PagePeriod(
 
   figure.col.col4.right-image.mt5
     img(src="./Barokk_Kjennetegn_ved_barokkstilen4.jpg" alt="Mann med et ark i handa. Måleri.")
-    figcaption Johan Sebastian Back
+    figcaption Johan Sebastian Bach
 
   h5 Sterke kontrastar 
   p 
