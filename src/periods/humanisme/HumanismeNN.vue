@@ -15,14 +15,20 @@ PagePeriod(
   p
    | I mellomalderen er grunnsynet på livet strengt religiøst. Mennesket er lite samanlikna med Gud, og enkeltmennesket blir ikkje sett på som viktig i seg sjølv. 
 
+  .clear
+  NdlaVideo(
+    source="media/video/humanisme/dante_boccatio_lesekunst-003.mp4"
+    description="Dante Alighieri (1265–1321) er ein av dei første diktarane i mellomalderen som skriv på morsmålet i staden for latin. I ”Den guddommelege komedien” skildrar han si eiga (tenkte) reise gjennom helvete, skjærseld og til slutt paradiset. Samtidig flettar han inn tankar om både religion, filosofi, vitskap og politikk."
+    )
+
   h5 Standen avgjer kven du blir 
   p
    | Mellomaldersamfunnet er delt opp i klart åtskilte lag eller stender: Øvst står presteskapet (dei som ber), så kjem adelen (dei som slåst) og til sist folket (dei som arbeider). Standen avgjer rang, rettar og plikter. Eigedom og stand går i arv, og det er ikkje lett å komme seg opp og fram i samfunnet, enda om ein gjerne vil.
 
-  h5 Presteskapet og adelen har stor makt 
-  figure.col.col6.right-image.mt20
+  figure.col.col6.right-image
     img(src="./Humanisme_Tida-og-samfunnsforholdene2.jpg" alt="Eit stirrande gjenferd kryp opp ei tretrapp. Illustrasjon.")
     figcaption ”Pesten i trappa”. Teikning av Theodor Kittelsen  
+  h5 Presteskapet og adelen har stor makt 
   p
    | Det er store skilnader mellom fattige og rike. Rikdom er det same som å eige jord, og jordeigarane er få og mektige. I mange land er det adelen og kyrkja som eig det meste av jorda. I tillegg har presteskapet og adelen fleire særrettar.   
 
@@ -72,6 +78,10 @@ PagePeriod(
   p
     | Det veks også fram ei sterk interesse for gresk og romersk språk og litteratur, og for historie og filosofi. Denne delen av renessansen kallar vi humanisme. Også humanismen har sitt utspring i Italia på 1300-talet. Nord for Alpane får ikkje humanismen gjennomslag før omkring år 1500. Ein framståande representant for humanismen er Leonardo da Vinci (1452–1519). Han er både vitskapsmann og kunstnar. 
 
+  NdlaVideo(
+    source="media/periods/humanisme/Othello.mp4"
+    description="William Shakespeare: ”Othello”. Elevproduksjon laga av elevar ved Vågsbygd videregående skole. Regi: Ellen Kalvenes."
+  )  
   
   div.mb60
     figure.col.col4.left-image.mt5

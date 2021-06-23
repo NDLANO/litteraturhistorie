@@ -15,15 +15,21 @@ PagePeriod(
   p
     | I middelalderen er grunnsynet på livet strengt religiøst. Mennesket er lite i forhold til Gud, og enkeltmennesket blir ikke sett på som viktig i seg selv.
 
+  .clear
+  NdlaVideo(
+    source="media/video/humanisme/dante_boccatio_lesekunst-003.mp4"
+    description="Dante Alighieri (1265–1321) er en av de første dikterne i middelalderen som skriver på morsmålet i stedet for latin. I «Den guddommelige komedie» skildrer han sin egen (tenkte) reise gjennom helvete, skjærsild og til slutt paradiset. Samtidig fletter han inn tanker om både religion, filosofi, vitenskap og politikk."
+    )
+  
   h5 Standen avgjør hvem du blir 
   p
     | Middelaldersamfunnet er delt opp i klart atskilte lag eller stender: Øverst står presteskapet (de som ber), så kommer adelen (de som slåss) og til slutt folket (de som arbeider). Standen avgjør rang, rettigheter og plikter. Eiendom og stand går i arv, og det er ikke lett å komme seg opp og fram i samfunnet, enda om en gjerne vil.
 
-  h5 Presteskapet og adelen har stor makt
-  figure.col.col6.right-image.mt20
+  figure.col.col6.right-image
     img(src="./Humanisme_Tida-og-samfunnsforholdene2.jpg" alt="Et stirrende gjenferd kryper opp ei tretrapp. Illustrasjon.")
     figcaption ”Pesten i trappa”. Tegning av Theodor Kittelsen
 
+  h5 Presteskapet og adelen har stor makt
   p
     | Det er store forskjeller mellom fattig og rik. Rikdom er det samme som å eie jord, og jordeierne er få og mektige. I mange land er det adelen og kirken som eier det meste av jorda. I tillegg har presteskapet og adelen flere særretter.
 
@@ -71,6 +77,11 @@ PagePeriod(
   h5 Humanismen 
   p
     | Det oppstod også en sterk interesse for gresk og romersk språk og litteratur, og dessuten for historie og filosofi. Denne delen av renessansen kalles humanisme. Humanismen hadde også sitt utspring i Italia på 1300-tallet. Nord for Alpene fikk ikke humanismen gjennomslag før omkring år 1500. En framstående representant for humanismen var Leonardo da Vinci (1452–1519). Han var både vitenskapsmann og kunstner.
+  
+  NdlaVideo(
+    source="media/periods/humanisme/Othello.mp4"
+    description="William Shakespeare: ”Othello”. Elevproduksjon laga av elevar ved Vågsbygd videregående skole. Regi: Ellen Kalvenes."
+  )  
 
   div.mb60
     figure.col.col4.left-image.mt5

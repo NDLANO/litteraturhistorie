@@ -325,6 +325,8 @@ PagePeriod(
   // * Andre kunstformer
   h3 Andre kunstformer  
 
+  NdlaVideo(source="media/video/nyrealisme/Modernisme_innen_arkitekturen.mp4")
+
   h5 Bildekunst: eksperimentering og formbrudd 
   p
     | I begynnelsen av 1900-tallet skjedde det en nærmest eksplosiv utvikling innenfor kunsten. Det vokste fram ulike modernistiske kunstuttrykk som alle tok et oppgjør med de tradisjonelle kunstformene. Retninger som ekspresjonisme, kubisme, futurisme og dadaisme tok i bruk nye uttrykksformer for å skildre tida slik kunstnerne opplevde den.  

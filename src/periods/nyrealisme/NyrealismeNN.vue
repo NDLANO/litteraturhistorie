@@ -276,6 +276,8 @@ PagePeriod(
 
   h3 Andre kunstformer
 
+  NdlaVideo(source="media/video/nyrealisme/Modernisme_innen_arkitekturen.mp4")
+  
   h5 Biletkunst: eksperimentering og formbrot
   p I byrjinga av 1900-talet skjedde det ei nærast eksplosiv utvikling innanfor kunsten. Det voks fram ulike modernistiske kunstuttrykk som alle tok eit oppgjer med dei tradisjonelle kunstformene. Retningar som ekspresjonisme, kubisme, futurisme og dadaisme tok i bruk nye uttrykksformer for å skildre tida slik kunstnarane opplevde henne.
 
