@@ -19,7 +19,7 @@ PagePeriod(
 
   h5 Landnåmstid  
   p
-    | Mellom ca. 870 og 930 reiser mange nordmenn vestover til Island og bosetter seg der. Denne nybyggerperioden på Island kaller vi landnåmstida (nema land er norrønt og betyr å ta land). Det er særlig uår og jordmangel som skaper utferdstrang, men mange er også misfornøyde med kong Harald Hårfagre, som styrer Norge med hard hånd..  
+    | Mellom ca. 870 og 930 reiser mange nordmenn vestover til Island og bosetter seg der. Denne nybyggerperioden på Island kaller vi landnåmstida (nema land er norrønt og betyr å ta land). Det er særlig uår og jordmangel som skaper utferdstrang, men mange er også misfornøyde med kong Harald Hårfagre, som styrer Norge med hard hånd.
 
   h3 Gammelnorsk tid (ca. 1050–1350)
 
