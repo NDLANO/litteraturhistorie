@@ -1,5 +1,5 @@
 <template lang="pug">
-div
+div.mt20.mb20
   video(ref="player" v-if="playerType === 'local'" playsinline controls :data-poster="poster")
     source(:src="source")
     track(
