@@ -3,10 +3,12 @@ PageBook(:showAuthor="false")
   h3 Barndommen gjør inntog i bøkene
 
   figure.col.col6.right-image.mt5
-   img(src='./Billedbog_Barndommen_gjoer_inntog_i_boekene.jpg' alt='')
+   img(src='./Billedbog_Barndommen_gjoer_inntog_i_boekene.jpg' alt='Gutt i rød jakke står ved siden av ei jente i svart kjole. I bakgrunnen to yngre barn. Maleri')
    figcaption «Enfants de Char-les-Emmanuel III» (1731), malt av Maria Giovanni Clémenti. Slik ble barn i høyere samfunns-lag framstilt i første halvdel av 1700-tallet.
 
-  p En av de første norske forfatterne som skrev for barn, var Henrik Wergeland. I 1840 ga han ut boka Vinterblommer i Barnekammeret. Boka inneholdt sanger, dikt og eventyr. Wergelands tekster skilte seg ut fra tidligere bøker for barn fordi han prøver å se verden med barneøyne: 
+  p En av de første norske forfatterne som skrev for barn, var Henrik Wergeland. I 1840 ga han ut boka 
+    em Vinterblommer i Barnekammeret
+    | . Boka inneholdt sanger, dikt og eventyr. Wergelands tekster skilte seg ut fra tidligere bøker for barn fordi han prøver å se verden med barneøyne: 
 
   blockquote
     | Himlen er min Hætte. 
@@ -43,7 +45,11 @@ PageBook(:showAuthor="false")
   h3 De gode forbildene 
   p Også kvinner fra embetsstanden skrev fortellinger for barn. Noen barnebøker var illustrert, og hensikten med illustrasjonene var trolig å motivere barna til å lese. 
 
-  p Et eksempel på en slik tekst er barneboka Den kloge Spids. En Billedbog for Børn (1846). Boka er illustrert med i alt 16 bilder av hunden Spids. Noen av dem er fantasibilder der hunden har fått menneskelige egenskaper. Boka inneholder små versefortellinger om den vesle, men modige hunden Spids, som kan hamle opp med både ulver og røvere. Hver fortelling slutter med en oppsummering som tydelig viser at formålet med teksten er moralsk og religiøs oppdragelse: 
+  p Et eksempel på en slik tekst er barneboka 
+    em Den kloge Spids
+    | . 
+    em En Billedbog for Børn 
+    | (1846). Boka er illustrert med i alt 16 bilder av hunden Spids. Noen av dem er fantasibilder der hunden har fått menneskelige egenskaper. Boka inneholder små versefortellinger om den vesle, men modige hunden Spids, som kan hamle opp med både ulver og røvere. Hver fortelling slutter med en oppsummering som tydelig viser at formålet med teksten er moralsk og religiøs oppdragelse: 
 
   blockquote
     | Hvo andre frir av Nøden du, 
@@ -55,7 +61,11 @@ PageBook(:showAuthor="false")
     | men haab paa Frelse midt i Nøden 
 
 
-  p Innholdet er presentert som en samtale mellom den voksne og barnet. Denne typen litteratur kaller vi også guvernantelitteratur. Andre norske bøker i samme sjanger er Aftenerne paa Egelund (1852) av Hanna Winsnes og sangboka Kom skal  vi synge (1905) av Margrethe Munthe: 
+  p Innholdet er presentert som en samtale mellom den voksne og barnet. Denne typen litteratur kaller vi også guvernantelitteratur. Andre norske bøker i samme sjanger er 
+  em Aftenerne paa Egelund 
+  | (1852) av Hanna Winsnes og sangboka 
+  em Kom skal  vi synge 
+  | (1905) av Margrethe Munthe: 
 
   blockquote
     | Nei, nei gutt, 
@@ -71,22 +81,32 @@ PageBook(:showAuthor="false")
     | Det var ikke pent.
 
   h3 Fra illustrert tekst til bildebok 
-  p I den nasjonalromantiske perioden gjør eventyr, rim og regler fra den muntlige fortellertradisjonen inntog i barnelitteraturen. Asbjørnsen og Moe kaller den første eventyrsamlingen sin Norske Folke- og Børneeventyr (1840). Eventyrene har en muntlig form, og helt fram til våre dager har de vært mye lest og fortalt for barn. 
+  p I den nasjonalromantiske perioden gjør eventyr, rim og regler fra den muntlige fortellertradisjonen inntog i barnelitteraturen. Asbjørnsen og Moe kaller den første eventyrsamlingen sin 
+    em Norske Folke- og Børneeventyr 
+    | (1840). Eventyrene har en muntlig form, og helt fram til våre dager har de vært mye lest og fortalt for barn. 
 
-  img.col.col5.left-image.mt5(src='./Billedbog_Fra_illustrert_tekst_til_bildebok.jpg' alt='')  
-  p For de fleste av oss er Theodor Kittelsens illustrasjoner av de norske folkeeventyrene uløselig knyttet til Asbjørnsen og Moes eventyr, selv om disse illustrasjonene først kom ved århundreskiftet. Det var Kittelsen som skapte bildet av det norske trollet, slik de fleste av oss tenker oss det i dag. I dyretegningene hans har dyra menneskelige egenskaper. Her ser vi kimen til seinere norske tegneserier som Smørbukk og Tuss og troll. 
+  img.col.col5.left-image.mt5(src='./Billedbog_Fra_illustrert_tekst_til_bildebok.jpg' alt='En bjørn riser en mann. Illustrasjon')  
+  p For de fleste av oss er Theodor Kittelsens illustrasjoner av de norske folkeeventyrene uløselig knyttet til Asbjørnsen og Moes eventyr, selv om disse illustrasjonene først kom ved århundreskiftet. Det var Kittelsen som skapte bildet av det norske trollet, slik de fleste av oss tenker oss det i dag. I dyretegningene hans har dyra menneskelige egenskaper. Her ser vi kimen til seinere norske tegneserier som 
+    em Smørbukk 
+    | og 
+    em Tuss og troll
+    | . 
 
   p Først i 1888 kom den første norske bildeboka ut. Ei bildebok skiller seg fra en illustrert tekst ved at det er bilder på alle sidene, og bildene er like bærende for innholdet som teksten. 
 
   p Vi skiller mellom to typer illustrasjoner:  
   ul
-    li Beskrivende illustrasjoner har til formål å utdype og forklare verbalteksten (ordene).
-    li Fortolkende illustrasjoner gir uttrykk for hvordan teksten skal oppfattes. Denne typen illustrasjoner gir informasjon som vi ikke finner i verbalteksten. På den måten er de med på å utvide innholdet. 
+    li 
+      em Beskrivende illustrasjoner 
+      | har til formål å utdype og forklare verbalteksten (ordene).
+    li 
+      em Fortolkende illustrasjoner 
+      | gir uttrykk for hvordan teksten skal oppfattes. Denne typen illustrasjoner gir informasjon som vi ikke finner i verbalteksten. På den måten er de med på å utvide innholdet. 
 
   h3 Norsk Billedbog for Børn 
 
   figure.col.col6.right-image.mt5
-    img(src='./Billedbog_Norsk_Billedbog_for_Boern.jpg' alt='')
+    img(src='./Billedbog_Norsk_Billedbog_for_Boern.jpg' alt='Forside på bok med ulike illustrasjoner. Tittelen står skrevet over illustrasjonene. Illustrasjon')
     figcaption
       a(href="https://www.nb.no/items/7d875605f3631187b9d51e8ee03490c9?page=15&searchText=Norsk%20Billedbog%20for%20B%C3%B8rn" target="_blank") Les boka
 
@@ -100,10 +120,10 @@ PageBook(:showAuthor="false")
 
   h3 Rim og regler for barn 
 
-  img.col.col12(src='./Billedbog_Rim_og_regler1.jpg' alt='')
+  img.col.col12(src='./Billedbog_Rim_og_regler1.jpg' alt='Kvinne sitter ved vogge og syr. En kjele henger over åpen flamme. I bakgrunnen skimtes gårdshus. Illustrasjon')
 
   .mt40
-  img.col.col4.right-image.mt5(src='./Billedbog_Rim_og_regler2.jpg' alt='')
+  img.col.col4.right-image.mt5(src='./Billedbog_Rim_og_regler2.jpg' alt='Lite barn sitter på golvet. Peker smilende til høyre for seg. Illustrasjon')
   blockquote
     | By by barne’! 
     br
@@ -115,7 +135,7 @@ PageBook(:showAuthor="false")
 
 
   .clear
-  img.col.col6.right-image.mt5(src='./Billedbog_Rim_og_regler3.jpg' alt='')
+  img.col.col6.right-image.mt5(src='./Billedbog_Rim_og_regler3.jpg' alt='Blomster på en eng. En svart fugl retter den ene vingen mot høyre. Bokstaven H står skrevet i forgrunnen. Illustrasjon')
   blockquote
     | Kraaka sidder paa garestaur, 
     br
@@ -162,12 +182,12 @@ PageBook(:showAuthor="false")
 
   h3 Litterære tekster for barn 
 
-  img.col.col5.left-image.mt5(src='./Billedbog_Litteraere_tekster_for_barn1.jpg' alt='')
+  img.col.col5.left-image.mt5(src='./Billedbog_Litteraere_tekster_for_barn1.jpg' alt='Et barn bøyer seg ned ved vannet og drikker vann fra hånden. Illustrasjon')
   p I de litterære tekstene griper den voksne stemmen i større grad inn med en moraliserende pekefinger. Et eksempel er diktet «Bekken går i Engen» av Henrik Wergeland. På overflata er dette et naturdikt, men naturen blir brukt til å formidle et klart budskap om hygiene. God hygiene blir til og med et spørsmål om god moral når dikteren hevder at englene i himmelen liker godt at små barn vasker seg.
 
   .clear
   .mt40  
-  img.col.col12(src='./Billedbog_Litteraere_tekster_for_barn2.jpg' alt='')  
+  img.col.col12(src='./Billedbog_Litteraere_tekster_for_barn2.jpg' alt='En bekk renner langs skogkanten. Et barn går langs bekken. Til venstre i bildet sitter en fugl på bokstaven B. ')  
   blockquote(style="margin-top: -80px; margin-left: 40px")
     | Bekken går i engen,
     br
@@ -186,7 +206,7 @@ PageBook(:showAuthor="false")
     br
     | kan bekken ikke like. 
     br
-    img.col.col4.right-image.mt5(src='./Billedbog_Litteraere_tekster_for_barn3.jpg' alt='')
+    img.col.col4.right-image.mt5(src='./Billedbog_Litteraere_tekster_for_barn3.jpg' alt='Jente står i skogen og ser på en fugl som flyr over trærne. Illustrasjon')
     br
     | Liten bekk vil gnide 
     br
@@ -241,7 +261,7 @@ PageBook(:showAuthor="false")
     br
     | men selv jeg må nok ta det. 
     br
-    img.col.col12.mb20(src='./Billedbog_Litteraere_tekster_for_barn4.jpg' alt='')
+    img.col.col12.mb20(src='./Billedbog_Litteraere_tekster_for_barn4.jpg' alt='Silhuetten av en skog. En fugl flyr over bokstaven N som står skrevet i forgrunnen. Illustrasjon')
     br
     | Nå kan fuglen jage 
     br
@@ -296,13 +316,19 @@ PageBook(:showAuthor="false")
     br
     | tua var Reiar sit sæde. 
 
-  img.col.col6.right-image.mt5(src='./Billedbog_Reidar.jpg' alt='')
+  img.col.col6.right-image.mt5(src='./Billedbog_Reidar.jpg' alt='Bokoppslag med illustrasjoner og tekst. Foto')
   p Dette lille verset forteller historien om hvordan barndommen var for dem som ikke tilhørte de privilegerte klassene i Norge sist på 1800-tallet. Barna måtte tidlig ut i arbeid. En vanlig oppgave for barn var å gjete buskapen. I skogen var det både bjørn og ulv, og mang en sjuåring satt nok «på tua og gråt». Men illustrasjonene viser også en annen form for barndom. Borgerskapets barn er kledd i matrosdresser og fine kjoler og leker trygt i stuer der bordet bugner av alle slags gode retter. 
 
-  img.col.col6.right-image.mt5(src='./Billedbog_Barna.jpg' alt='')
-  p Barna vi møter i Norsk Billedbog for Børn, er barn og ikke små voksne. Dagligliv og fantasi går hånd i hånd både i tekster og illustrasjoner på en måte som appellerer til små barn. Rim og regler har ofte en humoristisk undertone, og de er skrevet i et språk som ligger nær opp til det talemålet barna kjenner.
+  img.col.col6.right-image.mt5(src='./Billedbog_Barna.jpg' alt='Noen barn leker foran en rødmalt låve. Inne i låven står flere barn og ser på. Illustrasjon')
+  p Barna vi møter i 
+    em Norsk Billedbog for Børn
+    | , er barn og ikke små voksne. Dagligliv og fantasi går hånd i hånd både i tekster og illustrasjoner på en måte som appellerer til små barn. Rim og regler har ofte en humoristisk undertone, og de er skrevet i et språk som ligger nær opp til det talemålet barna kjenner.
 
-  p I Jørgen Moes barnebok, I Brønden og i Tjærnet (1850), møter vi et borgerlig samfunn der det å være lydig mot de voksne er resepten på et godt liv. Barndommen for jenter og gutter er forskjellig. Beate er snill og føyelig, med nyvasket ansikt og hvit ballkjole. Universet hennes er hjemmet, der hun har omsorg for dokka Lille-Beate. Broren, Viggo Viking, er en ekte villstyring som jager høner og ender med øks i hånda, og som ender med å halshogge Lille-Beate på ekte vikingvis. Dette klassiske kjønnsrollemønsteret finner vi igjen i mange seinere barnebøker, for eksempel i boka Emil fra Lønneberget av Astrid Lindgren. Emil er en skikkelig rakkerunge og skøyer, mens lillesøster Ida er snill og grei. 
+  p I Jørgen Moes barnebok, 
+    em I Brønden og i Tjærnet 
+    | (1850), møter vi et borgerlig samfunn der det å være lydig mot de voksne er resepten på et godt liv. Barndommen for jenter og gutter er forskjellig. Beate er snill og føyelig, med nyvasket ansikt og hvit ballkjole. Universet hennes er hjemmet, der hun har omsorg for dokka Lille-Beate. Broren, Viggo Viking, er en ekte villstyring som jager høner og ender med øks i hånda, og som ender med å halshogge Lille-Beate på ekte vikingvis. Dette klassiske kjønnsrollemønsteret finner vi igjen i mange seinere barnebøker, for eksempel i boka 
+    em Emil fra Lønneberget 
+    | av Astrid Lindgren. Emil er en skikkelig rakkerunge og skøyer, mens lillesøster Ida er snill og grei. 
 
   a(href="https://www.nb.no/items/c4cc2eb182b4d18146236b63a9016188?page=7&searchText=Dukken%20under%20nypetornbusken" target="_blank") Les «Dukken under nypetornbusken»
 
@@ -311,16 +337,20 @@ PageBook(:showAuthor="false")
   h3 Lærebøker for barn på 1800-tallet 
 
   figure.col.col6.right-image
-   img(src='./Billedbog_Laereboeker.jpg' alt='')
+   img(src='./Billedbog_Laereboeker.jpg' alt='Bokside med bokstaver og bilder som illustrerer bokstavene. Foto')
    figcaption Tysk illustrert ABC­bok frå 1830
   p I 1739 ble det vedtatt at barn hadde plikt til å gå på skole. Skolen skulle først og fremst gi konfirmasjonsopplæring. Fra 1848 omfattet «Lov om Almueskole» også barn i byene. 
 
-  p Den nye skoleloven av 1860 ga skolen et utvidet mandat. I tillegg til å gi barna en kristelig oppdragelse skulle skolen nå sørge for at barna fikk nok kunnskaper til å bli gode statsborgere. Den første leseboka i skolen var P.A. Jensens Læsebog for Folkeskolen og Hjemmet. Mange var kritiske til denne leseboka fordi den ikke bare inneholdt religiøse tekster, men også verdslige. 
+  p Den nye skoleloven av 1860 ga skolen et utvidet mandat. I tillegg til å gi barna en kristelig oppdragelse skulle skolen nå sørge for at barna fikk nok kunnskaper til å bli gode statsborgere. Den første leseboka i skolen var P.A. Jensens 
+    em Læsebog for Folkeskolen og Hjemmet
+    | . Mange var kritiske til denne leseboka fordi den ikke bare inneholdt religiøse tekster, men også verdslige. 
 
-  p Med «Lov om Folkeskoler» i 1889 ble historie, naturfag og geografi skolefag med egne lærebøker. Det ble også bestemt at språket i skolen skulle være norsk, og at lærerne måtte kunne snakke norsk. Norskfaget fikk i det hele tatt en sentral plass i opplæringen. Som en følge av dette ble ei ny lesebok tatt i bruk. Nordahl Rolfsens lesebok inneholdt litterære tekster med tydelig forankring i norsk kultur. Boka var i bruk i norsk skole helt opp til 1960-årene. 
+  p Med «Lov om Folkeskoler» i 1889 ble historie, naturfag og geografi skolefag med egne lærebøker. Det ble også bestemt at språket i skolen skulle være norsk, og at lærerne måtte kunne snakke norsk. Norskfaget fikk i det hele tatt en sentral plass i opplæringen. Som en følge av dette ble ei ny lesebok tatt i bruk. 
+    em Nordahl Rolfsens lesebok 
+    | inneholdt litterære tekster med tydelig forankring i norsk kultur. Boka var i bruk i norsk skole helt opp til 1960-årene. 
 
   figure.col.col6.right-image
-   img(src='./Billedbog_Kvensk.jpg' alt='')
+   img(src='./Billedbog_Kvensk.jpg' alt='Dobbelt bokoppslag med tekst på begge sider. Kollasj')
    figcaption 
     a(href="media/books/billedbog/Aapinen.pdf" target="_blank") Kvensk ABC
     br

@@ -1,7 +1,7 @@
 <template lang="pug">
 PageBook(:showAuthor="false")
 
-  img.col.col6.left-image.mt20(src="./Nibelungen_utklipp.jpg" alt="")
+  img.col.col6.left-image.mt20(src="./Nibelungen_utklipp.jpg" alt="Gammelt håndskrevet dokument med tekst i to spalter. Rikt dekorert med ornamentale bokstaver. Foto")
 
   p «Nibelungen-eposet» («Nibelungenlied») er et tysk heltedikt som er skrevet
   ned på 1200-tallet. Det blir regnet som det tyske nasjonaleposet. 
@@ -13,13 +13,13 @@ PageBook(:showAuthor="false")
   p Gunther, den eldste av burgunderkongene, vil dra til Island for å fri til dronning Brünhild. Hun har kjempekrefter og vil bare gifte seg med den mannen som vinner over henne i kamp. Siegfried hjelper Gunther med å få Brünhild. Blant annet har han en kappe som gjør han usynlig, og derfor skjønner ikke Brünhild at hun blir lurt. Etter at Gunther har fått Brünhild, får også Siegfried gifte seg med Kriemhild. 
 
   figure.col.col12.mt20
-    img(src="./Nibelungen_Handling1.jpg" alt="")
+    img(src="./Nibelungen_Handling1.jpg" alt="Kvinne står foran en gruppe menn som bærer skjold og våpen. Illustrasjon")
     figcaption Styrkeprøven. Brünhild kaster et spyd mot Gunthe
 
   p Etter noen år kommer Kriemhild og Siegfried på besøk til Burgund. Brünhild, som er svært stolt, krangler med Kriemhild om hvem som har høyest rang, Gunther eller Siegfried. Krangelen fører til at Kriemhild røper at det var Siegfried som vant over Brünhild, ikke Gunther. 
 
   figure.col.col6.right-image
-    img(src="./Nibelungen_Handling2.jpg" alt="")
+    img(src="./Nibelungen_Handling2.jpg" alt="Mann stikker spyd i ryggen på en annen mann som drikker fra et horn.En tredje person, gjemt bak et tre, ser på. Illustrasjon ")
     figcaption Hagen dreper Siegfried mens han drikker av bekken. Gunther ser på uten å gjøre noe for å hindre det
 
 

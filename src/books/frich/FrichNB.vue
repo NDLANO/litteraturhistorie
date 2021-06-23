@@ -1,7 +1,9 @@
 <template lang="pug">
 PageBook
   h3 Populærlitteraturen vinner fram
-  p Populærlitteratur blir også kalt triviallitteratur, kiosklitteratur eller underholdningslitteratur, og har til oppgave å underholde et stort publikum. Denne typen litteratur kommer gjerne i mye større opplag enn skjønnlitteraturen, og derfor blir også betegnelsene kvantitetslitteratur eller masselitteratur brukt. 
+  p 
+    em Populærlitteratur 
+    | blir også kalt triviallitteratur, kiosklitteratur eller underholdningslitteratur, og har til oppgave å underholde et stort publikum. Denne typen litteratur kommer gjerne i mye større opplag enn skjønnlitteraturen, og derfor blir også betegnelsene kvantitetslitteratur eller masselitteratur brukt. 
 
   p Populærlitteraturen omfatter mange sjangrer, for eksempel romaner av forskjellig slag, ukebladnoveller, føljetonger, tegneserier, skillingsviser og kjendisbiografier. Det er verdt å merke seg at de begrepene vi bruker om populærlitteraturen i dag, først dukket opp i 1960-årene og seinere. 
 
@@ -27,21 +29,30 @@ PageBook
    figcaption Engelsk skillingstrykk fra 1833
 
   p 
-    a(href="http://www-bib.hive.no/tekster/skillingsviser/" target="_blank") Skillingsvisene
+    a(href="http://www-bib.hive.no/tekster/skillingsviser/" target="_blank") 
+      em Skillingsvisene
     | &nbsp;er også en del av den folkelige litteraturen. Betegnelsen skillingsvise kommer av at visene ble spredd som skillingstrykk, det vil si som små trykksaker som ble solgt for en skilling. Skillingsvisene handlet gjerne om kjærlighet, svik og sladder, men de kunne også formidle nyheter i poetiske vendinger. Slik sett kan vi si at skillingsvisene utgjorde forløperen til ukebladene. 
 
-  p Omreisende bokselgere sørget for at  også folk utenom byene fikk tilgang på lesestoff. En omreisende bokselger ble gjerne kalt kolportør. Forfatteren Edvard Hoem skildrer møtet med en slik kolportør i boka Heimlandet Barndom. 
+  p Omreisende bokselgere sørget for at  også folk utenom byene fikk tilgang på lesestoff. En omreisende bokselger ble gjerne kalt kolportør. Forfatteren Edvard Hoem skildrer møtet med en slik kolportør i boka 
+    em Heimlandet Barndom
+    | . 
 
   a(href="https://no.wikipedia.org/wiki/Tullingen" target="blank") Skillingsvisa Tullingen
 
   h3 Øvre Richter Frich – en sukessforfatter 
 
   img.col.col4.left-image.mt5(src='./frich_Portrett1.jpg' alt='')
-  p I 1920-årene var Øvre Richter Frich (1872– 1945) den forfatteren som solgte mest her i landet, med et samlet opplag på vel to millioner bøker. Bøkene hans ble oversatt til ni språk og kaltes spenningsromaner. Det var vel nettopp  opplevelsen av spenning og tankeflukt som gjorde at litteraturen hans fascinerte så mange. 
+  p I 1920-årene var Øvre Richter Frich (1872– 1945) den forfatteren som solgte mest her i landet, med et samlet opplag på vel to millioner bøker. Bøkene hans ble oversatt til ni språk og kaltes 
+    em spenningsromaner
+    | . Det var vel nettopp  opplevelsen av spenning og tankeflukt som gjorde at litteraturen hans fascinerte så mange. 
 
   p Richter Frich var også journalist i flere aviser, og han fikk status som stjernereporter i Aftenposten etter å ha dekt bybrannen i Ålesund i 1904. Måten han skrev på, kom i ettertid til å danne mønster for norsk reportasjejournalistikk. 
 
-  p I 1911 debuterte Richter Frich som forfatter med romanen De knyttede næver. Her blir leserne for første gang kjent med gjennomgangsfiguren Jonas Fjeld. 
+  p I 1911 debuterte Richter Frich som forfatter med romanen 
+    em De knyttede næver
+    | . Her blir leserne for første gang kjent med gjennomgangsfiguren 
+    em Jonas Fjeld
+    | . 
 
   p Jonas Fjeld har flere fellestrekk med forfatteren selv. Richter Frich var en individualist som levde etter prinsippet om å ha minst mulig ansvar. Han sa opp journalistjobben i Aftenposten da han skjønte at han kunne leve av å være forfatter og globetrotter på heltid. I tjue år reiste han omkring i verden og levde gode dager, samtidig som han skrev spenningsromaner. Han var rastløs av natur og skaffet seg ikke fast bolig før han var seksti år. 
   
@@ -49,7 +60,8 @@ PageBook
 
   img.col.col6.right-image.mt5(src='./frich_De_knyttede_naever.jpg' alt='')
   p 
-    a(href="https://www.nb.no/items/0bf4aa3876dd70b6208aa9678803cfb3?page=9&searchText=%C3%98vre%20Richter%20Frich" target="_blank") De knyttede næver
+    a(href="https://www.nb.no/items/0bf4aa3876dd70b6208aa9678803cfb3?page=9&searchText=%C3%98vre%20Richter%20Frich" target="_blank") 
+      em De knyttede næver
     | &nbsp;fra 1911 er den første boka i serien om Jonas Fjeld. Cappelen forlag trykte boka på nytt i 1997, og i forordet skrev Christopher Hals Gylseth dette: 
 
   blockquote Skikkelsen Jonas Fjeld kan best beskrives som en slags germansk blanding av Indiana Jones, James Bond og Arnold Schwarzenegger – nordisk utseende, med isblå øyne og firkantet kjeve, og med stål i ben og armer. 
@@ -69,11 +81,19 @@ PageBook
   h3 Kriminalromanen 
 
   img.col.col5.left-image.mt5(src='./frich_Kriminalromanen1.jpg' alt='')
-  p I etterkant har det vært vanlig å bruke betegnelsen kriminalromaner om bøkene til Øvre Richter Frich. Som skaperen av denne sjangeren regnes amerikaneren Edgar Allan Poe, som skrev en rekke skrekk- og kriminalnoveller i 1830- og 1840-årene. Det skulle gå over førti år før Poe fikk en etterfølger: I 1887 gav engelskmannen Arthur Conan Doyle ut A Study in Scarlet – en bok der etterforskeren Sherlock Holmes er hovedfigur. Denne etterforskeren, med lupe og intelligens, skulle bli prototypen på en detektiv. 
+  p I etterkant har det vært vanlig å bruke betegnelsen 
+    em kriminalromaner 
+    | om bøkene til Øvre Richter Frich. Som skaperen av denne sjangeren regnes amerikaneren Edgar Allan Poe, som skrev en rekke skrekk- og kriminalnoveller i 1830- og 1840-årene. Det skulle gå over førti år før Poe fikk en etterfølger: I 1887 gav engelskmannen Arthur Conan Doyle ut 
+    em A Study in Scarlet 
+    | – en bok der etterforskeren Sherlock Holmes er hovedfigur. Denne etterforskeren, med lupe og intelligens, skulle bli prototypen på en detektiv. 
 
-  p Mordet på Maskinbygger Roolfsen (1839) av Mauritz Hansen blir regnet som den første kriminalromanen i norsk litteratur. Boka kom faktisk ut to år før debutboka til Poe. Romanen har mange trekk som er typiske for romantikken, og interessen for det mystiske er felles for både kriminallitteraturen og romantikken. 
+  p 
+    em Mordet på Maskinbygger Roolfsen 
+    | (1839) av Mauritz Hansen blir regnet som den første kriminalromanen i norsk litteratur. Boka kom faktisk ut to år før debutboka til Poe. Romanen har mange trekk som er typiske for romantikken, og interessen for det mystiske er felles for både kriminallitteraturen og romantikken. 
 
-  p Sven Elvestad (1884–1934), under psevdonymet Stein Riverton, var den som introduserte det norske svaret på Sherlock Holmes, detektiven Asbjørn Krag. Den mest kjente boka er Jernvognen fra 1907. Sven Elvestad oppnådde stor suksess med bøkene sine, og de ble oversatt til sju språk. 
+  p Sven Elvestad (1884–1934), under psevdonymet Stein Riverton, var den som introduserte det norske svaret på Sherlock Holmes, detektiven Asbjørn Krag. Den mest kjente boka er 
+    em Jernvognen 
+    | fra 1907. Sven Elvestad oppnådde stor suksess med bøkene sine, og de ble oversatt til sju språk. 
 
   p Elvestad stod også bak det populære seriemagasinet Lys og Skygge, som gjennom seksti år leverte kriminalhistorier om mesterdetektiven Knut Gribb og storforbryteren Thomas Ryer. 
   
@@ -83,11 +103,19 @@ PageBook
    img(src='./frich_En_populaer_sjanger1.jpg' alt='')
    figcaption Skodespelar Henny Moan i filmen «De dødes tjern», basert på boka med same namn av Bernhard Borge (Andre Bjerke). Foto: Scanpix
 
-  p Tida fram til andre verdenskrig var en gullalder for krim- og spenningslitteratur. Nordahl Grieg (1902–1943) var en lovende ung journalist og forfatter. Sammen med Gyldendals redaktør Nils Lie (1902–1978) skrev han i 1929 Bergenstoget plyndret i natt. 
+  p Tida fram til andre verdenskrig var en gullalder for krim- og spenningslitteratur. Nordahl Grieg (1902–1943) var en lovende ung journalist og forfatter. Sammen med Gyldendals redaktør Nils Lie (1902–1978) skrev han i 1929 
+    em Bergenstoget plyndret i natt
+    | . 
 
-  p Boka gjorde stor suksess. Gyldendal forlag lanserte den rett før påske, med tittelen uthevet som en avisoverskrift. Mange leste og oppfattet annonsen for boka som en nyhet og trodde at bergenstoget virkelig var ranet. Det hører med at dette var opptakten til det norske fenomenet påskekrim. 
+  p Boka gjorde stor suksess. Gyldendal forlag lanserte den rett før påske, med tittelen uthevet som en avisoverskrift. Mange leste og oppfattet annonsen for boka som en nyhet og trodde at bergenstoget virkelig var ranet. Det hører med at dette var opptakten til det norske fenomenet 
+    em påskekrim
+    | . 
 
-  p Arthur Omre (1887–1967) og Torolf Elster (1911–2006) var populære krimforfattere i 1930-årene. André Bjerke (1918–1985) skrev kriminalromaner under psevdonymet Bernhard Borge. De mest kjente romanene hans er De dødes tjern (1942) og Døde menn går i land (1947). Bjerke var påvirket Sigmund Freuds teorier om hvordan den menneskelige psyken fungerer, noe som kommer til uttrykk i de fleste bøkene hans. 
+  p Arthur Omre (1887–1967) og Torolf Elster (1911–2006) var populære krimforfattere i 1930-årene. André Bjerke (1918–1985) skrev kriminalromaner under psevdonymet Bernhard Borge. De mest kjente romanene hans er 
+    em De dødes tjern 
+    | (1942) og 
+    em Døde menn går i land 
+    | (1947). Bjerke var påvirket Sigmund Freuds teorier om hvordan den menneskelige psyken fungerer, noe som kommer til uttrykk i de fleste bøkene hans. 
 
   p Etter 1970 fikk vi en bølge av samfunnskritisk kriminallitteratur. Fra Sverige kom det en serie politiromaner av Sjöwall og Wahlöö, som også inneholdt en sterk kritikk av det svenske samfunnet. Her i landet har blant annet forfatterne Jon Michelet og Gunnar Staalesen noe av samme ståsted. 
 
@@ -109,7 +137,9 @@ PageBook
 
   p For amerikanerne var det viktig å ha en felles myte fordi de som innvandret kom fra mange ulike land. Westernmyten med felles verdier og idealer kunne skape en felles forhistorie og sveise disse menneskene sammen til en nasjon. 
 
-  p Westernsjangeren har vært svært populær her i landet. Den mest framtredende westernforfatteren var Kjell Hallbing (1934–2004), som gav ut bøkene sine under psevdonymet Louis Masterson. Han skapte westernhelten Morgan Kane, født i Santa Fe av irske emigranter. Den første boka, Uten nåde, kom i 1966. Til sammen har Hallbing gitt ut 83 bøker om helten, med et totalopplag på elleve millioner eksemplarer. I tillegg er det laget film og tegneserier. 
+  p Westernsjangeren har vært svært populær her i landet. Den mest framtredende westernforfatteren var Kjell Hallbing (1934–2004), som gav ut bøkene sine under psevdonymet Louis Masterson. Han skapte westernhelten Morgan Kane, født i Santa Fe av irske emigranter. Den første boka, 
+    em Uten nåde
+    | , kom i 1966. Til sammen har Hallbing gitt ut 83 bøker om helten, med et totalopplag på elleve millioner eksemplarer. I tillegg er det laget film og tegneserier. 
 
   // Medieinnhold. vurdere filmen helt i starten. Beholde bilder
 

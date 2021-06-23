@@ -2,22 +2,34 @@
 PageBook(:showAuthor="false")
   h3 Den første norske ordboka
   
-  img.col.col4.left-image(src="./Den_Norske_Dictionarium_Den_første_norske_ordboka.jpg" alt="")
+  img.col.col4.left-image(src="./Den_Norske_Dictionarium_Den_første_norske_ordboka.jpg" alt="Gamalt tittelblad med skildring av innhaldet i boka.  Foto")
   p Det finst ei rad skriftlege oppteikningar av norske ord og vendingar på 1600-talet. Eit av formåla med desse glosebøkene var å hjelpe danske embetsmenn til å forstå norske dialektar. På 1600-talet er nemleg dei fleste embetsmennene i Noreg danske. Dei skriv og snakkar dansk, men dei lever i eit samfunn der folk flest snakkar norsk, og må derfor lære seg å forstå norske ord og uttrykk.
 
   p På 1600-talet finn vi også ei aukande interesse for folkespråka rundt om i Europa. I Noreg lagar somme samlingar over særnorske ord, og dei har eit klart ønske om å vise at norsk er noko anna enn dansk. Ein av dei er Christen Jensson, sokneprest i Askvoll i Sunnfjord.
 
-  p I 1646 får Jensson trykt ei ordsamling som han kallar Den norske Dictionarium eller Glosebog. Boka inneheld rundt 850 norske oppslagsord. Dei fleste av desse orda plukka Jensson opp frå daglegtalen i heimbygda Askvoll. Sjølv seier han at han også har brukt «adskillige gamle norske Bøger» som kjelder for ordboka si.
+  p I 1646 får Jensson trykt ei ordsamling som han kallar 
+    em Den norske Dictionarium 
+    | eller 
+    em Glosebog
+    | . Boka inneheld rundt 850 norske oppslagsord. Dei fleste av desse orda plukka Jensson opp frå daglegtalen i heimbygda Askvoll. Sjølv seier han at han også har brukt «adskillige gamle norske Bøger» som kjelder for ordboka si.
 
-  p Den norske Dictionarium eller Glosebog er den første trykte ordboka i sitt slag i dei nordiske landa. Boka blir seinare inspirasjonskjelde både for Erik Pontoppidan den yngre, med Glossarium Norvegicum (1749), og for Ivar Aasens Ordbog over det norske Folkesprog (1850).
+  p 
+    em Den norske Dictionarium eller Glosebog 
+    | er den første trykte ordboka i sitt slag i dei nordiske landa. Boka blir seinare inspirasjonskjelde både for Erik Pontoppidan den yngre, med 
+    em Glossarium Norvegicum 
+    | (1749), og for Ivar Aasens 
+    em Ordbog over det norske Folkesprog 
+    | (1850).
 
   h3 Prest, språkforskar og folkeminnesamlar
   p Christen Jensson er truleg fødd kring 1610 i Askvoll i Sunnfjord. Far hans, Jens Mauritsson, var dansk og sokneprest i bygda. Ut frå det Jensson skriv i forordet til ordsamlinga si, kjenner han seg sjølv som nordmann i sinn og skinn. Han blir send til katedralskolen i Bergen, og derifrå går ferda vidare til København og teologistudium ved universitetet.
 
-  img.col.col4.right-image(src="./Den_Norske_Dictionarium_Gravstein.jpg" alt="")
+  img.col.col4.right-image(src="./Den_Norske_Dictionarium_Gravstein.jpg" alt="Gravstein med skrifta CISA og årstallet 1653 på. Foto")
   p Etter studia etterfølgde Jensson far sin som sokneprest i Askvoll, ei stilling han har resten av livet. Det hender at han tek seg ein tår for tørsten, og i 1643 blir han rapportert til biskopen for drukkenskap og slagsmål. Han blir ikkje dømd, men somme meiner at han som straff har måtta omsetje ei tysk lærebok i teologi til dansk.
 
-  p Den norske Dictionarium eller Glosebog er Jenssons mest kjende verk. Boka viser at han er oppteken av både kultur og natur, og godt kjend med alt som rører seg i heimbygda. Innimellom tek han med humoristiske stubbar om dyr og menneske.
+  p 
+    em Den norske Dictionarium eller Glosebog 
+    | er Jenssons mest kjende verk. Boka viser at han er oppteken av både kultur og natur, og godt kjend med alt som rører seg i heimbygda. Innimellom tek han med humoristiske stubbar om dyr og menneske.
 
   p Jonsokdagen 1653 døyr han i ei drukningsulykke på veg heim frå kyrkja. På kyrkjegarden i Askvoll står ein minnestein med årstalet 1653 inngravert.
 
@@ -29,8 +41,10 @@ PageBook(:showAuthor="false")
     source="media/books/dictionarium/tekst11a_den_norske_dictionarium_1646_.mp3"
   )
 
-  img.col.col6.left-image(src="./Den_Norske_Dictionarium_Utdrag.jpg" alt="")
-  p Den norske Dictionarium eller Glosebog var trykt i København. Det kan vere årsaka til at også oppslagsorda med norsk daglegtale har fått dansk skrivemåte. Dei danske boktrykkjarane har ganske sikkert slite med å stave dei ukjende orda. Men forfattaren sjølv har heller ikkje hatt noko norsk skriftspråk å stø seg til, for eit slikt språk finst ikkje på 1600-talet. Men vi får i alle fall nokre interessante glimt inn i norsk kvardag og kultur på denne tida.
+  img.col.col6.left-image(src="./Den_Norske_Dictionarium_Utdrag.jpg" alt="Bokoppslag med trykt tekst. Foto")
+  p 
+    em Den norske Dictionarium eller Glosebog 
+    | var trykt i København. Det kan vere årsaka til at også oppslagsorda med norsk daglegtale har fått dansk skrivemåte. Dei danske boktrykkjarane har ganske sikkert slite med å stave dei ukjende orda. Men forfattaren sjølv har heller ikkje hatt noko norsk skriftspråk å stø seg til, for eit slikt språk finst ikkje på 1600-talet. Men vi får i alle fall nokre interessante glimt inn i norsk kvardag og kultur på denne tida.
 
   p
     strong A 
@@ -71,13 +85,13 @@ PageBook(:showAuthor="false")
   p Christen Jensson skriv om urter og blomar, fuglar og dyr, jordbruk og fiske. Han tek også med teikningar av primstaven, som har eit symbol for kvar merkedag i året. Den eine sida på staven viser merkedagane i vinterhalvåret, den andre sida viser merkedagane i sommarhalvåret.
 
   figure.col.col12
-    img(src="./Den_Norske_Dictionarium_Primstav_Sommerhalvaaret.jpg")
+    img(src="./Den_Norske_Dictionarium_Primstav_Sommerhalvaaret.jpg" alt="Sommersida av ein primstav med tidslinje og symbol. Foto")
     figcaption Sommarhalvåret
   figure.col.col12
-    img(src="./Den_Norske_Dictionarium_Primstav_Vinterhalvaaret.jpg")
+    img(src="./Den_Norske_Dictionarium_Primstav_Vinterhalvaaret.jpg" alt="Vintersiden av ein primstav med tidslinje og symbol.  Foto")
     figcaption Vinterhalvåret
   figure.col.col12
-    img(src="./Den_Norske_Dictionarium_Primstav_Detalj.jpg")
+    img(src="./Den_Norske_Dictionarium_Primstav_Detalj.jpg" alt="Detalj frå primstav med tidslinje og ulike symbol. Foto")
     figcaption Detalj
 
   p Les mer om privstaven i 
@@ -87,15 +101,29 @@ PageBook(:showAuthor="false")
   p Det er ikkje berre Christen Jensson som samlar inn norske ord på 1600-talet. Vi finn liknande skrifter frå andre delar av landet. Dei eldste norske ordsamlingane frå 1600-talet er oppteikningar over lokale dialektord. Det kan vere litt vilkårleg kva for ord som er komne med, og korleis dei blir skrivne.
 
   ul
-    li Glossemata Tellemarchica, ei ordsamling frå Fyresdal i Telemark
-    li Ordsamling frå Bø i Vesterålen
-    li Ordsamling frå Norderhov
-    li Norsk Ordsamling, ei samling frå Stavanger
-    li Endeel rare Norske Ord, ei samling frå Indre Sogn
+    li 
+      em Glossemata Tellemarchica
+      | , ei ordsamling frå Fyresdal i Telemark
+    li 
+      em Ordsamling 
+      | frå Bø i Vesterålen
+    li 
+      em Ordsamling 
+      | frå Norderhov
+    li 
+      em Norsk Ordsamling
+      | , ei samling frå Stavanger
+    li 
+      em Endeel rare Norske Ord
+      | , ei samling frå Indre Sogn
 
-  p Ei ordbok er eit systematisk oppslagsverk som inneheld ord frå eit bestemt språk, språkområde eller fagområde. Etymologiske ordbøker forklarer kva orda tyder, og kva opphav dei har. Andre ordbøker fortel oss berre korleis orda blir skrivne, bøygde og uttalte. 
+  p Ei ordbok er eit systematisk oppslagsverk som inneheld ord frå eit bestemt språk, språkområde eller fagområde. 
+    em Etymologiske 
+    | ordbøker forklarer kva orda tyder, og kva opphav dei har. Andre ordbøker fortel oss berre korleis orda blir skrivne, bøygde og uttalte. 
 
-  p To- og fleirspråklege ordbøker viser korleis ord kan omsetjast frå eitt språk til eit anna. Som eksempel på ei trespråkleg ordbok nemner vi Dictionarium DanicoNorvegico-Latinum av Knud Pedersson Harboe, som kjem ut i 1698. Boka inneheld rundt 750 danske oppslagsord, med forslag til korleis dei skal omsetjast til norsk og latin. 
+  p To- og fleirspråklege ordbøker viser korleis ord kan omsetjast frå eitt språk til eit anna. Som eksempel på ei trespråkleg ordbok nemner vi 
+    em Dictionarium DanicoNorvegico-Latinum 
+    | av Knud Pedersson Harboe, som kjem ut i 1698. Boka inneheld rundt 750 danske oppslagsord, med forslag til korleis dei skal omsetjast til norsk og latin. 
 
   p Først på 1800-talet blir det sett i gang eit systematisk arbeid med å utvikle omfattande ordbøker for eit norsk skriftspråk. Fremst i dette arbeidet står Henrik Wergeland, Peter Andreas Munch, Ivar Aasen og Knud Knudsen.
 

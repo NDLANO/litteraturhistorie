@@ -2,7 +2,7 @@
 PageBook
   h3 Eit uroleg nomadeliv
 
-  img.col.col6.left-image.mt5(src='./Obstfelder_Et_urolig_nomadeliv.jpg' alt='')
+  img.col.col6.left-image.mt5(src='./Obstfelder_Et_urolig_nomadeliv.jpg' alt='Portrett i gråtoner av mann med bart og breitt slips. Held hovudet på skakke. Teikning')
 
   p Sigbjørn Obstfelder (1866–1900) blir rekna for den første norske modernistiske lyrikaren. Få har skildra einsemda og framandgjeringa til det moderne mennesket betre enn han i tekstar som «Byen» og «Jeg ser».
 
@@ -13,30 +13,42 @@ PageBook
   h3 Forfattarskap
 
   figure.col.col6.right-image.mt5
-   img(src='./Obstfelder_De_roede_draaber.jpg' alt='')
+   img(src='./Obstfelder_De_roede_draaber.jpg' alt='Tittelblad frå bok med tittelen DE RØDE DRÅPER. Foto')
    figcaption Førsteutgåva av skodespelet  De røde draaber frå 1897
 
-  p Forfattarskapen til Obstfelder er ikkje særleg omfattande, men han skreiv tekstar i alle sjangrar. I tillegg til ei lita novellesamling frå 1895 gav han ut skodespela De røde draaber (1897) og Om vaaren (1902).
+  p Forfattarskapen til Obstfelder er ikkje særleg omfattande, men han skreiv tekstar i alle sjangrar. I tillegg til ei lita novellesamling frå 1895 gav han ut skodespela 
+    em De røde draaber 
+    | (1897) og 
+    em Om vaaren 
+    | (1902).
 
-  p Romanane Korset (1896) og En præsts dagbog (1900) er begge eksperimentelle i forma. I En præsts dagbok møter vi ein grublande og tvilande prest som blir usikker på om det finst ein Gud, og på kva som eigentleg er meininga med livet hans: «Hvorfor banker du sådan, hjerte? Du banker og banker, og jeg vet ikke hvad det er du vil.»
+  p Romanane 
+    em Korset 
+    | (1896) og 
+    em En præsts dagbog 
+    | (1900) er begge eksperimentelle i forma. I En præsts dagbok møter vi ein grublande og tvilande prest som blir usikker på om det finst ein Gud, og på kva som eigentleg er meininga med livet hans: «Hvorfor banker du sådan, hjerte? Du banker og banker, og jeg vet ikke hvad det er du vil.»
 
   p Det er likevel som lyrikar Obstfelder er best kjend. I tillegg til tekstar som skildrar einsemd og framandgjering, skreiv han fleire dikt med emne som forelsking, kjærleik og religiøs lengt, og ei rekkje meir muntre og melodiøse dikt. Det er lite som minner om eksistensiell grubling når barn leiker seg med «En er en, og to er to – vi hopper i vand, vi triller i sand. Zik zak, vi drypper på tag, tik tak, det regner idag.»
 
   h3 Nyskaping og sjangerblanding
 
-  img.col.col6.right-image.mt5(src='./Obstfelder_Melodier.jpg' alt='')
-  p Da Obstfelder gav ut samlinga Digte i 1893, fekk ho blanda mottaking. Mens Dagbladet melde at «denne lille bog blir årets største begivenhed i Norge», meinte journalisten i Aftenposten at desse dikta berre var «nonsens». Den ulike mottakinga vitnar om at folk var usikre på korleis dei skulle møte lyrikken til Obstfelder. Han braut nemleg med det dei var vane med å lese. Var dette brotet spennande nyskaping, eller var det berre dårleg lyrikk?
+  img.col.col6.right-image.mt5(src='./Obstfelder_Melodier.jpg' alt='Bokforside med tittelen Melodier. Blomemotiv sentralt på sida. Foto')
+  p Da Obstfelder gav ut samlinga 
+    em Digte 
+    | i 1893, fekk ho blanda mottaking. Mens Dagbladet melde at «denne lille bog blir årets største begivenhed i Norge», meinte journalisten i Aftenposten at desse dikta berre var «nonsens». Den ulike mottakinga vitnar om at folk var usikre på korleis dei skulle møte lyrikken til Obstfelder. Han braut nemleg med det dei var vane med å lese. Var dette brotet spennande nyskaping, eller var det berre dårleg lyrikk?
   p I dag ser vi tydeleg at Obstfelder var ein nyskapar innanfor den tradisjonelle lyrikken. Som andre modernistar braut han med tradisjonelle strofeformer og valde friare rimmønster. I staden for enderim tok han i bruk bokstavrim, assonansar, lydhermande ord og varierande verselengd for å skape klangar og rytme i dikta sine. Denne omfattande bruken av musikalske verkemiddel viser at Obstfelder var svært interessert i musikk.
 
   p Eit anna typisk drag ved mange av dikta til Obstfelder er utrop, spørsmål, pausar, avbrotne setningar og andre verkemiddel som gjer at lesaren identifiserer seg med egpersonens ufiltrerte sansing og tankar. Obstfelders skrivemåte viser at forma er viktig for tolkinga av teksten – anten forfattaren stør seg til kjende rimmønster eller ikkje.
 
   figure.col.col6.right-image
-   img(src='./Obstfelder_Charles_Baudelaire.jpg' alt='')
+   img(src='./Obstfelder_Charles_Baudelaire.jpg' alt='Mann sit på ei seng og les ei bok. På bordet ved sidan av er ein fjærpenn. Måleri')
    figcaption Forfattaren Charles Baudelaire var ein viktig føregangs-mann for modernismen i diktarkunsten. Baudelaire tek utgangspunkt i storbyen Paris og alt det nye det urbane livet fører med seg.
 
   p Obstfelder var òg inspirert av den franske forfattaren Charles Baudelaire (1821–1867). Baudelaire hadde alt i 1850-åra skrive såkalla prosalyriske tekstar. Særmerkt for denne sjangeren er ei blanding av forteljande prosa og lyriske verkemiddel som klang, rytme, gjentaking og poetisk biletbruk. Men mens ein del forfattarar hadde innslag av prosalyrikk i romanane sine, skreiv Obstfelder reine prosalyriske tekstar.
 
-  p Obstfelder forfatta rundt 30 tekstar i denne sjangeren. Fleire av dei vart publiserte i tidsskrift, men det var òg mange han ikkje rakk å publisere før han døydde. I 1903 kom Efterladte arbejder, der mellom anna «Byen» og «Hustru» stod på trykk, dei to mest kjende prosalyriske tekstane av Obstfelder. 
+  p Obstfelder forfatta rundt 30 tekstar i denne sjangeren. Fleire av dei vart publiserte i tidsskrift, men det var òg mange han ikkje rakk å publisere før han døydde. I 1903 kom 
+    em Efterladte arbejder
+    | , der mellom anna «Byen» og «Hustru» stod på trykk, dei to mest kjende prosalyriske tekstane av Obstfelder. 
 
   NdlaAudio(
     source="media/books/obstfelder/Sigbjoern_Obstfelder_Jeg_ser_Ny_versjon.mp3"
@@ -48,7 +60,7 @@ PageBook
   h3 «Byen»: eksistensiell angst og framandgjering
   
   figure.col.col12
-   img(src='./Obstfelder_Aften_på_Karl_Johan.jpg' alt='')
+   img(src='./Obstfelder_Aften_på_Karl_Johan.jpg' alt='Svart-kvitt bilete av bygate med folk på fortau og i gata. Tre trikkar i gata. Foto')
    figcaption «Aften på Karl Johan» av Edvard Munch (1892)
 
   NdlaAudio(source="media/books/obstfelder/Sigbjoern_Obstfelder_Byen.mp3")
@@ -59,7 +71,7 @@ PageBook
 
   
   figure.col.col6.right-image.mt5
-   img(src='./Obstfelder_Folkeliv_på_Karl_Johan.jpg' alt='')
+   img(src='./Obstfelder_Folkeliv_på_Karl_Johan.jpg' alt='Svart-kvitt bilete av bygate med folk på fortau og i gata. Tre trikkar i gata. Foto')
    figcaption Folkeliv på Karl Johan i 1902
 
   p Vi kan lese «Byen» som eit uttrykk for den modernistiske livskjensla. På 1800-talet flytte mange menneske inn til byane, men dei kjende seg ofte heimlause og sakna dei nære sosiale banda i bondesamfunnet. Eg-personen i Obstfelders tekst meiner han forstår kvifor bymenneska alltid har hast, «de piskes af sin egen skygge». Dette kan vi tolke som at dei inst inne er misnøgde med kven dei er og kva dei gjer, og at dei hastar slik for å sleppe å tenkje på dette. «Byen» er ein subjektiv og sterk observasjon av kva urbaniseringa gjer med menneska og forholdet mellom dei.

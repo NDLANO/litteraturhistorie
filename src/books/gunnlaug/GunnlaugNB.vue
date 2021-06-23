@@ -1,15 +1,17 @@
 <template lang="pug">
 PageBook(:showAuthor="false")
   h3 Bakgrunn
-  img.col.col8.mt5.right-image(src="./Gunnlaug_Bakgrunn.jpg" alt="")
-  p Sagaen om Gunnlaug Ormstunge er kort, bare på rundt førti små sider. Handlingen er lagt til tusenårsskiftet – en urolig tid på Island. Landnåmet er fullført, og de største ættene driver en rivalisering og kamp for å skaffe seg makt. Det er et lovløst samfunn der makta rår. Makta ligger hos den som har ei stor ætt og mange med seg. I et slikt samfunn er det lurt å inngå gode giftermål, og det er fedrene som alltid har siste ordet før det unge paret får hverandre.
+  img.col.col8.mt5.right-image(src="./Gunnlaug_Bakgrunn.jpg" alt="To menn står sentralt i en ring av andre menn, mange med våpen. Illustrasjon")
+  p 
+    em Sagaen om Gunnlaug Ormstunge 
+    | er kort, bare på rundt førti små sider. Handlingen er lagt til tusenårsskiftet – en urolig tid på Island. Landnåmet er fullført, og de største ættene driver en rivalisering og kamp for å skaffe seg makt. Det er et lovløst samfunn der makta rår. Makta ligger hos den som har ei stor ætt og mange med seg. I et slikt samfunn er det lurt å inngå gode giftermål, og det er fedrene som alltid har siste ordet før det unge paret får hverandre.
 
   p Sagaen om Gunnlaug er en kjærlighetshistorie, et trekantdrama der to unge menn, Gunnlaug og Ravn, slåss om den samme jenta, Helga den fagre. Mange kaller Gunnlaugssagaen «den vakreste kjærlighetshistorien i Norden». I tillegg er den en islendingesaga med alle de ingredienser som hører til denne sjangeren. Her er stor dramatikk med sjalusi, svik, drap og hevn. 
 
   h3 Litt om handlingen
   p Gunnlaug er sønn av Illuge Svarte, en islandsk stormann. Han vil reise ut og «se andre folks seder», men faren nekter han å dra fordi han er svært ung og framfus og har ei skarp tunge. Gunnlaug rir av gårde i sinne. Han kommer til gården til Torstein, en annen mektig høvding, og blir tatt godt imot der. 
 
-  img.col.col4.left-image.mt5(src="./Gunnlaug_Helga.jpg" alt="")
+  img.col.col4.left-image.mt5(src="./Gunnlaug_Helga.jpg" alt="Kvinne med langt hår og pannebånd. Holder en hvit kappe over skuldrene. Illustrasjon")
 
   p Dattera til Torstein heter Helga, og hun er den fagreste kvinna på Island. Helga og Gunnlaug «får godhug for hverandre», som det står i sagaen. Gunnlaug blir boende på gården til Torstein i et halvt år. 
 
@@ -17,7 +19,7 @@ PageBook(:showAuthor="false")
 
   p Turen går til Norge, England og nordsjøøyene, og deretter videre til Uppsala, der svenskekongen holder til. Her møter Gunnlaug Ravn, en annen islending som har reist ut før han. Først er de gode venner, men det ender opp med uvennskap mellom dem etter at Gunnlaug ydmyker Ravn foran svenskekongen. 
 
-  img.col.col8.right-image.mt5(src="./Gunnlaug_Ydmyker_Ravn.jpg" alt="")
+  img.col.col8.right-image.mt5(src="./Gunnlaug_Ydmyker_Ravn.jpg" alt="Gruppe av menn på en lysning i skogen. En mann holder en øks. Illustrasjon")
 
   p Ravn vet hvordan han skal ta hevn, nemlig ved å kapre Helga den fagre før Gunnlaug når tilbake til Island. Gunnlaug har et oppdrag hos kong Adalråd i London som han må oppfylle, og klarer ikke å overholde treårsavtalen. 
 
@@ -30,7 +32,7 @@ PageBook(:showAuthor="false")
 
   NdlaAudio(source="media/books/gunnlaug/Illuges_drøm.mp3" description="Illuges drøm")
 
-  img.col.col6.mt5.left-image(src="./Gunnlaug_Fortellermåten.jpg")
+  img.col.col6.mt5.left-image(src="./Gunnlaug_Fortellermåten.jpg" alt="Mann med heldekkende hjelm holder et skjold foran seg og en øks i den andre hånda. Foto")
 
   p Underdrivelse er et viktig virkemiddel: Under London-oppholdet er Gunnlaug i tjeneste for kongen, og en dag kommer han i kamp med en viking som heter Tororm. Det foregår om lag slik: «– Ikke er jeg redd for det sverdet! roper Tororm. Gunnlaug gir han da straks banehogg. Kongen takket han for verket.» 
 
@@ -39,14 +41,37 @@ PageBook(:showAuthor="false")
   p Første gang Gunnlaug og Helga møtes etter giftermålet hennes, gir han henne ei kostbar kappe i gave. Denne kappa blir det kjæreste minnet hennes, og hun tar fram kappa og ser på den så ofte hun kan. Det siste hun ber om før hun dør, er å få se kappa en gang til. Slik blir det tydelig for leseren at hun aldri har glemt Gunnlaug. 
 
   h3 Islendingesagaene 
-  p Islendingesagaene er nok den mest kjente sjangeren fra norrøn litteratur. Saga (eller soge) betyr «muntlig eller skriftlig fortelling», og sagaene ble opprinnelig framført av fortellere som rein underholdning. Ættesagaer er en annen betegnelse som blir brukt. 
+  p 
+    em Islendingesagaene 
+    | er nok den mest kjente sjangeren fra norrøn litteratur. 
+    em Saga 
+    | (eller soge) betyr «muntlig eller skriftlig fortelling», og sagaene ble opprinnelig framført av fortellere som rein underholdning. 
+    em Ættesagaer 
+    | er en annen betegnelse som blir brukt. 
 
-  p Islendingesagaene eller ættesagaene er prosafortellinger, nedskrevet på 1200-tallet, og handler om ætter og hendinger fra perioden 900–1000. Denne perioden blir gjerne omtalt som landnåmstida, det vil si den tida da nordmenn tok land og bosatte seg på øya. (Nema land betyr «å ta land» på norrønt). 
+  p 
+    em Islendingesagaene 
+    | eller ættesagaene er prosafortellinger, nedskrevet på 1200-tallet, og handler om ætter og hendinger fra perioden 900–1000. Denne perioden blir gjerne omtalt som 
+    em landnåmstida
+    | , det vil si den tida da nordmenn tok land og bosatte seg på øya. (
+    em Nema land 
+    | betyr «å ta land» på norrønt). 
+
   p Islendingene er stolte av sagaene sine. Sagaene blir regnet som stor kunst og er en viktig del av verdenslitteraturen. Mange kjente forfattere gjennom tidene har hatt islendingesagaene som forbilder. 
 
   p På 1600-tallet ble det funnet 700 pergamentruller (skrift på kalveskinn) på Island. Disse ble så nedtegnet og samlet. Alt i alt finnes det i dag ca. 40 sagaer. 
 
-  p Njålssagaen regnes som den viktigste. Andre kjente sagaer er Sagaen om Egil Skallagrimsson, Sagaen om Gisle Sursson, Sagaen om Gunnlaug Ormstunge og Sagaen om laksdølene. 
+  p 
+    em Njålssagaen 
+    | regnes som den viktigste. Andre kjente sagaer er 
+    em Sagaen om Egil Skallagrimsson
+    | , 
+    em Sagaen om Gisle Sursson
+    | , 
+    em Sagaen om Gunnlaug Ormstunge 
+    | og 
+    em Sagaen om laksdølene
+    | . 
 
   h5 Noen kjennetegn ved sagalitteraturen 
   ul
@@ -57,13 +82,15 @@ PageBook(:showAuthor="false")
     li Blodhevn står sentralt. Det er tvingende nødvendig å ta hevn, og det er en plikt å hevne.
     li Sagaene skildrer et mannssamfunn, men kvinnene er med i handlingen, og de viser ofte at de er både sterke og fargerike. 
     li Vi får ikke vite hva personene føler og tenker, fortellemåten er ordknapp, og underdrivelse er et vanlig virkemiddel. Mannen som får et spyd gjennom brystet, rekker akkurat å si: «Det traff godt,» før han faller død om. 
-    li Troen på skjebnen går igjen i alle islendingesagaer. En skal prøve å avverge katastrofen, men kommer den, skal en stå oppreist og bære nederlaget med rak rygg. Å se skjebnen i øynene er derfor et viktig punkt i alle ættesagaer. 
+    li Troen på skjebnen går igjen i alle islendingesagaer. En skal prøve å avverge katastrofen, men kommer den, skal en stå oppreist og bære nederlaget med rak rygg. 
+    em Å se skjebnen i øynene 
+    | er derfor et viktig punkt i alle ættesagaer. 
 
   br
 
   
   h5 Hva forteller ættesagaene om samfunnsforholdene i landnåmstida? 
-  img.col.col6.right-image.mt20(src="./Gunnlaug_Samfunnsforhold.jpg" alt="")
+  img.col.col6.right-image.mt20(src="./Gunnlaug_Samfunnsforhold.jpg" alt="To menn setter opp en påle. Mann i rød kappe dirigerer arbeidet, omgitt av kvinner og barn som ser på. Illustrasjon")
   ul
     li at ætta, det vil si slekta, var viktig. Makta i det islandske samfunnet lå ikke hos en konge, men var fordelt mellom mektige familier. 
     li at slekta var viktigere enn enkeltmennesket. 

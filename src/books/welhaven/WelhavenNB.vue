@@ -3,7 +3,7 @@ PageBook
   
   h3 Johan Sebastian Welhaven (1807–1873)
 
-  img.col.col4.right-image(src='./Welhaven_Johan_Sebastian_Welhaven.jpg' alt='')
+  img.col.col4.right-image(src='./Welhaven_Johan_Sebastian_Welhaven.jpg' alt='Portrett av ung mann med bustet halvlangt hår. Illustrasjon')
   p Johan Sebastian Welhaven var prestesønn fra Bergen. Faren ville at han skulle lese teologi, men Welhaven var lite motivert for å bli prest og gav opp teologistudiet etter nokså kort tid. I stedet begynte han å studere litteratur og filosofi. Etter hvert ble han lektor, seinere professor, ved universitetet i Christiania. 
 
   p Welhavens syn på kunstverket var i tråd med klassisistiske idealer. Etter hans oppfatning måtte et kunstverk oppfylle strenge krav til skjønnhet og harmoni. Diktene måtte for eksempel bygges opp etter klare regler. Dessuten mente Welhaven at form og innhold hørte sammen: Tankene måtte modnes før de kunne bli til dikt, og formen skulle gjenspeile denne modningen. 
@@ -28,7 +28,7 @@ PageBook
   p Hva er god diktning, og hva er formålet med diktningen? Også disse spørsmålene var Welhaven og Wergeland uenige om. 
 
   figure.col.col6.right-image.mt5
-   img(src='./Welhaven_Striden_mellom_Welhaven_og_Wergeland.jpg' alt='')
+   img(src='./Welhaven_Striden_mellom_Welhaven_og_Wergeland.jpg' alt='Mann står med ryggen til og ser på to kvinner som er kledd i store kjoler. Tegning')
    figcaption Welhaven har tegnet denne illustrasjonen til et dikt der blant annet Camilla Wergeland blir skildret.
   p Welhaven mente at tanker og følelser måtte bearbeides og foredles før de kunne bli til diktning. Formen skulle gjenspeile denne foredlingen, derfor måtte dikteren underkaste seg strenge regler for strofebygning og språklige uttrykk. Wergeland eksperimenterte derimot med versemål og rim, han prøvde å finne den formen som passet til det han ville uttrykke. 
 
@@ -36,15 +36,20 @@ PageBook
 
   p Både Welhaven og Wergeland var i grunnen enige om at dikterevnen var en spesiell gave, men Welhaven mente at diktningen først og fremst skulle bidra til et rikere indre liv for leseren. Wergeland ville derimot ikke skape «sofalitteratur», som han kalte den danske, upolitiske litteraturen som Welhaven satte høyt. For Wergeland hadde dikterne også en politisk oppgave: De skulle være «idéanførere og folkenes lærere». 
   
-  h3 Nyere Digte
-  p Johan Sebastian Welhaven gav ut i alt fem lyrikksamlinger. Nyere Digte fra 1844 var den andre samlingen hans. 
+  h3 
+    em Nyere Digte
+  p Johan Sebastian Welhaven gav ut i alt fem lyrikksamlinger. 
+    em Nyere Digte 
+    | fra 1844 var den andre samlingen hans. 
 
   figure.col.col4.right-image.mt5
-   img(src='./Welhaven_Nyere_Digte.jpg' alt='')
+   img(src='./Welhaven_Nyere_Digte.jpg' alt='Portrett av ung kvinne med mørkt hår. Hun har kjole med blondekrage og et smykke i halsen. Maleri')
    figcaption Ida Kjerulf
   p Mange dikt i denne samlingen handler om sorg, om hvordan det føles å måtte leve videre med savnet etter en avdød. For Welhaven var denne sorgen velkjent, for i 1840 mistet han jenta han elsket og hadde vært forlovet med, Ida Kjerulf. Hun døde av tuberkulose, bare 23 år gammel. 
 
-  p Nyere Digte inneholder også flere nasjonalromantiske dikt. Her finner vi mange skikkelser fra folketroen, som huldra, nøkken, åsgårdsreia og alvene. Welhaven hentet dessuten ofte motiver fra norske sagn. 
+  p 
+    em Nyere Digte 
+    | inneholder også flere nasjonalromantiske dikt. Her finner vi mange skikkelser fra folketroen, som huldra, nøkken, åsgårdsreia og alvene. Welhaven hentet dessuten ofte motiver fra norske sagn. 
 
   p Samlingen omfatter også høvesdikt og en del dikt med motiver fra antikken, ikke minst det litteraturfilosofiske diktet “Digtets Aand”. 
   

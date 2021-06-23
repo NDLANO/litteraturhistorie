@@ -12,7 +12,7 @@ PageBook
   
   h3 En ekte østkantdikter 
 
-  img.col.col4.left-image.mt5(src='./Nilsen_En_ekte_oestlandsdikter.jpg' alt='')
+  img.col.col4.left-image.mt5(src='./Nilsen_En_ekte_oestlandsdikter.jpg' alt='Portrett i svart og hvitt av en ung mann som sitter med venstre hånd mot haken. Foto')
   p Rudolf William Nilsen (1901–1929) var en ekte østkantdikter. Han ble født på Vålerenga i Oslo, som den gang het Kristiania. Faren var jernarbeider på Nylands Mekaniske Verksted. Etter at foreldrene skilte seg, vokste sønnen opp hos mora, som livnærte seg som syerske. 
 
   .clear
@@ -20,7 +20,7 @@ PageBook
   p Oppveksten kom til å prege både samfunnsengasjementet og hele forfatterskapet til Rudolf Nilsen: 
 
   figure.col.col5.right-image.mt5
-   img(src='./Nilsen_Fredensborg.jpg' alt='')
+   img(src='./Nilsen_Fredensborg.jpg' alt='Gutt står i snøen mellom eldre hus i en bakgate. Foto')
    figcaption Fredensborg i Oslo. Foto: Ingvald Møllerstad / Aftenposten /Scanpix
 
   blockquote
@@ -41,7 +41,7 @@ PageBook
 
   .clear 
   figure.col.col6.right-image.mt20
-   img(src='./Nilsen_Enerhaugen.jpg' alt='')
+   img(src='./Nilsen_Enerhaugen.jpg' alt='Bymiljø i svart og hvitt. I bakgrunnen høye bygårder av murstein, i forgrunnen mindre hus i tre. Foto')
    figcaption Enerhaugen. Foto: NTB / Scanpix
 
   blockquote
@@ -86,10 +86,12 @@ PageBook
   a(href="https://no.wikisource.org/wiki/Nr._13" target="_blank") Les hele Nr. 13
 
   h3 På stengrunn 
-  p Rudolf Nilsens første diktsamling kom ut i 1925 med tittelen På stengrunn. I denne diktsamlingen skildrer han livet til vanlige arbeidsfolk øst for Akerselva. Livet er hardt, og gledene er få. Men dypt i alle lever lengselen etter et bedre liv. De unge bjerkene i svarte byen de står og bruser med sitt lyse løv, som om de åndet store skogers vårluft og ikke skorstensrøk og gatestøv. 
+  p Rudolf Nilsens første diktsamling kom ut i 1925 med tittelen 
+    em På stengrunn
+    | . I denne diktsamlingen skildrer han livet til vanlige arbeidsfolk øst for Akerselva. Livet er hardt, og gledene er få. Men dypt i alle lever lengselen etter et bedre liv. De unge bjerkene i svarte byen de står og bruser med sitt lyse løv, som om de åndet store skogers vårluft og ikke skorstensrøk og gatestøv. 
 
   figure.col.col12
-   img(src='./Nilsen_Gamle_Vika.jpg' alt='')
+   img(src='./Nilsen_Gamle_Vika.jpg' alt='Bilde i svart og hvitt av falleferdige hus og bygårder. I forgrunnen parkerte biler. Foto')
    figcaption Gamle Vika med Akers Mekaniske Verksted i bakgrunnen. Foto: Scanpix
 
   p Til tross for dette er det få diktere som har skildret livet i storbyen med større kjærlighet enn Rudolf Nilsen. I det urbane samfunnet er alt skapt av mennesker og underlagt menneskelig kontroll. Hos realisten og ateisten Rudolf Nilsen er det ikke plass til metafysikk og religion. 
@@ -114,7 +116,7 @@ PageBook
   p I 1920-årene var forfattere som Olav Duun og Sigrid Undset opptatt av enkeltmenneskets etiske ansvar for slekta og for lokalsamfunnet det er en del av. I sitt forfatterskap peker Rudolf Nilsen på en ny form for slektskap og forpliktelse: Arbeiderklassen er den nye slekta, og de som hører til arbeiderklassen, er etisk forpliktet til å ta del i klassekampen. 
 
   figure.col.col6.right-image.mt5
-   img(src='./Nilsen_demonstrasjon.jpg' alt='')
+   img(src='./Nilsen_demonstrasjon.jpg' alt='Bilde av en stor menneskesamling i svart og hvitt. Foto')
    figcaption «De navnløses hær» ved en 1. mai-demonstrasjon i Oslo i 1935. Foto: NTB / Scanpix
 
   blockquote
@@ -239,18 +241,20 @@ PageBook
     span(class="ml40") men kjemper til døden for den. 
 
   figure.col.col12
-   img(src='./Nilsen_Kamplyrikk.jpg' alt='')
+   img(src='./Nilsen_Kamplyrikk.jpg' alt='Menneskemengde med mange faner samlet foran en statue. Foto')
    figcaption Avdukingen av monumentet over Rudolf Nilsen på Rudolf Nilsens plass i Oslo 1. mai 1954. Foto: NTB / Scanpix
 
   p Mannlig utgang på verselinja er med på å skape et kontant og bestemt uttrykk. I «Revolusjonens røst» rimer dessuten alle linjene i strofen på hverandre, slik at rimordene kommer tett i tett. Rimet virker insisterende og er med på å hamre det steile budskapet inn i leseren. 
 
   p Språket i diktene til Nilsen er liketil og direkte. Han bruker enkle bilder hentet fra hverdagslivet, og ord som vekker sterke følelser. Rim og rytme understreker innholdet. Målet er å påvirke leserne og mane til handling. 
 
-  p En fellesbetegnelse for lyrikk med et klart politisk formål er kamplyrikk. Andre forfattere som seinere skrev på samme måte, er Arnulf Øverland og Nordahl Grieg. Det kanskje mest berømte norske kampdiktet er likevel skrevet av en kvinne. Det er Inger Hagerups «Aust-Vågøy. 1941», som maner til motstand mot tyskerne under andre verdenskrig. 
+  p En fellesbetegnelse for lyrikk med et klart politisk formål er 
+    em kamplyrikk
+    | . Andre forfattere som seinere skrev på samme måte, er Arnulf Øverland og Nordahl Grieg. Det kanskje mest berømte norske kampdiktet er likevel skrevet av en kvinne. Det er Inger Hagerups «Aust-Vågøy. 1941», som maner til motstand mot tyskerne under andre verdenskrig. 
 
   h3 Fra Rudolf Nilsen til Lillebjørn Nilsen 
   figure.col.col6.right-image.mt5
-   img(src='./Nilsen_Lars_Klevstrand.jpg' alt='')
+   img(src='./Nilsen_Lars_Klevstrand.jpg' alt='Middelaldrende mann foran en statue som vises som en silhuett. Foto')
    figcaption Visesangeren Lars Klevstrand ved statuen av Rudolf Nilsen. Foto: VG / Scanpix
    
   p Rudolf Nilsen mente at forfatteren ikke kunne la være å ta stilling i klassekampen. Pennen skulle brukes som et våpen for revolusjonen. Dette synet på forfatterrollen går igjen hos radikale forfattere tidlig i 1970-årene, for eksempel hos Dag Solstad. Forfatterne skulle skrive for folket, og litteraturen skulle tjene arbeiderklassen. 

@@ -1,8 +1,12 @@
 <template lang="pug">
 PageBook(:showAuthor="false")
-  p Den eldre Edda er nemninga på dei aller eldste skriftene frå norrøn litteratur. Ordet «edda» tyder oldemor og indikerer at vi har med gammal dikting å gjere.
+  p 
+    em Den eldre Edda 
+    | er nemninga på dei aller eldste skriftene frå norrøn litteratur. Ordet «edda» tyder oldemor og indikerer at vi har med gammal dikting å gjere.
 
-  p Den eldre Edda er ei samling av helte- og gudedikt (om lag 30) som vart funnen på Island i 1643. Ingen av eddadikta er signerte av namngitte forfattarar.
+  p 
+    em Den eldre Edda 
+    | er ei samling av helte- og gudedikt (om lag 30) som vart funnen på Island i 1643. Ingen av eddadikta er signerte av namngitte forfattarar.
 
   p Det er vanleg å dele eddadikta inn i to grupper: gudedikt og heltedikt.
 
@@ -10,31 +14,35 @@ PageBook(:showAuthor="false")
 
   p Stoffet i eddadikta er først og fremst henta frå mytane, det vil seie den norrøne mytologien. Gudane i den norrøne mytologien står sentralt i eddadikta, og dikta fortel oss at menneska på denne tida hadde eit enkelt forhold til Odin og Tor. Du kan lese om den norrøne mytologien ein annan stad i Tidslinja.
 
-  p Dei tre mest kjende dikta frå Den eldre Edda er «Voluspå», «Trymskvida» og «Håvamål».
+  p Dei tre mest kjende dikta frå 
+    em Den eldre Edda 
+    | er «Voluspå», «Trymskvida» og «Håvamål».
 
 
   ImageTextBlock.mt5(
     :image="require(`./Edda_Faeroeyene.jpg`)"
     :imageColumns="4"
-    imageCaption="Her er volva framstilt på eit frimerke frå Færøyane."
+    imageCaption="Frimerke med teksten Føroyar. Kappekledd kvinne omgitt av ornamental skog. Illustrasjon"
     altText=""
     )
     h3 «Voluspå»
-    p «Voluspå» er eit gudedikt om skapinga av jorda, kva som fører til jordas undergang og om sjølve undergangen, som blir kalla ragnarok. Det er ei spåkvinne (volve) som snakkar til oss gjennom diktet.
+    p «Voluspå» er eit gudedikt om skapinga av jorda, kva som fører til jordas undergang og om sjølve undergangen, som blir kalla 
+      em ragnarok
+      | . Det er ei spåkvinne (volve) som snakkar til oss gjennom diktet.
 
   
 
   ImageTextBlock.mt5(
     :image="require(`./Edda_Tor_strir_med_jotnene.jpg`)"
     :imageColumns="4"
-    imageCaption="«Tor strir med jotnane», eit målarstykke av Mårten Eskil Winge"
+    imageCaption="Raudkledd krigar i vagn trekt av to geiter lyftar ein hammar. Lynet slår ned i fiendane han slost mot. Måleri"
     altText=""
     )
     h3 «Trymskvida»
     p «Trymskvida» er eit gudedikt som handlar om jotunen Trym som stel hammaren til Tor. Tor må ha hjelp av den listige Loke for å få hammaren igjen. Hammaren er både eit forsvarsvåpen og eit fruktbarheitssymbol for æsene, derfor er det særs viktig for Tor å få han tilbake. Men trass i at gudane altså må løyse eit alvorleg problem, er handlinga skildra med mykje humor.
 
   figure.col.col6.right-image.mt5
-    img(src="./Edda_Haavamaal.jpg")
+    img(src="./Edda_Haavamaal.jpg" alt="Krigar med skjegg og sverd står framfor dør som er dekorert med treskjering. Teksten Håvamål er del av biletet. Illustrasjon")
     figcaption Vatn og handduk han ventar å få, 
   h3 «Håvamål»
 
@@ -65,14 +73,16 @@ PageBook(:showAuthor="false")
     | fra Håvamål
 
   h3 Heltedikta
-  p Heltedikta i Den eldre Edda fortel segner som har røter heilt attende i folkevandringstida. Dikta levde på folkemunne i mange hundre år før dei vart nedskrivne. Fleire av heltegjerningane har overmenneskelege dimensjonar. Heltane kjempar både mot ytre farar og mot sitt indre samvit.
+  p Heltedikta i 
+    em Den eldre Edda 
+    | fortel segner som har røter heilt attende i folkevandringstida. Dikta levde på folkemunne i mange hundre år før dei vart nedskrivne. Fleire av heltegjerningane har overmenneskelege dimensjonar. Heltane kjempar både mot ytre farar og mot sitt indre samvit.
 
   p Eitt av heltedikta i Den eldre Edda fortel om Sigurd Fåvnesbane. Denne segna finn vi att i heile det germanske språkområdet, mellom anna i det tyske heltediktet «Nibelungenlied».
 
   p Sigurd blir fostra av dvergen Regin. I diktet «Reginsmål» får vi høyre om skatten som draken Fåvne vaktar på. Fåvne er bror til Regin, og skatten er arven etter far deira, Reidmar. Men Fåvne nektar å dele med bror sin. Da eggjar Regin Sigurd til å drepe Fåvne. Han smir om sverdet Gram, som Sigurd har arva etter faren. Med dette sverdet skal han kjempe mot draken. 
 
   figure.col.col3.left-image
-    img(src="./Edda_Hylestad.jpg")
+    img(src="./Edda_Hylestad.jpg" alt="Treskjering. Krigar med sverd og skjold slåst mot drageliknande uhyre. Foto")
     figcaption På Hylestad stavkyrkje er segna om Sigurd framstilt.
 
   p «Fåvnesmål» fortel korleis det går til når Sigurd drep Fåvne. Før Fåvne døyr, rår han Sigurd til å dra heim utan skatten fordi gullet kjem til å bli hans bane. Dessutan åtvarar han Sigurd mot Regin.

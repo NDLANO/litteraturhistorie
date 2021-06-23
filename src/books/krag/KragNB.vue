@@ -1,25 +1,31 @@
 <template lang="pug">
 PageBook
   h3 Lyrikken vender tilbake
-  img.col.col4.left-image.mt5(src='./Krag_Lyrikken_vender_tilbake1.jpg' alt='')
+  img.col.col4.left-image.mt5(src='./Krag_Lyrikken_vender_tilbake1.jpg' alt='Statue av sittende mann som holder en bok. Vilhelm Krag  1971 - 1933 står skrevet på sokkelen. Foto')
   p Da diktet «Fandango» ble lest høyt i Studentersamfundet høsten 1890, vakte det stor begeistring hos tilhørerne. Her kom det noe helt annet enn den samfunns- og problemorienterte prosalitteraturen som hadde dominert de to siste tiårene. Forfatteren var en nitten år gammel student, Vilhelm Krag. «Fandango» regnes som ett av de to programdiktene som innledet den nyromantiske perioden. Det andre diktet er «Jeg ser» (1893) av Sigbjørn Obstfelder. 
 
   p Vilhelm Krag (1871–1933) skrev noen nyromantiske diktsamlinger, men ble etter hvert mer og mer opptatt av heimstaddikting. Han ble født og vokste opp på Sørlandet, og i mange av tekstene skildret han naturen og folket i landsdelen.
 
   figure.col.col6.right-image.mt5
-   img(src='./Krag_Lyrikken_vender_tilbake2.jpg' alt='')
+   img(src='./Krag_Lyrikken_vender_tilbake2.jpg' alt='Tre menn sitter ved sjøen. Nærmest kamera sitter en eldre mann i hvit jakke og med pipe. Foto')
    figcaption Vilhelm Krag (i midten) med venner ved huset sitt i Ny Hellesund
-  img.col.col6.right-image.mt5(src='./Krag_Lyrikken_vender_tilbake3.jpg' alt='')
-  p I dag er Krag mest kjent for de muntre sørlandsvisene, og mange komponister har skrevet melodier til diktene hans. Andre kjente verk er folkekomedien Baldevins bryllup og Min barndoms have, en varm fortelling om barndom og oppvekst. Gjennom de muntre fortellingene om Morten og Silius har han skildret folket og naturen på Sørlandet. Men Krags skildringer var ikke bare idylliserende. Både borgerlig dobbeltmoral, religiøs fanatisme og kvinneundertrykking er temaer i bøkene hans. 
+  img.col.col6.right-image.mt5(src='./Krag_Lyrikken_vender_tilbake3.jpg' alt='Tre hvitmalte hus ved brygge i skjærgården. Svaberg og trær i bakgrunnen. Foto')
+  p I dag er Krag mest kjent for de muntre sørlandsvisene, og mange komponister har skrevet melodier til diktene hans. Andre kjente verk er folkekomedien 
+    em Baldevins bryllup 
+    | og 
+    em Min barndoms have
+    | , en varm fortelling om barndom og oppvekst. Gjennom de muntre fortellingene om Morten og Silius har han skildret folket og naturen på Sørlandet. Men Krags skildringer var ikke bare idylliserende. Både borgerlig dobbeltmoral, religiøs fanatisme og kvinneundertrykking er temaer i bøkene hans. 
 
   p Vilhelm Krag skrev både lyrikk, drama, romaner og noveller, 43 bøker i alt. I tillegg til å skrive skjønnlitteratur arbeidet han både som teaterinstruktør, teatersjef og forlagskonsulent, og han var en aktiv samfunnsdebattant.  
 
   h3 Digte (1891) 
-  p Vilhelm Krag debuterte med samlingen Digte bare noen måneder etter suksessen med opplesingen i Studentersamfundet. Han fikk strålende kritikker og skryt i avisene for sin nyskapende poesi, og han ble omtalt som en kommende stor dikter. 
+  p Vilhelm Krag debuterte med samlingen 
+    em Digte 
+    | bare noen måneder etter suksessen med opplesingen i Studentersamfundet. Han fikk strålende kritikker og skryt i avisene for sin nyskapende poesi, og han ble omtalt som en kommende stor dikter. 
 
   p Den første teksten i samlingen er nettopp «Fandango». Diktet var ikke bare et friskt pust etter en lang periode med samfunnskritisk prosa. Det bar også preg av nye impulser fra europeisk litteratur og kulturliv, en utradisjonell bruk av musikalske virkemidler som klanger, rim og rytme. I tillegg kommer en interesse for eksotiske steder og miljøer, en livsfølelse som skifter mellom overstrømmende livsglede og dyp melankoli, fortvilelse og sorg. Disse trekkene kan vi finne igjen i mye av den nyromantiske diktningen i 1890-årene. 
 
-  img.col.col5.right-image.mt5(src='./Krag_Digte.jpg' alt='')
+  img.col.col5.right-image.mt5(src='./Krag_Digte.jpg' alt='Kvinne danser med bar overkropp. I bakgrunnen sitter en mørkhudet kvinne. Maleri')
   blockquote
     | Ikke janischarmusik. 
     br
@@ -48,8 +54,12 @@ PageBook
 
   h3 Inspirasjon utenfra – det eksotiske og fremmede 
 
-  img.col.col12(src='./Krag_Det_eksotiske_og_fremmede.jpg' alt='')
-  p Et typisk nyromantisk trekk ved «Fandango» er fascinasjonen for det fjerne og eksotiske, for steder og kulturer som de fleste knapt hadde hørt om. Vi finner mange slike eksotiske elementer i diktet: Her spiller de janitsjarmusikk og danser fandango – det ene tyrkisk militærmusikk, det andre en spansk folkedans. Vi møter også danserinner fra Tsjerkessia, et lite avsidesliggende land i Kaukasus. 
+  img.col.col12(src='./Krag_Det_eksotiske_og_fremmede.jpg' alt='Kvinne og mann omfavner og kjærtegner hverandre. Maleri')
+  p Et typisk nyromantisk trekk ved «Fandango» er fascinasjonen for det fjerne og eksotiske, for steder og kulturer som de fleste knapt hadde hørt om. Vi finner mange slike eksotiske elementer i diktet: Her spiller de 
+    em janitsjarmusikk 
+    | og danser 
+    em fandango 
+    | – det ene tyrkisk militærmusikk, det andre en spansk folkedans. Vi møter også danserinner fra Tsjerkessia, et lite avsidesliggende land i Kaukasus. 
 
   p Jeg-personen i «Fandango» likner en sultan eller hersker i et fjernt land. Han kan befale at musikanter skal spille, og at kvinner skal danse for han når han ønsker det. Han kan nyte all verdens gleder og opplevelser. Men det finnes en ting han ikke rår over, og det er døden. Vissheten om at han også må dø, virker lammende på han, og det eneste botemidlet han kjenner til, er å be musikantene spille høy, taktfast janitsjarmusikk for å overdøve de skremmende tankene. 
 
@@ -57,15 +67,17 @@ PageBook
 
   h3 Inspirasjon utenfra – dekadansedikterne 
 
-  img.col.col12(src='./Krag_Dekadansedikterne1.jpg' alt='')
+  img.col.col12(src='./Krag_Dekadansedikterne1.jpg' alt='Mann i bar overkropp sitter ansikt til ansikt med en gepard med menneskehode. Kollasj')
   p Med «Fandango» hadde Krag fanget inn strømmene i tida. Han var nemlig slett ikke den eneste dikteren i samtida som skrev om hvordan alt vakkert og levende bærer i seg kimen til sin egen undergang. De såkalte dekadansedikterne dyrket det eksotiske, sanselige og vakre, samtidig som de var opptatt av forfallet og det heslige. 
 
-  img.col.col4.left-image.mt5(src='./Krag_Dekadansedikterne2.jpg' alt='')
-  p Ordet dekadanse betyr forfall, nedgang, særlig i kulturell forstand. Tida like før og etter 1900 opplevde mange som sluttfasen av en kulturell periode. En kunne se at ei ny tid var i emning, men samfunnsendringene gjorde menneskene utrygge. I Frankrike brukte en begrepet «fin de siècle», det vil si slutten på århundret, om den melankolske og urolige stemningen som fulgte med denne overgangsfasen. «Fin de siècle»-stemningen preget verkene til mange forfattere og kunstnere i Europa.  
+  img.col.col4.left-image.mt5(src='./Krag_Dekadansedikterne2.jpg' alt='To lettkledde kvinner sitter foran en busk i utfordrende positur. Illustrasjon')
+  p Ordet 
+    em dekadanse 
+    | betyr forfall, nedgang, særlig i kulturell forstand. Tida like før og etter 1900 opplevde mange som sluttfasen av en kulturell periode. En kunne se at ei ny tid var i emning, men samfunnsendringene gjorde menneskene utrygge. I Frankrike brukte en begrepet «fin de siècle», det vil si slutten på århundret, om den melankolske og urolige stemningen som fulgte med denne overgangsfasen. «Fin de siècle»-stemningen preget verkene til mange forfattere og kunstnere i Europa.  
 
   h3 Inspirasjon utenfra – symbolismen 
 
-  img.col.col4.left-image.mt5(src='./Krag_Symbolismen.jpg' alt='')
+  img.col.col4.left-image.mt5(src='./Krag_Symbolismen.jpg' alt='I forgrunnen en person står på en bro og holder seg for ørene. To personer som silhuetter i bakgrunnen. Et abstrakt kystlandsskap i solnedgang. Maleri')
   p Krag og de andre nyromantiske dikterne hentet også inspirasjon fra symbolismen, en litterær retning som vokste fram i Frankrike og Belgia i andre halvdel av 1800-tallet. Symbolistene ville ikke at kunsten skulle være realistisk eller samfunnskritisk. De ønsket en kunst som uttrykte ideer og følelser, men på en indirekte måte. Motivet i et maleri eller et dikt skulle ha symbolsk (overført) innhold og stå for noe annet og mer enn seg selv.  
 
   p Diktet «Der skreg en fugl», som også er hentet fra Krags debutsamling, kan sies å være et godt eksempel i så måte. Det skildrer et kort øyeblikk, noen få sanseinntrykk, som formidler en sinnstilstand av dyp melankoli: 
@@ -97,7 +109,7 @@ PageBook
   p Krag skaper en forestilling om Sørlandet som en egen landsdel, og han prøver å gi folket som bor der, en identitet. I en artikkel i Morgenbladet fra 1902 foreslår han å kalle landsdelen med kyststripe fra Risør til Flekkefjord for Sørlandet. Forslaget fikk raskt gjennomslag. 
 
   figure.col.col6.right-image
-   img(src='./Krag_Sange_fra_min_oe.jpg' alt='')
+   img(src='./Krag_Sange_fra_min_oe.jpg' alt='Kystlandskap med person i robåt i forgrunnen. Flere øyer danner et sund i bakgrunnen. Maleri')
    figcaption «Morgen i Ny Hellesund» av Amaldus Nielsen
   blockquote
     | O Sørland, du min moderjord, 
@@ -119,11 +131,15 @@ PageBook
     | og derfor stilt den græder. 
 
   h3 Heimstaddikting
-  p Nyromantikken skapte også en interesse for heimstaddikting. Mange mennesker opplevde urbaniseringen og moderniseringen av samfunnet som en trussel mot det bygdenorske, og heimstaddiktingen utgjorde en motvekt mot den nye og til dels skremmende utviklingen. Heimstaddikterne skrev varmt om miljøet hjemme. Slik de så det, levde menneskene det gode livet der de hadde sine røtter og sitt opphav. 
+  p Nyromantikken skapte også en interesse for 
+    em heimstaddikting
+    | . Mange mennesker opplevde urbaniseringen og moderniseringen av samfunnet som en trussel mot det bygdenorske, og heimstaddiktingen utgjorde en motvekt mot den nye og til dels skremmende utviklingen. Heimstaddikterne skrev varmt om miljøet hjemme. Slik de så det, levde menneskene det gode livet der de hadde sine røtter og sitt opphav. 
 
   p Vilhelm Krag satt i Kristiania og skrev om Sørlandet, og han lengtet hjem. I 1917 skaffet vennene han boligen Havbukta i Ny-Hellesund. Plassen var et gammelt fiskebruk og bolig for losen. For dikteren ble Ny-Hellesund og Havbukta et fristed og en inspirasjon til å skrive. 
 
-  p I samlingen Sange fra min ø (1918) gir Krag uttrykk for hvor takknemlig han er for å kunne komme hjem og være hos sine egne: 
+  p I samlingen 
+    em Sange fra min ø 
+    | (1918) gir Krag uttrykk for hvor takknemlig han er for å kunne komme hjem og være hos sine egne: 
 
   blockquote
     | Fattig fant var jeg. 
@@ -150,7 +166,9 @@ PageBook
     | hvor vidunderlig I tok feil. 
 
   h3 Sange fra min ø 
-  p Diktsamlingen Sange fra min ø ble trykt i 4000 eksemplarer. Antallet sier noe om at Vilhelm Krag hadde klart å treffe publikum. Det kjente maleriet til Amaldus Nielsen, «Morgen i Ny-Hellesund», prydet boka – som dikteren dediserte til «dem som skjænkede mig øen». Seinere kom komponisten Johan Halvorsen på besøk til Ny-Hellesund og tonesatte mange av diktene. «Øen» er også et erkjennelsesdikt der Vilhelm Krag gjør opp status for livet sitt: 
+  p Diktsamlingen 
+    em Sange fra min ø 
+    | ble trykt i 4000 eksemplarer. Antallet sier noe om at Vilhelm Krag hadde klart å treffe publikum. Det kjente maleriet til Amaldus Nielsen, «Morgen i Ny-Hellesund», prydet boka – som dikteren dediserte til «dem som skjænkede mig øen». Seinere kom komponisten Johan Halvorsen på besøk til Ny-Hellesund og tonesatte mange av diktene. «Øen» er også et erkjennelsesdikt der Vilhelm Krag gjør opp status for livet sitt: 
 
   blockquote
     | Hvor ble livet av? 

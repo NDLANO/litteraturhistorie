@@ -4,7 +4,7 @@ PageBook
   h3 Ikon og folkehelt
 
   figure.col.col6.right-image.mt5
-   img(src='./ibsen_ikon_og_folkehelt1.jpg' alt='')
+   img(src='./ibsen_ikon_og_folkehelt1.jpg' alt='Svart og hvitt portrett av eldre mann med hvitt hår, runde briller og hvitt kinnskjegg. Foto')
    figcaption Foto: Scanpix
 
   p Henrik Johan Ibsen ble født i Skien i 1828. Faren var en rik forretningsmann, og mora kom også fra en velstående handelsfamilie. Nederlaget og prestisjetapet var derfor stort da faren gikk konkurs, og familien måtte flytte ut av byen. Flere biografer har vektlagt denne hendingen som en drivkraft for Ibsen seinere i livet. 
@@ -20,79 +20,126 @@ PageBook
   h3 Fra nasjonalromantikk til modernisme 
 
   figure.col.col6.right-image.mt5
-   img(src='./ibsen_Fra_nasjonalromantikk_til_modernisme1.jpg' alt='')
+   img(src='./ibsen_Fra_nasjonalromantikk_til_modernisme1.jpg' alt='Kvinne står foran mann, begge ser mot sin høyre side. Kvinnen er kledt i rødt, mannen i svart. Foto')
    figcaption Liv Ullmann som Agnes i Det Norske Teatrets oppsetning av Henrik Ibsens skuespill «Brand». Svein Erik  Brodal spiller rollen som Brand. Foto: NTB / Scanpix
    
-  p Ibsens forfatterskap kan deles i fire faser. Til å begynne med skrev Ibsen historiske dramaer i nasjonalromantisk ånd. Motivene var hentet fra norsk historie, og handling og konflikter utspiller seg i en fjern fortid. Et sentralt tema i flere av disse dramaene er tanken om samfølelse og nasjonal selvstendighet, og heltene er staute nordmenn som kjemper for land og folk. 
+  p Ibsens forfatterskap kan deles i fire faser. Til å begynne med skrev Ibsen 
+    em historiske dramaer 
+    | i nasjonalromantisk ånd. Motivene var hentet fra norsk historie, og handling og konflikter utspiller seg i en fjern fortid. Et sentralt tema i flere av disse dramaene er tanken om samfølelse og nasjonal selvstendighet, og heltene er staute nordmenn som kjemper for land og folk. 
 
-  p Men fra og med Brand (1866) skrev Ibsen det vi kaller idédramaer – tekster der han tar opp eksistensielle temaer og spørsmål. Han skrev blant annet om tro og tvil, om identitet og mangel på identitet. Dernest ble han en del av det moderne gjennombruddet i norsk litteratur og samfunnsdebatt med sine realistiske samtidsdramaer. Fra midten av 1880-årene ser vi at Ibsens persongalleri blir mer sammensatt og nyansert. Han gjør et dypdykk i livsvilkårene til den moderne kvinne og mann, og med de såkalte symboldramaene introduserer han symbolismen og modernismen i norsk dramatikk. 
+  p Men fra og med 
+    em Brand 
+    | (1866) skrev Ibsen det vi kaller 
+    em idédramaer 
+    | – tekster der han tar opp eksistensielle temaer og spørsmål. Han skrev blant annet om tro og tvil, om identitet og mangel på identitet. Dernest ble han en del av det moderne gjennombruddet i norsk litteratur og samfunnsdebatt med sine realistiske samtidsdramaer. Fra midten av 1880-årene ser vi at Ibsens persongalleri blir mer sammensatt og nyansert. Han gjør et dypdykk i livsvilkårene til den moderne kvinne og mann, og med de såkalte symboldramaene introduserer han 
+    em symbolismen 
+    | og 
+    em modernismen 
+    | i norsk dramatikk. 
   
   h3 Idédrama og eksistensielle spørsmål 
   
   figure.col.col6.right-image.mt5
-   img(src='./ibsen_idedrama_og_eksistensielle_spoersmaal1.jpg' alt='')
+   img(src='./ibsen_idedrama_og_eksistensielle_spoersmaal1.jpg' alt='Mann holder rundt en delvis avkledd kvinne. En annen kvinne kommer mot dem. Foto')
    figcaption Dennis Storhøi i rollen som Peer Gynt, i møtet med seterjentene. Foto: Kristoffer Øverli Andersen / VG / Scanpix
 
   p Ibsens store gjennombrudd som dramatiker kom i 1866 med idédramaet Brand. Stykket handler om presten Brand og de ufravikelige, harde krav han stiller til seg selv og omverdenen. Brand er først en populær prest i ei lita fjellbygd, men han driver budskapet sitt så langt at menigheten til slutt jager ham opp på fjellet. Et snøskred tar med seg både Brand og bygda. 
 
   p 
     | I 1867 gav Henrik Ibsen ut det dramatiske diktet 
-    a(href="https://www.nb.no/items/c705f61f387941bee1f5cb3e6510b9d1?page=23&searchText=peer%20gynt" target="_blank") Peer Gynt
-    | . Et dramatisk dikt er bygd opp som et skuespill med replikker og inndeling i scener og akter, men selve replikkene har rim og fast rytme. Peer Gynt er et av de mest spilte stykkene til Ibsen, selv om persongalleriet er svært omfattende og handlingen foregår både i Norge og i utlandet, til havs og på land, i den virkelige verden og i drømmeverden. 
+    a(href="https://www.nb.no/items/c705f61f387941bee1f5cb3e6510b9d1?page=23&searchText=peer%20gynt" target="_blank") 
+      em Peer Gynt
+    | . Et dramatisk dikt er bygd opp som et skuespill med replikker og inndeling i scener og akter, men selve replikkene har rim og fast rytme. 
+    em Peer Gynt 
+    | er et av de mest spilte stykkene til Ibsen, selv om persongalleriet er svært omfattende og handlingen foregår både i Norge og i utlandet, til havs og på land, i den virkelige verden og i drømmeverden. 
 
-  p Med Peer Gynt tok Ibsen et oppgjør med det han betraktet som typisk norske karaktertrekk og norsk væremåte. Ibsen mente at nordmenn var «seg selv nok». Peer Gynt lyger, sniker seg unna problemer, driver med tvilsomme forretninger og svikter mennesker rundt seg. I kontrast til Peer står Solveig. Hun venter tålmodig på kjæresten sin hjemme i Norge. I henne så Ibsen mange av de kvalitetene han mente det var verdt å ta vare på, og det er kjærligheten til Solveig som redder Peer fra å gå under. 
+  p Med 
+    em Peer Gynt 
+    | tok Ibsen et oppgjør med det han betraktet som typisk norske karaktertrekk og norsk væremåte. Ibsen mente at nordmenn var «seg selv nok». Peer Gynt lyger, sniker seg unna problemer, driver med tvilsomme forretninger og svikter mennesker rundt seg. I kontrast til Peer står Solveig. Hun venter tålmodig på kjæresten sin hjemme i Norge. I henne så Ibsen mange av de kvalitetene han mente det var verdt å ta vare på, og det er kjærligheten til Solveig som redder Peer fra å gå under. 
 
   figure.col.col12
-   img(src='./ibsen_idedrama_og_eksistensielle_spoersmaal2.jpg' alt='')
+   img(src='./ibsen_idedrama_og_eksistensielle_spoersmaal2.jpg' alt='Mann i rød kappe holder seg til pannen. Rundt han flere delvis belyste skikkelser. Foto')
    figcaption Peer Gynt i Bjarte Hjelmelands skikkelse da stykket ble oppført ved Sfinksen og Pyramidene i Egypt i 2006. Foto: Heiko Junge / Scanpix
 
-  p Peer Gynt er et stykke som handler om å søke etter egen identitet. Peer prøver å finne ut hvem han er, men i stedet for en fast kjerne og stabil personlighet finner han flere identitetslag. Og nettopp spørsmålet om identitet gjør stykket moderne og evig aktuelt. På nytt står Solveig som kontrast til identitetsløsheten, for i kjærligheten, troen og håpet hennes er Peer et helt menneske. 
+  p 
+    em Peer Gynt 
+    | er et stykke som handler om å søke etter egen identitet. Peer prøver å finne ut hvem han er, men i stedet for en fast kjerne og stabil personlighet finner han flere identitetslag. Og nettopp spørsmålet om identitet gjør stykket moderne og evig aktuelt. På nytt står Solveig som kontrast til identitetsløsheten, for i kjærligheten, troen og håpet hennes er Peer et helt menneske. 
 
   h3 Kritisk realisme og det moderne gjennombruddet 
-  p Det moderne gjennombruddet og kritisk realisme er for norsk litteratur nærmest synonymt med Ibsen og hans samtidsdramaer: Samfundets Støtter (1877), Et Dukkehjem (1879), Gengangere (1881) og En Folkefiende (1882). I disse tekstene utfordrer Ibsen tradisjonelle verdier og normer som han mente var undertrykkende og hyklerske. Tanken var at menneskene – både mann og kvinne – måtte få leve i frihet og sannhet. 
+  p Det moderne gjennombruddet og kritisk realisme er for norsk litteratur nærmest synonymt med Ibsen og hans samtidsdramaer: 
+    em Samfundets Støtter 
+    | (1877), 
+    em Et Dukkehjem 
+    | (1879), 
+    em Gengangere 
+    | (1881) og 
+    em En Folkefiende 
+    | (1882). I disse tekstene utfordrer Ibsen tradisjonelle verdier og normer som han mente var undertrykkende og hyklerske. Tanken var at menneskene – både mann og kvinne – måtte få leve i frihet og sannhet. 
   
   h5 Et Dukkehjem 
   p 
     | I 
-    a(href="https://www.nb.no/items/ac782e5c8d19e74132fd2cb625ea4138?page=0&searchText=et dukkehjem" target="_blank") Et Dukkehjem 
-    | &nbsp;er det Nora som må ta et oppgjør med sitt eget liv. Ektemannen omtaler Nora som lerkefuglen sin, han ser på henne som ei lekedokke, ikke som et voksent og likeverdig menneske. Men også Nora selv spiller rollen som lerkefugl etter beste evne, helt til det går opp for henne at hun ikke er mer for mannen sin enn nettopp det. Da forlater hun mann og barn for å finne seg selv. Et Dukkehjem vakte sterke reaksjoner da stykket ble framført. På tyske scener nektet de å sette opp stykket om ikke Ibsen endret slutten. At Nora gikk fra både mann og barn, ble for mye å svelge for publikum. 
+    a(href="https://www.nb.no/items/ac782e5c8d19e74132fd2cb625ea4138?page=0&searchText=et dukkehjem" target="_blank") 
+      em Et Dukkehjem 
+    | &nbsp;er det Nora som må ta et oppgjør med sitt eget liv. Ektemannen omtaler Nora som lerkefuglen sin, han ser på henne som ei lekedokke, ikke som et voksent og likeverdig menneske. Men også Nora selv spiller rollen som lerkefugl etter beste evne, helt til det går opp for henne at hun ikke er mer for mannen sin enn nettopp det. Da forlater hun mann og barn for å finne seg selv. 
+    em Et Dukkehjem 
+    | vakte sterke reaksjoner da stykket ble framført. På tyske scener nektet de å sette opp stykket om ikke Ibsen endret slutten. At Nora gikk fra både mann og barn, ble for mye å svelge for publikum. 
 
   // Ta ut video
 
-  p Et Dukkehjem var også et innlegg i samtidsdebatten om gifte kvinners stilling. Gifte kvinner var juridisk umyndige, det var mannen som bestemte i økonomiske spørsmål. Han hadde også rett til å avgjøre hvordan barna skulle oppdras, og hvor familien skulle bo. Loven bekreftet at kvinner ble regnet som store barn, ikke som voksne. 
+  p 
+    em Et Dukkehjem 
+    | var også et innlegg i samtidsdebatten om gifte kvinners stilling. Gifte kvinner var juridisk umyndige, det var mannen som bestemte i økonomiske spørsmål. Han hadde også rett til å avgjøre hvordan barna skulle oppdras, og hvor familien skulle bo. Loven bekreftet at kvinner ble regnet som store barn, ikke som voksne. 
 
   h5 Gengangere 
   figure.col.col6.right-image
-   img(src='./ibsen_Kristisk_realisme_og_det_moderne_gjennombruddet1.jpg' alt='')
+   img(src='./ibsen_Kristisk_realisme_og_det_moderne_gjennombruddet1.jpg' alt='Sortkledd kvinne i forgrunnen, noe ute av fokus. I bakgrunnen ei utstillingsdukke i barnestørrelse i fokus. Foto')
    figcaption Fru Alving spilt av Marit Østbye i Riksteatrets opsetning av  Gengangere. Foto: Lise Åse-rud / Scanpix
 
   p 
     | I 
-    a(href="https://www.nb.no/items/ac782e5c8d19e74132fd2cb625ea4138?page=0&searchText=et dukkehjem" target="_blank") Gengangere 
+    a(href="https://www.nb.no/items/ac782e5c8d19e74132fd2cb625ea4138?page=0&searchText=et dukkehjem" target="_blank") 
+      em Gengangere 
     | &nbsp;møter vi fru Alving, som mange ser på som Noras motstykke. Fru Alving er kvinnen som har holdt ut i et ekteskap der fasade var viktigere enn kjærlighet, omsorg og sannhet. Ektemannen hennes er død, men fortsatt jobber hun hardt for å skjule sannheten om livet han førte. Først da sønnen kommer hjem syk av syfilis – en arv etter farens utsvevende liv – rakner alt. Barnehjemmet hun har bygd i mannens navn, brenner ned, og til slutt hjelper hun sønnen med å ta livet sitt.
 
-  p Skuespillet ble slaktet i pressen – noen sammenliknet det med «en åpen kloakk». I Gengangere spiller arv og miljø en sentral rolle, her finnes ikke lenger noen tro på at menneskene kan søke frihet. Fru Alving finner ikke veien ut slik Nora gjorde. 
+  p Skuespillet ble slaktet i pressen – noen sammenliknet det med «en åpen kloakk». I 
+    em Gengangere 
+    | spiller arv og miljø en sentral rolle, her finnes ikke lenger noen tro på at menneskene kan søke frihet. Fru Alving finner ikke veien ut slik Nora gjorde. 
 
   h3 Ibsens symbolisme: tidlig modernisme 
   p 
     | Fra og med 
-    a(href="https://www.nb.no/items/ac782e5c8d19e74132fd2cb625ea4138?page=0&searchText=et dukkehjem" target="_blank") Vildanden
+    a(href="https://www.nb.no/items/ac782e5c8d19e74132fd2cb625ea4138?page=0&searchText=et dukkehjem" target="_blank") 
+      em Vildanden
     | &nbsp;(1884) skjer det noe nytt i Ibsens forfatterskap. Han løsriver seg fra det realistiske teateret og skriver psykologiske og symbolladde dramaer. Vi finner igjen trekk i tekstene som vi har sett før, for eksempel konflikten mellom ideal og virkelighet og mellom løgn og sannhet. Men Ibsen går nå dypere inn i karakterene sine og gjør dem mer komplekse. Han bruker dessuten i større grad symboler i sine tekster, symboler som ikke er uttømmende, men kan tolkes på flere måter. 
 
-  p I Vildanden er det mye mystikk knyttet til mørkeloftet hos familien Ekdal. På dette loftet gjemmer de en skadeskutt villand. Denne villanden blir selve symbolet på den vesle familien, der alle er skadeskutt på hver sin måte. Hjalmar Ekdal får vite at Hedvig egentlig ikke er dattera hans, og vender henne ryggen. Hedvig blir knust og tar til slutt livet sitt. 
+  p I 
+    em Vildanden 
+    | er det mye mystikk knyttet til mørkeloftet hos familien Ekdal. På dette loftet gjemmer de en skadeskutt villand. Denne villanden blir selve symbolet på den vesle familien, der alle er skadeskutt på hver sin måte. Hjalmar Ekdal får vite at Hedvig egentlig ikke er dattera hans, og vender henne ryggen. Hedvig blir knust og tar til slutt livet sitt. 
 
-  p I Vildanden peker Ibsen enda en gang på hva det kan koste å leve i sannhet. I stykket står de to personene Gregers Werle og Dr. Relling som kontraster i synet på nettopp dette. Gregers Werle mener en må leve i «full sannhet», og han bidrar sterkt til at Hedvigs egentlige far blir kjent. Dr. Relling er av en annen oppfatning. Mot slutten av skuespillet oppsummerer han budskapet sitt slik: «Tar De livsløgnen fra et gjennomsnittsmenneske, tar De lykken fra ham med det samme.» 
+  p I 
+    em Vildanden 
+    | peker Ibsen enda en gang på hva det kan koste å leve i sannhet. I stykket står de to personene Gregers Werle og Dr. Relling som kontraster i synet på nettopp dette. Gregers Werle mener en må leve i «full sannhet», og han bidrar sterkt til at Hedvigs egentlige far blir kjent. Dr. Relling er av en annen oppfatning. Mot slutten av skuespillet oppsummerer han budskapet sitt slik: «Tar De livsløgnen fra et gjennomsnittsmenneske, tar De lykken fra ham med det samme.» 
 
-  p Andre kjente dramaer fra denne perioden er Fruen fra havet (1888), Hedda Gabler (1890), Byggmester Solness (1892) og Når vi døde vågner (1899). 
+  p Andre kjente dramaer fra denne perioden er 
+    em Fruen fra havet 
+    | (1888), 
+    em Hedda Gabler 
+    | (1890), 
+    em Byggmester Solness 
+    | (1892) og 
+    em Når vi døde vågner 
+    | (1899). 
 
   h3 Hedda Gabler – en moderne kvinne 
 
   figure.col.col6.right-image.mt5
-   img(src='./ibsen_Hedda_Gabler1.jpg' alt='')
+   img(src='./ibsen_Hedda_Gabler1.jpg' alt='Kvinne står foran mann mot mørk bakgrunn. Bare ansiktene er opplyst. Foto')
    figcaption Flerkulturell Hedda Gabler på Riksteateret. Norsk-indiske Lavleen Kaur spiller Hedda, norsk-pakistanske Assad Siddique spiller Eilert Løvborg.  Foto: Tor G. Stenersen / Scanpix
 
   p 
-    a(href="https://www.nb.no/items/9080b4a54c4b8a986f5f03b97a78e29b?page=0&searchText=hedda%20gabler" target="_blank") Hedda Gabler
+    a(href="https://www.nb.no/items/9080b4a54c4b8a986f5f03b97a78e29b?page=0&searchText=hedda%20gabler" target="_blank") 
+      em Hedda Gabler
     | , hovedpersonen i dramaet med samme tittel, er på mange måter et eksempel på en moderne kvinne. Hun er en av de mest mystiske kvinnene hos Ibsen, vakker og omsvermet, kravstor og egenrådig, men også et offer for samtidas konvensjoner og for egne idealer. 
   
   h5 Personene rundt Hedda 
@@ -102,7 +149,7 @@ PageBook
   p Hedda og Jørgen Tesman er hjemme igjen etter en lang bryllupsreise. Hedda kjeder seg, for Tesman er bare opptatt av oppgaven han skriver på. Denne oppgaven kan gi Tesman en stilling på universitetet. Men så får ekteparet Tesman vite at Ejlert Løvborg er en sterk kandidat og konkurrent til stillingen, og Tesman blir bekymret. Løvborg har tidligere hatt et alkoholproblem, men de siste årene har han levd et tilbaketrukket og nøkternt liv. Han har dessuten gitt ut ei bok som er blitt godt mottatt, og et nytt manuskript er allerede ferdig. I arbeidet sitt har han fått hjelp av Thea Elvsted, som er forelsket i ham og reiser etter ham til byen. 
 
   figure.col.col6.right-image.mt5
-   img(src='./ibsen_Hedda_Gabler2.jpg' alt='')
+   img(src='./ibsen_Hedda_Gabler2.jpg' alt='Personer i kostymer på en scene. Scenelystet gir et rødlig skjær. Foto')
    figcaption Hangzhou Yue Opera framførte sin versjon av  Hedda Gabler under åpninga av Ibsen-året 2006. Foto: Jarl Fr. Erichsen / Scanpix
 
   p Løvborg kommer på besøk til Tesmans, og det oppstår spenninger mellom han og Hedda. Hedda er sjalu på forholdet mellom Løvborg og fru Elvsted og på samarbeidet deres om manuskriptet. Hun provoserer Løvborg til å slå følge med Tesman og noen andre som skal ut på byen. 
@@ -118,13 +165,17 @@ PageBook
 
   p Samtidig som Hedda ønsker seg menneskelig nærhet, holder hun alle på avstand. Hun vil gjerne få oppleve å være til nytte, men ingen trenger henne egentlig. Et sted i teksten sier hun at det eneste hun duger til, er å kjede seg til døde. Mangelen på mening i eget liv, kombinert med sjalusien på forholdet mellom Ejlert Løvborg og Thea Elvsted, gjør henne manipulerende og destruktiv. 
 
-  p Både i samtida og seinere har en fokusert mye på Ibsen som en realistisk forfatter som satte problemer under debatt. Men med Hedda Gabler og de andre stykkene fra 1890-årene peker Ibsen i større grad fram mot et mer modernistisk teater. Han setter blant annet søkelyset på flere av modernismens problemstillinger, som opplevelsen av meningstap og isolasjon, av fremmedgjøring og mangel på identitet.  
+  p Både i samtida og seinere har en fokusert mye på Ibsen som en realistisk forfatter som satte problemer under debatt. Men med 
+    em Hedda Gabler 
+    | og de andre stykkene fra 1890-årene peker Ibsen i større grad fram mot et mer modernistisk teater. Han setter blant annet søkelyset på flere av modernismens problemstillinger, som opplevelsen av meningstap og isolasjon, av fremmedgjøring og mangel på identitet.  
 
   h3 Ibsen i dag 
 
   p Nest etter Shakespeare er Henrik Ibsen den mest spilte dramatikeren i verden. Nora, Hedda, Peer Gynt og Hedvig blir tolket av kinesiske, brasilianske, russiske og indiske skuespillere, for å nevne noen. Men hvorfor alt engasjementet rundt Ibsen? Hva er det som gjør at han fortsatt er så aktuell? 
 
-  p For det første tok Ibsen opp temaer som er allmennmenneskelige. For det andre handler samtidsdramaene hans om spørsmål som ennå er aktuelle og til dels kontroversielle, til tross for at handlingen i Ibsens stykker er lagt til overklassemiljøer i Kristiania på slutten av 1800-tallet. Nora i Et Dukkehjem inspirerer kvinner i ulike kulturer i dag, kulturer der likestillingen for kvinner ikke er kommet like langt som i Norge. Gengangere handler om temaer som utroskap, kjønnssykdommer og aktiv dødshjelp – temaer som også i dag er kontroversielle. Og i Hedda Gabler tar Ibsen opp forholdet mellom kjønnene og søkingen etter identitet, i tillegg til fremmedgjøring og meningstap. Dette er emner som aldri går ut på dato. 
+  p For det første tok Ibsen opp temaer som er allmennmenneskelige. For det andre handler samtidsdramaene hans om spørsmål som ennå er aktuelle og til dels kontroversielle, til tross for at handlingen i Ibsens stykker er lagt til overklassemiljøer i Kristiania på slutten av 1800-tallet. Nora i 
+    em Et Dukkehjem 
+    | inspirerer kvinner i ulike kulturer i dag, kulturer der likestillingen for kvinner ikke er kommet like langt som i Norge. Gengangere handler om temaer som utroskap, kjønnssykdommer og aktiv dødshjelp – temaer som også i dag er kontroversielle. Og i Hedda Gabler tar Ibsen opp forholdet mellom kjønnene og søkingen etter identitet, i tillegg til fremmedgjøring og meningstap. Dette er emner som aldri går ut på dato. 
 
   //Medieinnhold: Ta ut bilde av hånd om holder bok (opplevibsen) og bildet av Giske. Ta ut videoer
 

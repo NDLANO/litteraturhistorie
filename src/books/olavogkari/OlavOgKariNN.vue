@@ -1,7 +1,7 @@
 <template lang="pug">
 PageBook
   h3 Bakgrunnen for visa
-  img.col.col6.right-image.mt5(src="./Olav_og_Kari_Bakgrunn_for_visa.jpg" alt="")
+  img.col.col6.right-image.mt5(src="./Olav_og_Kari_Bakgrunn_for_visa.jpg" alt="Kvinne og mann omfamnar kvarandre. Illustrasjon")
 
   p Folkevisa om Olav og Kari har røter attende til mellomalderen. Ho byggjer truleg på ei gammal fransk segn frå folkevandringstida.
 
@@ -18,7 +18,7 @@ PageBook
 
   h3 Konfliktane
 
-  img.col.col6.right-image.mt5(src="./Olav_og_Kari_Konfliktene.jpg" alt="")
+  img.col.col6.right-image.mt5(src="./Olav_og_Kari_Konfliktene.jpg" alt="Kvinne og mann speler sjakk. I forgrunnen fleire musikarar. Illustrasjon")
   h5 Kristendom mot heidenskap
   p I denne balladen blir kristendom sett opp mot heidenskap. Mellomalderen er ei brytningstid for kristendommen i Noreg, og det er viktig å ta avstand frå alt som minner om heidenskap. Dette forklarer den sterke reaksjonen til Olav på det mora seier om Kari. Samstundes viser reaksjonen hans at han faktisk ser på dei underjordiske og på trolldom som ein realitet.
   h5 Kjærleik, sjalusi og maktkamp 
@@ -28,7 +28,8 @@ PageBook
 
   h5 Vonde makter 
   p Vi finn kristne og heidenske førestellingar side om side i «Olav og Kari». I folketrua representerer for eksempel alvane farlege makter som trugar menneska. I mellomalderen er vonde ånder, trollmenn og trollkvinner slett ikkje berre fantasiskapningar for menneska.
-  img.col.col4.left-image.mt5(src="./Olav_og_Kari_Jomfru_Maria.jpg" alt="")
+  img.col.col4.left-image.mt5(src="./Olav_og_Kari_Jomfru_Maria.jpg" alt="Kvinne les i ei bok. Ei due flyg over ho. Illustrasjon")
+
   h5 Blodhemn og tilgiving 
   p Mens ættesamfunnet krev at urett skal hemnast, krev den kristne trua at ein skal tilgi fiendane sine. I «Olav og Kari» finn vi ei blanding av den gamle og den nye tenkjemåten.
 
@@ -44,14 +45,17 @@ PageBook
 
   p Eit viktig kjennemerke ved balladen er at han fortel ei historie. Vi kallar derfor balladen ein episk-lyrisk sjanger. Innhaldet er episk (forteljande), mens forma er lyrisk. Her finst enderim og rytme, og ei oppdeling i strofer som gjer at visa kan syngjast til ein fast melodi. Balladen har dessutan oftast eit omkved (refreng). Sjølve historia som balladen fortel, har til vanleg ein tragisk utgang. 
 
-  img.col.col4.left-image.mt5(src="./Olav_og_Kari_Magnus_Brostrup_Landstad.jpg" alt="")
-  p Heilt fram til 1800-talet vart balladane overførte munnleg i Noreg. Det er derfor vanskeleg å slå fast kor gamle dei balladane som er bevarte, verkeleg er. I første halvdel av 1800-talet samla Olea Crøger og Magnus Brostrup Landstad inn norske folkeviser og skreiv dei ned. Alt den gong var mange viser i ferd med å bli gløymde, så innsamlingsarbeidet skjedde i siste liten. I 1853 gav Landstad ut samlinga Norske Folkeviser. 
+  img.col.col4.left-image.mt5(src="./Olav_og_Kari_Magnus_Brostrup_Landstad.jpg" alt="Svart kvitt bilete av mann med hornbriller. Portrett av Magnus Bostrup Landstad. Foto")
+  p Heilt fram til 1800-talet vart balladane overførte munnleg i Noreg. Det er derfor vanskeleg å slå fast kor gamle dei balladane som er bevarte, verkeleg er. I første halvdel av 1800-talet samla Olea Crøger og Magnus Brostrup Landstad inn norske folkeviser og skreiv dei ned. Alt den gong var mange viser i ferd med å bli gløymde, så innsamlingsarbeidet skjedde i siste liten. I 1853 gav Landstad ut samlinga 
+    me Norske Folkeviser
+    | . 
 
   .clear
   h3 Ulike balladetypar 
   p På same måten som vi deler inn eventyr og segner i ulike grupper, skil vi også mellom ulike typar balladar:
 
-  img.col.col6.right-image.mt5(src="./Olav_og_Kari_Ulike_balladetyper.jpg" alt="")
+  img.col.col6.right-image.mt5(src="./Olav_og_Kari_Ulike_balladetyper.jpg" alt="Mann som foldar hendene framfor ei kvinne. Ein hest er bunden til eit tre. Illustrasjon")
+  
   h5 Riddarvisene
   p er den største gruppa. Her er det kvinnene som spelar hovudrolla, og kjærleik og sjalusi står sentralt. Men vi kan òg finne overnaturlege innslag i desse visene. Den mest kjende riddarvisa er «Bendik og Årolilja».
 
@@ -61,7 +65,7 @@ PageBook
   h5 Naturmytiske folkeviser
   p fortel om bergtaking og om folk som blir omskapte til bjørn, ulv og andre farlege dyr. Visene kan òg handle om korleis mennesket slåst mot slike lumske krefter, og korleis ein kan bli løyst frå trolldommen. «Villemann og Magnill» og «Olav Liljekrans» er naturmytiske folkeviser.
 
-  img.col.col5.right-image.mt5(src="./Olav_og_Kari_Norsk_billedbog_for_boern.jpg" alt="")
+  img.col.col5.right-image.mt5(src="./Olav_og_Kari_Norsk_billedbog_for_boern.jpg" alt="Bokomslag som viser barn som leikar. Illustrasjon")
   h5 Kjempe- og trollviser
   p har mykje til felles med dei naturmytiske visene. Dei handlar oftast om menn i kamp mot kvarandre, eller i kamp med troll og risar. «Torekall» er eit døme på ei trollvise, mens «Roland og Magnus kongjen» er ei kjempevise.
 
@@ -106,7 +110,11 @@ PageBook
   p Omkvedet kan ha ulike funksjonar. Det kan for eksempel formidle ei stemning, eller det kan binde saman handlinga. I mange viser finn vi også omkved som nemner dans og dansing. Omkveda i «Olav og Kari» er eksempel på denne siste typen. 
 
   h5 Rim
-  p Balladane har enderim (møy – døy). Det er tilstrekkeleg med vokalsamklang (assonans), konsonantane kan vere ulike (år – sjå, renn – heng). I dei firelinja strofene er det berre linjene 2 og 4 som rimar, linjene 1 og 3 er utan rim.
+  p Balladane har enderim (
+      em møy – døy
+      | ). Det er tilstrekkeleg med vokalsamklang (assonans), konsonantane kan vere ulike (
+      em år – sjå, renn – heng
+      | ). I dei firelinja strofene er det berre linjene 2 og 4 som rimar, linjene 1 og 3 er utan rim.
 
   h5 Dialogar
   p Dialogar er vanlege i balladane. I «Olav og Kari» finn vi samtalar både mellom Olav og mora og mellom Olav og Kari. Som i eventyra er det alltid berre to personar som snakkar saman (totalslova). Dialogane kastar lys over konfliktane og aukar spenninga.
@@ -161,12 +169,16 @@ PageBook
       | At du skal gløyma deg sjølv og meg.
 
   figure.col.col6.right-image.mt5
-    img(src="./Olav_og_Kari_Loft_i_Setesdal.jpg" alt="")
+    img(src="./Olav_og_Kari_Loft_i_Setesdal.jpg" alt="Kvinne og mann i tradisjonelle klede framfor eit lafta stabbur. Foto")
     figcaption Loft i Setesdal fotografert av Axel Lindahl kring 1890
 
   h5 Ein munnleg tradisjon
-  p Å lage og improvisere stev har vore ein levande tradisjon i somme landsdelar heilt fram til vår tid. Særleg i Vest-Telemark og i Setesdal er dette ein tradisjon som framleis lever. Stevet blir nytta i ulike sosiale samanhengar. Når folk kjem saman til vennelag eller til ei veitsle (eit gjestebod), er det vanleg å kvede eller å stevjast. (Det heiter å kvede eit stev, men å stevjast når det er fleire som kved til kvarandre.) 
-  
+  p Å lage og improvisere stev har vore ein levande tradisjon i somme landsdelar heilt fram til vår tid. Særleg i Vest-Telemark og i Setesdal er dette ein tradisjon som framleis lever. Stevet blir nytta i ulike sosiale samanhengar. Når folk kjem saman til vennelag eller til ei veitsle (eit gjestebod), er det vanleg å kvede eller å stevjast. (Det heiter å 
+    em kvede 
+    | eit stev, men 
+    em å stevjast 
+    | når det er fleire som kved til kvarandre.) 
+    
   h5 Ulik form – ulikt innhald 
   p Hos setesdølane er det ei oppfatning at gamlesteva er alvorsame og meir lyriske i forma. Nysteva er derimot friskare både i innhald og form og kan vere meir direkte i uttrykksmåten. Her er det meir rom for å improvisere.
 

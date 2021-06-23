@@ -3,16 +3,18 @@ PageBook
   p Johan Herman Wessel (1742–1785) kom frå Vestby i Akershus. Han var presteson og gjekk på latinskole i Oslo. Nitten år gammal reiste han til København for å studere vidare på universitetet, men han var ingen flittig student og tok aldri nokon eksamen. Derimot var han aktiv i Norske Selskab, ein litterær og patriotisk klubb for nordmenn i København. Her var han i godt selskap med Johan Nordahl Brun, Johan Vibe, Jens Zetlitz og fleire andre som skreiv dikt og annan skjønnlitteratur. 
 
   figure.col.col12
-   img(src='./Wessel_Huset_i_Vestby.jpg' alt='')
+   img(src='./Wessel_Huset_i_Vestby.jpg' alt='Eit raudmalt hus med kvit dør omgitt av tre. Foto')
    figcaption Huset i Vestby i Akershus der Johan Herman Wessel vart fødd
   
   h3.mt40 Kierlighed uden Strømper
 
   figure.col.col4.right-image
-   img(src='./Wessel_Kierlighed_uden_Strømper.jpg' alt='')
+   img(src='./Wessel_Kierlighed_uden_Strømper.jpg' alt='Tittelblad med trykt gotisk skrift. Foto')
    figcaption Titelbladet på den første utgåva av Kierlighed uden Strømper frå 1772
 
-  p Wessel er namngjeten for dei elegante versa og komiske forteljingane sine. Han skreiv mellom anna ein parodi på dei franske klassisistiske tragediane, Kierlighed uden Strømper. Her følgjer han reglane for dramaturgi og høgtidleg språkbruk som særmerkjer denne typen tragediar, men karakterane i stykket hans er enkle handverkarar, framferda deira er latterleg og konflikten heilt triviell. Stykket kom på trykk i 1772 og vart framført på Det Kongelige Theater i København i 1773. Det vart ein stor suksess.
+  p Wessel er namngjeten for dei elegante versa og komiske forteljingane sine. Han skreiv mellom anna ein parodi på dei franske klassisistiske tragediane, 
+    em Kierlighed uden Strømper
+    | . Her følgjer han reglane for dramaturgi og høgtidleg språkbruk som særmerkjer denne typen tragediar, men karakterane i stykket hans er enkle handverkarar, framferda deira er latterleg og konflikten heilt triviell. Stykket kom på trykk i 1772 og vart framført på Det Kongelige Theater i København i 1773. Det vart ein stor suksess.
 
   p Handlinga går i korte trekk ut på at heltinna Grete får eit varsel om at ho må gifte seg innan dagen er omme. Mannen ho elskar, Johan von Ehrenpreis, er skreddar og har reist bort for å bøte buksene til ein major. Ho vender seg derfor til den tidlegare kjærasten Mads. Johan kjem tilbake, men manglar strømper og kan derfor ikkje gifte seg. Han stel da strømpene til Mads, men Mads oppdagar dette og skjeller ut Johan. Deretter tek Johan livet sitt, og til sist tek like godt alle livet av seg.
   
@@ -20,7 +22,7 @@ PageBook
   p Wessel skreiv fleire teaterstykke, men ingen av dei var nokon suksess. Derimot gav han ut mange humoristiske verseforteljingar som vart populære, som «Herremanden», «Hundemordet», «Mosters Pølser», «Gaffelen» og «Smeden og Bageren». Også småversa og improvisasjonane hans vart raskt allemannseige.
 
   figure.col.col6.left-image.mt5
-   img(src='./Wessel_En_aften_i_Det_norske_Selskab.jpg' alt='')
+   img(src='./Wessel_En_aften_i_Det_norske_Selskab.jpg' alt='Ei gruppe menn sit rundt eit bord. Dei held vinglass i hendene. Måleri')
    figcaption Detalj frå «En aften i Det norske Selskab» av Eilif Peterssen. Mannen med glaset er Wessel.
   p Ein av grunnane til at Wessel har vorte ståande i ettertid, er at han var slagferdig og humoristisk. Han deklamerte eigne tekstar i Norske Selskab og var ein meister i å improvisere, til stor jubel frå alle.
 
@@ -198,7 +200,7 @@ PageBook
       | Kilde: 
       a(href="https://no.wikisource.org/wiki/Smeden_og_Bageren" target="_blank") wikisource.org
 
-  img.col.col6.right-image(src='./Wessel_Smeden.jpg' alt='')
+  img.col.col6.right-image(src='./Wessel_Smeden.jpg' alt='Grovbygd mann med skjegg, held ei slegge i høgre hånd. Illustrasjon')
   p «Smeden og Bageren» er ei humoristisk forteljing som kritiserer rettsstellet og mangelen på fornuft i samfunnet. Handlinga går føre seg i ein liten by der det finst to bakarar og éin smed.
 
   p Smeden er ein kranglefant og skaffar seg ein fiende i den eine bakaren. Ein dag møtest dei to på vertshuset. Dei tek til å krangle, og krangelen endar med at smeden slår den andre i hel.

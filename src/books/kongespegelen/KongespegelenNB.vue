@@ -1,14 +1,14 @@
 <template lang="pug">
 PageBook(:showAuthor="false")
 
-  img.col.col6.right-image.mt20(src="./Kongespegelen_utklipp.jpg" alt="")
+  img.col.col6.right-image.mt20(src="./Kongespegelen_utklipp.jpg" alt="Gammelt håndskrevet dokument med tekst i to spalter. Foto")
   p Til den høviske litteraturen hører også Kongespeilet, ei lærebok i høflig framferd. Å være høvisk vil si å oppføre seg på en edel og moralsk måte. Boka er utformet som en dialog mellom far og sønn. Sønnen stiller spørsmål til faren, og faren gir råd om hvordan en ung mann skal oppføre seg, enten han er kjøpmann, ridder eller konge. Forfatteren av Kongespeilet er ukjent, men han viser stor kunnskap om det han skriver om. 
 
   p Kongespeilet hører til det aller siste fra perioden norrøn litteratur, og er trolig nedskrevet rundt 1250. Boka er ei lærebok, og tittelen sier litt om hvem boka var tiltenkt. Trolig er den skrevet for sønnene til kong Håkon Håkonsson. 
 
   h3 Høvisk litteratur 
   figure.col.col6.right-image
-    img(src="./Kongespegelen_En_ridder_blir_badet.jpg" alt="")
+    img(src="./Kongespegelen_En_ridder_blir_badet.jpg" alt="Ridder sitter i badekar av tre. Omkranset av kvinner som bringer vin, blomsterkrans og steller sår. Illustrasjon")
     figcaption En ridder blir badet, fra et handskrift på 1300-tallet
   
   p Med høvisk litteratur mener vi litteratur som er knyttet til kongen og hoffet. «Høvisk» kommer av hoff.
@@ -20,7 +20,7 @@ PageBook(:showAuthor="false")
   p Kong Håkon Håkonsson får også oversatt Strengleikar, en samling kjærlighetsnoveller med erotisk innhold. 
 
   figure.col.col4.right-image
-    img(src="./Kongespegelen_Kristen_litteratur.jpg" alt="")
+    img(src="./Kongespegelen_Kristen_litteratur.jpg" alt="Utskåret figur av mann som sitter på trone. Han har krone på hodet, øks og rikseple i hendene. Føttene hviler på ryggen til en soldat. Foto")
     figcaption Olav den hellige fra Överslö kirke i Sverige
   h3 Kristen litteratur 
   p Den kristne litteraturen i norrøn tid omfatter prekener, helgenlegender og kristne kvad. Tekstene ble nedskrevet av prester, munker og nonner, og de brukte latinske bokstaver.

@@ -2,11 +2,13 @@
 PageBook
   h3 Heimstaddikning
 
-  img.col.col6.right-image.mt5(src='./Loeland_heimstaddikning.jpg' alt='')
+  img.col.col6.right-image.mt5(src='./Loeland_heimstaddikning.jpg' alt='En lysning i skogen. I bakgrunnen skogkledde åser og et vann. Foto')
 
   p Tida rundt århundreskiftet var preget av motstridende tankestrømmer. På den ene siden skapte den teknologiske utviklingen en forventning om nye og bedre tider. Mange flyttet fra landet til byene for å få seg arbeid i ulike bedrifter og fabrikker. På den andre siden savnet folk levemåten i bondesamfunnet som de kom fra. De fryktet at samfunnet slik de kjente det, ville gå tapt, og de lengtet hjem.
 
-  p Litteraturen i 1890-årene gjenspeilte denne uroen, og det utviklet seg en skrivetradisjon som seinere fikk betegnelsen heimstaddiktning. I denne tradisjonen vokste det fram en vilje til å ta vare på og dyrke det folkelige.
+  p Litteraturen i 1890-årene gjenspeilte denne uroen, og det utviklet seg en skrivetradisjon som seinere fikk betegnelsen 
+    em heimstaddiktning
+    | . I denne tradisjonen vokste det fram en vilje til å ta vare på og dyrke det folkelige.
 
   p Med heimstaddiktning mener vi at forfatterne skrev om miljøet på hjemstedet sitt. De ville framheve egenarten ved landsdelen eller hjemstedet, skildre det særegne ved miljø, folk og natur.
 
@@ -14,8 +16,10 @@ PageBook
 
   h3 Rasmus Løland – en pioner i norsk barnelitteratur
 
-  img.col.col4.left-image.mt5(src='./Loeland_Rasmus_Loeland.jpg' alt='')
-  p I 1892 gav Nordahl Rolfsen ut Læsebog for folkeskolen. Boka fikk mye å si for framveksten av en egen barnelitteratur i Norge. Skolefolk mente at det var viktig med tilgang til kvalitetslitteratur for å fremme leseevnen hos de yngste. Samtidig ble det åpnet skoleboksamlinger (bibliotek) rundt om i landet.
+  img.col.col4.left-image.mt5(src='./Loeland_Rasmus_Loeland.jpg' alt='Sepiatonet protrett av middelaldrende mann med bart. Foto')
+  p I 1892 gav Nordahl Rolfsen ut 
+    em Læsebog for folkeskolen
+    | . Boka fikk mye å si for framveksten av en egen barnelitteratur i Norge. Skolefolk mente at det var viktig med tilgang til kvalitetslitteratur for å fremme leseevnen hos de yngste. Samtidig ble det åpnet skoleboksamlinger (bibliotek) rundt om i landet.
 
   p Rasmus Løland (1861–1907) var en av pionerene i moderne norsk barnelitteratur. Han kom fra Ryfylke i Rogaland og skrev i alt 30 bøker, de aller fleste for barn. Han var banebrytende som barnebokforfatter fordi diktningen hans var blottet for moralisme og sentimentalitet. Barneverdenen til Løland var realistisk og fylt av barnlig fantasi og fabulering.
 
@@ -25,10 +29,11 @@ PageBook
   
   h3 Kvitebjørnen
 
-  img.col.col6.left-image.mt5(src='./Loeland_Kvitebjoernen.jpg' alt='')
+  img.col.col6.left-image.mt5(src='./Loeland_Kvitebjoernen.jpg' alt='Kulturlandskap med beitende sauer. I bakgrunnen skogkledde fjellsider. Foto')
   p 
     | Barneboka 
-    a(href="https://www.nb.no/items/90132b3343b4529f708162de4f888c4e?page=7&searchText=kvitebj%C3%B8rnen" target="_blank") Kvitebjørnen
+    a(href="https://www.nb.no/items/90132b3343b4529f708162de4f888c4e?page=7&searchText=kvitebj%C3%B8rnen" target="_blank") 
+      em Kvitebjørnen
     | &nbsp;var høydepunktet i Lølands produksjon. Boka utkom i 1906, året før han døde. Handlingen foregår i et bygdemiljø, og i sentrum står fire gutter i alderen ni til tolv år. Vi følger dem gjennom ni kapitler, fra den første snøen faller seinhøstes og fram til våren kommer på nytt.
 
   p Løland lar barna dagdrømme og fantasere. Blant annet lager de en stor bjørn av snø. De graver ut snøbjørnen og drar av gårde på en fantasireise til Nordpolen. Guttene er også på alle andre måter som barn ellers: De rømmer hjemmefra, de er i opposisjon til de voksne, og de gjør ikke alltid slik foreldrene har formanet dem om. For eksempel blir en lekmannspredikant som kommer til bygda, utsatt for snøballkasting.
@@ -36,16 +41,20 @@ PageBook
   p I den samme boka gir Løland også et innblikk i lekmannsbevegelsen på Vestlandet seint på 1800-tallet. De lekmannskristne mente det ikke var tilstrekkelig å tilhøre kirka, en skulle i tillegg ha gjennomgått en åndelig vekkelse for å kunne kalle seg ekte kristen. I Kvitebjørnen blir lekmannsbevegelsen skyteskive for Løland både i bokstavelig og overført betydning.
   
   h3 En antididaktisk skrivemåte
-  p Kvitebjørnen bryter med den tradisjonelle didaktiske barneboka, som var moraliserende, advarende og formanende. Det blir sagt om Løland at han bruker en antididaktisk skrivemåte, særlig i Kvitebjørnen, og at han var en forløper for den moderne, realistiske barneboklitteraturen som vokste fram på 1900-tallet.
+  p Kvitebjørnen bryter med den tradisjonelle 
+    em didaktiske 
+    | barneboka, som var moraliserende, advarende og formanende. Det blir sagt om Løland at han bruker en antididaktisk skrivemåte, særlig i Kvitebjørnen, og at han var en forløper for den moderne, realistiske barneboklitteraturen som vokste fram på 1900-tallet.
 
   p Rasmus Løland bryter med lange, nedarvete opplæringstradisjoner og tradisjonelle rollemønstre. Han har evnen til å sette seg inn i hvordan barn tenker og føler, og han har innsikt i barns sjeleliv.
 
-  p I 1959 kom Kvitebjørnen ut i ny utgave, forkortet og dels omskrevet av Halldis Moren Vesaas.
+  p I 1959 kom 
+    em Kvitebjørnen 
+    | ut i ny utgave, forkortet og dels omskrevet av Halldis Moren Vesaas.
 
   h3 En pådriver for landsmålet  
 
   figure.col.col6.right-image.mt5
-   img(src='./Loeland_En_paadriver_for_landsmaalet.jpg' alt='')
+   img(src='./Loeland_En_paadriver_for_landsmaalet.jpg' alt='Stor mosegrodd stein på et jorde. På steinen vokser flere trær. Foto')
    figcaption Bjennesteinen
   p Rasmus Løland engasjerte seg sterkt i målsaken. Han var en ivrig pådriver for nynorsk teater, og han var med på å stifte Noregs Ungdomslag. I tillegg var han en sentral person i unionsspørsmålet og en forkjemper for demokratisering og stemmerett.
 

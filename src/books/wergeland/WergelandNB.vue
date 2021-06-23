@@ -3,7 +3,7 @@ PageBook
   h3 Henrik Wergeland
 
   figure.col.col6.right-image.mt5
-   img(src='./Sprogreformation_Henrik_Wegeland.jpg' alt='')
+   img(src='./Sprogreformation_Henrik_Wegeland.jpg' alt='Portrett i svart og hvitt av mann med hornbriller og sløyfe i halsen. Foto')
    figcaption Daguerreotypi av Henrik Wergeland. Søsteren hans, Camilla Collett, mente det var det eneste bildet av han som virkelig liknet
 
   p Henrik Wergeland (1808–1845) ble født i Kristiansand, men vokste opp på Eidsvoll, der faren var sokneprest. 
@@ -20,12 +20,18 @@ PageBook
 
   h3 Wergeland som dikter
 
-  img.col.col6.right-image(src='./Sprogreformation_Wergeland_som_dikter.jpg' alt='')
-  p I elleveårsalderen flyttet Wergeland til hovedstaden for å gå på katedralskolen. Han var bare 14 år gammel da han fikk den første fortellingen sin på trykk i Morgenbladet. Sju år seinere, i 1828, debuterte han med Digte. Første Ring. I denne boka er kjærligheten et sentralt tema. 
+  img.col.col6.right-image(src='./Sprogreformation_Wergeland_som_dikter.jpg' alt='Utsnitt av en bokside med gotisk trykket skrift. Foto')
+  p I elleveårsalderen flyttet Wergeland til hovedstaden for å gå på katedralskolen. Han var bare 14 år gammel da han fikk den første fortellingen sin på trykk i Morgenbladet. Sju år seinere, i 1828, debuterte han med 
+    em Digte
+    | . Første Ring. I denne boka er kjærligheten et sentralt tema. 
 
-  p Hovedverket Mennesket, Skabelsen og Messias kom ut i 1830. I dette storslåtte visjonsdiktet formulerer Wergeland et program for religiøs og politisk frihet: Menneskene trenger kunnskap og opplysning for å kunne søke fred med hverandre, og forskjellene mellom folk må bli mindre. Dette prøver Wergeland å vise med en gjennomgang av verdenshistorien fra skapelsen og fram til de siste dager. 
+  p Hovedverket 
+    em Mennesket, Skabelsen og Messias 
+    | kom ut i 1830. I dette storslåtte visjonsdiktet formulerer Wergeland et program for religiøs og politisk frihet: Menneskene trenger kunnskap og opplysning for å kunne søke fred med hverandre, og forskjellene mellom folk må bli mindre. Dette prøver Wergeland å vise med en gjennomgang av verdenshistorien fra skapelsen og fram til de siste dager. 
 
-  p I 1834 kom så Digte. Anden Ring. Med disse tre bøkene satte Wergeland en ny standard for versekunst. Men han brøt også alt som fantes av regler for lyrikk, og det gjorde han til en kontroversiell dikter. I tillegg var han en person som lett kom i konflikt med andre. Han skaffet seg mange uvenner og et dårlig rykte. Det gikk ut over boksalget. 
+  p I 1834 kom så 
+    em Digte. Anden Ring
+    | . Med disse tre bøkene satte Wergeland en ny standard for versekunst. Men han brøt også alt som fantes av regler for lyrikk, og det gjorde han til en kontroversiell dikter. I tillegg var han en person som lett kom i konflikt med andre. Han skaffet seg mange uvenner og et dårlig rykte. Det gikk ut over boksalget. 
 
   h3 Wergeland som språkreformator 
   p I 1830-årene var det stadig flere som tok til orde for at Norge måtte få sitt eget skriftspråk. De var påvirket av tankene til den tyske filosofen Herder, som hevdet at språket formidler folkeånden: Det gjenspeiler historien, kulturen og tradisjonene til et folk. 
@@ -33,7 +39,7 @@ PageBook
   p Også Wergeland mente at Norge hadde behov for et eget skriftspråk. Han ønsket en gradvis fornorsking av det danske skriftspråket. Danske ord og uttrykk måtte avløses av norske, og skrivemåten burde bli mer tilpasset norsk uttale. 
 
   figure.col.col6.right-image
-   img(src='./Sprogreformation_Peter_Andreas_Munch.jpg' alt='')
+   img(src='./Sprogreformation_Peter_Andreas_Munch.jpg' alt='Portrett i svart og hvitt av mann med pelskrage og stor, stripete sløyfe i halsen. Illustrasjon')
    figcaption Peter Andreas Munch
   p En av de få som den gang hadde omfattende kunnskaper om språk, var professor Peter Andreas Munch. I 1832 skrev han artikkelen «Norsk Sprogreformation», der han går imot ideen om en gradvis fornorsking av skriftspråket. I artikkelen gjør han narr av tanken om å lage et skriftspråk uten å ta hensyn til at språket er et sammenhengende system. Munch argumenterer for at en enten bør fortsette å skrive dansk, eller basere et norsk skriftspråk på en av de dialektene som best ivaretok det norrøne systemet. 
 
@@ -44,7 +50,7 @@ PageBook
     | &nbsp;var Wergelands svar til Peter Andreas Munch. Wergeland mente at Munchs metode var altfor radikal og omfattende. Han argumenterte for større samsvar mellom skriftspråk og talemål, og han presenterte tre argumenter for fornorskingstanken: 
 
   figure.col.col12
-   img(src='./Sprogreformation_lapp.jpg' alt='')
+   img(src='./Sprogreformation_lapp.jpg' alt='Avrevet ark av papir med håndskrevet notat. Foto')
    figcaption På denne lappen har Henrik Wergeland skrevet: «Væk med Fylla! Boka, men ikke Flaska, på Hylla!» A-endinger var ikke vanlige i skriftspråket i 1845
 
   ol
@@ -53,7 +59,9 @@ PageBook
     li Et <strong>demokratisk</strong> argument: Flere og flere vil ta i bruk det nye skriftspråket dersom det likner mer på talespråket. Her argumenterer Wergeland for opplysningstanken. Bare gjennom opplysning vil folket få et bedre liv, mente han. Og for å få mer kunnskap må de lese og skrive mer. Da trenger de et skriftspråk de kan føle seg hjemme i. 
 
   h3 Striden mellom Wergeland og Welhaven 
-  p Etter at Wergeland i 1830 hadde publisert Skabelsen, Mennesket og Messias, gikk Johan Sebastian Welhaven ut og kritiserte offentlig Wergelands måte å skrive på. Dette var opptakten til en livslang konflikt. Wergeland og Welhaven var ikke bare uenige om hva som var god lyrikk. Striden mellom dem handlet like mye om ulike syn på spørsmålet om nasjonsbygging. Konflikten har derfor fått betegnelsen kulturstriden. 
+  p Etter at Wergeland i 1830 hadde publisert 
+    em Skabelsen, Mennesket og Messias
+    | , gikk Johan Sebastian Welhaven ut og kritiserte offentlig Wergelands måte å skrive på. Dette var opptakten til en livslang konflikt. Wergeland og Welhaven var ikke bare uenige om hva som var god lyrikk. Striden mellom dem handlet like mye om ulike syn på spørsmålet om nasjonsbygging. Konflikten har derfor fått betegnelsen kulturstriden. 
 
   p Welhaven og hans meningsfeller mente at en måtte bygge videre på  dansk-norsk embetsmannskultur og opprettholde kontakten med Danmark. Wergeland og hans tilhengere mente derimot at grunnlaget for den nye norske nasjonen måtte være norsk bondekultur. Utover i 1840-årene stilnet debatten av, og striden ebbet ut. 
 
@@ -61,7 +69,7 @@ PageBook
 
   h3 Wergeland som folkeopplyser og samfunnsdebattant 
 
-  img.col.col5.right-image(src='./Sprogreformation_For_Arbeidsklassen.jpg' alt='')
+  img.col.col5.right-image(src='./Sprogreformation_For_Arbeidsklassen.jpg' alt='Bokside med trykket gotisk skrift og illustrasjon. Foto')
   p Wergeland var opptatt av folkeopplysning. Han hadde tro på at kunnskap kunne løfte vanlige mennesker opp og fram i samfunnet, og ivret for å opprette bibliotek der alle fikk tilgang til bøker og tidsskrifter. Selv gav han ut opplysningstidsskriftene «For Almuen» og «For Arbeidsklassen». 
 
   p Wergeland var også en ivrig samfunnsdebattant. En av kampsakene hans var å få bort den såkalte jødeparagrafen i Grunnloven. Denne paragrafen nektet jøder å bosette seg i Norge. Wergeland gav aldri opp kampen, men lovendringen kom  først i 1851, seks år etter hans død. 
@@ -70,7 +78,7 @@ PageBook
 
   h3 Giftermål og siste leveår 
 
-  img.col.col3.left-image(src='./Sprogreformation_Amalie_Sofie.jpg' alt='')
+  img.col.col3.left-image(src='./Sprogreformation_Amalie_Sofie.jpg' alt='Portrett av kvinne med blå kjole og brunt hår med krøller. Maleri')
   p I 1838 ble Wergeland forlovet med Amalie Sofie Bekkevold. Han søkte flere prestekall, men fikk aldri noen stilling. Kong Karl Johan berget han til slutt og innvilget diktergasje. 
 
   p I 1839 giftet Wergeland seg med Amalie Sofie. Året etter sørget kongen for at Wergeland fikk en stilling som byråsjef ved Riksarkivet. Denne hjelpa fra kongen gjorde at han skaffet seg enda flere uvenner. Mange mente han fikk fordeler framfor andre, og de syntes ikke det var riktig at Wergeland som republikaner mottok økonomisk støtte fra kongen. 
@@ -78,7 +86,7 @@ PageBook
   p Med stilling i embetsverket og diktergasje hadde Wergeland råd til å bygge dikterboligen Grotten i 1841. Men i 1844 fikk han lungebetennelse som utviklet seg til tuberkulose. Han kom også i et økonomisk uføre og måtte flytte til et lite hus i Pilestredet. 
 
   figure.col.col12
-   img(src='./Sprogreformation_Wergelands_kontor.jpg' alt='')
+   img(src='./Sprogreformation_Wergelands_kontor.jpg' alt='Interiørbilde med stol og bord i forgrunnen. Skrivebord med stol til høyre for dette. Foto')
    figcaption Som riksarkivar hadde Wergeland dette kontoret på Akershus festning
   p 
     | Wergeland ble stadig dårligere, men skrev fortsatt hele tida. Noen av de vakreste og mest kjente diktene hans ble skapt på dødsleiet i 1845. Til disse diktene hører «Til Foraaret» og 
@@ -98,7 +106,7 @@ PageBook
   )
 
   figure.col.col6.right-image
-   img(src='./Sprogreformation_Wergeland_tegnet_av_Christian_Olsen.jpg' alt='')
+   img(src='./Sprogreformation_Wergeland_tegnet_av_Christian_Olsen.jpg' alt='Mann med skjegg sitter i en seng, svart sløyfe i halsen. På et bord står en rose i et glass vann. Tegning')
    figcaption Wergeland tegnet av Christian Olsen i 1844
   p 
     | Like før han døde, i mai 1845, skrev Wergeland diktet 
@@ -112,7 +120,7 @@ PageBook
   p Det er ikke tilfeldig at Wergeland velger å skrive om våren. For det første er diktet skrevet i mai måned, og Wergeland ble nok helt enkelt inspirert av det han kunne se rett utenfor vinduet sitt. For det andre representerer våren selve livskraften, den tida på året da alt liv blir gjenskapt. Wergeland er glad i livet, han vil ikke dø. Våren er rett og slett den årstida som best gjenspeiler ønsket hans om å få leve. For det tredje likner fornyelsen som skjer i naturen hver vår, på den kunstneriske skapingsprosessen. Wergeland skriver i diktet at våren er den årstida han liker best. Når vi ser på alt han har klart å skrive og utrette i løpet av sitt korte liv, forstår vi at han føler størst slektskap med nettopp denne årstida. 
 
   figure.col.col12
-   img(src='./Sprogreformation_Vaar_frelsers_gravlund.jpg' alt='')
+   img(src='./Sprogreformation_Vaar_frelsers_gravlund.jpg' alt='Samling av gravmonumenter på en gravplass. Foto')
    figcaption «Taknemmelige jøder udenfor Norriges grændser reiste ham dette minde,» står det på monumentet som svenske og danske jøder fekk reist på Wergelands gravsted på Vår Frelsers gravlund i Christiania (Oslo) i 1849
 
 

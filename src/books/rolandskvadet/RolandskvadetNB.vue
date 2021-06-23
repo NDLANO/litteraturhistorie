@@ -2,7 +2,7 @@
 PageBook(:showAuthor="false")
 
   figure.col.col7.left-image
-    img.mt5(src="./Rolandskvadet_Rolandskvadet.jpg" alt="")
+    img.mt5(src="./Rolandskvadet_Rolandskvadet.jpg" alt="Grupper av riddere i et landskap med åsrygger og skog. Illustrasjon")
     figcaption Åtte hendelser fra «Rolandskvadet» samlet i ett bilde
 
   p «Rolandskvadet» er det eldste bevarte franske heltediktet, og det som er mest kjent. Kvadet ble nedskrevet rundt år 1100 og handler om Karl den store og de tolv kjempene hans, blant dem Roland og Holger Danske. Teksten finnes i flere versjoner. Den lengste er på 4000 verselinjer. 
@@ -22,7 +22,7 @@ PageBook(:showAuthor="false")
 
   h3 Historisk bakgrunn for «Rolandskvadet» 
   figure.col.col7.right-image.mt5
-    img(src="./Rolandskvadet_Grandes_chroniques_de_France.jpg" alt="")
+    img(src="./Rolandskvadet_Grandes_chroniques_de_France.jpg" alt="En ridder ber for en døende person. I bakgrunnen foregår et slag. Illustrasjon")
     figcaption Slaget ved Roncesvalles i 778. Rolands død, fra «Grandes chroniques de France», miniatyrmaleri av Jean Fouquet.
 
   p Vi har bare én historisk kilde som forteller om Roland, og det er Einhard, en lærd historiker som skrev en biografi om Karl den store få år etter keiserens død. I 778 dro Karl den store på et felttog mot maurerne (araberne), som hadde erobret store deler av Spania. På vei tilbake til Frankrike ble baktroppen hans overfalt ved Roncesvalles, et fjellpass i Pyreneene. Det var baskere, ikke maurere, som stod bak overfallet. 
@@ -31,10 +31,14 @@ PageBook(:showAuthor="false")
 
   h3 Chansons de geste
   figure.col.col7.right-image.mt5
-    img(src="./Rolandskvadet_Chanson_de_Roland.jpg" alt="")
-    figcaption Eit fargelagt manuskript til Chanson de Roland, frå 1300-talet
+    img(src="./Rolandskvadet_Chanson_de_Roland.jpg" alt="Ridder med vinger sitter på en hest. En soldat holder en skadet soldat i fanget. Over dette håndskrevet tekst. Faksimile")
+    figcaption Et fargelagt manuskript til 
+      em Chanson de Roland
+      | , frå 1300-talet
 
-  p De franske heltediktene kalles Chansons de geste, noe vi kan oversette med sanger om (helte)dåder. Mange av de gammelfranske heltediktene handler om Karl den store (742– 814) og kampene hans mot hedninger, særlig i Spania. Heltediktene ble egentlig skrevet som propaganda for felttogene mot maurerne (araberne) i Spania på 1000-tallet.
+  p De franske heltediktene kalles 
+    em Chansons de geste
+    | , noe vi kan oversette med sanger om (helte)dåder. Mange av de gammelfranske heltediktene handler om Karl den store (742– 814) og kampene hans mot hedninger, særlig i Spania. Heltediktene ble egentlig skrevet som propaganda for felttogene mot maurerne (araberne) i Spania på 1000-tallet.
 
   p Kildene er historiske fortellinger, men de er brukt svært fritt. Om lag 200 gammelfranske heltedikt er bevart fra perioden 1050–1350 (høymiddelalderen). 
 

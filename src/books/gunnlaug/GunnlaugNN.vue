@@ -2,15 +2,17 @@
 PageBook(:showAuthor="false")
 
   h3 Bakgrunn
-  img.col.col8.mt5.right-image(src="./Gunnlaug_Bakgrunn.jpg" alt="")
-  p Soga om Gunnlaug Ormstunge er kort, berre på rundt førti små sider. Handlinga er lagd til tusenårsskiftet – ei uroleg tid på Island. Landnåmet er fullført, og dei største ættene driv ei rivalisering og ein kamp for å skaffe seg makt. Det er eit lovlaust samfunn der makta rår. Makta ligg hos den som har ei stor ætt og mange med seg. I eit slikt samfunn er det klokt å inngå gode giftarmål, og det er fedrane som alltid har det siste ordet før det unge paret får kvarandre. 
+  img.col.col8.mt5.right-image(src="./Gunnlaug_Bakgrunn.jpg" alt="To menn står sentralt i ein ring av andre menn, mange med våpen. Illustrasjon")
+  p 
+    em Soga om Gunnlaug Ormstunge 
+    | er kort, berre på rundt førti små sider. Handlinga er lagd til tusenårsskiftet – ei uroleg tid på Island. Landnåmet er fullført, og dei største ættene driv ei rivalisering og ein kamp for å skaffe seg makt. Det er eit lovlaust samfunn der makta rår. Makta ligg hos den som har ei stor ætt og mange med seg. I eit slikt samfunn er det klokt å inngå gode giftarmål, og det er fedrane som alltid har det siste ordet før det unge paret får kvarandre. 
 
   p Soga om Gunnlaug er ei kjærleikssoge, eit trekantdrama der to unge menn, Gunnlaug og Ravn, slåst om same jenta, Helga den fagre. Mange omtaler Gunnlaugssoga som «den vakraste kjærleikssoga i Norden». I tillegg er ho ei islendingesoge med alle dei ingrediensane som høyrer til denne sjangeren. Her er stor dramatikk med sjalusi, svik, drap og hemn.
 
   h3 Litt om handlinga
   p Gunnlaug er son av Illuge Svarte, ein islandsk stormann. Han vil reise ut og «sjå andre folks seder», men faren nektar han å dra fordi han er svært ung og framfus og har ei skarp tunge. Gunnlaug rir av garde i sinne. Han kjem til garden til Torstein, ein annan mektig høvding, og blir teken godt imot der. 
 
-  img.col.col4.left-image.mt5(src="./Gunnlaug_Helga.jpg" alt="")
+  img.col.col4.left-image.mt5(src="./Gunnlaug_Helga.jpg" alt="Kvinne med langt hår og panneband. Held ei kvit kappe over skuldrene. Illustrasjon")
 
   p Dottera til Torstein heiter Helga, og ho er den fagraste kvinna på Island. Helga og Gunnlaug «får godhug for einannan», som det står i soga. Gunnlaug blir buande på garden til Torstein i eit halvt år. 
 
@@ -18,7 +20,7 @@ PageBook(:showAuthor="false")
 
   p Turen går til Noreg, England og nordsjø-øyane, og deretter vidare til Uppsala, der svenskekongen held til. Her møter Gunnlaug Ravn, ein annan islending som har reist ut før han. Først er dei gode venner, men det endar opp med uvennskap mellom dei etter at Gunnlaug audmykjer Ravn framfor svenskekongen. 
 
-  img.col.col8.right-image.mt5(src="./Gunnlaug_Ydmyker_Ravn.jpg" alt="")
+  img.col.col8.right-image.mt5(src="./Gunnlaug_Ydmyker_Ravn.jpg" alt="Gruppe av menn på ei lysning i skogen. Ein mann held ei øks. Illustrasjon")
 
   p Ravn veit korleis han skal ta hemn, nemleg ved å kapre Helga den fagre før Gunnlaug når tilbake til Island. Gunnlaug har eit oppdrag hos kong Adalråd i London som han må oppfylle, og klarer ikkje å halde treårsavtalen.
 
@@ -31,7 +33,7 @@ PageBook(:showAuthor="false")
 
   NdlaAudio(source="media/books/gunnlaug/Illuges_drøm.mp3" description="Illuges draum")
 
-  img.col.col6.mt5.left-image(src="./Gunnlaug_Fortellermåten.jpg")
+  img.col.col6.mt5.left-image(src="./Gunnlaug_Fortellermåten.jpg" alt="Mann med heildekkande hjelm held eit skjold framfor seg og ei øks i den andre handa. Foto")
   
   p Underdriving er eit viktig verkemiddel: Under London-opphaldet er Gunnlaug i teneste for kongen, og ein dag kjem han i kamp med ein viking som heiter Tororm. Det går føre seg om lag slik: «– Ikkje er eg redd for det sverdet! roper Tororm. Gunnlaug hogg han da straks banehogg. Kongen takka han for verket.»
 
@@ -40,15 +42,37 @@ PageBook(:showAuthor="false")
   p Første gong Gunnlaug og Helga møtest etter giftarmålet hennar, gir han henne ei kostbar kappe i gåve. Denne Elevproduksjon laga av elevar ved Vågsbygd videregående skole. Manus og regi: Ellen Kalvenes kappa blir det kjæraste minnet hennar, og ho tek fram kappa og ser på henne så ofte ho kan. Det siste ho ber om før ho døyr, er å få sjå kappa ein gong til. Slik blir det tydeleg for lesaren at ho aldri har gløymt Gunnlaug.
 
   h3 Islendingesogene
-  p Islendingesogene er nok den mest kjende sjangeren frå norrøn litteratur. Soge (eller saga) tyder «munnleg eller skriftleg forteljing», og sogene vart opphavleg framførte av forteljarar som rein underhaldning. Ættesoger er ei anna nemning som blir brukt.
+  p 
+    em Islendingesogene 
+    | er nok den mest kjende sjangeren frå norrøn litteratur. 
+    em Soge 
+    | (eller saga) tyder «munnleg eller skriftleg forteljing», og sogene vart opphavleg framførte av forteljarar som rein underhaldning. 
+    em Ættesoger 
+    | er ei anna nemning som blir brukt.
 
-  p Islendingesogene eller ættesogene er prosaforteljingar, nedskrivne på 1200-talet, og handlar om ætter og hendingar frå perioden 900–1000. Denne perioden blir gjerne omtalt som landnåmstida, det vil seie den tida da nordmenn tok land og busette seg på øya. (Nema land tyder «å ta land» på norrønt).
+  p 
+    em Islendingesogene 
+    | eller ættesogene er prosaforteljingar, nedskrivne på 1200-talet, og handlar om ætter og hendingar frå perioden 900–1000. Denne perioden blir gjerne omtalt som 
+    em landnåmstida
+    | , det vil seie den tida da nordmenn tok land og busette seg på øya. (
+    em Nema land 
+    | tyder «å ta land» på norrønt).
 
   p Islendingane er stolte av sogene sine, og dei blir rekna som stor kunst og som er ein viktig del av verdslitteraturen. Mange kjende forfattarar gjennom tidene har hatt islendingesogene som førebilete.
 
   p På 1600-talet vart det funne 700 pergamentrullar (skrift på kalveskinn) på Island. Desse vart så nedskrivne og samla. Alt i alt finst det i dag om lag 40 soger. 
 
-  p Njålssoga er rekna som den viktigaste. Andre kjende soger er Soga om Egil Skallagrimsson, Soga om Gisle Sursson, Soga om Gunnlaug Ormstunge og Soga om laksdølane.
+  p 
+    em Njålssoga 
+    | er rekna som den viktigaste. Andre kjende soger er 
+    em Soga om Egil Skallagrimsson
+    | , 
+    em Soga om Gisle Sursson
+    | , 
+    em Soga om Gunnlaug Ormstunge 
+    | og 
+    em Soga om laksdølane
+    | .
 
   h5 Nokre kjennemerke ved sogelitteraturen
   ul
@@ -59,13 +83,15 @@ PageBook(:showAuthor="false")
     li Blodhemn står sentralt. Det er tvingande nødvendig å ta hemn, og det er ei plikt å hemne.
     li Sogene skildrar eit mannssamfunn, men kvinnene er med i handlinga, og dei viser ofte at dei er både sterke og fargerike.
     li Vi får ikkje vite kva personane føler og tenkjer, forteljemåten er ordknapp, og underdriving er eit vanleg verkemiddel. Mannen som får eit spyd gjennom brystet, rekk akkurat å seie: «Det råka godt,» før han fell død om.
-    li Trua på lagnaden går igjen i alle islendingesoger. Ein skal prøve å avverje katastrofen, men kjem han, skal ein stå oppreist og bere nederlaget med rak rygg. Å sjå lagnaden i auga er derfor eit viktig punkt i alle ættesoger. 
+    li Trua på lagnaden går igjen i alle islendingesoger. Ein skal prøve å avverje katastrofen, men kjem han, skal ein stå oppreist og bere nederlaget med rak rygg. 
+    em Å sjå lagnaden i auga 
+    | er derfor eit viktig punkt i alle ættesoger. 
 
   br
 
 
   h5 Kva fortel ættesogene om samfunnstilhøva i landnåmstida?
-  img.col.col6.right-image.mt20(src="./Gunnlaug_Samfunnsforhold.jpg" alt="")
+  img.col.col6.right-image.mt20(src="./Gunnlaug_Samfunnsforhold.jpg" alt="To menn set opp ein påle. Mann i raud kappe dirigerer arbeidet, omgitt av kvinner og barn som ser på. Illustrasjon")
   ul
     li at ætta, det vil seie slekta, var viktig. Makta i det islandske samfunnet låg ikkje hos ein konge, men var fordelt mellom mektige familiar.
     li at slekta var viktigare enn enkeltmennesket.

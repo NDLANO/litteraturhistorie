@@ -3,17 +3,25 @@ PageBook
   
   h3 Dikteren Petter Dass
 
-  img.col.col6.right-image(src="./Dass_Dikteren_Petter_Dass.jpg" alt="")
+  img.col.col6.right-image(src="./Dass_Dikteren_Petter_Dass.jpg" alt="Mann med prestekrage og skjegg. Holder en bok i hendene. Maleri")
   p Den norske barokkdikteren Petter Dass ble født på Helgeland i 1647. Han studerte teologi i København, men fant snart veien hjem igjen til Nordland. I 1689 ble han sokneprest i Alstadhaug. 
 
-  p Petter Dass skrev både verdslige og religiøse tekster i poetisk form. De religiøse tekstene var tenkt brukt i menigheten. Dass var opptatt av folkeopplysning, og i Katechismus-Sange forklarte han hele Luthers lille katekisme i verseform og med eksempler som var lette å forstå. 
+  p Petter Dass skrev både verdslige og religiøse tekster i poetisk form. De religiøse tekstene var tenkt brukt i menigheten. Dass var opptatt av folkeopplysning, og i 
+    em Katechismus-Sange 
+    | forklarte han hele Luthers lille katekisme i verseform og med eksempler som var lette å forstå. 
 
-  p De verdslige tekstene skildrer norsk natur og folkeliv, ofte i en humoristisk stil. I Den Nordske Dale-Viise og Nordlands Trompet fra ca. 1680 skrev han om hverdagslivet til bønder og fiskere. 
+  p De verdslige tekstene skildrer norsk natur og folkeliv, ofte i en humoristisk stil. I 
+    em Den Nordske Dale-Viise 
+    | og 
+    em Nordlands Trompet 
+    | fra ca. 1680 skrev han om hverdagslivet til bønder og fiskere. 
 
   p Petter Dass var en fargerik person. Han fikk barn med en kvinne utenfor ekteskap og måtte derfor gå botsgang til kongen i København. Dessuten trodde folk at han for med trolldomskunster. Langs Nordlandskysten gikk det sagn om at Alstadhaug-presten en gang hadde fått fanden selv til å puste i seilene på reisen sørover til Bergen. 
   
   h3 Nordlands Trompet 
-  p Nordlands Trompet åpner med et hyllingsdikt til folk og natur i «Nordlandene» – det som i dag er Troms og Nordland. Hyllesten gjelder alle – prester og øvrighet, fiskere, bønder, tjenestefolk og leilendinger: 
+  p 
+    em Nordlands Trompet 
+    | åpner med et hyllingsdikt til folk og natur i «Nordlandene» – det som i dag er Troms og Nordland. Hyllesten gjelder alle – prester og øvrighet, fiskere, bønder, tjenestefolk og leilendinger: 
 
   NdlaAudio(source="media/books/dass/tekst9_nordlands_trompet.mp3")
 
@@ -62,12 +70,18 @@ PageBook
     a(href="media/books/dass/nordlands_beliggende.html" target="_blank") «Nordlands Beliggende»
     | &nbsp;«Nordlands Beliggende» plasserer Dass landsdelen på kartet og skildrer de geografiske særtrekkene. Vi får lære om landdyr, fugler og fisk, vær og vind, jordbruk og fiske og om menneskene som lever i disse områdene. 
 
-  p Nordlands Trompet inneholder læredikt. Forfatteren vil gi leseren innsikt i et emne. Rytmen er fast, og språket er enkelt og nøkternt. Men som den gode prest han er, priser Dass samtidig også Vårherre og skaperverket hans. 
+  p 
+    em Nordlands Trompet 
+    | inneholder læredikt. Forfatteren vil gi leseren innsikt i et emne. Rytmen er fast, og språket er enkelt og nøkternt. Men som den gode prest han er, priser Dass samtidig også Vårherre og skaperverket hans. 
 
-  p I motsetning til mange embetsmenn i samtida var Petter Dass opptatt av det norske, både i skildringen av norsk hverdagsliv og natur, og ved at han brukte mange særnorske ord. Slike ord kaller vi norvagismer. 
+  p I motsetning til mange embetsmenn i samtida var Petter Dass opptatt av det norske, både i skildringen av norsk hverdagsliv og natur, og ved at han brukte mange særnorske ord. Slike ord kaller vi 
+    em norvagismer
+    | . 
 
   h3 Andre litterære verk 
-  p I 1698 skrev Dass samlingen Katechismus-Sange. Gjennom disse sangene ville han gi menigheten en dypere forståelse av den lutherske læra. 
+  p I 1698 skrev Dass samlingen 
+    em Katechismus-Sange
+    | . Gjennom disse sangene ville han gi menigheten en dypere forståelse av den lutherske læra. 
 
   p En av de mest kjente salmene i samlingen er «Herre Gud, ditt dyre navn og ære». Salmen tar utgangspunkt i andre bønn i fadervår: «La ditt navn holdes hellig». Også i dag er salmen mye brukt i gudstjenesten. 
 
@@ -106,10 +120,12 @@ PageBook
 
   h3 Virkemiddelbruk 
 
-  img.col.col6.left-image.mt5(src="./Dass_Virkemiddelbruk.jpg" alt="")
+  img.col.col6.left-image.mt5(src="./Dass_Virkemiddelbruk.jpg" alt="Detalj fra prekestol med utskårne og malte figurer. Foto")
   p Dikterens oppgave i barokken var å hylle Gud og det kongelige eneveldet av Guds nåde. Til slike formål passet det svært godt med virkemidler som kontrastfylte bilder, frodige adjektiv og sterke overdrivelser, noe dikterne derfor brukte i stor grad. 
 
-  p Petter Dass var ingen typisk representant for barokkstilen. Nordlands Trompet retter seg mot folkav alle samfunnslag. Språket i disse diktene er enkelt og folkelig, uten store fakter. 
+  p Petter Dass var ingen typisk representant for barokkstilen. 
+    em Nordlands Trompet 
+    | retter seg mot folkav alle samfunnslag. Språket i disse diktene er enkelt og folkelig, uten store fakter. 
 
   p I de religiøse tekstene hans finner vi mer av virkemiddelbruken som er typisk for barokken. Det pedagogiske formålet med tekstene er likevel det som veier tyngst: Diktene skal gjøre det enklere for folk å huske den kirkelige læra. Derfor bruker Dass enkle, faste rytmer, gjentakelser og lett forståelige sammenlikninger: 
 

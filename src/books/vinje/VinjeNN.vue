@@ -2,7 +2,7 @@
 PageBook
   h3 Journalist og lyrikar Aasmund Olavsson Vinje (1818–1870) 
 
-  img.col.col6.left-image.mt5(src='./Vinje_Journalist_og_lyriker.jpg' alt='')
+  img.col.col6.left-image.mt5(src='./Vinje_Journalist_og_lyriker.jpg' alt='Sepiatona portrett av mann med mørkt hår og stort skjegg. Foto')
   p Aamund Olavsson Vinje voks opp i enkle kår i Vinje i Vest-Telemark. Faren var interessert i litteratur, og den unge Aasmund las alt han kom over. Han arbeidde som omgangsskulelærar i fleire år, først i heimfylket Telemark, seinare på Sørlandet.
 
   p Frå 1848 skreiv han for Morgenbladet, samstundes som han fekk plass på Heltbergs «studentfabrikk». Siste året på studentfabrikken gjekk han saman med Bjørnstjerne Bjørnson og Henrik Ibsen. Vinje tok examen artium og deretter juridisk embetseksamen. I tillegg studerte han norrønt språk. 
@@ -15,7 +15,7 @@ PageBook
 
   h3 Politikk og folkeopplysning 
 
-  img.col.col12(src='./Vinje_Politikk_og_folkeopplysning.jpg' alt='')
+  img.col.col12(src='./Vinje_Politikk_og_folkeopplysning.jpg' alt='Eldre mann med mørkt stort skjegg lener seg mot eit bord med venstre arm. Foto')
   p Mellom 1843 og 1848 var Vinje lærar på borgarskulen i Mandal. Her vart han kjend med bondeføraren Søren Jaabæk, som saman med Johan Sverdrup la grunnlaget for partiet Venstre. Jaabæk vekte den politiske interessa hos den unge telemarkingen, og Vinje tok til å skrive innlegg i aviser, både lokalt og sentralt. Frå no av var han sterkt oppteken av politikk og samfunnstilhøve, og ikkje minst av moderniseringa som den tekniske utviklinga førte med seg. 
 
   p Gjennom heile livet var folkeopplysning og arbeidet for danning og utdanning eit viktig mål for Vinje. Han ville få folk til å tenkje kritisk og gjere seg opp sjølvstendige meiningar. I ein av avisartiklane sine frå tida i Drammens Tidende skreiv han: «Sandheden er ikke noget fixt og færdigt, men en Proces, noget flydende. Det er alene grovslagne Mennesker som vil tage Sandheden og putte den i Lommen.» Denne kritiske grunnhaldninga til etablerte sanningar og vanetenking prega også heile det journalistiske arbeidet hans. 
@@ -23,10 +23,12 @@ PageBook
   h3 Kritisk journalist med tvisyn
 
   figure.col.col6.right-image
-   img(src='./Vinje_Kritisk_journalist_med_tvisyn.jpg' alt='')
+   img(src='./Vinje_Kritisk_journalist_med_tvisyn.jpg' alt='Mann med stort mørkt skjegg sit ved ein skrivepult. Rundt han er bøker og løse ark på golvet. Illustrasjon')
    figcaption Ein karikatur av Vinje i bladet Vikingen (1865), med over skrifta «Hva der bliver av norske Forfattere». Vinje hadde på den tida ei stilling som ekstraskrivar i Justisdepartementet. Journalistikken gav ikkje noka inntekt å leve av.
 
-  p Vinje var eit skrivande menneske og levande interessert i det meste som rørte seg rundt han. Han sette høge krav til journalistrolla: Ein journalist skulle vere rettleiar og opplysar, og han skulle evne å sjå ei sak frå meir enn ei side. Det var ikkje vanleg på den tida, og var ein av grunnane til at kritikarane hevda at han var vinglete. Men Vinje avviste kritikken og peikte på at han hadde eit tvisyn. Med andre ord: Han meinte sjølv han hadde evna til å sjå ei sak frå fleire sider, og at det var nødvendig å bruke denne evna.
+  p Vinje var eit skrivande menneske og levande interessert i det meste som rørte seg rundt han. Han sette høge krav til journalistrolla: Ein journalist skulle vere rettleiar og opplysar, og han skulle evne å sjå ei sak frå meir enn ei side. Det var ikkje vanleg på den tida, og var ein av grunnane til at kritikarane hevda at han var vinglete. Men Vinje avviste kritikken og peikte på at han hadde eit 
+    em tvisyn
+    | . Med andre ord: Han meinte sjølv han hadde evna til å sjå ei sak frå fleire sider, og at det var nødvendig å bruke denne evna.
 
   p Dette tvisynet har vorte ståande som eit kjennemerke ved avismannen Vinje. I dag er det eit krav til journalistar at dei skal kunne sjå ei sak frå meir enn ei side, og vi kan derfor kanskje seie at Vinje var den første kritiske journalisten her i landet. 
 
@@ -43,11 +45,13 @@ PageBook
   h3 Reporter og fotturist 
 
   figure.col.col6.right-image
-   img(src='./Vinje_Reporter_og_fotturist.jpg' alt='')
+   img(src='./Vinje_Reporter_og_fotturist.jpg' alt='Snøflekka fjellandskap med vatn i mellomgrunnen og fjelltoppar i bakgrunnen. Foto')
    figcaption Frå Jotunheimen
   p Vinje elska å reise. Sommaren 1860 drog han til Trondheim for å vere med på kongekroninga av Karl 4. Han tok toget til Eidsvoll, og derifrå gjekk turen vidare gjennom Østerdalen og over Dovre fram til stiftsstaden. Heimturen gjekk med båt til Kristiansund, deretter til fots gjennom Romsdal og Gudbrandsdalen attende til Kristiania.
 
-  p Inntrykka frå denne reisa vart gitt ut i bokform i 1861 med tittelen Ferdaminni frå Sumaren 1860. Boka er ei essayistisk reiseskildring, der Vinje flettar saman naturskildringar, anekdotar og andre korte forteljingar, dikt, små personportrett og refleksjonar over folk og levesett ymse stader på ferda. Han roser mykje av det han ser undervegs, samstundes som han er kritisk til det han oppfattar som vanstell og vankunne hos bøndene. 
+  p Inntrykka frå denne reisa vart gitt ut i bokform i 1861 med tittelen 
+    em Ferdaminni frå Sumaren 1860
+    | . Boka er ei essayistisk reiseskildring, der Vinje flettar saman naturskildringar, anekdotar og andre korte forteljingar, dikt, små personportrett og refleksjonar over folk og levesett ymse stader på ferda. Han roser mykje av det han ser undervegs, samstundes som han er kritisk til det han oppfattar som vanstell og vankunne hos bøndene. 
 
   NdlaAudio(
     source="media/books/vinje/Vinje_Ferdaminne_aapningdikt_Nils_Erik.mp3"
@@ -55,9 +59,11 @@ PageBook
     )
 
   h3 «Grauten på Grut»
-  p Eit av kapitla i Ferdaminni frå Sumaren 1860 har tittelen “Grauten på Grut”. Vinje har gått frå Rennebu, bada i Orkla og kjenner at svolten sig på. Han stikk innom gjestgivargarden på Grut og får servert havregraut: 
+  p Eit av kapitla i 
+    em Ferdaminni frå Sumaren 1860 
+    | har tittelen “Grauten på Grut”. Vinje har gått frå Rennebu, bada i Orkla og kjenner at svolten sig på. Han stikk innom gjestgivargarden på Grut og får servert havregraut: 
 
-  img.col.col4.right-image.mt5(src='./Vinje_Graut_på_grut.jpg' alt='')
+  img.col.col4.right-image.mt5(src='./Vinje_Graut_på_grut.jpg' alt='Katt ligg på eit bord saman med restane av ein fisk. Kvinne held fram eit fat med graut. Illustrasjon')
   blockquote Det var Havregraut av det rette Slaget, det. Sådene stod med Piggar nett som Busti på ein Griserygg, og svart var han som Oskegraut. Eg fekk god Mjølk og åt og åt, og det skura ned gjenom Halsen, liksom når Grantoppen vert slipa og dregen ned igjenom Omnspipa. Det var så det skalv i meg av all denne sæle Nytinga i kvar Beten. Men då eg bar til at metna, tenkte eg på at gjeva ut ei Lærebok i Etarvitenskapen (Gastronomi), der Grauten på Grut skulde vera fyrste Kapitelet. Storetarar skulle kjenne for ei Sæle det er når det såleis skrapar og riflar ned igjennom og riv med seg gamle Matsyndar. 
 
   p Vinje skildrar matopplevinga detaljert og med ein god porsjon humor og ironi. Men måltidet gir han òg høve til å reflektere over kvifor folk dyrkar nettopp havre i kystområda nord og vest i Noreg: 
@@ -66,18 +72,30 @@ PageBook
 
   p Vinje peiker på at det er fullt mogleg å dyrke bygg mange stader der det no berre veks havre, men det krev at ein veitar ut jorda slik at ho blir tørrare. 
 
-  p Etter denne meir saklege utgreiinga kjem Vinje brått til å tenkje på den norrøne guden Tor. Den eldre Edda fortel at også han livnærte seg av havre og sild. Det er lett å skjønne at Tor var ein omtykt gud i gamle dagar, synest Vinje, for han var så lik dei menneska som dyrka han, han åt jamvel det same som dei. Det einaste Tor mangla, legg han til, var humor.
+  p Etter denne meir saklege utgreiinga kjem Vinje brått til å tenkje på den norrøne guden Tor. 
+    em Den eldre Edda 
+    | fortel at også han livnærte seg av havre og sild. Det er lett å skjønne at Tor var ein omtykt gud i gamle dagar, synest Vinje, for han var så lik dei menneska som dyrka han, han åt jamvel det same som dei. Det einaste Tor mangla, legg han til, var humor.
 
   p Kva vil Vinje med denne ironiske samanlikninga? Vi veit at han hadde lite til overs for idealiseringa av den norske bonden og den norske veremåten, som var vanleg hos dei nasjonalromantiske forfattarane på 1800-talet. I «Grauten på Grut» prøver han å teikne eit meir realistisk og truverdig bilete av menneska i eit norsk dalføre, samstundes som han stiller seg kritisk til måten jordbruket vart drive på rundt om på bygdene.
 
   h3 Vinje som lyrikar
-  p Vinje skreiv ein del lyrikk og gav ut tre diktsamlingar: Diktsamling (1864), Storegut (1866) og Blandkorn (1867). Storparten av dikta i desse samlingane var tidlegare publiserte i Dølen, somme også i Ferdaminni frå Sumaren 1860.
+  p Vinje skreiv ein del lyrikk og gav ut tre diktsamlingar: 
+    em Diktsamling 
+    | (1864), 
+    em Storegut 
+    | (1866) og 
+    em Blandkorn 
+    | (1867). Storparten av dikta i desse samlingane var tidlegare publiserte i Dølen, somme også i 
+    em Ferdaminni frå Sumaren 1860
+    | .
 
   p Mange av dikta til Vinje har vorte ein del av den nasjonale lyrikkarven vår, ikkje minst dei som er tonesette: «Ved Rondane», «Gamle Mor», «Våren», «Den dag kjem aldri» og «Blåmann». 
 
-  img.col.col12(src='./Vinje_Vinje_som_lyriker.jpg' alt='')
+  img.col.col12(src='./Vinje_Vinje_som_lyriker.jpg' alt='Ein sti går innover i eit fjellandskap. Ein varde med ein raud T til venstre. Foto')
 
-  p Diktet «Ved Rondane» vart først trykt i Ferdaminni frå Sumaren 1860 og er av dei mest kjende. Det opnar slik: 
+  p Diktet «Ved Rondane» vart først trykt i 
+    em Ferdaminni frå Sumaren 1860 
+    | og er av dei mest kjende. Det opnar slik: 
 
   blockquote No ser eg atter slike fjell og dalar som dei eg i min første ungdom såg. Og same vind den heite panna svalar, og gullet ligg på snjo, som før det låg. Det er eit barnemål som til meg talar, og gjer meg tankefull, men endå fjåg. Med ungdomsminne er den tala blanda: Det strøymer på meg so eg knapt kan anda.
 
@@ -85,7 +103,7 @@ PageBook
 
   p Det mest kjende kjærleiksdiktet til Vinje er nok «Den dag kjem aldri». Her bruker Vinje ei strofeform frå folkelitteraturen, nystevet. Ho høver godt til den konkrete, enkle skildringa av ei intens forelsking. 
 
-  img.col.col4.right-image.mt5(src='./Vinje_Tyteberet.jpg' alt='')
+  img.col.col4.right-image.mt5(src='./Vinje_Tyteberet.jpg' alt='Ung kvinne plukkar bær i eit myrlandskap. Illustrasjon')
   blockquote
     strong Den dag kjem aldri 
     br

@@ -1,18 +1,24 @@
 <template lang="pug">
 PageBook
   h3 Nyrealismen og den historiske romanen
-  p Rundt 1910 voks det fram ein ny generasjon romanforfattarar her i landet. Nyrealistane henta inspirasjon frå både realismen og nyromantikken, men hovudformålet deira var å vise at mennesket har ansvar for eige liv.
+  p Rundt 1910 voks det fram ein ny generasjon romanforfattarar her i landet. 
+    em Nyrealistane 
+    | henta inspirasjon frå både realismen og nyromantikken, men hovudformålet deira var å vise at mennesket har ansvar for eige liv.
 
   p Nyrealistane skreiv gjerne om enkeltmennesket i moralsk eller etisk konflikt med omverda. Derfor blir denne litterære retninga også kalla etisk realisme. Sterke kjensler som kjærleik og hat får romanpersonane til å bryte sine eigne etiske normer og grenser. Det fører til at dei 
   p opplever samvitsnag og angst – og har eit behov for å sone. Ønsket om å gjere bot er eit sentralt tema hos dei nyrealistiske forfattarane.
 
   p Den historiske romanen, ofte i fleire bind, er ramma når nyrealistane skildrar korleis menneska gjennom generasjonar blir forma av ulike konfliktar i det sosiale miljøet. Dette breie romanformatet gjer at forfattarane også kan endre synsvinkel slik at vi ser dei ulike hendingane gjennom auga til fleire av personane i romanen.
 
-  p Både her i landet og i dei fleste andre land i Europa var det stor interesse for historisk, episk dikting. Olav Duun gav ut bokserien om Juvikfolke. Samstundes kom Sigrid Undset med trilogien om Kristin Lavransdatter, og Johan Falkberget lanserte sine historiske romanar med handling frå Røros.
+  p Både her i landet og i dei fleste andre land i Europa var det stor interesse for historisk, episk dikting. Olav Duun gav ut bokserien om 
+    em Juvikfolke
+    | . Samstundes kom Sigrid Undset med trilogien om 
+    em Kristin Lavransdatter
+    | , og Johan Falkberget lanserte sine historiske romanar med handling frå Røros.
 
   h3 Folkelivsskildring og talespråk
   
-  img.col.col6.left-image.mt5(src='./Duun.jpg' alt='')
+  img.col.col6.left-image.mt5(src='./Duun.jpg' alt='Portrett av ein eldre mann som sit på ein stol, støttar ansiktet med høgre hand. Foto')
   p Den nye forfattargenerasjonen kom frå ulike delar av landet og frå ulike samfunnslag. Dei var bergmenn og bønder, fiskarar og industriarbeidarar. Eit felles tema i bøkene er at dei handlar om konflikten mellom enkeltmennesket og fellesskapen.
 
   p Olav Duun kom frå Namdalen i Nord- Trøndelag og var fiskar fram til han som 25-åring tok til med lærarutdanning. Han arbeidde først nokre år som lærar i Trøndelag og flytte deretter til Holmestrand i Vestfold, der han underviste fram til 1927.
@@ -23,8 +29,11 @@ PageBook
 
   h3 Juvikfolke
   p Gjennombrotet for Duun som forfattar kom i 1918 med slektsromanen 
-   a(href='https://www.nb.no/items/73789710969cf776a62c4cbb1b6009e9?page=9&searchText=juvikfolket' target='_blank') Juvikingar
-   | , der handlinga er knytt til heimstaden Jøa i Namdalen. Fram til 1923 skreiv han ei bok i året om Juvikfolke, til saman seks romanar.
+    a(href='https://www.nb.no/items/73789710969cf776a62c4cbb1b6009e9?page=9&searchText=juvikfolket' target='_blank') 
+      em Juvikingar
+    | , der handlinga er knytt til heimstaden Jøa i Namdalen. Fram til 1923 skreiv han ei bok i året om 
+    em Juvikfolke
+    | , til saman seks romanar.
 
   p Det er øyane, havet og folket i dette kystlandskapet som utgjer ramma om bokserien. Vi følgjer Juvik-slekta gjennom seks generasjonar, frå 1600-talet og fram mot 1800-talet. Medlemmene i slekta kjempar ein kamp mot heidenskap og villskap. Dei har lett for å gripe til vald og kjem stadig i konflikt med kvarandre.
 
@@ -32,12 +41,19 @@ PageBook
 
   h3 Medmenneske
 
-  img.col.col6.right-image.mt5(src='./Duun_Medmenneske.jpg' alt='')
+  img.col.col6.right-image.mt5(src='./Duun_Medmenneske.jpg' alt='Kystlandskap med uversskyer og opprørt hav. I forgrunnen ei falleferdig hytte og ein robåt. Måleri')
   p Det neste høgdepunktet i forfattarskapen er 
-    a(href='https://www.nb.no/items/5dc71ecc7d156708ea0d271b76755c58?page=5&searchText=medmenneske' target='_blank') Medmenneske
-    | , ein roman frå 1929. Boka er første bind i trilogien om Ragnhild, som også omfattar bøkene Ragnhild (1930) og Siste leveåre (1931).
+    a(href='https://www.nb.no/items/5dc71ecc7d156708ea0d271b76755c58?page=5&searchText=medmenneske' target='_blank') 
+      em Medmenneske
+    | , ein roman frå 1929. Boka er første bind i trilogien om Ragnhild, som også omfattar bøkene 
+    em Ragnhild 
+    | (1930) og 
+    em Siste leveåre 
+    | (1931).
 
-  p Hovudtemaet i Medmenneske er vondskapen i mennesket og kva som kan stillast opp mot det vonde. Motsetningane i romanen er den gode Ragnhild og svigerfaren Didrik, som representerer vondskapen sjølv. Det er ein lang og vond konflikt mellom Ragnhilds mann Håkon og svigerfaren, og denne konflikten endar med ein katastrofe, for Ragnhild drep svigerfaren.
+  p Hovudtemaet i 
+    em Medmenneske 
+    | er vondskapen i mennesket og kva som kan stillast opp mot det vonde. Motsetningane i romanen er den gode Ragnhild og svigerfaren Didrik, som representerer vondskapen sjølv. Det er ein lang og vond konflikt mellom Ragnhilds mann Håkon og svigerfaren, og denne konflikten endar med ein katastrofe, for Ragnhild drep svigerfaren.
 
   p Drapet er ikkje planlagt og overlagt, heller ei spontan handling som kan tolkast som eit sjølvforsvar. Ragnhild er eit godt menneske som i utgangspunktet aldri vil gjere andre noko vondt. Men under ligg òg angsten for at Håkon kan kome til å drepe faren. Ho vil ikkje at mannen hennar skal bli mordar, og gjer ei slags plikthandling da ho tek livet av svigerfaren med øks.
 
@@ -45,7 +61,8 @@ PageBook
 
   h3 Menneske og maktene
   p 
-    a(href='https://www.nb.no/items/3ecb9574b82aad7759491cff624e34fa?page=7&searchText=menneskene%20og%20maktene' target='_blank') Menneske og maktene
+    a(href='https://www.nb.no/items/3ecb9574b82aad7759491cff624e34fa?page=7&searchText=menneskene%20og%20maktene' target='_blank') 
+      em Menneske og maktene
     | &nbsp;(1938) er den siste boka i forfattarskapen til Duun. Boka er ein kollektivroman utan nokon fast hovudperson, og handlinga går føre seg i eit fiktivt øysamfunn som Duun kallar Øyvære. Menneska som lever på denne øya, må måle krefter med maktene, det vil seie kreftene som styrer livet deira. Vi møter ulike menneske som lèt seg styre av ulike makter. Somme gir tapt for maktene, andre fryktar maktene og lever i angst, og ein del grublar over maktene og mister livslysta.
 
   p Første og siste kapittel i boka utgjer ei rammeforteljing. Det finst ein gammal spådom om at øysamfunnet skal gå under ei uvêrsnatt med storflod og storm, og at mange skal drukne, men somme skal overleve. Siste kapittel skildrar nett denne natta med uvêr og flaum. Midtpartiet i boka rommar fem forteljingar. Kvar forteljing gir oss forhistoria til ein av hovudpersonane som blir stilt overfor kriser og påkjenningar i uvêrsnatta som kjem.
@@ -59,7 +76,9 @@ PageBook
 
   p Den første verdskrigen hadde gjort slike spørsmål svært aktuelle. Samstundes kom menneskeleg vondskap på nytt i fokus utover i 1930-åra, da nazismen og fascismen var på frammarsj og krigen truga enda ein gong i Europa.
 
-  p Det blir sagt om Duun at han ikkje fortolkar det vonde som ei autonom motmakt til det gode. I Duuns bøker har ikkje vondskapen og hatet ein kjerne som er vond. Vi kan seie at hatet i sin natur er ein skade, eit menneske på vranga.
+  p Det blir sagt om Duun at han ikkje fortolkar det vonde som ei autonom motmakt til det gode. I Duuns bøker har ikkje vondskapen og hatet ein kjerne som er vond. Vi kan seie at hatet i sin natur er ein skade, 
+    em eit menneske på vranga
+    | .
 
   p “Ei skuldkjensle, ei oppleving eller ei ugjerning i ungdommen kan forskanse seg i eit slags sjølvhat, og dette kan spegle seg av gjennom heile livet og heile veremåten”, skal Duun ha uttalt.
 

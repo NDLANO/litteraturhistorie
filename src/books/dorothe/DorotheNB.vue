@@ -2,10 +2,16 @@
 PageBook
 
   figure.col.col4.right-image
-    img(src="./Dorothe_Engelbretsdotter_Taare-Offer.jpg" alt="")
-    figcaption Omslag fra førsteutgaven av Taare-Offer, et annet verk av Dorothe Engelbretsdotter
+    img(src="./Dorothe_Engelbretsdotter_Taare-Offer.jpg" alt="Gammelt tittelblad med gotisk skrift. Foto")
+    figcaption Omslag fra førsteutgaven av 
+      em Taare-Offer
+      | , et annet verk av Dorothe Engelbretsdotter
 
-  p Siælens Sang-Offer er en samling salmer og oppbyggende sanger som kom ut i 1687. Boka var skrevet av bergensdikteren Dorothe Engelbretsdotter. Hun ble raskt svært populær, og boka kom ut i over tjue opplag. Siælens Sang-Offer var den første boka av en norskfødt forfatter som ble trykt i Norge. 
+  p 
+    em Siælens Sang-Offer 
+    | er en samling salmer og oppbyggende sanger som kom ut i 1687. Boka var skrevet av bergensdikteren Dorothe Engelbretsdotter. Hun ble raskt svært populær, og boka kom ut i over tjue opplag. 
+    em Siælens Sang-Offer 
+    | var den første boka av en norskfødt forfatter som ble trykt i Norge. 
 
   p Dorothe Engelbretsdotter var en typisk representant for den barokke stilen. Kontraster, overdrivelser og sterke bilder preget salmene hennes. Selv om uttrykksmåten kan virke svulstig enkelte ganger, skrev hun også mange dikt der språk og vers flyter naturlig og er lette å huske. 
 
@@ -13,8 +19,10 @@ PageBook
 
   h3 Temaet i salmene
 
-  img.col.col4.right-image(src="./Dorothe_Engelbretsdotter_portrett.jpg" alt="")
-  p Et gjennomgående tema i salmene fra Siælens Sang-Offer er ønsket om å få øve bot. Temaet er typisk for mye av den barokke diktningen. Det skyldes at krig, nød, sykdom og død preget livet til mange mennesker på den tida, og all ulykke ble tolket som Guds straff for misgjerninger. Mennesket er syndig, og det finnes alltid  noe å angre. 
+  img.col.col4.right-image(src="./Dorothe_Engelbretsdotter_portrett.jpg" alt="Portrett av kvinne iført kappe med sløyfe og hodeplagg. Illustrasjon")
+  p Et gjennomgående tema i salmene fra 
+    em Siælens Sang-Offer 
+    | er ønsket om å få øve bot. Temaet er typisk for mye av den barokke diktningen. Det skyldes at krig, nød, sykdom og død preget livet til mange mennesker på den tida, og all ulykke ble tolket som Guds straff for misgjerninger. Mennesket er syndig, og det finnes alltid  noe å angre. 
 
   blockquote
     | Kjære sjel, kom det i hu 
@@ -40,7 +48,7 @@ PageBook
     | Kaller meg til evig fryd. 
 
   h3 Sjangeren
-  img.col.col6.left-image(src="./Dorothe_Engelbretsdotter_Sjangeren.jpg" alt="")
+  img.col.col6.left-image(src="./Dorothe_Engelbretsdotter_Sjangeren.jpg" alt="Mor med barn sitter i en kirke og leser i en bok. I bakgrunnen en kvinne som ber. Maleri")
   p Salmer er sanger med et religiøst innhold som blir sunget under gudstjenester og i andre religiøse sammenhenger. Formålet med salmene er å styrke folk i troen. Det er derfor viktigere at publikum kjenner seg igjen i salmene enn at salmene er originale og nyskapende. 
 
   p På 1600-tallet var salmene den vanligste brukslyrikken. Mange mennesker på den tida kunne ikke lese, men så godt som alle kunne salmene utenat. Salmer blir gjerne laget til populære verdslige melodier. Allerede på 1500-tallet tok Martin Luther i bruk kjente melodier og laget salmer til dem. 

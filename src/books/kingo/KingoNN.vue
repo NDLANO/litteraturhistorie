@@ -2,15 +2,19 @@
 PageBook
   h3 Salmediktaren Thomas Kingo
 
-  img.col.col6.right-image(src="./Kingo_Salmedikteren_Thomas_Kingo.jpg" alt="")
+  img.col.col6.right-image(src="./Kingo_Salmedikteren_Thomas_Kingo.jpg" alt="Mann med prestekrage, langt hår og skjegg. Held i ei bok og har fjærpenn i høgre hand. Illustrasjon")
   p Den danske barokkdiktaren Thomas Kingo (1634–1703) voks opp i enkle kår, men fekk likevel gå på latinskole og ta universitetsutdanning. I 1677 vart han biskop i Fyn Stift.
 
   p Kingo er best kjend for salmediktinga si, men han skreiv også verdslege tekstar, mellom anna humoristiske dikt, hyllingsdikt og kjærleiksdikt.
 
-  p Kingo var ein sterk tilhengar av eineveldet, ei styreform som gav all makt til kongen. Det er kanskje grunnen til at danskekongen gav han i oppgåve å lage ein ny kyrkjeliturgi og ei salmebok for heile Danmark-Noreg. Salmeboka kom ut i 1699 med tittelen Dend Forordnede Ny Kirke-Psalme-Bog. Kongen bestemte så at denne salmeboka skulle brukast av alle kyrkjene både i Noreg og Danmark. I ettertid er boka kalla Kingos salmebok, sidan heile 86 av dei 300 salmane i boka er skrivne av Kingo sjølv.
+  p Kingo var ein sterk tilhengar av eineveldet, ei styreform som gav all makt til kongen. Det er kanskje grunnen til at danskekongen gav han i oppgåve å lage ein ny kyrkjeliturgi og ei salmebok for heile Danmark-Noreg. Salmeboka kom ut i 1699 med tittelen 
+    em Dend Forordnede Ny Kirke-Psalme-Bog
+    | . Kongen bestemte så at denne salmeboka skulle brukast av alle kyrkjene både i Noreg og Danmark. I ettertid er boka kalla 
+    em Kingos salmebok
+    | , sidan heile 86 av dei 300 salmane i boka er skrivne av Kingo sjølv.
 
   h3 Kingos salmebok
-  img.col.col6.left-image(src="./Kingo_Kingos_salmebok.jpg" alt="")
+  img.col.col6.left-image(src="./Kingo_Kingos_salmebok.jpg" alt="Tittelblad med trykt gotisk skrift i raudt og svart og dekorasjonar. Foto")
   p Kingos salmebok inneheld også salmar av Martin Luther, og Kingo fall i unåde hos kongen da han gav seg til å revidere salmane til Luther.
 
   p Kingos salmar er skrivne i eit poetisk språk og i mønstergyldige vers. På same måten som Petter Dass knyter Kingo kristendommen til kvardagslivet. Salmane er dessutan skrivne til verdslege melodiar. Tanken er at også folk frå allmugen skal kunne bruke salmane i kvardagslivet.
@@ -28,7 +32,7 @@ PageBook
 
   NdlaAudio(source="media/books/kingo/kingo.mp3")
 
-  img.col.col3.right-image(src="./Kingo_Alter.jpg" alt="")
+  img.col.col3.right-image(src="./Kingo_Alter.jpg" alt="Rikt dekorert alter med forgylte ornament i front og ulike figurar i bakgrunnen. Foto")
   blockquote
     | Som den gyldne sol frembryder
     br
@@ -54,14 +58,16 @@ PageBook
   p I salmen oppmodar Kingo tilhøyrarane til å takke for dette påskeunderet og meditere over den nåden som har vorte alle til del gjennom Jesu død på krossen. Salmen sluttar med bønn og takkseiing, slik det er vanleg i den kyrkjelege liturgien.
 
   h3 Andre tekstar av Kingo
-  img.col.col4.right-image.mt5(src="./Kingo_Kong_Fredrik_5.jpg" alt="")
+  img.col.col4.right-image.mt5(src="./Kingo_Kong_Fredrik_5.jpg" alt="Mann i rustning og raud kappe. På bordet ved sidan av ligg ei krone på ei pute. Måleri")
   p Under eineveldet var det viktig å halde seg inne med kongemakta. Ein del av forfattarskapen til Kingo var derfor hyllingsdikt til den eineveldige kong Fredrik 5., som heldt liv i diktaren og gav han kyrkjelege embete:
 
   p Lad dette Hastverk faae en liden Naade-Skygge, Og lad min Digter-Konst oppaa Din Mildhed bygge, Hvad min Blek-Pensel kun hår grunded denne gang, Skal bedre treffis i Din Fremtiids Seyer-Fang. Føer Sværdet midlertiid, hvor hen Dit Øye meder, Og hvor Guds Øye Dig fremlyvser og henleder: Giør af Din Mandoms Drifft hver Almanakke fuld, Saa skal Du skildris ud i Ævighed paa Guld.
 
   p Kingo skreiv òg ei hylling til den norske salmediktaren Dorothe Engelbretsdotter, som han sette svært høgt som forfattar.
 
-  p Dei meir humoristiske rimbreva til Kingo kunne vere nokså vågale. Slik tenkte Kingo seg kjenslene til ei kvinne som ventar på han mens han kjempar seg gjennom ein kraftig snøstorm:
+  p Dei meir humoristiske 
+    em rimbreva 
+    | til Kingo kunne vere nokså vågale. Slik tenkte Kingo seg kjenslene til ei kvinne som ventar på han mens han kjempar seg gjennom ein kraftig snøstorm:
 
   blockquote
     | O! var mit Skød en Kakkel-Vraa, 
@@ -77,7 +83,7 @@ PageBook
   p På 1600-talet er den religiøse litteraturen ein viktig litterær sjanger. Den danske salmediktaren Thomas Kingo levde samstundes med dei norske salmediktarane Petter Dass og Dorothe Engelbretsdotter.
 
   figure.col.col6.left-image
-   img(src='./Kingo_Om_salmelitteraturen.jpg' alt='')
+   img(src='./Kingo_Om_salmelitteraturen.jpg' alt='Interiør frå kirke med alter, preikestol og orgelpiper. Forgylte dekorasjonar. Foto')
    figcaption Alterparti og barokkorgel frå 1765 i Kongsberg kyrkje
    
   p Salmane er skrivne til bruk under gudstenester i kyrkjelyden og heime, og dei speglar av høgtidene i kyrkjeåret og den kyrkjelege liturgien.
@@ -89,7 +95,9 @@ PageBook
   h3 Språk og litterære verkemiddel i salmediktinga
   p Etter reformasjonen vart latin avløyst av dansk som kyrkjespråk i DanmarkNoreg. Den første danske bibelomsetjinga kom i 1550. Dansk bibeltekst og danske salmar vart nytta i alle norske kyrkjelydar. Slik fekk det danske språket innpass hos alle nordmenn.
 
-  p Kingo bruker bilete med sterke kontrastar – sorg og glede, lykke og ulykke, synd og nåde, himmel og jord. _ Språket er også fullt av velkjende klisjear som dødens dal, sejerspalmer og dåbens hellig væde. Salmane skal ikkje nødvendigvis vere originale, dei skal først og fremst vekkje kjensler og få tilhøyrarane til å leve seg inn i bodskapen.
+  p Kingo bruker bilete med sterke kontrastar – sorg og glede, lykke og ulykke, synd og nåde, himmel og jord. _ Språket er også fullt av velkjende klisjear som 
+    em dødens dal, sejerspalmer og dåbens hellig væde
+    | . Salmane skal ikkje nødvendigvis vere originale, dei skal først og fremst vekkje kjensler og få tilhøyrarane til å leve seg inn i bodskapen.
 
   p Barokkdiktarane var opptekne av at ein skulle gripe dei jordiske gledene, men samstundes komme i hug at det jordiske livet snart ville ta slutt. Derfor finn vi mange dødsmotiv i salmane.
 

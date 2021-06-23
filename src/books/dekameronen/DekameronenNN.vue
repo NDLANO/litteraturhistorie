@@ -1,12 +1,16 @@
 <template lang="pug">
 PageBook(:showAuthor="false")
   br
-  img.col.col6.left-image.mt20(src="./Dekameronen_Innhold.jpg" alt="")
+  img.col.col6.left-image.mt20(src="./Dekameronen_Innhold.jpg" alt="Gamalt handskrive dokument. Over teksten kan du sjå eit bilete av ei kvinne i ei seng. Framfor det sit ein mann med strengeinstrument. Eit anna bilete viser ei gruppe kvinner og menn. Foto ")
   
   NdlaAudio(source="media/books/dekameronen/dekameronen_Giovanni_Boccaccio.mp3")
-  p Dekameronen er ei samling på hundre noveller av den italienske diktaren Giovanni Boccaccio. Samlinga er truleg skriven i åra 1348–1353. Boka er hovudverket til Boccaccio og det einaste verket som er bevart. Boccaccio skreiv novellene sine på folkespråket, italiensk, og blir rekna for grunnleggjaren av den italienske prosadiktinga.
+  p 
+    em Dekameronen 
+    | er ei samling på hundre noveller av den italienske diktaren Giovanni Boccaccio. Samlinga er truleg skriven i åra 1348–1353. Boka er hovudverket til Boccaccio og det einaste verket som er bevart. Boccaccio skreiv novellene sine på folkespråket, italiensk, og blir rekna for grunnleggjaren av den italienske prosadiktinga.
 
-  p Tittelen Il Decamerone tyder tidagarsverket. Rammeforteljinga i boka gir oss bakgrunnen for denne tittelen: Ti ungdommar flyktar frå pesten som heimsøkjer byen Firenze, til eit hus på landet. For å korte tida fortel dei kvarandre historier. Alle må finne på ei ny historie kvar dag, og etter ti dagar har dei fortalt hundre noveller. Så dreg dei attende til Firenze.
+  p Tittelen 
+    em Il Decamerone 
+    | tyder tidagarsverket. Rammeforteljinga i boka gir oss bakgrunnen for denne tittelen: Ti ungdommar flyktar frå pesten som heimsøkjer byen Firenze, til eit hus på landet. For å korte tida fortel dei kvarandre historier. Alle må finne på ei ny historie kvar dag, og etter ti dagar har dei fortalt hundre noveller. Så dreg dei attende til Firenze.
 
   p Dekameronen er eit bevisst komponert verk. Boccaccio samlar novellene tematisk ved hjelp av rammeforteljinga: Kvar dag vel ungdommane ein ny konge eller ei ny dronning, som så avgjer temaet som alle forteljingane denne dagen skal handle om. 
 
@@ -23,8 +27,10 @@ PageBook(:showAuthor="false")
   p Persongalleriet i novellene omfattar menneske frå alle lag av folket. Hovudpersonane må ofte kjempe mot dumskap og vanetenking, for eksempel unge forelska par som er i konflikt med vrange foreldre. Andre forteljingar handlar om kor gale det kan gå når ein ikkje kan leve i pakt med naturgitte kjensler og drifter. Det er særleg munkane og munkevesenet som blir latterleggjorde i desse forteljingane.
 
   h3 Sjanger
-  img.col.col7.right-image(src="./Dekameronen_Sjanger.jpg" alt="")
-  p Ordet novelle kjem frå italiensk og tyder nyhende. På 1200-talet vart omgrepet for første gong brukt om forteljingar. På den tida var novellene korte, populære forteljingar om meir eller mindre aktuelle hendingar.
+  img.col.col7.right-image(src="./Dekameronen_Sjanger.jpg" alt="Gamalt handskrive dokument med tekst i to spaltar. Rikt dekorert med ulike motiv. Foto")
+  p Ordet 
+    em novelle 
+    | kjem frå italiensk og tyder nyhende. På 1200-talet vart omgrepet for første gong brukt om forteljingar. På den tida var novellene korte, populære forteljingar om meir eller mindre aktuelle hendingar.
 
   p Boccaccio blir rekna som skaparen av den skjønnlitterære novella. Verket hans har inspirert andre europeiske diktarar som Geoffrey Chaucer, Margarete av Navarra og Miguel de Cervantes til å skrive liknande samlingar. Mange har også utnytta stoffet i forteljingane til å skape nye verk, for eksempel William Shakespeare og Jonathan Swift.
 

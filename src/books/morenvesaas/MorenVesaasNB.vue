@@ -3,17 +3,23 @@ PageBook
   
   h3 Forfatter, oversetter og kulturpersonlighet
 
-  img.col.col4.left-image.mt5(src='./MorenVesaas_Portrett.jpg' alt='')
+  img.col.col4.left-image.mt5(src='./MorenVesaas_Portrett.jpg' alt='Portrett av eldre kvinne med grått hår og tydelige rynker i ansiktet. Foto')
   p Halldis Moren ble født i Trysil i 1907. Barndomshjemmet hennes var preget av kjærlighet til litteratur og kultur, og allerede i en alder av ni år debuterte hun med en historie i Norsk Barneblad. I 1934 giftet hun seg med forfatteren Tarjei Vesaas. Hun flyttet til Vinje i Telemark  og ble boende på gården Midtbø sammen med mannen sin. Etter at hun ble enke i 1970, bosatte hun seg i Oslo. 
 
-  p Halldis Moren Vesaas debuterte som lyriker i 1929 med samlingen Harpe og dolk. I perioden fram til 1955 gav hun ut i alt seks diktsamlinger. Den siste samlingen hennes, Livshus, kom ut like etter hennes død i 1995. I tillegg til lyrikken gav hun ut erindringsbøker, essaysamlinger og barnebøker. I tida etter den andre verdenskrig  arbeidet hun blant annet for Det Norske Samlaget og Det Norske Teatret. Her ble hun kjent som en svært dyktig oversetter av dramatikk. Hun oversatte blant annet Shakespeare og Racine til nynorsk. 
+  p Halldis Moren Vesaas debuterte som lyriker i 1929 med samlingen 
+    em Harpe og dolk
+    | . I perioden fram til 1955 gav hun ut i alt seks diktsamlinger. Den siste samlingen hennes, 
+    em Livshus
+    | , kom ut like etter hennes død i 1995. I tillegg til lyrikken gav hun ut erindringsbøker, essaysamlinger og barnebøker. I tida etter den andre verdenskrig  arbeidet hun blant annet for Det Norske Samlaget og Det Norske Teatret. Her ble hun kjent som en svært dyktig oversetter av dramatikk. Hun oversatte blant annet Shakespeare og Racine til nynorsk. 
 
   p Moren Vesaas var en aktiv og sentral deltaker i norsk kulturliv. Hun hadde framtredende verv i Riksteatret, i Forfatterforeningen og i Norsk kulturråd. Hun var sterkt opptatt av nynorsk skriftspråk, og i en periode var hun medlem av Norsk språknemnd. Også folk i Vinje nøt godt av Moren Vesaas’ engasjement og kunnskap om litteratur, kultur og samfunn. I flere år satt hun blant annet som skolestyrer i bygda. 
 
   p For sin forfattervirksomhet og sitt kulturengasjement mottok Halldis Moren Vesaas flere priser. Hun ble dessuten utnevnt til kommandør av St. Olavs Orden i 1984 og æret av franske myndigheter for sitt arbeid med å fremme fransk litteratur. 
   
   h3 Kvinneliv sett med en kvinnes øyne 
-  p Lyrikken til Halldis Moren Vesaas kretser tematisk rundt kvinners liv i ulike faser. Hun skriver om kjærlighet, morsrollen, erotikk, hverdagslivet og om søken etter egen identitet. Med debutsamlingen Harpe og dolk ble Moren Vesaas en ny og viktig stemme i samtidslyrikken. Aldri tidligere hadde en kvinne skrevet så tett og intimt om levd kvinneliv. Mens mannlige lyrikere diktet om kvinner som objekter for sin kjærlighet, var kvinnen i Moren Vesaas’ tekster et handlende subjekt – det var kvinnens følelser, drifter og tanker som stod i fokus. 
+  p Lyrikken til Halldis Moren Vesaas kretser tematisk rundt kvinners liv i ulike faser. Hun skriver om kjærlighet, morsrollen, erotikk, hverdagslivet og om søken etter egen identitet. Med debutsamlingen 
+    em Harpe og dolk
+    |  ble Moren Vesaas en ny og viktig stemme i samtidslyrikken. Aldri tidligere hadde en kvinne skrevet så tett og intimt om levd kvinneliv. Mens mannlige lyrikere diktet om kvinner som objekter for sin kjærlighet, var kvinnen i Moren Vesaas’ tekster et handlende subjekt – det var kvinnens følelser, drifter og tanker som stod i fokus. 
 
   p Moren Vesaas skrev om erfaringer og opplevelser som var felles for kvinner – hun skildret den første menstruasjonen, følelsen av å bli mor, og hun skrev om kvinners seksuelle drifter. Selv om disse temaene førte til en del negative reaksjoner fra det etablerte lyrikkmiljøet, fikk Moren Vesaas straks en stor leserskare. Livsvisdommen hun formidlet gjennom diktene sine, appellerte til mange, og fortsatt er diktene hennes mye brukt ved høytidelige anledninger som bryllup og begravelser. 
 
@@ -69,10 +75,12 @@ PageBook
   h3 Forelskelse og begjær 
 
   figure.col.col4.right-image.mt5
-   img(src='./MorenVesaas_Frimerke.jpg' alt='')
+   img(src='./MorenVesaas_Frimerke.jpg' alt='Frimerke med tekst og portrett av Haldis Moren Vesaas. Foto')
    figcaption I 2007 var det hundre år siden Halldis Moren Vesaas ble født. Posten markerte hundreårsjubileet med et eget frimerke. Foto: Erik Johansen / Scanpix
    
-  p Både Halldis Moren Vesaas, Aslaug Vaa og Inger Hagerup var pionerer i litteraturen. De skildret sider ved kvinnelivet som til da var blitt sett med mannens blikk, eller som det ikke hadde vært skrevet om i det hele tatt. Dette gjaldt særlig kvinners seksuelle drifter og erotiske lengsler. Halldis Moren Vesaas fikk kritikk for å skildre kvinnen som en aktiv part i det seksuelle samlivet. I diktet «Bølgje» fra samlingen Strender (1933) bruker hun havet som symbol i sin skildring av seksualiteten: 
+  p Både Halldis Moren Vesaas, Aslaug Vaa og Inger Hagerup var pionerer i litteraturen. De skildret sider ved kvinnelivet som til da var blitt sett med mannens blikk, eller som det ikke hadde vært skrevet om i det hele tatt. Dette gjaldt særlig kvinners seksuelle drifter og erotiske lengsler. Halldis Moren Vesaas fikk kritikk for å skildre kvinnen som en aktiv part i det seksuelle samlivet. I diktet «Bølgje» fra samlingen 
+    em Strender 
+    | (1933) bruker hun havet som symbol i sin skildring av seksualiteten: 
 
   blockquote
     | Enn smakar det hav av oss, vi som vart kysst 
@@ -99,7 +107,7 @@ PageBook
   h3 Fellesskap og hverdagslykke 
 
   figure.col.col6.right-image.mt5
-   img(src='./MorenVesaas_Hverdagslykke.jpg' alt='')
+   img(src='./MorenVesaas_Hverdagslykke.jpg' alt='Bilde i svart og hvitt av familie samlet i en stue. Mor sitter med spedbarn på fanget. Foto')
    figcaption Forfatterne Tarjei Vesaas og Halldis Moren Vesaas hjemme på gården i Vinje i 1964. Foto: Rolf Chr. Ulrichsen / Aftenposten / Scanpix
 
   p Under og etter andre verdenskrig skrev Halldis Moren Vesaas flere dikt med motiv og tema hentet fra krigen. Som i den øvrige lyrikken sin er hun også her opptatt av mellommenneskelige relasjoner. Hun skriver om en mors kamp for å holde motet oppe og for å skape en hverdag så normal som mulig for barna sine, og hun skildrer samhold og fellesskap med sterk innlevelse. 

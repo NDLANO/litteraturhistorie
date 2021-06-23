@@ -3,17 +3,19 @@ PageBook
   
   h3 Maurits Christopher Hansen (1794–1842)
   
-  img.col.col6.left-image(src='./MauritsHansen_portrett.jpg' alt='')
+  img.col.col6.left-image(src='./MauritsHansen_portrett.jpg' alt='Portrett av yngre mann med mørkt, halvlangt hår og knytta skjerf i halsen. Illustrasjon')
   p Maurits Hansen er ein av dei få norske forfattarane i tida like etter 1814. Interessa hans for litteratur og skriving blir vekt allereie i ungdommen. Han skriv både dikt, noveller og romanar. I tillegg er han lærar og lærebokforfattar.
 
   p 
     | I 1819 kjem det første større verket av Maurits Hansen, romanen 
-    a(href="https://www.nb.no/items/2538500f8e0c7ed397b6a5952b8efd12?page=0&searchText=Othar af Bretagne" target="_blank") Othar af Bretagne
+    a(href="https://www.nb.no/items/2538500f8e0c7ed397b6a5952b8efd12?page=0&searchText=Othar af Bretagne" target="_blank") 
+      em Othar af Bretagne
     | . Det litterære førebiletet for boka er riddarromanane til den tyske romantiske forfattaren Friedrich de la Motte Fouqué (1777–1843).
 
   p 
     | I 1840 gir Hansen ut 
-    a(href="https://www.nb.no/nbsok/nb/0ec6c7e96e537d15f788a734e3424879?lang=no#0" target="_blank") Mordet paa Maskinbygger Roolfsen
+    a(href="https://www.nb.no/nbsok/nb/0ec6c7e96e537d15f788a734e3424879?lang=no#0" target="_blank") 
+      em Mordet paa Maskinbygger Roolfsen
     | . Kriminalanekdote fra Kongsberg. Denne boka blir rekna for å vere Noregs første detektivroman. Hansen skreiv også fleire andre kriminalforteljingar.
 
   p Maurits Hansen blir sett på som den største forfattaren i samtida si. Han er også den mest lesne og ei inspirasjonskjelde for mange forfattarar som kjem etter han, for eksempel Henrik Wergeland, Jørgen Moe, Peter Christen Asbjørnsen, Camilla Collett og Henrik Ibsen. 

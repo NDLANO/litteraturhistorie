@@ -1,14 +1,14 @@
 <template lang="pug">
 PageBook(:showAuthor="false")
 
-  img.col.col6.right-image.mt20(src="./Kongespegelen_utklipp.jpg" alt="")
+  img.col.col6.right-image.mt20(src="./Kongespegelen_utklipp.jpg" alt="Gamalt handskrive dokument med tekst i to spaltar. Foto")
   p Til den høviske litteraturen høyrer også Kongsspegelen, ei lærebok i høvisk framferd. Å vere høvisk vil seie å gå fram på ein edel og moralsk måte. Boka er utforma som ein dialog mellom far og son. Sonen stiller spørsmål til faren, og faren gir råd om korleis ein ung mann skal te seg, anten han er kjøpmann, riddar eller konge. Forfattaren av Kongsspegelen er ukjend, men han viser stor kunnskap om det han skriv om.
 
   p Kongsspegelen høyrer til det aller siste frå perioden norrøn litteratur, og er truleg nedskriven rundt 1250. Boka er ei lærebok, og tittelen seier litt om kven boka var tiltenkt. Truleg er ho skriven for sønene til kong Håkon Håkonsson.
 
   h3 Høvisk litteratur
   figure.col.col6.right-image
-    img(src="./Kongespegelen_En_ridder_blir_badet.jpg" alt="")
+    img(src="./Kongespegelen_En_ridder_blir_badet.jpg" alt="Riddar sit i badekar av tre. Omkransa av kvinner som har med seg vin, blomekrans og steller sår. Illustrasjon")
     figcaption Ein riddar blir bada, frå eit handskrift på 1300-talet
   
   p Med høvisk litteratur meiner vi litteratur som er knytt til kongen og hoffet. «Høvisk» kjem av hoff. 
@@ -20,7 +20,7 @@ PageBook(:showAuthor="false")
   p Kong Håkon Håkonsson får òg omsett Strengleikar, ei samling kjærleiksnoveller med erotisk innhald.
 
   figure.col.col4.right-image
-    img(src="./Kongespegelen_Kristen_litteratur.jpg" alt="")
+    img(src="./Kongespegelen_Kristen_litteratur.jpg" alt="Utskore figur av mann som sit på trone. Han har krone på hovudet, øks og rikseple i hendene. Føtene kviler på ryggen til ein soldat. Foto")
     figcaption Olav den heilage frå Överslö kyrkje i Sverige
   h3 Kristen litteratur
   
