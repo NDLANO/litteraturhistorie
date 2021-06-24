@@ -55,4 +55,7 @@ export default {
 .audioplayer {
   width: 100px;
 }
+.description {
+  margin-bottom: 8px;
+}
 </style>
