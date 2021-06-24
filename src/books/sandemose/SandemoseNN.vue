@@ -3,7 +3,7 @@ PageBook
   h3 Verdsett, myteomspunnen – og undervurdert
 
   figure.col.col4.left-image.mt5
-   img(src='./Sandemose_Portrett.jpg' alt='')
+   img(src='./Sandemose_Portrett.jpg' alt='Portrett av eldre mann med briller og stort skjegg. Held ein utent sigarett i høgre hand. Foto')
    figcaption Foto: Bjørn Fjørtoft / Scanpix Sweden
 
   p Aksel Sandemose (1899–1965) har hatt ein underleg posisjon i norsk litteraturhistorie. Han er avhalden, hylla og respektert, men dei mest originale og banebrytande perspektiva i forfattarskapen hans er samstundes oversedde eller nedvurderte.
@@ -23,7 +23,7 @@ PageBook
   p Den danske forfattaren og arbeidarklassesonen emigrerte til Noreg som 31-åring fordi livet hans i København var i ferd med å rakne. Han hadde selt same manuset til to forlag fordi han, som mange gonger før, heldt på å drukne i ubetalte rekningar og gjeld. Derfor hadde han roke uklar med dei store danske avishusa og andre sentrale miljø i København. Løysinga vart å reise frå alt saman – til Noreg. Mora var norskfødd, frå Sandermosen i Asker, og Sandemose gjorde seg til nordmann både i språk, samfunnsengasjement og namneval: Han skifte namn frå Axel Nielsen til Aksel Sandemose.
 
   figure.col.col6.right-image.mt5
-   img(src='./Sandemose_Mot_Dag.jpg' alt='')
+   img(src='./Sandemose_Mot_Dag.jpg' alt='Skrivebord med telefon, lampe og diverse trykksaker. Foto')
    figcaption Tidsskriftet Mot Dag på skrivebordet i ein leilighet som var moderne på 1930-talet. Frå Folkemuseet i Oslo. Foto: Morten Holm / Scanpix
 
   p I Oslo kom han inn i den litterære krinsen rundt det kulturradikale tidsskriftet Mot Dag, men han vart sjølv aldri medlem. Han var ein antiborgarleg opprørar som aldri gjekk i takt med nokon.
@@ -36,29 +36,52 @@ PageBook
   h3 Jantelov og varulvar
 
   figure.col.col5.right-image.mt5
-   img(src='./Sandemose_Jantelov_og_varulver.jpg' alt='')
+   img(src='./Sandemose_Jantelov_og_varulver.jpg' alt='Ein varulv på to bein held ei kvinne fast med kjeven. Illustrasjon')
    figcaption Ein varulv går til åtak på offeret sitt i eit stikk frå 1700-talet
 
   p Sandemose utforska det destruktive og irrasjonelle både i samfunnet, i psyken til kvar enkelt og i mytologiske forteljingar. Den mykje omtalte 
     a(href='https://no.wikipedia.org/wiki/Janteloven' target='_blank') jantelova
-    | &nbsp;som han formulerte i sitt første hovudverk, En flyktning krysser sitt spor (1933), har både sosiologiske og psykologiske perspektiv.
+    | &nbsp;som han formulerte i sitt første hovudverk, 
+    em En flyktning krysser sitt spor 
+    | (1933), har både sosiologiske og psykologiske perspektiv.
 
   p Boka skildrar korleis samfunnet med sine krav om tilpassing og konformitet bryt ned psyken til enkeltmennesket, og ho illustrerer Sandemoses interesse for vondskap og maktmisbruk. Maktmenneske og mordarar fylte store delar av det litterære landskapet hans, og dei vart gjerne framstilte som menneske med eit fortrengt kjensleliv.
 
-  p For å illustrere indre konfliktar brukte Sandemose mellom anna bilete med mytiske referansar. I det tredje hovudverket hans, Varulven (1958), er den mytologiske verda veldig tydeleg til stades gjennom mytane om varulven og om det tapte paradiset, begge mytar som viser undergangskreftene i mennesket.
+  p For å illustrere indre konfliktar brukte Sandemose mellom anna bilete med mytiske referansar. I det tredje hovudverket hans, 
+    em Varulven 
+    | (1958), er den mytologiske verda veldig tydeleg til stades gjennom mytane om varulven og om det tapte paradiset, begge mytar som viser undergangskreftene i mennesket.
 
   h3 «Jeg vet hvem en Hitler er»
-  p Sandemose krinsa rundt dei uutgrundelege understraumane i menneskesinnet, og denne krinsinga har også ein politisk undertekst. Han var djupt engasjert i fascismens og nazismens psykologi, og han prøvde å finne ut kva djupner i menneskesinnet desse ideologiane henta si kraft frå. «Jeg vet hvem en Hitler er,» seier hovudkarakteren John Torson i Sandemoses andre hovudverk, romanen Det svundne er en drøm (1944), som han skreiv i Sverige under okkupasjonstida.
+  p Sandemose krinsa rundt dei uutgrundelege understraumane i menneskesinnet, og denne krinsinga har også ein politisk undertekst. Han var djupt engasjert i fascismens og nazismens psykologi, og han prøvde å finne ut kva djupner i menneskesinnet desse ideologiane henta si kraft frå. «Jeg vet hvem en Hitler er,» seier hovudkarakteren John Torson i Sandemoses andre hovudverk, romanen 
+    em Det svundne er en drøm 
+    | (1944), som han skreiv i Sverige under okkupasjonstida.
 
   h3 Eit spegelkabinett av skalkeskjul
-  p Modernistane meinte at førestellinga om eit eigentleg eg, ein fast kjerne eller identitet, er ei djup løgn i sivilisasjonen vår. Det same gjeld ideen om mennesket som eit tenkjande vesen. Det er derfor vi møter kontrastfylte, irrasjonelle og variable karakterar i den modernistiske litteraturen. Dei meinte også at den moderne sivilisasjonen skapte framandgjorde menneske med eit stort indre tomrom.
+  p Modernistane meinte at førestellinga om eit eigentleg 
+    em eg
+    | , ein fast kjerne eller identitet, er ei djup løgn i sivilisasjonen vår. Det same gjeld ideen om mennesket som eit tenkjande vesen. Det er derfor vi møter kontrastfylte, irrasjonelle og variable karakterar i den modernistiske litteraturen. Dei meinte også at den moderne sivilisasjonen skapte framandgjorde menneske med eit stort indre tomrom.
 
-  p Karakterteikningane til Sandemose skriv seg rett inn i denne europeiske samtidsmodernismen. I romanen Klabautermanden (norsk utgåve 1932) lyder det slik: «Men ingen vet lenger hvem han er … jeg er én, jeg er to, jeg er tre.» Sandemoses sentrale hovudkarakterar er Espen Arnakke frå romanane En sjømann går i land (1931), 
-    a(href='https://www.nb.no/items/6f2790fd91c562cb136dc118ec080f09?page=0&searchText=En%20flyktning%20krysser%20sitt%20spor' target='_blank') En flyktning krysser sitt spor
-    | &nbsp;(1933), Det stod en benk i haven (1937) og Brudulje (1938), John Torson frå Det svundne er en drøm (1944) og Erling Vik frå Varulven (1958) og Felicias bryllup (1961).
+  p Karakterteikningane til Sandemose skriv seg rett inn i denne europeiske samtidsmodernismen. I romanen 
+    em Klabautermanden 
+    | (norsk utgåve 1932) lyder det slik: «Men ingen vet lenger hvem han er … jeg er én, jeg er to, jeg er tre.» Sandemoses sentrale hovudkarakterar er Espen Arnakke frå romanane 
+    em En sjømann går i land 
+    | (1931), 
+    a(href='https://www.nb.no/items/6f2790fd91c562cb136dc118ec080f09?page=0&searchText=En%20flyktning%20krysser%20sitt%20spor' target='_blank') 
+    em En flyktning krysser sitt spor
+    | &nbsp;(1933), 
+    em Det stod en benk i haven 
+    | (1937) og 
+    em Brudulje 
+    | (1938), John Torson frå 
+    em Det svundne er en drøm 
+    | (1944) og Erling Vik frå 
+    em Varulven 
+    | (1958) og 
+    em Felicias bryllup 
+    | (1961).
 
   figure.col.col6.right-image.mt5
-    img(src='./Sandemose_Aksel_og_Hanne.jpg' alt='')
+    img(src='./Sandemose_Aksel_og_Hanne.jpg' alt='Mann og kvinne står på delvis snødekt veg ved eit hus. Foto')
     figcaption Forfattaren Aksel Sandemose i byen der han vart fødd, Nykøbing, eller «Jante», som han kallar han i romanane sine. Her med kona Hanne Sandemose. Foto: Aage Storløkken / Aktuell / Scanpix
     
   p Både Arnakke og Torson er mordarar. Arnakke er likevel det verkelege offeret, øydelagd av eit jantesamfunn og av makt menneske. Han er driven av eit kjærleikshat og prega av disharmoni og ambivalens. Torson på si side har fortrengt ugjerningane sine. Han prøver intenst å rulle opp eit mord han sjølv har utført, men altså ikkje hugsar. Framandkjensla og det indre kaoset er her det mest presserande.
@@ -66,17 +89,29 @@ PageBook
   p Erling Vik er også ein spalta karakter med motstridande drivkrefter, og han tviler på at han i det heile har ein identitet: «Var det en kalte personlighet, kanskje ikke så fast forankret som en gjerne ville tro? […] at en levde på en illusjon, en svindel. […] Han kunne kjenne det slik at han slett ikke var, aldri hadde vært til, som annet enn skalkeskjul for et skalkeskjul, et speilkabinett av skalkeskjul. […] Et blendverk, en uvirkelighet holdt sammen av en annen uvirkelighet.»
 
   h3 «Sannheten er skrevet i vann»
-  p Det eksisterer mange historier og anekdotar om Sandemose, både som forfattar og privatperson. Ein av dei mest kjende, og mest usanne, er at han skal ha sagt at mord og kjærleik er det einaste det er verdt å skrive om. Dette er ein replikk henta frå karakteren Gunder Gundersen i Det svundne er en drøm. Sjølv kalla Sandemose denne historia for sitatfusk.
+  p Det eksisterer mange historier og anekdotar om Sandemose, både som forfattar og privatperson. Ein av dei mest kjende, og mest usanne, er at han skal ha sagt at mord og kjærleik er det einaste det er verdt å skrive om. Dette er ein replikk henta frå karakteren Gunder Gundersen i 
+    em Det svundne er en drøm
+    | . Sjølv kalla Sandemose denne historia for sitatfusk.
 
-  p Skulle vi funne eit sitat som fangar noko berande i forfattarskapen, kunne det kanskje heller vere dette: «Verden blir en annen mens du blunker. […] Sannheten er skrevet i vann» (frå forordet i En flyktning krysser sitt spor, andre utgåva 1955). All sannkjenning er altså flyktig og upåliteleg, det er uråd å kome fram til ei sanning om realitetane eller seg sjølv.
+  p Skulle vi funne eit sitat som fangar noko berande i forfattarskapen, kunne det kanskje heller vere dette: «Verden blir en annen mens du blunker. […] Sannheten er skrevet i vann» (frå forordet i 
+    em En flyktning krysser sitt spor
+    | , andre utgåva 1955). All sannkjenning er altså flyktig og upåliteleg, det er uråd å kome fram til ei sanning om realitetane eller seg sjølv.
 
   p I forfattarskapen til Sandemose kjem dette synet til uttrykk på fleire nivå. For det første er synsvinkelen i dei sentrale romanane personal, og forteljaren er upåliteleg. Forteljinga formidlar derfor ingen allmenngjeldande sanningar.
 
-  p For det andre finn vi innslag av metafiksjon i tekstane, det vil seie ulike grep som klargjer at romanverda er fiksjon. Tekstane kan for eksempel kommentere seg sjølve, eller dei kan diskutere i kva grad språket er i stand til å føre fram til eller formidle forståing.
+  p For det andre finn vi innslag av 
+    em metafiksjon 
+    | i tekstane, det vil seie ulike grep som klargjer at romanverda er fiksjon. Tekstane kan for eksempel kommentere seg sjølve, eller dei kan diskutere i kva grad språket er i stand til å føre fram til eller formidle forståing.
 
-  p I En flyktning krysser sitt spor og Det svundne er en drøm prøver forteljarane å skaffe seg livsviktig forståing ved å rekonstruere liva sine gjennom skrift eller forteljing. Skrivinga er derfor ein strategi for å forstå og på nytt vinne kontroll over livet.
+  p I 
+    em En flyktning krysser sitt spor 
+    | og 
+    em Det svundne er en drøm 
+    | prøver forteljarane å skaffe seg livsviktig forståing ved å rekonstruere liva sine gjennom skrift eller forteljing. Skrivinga er derfor ein strategi for å forstå og på nytt vinne kontroll over livet.
 
-  p I Varulven er metafiksjonen ein leik med andre litterære sjangrar. I romanen er det fletta inn ei mordgåte, men ho blir liggjande uløyst. I samsvar med tanken om at sann forståing av verda er umogleg, endar mange av romanane ope og gåtefullt. Vi får ingen svar.
+  p I 
+    em Varulven 
+    | er metafiksjonen ein leik med andre litterære sjangrar. I romanen er det fletta inn ei mordgåte, men ho blir liggjande uløyst. I samsvar med tanken om at sann forståing av verda er umogleg, endar mange av romanane ope og gåtefullt. Vi får ingen svar.
 
   p Fleire av romanane til Sandemose er heller ikkje romanar i tradisjonell tyding. Sandemose sjølv likte ikkje å kalle tekstane sine romanar. Han framstiller først og fremst eit indre sjeleliv av kaotiske og sjølvmotseiande krefter, ikkje ein forståeleg røyndom med ein logisk ytre hendingsgang.Slik er han ein vidareutviklar av medvitsstraum-teknikken («stream of consciousness») til James Joyce. Sandemose fornyar denne teknikken ved å skape ein hybrid (ei blanding) mellom romanen og essayet, som er den subjektive og opne sakprosasjangeren. I sine beste romanar kombinerer han ein ytre hendingsgang med lange essayistiske parti.
 

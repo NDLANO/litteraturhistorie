@@ -2,16 +2,18 @@
 PageBook
   h3 Sosialpolitikk og kulturradikalisme
 
-  img.col.col6.right-image.mt5(src='./grieg_Sosialpolitikk_og_kulturradikalisme1.jpg' alt='')
+  img.col.col6.right-image.mt5(src='./grieg_Sosialpolitikk_og_kulturradikalisme1.jpg' alt='Sepiatonet bilde av kvinner som står i kø. Foto')
   p Mellomkrigsårene, det vil si 1920- og 1930-årene, var en tid med sterkt fokus på sosialpolitiske spørsmål. Arbeidsløshet, økonomiske nedgangstider og fattigdom krevde en sosialorientert litteratur. 
 
   p I tillegg var mellomkrigstida preget av økende politiske spenninger og av angrep på demokrati og menneskerettigheter i Europa. Mange var derfor opptatt av politiske spørsmål. Her hjemme kom det flere unge stemmer inn i samfunnsdebatten, og de utgjorde til sammen et radikalt opprør innenfor sentrale kulturinstitusjoner som aviser, tidsskrifter, teater og forlag. 
 
   figure.col.col4.right-image.mt5
-   img(src='./grieg_Sosialpolitikk_og_kulturradikalisme2.jpg' alt='')
+   img(src='./grieg_Sosialpolitikk_og_kulturradikalisme2.jpg' alt='To eldre menn med briller sitter ved et bord. I bakgrunnen en kvinnelig servitør. Foto')
    figcaption Sigurd Hoel og Helge Krogh. Foto: Odd Nicolaysen / Aktuell / Scanpix
 
-  p Kjente navn i denne sammenhengen er Sigurd Hoel, Arnulf Øverland, Helge Krog og Nordahl Grieg. De tre første blir gjerne omtalt som kulturradikale fordi de sjokkerte det norske samfunnet ved å utfordre kirke, skole og familieliv. 
+  p Kjente navn i denne sammenhengen er Sigurd Hoel, Arnulf Øverland, Helge Krog og Nordahl Grieg. De tre første blir gjerne omtalt som 
+    em kulturradikale 
+    | fordi de sjokkerte det norske samfunnet ved å utfordre kirke, skole og familieliv. 
 
   .clear
 
@@ -26,11 +28,17 @@ PageBook
       br
       | (utdrag av «Til ungdommen», 1936)	 
 
-  img.col.col4.left-image.mt5(src='./grieg_Portrett1.jpg' alt='')
+  img.col.col4.left-image.mt5(src='./grieg_Portrett1.jpg' alt='Portrett av en ung mann som ser rett mot kameraet. Foto')
 
   p Nordahl Grieg levde selv slik han oppfordret andre til å gjøre. Han var tidlig klar over at det var dikter han ville bli, men samtidig ville han aktivt delta i handlinger. Han var opptatt av krigshistorie og helter som falt i strid under første verdenskrig, han hadde et sosialt engasjement, og i tillegg hadde han en utferdstrang som førte han på mange reiser. 
 
-  p Nordahl Grieg ble født i Bergen og vokste opp der. Allerede som 17-åring reiste han til sjøs, og dette gav inspirasjon til diktsamlingen Rundt Kap det gode Haab. Vers fra sjøen, som kom i 1922. To år seinere kom romanen Skibet gaar videre, og her taler han sjømannens sak og setter søkelyset på de dårlige vilkårene som hersket om bord i båtene på den tida.
+  p Nordahl Grieg ble født i Bergen og vokste opp der. Allerede som 17-åring reiste han til sjøs, og dette gav inspirasjon til diktsamlingen 
+    em Rundt Kap det gode Haab
+    | . 
+    em Vers fra sjøen
+    | , som kom i 1922. To år seinere kom romanen 
+    em Skibet gaar videre
+    | , og her taler han sjømannens sak og setter søkelyset på de dårlige vilkårene som hersket om bord i båtene på den tida.
 
   p Dette diktet var i mange år fast innslag i flere lesebøker: 
 
@@ -56,7 +64,7 @@ PageBook
   h3 Kampen mot fascismen 
 
   figure.col.col12
-   img(src='./grieg_Kampen_mot_fascismen1.jpg' alt='')
+   img(src='./grieg_Kampen_mot_fascismen1.jpg' alt='Tre menn i sivil står ved et militært kjøretøy. En kvinne sitter i kjøretøyet. Foto')
    figcaption Nordahl Grieg i Spania i 1937, under borgerkrigen
    
   p I 1930-årene var Nordahl Grieg svært engasjert i kampen mot krig og fascisme.  Han var en rastløs sjel, alltid på vandring, og han lengtet etter få gjort noe som kunne endre den verden han levde i. 
@@ -65,10 +73,14 @@ PageBook
 
   p Nordahl Grieg bodde to år i Sovjetunionen, fra 1933 til 1935, og kom hjem som overbevist kommunist. Han var sikker på at veien fram til et samfunn i solidaritet og fred måtte gå gjennom kommunismen. 
 
-  p Under Moskva-oppholdet fikk han også en sterk interesse for teater, og han oppdaget et scenisk uttrykk som han seinere tok inn i skuespillene Vår ære og vår makt (1935) og Nederlaget (1937). Grieg var særlig interessert i at teateret skulle være et forum for samfunnsdebatt. Dessuten hadde han lært seg en teknikk fra film og teater i Moskva: et scenebilde som skiftet mellom to skueplasser. Det skulle gi stykket og tilskuerne en intens og nær opplevelse. 
+  p Under Moskva-oppholdet fikk han også en sterk interesse for teater, og han oppdaget et scenisk uttrykk som han seinere tok inn i skuespillene 
+    em Vår ære og vår makt 
+    | (1935) og 
+    em Nederlaget 
+    | (1937). Grieg var særlig interessert i at teateret skulle være et forum for samfunnsdebatt. Dessuten hadde han lært seg en teknikk fra film og teater i Moskva: et scenebilde som skiftet mellom to skueplasser. Det skulle gi stykket og tilskuerne en intens og nær opplevelse. 
 
   figure.col.col6.right-image.mt5
-   img(src='./grieg_Kampen_mot_fascismen2.jpg' alt='')
+   img(src='./grieg_Kampen_mot_fascismen2.jpg' alt='To menn og en kvinne sitter eller ligger foran en husklynge. Foto')
    figcaption Gullbeholdningen i Norges Bank ble ført ut av landet med tog, lastebiler og fiskeskøyter i april 1940 – den såkalte gulltransporten. Her ser vi en pause under transporten, i midten Nordahl Grieg. Foto: Scanpix
 
   p Grieg var stadig på reise, i Tyskland, Italia og England. I 1937 var han i Spania og arbeidet som reporter under borgerkrigen. Oppholdet der gjorde sterkt inntrykk på han, og bekymringen over fascismens framvekst ble forsterket. 
@@ -167,7 +179,7 @@ PageBook
 
   .flex.flex-justify-center
     figure.col.col10
-      img(src='./grieg_Journalisten_og_krigsreporteren.jpg' alt='')
+      img(src='./grieg_Journalisten_og_krigsreporteren.jpg' alt='Menn i uniform og redningsvester står foran et norsk flagg. Foto')
       figcaption
         strong Nordahl Grieg ble selv en krigshelt
         br

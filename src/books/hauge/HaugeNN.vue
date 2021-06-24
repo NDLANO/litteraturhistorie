@@ -3,7 +3,9 @@ PageBook
   h3 Ein modernistisk diktar
   Olav H. Hauge blir rekna mellom dei fremste lyrikarane innanfor den modernistiske tradisjonen på 1900-talet.
 
-  p Hauge debuterte i 1946 med samlinga Glør i oska. Dei fleste av dikta i denne samlinga hadde han alt skrive i 1920- og 1930-åra, og dei var haldne i tradisjonell bunden stil med faste strofemønster. Hauge uttrykte gjerne sinnsstemningar gjennom symbolske naturbilete, som i dette diktet:
+  p Hauge debuterte i 1946 med samlinga 
+    em Glør i oska
+    | . Dei fleste av dikta i denne samlinga hadde han alt skrive i 1920- og 1930-åra, og dei var haldne i tradisjonell bunden stil med faste strofemønster. Hauge uttrykte gjerne sinnsstemningar gjennom symbolske naturbilete, som i dette diktet:
 
   blockquote
     | I dag og i morgon 
@@ -100,7 +102,7 @@ PageBook
   h3 Nynorskforfattar
 
   figure.col.col4.left-image.mt5
-    img(src='./Hauge_Portrett1.jpg' alt='')
+    img(src='./Hauge_Portrett1.jpg' alt='Portrett av eldre mann med blomebukett i hendene. Foto')
     figcaption Olav H. Hauge. Foto: NTB / Scanpix
 
   p Diktarspråket til Hauge er nynorsk, og det var utenkjeleg for han å skrive noko anna. Vi ser av ordvalet og formene han bruker, at det er eit arkaisk nynorsk. I dei eldste dikta bruker han former frå før 1938-reforma, som yver, kringum og stjernor. Han skriv substantivforma gjente for jente og talordet tvo for to. Også i seinare produksjon nyttar han stort sett dei eldste skriveformene.
@@ -108,8 +110,10 @@ PageBook
   .clear
 
   h3 Ein lågmælt diktar
-  img.col.col12(src='./Hauge_Portrett2.jpg' alt='')
-  p I samlinga Dropar i austavind (1966) går Hauge enda eit steg vidare i diktinga si. Her finn vi korte, tilsynelatande svært enkle dikt om kvardagslege ting: 
+  img.col.col12(src='./Hauge_Portrett2.jpg' alt='Portrett av eldre mann framfor eit stativ med fleire mikrofonar. Foto')
+  p I samlinga 
+    em Dropar i austavind 
+    | (1966) går Hauge enda eit steg vidare i diktinga si. Her finn vi korte, tilsynelatande svært enkle dikt om kvardagslege ting: 
 
   blockquote
     | Katten sit 
@@ -141,7 +145,9 @@ PageBook
     br
     | å falla for ljå. 
 
-  p Fleire av dikta i samlinga Dropar i austavind er inspirerte av japansk haikudikting. Haikudiktet er stutt og utan rim, og det skal samanfatte noko om ein situasjon eller ei stemning. Haikudiktinga har hatt stor innverknad på den modernistiske lyrikken. Olav H. Hauge eksperimenterte med denne forma tidleg i 1960-åra, og han inspirerte også andre norske lyrikarar som Jan Erik Vold, Eldrid Lunden og PaalHelge Haugen.
+  p Fleire av dikta i samlinga 
+    em Dropar i austavind 
+    | er inspirerte av japansk haikudikting. Haikudiktet er stutt og utan rim, og det skal samanfatte noko om ein situasjon eller ei stemning. Haikudiktinga har hatt stor innverknad på den modernistiske lyrikken. Olav H. Hauge eksperimenterte med denne forma tidleg i 1960-åra, og han inspirerte også andre norske lyrikarar som Jan Erik Vold, Eldrid Lunden og PaalHelge Haugen.
 
   h3 Rikt biletspråk
   p Biletspråket til Hauge tek utgangspunkt i bygdeliv og natur, og det er vestlandsnaturen som kjem til syne, både konkret og symbolsk.
@@ -186,13 +192,13 @@ PageBook
 
   .flex.flex-justify-center
     figure.col.col8
-      img(src='./Hauge_Frimerke.jpg' alt='')
+      img(src='./Hauge_Frimerke.jpg' alt='Frimerke med tekstutdrag frå eit dikt. Kvite bokstavar mot ein månelys natthimmel. Foto')
       figcaption Sitatet på dette frimer­ket skriv seg frå lyrik­aren Olav H. Hauge. Illustrasjon: Posten Norge / Scanpix
 
   h3 Gartnar og poet
 
   figure.col.col6.right-image.mt5
-    img(src='./Hauge_i_hagen.jpg' alt='')
+    img(src='./Hauge_i_hagen.jpg' alt='Eldre mann held i ei grein frå eit blomstrande frukttre. Foto')
     figcaption  Foto: Line Møller / VG / Scanpix (Hauge i hagen)
 
   p Olav H. Hauge budde heile livet sitt i Ulvik i Hardanger, der han livnærte seg som fruktdyrkar. Han var sjølvlært i litteraturfaget, men stod likevel fram som svært kunnskapsrik og intellektuell.
@@ -233,7 +239,7 @@ PageBook
   h3 Eit ideal for Profil-forfattarane
 
   figure.col.col6.left-image.mt5
-    img(src='./Hauge_Dikteren_fra_Hardanger.jpg' alt='')
+    img(src='./Hauge_Dikteren_fra_Hardanger.jpg' alt='Svart-kvitt portrett av mann mot ein bakgrunn av blomar. Foto')
     figcaption Diktaren frå Har­danger
     
   p I 1966 tok ei gruppe unge forfattarar over redaksjonen i studenttidsskriftet Profil. Dei såg på seg sjølve som antiborgarlege og tok avstand frå det rådande litteratursynet. For mange av desse unge forfattarane var Olav H. Hauge ein inspirator og eit føredøme. Fleire av dei reiste til Ulvik for å intervjue Hauge og for å høyre han snakke om dikting og litteratur.
@@ -245,7 +251,9 @@ PageBook
   blockquote Hauge, ja! Det er han som bærer fakkelen nå, slik jeg ser det – og så mye kan sies, at det betyr ikke lite at det går en slik 66-åring omkring i Ulviks kuperte og grøderike landskap og steller sine frukttrær mens han tenker på poesien. Det er trygt å vite, om man bor f.eks. i hovedstaden, at innerst i en fjordarm av Hardangerfjorden fins en som stadig følger med, en som ikke har vansker med å skjelne mellom toskeskap og ekte vare, skjelne mellom tull og alvor. Det er en evne som kommer godt med, i dagliglivet som i kulturlivet, at der skal bokstaver opp på veggen hver eneste dag… 
 
   h3 Mitt liv var draum
-  p Olav H. Hauge gav ut sju eigne diktsamlingar og fleire samlingar med gjendiktingar. I 2004 kom det ein biografi om diktaren med tittelen Mitt liv var draum, forfatta av Knut Olav Åmås. På vaskesetelen står det å lese: 
+  p Olav H. Hauge gav ut sju eigne diktsamlingar og fleire samlingar med gjendiktingar. I 2004 kom det ein biografi om diktaren med tittelen 
+    em Mitt liv var draum
+    | , forfatta av Knut Olav Åmås. På vaskesetelen står det å lese: 
 
   p Det han søkte, og frirommet han fann, var litteraturen. Litteraturen gav han det livet han ikkje fann i den verda som av dei fleste blir kalla den verkelege. Det var eit lese liv, difor var det eit levd liv, difor var kvar samtale om litteratur ein samtale om livet, difor var oppgåva ikkje å gjera draumen til liv, men livet til draum. 
 

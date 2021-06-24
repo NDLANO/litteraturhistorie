@@ -7,11 +7,6 @@ PageBook
     img(src='./kjarstad_Portrett1.jpg' alt='')
     figcaption Jan Kjærstad. Foto: Mattis Sandblad / VG / Scanpix
 
-  NdlaVideo(
-    source="https://www.youtube.com/watch?v=ohIPlcG-ow8" 
-    playerType="youtube"
-    description="Jan Kjærstad om romanen «Menneskets vidde»"
-    )
 
   p Betegnelsen postmoderne metafysiker kan virke som en selvmotsigelse. Postmodernisten hevder at «de storefortell­ingene» er døde – det finnes ingen absolutte sannheter. Metafysikeren leter  derimot etter evige og allmenne sannheter. 
 
@@ -20,60 +15,107 @@ PageBook
   h3 Hva er et menneske? 
   p Et grunnleggende spørsmål i hele Kjærstads forfatterskap er spørsmålet om hva det vil si å være menneske. Kjærstad bruker fortellingens språk og form til å formidle innsikt og gi mulige svar på dette spørsmålet. I bunnen ligger en tanke om at fortellinger kan skape identitet. Fortellinger kan skape mening og sammenheng i et liv som ellers kan virke fragmentert og styrt av ulike krefter i et globalt medie- og informasjonssamfunn. 
 
-  figure.col.col12
-    img(src='./kjarstad_Portrett2.jpg' alt='')
-    figcaption Jan Kjærstad om romanen «Menneskets vidde»
-
+  NdlaVideo(
+    source="https://www.youtube.com/watch?v=ohIPlcG-ow8" 
+    playerType="youtube"
+    description="Jan Kjærstad om romanen «Menneskets vidde»"
+    )
   
   h3 Fra den store til de små fortellingene 
   p Jan Kjærstad er født i 1963 og oppvokst på Grorud i Oslo. Etter videregående utdanning på Oslo katedralskole studerte Kjærstad teologi ved Universitetet i Oslo. Teologistudiene er noe man tydelig ser spor etter i Kjærstads forfatterskap. Han skriver om livets store spørsmål, og han har referanser til ulike religioner i mange av tekstene sine. 
 
   figure.col.col6.right-image.mt5
-    img(src='./kjarstad_Portrett3.jpg' alt='')
+    img(src='./kjarstad_Portrett3.jpg' alt='Mann står på et torg omgitt av bygninger, biler og mennesker. Foto')
     figcaption Jan Kjærstad fikk Nordisk råds litteraturpris i 2001. Her er han på vei til pressekonferanse sammen med sine døtre. Foto: Jan Tomas Espedal / Aftenposten / Scanpix
     
-  p Men Kjærstad valgte å ikke jobbe som prest. Mot slutten av teologiutdannelsen besluttet han at han ønsket å skrive fiksjons­tekster, og han debuterte med novellesamlingen Kloden dreier stille rundt i 1980. Gjennombruddet kom med romanen Speil. Leseserie fra det 20 århundre i 1982. 
+  p Men Kjærstad valgte å ikke jobbe som prest. Mot slutten av teologiutdannelsen besluttet han at han ønsket å skrive fiksjons­tekster, og han debuterte med novellesamlingen 
+    em Kloden dreier stille rundt 
+    | i 1980. Gjennombruddet kom med romanen 
+    em Speil. Leseserie fra det 20 århundre 
+    | i 1982. 
 
-  p Kjærstad er på mange måter en forfatter med et litterært program. I tillegg til å skrive romaner og noveller har han skrevet ulike essays og artikler om litteratur. I Menneskets matrise (1989), Menneskets felt (1997) og Menneskets nett (2004) skriver Kjærstad såkalte poetikker, det vil si tekster om hva og hvordan litteratur bør være. Han har også vært redaktør for litteraturtidsskriftet Vinduet, i perioden 1985–89, og Bøk, sammen med Jon Fosse, fra 1993–1996. Han har på denne måten vært med på å prege norsk litterær debatt. 
+  p Kjærstad er på mange måter en forfatter med et litterært program. I tillegg til å skrive romaner og noveller har han skrevet ulike essays og artikler om litteratur. I 
+    em Menneskets matrise 
+    | (1989), 
+    em Menneskets felt 
+    | (1997) og 
+    em Menneskets nett 
+    | (2004) skriver Kjærstad såkalte poetikker, det vil si tekster om hva og hvordan litteratur bør være. Han har også vært redaktør for litteraturtidsskriftet 
+    em Vinduet
+    | , i perioden 1985–89, og 
+    em Bøk
+    | , sammen med Jon Fosse, fra 1993–1996. Han har på denne måten vært med på å prege norsk litterær debatt. 
 
   h3 Død og kjærlighet 
 
   figure.col.col6.right-image.mt5
-    img(src='./kjarstad_Portrett4.jpg' alt='')
+    img(src='./kjarstad_Portrett4.jpg' alt='Mann står foran en hvit kakkelovn. Han er omkransa av bøker. Foto')
     figcaption Foto: Jan Petter Lynau / VG / Scanpix
     
-  p Homo Falsus eller Det perfekte mord (1984) og Rand (1990) er eksempler på romaner som på mange måter er typiske for Jan Kjærstad. Forfatteren leker med ulike sjangre, og han leker med leseren. I begge romanene begår hovedpersonene drap, men romanene er ikke realistiske psykologiske portretter eller krimromaner. Kjærstad utnytter elementer fra krimromansjangeren til å formidle noe om hva det vil si å være menneske i en postmoderne virkelighet. 
+  p 
+    em Homo Falsus eller Det perfekte mord 
+    | (1984) og 
+    em Rand 
+    | (1990) er eksempler på romaner som på mange måter er typiske for Jan Kjærstad. Forfatteren leker med ulike sjangre, og han leker med leseren. I begge romanene begår hovedpersonene drap, men romanene er ikke realistiske psykologiske portretter eller krimromaner. Kjærstad utnytter elementer fra krimromansjangeren til å formidle noe om hva det vil si å være menneske i en postmoderne virkelighet. 
 
-  p Homo Falsus eller Det perfekte mord er en såkalt metaroman. Romanen tematiserer sin egen tilblivelse gjennom at fortelleren skriver om sin egen skriveprosess. Utover i romanen mister fortelleren kontrollen over sin egen fortelling, og mot slutten blir det uklart om fortelleren også er oppdiktet – av hovedpersonen han har diktet opp. Det hele er både forvirrende og forførende. Kjærstad leker med forholdet mellom fiksjon og virkelighet i en roman som går i kritisk dialog med ulike postmoderne forestillinger om sannhet, virkelighet og identitet. 
+  p 
+    em Homo Falsus eller Det perfekte mord 
+    | er en såkalt metaroman. Romanen tematiserer sin egen tilblivelse gjennom at fortelleren skriver om sin egen skriveprosess. Utover i romanen mister fortelleren kontrollen over sin egen fortelling, og mot slutten blir det uklart om fortelleren også er oppdiktet – av hovedpersonen han har diktet opp. Det hele er både forvirrende og forførende. Kjærstad leker med forholdet mellom fiksjon og virkelighet i en roman som går i kritisk dialog med ulike postmoderne forestillinger om sannhet, virkelighet og identitet. 
 
-  p I Rand blir hovedpersonen satt til å etterforske drap han selv har begått. Nok en gang leker Kjærstad med elementer fra krimsjangeren, men hans prosjekt er ikke å lage et portrett av en uetisk drapsmann. Hovedpersonen er en representant for den ekstreme postmoderne karakteren – en karakter som er så fristilt fra de store fortellingenes moral og sammenheng at han ikke kjenner skyld eller ansvar for mordene han har utført. Han er et menneske uten moralsk kjerne eller etisk orienteringspunkt. 
+  p I 
+    em Rand 
+    | blir hovedpersonen satt til å etterforske drap han selv har begått. Nok en gang leker Kjærstad med elementer fra krimsjangeren, men hans prosjekt er ikke å lage et portrett av en uetisk drapsmann. Hovedpersonen er en representant for den ekstreme postmoderne karakteren – en karakter som er så fristilt fra de store fortellingenes moral og sammenheng at han ikke kjenner skyld eller ansvar for mordene han har utført. Han er et menneske uten moralsk kjerne eller etisk orienteringspunkt. 
 
   p Kjærstad utnytter her krimromanens struktur til å formidle noe om hvordan et menneske forsøker å skape orden og mening i en verden truet av kaos og meningsløshet. Det egentlige prosjektet, i denne på flere måter utfordrende fortellingen, er å si noe om språkets makt, om menneskets skaperkraft – om fantasiens fantastiske egenskaper. Og nok en gang er Kjærstad opptatt av spørsmålet: Hva er et menneske? 
 
-  p Romanen Tegn til kjærlighet fra 2002 er kanskje noe mindre typisk for Kjærstads forfatterskap. Romanen fikk også noe mer blandede kritikker. Romanen har ikke, som Homo Falsus eller Det perfekte mord eller Rand, noe kritisk prosjekt. Romanen er mer en hyllest til språket, til fantasien, til fortellingen – og til kjærligheten. Kjærligheten til fortellingen, til livet og til de andre – det vil si ens medmennesker.
+  p Romanen 
+    em Tegn til kjærlighet 
+    | fra 2002 er kanskje noe mindre typisk for Kjærstads forfatterskap. Romanen fikk også noe mer blandede kritikker. Romanen har ikke, som 
+    em Homo Falsus eller Det perfekte mord 
+    | eller 
+    em Rand
+    | , noe kritisk prosjekt. Romanen er mer en hyllest til språket, til fantasien, til fortellingen – og til kjærligheten. Kjærligheten til fortellingen, til livet og til de andre – det vil si ens medmennesker.
 
-  p Andre kjente bøker av Kjærstad er blant annet romanene Det store eventyret fra 1987 og Kongen av Europa fra 2005. Kjærstad har også gitt ut bildebøker for barn i samarbeid med ulike illustratører. 
+  p Andre kjente bøker av Kjærstad er blant annet romanene 
+    em Det store eventyret 
+    | fra 1987 og 
+    em Kongen av Europa 
+    | fra 2005. Kjærstad har også gitt ut bildebøker for barn i samarbeid med ulike illustratører. 
 
   h3 Forfører, erobrer, oppdager – Jonas Wergeland 
 
   h5 Det sammensatte individet i et komplekst mediesamfunn 
-  p Med Forføreren (1993), Erobreren (1996) og Oppdageren (1999) nådde Kjærstad ut til en stor gruppe lesere, både i og utenfor Norge. I 2001 fikk han Nordisk råds litteraturpris for Oppdageren. Trilogien er en fiktiv biografi om den oppdiktede tv-personligheten Jonas Wergeland og kan regnes som en klassiker i norsk postmodernistisk litteratur. Verket eksperimenterer med form, fortelleteknikk, komposisjon og karakterbygging. Kjærstad leker med ulike sjangre, som blant annet biografi, dannelsesroman, erotisk fortelling og politisk satire. 
+  p Med 
+    em Forføreren 
+    | (1993), 
+    em Erobreren 
+    | (1996) og 
+    em Oppdageren 
+    | (1999) nådde Kjærstad ut til en stor gruppe lesere, både i og utenfor Norge. I 2001 fikk han Nordisk råds litteraturpris for Oppdageren. Trilogien er en fiktiv biografi om den oppdiktede tv-personligheten Jonas Wergeland og kan regnes som en klassiker i norsk postmodernistisk litteratur. Verket eksperimenterer med form, fortelleteknikk, komposisjon og karakterbygging. Kjærstad leker med ulike sjangre, som blant annet biografi, dannelsesroman, erotisk fortelling og politisk satire. 
 
   p De tre romanene har ulike fortellere. På den måten får vi se hovedpersonen Jonas Wergeland fra flere forskjellige perspektiver. Romanserien formidler historien om et oppstykket og fragmentert individ, noe som kan gjenspeile samtiden han lever i. 
 
   figure.col.col6.right-image.mt5
-    img(src='./kjarstad_Erobreren1.jpg' alt='')
+    img(src='./kjarstad_Erobreren1.jpg' alt='Tre unge menn i en gruppe. To av dem holder en stabel med bøker. Foto')
     figcaption "Skuespilleren Jakob Oftebro som Jonas Wergeland under opptakene til tv-serien «Erobreren». Foto: Trond Solberg/VG / Scanpix"
     
-  p I Forføreren møter vi Jonas Wergeland idet han finner sin kone – hans store kjærlighet – drept i deres egen stue. Denne skjellsettende opplevelsen er utgangspunktet for fortellingene om Jonas’ vei fra barndommen til hans suksess som programskaper og rikskjendis. Jonas er en moderne helt. Alt han tar i, blir til gull. Han forfører kvinner med sin «magiske penis», og han forfører et helt folk med tv-programmet sitt. 
+  p I 
+    em Forføreren 
+    | møter vi Jonas Wergeland idet han finner sin kone – hans store kjærlighet – drept i deres egen stue. Denne skjellsettende opplevelsen er utgangspunktet for fortellingene om Jonas’ vei fra barndommen til hans suksess som programskaper og rikskjendis. Jonas er en moderne helt. Alt han tar i, blir til gull. Han forfører kvinner med sin «magiske penis», og han forfører et helt folk med tv-programmet sitt. 
 
   NrkVideo(id="3966")
   div Om tv-serien «Erobreren» fra 2012. Hvordan kler du opp 80 skuespillere og mer enn 2000 statister når handlingen strekker seg over fire tiår?
 
-  p I Erobreren blir bildet av Jonas nyansert. De mørkere sidene ved helten fra Forføreren blir nå presentert, uten at vi på noen måte får et heldekkende bilde av hvem Jonas er. Vi sitter igjen med flere ulike, og like sanne eller sannsynlige, bilder av Jonas. I Oppdageren møter leseren Jonas idet han slipper ut av fengselet. Han ble dømt for drapet på Margrete, selv om det er uavklart om det er han som drepte henne. 
+  p I 
+    em Erobreren 
+    | blir bildet av Jonas nyansert. De mørkere sidene ved helten fra 
+    em Forføreren 
+    | blir nå presentert, uten at vi på noen måte får et heldekkende bilde av hvem Jonas er. Vi sitter igjen med flere ulike, og like sanne eller sannsynlige, bilder av Jonas. I 
+    em Oppdageren 
+    | møter leseren Jonas idet han slipper ut av fengselet. Han ble dømt for drapet på Margrete, selv om det er uavklart om det er han som drepte henne. 
 
   figure.col.col6.right-image.mt5
-    img(src='./kjarstad_Erobreren2.jpg' alt='')
+    img(src='./kjarstad_Erobreren2.jpg' alt='Lærer står foran ei tavle og peker ut i klasserommet. En elev skriver på tavla i bakgrunnen. Foto')
     figcaption Per Chr. Ellefsen som som lektor i matematikk under opptaka til tv-serien «Erobreren». Foto: Trond Solberg /VG / Scanpix
     
   p I tillegg til å være en lek med biografisjangeren, er trilogien om Jonas Wergeland et stykke norgeshistorie. Tv-programmet Jonas får suksess med, «Å tenke stort», er portretter av norske helter, eller rettere sagt – nordmenn som også har blitt helter i utlandet. Programmene er laget som tv-portretter av nordmenn med ambisjoner. Ulike personligheter, som for eksempel Sonja Hennie, Gro Harlem Brundtland og Henrik Ibsen, speiler Norge og den norske «folkesjela», noe Kjærstad leker med, undersøker og ironiserer over i sitt forsøk på å speile hva det vil si å være norsk. At Jonas heter Wergeland til etternavn, må også ses som en del av Kjærstads lek med store nordmenn – og hva det vil si å være norsk. 
