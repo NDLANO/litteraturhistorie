@@ -61,7 +61,9 @@ PagePeriod(
 
   h5 Dante Alighieri (1265–1321) 
   p
-   | er ein av dei første diktarane i mellomalderen som skriv på morsmålet i staden for latin. I Den guddommelege komedien skildrar han si eiga (tenkte) reise gjennom helvete, skjærseld og til slutt paradiset. Samtidig flettar han inn tankar om både religion, filosofi, vitskap og politikk.
+   | er ein av dei første diktarane i mellomalderen som skriv på morsmålet i staden for latin. I 
+   em Den guddommelege komedien 
+   | skildrar han si eiga (tenkte) reise gjennom helvete, skjærseld og til slutt paradiset. Samtidig flettar han inn tankar om både religion, filosofi, vitskap og politikk.
    
 
 
@@ -72,7 +74,11 @@ PagePeriod(
 
   h5 Renessansen 
   p
-    | Kontakten med andre land og kulturar fører til at folk blir meir opne for nye tankar og impulsar. Også kunsten endrar seg. Den nye kulturelle utviklinga byrjar i Italia og blir kalla rinascimento (atterføding). Men det er den franske versjonen av ordet, renaissance, som har funne vegen inn i dei andre europeiske språka. Det som ligg i ordet atterføding, er gjenoppdaginga av den førkristne, antikke kunsten, særleg den greske.
+    | Kontakten med andre land og kulturar fører til at folk blir meir opne for nye tankar og impulsar. Også kunsten endrar seg. Den nye kulturelle utviklinga byrjar i Italia og blir kalla 
+    em rinascimento 
+    | (atterføding). Men det er den franske versjonen av ordet, 
+    em renaissance
+    | , som har funne vegen inn i dei andre europeiske språka. Det som ligg i ordet atterføding, er gjenoppdaginga av den førkristne, antikke kunsten, særleg den greske.
 
   h5 Humanismen 
   p
@@ -127,15 +133,25 @@ PagePeriod(
 
   h5 Absalon Pedersson Beyer (1528–1575) 
   p
-    | er prest frå Bergen. Han skriv Bergens Kapitelsbog, som inneheld ei samling tekstar om dagleglivet i Bergen på denne tida. I 1567 gir han ut boka Om Norgis Rige. Her skildrar han mellom anna noregshistoria, med auga til ein patriot.   
+    | er prest frå Bergen. Han skriv 
+    em Bergens Kapitelsbog
+    | , som inneheld ei samling tekstar om dagleglivet i Bergen på denne tida. I 1567 gir han ut boka 
+    em Om Norgis Rige
+    | . Her skildrar han mellom anna noregshistoria, med auga til ein patriot.   
 
   h5 Peder Clausson Friis (1545–1614)  
   p
-    | høyrer til det humanistiske miljøet ved katedralskolen i Stavanger. Han skriv Norrigis Bescriffuelse, som er ei slags geografibok. Dessutan omset han norrøne tekstar, mellom anna Snorre, til dansk.  
+    | høyrer til det humanistiske miljøet ved katedralskolen i Stavanger. Han skriv 
+    em Norrigis Bescriffuelse
+    | , som er ei slags geografibok. Dessutan omset han norrøne tekstar, mellom anna Snorre, til dansk.  
 
   h5 Jens Nilsson (1538–1600)  
   p
-    | er den tredje humanisten. Han er opphavleg dansk, men blir rekna som ein sentral person blant Oslo-humanistane. Jens Nilsson er skolemann, men blir seinare biskop. Han forstår norrønt og gjer ei avskrift av eit norrønt manuskript frå 1300-talet. Hovudverket hans er Biskop Jens Nilssøns Visitatsbøger og Reiseoptegnelser. Her fortel han om reiser han har gjort som biskop. 
+    | er den tredje humanisten. Han er opphavleg dansk, men blir rekna som ein sentral person blant Oslo-humanistane. Jens Nilsson er skolemann, men blir seinare biskop. Han forstår norrønt og gjer ei avskrift av eit norrønt manuskript frå 1300-talet. Hovudverket hans er 
+    em Biskop Jens Nilssøns Visitatsbøger 
+    | og 
+    em Reiseoptegnelser
+    | . Her fortel han om reiser han har gjort som biskop. 
 
   h3 Språket  
 

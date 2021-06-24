@@ -92,7 +92,8 @@ PagePeriod(
     | Komediane til Holberg følgjer klassisistiske reglar, og vi kallar dei karakterkomediar. Hovudpersonane har gjerne ei dårleg side eller ei last som fører til konflikt. Dermed veks det fram intrigar. Til slutt går hovudpersonen på eit nederlag og må lære av feila sine.
   h5 Kamuflert samfunnskritikk
   p
-    | Niels Klims underjordiske reise er ein sciencefictionroman – på latin! Reisa endar i ideallandet Potu (Utopia), der adelen er rydda av vegen, og bøndene er dei mest fornemme. På den måten lanserer Holberg ein kamuflert samfunnskritikk.
+    em Niels Klims underjordiske reise 
+    | er ein sciencefictionroman – på latin! Reisa endar i ideallandet Potu (Utopia), der adelen er rydda av vegen, og bøndene er dei mest fornemme. På den måten lanserer Holberg ein kamuflert samfunnskritikk.
 
   NdlaAudio(
     source="media/periods/opplysning/Holberg_Erasmus_Montanus_nrk_lesekunst.mp3"
@@ -124,7 +125,9 @@ PagePeriod(
     | Ein av stiftarane er Johan Nordahl Brun, som seinare blir biskop i Bergen. Han er mest kjend for diktet ”For Norge, kjempers fødeland”. Teksten er skriven som ei drikkevise, men blir seinare vår første nasjonalsong.
   h5 Wessel – ein satirikar av dei sjeldne
   p
-    | Johan Herman Wessel (1742–1785) er sentral i Norske Selskab. Han skriv Kiærlighed uden strømper, ein parodi på den klassisistiske tragediediktinga på 1700-talet. Wessel er òg kjend for sine satiriske vers og gravskrifter.
+    | Johan Herman Wessel (1742–1785) er sentral i Norske Selskab. Han skriv 
+    em Kiærlighed uden strømper
+    | , ein parodi på den klassisistiske tragediediktinga på 1700-talet. Wessel er òg kjend for sine satiriske vers og gravskrifter.
   h5 Fleire nordmenn i klubben
   p
     | Andre sentrale namn i Norske Selskab er Johan Vibe, Jens Zetlitz og Claus Fasting. 

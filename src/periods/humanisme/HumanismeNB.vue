@@ -62,7 +62,9 @@ PagePeriod(
 
   h5 Dante Alighieri (1265–1321) 
   p
-    | er en av de første dikterne i middelalderen som skriver på morsmålet i stedet for latin. I Den guddommelige komedie skildrer han sin egen (tenkte) reise gjennom helvete, skjærsild og til slutt paradiset. Samtidig fletter han inn tanker om både religion, filosofi, vitenskap og politikk. 
+    | er en av de første dikterne i middelalderen som skriver på morsmålet i stedet for latin. 
+    em I Den guddommelige komedie 
+    | skildrer han sin egen (tenkte) reise gjennom helvete, skjærsild og til slutt paradiset. Samtidig fletter han inn tanker om både religion, filosofi, vitenskap og politikk. 
 
 
   h3 Tanker i tida 
@@ -126,15 +128,25 @@ PagePeriod(
 
   h5 Absalon Pedersson Beyer (1528–1575) 
   p
-    | var prest fra Bergen. Han skrev Bergens Kapitelsbog, som inneholder en samling tekster om dagliglivet i Bergen på denne tida. I 1567 gav han ut boka Om Norgis Rige. Her skildrer han blant annet Norges historie, sett med en patriots øyne.
+    | var prest fra Bergen. Han skrev 
+    em Bergens Kapitelsbog
+    | , som inneholder en samling tekster om dagliglivet i Bergen på denne tida. I 1567 gav han ut boka 
+    em Om Norgis Rige
+    | . Her skildrer han blant annet Norges historie, sett med en patriots øyne.
 
   h5 Peder Clausson Friis (1545–1614) 
   p
-    | tilhørte det humanistiske miljøet rundt katedralskolen i Stavanger. Han skrev Norrigis Bescriffuelse, som er ei slags geografibok. Dessuten oversatte han norrøne tekster, blant annet Snorre, til dansk. 
+    | tilhørte det humanistiske miljøet rundt katedralskolen i Stavanger. Han skrev 
+    em Norrigis Bescriffuelse
+    | , som er ei slags geografibok. Dessuten oversatte han norrøne tekster, blant annet Snorre, til dansk. 
 
   h5 Jens Nilsson (1538–1600) 
   p
-    | var den tredje humanisten. Han var opprinnelig dansk, men regnes som en sentral person blant Oslo-humanistene. Jens Nilsson var skolemann, men ble seinere biskop. Han forstod norrønt og gjorde en avskrift av et norrønt manuskript fra 1300-tallet. Hovedverket hans var Biskop Jens Nilssøns Visitatbøger og Reiseoptegnelser. Her forteller han om reiser han har gjort som biskop.  
+    | var den tredje humanisten. Han var opprinnelig dansk, men regnes som en sentral person blant Oslo-humanistene. Jens Nilsson var skolemann, men ble seinere biskop. Han forstod norrønt og gjorde en avskrift av et norrønt manuskript fra 1300-tallet. Hovedverket hans var 
+    em Biskop Jens Nilssøns Visitatbøger 
+    | og 
+    em Reiseoptegnelser
+    | . Her forteller han om reiser han har gjort som biskop.  
 
   h3 Språket  
 

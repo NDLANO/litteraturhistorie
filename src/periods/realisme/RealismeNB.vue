@@ -18,7 +18,11 @@ PagePeriod(
     img(src="./Realisme_Tida_og_samfunnsforholdene1.jpg" alt="Elveutløp til demning ved fabrikkbygninger. Illustrasjon.")
     figcaption Industri langs Akerselva ved Hjula og Sagene
   h5 Fra bondesamfunn til byliv
-  p Det norske samfunnet gjennomgår store endringer i siste halvdel av 1800-tallet. Denne utviklingen kan på mange måter forklares med den industrielle revolusjonen, som startet i England midt på 1700-tallet og etter hvert spredde seg over størstedelen av Nord-Europa. Vi kan oppsummere disse endringene i begrepene industrialisering og urbanisering.
+  p Det norske samfunnet gjennomgår store endringer i siste halvdel av 1800-tallet. Denne utviklingen kan på mange måter forklares med den industrielle revolusjonen, som startet i England midt på 1700-tallet og etter hvert spredde seg over størstedelen av Nord-Europa. Vi kan oppsummere disse endringene i begrepene 
+    em industrialisering 
+    | og 
+    em urbanisering
+    | .
 
   figure.col.col5.right-image
     img(src="./Realisme_Tida_og_samfunnsforholdene2.jpg" alt="Dampskip i et havneområde. Illustrasjon.")
@@ -43,7 +47,9 @@ PagePeriod(
 
   p I 1848 gjør borgerskapet i Paris opprør mot sosial urettferdighet og manglende demokratiske rettigheter. Vi kaller dette februarrevolusjonen. Urolighetene som denne revolusjonen skapte, spredde seg raskt fra land til land i Europa. Revolusjonen utløste en tro på folkeopplysning, demokratiske rettigheter og håp om en bedre framtid for vanlige mennesker. Folk kjempet altså for fornuft, framskritt og frigjøring. 
 
-  p Også i Norge merker vi innflytelsen fra februarrevolusjonen. I 1850-årene begynner ulike politiske demokratiseringsprosesser. Det fører blant annet til at partiene Venstre, Høyre og Arbeiderpartiet blir stiftet, alle i 1880-årene. I 1884 blir parlamentarismen innført. Nå kunne ikke regjeringen lenger styre uten støtte fra et flertall av de folkevalgte representantene på Stortinget. Dette er en milepæl i utviklingen av et demokratisk Norge. 
+  p Også i Norge merker vi innflytelsen fra februarrevolusjonen. I 1850-årene begynner ulike politiske demokratiseringsprosesser. Det fører blant annet til at partiene Venstre, Høyre og Arbeiderpartiet blir stiftet, alle i 1880-årene. I 1884 blir 
+    em parlamentarismen 
+    | innført. Nå kunne ikke regjeringen lenger styre uten støtte fra et flertall av de folkevalgte representantene på Stortinget. Dette er en milepæl i utviklingen av et demokratisk Norge. 
 
   p Arbeiderbevegelsen blir etter hvert en viktig maktfaktor. Samtidig som nye arbeidsplasser vokser fram, utvikler det seg et motsetningsforhold mellom arbeidere og fabrikkeiere. Arbeiderne får mange med seg i kravet om allmenn stemmerett, rett til skolegang, flere sosiale goder i samfunnet og bedre forhold på arbeidsplassene. 
   
@@ -66,7 +72,9 @@ PagePeriod(
 
   img.col.col6.left-image(src="./Realisme_Tanker_i_tida2.jpg" alt="Portrettbilde av mann med tykt skjegg. Foto.")
   h5 Kommunismen
-  p I 1848 gav Karl Marx (1818–1883) og Friedrich Engels (1820–1895) ut boka Det kommunistiske manifest. Boka er en hard kritikk av det kapitalistiske systemet og en oppfordring til arbeiderklassen om å kjempe for bedre kår. Målet for kommunismen er et klasseløst samfunn, der alle har like rettigheter og plikter. I et slikt samfunn ville, ifølge Marx og Engels, menneskene være frie. 
+  p I 1848 gav Karl Marx (1818–1883) og Friedrich Engels (1820–1895) ut boka 
+    em Det kommunistiske manifest
+    | . Boka er en hard kritikk av det kapitalistiske systemet og en oppfordring til arbeiderklassen om å kjempe for bedre kår. Målet for kommunismen er et klasseløst samfunn, der alle har like rettigheter og plikter. I et slikt samfunn ville, ifølge Marx og Engels, menneskene være frie. 
 
   p I praksis fikk ikke de kommunistiske ideene særlig gjennomslag før den russiske revolusjonen i 1917. Da ble det første kommunistiske samfunnet grunnlagt. Men ideene til Marx og Engels har vært viktige for arbeiderne i kampen for frigjøring og bedre økonomiske og politiske rettigheter. 
 
@@ -75,7 +83,9 @@ PagePeriod(
   p Liberalismen er en ideologi med røtter tilbake til opplysningstida. I utgangspunktet var liberalistene opptatt av å framheve de individuelle rettighetene. De ville redusere den nesten allmektige konge- og statsmakta. Men på 1700-tallet ser vi at liberalistene utvikler tanker om frihet også i økonomisk forstand. Sentralt her står filosofen Adam Smith (1723–1790). 
 
   img.col.col6.left-image(src="./Realisme_Tanker_i_tida4.jpg" alt="Portrettbilde av mann med sløyfe. Illustrasjon.")
-  p En forkjemper for liberalismen på 1800-tallet, den engelske filosofen og økonomen John Stuart Mill (1806–1873), mente derimot at staten måtte spille en aktiv rolle for å sikre et velferdssamfunn for alle. Han kalles derfor sosialliberalismens far. I forlengelsen av et slikt syn ligger retten til å gjøre opprør mot urettferdige tilstander og arbeide for endringer i samfunnet. Mange forfattere og andre som la fram ideen om å bygge en nasjon, sluttet seg til dette synet. Det liberale partiet Venstre ble så stiftet som landets første parti i 1884.
+  p En forkjemper for liberalismen på 1800-tallet, den engelske filosofen og økonomen John Stuart Mill (1806–1873), mente derimot at staten måtte spille en aktiv rolle for å sikre et velferdssamfunn for alle. Han kalles derfor 
+    em sosialliberalismens 
+    | far. I forlengelsen av et slikt syn ligger retten til å gjøre opprør mot urettferdige tilstander og arbeide for endringer i samfunnet. Mange forfattere og andre som la fram ideen om å bygge en nasjon, sluttet seg til dette synet. Det liberale partiet Venstre ble så stiftet som landets første parti i 1884.
 
   img.col.col6.left-image(src="./Realisme_Tanker_i_tida5.jpg" alt="Portrettbilde av mann med hvite klær. Illustrasjon.")
   h5 Kristen eksistensialisme
@@ -85,7 +95,9 @@ PagePeriod(
 
   img.col.col6.left-image(src="./Realisme_Tanker_i_tida6.jpg" alt="Portrett i sideprofil av mann med langt skjegg. Foto.")
   h5 Darwinismen
-  p I 1859 kom Charles Darwin (1809–1882) med boka On the Origin of Species (Om artenes opprinnelse): Mennesket var ikke skapt i Guds bilde, men var et ledd i en lang utvikling. Darwins tanker utfordret sterkt det kirkelige verdensbildet. Darwin mente at livet kan karakteriseres som en kamp for tilværelsen (”a struggle of life”), og i denne kampen er det den sterkeste som overlever (”survival of the fittest”). Dette kaller vi evolusjon. Alt levende liv utvikler seg derfor mot noe bedre – evolusjon er framskritt. 
+  p I 1859 kom Charles Darwin (1809–1882) med boka 
+    em On the Origin of Species (Om artenes opprinnelse)
+    | : Mennesket var ikke skapt i Guds bilde, men var et ledd i en lang utvikling. Darwins tanker utfordret sterkt det kirkelige verdensbildet. Darwin mente at livet kan karakteriseres som en kamp for tilværelsen (”a struggle of life”), og i denne kampen er det den sterkeste som overlever (”survival of the fittest”). Dette kaller vi evolusjon. Alt levende liv utvikler seg derfor mot noe bedre – evolusjon er framskritt. 
 
   p I overensstemmelse med de positivistiske forskningsidealene baserte Darwin seg på observasjoner og innsamling av data. Darwin avviste en guddommelig plan med skaperverket og baserte sin vitenskap på fornuft.
 
@@ -95,9 +107,15 @@ PagePeriod(
 
   p Men den personen som for alvor utfordret det kristne verdensbildet, var den tyske filosofen Friedrich Nietzsche (1844–1900). Det velkjente sitatet ”Gud er død” er blitt stående som et uttrykk for den ateismen Nietzsche gjorde seg til talsmann for. For Nietzsche var det et sentralt poeng at mennesket er fritt, siden Gud ikke eksisterer. Vi er ikke bundet av kristne påbud og forbud. Vi er frie til selv å skape livet vårt. 
 
-  p De tankene som blant annet Nietzsche var talsmann for, nemlig at både samfunnet og enkeltmennesket blir mindre religiøst, kaller vi sekularisering. Det er et sentralt trekk i utviklingen av moderniteten. 
+  p De tankene som blant annet Nietzsche var talsmann for, nemlig at både samfunnet og enkeltmennesket blir mindre religiøst, kaller vi 
+    em sekularisering
+    | . Det er et sentralt trekk i utviklingen av moderniteten. 
 
-  p At samfunnet blir sekularisert, handler om at kirka får mindre politisk makt, og at lover og regler blir revet løs fra religiøs moral. At enkeltmennesket blir sekularisert, handler om at stadig færre individer i samfunnet har en religiøs tro. På 1800-tallet førte dette både til en følelse av frihet og til en livssynskrise. 
+  p At 
+    em samfunnet 
+    | blir sekularisert, handler om at kirka får mindre politisk makt, og at lover og regler blir revet løs fra religiøs moral. At 
+    em enkeltmennesket 
+    | blir sekularisert, handler om at stadig færre individer i samfunnet har en religiøs tro. På 1800-tallet førte dette både til en følelse av frihet og til en livssynskrise. 
 
 
   h3 Fra romantikk til realisme 
@@ -109,7 +127,11 @@ PagePeriod(
 
   p Norge ligger i utkanten av Europa, og det tok derfor litt tid før de nye modernitetstankene nådde oss. Men de nye ideene, og avsløringene til Eilert Sundt om hvordan det virkelig stod til rundt om i landet, fikk flere av de nye forfatterne til å se behovet for en mer realistisk litteratur. 
 
-  p Tida mellom 1850 og 1870 var ikke bare en tid preget av endringer i samfunnet. Også i litteraturen skjedde det endringer. Selv om den romantiske diktningen ble holdt i live av forfattere som ennå var produktive, kom det til nye. Og det er den nye, realistiske skrivemåten som kom til å dominere mer og mer. Perioden 1850–1870, overgangen fra romantikk til realisme, kan vi derfor kalle poetisk realisme eller romantisk realisme.
+  p Tida mellom 1850 og 1870 var ikke bare en tid preget av endringer i samfunnet. Også i litteraturen skjedde det endringer. Selv om den romantiske diktningen ble holdt i live av forfattere som ennå var produktive, kom det til nye. Og det er den nye, realistiske skrivemåten som kom til å dominere mer og mer. Perioden 1850–1870, overgangen fra romantikk til realisme, kan vi derfor kalle 
+    em poetisk realisme 
+    | eller 
+    em romantisk realisme
+    | .
 
   //- NdlaAudio(
   //-   source="media/periods/realisme/poetisk_realisme_nrk_Kritisk_sosialrealisme.mp3"
@@ -120,22 +142,44 @@ PagePeriod(
   img.col.col4.left-image(src="./Realisme_Fra_romantikk_til_realisme3.jpg" alt="Portrettbilde av mann med skjegg. Foto.")
   p <strong>Aasmund Olavsson Vinje (1818–1870)</strong>kom fra enkle kår, men var en sentral norsk folkeopplyser. Etter flere år som omgangsskolelærer og selvlært student reiste han til Kristiania for å studere jus. Han tok juridisk embetseksamen 38 år gammel, men ble aldri jurist. I stedet ble Vinje avismann og forfatter. Fra 1858 gav han ut bladet Dølen. Her skrev han kritisk og ironisk om det som rørte seg i tida. 
 
-  p Hovedverket hans er Ferdaminni frå Sumaren 1860, der han skriver om inntrykk og opplevelser fra en togreise mellom Eidsvoll og Trondheim. Ferdaminni frå Sumaren 1860 inneholder artikler om blant annet seterdrift og jordbruk, og skildringer av folk han møter på reisa. Vinje er kritisk til mye av det gamle og skriver med entusiasme om det nye industrisamfunnet som var i ferd med å vokse fram. Vinje er derfor en talsmann for det teknologiske framskrittet i Norge. 
+  p Hovedverket hans er 
+    em Ferdaminni frå Sumaren 1860
+    | , der han skriver om inntrykk og opplevelser fra en togreise mellom Eidsvoll og Trondheim. 
+    em Ferdaminni frå Sumaren 1860 
+    | inneholder artikler om blant annet seterdrift og jordbruk, og skildringer av folk han møter på reisa. Vinje er kritisk til mye av det gamle og skriver med entusiasme om det nye industrisamfunnet som var i ferd med å vokse fram. Vinje er derfor en talsmann for det teknologiske framskrittet i Norge. 
 
   img.col.col4.left-image(src="./Realisme_Fra_romantikk_til_realisme4.jpg" alt="Portrettbilde av kvinne med kjole. Maleri.")
-  p <strong>Camilla Collett (1813–1895)</strong> var en nybrottskvinne både innenfor litteratur og samfunnsdebatt. Hovedverket hennes, Amtmandens Døttre (1855), kom ut anonymt. Å være kvinnelig forfatter var nemlig helt uvanlig på midten av 1800-tallet. Her brøt Collett med datidas kvinneideal. Amtmandens Døttre regnes for den første tendensromanen i norsk litteratur. Denne betegnelsen bruker vi om en roman som er skrevet som innlegg i en samfunnsdebatt. Romanen tar opp den manglende friheten for kvinner. Romanen viser hvordan kvinners liv er styrt av menn, og hun kritiserer særlig de borgerlige fornuftsekteskapene. Camilla Collett var en helt sentral person i den gryende kampen for frigjøring av kvinner – for friheten til å velge hvem en vil gifte seg med, og friheten til å råde over eget liv. 
+  p <strong>Camilla Collett (1813–1895)</strong> var en nybrottskvinne både innenfor litteratur og samfunnsdebatt. Hovedverket hennes, 
+  em Amtmandens Døttre 
+  | (1855), kom ut anonymt. Å være kvinnelig forfatter var nemlig helt uvanlig på midten av 1800-tallet. Her brøt Collett med datidas kvinneideal. 
+  em Amtmandens Døttre 
+  | regnes for den første tendensromanen i norsk litteratur. Denne betegnelsen bruker vi om en roman som er skrevet som innlegg i en samfunnsdebatt. Romanen tar opp den manglende friheten for kvinner. Romanen viser hvordan kvinners liv er styrt av menn, og hun kritiserer særlig de borgerlige fornuftsekteskapene. Camilla Collett var en helt sentral person i den gryende kampen for frigjøring av kvinner – for friheten til å velge hvem en vil gifte seg med, og friheten til å råde over eget liv. 
 
   figure
     img(src="./Realisme_Fra_romantikk_til_realisme5.jpg" alt="Jeger med gevær på skulderen og to hunder i bånd. Illustrasjon.")
     figcaption Illustrasjon til eventyret om Peer Gynt i «Norske Huldre-Eventyr og Folkesagn» av P. Chr. Asbjørnsen. Denne sagnfiguren inspirerte Ibsen til å skrive skuespillet Peer Gynt
   p <strong>Henrik Ibsen (1828–1906)</strong> og <strong>Bjørnstjerne Bjørnson (1832–1910)</strong> var på vei mot realismen i 1850- og 1860-årene. Tidlig i denne perioden skrev de begge tekster med utgangspunkt i norsk historie, de var påvirket av nasjonalromantikken og sagalitteraturen. Men mot slutten av perioden ble de begge farget av de nye tankene i tida. 
 
-  p Ibsen gav ut skuespillene Brand (1866), Peer Gynt (1867) og De unges Forbund (1869). I disse skuespillene viser Ibsen en orientering mot samtida, og tematisk peker han på trekk ved moderniteten. Skuespillene tematiserer en konflikt mellom mer idealistiske krav til livet og tankene i moderniteten. I Brand gjelder det konflikten mellom kristendommen som absolutt sannhet og tvilen og skepsisen til det moderne mennesket. Peer Gynt handler om identitetsspørsmålet: Har mennesket en indre kjerne, eller er identitet noe som endrer seg fra situasjon til situasjon? I skuespillene sine problematiserer Ibsen troen på én sannhet, som i tillegg er overlevert gjennom tradisjoner. Denne grunnleggende tvilen er et typisk trekk ved moderniteten og det moderne mennesket. 
+  p Ibsen gav ut skuespillene 
+    em Brand 
+    | (1866), 
+    em Peer Gynt 
+    | (1867) og 
+    em De unges Forbund 
+    | (1869). I disse skuespillene viser Ibsen en orientering mot samtida, og tematisk peker han på trekk ved moderniteten. Skuespillene tematiserer en konflikt mellom mer idealistiske krav til livet og tankene i moderniteten. I 
+    em Brand 
+    | gjelder det konflikten mellom kristendommen som absolutt sannhet og tvilen og skepsisen til det moderne mennesket. 
+    em Peer Gynt 
+    | handler om identitetsspørsmålet: Har mennesket en indre kjerne, eller er identitet noe som endrer seg fra situasjon til situasjon? I skuespillene sine problematiserer Ibsen troen på én sannhet, som i tillegg er overlevert gjennom tradisjoner. Denne grunnleggende tvilen er et typisk trekk ved moderniteten og det moderne mennesket. 
 
   figure.col.col4.right-image
     img(src="./Realisme_Fra_romantikk_til_realisme6.jpg" alt="En mann holder hånden på skulderen til ei bekymret kvinne. Foto.")
     figcaption Fra den svenske filmen «Synnöve Solbakken» (1919)
-  p Bjørnson utgav novellen ”Faderen” (1860) og romanene Synnøve Solbakken (1857) og Arne (1859). I disse såkalte bondefortellingene bryter Bjørnson med den tidligere romantiske framstillingen av bonden. Her møter vi bonden i et hverdagsmiljø, litt idealisert kanskje, men likevel med sterke tilløp til realisme. Bjørnson skriver ikke bare om staute idealbønder, men også om sosiale problemer som fyll og knivslagsmål. 
+  p Bjørnson utgav novellen ”Faderen” (1860) og romanene 
+    em Synnøve Solbakken 
+    | (1857) og 
+    em Arne 
+    | (1859). I disse såkalte bondefortellingene bryter Bjørnson med den tidligere romantiske framstillingen av bonden. Her møter vi bonden i et hverdagsmiljø, litt idealisert kanskje, men likevel med sterke tilløp til realisme. Bjørnson skriver ikke bare om staute idealbønder, men også om sosiale problemer som fyll og knivslagsmål. 
 
   h3 Det moderne gjennombruddet
 
@@ -162,13 +206,23 @@ PagePeriod(
   p Realistene var ikke interessert i sannheten i seg selv. De var opptatt av at sannheten måtte fram om verden skulle bli bedre. Ved å ta opp samfunnsproblemer i tekstene sine appellerte de til fornuften hos leseren. Denne fornuften skulle føre samfunnet framover og gjøre individene frie. Slik kan vi si at realistene innførte moderniteten, de tre f-ene, i den norske litteraturhistorien og i samfunnsdebatten.
 
   h5 ”De fire store”
-  p Fra midten av 1870-årene og utover begynte norsk litteratur å bli kjent i utlandet. Gyldendal forlag kastet seg seinere på bølgen og lanserte forfatterne Henrik Ibsen, Bjørnstjerne Bjørnson, Alexander Kielland og Jonas Lie som de fire store. Det er disse fire som er de dominerende forfatterne innenfor kritisk realisme, og det er de som representerer det moderne gjennombruddet i norsk litteratur. 
+  p Fra midten av 1870-årene og utover begynte norsk litteratur å bli kjent i utlandet. Gyldendal forlag kastet seg seinere på bølgen og lanserte forfatterne Henrik Ibsen, Bjørnstjerne Bjørnson, Alexander Kielland og Jonas Lie som de 
+    em fire store
+    | . Det er disse fire som er de dominerende forfatterne innenfor kritisk realisme, og det er de som representerer det moderne gjennombruddet i norsk litteratur. 
 
 
   figure.col.col4.left-image
     img(src="./Realisme_De_fire_store_Ibsen.jpg" alt="Portrettbilde av mann med hvitt hår, langt skinnskjegg, briller og sort dress. Foto.")
     figcaption Henrik Ibsen
-  p <strong>Henrik Ibsen</strong> er påvirket av kravet om å ”sette problemer under debatt”. Det gjør han i både Samfundets støtter (1877), Et Dukkehjem (1879), Gengangere (1881) og En Folkefiende (1882). I alle disse skuespillene tar han opp aktuelle samtidsemner, for eksempel dårlig forretningsmoral, utroskap og manglende frihet og rettigheter for kvinnene. Et underliggende tema i alle stykkene er også løgn og dobbeltmoral. Ibsen ville vise hvordan usannhet ødelegger individene, ja hele familier. 
+  p <strong>Henrik Ibsen</strong> er påvirket av kravet om å ”sette problemer under debatt”. Det gjør han i både 
+    em Samfundets støtter 
+    | (1877), 
+    em Et Dukkehjem 
+    | (1879), 
+    em Gengangere 
+    | (1881) og 
+    em En Folkefiende 
+    | (1882). I alle disse skuespillene tar han opp aktuelle samtidsemner, for eksempel dårlig forretningsmoral, utroskap og manglende frihet og rettigheter for kvinnene. Et underliggende tema i alle stykkene er også løgn og dobbeltmoral. Ibsen ville vise hvordan usannhet ødelegger individene, ja hele familier. 
 
   .tac
     img(src="./Realisme_Det_moderne_gjennombruddet2.jpg" alt="Tre ulike bilder av tre poserende kvinner ved sine arbeidsplasser. Foto.")
@@ -186,7 +240,13 @@ PagePeriod(
         img(src="./Realisme_De_fire_store_Bjoernson.jpg" alt="Portrettbilde av mann med hvitt hår, briller og sort dress. Foto.")
         figcaption Bjørnstjerne Bjørnson
     .col.col8
-      p <strong>Bjørnstjerne Bjørnson</strong> tar også opp aktuelle temaer i tida. I 1875 gir han ut En Fallit, der han går til angrep på snuskete forretningsmoral. I Magnhild (1877) setter han søkelyset på usedelige ekteskap, og i En Hanske (1883) tar Bjørnson opp kjønnsdebatten. Bjørnson er provosert av at det finnes ulike regler for kvinner og menn, og krever at både kvinne og mann må ”være reine” før ekteskapet. Andre temaer han går inn på, er makta til kirka og oppdragelsen i hjem og skole. 
+      p <strong>Bjørnstjerne Bjørnson</strong> tar også opp aktuelle temaer i tida. I 1875 gir han ut 
+        em En Fallit
+        | , der han går til angrep på snuskete forretningsmoral. I 
+        em Magnhild 
+        | (1877) setter han søkelyset på usedelige ekteskap, og i 
+        em En Hanske 
+        | (1883) tar Bjørnson opp kjønnsdebatten. Bjørnson er provosert av at det finnes ulike regler for kvinner og menn, og krever at både kvinne og mann må ”være reine” før ekteskapet. Andre temaer han går inn på, er makta til kirka og oppdragelsen i hjem og skole. 
 
   .clear
   .mt20

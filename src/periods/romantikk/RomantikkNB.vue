@@ -43,7 +43,9 @@ PagePeriod(
     | Ved inngangen til 1800-tallet var det flere filosofer og diktere som begynte å interessere seg for de sidene ved tilværelsen som ikke lot seg forklare ved fornuft. Den tyske filosofen Immanuel Kant (1724–1804) sa blant annet at sansene og fornuften var skrøpelige veiledere gjennom livet. Det er litt andre tanker enn dem vi finner hos rasjonalistene, som hadde klokkertro på fornuften og på opplysning som veivisere til et bedre og mer rettferdig samfunn.
   h5 En guddommelig verdensånd
   p
-    | Stadig flere tenkere hevdet at veien til dypest innsikt og forståelse gikk gjennom følelser og fantasi. Mens opplysningsfilosofene mente at fornuften var den guddommelige gnisten som mennesket hadde del i, så romantikerne på hele skaperverket som uttrykk for en guddommelig verdensånd. Og det guddommelige finnes i alt som er skapt, både i stort og smått.
+    | Stadig flere tenkere hevdet at veien til dypest innsikt og forståelse gikk gjennom følelser og fantasi. Mens opplysningsfilosofene mente at fornuften var den guddommelige gnisten som mennesket hadde del i, så romantikerne på hele skaperverket som uttrykk for en 
+    em guddommelig verdensånd
+    | . Og det guddommelige finnes i alt som er skapt, både i stort og smått.
   h5 Et nytt kunstnersyn
   p
     | Kunstneren er den som har best kontakt med verdensånden. Gjennom kunsten formidler han til andre det han ser og sanser. Dette er en ny kunstnerrolle. Før romantikken ble litteratur, musikk og bildekunst først og fremst vurdert som håndverk. Nå blir verkene vurdert som kunst, og kunstneren blir sett på som en skaperånd, et geni. 
@@ -55,7 +57,9 @@ PagePeriod(
     figcaption Adolph Tidemand: ”Norsk Juleskik” (1846)
   h5 En ny retning og en ny tid
   p
-    | De nye idéstrømmene innenfor musikk, bildekunst og litteratur som preget åndslivet i Europa i første halvdel av 1800-tallet, kaller vi romantikken. Til Norge kom romantikken noe seinere enn til andre europeiske land. I Danmark fikk retningen gjennomslag fra rundt århundreskiftet, her i landet først etter 1830.
+    | De nye idéstrømmene innenfor musikk, bildekunst og litteratur som preget åndslivet i Europa i første halvdel av 1800-tallet, kaller vi 
+    em romantikken
+    | . Til Norge kom romantikken noe seinere enn til andre europeiske land. I Danmark fikk retningen gjennomslag fra rundt århundreskiftet, her i landet først etter 1830.
   h5 Den uforløste lengselen
   p
     | Med romantikken kom de sterke følelsene inn i litteraturen og kunsten. Framfor alt var dikterne opptatt av den uforløste lengselen. Det kunne være lengselen etter kjærlighet, etter Gud eller evigheten, men også etter fortida. Kunstnerne følte seg ikke hjemme i samtida, de drømte om et bedre, harmonisk samfunn som de mente fantes en gang i fortida.
@@ -87,7 +91,11 @@ PagePeriod(
     | En hovedtanke i romantikken var at en nasjon har nasjonale særtrekk på samme måte som individet har individuelle særtrekk. Det er kunsten og kunstnerens oppgave å gi uttrykk for dette særegne, opprinnelige og ekte. Her i landet stod denne tanken spesielt sterkt fordi vi var i ferd med å bygge en egen nasjon.
   h5 På leit etter en folkekarakter
   p
-    | Leiting etter det nasjonale og ekte førte til at diktere og forskere fattet interesse for folkeånden eller folkekarakteren. En begynte å samle inn folkekunst som eventyr, sagn, viser og stev. I Tyskland skjedde noe av det samme alt tidlig på 1800-tallet, og Asbjørnsen og Moe var nok inspirert av arbeidet til de tyske samlerne Jacob og Wilhelm Grimm.
+    | Leiting etter det nasjonale og ekte førte til at diktere og forskere fattet interesse for 
+    em folkeånden 
+    | eller 
+    em folkekarakteren
+    | . En begynte å samle inn folkekunst som eventyr, sagn, viser og stev. I Tyskland skjedde noe av det samme alt tidlig på 1800-tallet, og Asbjørnsen og Moe var nok inspirert av arbeidet til de tyske samlerne Jacob og Wilhelm Grimm.
 
   h3 Litteraturen 
   figure.col.col7.right-image
@@ -96,14 +104,20 @@ PagePeriod(
 
   h5 Folkediktningen
   p
-    | Den diktningen som blir skapt og overført muntlig, kaller vi folkediktning. Folkediktningen har ikke navngitte forfattere. Tekstene har utviklet seg fra forteller til forteller, med større og mindre endringer underveis.
+    | Den diktningen som blir skapt og overført muntlig, kaller vi 
+    em folkediktning
+    | . Folkediktningen har ikke navngitte forfattere. Tekstene har utviklet seg fra forteller til forteller, med større og mindre endringer underveis.
   figure.col.col7.right-image.tac
     img(class="tac" src="./Romantikk_Litteraturen2.jpg" alt="Omslag til eventyrbok med gullfarga illustrasjoner. Foto.")
     figcaption(class="tal") Peter Chr. Asbjørnsens ”Norske Huldre-eventyr og Folkesagn” (1848). Typisk romantisk praktbind
 
   h5 Norske sagn og eventyr
   p
-    | I 1833 gav presten Andreas Faye ut samlingen Norske Sagn. Noen år seinere, i perioden 1841–1844, gav Peter Christen Asbjørnsen (1812–1885) og Jørgen Moe (1813–1882) ut Norske Folkeeventyr. Men de gjorde mer enn å samle eventyr. De la vekt på å gjengi eventyrene så autentisk som mulig. De brukte særnorske ord og uttrykk i stedet for danske, og de gjorde bruk av norsk setningsbygning. På den måten tok de et første steg mot et selvstendig norsk skriftspråk.
+    | I 1833 gav presten Andreas Faye ut samlingen 
+    em Norske Sagn
+    | . Noen år seinere, i perioden 1841–1844, gav Peter Christen Asbjørnsen (1812–1885) og Jørgen Moe (1813–1882) ut 
+    em Norske Folkeeventyr
+    | . Men de gjorde mer enn å samle eventyr. De la vekt på å gjengi eventyrene så autentisk som mulig. De brukte særnorske ord og uttrykk i stedet for danske, og de gjorde bruk av norsk setningsbygning. På den måten tok de et første steg mot et selvstendig norsk skriftspråk.
   h5 Ballader og viser
   p
     | Balladen er en sjanger som sannsynligvis oppstod i Sør-Frankrike på 1200-tallet. Selve ordet kommer av fransk ”ballada” og betyr dansevise. Balladen er en episk-lyrisk sjanger om forteller en historie i lyrisk form. Sjangeren ble raskt populær i alle samfunnslag og i mange land. Les mer om balladen ”Olav og Kari” annet sted i Tidslinja.
@@ -125,7 +139,9 @@ PagePeriod(
     | Kunsteventyret, som er en blanding av folkeeventyr og novelle, er også et produkt av romantikken. Den store mesteren innenfor denne sjangeren var Hans Christian Andersen (1805–1875). Les mer om H.C. Andersen annet sted i Tidslinja.
   h5 Samlere av folkediktning
   p
-    | Asbjørnsen og Moe er de mest kjente samlerne av norsk folkediktning, men det finnes flere. Magnus Brostrup Landstad og Sophus Bugge samlet folkeviser, mens Ludvig Mathias Lindeman skrev ned folketoner. Olea Crøger (1801–1855), prestedatter fra Heddal i Telemark, var en stor folkeminne- og folkevisesamler. Flere av tekstene hennes står i Landstads Norske Folkeviser fra 1853.
+    | Asbjørnsen og Moe er de mest kjente samlerne av norsk folkediktning, men det finnes flere. Magnus Brostrup Landstad og Sophus Bugge samlet folkeviser, mens Ludvig Mathias Lindeman skrev ned folketoner. Olea Crøger (1801–1855), prestedatter fra Heddal i Telemark, var en stor folkeminne- og folkevisesamler. Flere av tekstene hennes står i 
+    em Landstads Norske Folkeviser 
+    | fra 1853.
 
   figure.flex
     img(src="./Romantikk_Litteraturen4.jpg" alt="Portrett av mann med små briller. Maleri. ")
@@ -134,7 +150,9 @@ PagePeriod(
   br
   h5 Henrik Wergeland
   p
-    | I 1830 utgav Wergeland diktsamlingen Skabelsen, Mennesket og Messias. Her viste han at han var en dikter av stort format. Wergeland døde i 1845, bare 37 år gammel, men til tross for et kort liv har han en stor litterær produksjon bak seg. Du finner mer om Henrik Wergeland annet sted i Tidslinja.
+    | I 1830 utgav Wergeland diktsamlingen 
+    em Skabelsen, Mennesket og Messias
+    | . Her viste han at han var en dikter av stort format. Wergeland døde i 1845, bare 37 år gammel, men til tross for et kort liv har han en stor litterær produksjon bak seg. Du finner mer om Henrik Wergeland annet sted i Tidslinja.
   h5 Johan Sebastian Welhaven
   p
     | Welhaven var Henrik Wergelands fremste motstander. De var begge romantikere, men Welhaven syntes det var ille at Wergeland suverent satte seg utover alt av regler i diktningen sin. Selv var han påvirket av klassisismen. Han mente at språket og formen måtte temmes for å kunne formidle ”det uutsigelige”, som bare kunne uttrykkes gjennom kunsten. Les mer om Welhaven og “Digtets Aand” annet sted i Tidslinja.

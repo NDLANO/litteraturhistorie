@@ -40,7 +40,9 @@ PagePeriod(
     | Ved inngangen til 1800-talet er det fleire filosofar og diktarar som tek til å interessere seg for dei sidene ved tilværet som ikkje lèt seg forklare ved fornuft. Den tyske filosofen Immanuel Kant (1724-1804) seier mellom anna at sansane og fornufta er skrøpelege rettleiarar gjennom livet. Det er litt andre tankar enn dei vi finn hos rasjonalistane, som har klokkartru på fornufta og på opplysning som vegen til eit betre og meir rettferdig samfunn.
   h5 Ei guddommeleg verdsånd
   p
-    | Stadig fleire tenkjarar hevdar at vegen til den djupaste innsikta og forståinga går gjennom kjensler og fantasi. Mens opplysningsfilosofane hevdar at fornufta er den guddommelege gneisten som mennesket har del i, ser romantikarane på heile skaparverket som uttrykk for ei guddommeleg verdsånd. Og det guddommelege finst i alt som er skapt, både i stort og smått.
+    | Stadig fleire tenkjarar hevdar at vegen til den djupaste innsikta og forståinga går gjennom kjensler og fantasi. Mens opplysningsfilosofane hevdar at fornufta er den guddommelege gneisten som mennesket har del i, ser romantikarane på heile skaparverket som uttrykk for ei 
+    em guddommeleg verdsånd
+    | . Og det guddommelege finst i alt som er skapt, både i stort og smått.
   h5 Eit nytt kunstnarsyn
   p
     | Kunstnaren er den som har best kontakt med verdsånda. Gjennom kunsten sin formidlar han det han ser og sansar til andre. Dette er ei ny kunstnarrolle. Før romantikken blei skaping av litteratur, musikk og biletkunst først og fremst vurdert som handverk. No blir verka vurderte som kunst, og kunstnaren blir rekna som ei skaparånd, eit geni. 
@@ -52,7 +54,9 @@ PagePeriod(
 
   h5 Ei ny retning og ei ny tid
   p
-    | Dei nye idéstraumane innanfor musikk, biletkunst og litteratur som pregar åndslivet i Europa i første halvdel av 1800-talet, kallar vi romantikken. Til Noreg kjem romantikken noko seinare enn til dei andre europeiske landa. I Danmark får retninga gjennomslag frå rundt århundreskiftet, her i landet først etter 1830.
+    | Dei nye idéstraumane innanfor musikk, biletkunst og litteratur som pregar åndslivet i Europa i første halvdel av 1800-talet, kallar vi 
+    em romantikken
+    | . Til Noreg kjem romantikken noko seinare enn til dei andre europeiske landa. I Danmark får retninga gjennomslag frå rundt århundreskiftet, her i landet først etter 1830.
   h5 Den uforløyste lengten
   p
     | Med romantikken kjem dei sterke kjenslene inn i litteraturen og kunsten, og aller mest opptekne er diktarane av den uforløyste lengten. Det kan vere lengten etter kjærleik, etter Gud eller æva, men også etter fortida. Kunstnarane kjenner seg ikkje heime i samtida, dei drøymer om eit betre, harmonisk samfunn som dei meiner fanst ein gong i fortida.
@@ -85,7 +89,11 @@ PagePeriod(
     | Ein hovudtanke i romantikken er at ein nasjon har nasjonale særmerke på same måten som individet har individuelle særmerke. Det er kunsten og kunstnaren si oppgåve å gi uttrykk for dette særeigne, opphavlege og ekte. Her i landet står denne tanken spesielt sterkt fordi ein er i ferd med å byggje ein eigen nasjon.
   h5 På leit etter ein folkekarakter
   p
-    | Leitinga etter det nasjonale og ekte fører til at diktarar og forskarar får interesse for folkeånda eller folkekarakteren. Ein tek til å samle inn folkekunst som eventyr, segner, viser og stev. I Tyskland ser vi noko av det same alt tidleg på 1800-talet, og Asbjørnsen og Moe er nok inspirerte av arbeidet til dei tyske samlarane Jacob og Wilhelm Grimm.
+    | Leitinga etter det nasjonale og ekte fører til at diktarar og forskarar får interesse for 
+    em folkeånda 
+    | eller 
+    em folkekarakteren
+    | . Ein tek til å samle inn folkekunst som eventyr, segner, viser og stev. I Tyskland ser vi noko av det same alt tidleg på 1800-talet, og Asbjørnsen og Moe er nok inspirerte av arbeidet til dei tyske samlarane Jacob og Wilhelm Grimm.
 
   h3 Litteraturen 
 
@@ -95,7 +103,9 @@ PagePeriod(
 
   h5 Folkediktinga
   p
-    | Den diktinga som blir skapt og overført munnleg, kallar vi folkedikting. Folkediktinga har ikkje namngitte forfattarar. Tekstane har utvikla seg frå forteljar til forteljar, med større og mindre endringar undervegs.
+    | Den diktinga som blir skapt og overført munnleg, kallar vi 
+    em folkedikting
+    | . Folkediktinga har ikkje namngitte forfattarar. Tekstane har utvikla seg frå forteljar til forteljar, med større og mindre endringar undervegs.
 
   figure.col.col7.right-image.tac
     img(class="tac" src="./Romantikk_Litteraturen2.jpg" alt="Omslag til eventyrbok med gullfarga illustrasjoner. Foto.")
@@ -103,7 +113,11 @@ PagePeriod(
 
   h5 Norske segner og eventyr
   p
-    | I 1833 gir presten Andreas Faye ut samlinga Norske Sagn. Nokre år seinare, i perioden 1841–1844, gir Peter Christen Asbjørnsen (1812–1885) og Jørgen Moe (1813–1882) ut Norske Folkeeventyr. Men dei gjer meir enn å samle eventyra. Dei legg vekt på gi att eventyra så autentisk som mogleg. Dei bruker særnorske ord og uttrykk i staden for danske, og dei nyttar norsk setningsbygnad. På den måten tek dei eit første steg mot eit sjølvstendig norsk skriftspråk.
+    | I 1833 gir presten Andreas Faye ut samlinga 
+    em Norske Sagn
+    | . Nokre år seinare, i perioden 1841–1844, gir Peter Christen Asbjørnsen (1812–1885) og Jørgen Moe (1813–1882) ut 
+    em Norske Folkeeventyr
+    | . Men dei gjer meir enn å samle eventyra. Dei legg vekt på gi att eventyra så autentisk som mogleg. Dei bruker særnorske ord og uttrykk i staden for danske, og dei nyttar norsk setningsbygnad. På den måten tek dei eit første steg mot eit sjølvstendig norsk skriftspråk.
   h5 Balladar og viser
   p
     | Balladen er ein sjanger som truleg oppstod i Sør-Frankrike på 1200-talet. Ordet ballade kjem av fransk ”ballada”, og tyder dansevise. Balladen er ein episk-lyrisk sjanger som fortel ei historie i lyrisk form. Sjangeren blei raskt populær i alle samfunnslag og i mange land. Sjå meir om balladen ”Olav og Kari” ein annan stad i Tidslinja.
@@ -125,7 +139,9 @@ PagePeriod(
     | Kunsteventyret, som er ei blanding av folkeeventyr og novelle, er også eit produkt av romantikken. Den store meisteren innanfor denne sjangeren er Hans Christian Andersen (1805–1875). Sjå meir om H.C. Andersen ein annan stad i Tidslinja.
   h5 Samlarar av folkedikting
   p
-    | Asbjørnsen og Moe er dei mest kjende samlarane av norsk folkedikting, men det finst fleire. Magnus Brostrup Landstad og Sophus Bugge samlar folkeviser, Ludvig Mathias Lindeman skriv ned folketonar. Olea Crøger (1801–1855), prestedotter frå Heddal i Telemark, er ein stor folkeminne- og folkevisesamlar. Fleire av tekstane hennar står i Landstads Norske Folkeviser frå 1853.
+    | Asbjørnsen og Moe er dei mest kjende samlarane av norsk folkedikting, men det finst fleire. Magnus Brostrup Landstad og Sophus Bugge samlar folkeviser, Ludvig Mathias Lindeman skriv ned folketonar. Olea Crøger (1801–1855), prestedotter frå Heddal i Telemark, er ein stor folkeminne- og folkevisesamlar. Fleire av tekstane hennar står i 
+    em Landstads Norske Folkeviser 
+    | frå 1853.
 
   figure.flex
     img(src="./Romantikk_Litteraturen4.jpg" alt="Portrett av mann med små briller. Måleri. ")
@@ -134,7 +150,9 @@ PagePeriod(
   br
   h5 Henrik Wergeland
   p
-    | I 1830 gir Wergeland ut diktsamlinga Skabelsen, Mennesket og Messias. Her viser han at han er ein diktar av stort format. Wergeland døyr i 1845, berre 37 år gammal. Trass i eit kort liv har han ein stor litterær produksjon bak seg. Du finn meir om Henrik Wergeland ein annan stad i Tidslinja.
+    | I 1830 gir Wergeland ut diktsamlinga 
+    em Skabelsen, Mennesket og Messias
+    | . Her viser han at han er ein diktar av stort format. Wergeland døyr i 1845, berre 37 år gammal. Trass i eit kort liv har han ein stor litterær produksjon bak seg. Du finn meir om Henrik Wergeland ein annan stad i Tidslinja.
   h5 Johan Sebastian Welhaven
   p
     | Welhaven er Henrik Wergelands fremste motstandar. Dei er begge romantikarar, men Welhaven synest det er ille at Wergeland suverent set seg utover alt av reglar i diktinga si. Sjølv er han påverka av klassisismen. Han meiner at språket og forma må temjast for å kunne formidle ”det uutsigelige”, som berre kan uttrykkjast gjennom kunsten. Les meir om Welhaven og “Digtets Aand” ein annan stad i Tidslinja.

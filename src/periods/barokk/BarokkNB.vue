@@ -93,7 +93,9 @@ PagePeriod(
 
   h5 Sterke kontraster  
   p
-    | Barokken preges av sterke kontraster. Disse kontrastene kommer også til uttrykk i musikken. Barokkmusikk er lett å dra kjensel på med sine sterke kontraster, slik vi kjenner det gjennom De fire årstidene av den italienske komponisten Vivaldi. Andre kjente komponister fra perioden er Bach og Händel (Tyskland). Begge er særlig kjent for å ha komponert kirkemusikk.
+    | Barokken preges av sterke kontraster. Disse kontrastene kommer også til uttrykk i musikken. Barokkmusikk er lett å dra kjensel på med sine sterke kontraster, slik vi kjenner det gjennom 
+    em De fire årstidene 
+    | av den italienske komponisten Vivaldi. Andre kjente komponister fra perioden er Bach og Händel (Tyskland). Begge er særlig kjent for å ha komponert kirkemusikk.
 
   h3 Litteraturen 
 
@@ -116,7 +118,9 @@ PagePeriod(
     div.col.col8
       h5 Thomas Kingo (1634–1703) 
       p
-        | er dansk dikter og biskop. I 1699 kommer det ut ei salmebok som inneholder 86 av salmene hans. Denne boka – Kingos salmebok – blir godkjent av kongen til bruk i alle kirker i Danmark og Norge, og er i bruk helt fram til 1870-årene. Boka finner du på Tidslinja.  
+        | er dansk dikter og biskop. I 1699 kommer det ut ei salmebok som inneholder 86 av salmene hans. Denne boka – 
+        em Kingos salmebok 
+        | – blir godkjent av kongen til bruk i alle kirker i Danmark og Norge, og er i bruk helt fram til 1870-årene. Boka finner du på Tidslinja.  
 
   div.flex.flex-wrap
     div.col.col4
@@ -125,7 +129,9 @@ PagePeriod(
     div.col.col8
       h5 Dorothe Engelbretsdotter (1634–1716)  
       p
-        | blir født og lever i Bergen. Hun er populær i samtida si og kan leve av boksalget. Det er ganske utrolig at en kvinne kan klare det på 1600-tallet. Men i privatlivet opplever hun mye motgang og sorg. Boka Siælens Sang-Offer finner du på Tidslinja.  
+        | blir født og lever i Bergen. Hun er populær i samtida si og kan leve av boksalget. Det er ganske utrolig at en kvinne kan klare det på 1600-tallet. Men i privatlivet opplever hun mye motgang og sorg. Boka 
+        em Siælens Sang-Offer 
+        | finner du på Tidslinja.  
 
   div.flex.flex-wrap
     div.col.col4
@@ -134,7 +140,9 @@ PagePeriod(
     div.col.col8
       h5 Petter Dass (1647–1707)  
       p
-        | kommer fra Nordland og er en populær mann i samtida. Han regnes for vår største barokkdikter, selv om stilen hans er mindre tidstypisk enn stilen til Kingo og Engelbretsdotter. Boka Nordlands Trompet finner du på Tidslinja.
+        | kommer fra Nordland og er en populær mann i samtida. Han regnes for vår største barokkdikter, selv om stilen hans er mindre tidstypisk enn stilen til Kingo og Engelbretsdotter. Boka 
+        em Nordlands Trompet 
+        | finner du på Tidslinja.
 
   h3 Litt om språket  
   h5 Talemålet: fra norrønt til moderne norsk 
@@ -174,7 +182,9 @@ PagePeriod(
 
   h5 Norvagismer  
   p
-    | Både Petter Dass og Dorothe Engelbretsdotter skriver på dansk, men de bruker norske ord og uttrykk enkelte steder. Slike ord kaller vi norvagismer. Et eksempel kan være foss for det danske ordet ”vandfald”. Petter Dass brukte ellers norske ord når han omtalte fiskeslag og fangstredskaper.
+    | Både Petter Dass og Dorothe Engelbretsdotter skriver på dansk, men de bruker norske ord og uttrykk enkelte steder. Slike ord kaller vi norvagismer. Et eksempel kan være 
+    em foss 
+    | for det danske ordet ”vandfald”. Petter Dass brukte ellers norske ord når han omtalte fiskeslag og fangstredskaper.
 
   h3 Bildekunst og arkitektur 
 
