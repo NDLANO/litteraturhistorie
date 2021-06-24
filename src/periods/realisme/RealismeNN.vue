@@ -157,10 +157,10 @@ PagePeriod(
   p 
     strong Camilla Collett (1813–1895)
     | var ei nybrotskvinne både innanfor litteratur og samfunnsdebatt. Hovudverket hennar, 
-      em Amtmandens Døttre 
-      | (1855), kom ut anonymt. Å vere kvinneleg forfattar var nemleg heilt uvanleg på midten av 1800-talet. Her braut Collett med kvinneidealet i datida. 
-      em Amtmandens Døttre 
-      | er rekna for den første tendensromanen i norsk litteratur. Denne nemninga bruker vi om ein roman som er skriven som innlegg i ein samfunnsdebatt. Romanen tek opp den manglande fridommen for kvinner. Romanen viser korleis livet til kvinner er styrt av menn, og ho kritiserer særleg dei borgarlege fornuftsekteskapa. Camilla Collett var ein heilt sentral person i den gryande kampen for frigjering av kvinner – for fridommen til å velje kven ein vil gifte seg med, og fridommen til å rå over eige liv. 
+    em Amtmandens Døttre 
+    | (1855), kom ut anonymt. Å vere kvinneleg forfattar var nemleg heilt uvanleg på midten av 1800-talet. Her braut Collett med kvinneidealet i datida. 
+    em Amtmandens Døttre 
+    | er rekna for den første tendensromanen i norsk litteratur. Denne nemninga bruker vi om ein roman som er skriven som innlegg i ein samfunnsdebatt. Romanen tek opp den manglande fridommen for kvinner. Romanen viser korleis livet til kvinner er styrt av menn, og ho kritiserer særleg dei borgarlege fornuftsekteskapa. Camilla Collett var ein heilt sentral person i den gryande kampen for frigjering av kvinner – for fridommen til å velje kven ein vil gifte seg med, og fridommen til å rå over eige liv. 
 
   figure
     img(src="./Realisme_Fra_romantikk_til_realisme5.jpg" alt="Jeger med gevær på skuldera og to hundar i bånd. Illustrasjon.")
