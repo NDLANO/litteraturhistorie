@@ -369,13 +369,24 @@ blockquote {
     background: white;
     width: $base-line-height * 3.6;
     width: 100%;
-    height: $base-line-height * 1.35;
+    height: 3rem; //$base-line-height * 1.35;
     left: 0;
+    top: -0.5;
     display: block;
     z-index: 1000;
     border-bottom: 4px solid $main-color;
+
     @include breakpoint($medium) {
-      top: $topBarHeight;
+      // top: $topBarHeight;
+      // top: 0.5;
+      width: 75%;
+      // background: blue;
+    }
+    @include breakpoint($mediumx) {
+      // top: 3.5rem;
+      height: 2.5rem;
+      top: 54px;
+      // background: red;
     }
   }
 }
