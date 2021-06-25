@@ -219,6 +219,8 @@ blockquote {
 }
 
 .lo_topBar_timeline {
+  top: 0;
+
   @include breakpoint($mediumx) {
     top: $topBarHeight;
   }
