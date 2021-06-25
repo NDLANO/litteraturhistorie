@@ -4,7 +4,7 @@ PageBook
   h3 «Den nye Ibsen»
 
   figure.col.col6.left-image.mt5
-    img(src='./fosse_portrett1.jpg' alt='')
+    img(src='./fosse_portrett1.jpg' alt='Svart kvitt portrett av mann med grått hår og skjegg som har handa på haka og ser ned til høgre. Foto. ')
     figcaption Foto: Tom A. Kolstad / Aftenposten / Scanpix
 
   p Jon Fosse (1959– ) debuterte i 1985 med romanen 
@@ -28,7 +28,7 @@ PageBook
   h3 Verdskjend vestlandsforfattar
 
   figure.col.col6.left-image.mt5
-    img(src='./fosse_verdenskjent_vestlandsforfatter.jpg' alt='')
+    img(src='./fosse_verdenskjent_vestlandsforfatter.jpg' alt='Falleferdig grått naust ved vatn omkransa av høge snødekte fjell. Foto. ')
     figcaption Foto: Bård Løken / Samfoto  / Scanpix
 
   p Jon Fosse har sjølv karakterisert seg som ein 
@@ -38,7 +38,7 @@ PageBook
   p Men også mentaliteten og kulturen han skildrar, er ifølgje Fosse typisk vestlandsk. Dialogen mellom menneska er knapp, humoren underfundig, og hendingar blir ofte underdrive. Tekstane er prega av ein nøktern tone der språket er reinska for patos og overflod.
 
   figure.col.col12
-    img(src='./fosse_portrett2.jpg' alt='')
+    img(src='./fosse_portrett2.jpg' alt='Portrett av mann som har handa på haka og ser rett inn i kamera. Foto.')
     figcaption Foto: Trygve Indrelid / Aftenposten / Scanpix
 
   p Sjølv om både miljø og karakterar i litteraturen til Fosse kan oppfattast som uttrykk for ein regional og kanskje litt sær norsk mentalitet, står karakterane fram som svært allmennmenneskelege – noko som kanskje er svaret på kvifor Fosse slår så godt an internasjonalt. Tekstane er også ofte fylte av vemod og melankoli. Fosse seier sjølv av livet er grunnleggjande trist. Alt du har kjært i livet, og du sjølv, vil etter kvart forsvinne og bli borte. Denne vissa om at livet er i stadig oppløysing og forvitring, er ei allmennmenneskeleg kjensle. I litteraturen til Fosse kjem dette til uttrykk gjennom ei indre uro og karakterar som er både skjøre og valdsame på same tid.
@@ -81,7 +81,7 @@ PageBook
   h3 Nokon kjem til å komme – ytre dialogar og indre monologar
 
   figure.col.col6.right-image.mt5
-    img(src='./fosse_indre_monologer.jpg' alt='')
+    img(src='./fosse_indre_monologer.jpg' alt='Eit par sit på ei teaterscene. Kvinna legg hovudet på skuldra til mannen. Foto')
     figcaption Jan Grønli og Unn Vibeke Hol i «Nokon kjem til å komme» på Det Norske Teateret i 1996.
       br
       | Foto: Helge Hansen / Aftenposten / Scanpix
@@ -113,7 +113,7 @@ PageBook
   p Gjentakingane og dei små forskyvingane i meining tvingar også publikum eller lesaren til å reflektere over språket og kommunikasjonens rolle og kraft. Kor mykje meining kan språket eigentleg bere? Klarer språket å formidle tankane og kjenslene frå det indre i eit menneske? Kan språket formidle noko sant og verkeleg? Dette er problemstillingar kunsten har sett fram på ulike måtar etter gjennombrotet til modernismen.
 
   figure.col.col6.right-image.mt5
-    img(src='./fosse_portrett3.jpg' alt='')
+    img(src='./fosse_portrett3.jpg' alt='Portrett av mann med grått hår og skjegg mot raud murvegg. Ser opp til venstre og har hendene folda på haka. Foto.')
     figcaption Foto: Tom A. Kolstad / Aftenposten / Scanpix
     
   p I postmoderne språkfilosofi stiller ein også kritiske spørsmål til i kva grad språket evnar å bere meining. Språk skildrar nemleg ikkje røyndommen – det konstruerer eit bilete av han. Dermed blir all språkleg kommunikasjon og skildring av omverda eit subjektivt og personleg uttrykk. Språket kan ikkje formidle ei konkret og handfast sanning som er lik for både avsendar og mottakar. Denne subjektive røyndomsforståinga, og den personlege bruken av språket, kan ein også finne igjen i forfattarskapen til Fosse.

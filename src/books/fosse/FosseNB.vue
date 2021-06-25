@@ -4,7 +4,7 @@ PageBook
   h3 «Den nye Ibsen»
 
   figure.col.col6.left-image.mt5
-    img(src='./fosse_portrett1.jpg' alt='')
+    img(src='./fosse_portrett1.jpg' alt='Svart hvitt portrett av mann med grått hår og skjegg som har hånda på haka og ser ned til høyre. Foto.')
     figcaption Foto: Tom A. Kolstad / Aftenposten / Scanpix
 
   p Jon Fosse (1959– ) debuterte i 1985 med romanen 
@@ -28,7 +28,7 @@ PageBook
   h3 Verdenskjent vestlandsforfatter 
 
   figure.col.col6.left-image.mt5
-    img(src='./fosse_verdenskjent_vestlandsforfatter.jpg' alt='')
+    img(src='./fosse_verdenskjent_vestlandsforfatter.jpg' alt='Falleferdig grått naust ved vann omkransa av høye snødekte fjell. Foto. ')
     figcaption Foto: Bård Løken / Samfoto  / Scanpix
 
 
@@ -39,7 +39,7 @@ PageBook
   p Men også mentaliteten og kulturen som skildres, er ifølge Fosse typisk vestlandsk. Dialogen mellom menneskene er knapp, humoren underfundig, og hendelser blir ofte underdrevet. Tekstene er preget av en nøktern tone der språket er renset for patos og overflod. 
 
   figure.col.col12
-    img(src='./fosse_portrett2.jpg' alt='')
+    img(src='./fosse_portrett2.jpg' alt='Portrett av mann som har hånda på haka og ser rett inn i kamera. Foto.')
     figcaption Foto: Trygve Indrelid / Aftenposten / Scanpix
 
 
@@ -83,7 +83,7 @@ PageBook
   h3 Nokon kjem til å komme – ytre dialoger og indre monologer
 
   figure.col.col6.right-image.mt5
-    img(src='./fosse_indre_monologer.jpg' alt='')
+    img(src='./fosse_indre_monologer.jpg' alt='Et par sitter på en teaterscene. Kvinnen legger hodet på mannens skulder. Foto')
     figcaption Jan Grønli og Unn Vibeke Hol i «Nokon kjem til å komme» på Det Norske Teateret i 1996.
       br
       | Foto: Helge Hansen / Aftenposten / Scanpix
@@ -116,7 +116,7 @@ PageBook
   p Gjentakelsene og de små forskyvningene i mening tvinger også publikum eller leseren til å reflektere over språket og kommunikasjonens rolle og betydning. Hvor mye mening kan språket egentlig bære? Klarer språket å formidle et menneskes indre tanker og følelser? Kan språket formidle noe sant og virkelig? Dette er problemstillinger kunsten har satt fram på ulike måter etter modernismens gjennombrudd. 
 
   figure.col.col6.right-image.mt5
-    img(src='./fosse_portrett3.jpg' alt='')
+    img(src='./fosse_portrett3.jpg' alt='Portrett av mann med grått hår og skjegg mot rød murvegg. Ser opp til venstre og har hendene foldet på haka. Foto.  ')
     figcaption Foto: Tom A. Kolstad / Aftenposten / Scanpix
     
   p I postmoderne språkfilosofi stiller man også kritiske spørsmål til språkets evne til å bære mening. Språk beskriver nemlig ikke virkeligheten – det konstruerer et bilde av den. Dermed blir all språklig kommunikasjon og beskrivelse av omverdenen et subjektivt og personlig uttrykk. Språket kan ikke formidle en  konkret og håndfast sannhet som er lik for både avsender og mottaker. Denne subjektive virkelighetsforståelsen, og den personlige bruken av språket, kan man også finne igjen i Fosses forfatterskap. 
