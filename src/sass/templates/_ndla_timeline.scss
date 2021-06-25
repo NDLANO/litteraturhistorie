@@ -1012,7 +1012,8 @@ blockquote {
     margin-bottom: 0;
     // margin-top: 0;
   }
-  h5 + p {
+  h5 + p,
+  h5 + ul {
     margin-top: 0;
   }
 }
