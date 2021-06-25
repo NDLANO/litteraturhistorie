@@ -47,7 +47,9 @@ PagePeriod(
   p
     | Den innenrikspolitiske situasjonen i Norge var likevel langt roligere og mer forutsigbar enn i de turbulente mellomkrigsårene. Det var tverrpolitisk enighet om hvordan landet skulle gjenreises. Norge mottok også økonomisk støtte fra USA, den såkalte Marshallhjelpen, og allerede få år etter krigen var landet kommet på fote igjen økonomisk.  
   p
-    | Arbeiderpartiet satt med reint flertall på Stortinget helt fra 1945 til 1961, og Einar Gerhardsen var statsminister i nesten hele perioden. Gerhardsen-regjeringen startet oppbyggingen av det såkalte velferdssamfunnet, der staten tok ansvaret for en del velferdsgoder og sikret visse sosiale ytelser til alle uansett sosial bakgrunn eller opprinnelse.  
+    | Arbeiderpartiet satt med reint flertall på Stortinget helt fra 1945 til 1961, og Einar Gerhardsen var statsminister i nesten hele perioden. Gerhardsen-regjeringen startet oppbyggingen av det såkalte 
+    em velferdssamfunnet
+    | , der staten tok ansvaret for en del velferdsgoder og sikret visse sosiale ytelser til alle uansett sosial bakgrunn eller opprinnelse.  
 
   figure.col.col6.right-image.mt5
     img(src="./Modernisme_Tida_og_samfunnsforholdene5.jpg" alt="Flere par svinger seg på dansegulvet. Foto.")
@@ -113,7 +115,9 @@ PagePeriod(
   p
     | For eksistensialistene er det helt sentralt at mennesket ikke er forutbestemt av sitt ”vesen”. Mennesket preges av sin eksistens, av det konkrete livet det lever. Eksistensialismen kjennetegnes dessuten av en grunnleggende tro på menneskets frihet: Vi velger selv livet vårt. Men denne grunnleggende friheten innebærer mange valgmuligheter og et stort ansvar – både for hvordan vi lever vårt eget liv, og for hvordan vi forholder oss til våre medmennesker.  
   p
-    | Sentralt hos eksistensialistene står begrepet angst. Angst må skilles fra begrepet frykt, som er en redsel for noe konkret. Eksistensiell angst er en redsel som oppstår når mennesket blir klar over sin frihet, når det forstår at det har det fulle ansvaret for sin egen eksistens og sine egne valg.  
+    | Sentralt hos eksistensialistene står begrepet 
+    em angst
+    | . Angst må skilles fra begrepet frykt, som er en redsel for noe konkret. Eksistensiell angst er en redsel som oppstår når mennesket blir klar over sin frihet, når det forstår at det har det fulle ansvaret for sin egen eksistens og sine egne valg.  
 
   .flex.portretter.portretter-5
     figure.m1rem
@@ -136,7 +140,9 @@ PagePeriod(
   p
     | Martin Heidegger (1889–1976), Jean Paul Sartre (1905–1980) og Simone de Beauvoir (1908–1986) omtales som ateistiske eksistensialister. Menneskets frihet og valg er her løsrevet fra enhver guddommelig mening og plan.  
   p
-    | Simone de Beauvoir er særlig kjent for Det annet kjønn (1949), et sentralt verk i kampen for kvinners likestilling. Hun utvikler her eksistensialismen i feministisk retning og mener at forholdet mellom menn og kvinner ikke er forutbestemt av noen vesensforskjeller mellom kjønnene.  
+    | Simone de Beauvoir er særlig kjent for 
+    em Det annet kjønn 
+    | (1949), et sentralt verk i kampen for kvinners likestilling. Hun utvikler her eksistensialismen i feministisk retning og mener at forholdet mellom menn og kvinner ikke er forutbestemt av noen vesensforskjeller mellom kjønnene.  
 
   h5 Absurdismen  
   p
@@ -154,7 +160,9 @@ PagePeriod(
       figcaption Albert Camus
 
   p
-    | Forfatteren Samuel Beckett (1906–1989) formidler denne stemningen påtrengende godt i dramaet Mens vi venter på Godot (1948). Også dramatikeren Eugène Ionesco (1909–1994) og forfatteren Albert Camus (1913–1960) er kjente representanter for absurdismen.  
+    | Forfatteren Samuel Beckett (1906–1989) formidler denne stemningen påtrengende godt i dramaet 
+    em Mens vi venter på Godot 
+    | (1948). Også dramatikeren Eugène Ionesco (1909–1994) og forfatteren Albert Camus (1913–1960) er kjente representanter for absurdismen.  
 
   h3 Episk litteratur i perioden 1930–1960 
 
@@ -190,7 +198,9 @@ PagePeriod(
     )
     h5 Cora Sandel 
     p
-      | Cora Sandel (1880–1974) er et godt eksempel på en forfatter som skrev tekster med både realistiske og modernistiske uttrykk. Romanene og novellene hennes er rike på troverdige miljøskildringer og viser stor psykologisk innsikt. Hun er nok mest kjent for sine novellesamlinger, trilogien om Alberte Selmer (1926–1939) og den utradisjonelle romanen Kranes konditori (1945). Novellene kjennetegnes ved en ironisk tone, antydningens kunst og et bredt register av stemninger. 
+      | Cora Sandel (1880–1974) er et godt eksempel på en forfatter som skrev tekster med både realistiske og modernistiske uttrykk. Romanene og novellene hennes er rike på troverdige miljøskildringer og viser stor psykologisk innsikt. Hun er nok mest kjent for sine novellesamlinger, trilogien om Alberte Selmer (1926–1939) og den utradisjonelle romanen 
+      em Kranes konditori 
+      | (1945). Novellene kjennetegnes ved en ironisk tone, antydningens kunst og et bredt register av stemninger. 
 
   ImageTextBlock(
     :image="require(`./Modernisme_Episke_forfattere3.jpg`)"
@@ -208,7 +218,11 @@ PagePeriod(
     )
     h5 Tarjei Vesaas 
     p
-      | En annen sentral forfatter som fornyet den norske romanen, var Tarjei Vesaas (1897–1970). Han skrev romaner nesten som om de var dikt – de beste romanene hans preges av et rytmisk språk, og de er rike på bilder og symboler. Landskapet som skildres i romanene, kan oppfattes som et bilde på personenes grunnleggende livsvilkår og indre liv. De sentrale verkene hans, Fuglane (1957) og Is-slottet (1963), er gode eksempler på det. Samtidig er Vesaas et godt eksempel på en forfatter som skrev både modernistiske og realistiske romaner. 
+      | En annen sentral forfatter som fornyet den norske romanen, var Tarjei Vesaas (1897–1970). Han skrev romaner nesten som om de var dikt – de beste romanene hans preges av et rytmisk språk, og de er rike på bilder og symboler. Landskapet som skildres i romanene, kan oppfattes som et bilde på personenes grunnleggende livsvilkår og indre liv. De sentrale verkene hans, 
+      em Fuglane 
+      | (1957) og 
+      em Is-slottet 
+      | (1963), er gode eksempler på det. Samtidig er Vesaas et godt eksempel på en forfatter som skrev både modernistiske og realistiske romaner. 
 
   ImageTextBlock(
     :image="require(`./Modernisme_Episke_forfattere5.jpg`)"
@@ -216,9 +230,13 @@ PagePeriod(
     )
     h5 Johan Borgen 
     p
-      | Den norske forfatteren som er mest kjent for å tematisere og utforske den menneskelige identiteten, selve jeg-følelsen, er Johan Borgen (1902–1979). I likhet med Vesaas skrev også Borgen både modernistiske og realistiske tekster. Forfatterskapet hans kan i stor grad leses som en undersøkelse av spørsmålet: Hva er et jeg? Dette er et typisk modernistisk spørsmål, og romanen med den illustrerende tittelen Jeg (1959) er Borgens mest modernistiske tekst. Her spaltes jeget i to, og den ytre realismen i teksten forsvinner.  
+      | Den norske forfatteren som er mest kjent for å tematisere og utforske den menneskelige identiteten, selve jeg-følelsen, er Johan Borgen (1902–1979). I likhet med Vesaas skrev også Borgen både modernistiske og realistiske tekster. Forfatterskapet hans kan i stor grad leses som en undersøkelse av spørsmålet: Hva er et jeg? Dette er et typisk modernistisk spørsmål, og romanen med den illustrerende tittelen 
+      em Jeg 
+      | (1959) er Borgens mest modernistiske tekst. Her spaltes jeget i to, og den ytre realismen i teksten forsvinner.  
     p
-      | I hovedverket til Borgen, trilogien om Lillelord (1955–1957), blir identitetens problem behandlet på en mer realistisk måte. Hovedkarakteren Wilfred Sagen slites mellom ulike sosiale roller og finner aldri en trygg identitet bak noen av dem – en typisk eksistensialistisk problemstilling.  
+      | I hovedverket til Borgen, trilogien om 
+      em Lillelord 
+      | (1955–1957), blir identitetens problem behandlet på en mer realistisk måte. Hovedkarakteren Wilfred Sagen slites mellom ulike sosiale roller og finner aldri en trygg identitet bak noen av dem – en typisk eksistensialistisk problemstilling.  
   NrkVideo(id="3914")
 
   ImageTextBlock(
@@ -235,7 +253,11 @@ PagePeriod(
     )
     h5 Agnar Mykle 
     p
-      | Den etterkrigsforfatteren som er mest kjent for å bryte tabuer og utfordre samtidas normer, er Agnar Mykle (1915–1994). Som Nedreaas var han en ypperlig novellist og romanforfatter, og en kulturradikaler som gjorde opprør mot undertrykkende og livshemmende verdier. I de to romanene Lasso rundt fru Luna (1954) og Sangen om den røde rubin (1956) møter vi den unge mannen Ask Burlefot og følger utviklingen hans.  
+      | Den etterkrigsforfatteren som er mest kjent for å bryte tabuer og utfordre samtidas normer, er Agnar Mykle (1915–1994). Som Nedreaas var han en ypperlig novellist og romanforfatter, og en kulturradikaler som gjorde opprør mot undertrykkende og livshemmende verdier. I de to romanene 
+      em Lasso rundt fru Luna 
+      | (1954) og 
+      em Sangen om den røde rubin 
+      | (1956) møter vi den unge mannen Ask Burlefot og følger utviklingen hans.  
     p
       | De to bøkene inneholder også erotiske skildringer som virket såpass provoserende i 1950-årene at forfatter og forlag ble anmeldt. Tiltalen handlet både om usømmelige beskrivelser og om utlevering av lett gjenkjennelige personer. Mykle-saken skapte stor debatt, og saken gikk helt til Høyesterett. I dag kan vi se at Mykles forfatterskap varslet den seksuelle frigjøringen som skulle komme i 1960- og 1970-årene.  
   NrkVideo(id="3220")
@@ -338,7 +360,8 @@ PagePeriod(
   NrkVideo(id="3283")
 
   p
-    | Filmavisen viste nyheter fra den siste uka og gikk som forfilm på norske kinoer. Allerede fra slutten av 1920-årene var det blitt laget lokale nyhetsvarianter av Filmavisen, men i 1940 overtok tyske myndigheter denne produksjonen. Nå ble det laget en nasjonal versjon som den tyske okkupasjonsmakta brukte i propagandaøyemed. Etter krigen bygde Filmavisen seg opp til å bli en svært viktig kanal for nyheter og folkeopplysning. 
+    em Filmavisen 
+    | viste nyheter fra den siste uka og gikk som forfilm på norske kinoer. Allerede fra slutten av 1920-årene var det blitt laget lokale nyhetsvarianter av Filmavisen, men i 1940 overtok tyske myndigheter denne produksjonen. Nå ble det laget en nasjonal versjon som den tyske okkupasjonsmakta brukte i propagandaøyemed. Etter krigen bygde Filmavisen seg opp til å bli en svært viktig kanal for nyheter og folkeopplysning. 
 
   NrkVideo(id="60241")
 
@@ -348,9 +371,13 @@ PagePeriod(
     img(src="./Modernisme_Filmindustrien1.jpg" alt="To kvinner i bikini møter tre personer i samiske kofter. Foto.")
     figcaption Per Høsts praktfulle film «Same-Jakki» som han tok opp etter å ha delt samenes kår på Finnmarksvidda et år, vakte oppsikt både nasjonalt og internasjonalt. Filmen ble bl.a. presentert på den internasjonale filmfestivalen i Cannes i 1957. Her er samen Anders Pentha (i midten) sammen med barna Jo Matti og Biera på stranda i Cannes, ivrig opptatt med å feste inntrykkene fra filmfestivalen på egen film. Foto: NTB arkiv / UPI / Scanpix
   p
-    | I etterkrigstida var norsk kino i sterk vekst. Ennå var ikke fjernsynet kommet til Norge, og i tillegg til radioen ble kinoen en kilde for underholdning og avveksling. I 1950-årene kom en bølge av lette komedier. Særlig populære var filmer fra hverdagslivet der mer eller mindre hysteriske husmødre drev sine menn til vanvidd. Støv på hjernen fra 1959 er typisk for denne trenden.  
+    | I etterkrigstida var norsk kino i sterk vekst. Ennå var ikke fjernsynet kommet til Norge, og i tillegg til radioen ble kinoen en kilde for underholdning og avveksling. I 1950-årene kom en bølge av lette komedier. Særlig populære var filmer fra hverdagslivet der mer eller mindre hysteriske husmødre drev sine menn til vanvidd. 
+    em Støv på hjernen 
+    | fra 1959 er typisk for denne trenden.  
   p
-    | En av de mest betydningsfulle norske kinoforestillingene fant sted i Oslo 20. september 1956. Filmen het Rock Around the Clock, og etter filmvisningen brøt det ut opptøyer. Filmen introduserte rockemusikken, og den vakte umiddelbart begeistring hos norsk ungdom.  
+    | En av de mest betydningsfulle norske kinoforestillingene fant sted i Oslo 20. september 1956. Filmen het 
+    em Rock Around the Clock
+    | , og etter filmvisningen brøt det ut opptøyer. Filmen introduserte rockemusikken, og den vakte umiddelbart begeistring hos norsk ungdom.  
 
   figure.col.col4.left-image.mt5
     img(src="./Modernisme_Filmindustrien2.jpg" alt="Politi på hest bryter opp en folkemengde. Foto.")
@@ -360,7 +387,9 @@ PagePeriod(
   p
     | Utover på 1900-tallet utviklet det seg modernistiske uttrykk også i film. Den tyske ekspresjonismen fikk et gjennombrudd alt i 1920-årene, selv om den klassisk fortellende filmen og dokumentarfilmen dominerte. Men etter andre verdenskrig begynte flere filmskapere å eksperimentere med filmspråket.  
   p
-    | ”Film noir” er et eksempel på en filmsjanger som bryter med den realistiske fortellemåten som tradisjonelt har dominert filmhistorien. Sjangeren hadde sin storhetstid i USA i 1940-årene og er inspirert av ekspresjonismens mørke bilder og skarpe lyssetting. Det mørke, ofte dystre filmspråket ble utviklet i detektivfortellinger og kriminalhistorier, men virkemidlene fra film noir er seinere brukt av moderne regissører også i andre filmsjangrer. Edith Calmars filmdebut Døden er et kjærtegn (1949) er et norsk eksempel på film noir-sjangeren.
+    | ”Film noir” er et eksempel på en filmsjanger som bryter med den realistiske fortellemåten som tradisjonelt har dominert filmhistorien. Sjangeren hadde sin storhetstid i USA i 1940-årene og er inspirert av ekspresjonismens mørke bilder og skarpe lyssetting. Det mørke, ofte dystre filmspråket ble utviklet i detektivfortellinger og kriminalhistorier, men virkemidlene fra film noir er seinere brukt av moderne regissører også i andre filmsjangrer. Edith Calmars filmdebut 
+    em Døden er et kjærtegn 
+    | (1949) er et norsk eksempel på film noir-sjangeren.
 
   h3 Bildekunst 
 

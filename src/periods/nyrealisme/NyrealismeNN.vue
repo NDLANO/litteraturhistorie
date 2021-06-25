@@ -17,12 +17,16 @@ PagePeriod(
   p I 1905 vart unionen med Sverige oppløyst. Det heile ordna seg på fredeleg vis, etter fleire års konflikt med svenskekongen Oskar 2. Det var ei samla regjering som stod bak kravet om sjølvstende, og ei folkeavrøysting synte at heile folket støtta regjeringa i dette kravet.
 
   h5 ”Den nye arbeidsdagen”
-  p At Noreg endeleg var heilt uavhengig, vekte stor framtidsoptimisme hos folk. No skulle ein byggje det nye, sjølvstendige landet. Perioden etter 1905 blir derfor også omtalt som ”den nye arbeidsdagen”. Etableringa av Norsk Hydro i 1905 var på mange måtar symbolet på det nye Noreg: eit samfunn der industrialiseringa var i full gang og prega samfunnsutviklinga. Raskt vart industri og bergverksdrift dei viktigaste næringane i Noreg. Dei tradisjonelle hovudnæringane jordbruk, skogbruk og fiske utgjorde alt i 1923 berre ein knapp firedel av bruttonasjonalproduktet. 
+  p At Noreg endeleg var heilt uavhengig, vekte stor framtidsoptimisme hos folk. No skulle ein byggje det nye, sjølvstendige landet. Perioden etter 1905 blir derfor også omtalt som ”den nye arbeidsdagen”. Etableringa av 
+    em Norsk Hydro 
+    | i 1905 var på mange måtar symbolet på det nye Noreg: eit samfunn der industrialiseringa var i full gang og prega samfunnsutviklinga. Raskt vart industri og bergverksdrift dei viktigaste næringane i Noreg. Dei tradisjonelle hovudnæringane jordbruk, skogbruk og fiske utgjorde alt i 1923 berre ein knapp firedel av bruttonasjonalproduktet. 
 
   img.col.col5.left-image.mt5(src="./Nyrealisme_Tida_og_samfunnsforholdene3.jpg" alt="Mann talar foran ei forsamling. Foto.")
 
   h5 Arbeidarrørsla
-  p Talet på arbeidarar auka veldig i perioden, og etter at Landsorganisasjonen (LO) vart skipa i 1899, voks arbeidarrørsla raskt til å bli ein mektig organisasjon. I 1899 hadde LO 1578 medlemmer, i 1930 hadde dei 139 591. I 1907 fekk arbeidarane den første tariffavtalen, og i 1909 kom den første lova om sjuketrygd. Kampen for arbeidarrettar gav no resultat. 
+  p Talet på arbeidarar auka veldig i perioden, og etter at 
+    em Landsorganisasjonen 
+    | (LO) vart skipa i 1899, voks arbeidarrørsla raskt til å bli ein mektig organisasjon. I 1899 hadde LO 1578 medlemmer, i 1930 hadde dei 139 591. I 1907 fekk arbeidarane den første tariffavtalen, og i 1909 kom den første lova om sjuketrygd. Kampen for arbeidarrettar gav no resultat. 
 
   figure.col.col5.left-image.mt5
     img(src="./Nyrealisme_Tida_og_samfunnsforholdene4.jpg" alt="Portrettbilete av ei glad kvinne. Foto.")
@@ -44,13 +48,21 @@ PagePeriod(
     figcaption «Demonstrasjon den 17. oktober 1905», skisse av Ilya Yefimovich Repin
 
   h5 Sosialisme, kommunisme og sosialdemokrati
-  p Sosialisme er ei samlenemning for politiske ideologiar der kravet om ei jamnare fordeling av ressursane står sentralt. Slagordet ”frå kvar og ein etter evne til kvar og ein etter behov” illustrerer den sosialistiske tanken om likskap. Sosialistane meinte at staten måtte ha makt til å gripe inn for å sikre ei meir rettferdig fordeling av goda. Kommunistane ville avskaffe kapitalismen heilt, mens sosialdemokratane ønskte seg ein blandingsøkonomi med plass til både privat kapitalisme og sosiale velferdsordningar. 
+  p Sosialisme er ei samlenemning for politiske ideologiar der kravet om ei jamnare fordeling av ressursane står sentralt. Slagordet ”frå kvar og ein etter evne til kvar og ein etter behov” illustrerer den sosialistiske tanken om likskap. 
+    em Sosialistane 
+    | meinte at staten måtte ha makt til å gripe inn for å sikre ei meir rettferdig fordeling av goda. 
+    em Kommunistane 
+    | ville avskaffe kapitalismen heilt, mens 
+    em sosialdemokratane 
+    | ønskte seg ein blandingsøkonomi med plass til både privat kapitalisme og sosiale velferdsordningar. 
 
   figure.col.col4.left-image.mt5
     img(src="./Nyrealisme_Tanker_i_tida2.jpg" alt="Mann held tale til ei forsamling. Foto.")
     figcaption Lenin talar til troppene i mai 1920
 
-  p Under den russiske revolusjonen i 1917 vart tsaren styrta. Lenin tok makta og skipa såkalla sovjetar, arbeidarråd. Kommunismen som ideologi vart no for første gong realisert som styreform, og dei kommunistiske ideala vart prøvde ut på eit heilt land og eit folk. 
+  p Under den russiske revolusjonen i 1917 vart tsaren styrta. Lenin tok makta og skipa såkalla 
+    em sovjetar
+    | , arbeidarråd. Kommunismen som ideologi vart no for første gong realisert som styreform, og dei kommunistiske ideala vart prøvde ut på eit heilt land og eit folk. 
 
   p Den russiske revolusjonen i 1917 fekk konsekvensar også for norsk politikk, samfunnsliv og kulturliv. Arbeidarpartiet hadde i nokre år tette band til Sovjetunionen og kommunistpartiet der. Inspirert av den russiske revolusjonen fekk venstrefløya i Arbeidarpartiet fleirtal i 1918, og to år seinare vart partiet med i Komintern, Den kommunistiske internasjonalen. Høgrefløya gjekk da ut og etablerte Norges Socialdemokratiske Parti (1921). I 1923 braut fleirtalet i Arbeidarpartiet med Komintern, og mindretalet skipa no Norges Kommunistiske Parti. Dei vart ståande i Komintern, mens Arbeidarpartiet og Norges Socialdemokratiske Parti slutta seg saman i 1927. 
 
@@ -70,7 +82,9 @@ PagePeriod(
     figcaption Albert Einstein
 
   h5 Eit kvantesprang for naturvitskapen
-  p 1905 var eit revolusjonerande år for naturvitskapen. Det var dette året Albert Einstein (1879–1955) offentleggjorde teoriar som skulle vise seg å endre det moderne verdsbiletet. I 1905 publiserte han fire artiklar som framleis blir rekna som milestolpar i moderne fysikk, den eine var relativitetsteorien. Einstein utfordra her Newtons mekaniske verdsbilete og forståinga av tid og rom som noko absolutt. Gjennom arbeidet sitt la han grunnlaget for moderne fysikk og kosmologi. 
+  p 1905 var eit revolusjonerande år for naturvitskapen. Det var dette året Albert Einstein (1879–1955) offentleggjorde teoriar som skulle vise seg å endre det moderne verdsbiletet. I 1905 publiserte han fire artiklar som framleis blir rekna som milestolpar i moderne fysikk, den eine var 
+    em relativitetsteorien
+    | . Einstein utfordra her Newtons mekaniske verdsbilete og forståinga av tid og rom som noko absolutt. Gjennom arbeidet sitt la han grunnlaget for moderne fysikk og kosmologi. 
 
   p Einstein er ein av dei største tenkjarane innan naturvitskapen, kanskje den største, og i 1922 fekk han nobelprisen i fysikk. Men han var også ein samfunnsengasjert sosialist. I tillegg var han jøde og flykta frå Tyskland til USA da nazistane kom til makta i 1933. Her hjelpte han til med utviklinga av atombomba, men angra seinare på dette. Det er likevel som genial vitskapsmann han blir hugsa, og i 1999 kåra Time Magazine Einstein til den viktigaste personen på 1900-talet. 
 
@@ -78,7 +92,10 @@ PagePeriod(
     img(src="./Nyrealisme_Tanker_i_tida5.jpg" alt="Fire polfararar ser på eit telt med flagg. Foto.")
     figcaption Roald Amundsen og mennene hans på Sørpolen i desember 1911
 
-  p Fridtjof Nansen (1861–1930) og Roald Amundsen (1872–1928) vart nasjonalheltar i Noreg etter unionsoppløysinga i 1905. Gjennom polferdene og oppdagingsreisene sine vart dei symbol på den sjølvstendige og modige nordmannen, og dei fekk ein enorm popularitet. Amundsen var den første personen i verda som nådde både Sør- og Nordpolen. Fridtjof Nansen vart ein folkehelt både på grunn av polarforskinga si og på grunn av det humanitære arbeidet for flyktningar. I 1921 vart han den første høgkommissæren for flyktningar. 
+  p Fridtjof Nansen (1861–1930) og Roald Amundsen (1872–1928) vart 
+    em nasjonalheltar 
+    | i Noreg etter unionsoppløysinga i 1905. Gjennom polferdene og oppdagingsreisene sine vart dei symbol på den sjølvstendige og modige nordmannen, og dei fekk ein enorm popularitet. Amundsen var den første personen i verda som nådde både Sør- og Nordpolen. Fridtjof Nansen vart ein folkehelt både på grunn av polarforskinga si og på grunn av det humanitære arbeidet for flyktningar. I 1921 vart han den første 
+    em høgkommissæren for flyktningar. 
 
   h3 Nyrealismen: Ein etisk realisme
 
@@ -93,7 +110,8 @@ PagePeriod(
   p Men det var ikkje berre framstegsoptimisme som prega folket. Industrialiseringa og urbaniseringa førte til store sosiale endringar på stutt tid, og mange fekk røyne skuggesidene ved moderniseringa. Ein del forfattarar valde derfor å fordjupe seg i etiske problem knytte til dei endra samfunnstilhøva. Denne nye litterære retninga vart kalla nyrealisme og kom til å dominere norsk litteratur heilt fram mot andre verdskrigen. 
 
   h5 Etiske val
-  p Typisk for dei nyrealistiske tekstane er at politiske og sosiale problem på nytt kjem inn i litteraturen. Men i motsetning til realismen i 1870-åra er det ikkje lenger samfunnstilhøva i seg sjølve som blir tematiserte. Dei nyrealistiske forfattarane fokuserer på individet, på same måten som nyromantikarane før dei. No handlar det om å skildre enkeltmenneska i situasjonar der dei må gjere viktige og vanskelege etiske val. Eit anna namn på nyrealismen er derfor etisk realisme. 
+  p Typisk for dei nyrealistiske tekstane er at politiske og sosiale problem på nytt kjem inn i litteraturen. Men i motsetning til realismen i 1870-åra er det ikkje lenger samfunnstilhøva i seg sjølve som blir tematiserte. Dei nyrealistiske forfattarane fokuserer på individet, på same måten som nyromantikarane før dei. No handlar det om å skildre enkeltmenneska i situasjonar der dei må gjere viktige og vanskelege etiske val. Eit anna namn på nyrealismen er derfor 
+    em etisk realisme. 
 
   figure.col.col6.right-image.mt5
     img(src="./Nyrealisme_En_etisk_realisme2.jpg" alt="Kvinne held eit barn i armane. To menn ser på. Foto.")
@@ -109,7 +127,9 @@ PagePeriod(
 
   figure.col.col12
     img(src="./Nyrealisme_Problematisering_av_det_moderne1.jpg" alt="Landskapsbilete av vatn, fjell og skyer. Foto.")
-    figcaption I Markens Grøde skisserer Hamsun eit positivt alternativ til den kapitalistiske verda. Han budde på Kråkmo ved enden av Fjerdevatnet då han skreiv romanen. Foto: Trygve Indrelid / Scanpix
+    figcaption I 
+      em Markens Grøde 
+      | skisserer Hamsun eit positivt alternativ til den kapitalistiske verda. Han budde på Kråkmo ved enden av Fjerdevatnet då han skreiv romanen. Foto: Trygve Indrelid / Scanpix
 
   h5 Eit steg tilbake?
   p Den nyrealistiske litteraturen blir ofte oppfatta som ”eit steg tilbake” i høve til dei modernistiske straumdraga på slutten av 1800-talet. Vi ser ei dreiing bort frå eksperiment med form og sjanger og over mot ei meir tradisjonell og realistisk framstillingsform. Der dei modernistiske forfattarane skildra det moderne mennesket, peikte dei nyrealistiske forfattarane på det dei meinte det moderne mennesket hadde mist i møte med den moderne verda. Løysinga dei såg for seg, var å vende tilbake til førmoderne og førindustrielle verdiar.
@@ -126,21 +146,27 @@ PagePeriod(
     altText="Mann i hatt på ein fjelltopp på vinterstid. Foto."
     )
     h5 Knut Hamsun
-    p Knut Hamsun (1859–1952) hadde i 1890-åra skrive både nyromantiske og modernistiske tekstar. Men forfattarskapen hans tok nok ein gong ei ny retning. No skreiv han meir tradisjonelle og realistiske tekstar der han kritiserte haldningar og verdiar, eller snarare mangelen på dei, i det moderne samfunnet. I Markens Grøde (1917) skisserer Hamsun eit positivt alternativ til den kapitalistiske verda. Bonden Isak Sellanraa er ein førmoderne helt som lever av å dyrke si eiga jord. For denne romanen fekk Knut Hamsun nobelprisen i 1920. 
+    p Knut Hamsun (1859–1952) hadde i 1890-åra skrive både nyromantiske og modernistiske tekstar. Men forfattarskapen hans tok nok ein gong ei ny retning. No skreiv han meir tradisjonelle og realistiske tekstar der han kritiserte haldningar og verdiar, eller snarare mangelen på dei, i det moderne samfunnet. I 
+      em Markens Grøde 
+      | (1917) skisserer Hamsun eit positivt alternativ til den kapitalistiske verda. Bonden Isak Sellanraa er ein førmoderne helt som lever av å dyrke si eiga jord. For denne romanen fekk Knut Hamsun nobelprisen i 1920. 
 
   ImageTextBlock.mt5(
     :image="require(`./Nyrealisme_Problematisering_av_det_moderne3.jpg`)"
     altText="Dame som sit og skriv. Foto."
     )
     h5 Sigrid Undset 
-    p Sigrid Undset (1882–1949) var ein svært antimoderne forfattar i haldninga si. Ho konverterte til katolisismen og refsa samtida for umoral og verditap. Undset er kjend for mange skarpe kvinneportrett. Ofte skildrar ho kvinner i etiske valsituasjonar: Skal dei velje fridom eller det trygge? Skal dei følgje eigne lyster og drifter eller etiske normer som krev forsaking? Det mest kjende verket til Undset er romanserien ho fekk nobelprisen for, trilogien Kristin Lavransdatter (1920–1922). 
+    p Sigrid Undset (1882–1949) var ein svært antimoderne forfattar i haldninga si. Ho konverterte til katolisismen og refsa samtida for umoral og verditap. Undset er kjend for mange skarpe kvinneportrett. Ofte skildrar ho kvinner i etiske valsituasjonar: Skal dei velje fridom eller det trygge? Skal dei følgje eigne lyster og drifter eller etiske normer som krev forsaking? Det mest kjende verket til Undset er romanserien ho fekk nobelprisen for, trilogien 
+      em Kristin Lavransdatter 
+      | (1920–1922). 
 
   ImageTextBlock.mt5(
     :image="require(`./Nyrealisme_Problematisering_av_det_moderne4.jpg`)"
     altText="Mann sit i skogen. Foto."
     )
     h5 Olav Duun 
-    p Olav Duun (1876–1939) skildra for det meste norske bonde- og fiskarsamfunn i bøkene sine, men emnet hans var dei store eksistensielle spørsmåla. I hovudverket Juvikfolke (1918–1923) skriv Duun seg gjennom fleire generasjonar i Juvik-slekta og skildrar overgangen frå bondesamfunn til moderne industrisamfunn. Duun viser korleis menneska slit med å finne eit etisk orienteringspunkt i den nye tida. Dei seks romanane sluttar likevel med ei kjensle av håp. 
+    p Olav Duun (1876–1939) skildra for det meste norske bonde- og fiskarsamfunn i bøkene sine, men emnet hans var dei store eksistensielle spørsmåla. I hovudverket 
+      em Juvikfolke 
+      | (1918–1923) skriv Duun seg gjennom fleire generasjonar i Juvik-slekta og skildrar overgangen frå bondesamfunn til moderne industrisamfunn. Duun viser korleis menneska slit med å finne eit etisk orienteringspunkt i den nye tida. Dei seks romanane sluttar likevel med ei kjensle av håp. 
 
   ImageTextBlock.mt5(
     :image="require(`./Nyrealisme_Problematisering_av_det_moderne5.jpg`)"
@@ -148,7 +174,9 @@ PagePeriod(
     altText="Mann med stokk foran ein innsjø. Foto."
     )
     h5 Johan Falkberget 
-    p Johan Falkberget (1879–1967) henta motiva sine frå gruvebyen Røros, og eit klart sosialt engasjement skin gjennom i diktinga hans. Som Sigrid Undset knyter Falkberget dei store etiske spørsmåla til religion, men han er ikkje forkynnande eller moraliserande i sine tekstar – det er menneskeverdet som interesserer han. I tillegg til å vere forfattar var Falkberget politisk aktiv. I ein periode sat han på Stortinget for Arbeidarpartiet. Han var svært kritisk til kapitalismen, og i den satiriske romanen Bør Børson jr. (1920) tek han eit oppgjer med det kapitalistiske samfunnet som han såg vekse fram på Røros. Falkberget blir ofte omtalt som ein kristen sosialist.
+    p Johan Falkberget (1879–1967) henta motiva sine frå gruvebyen Røros, og eit klart sosialt engasjement skin gjennom i diktinga hans. Som Sigrid Undset knyter Falkberget dei store etiske spørsmåla til religion, men han er ikkje forkynnande eller moraliserande i sine tekstar – det er menneskeverdet som interesserer han. I tillegg til å vere forfattar var Falkberget politisk aktiv. I ein periode sat han på Stortinget for Arbeidarpartiet. Han var svært kritisk til kapitalismen, og i den satiriske romanen 
+      em Bør Børson jr. 
+      | (1920) tek han eit oppgjer med det kapitalistiske samfunnet som han såg vekse fram på Røros. Falkberget blir ofte omtalt som ein kristen sosialist.
 
   ImageTextBlock.mt5(
     :image="require(`./Nyrealisme_Problematisering_av_det_moderne6.jpg`)"
@@ -156,7 +184,11 @@ PagePeriod(
     altText="Mann i kofte foran gårdsbygningar. Foto."
     )
     h5 Kristofer Uppdal
-    p Kristofer Uppdal (1878–1961) var som Falkberget oppteken av kvardagen og kåra til den norske arbeidaren. I hovudverket sitt, Dansen gjennom skuggeheimen (1911–1924), skildrar han korleis bøndene går over til å arbeide i industrien, og korleis den moderne arbeidarrørsla veks fram. Dei ti banda i Dansen gjennom skuggeheimen er sjølvstendige verk, men tematisk finn vi mange fellestrekk. Uppdal skildrar spenningar og konfliktar mellom enkeltmenneska og samfunnet dei lever i. 
+    p Kristofer Uppdal (1878–1961) var som Falkberget oppteken av kvardagen og kåra til den norske arbeidaren. I hovudverket sitt, 
+      em Dansen gjennom skuggeheimen 
+      | (1911–1924), skildrar han korleis bøndene går over til å arbeide i industrien, og korleis den moderne arbeidarrørsla veks fram. Dei ti banda i 
+      em Dansen gjennom skuggeheimen 
+      | er sjølvstendige verk, men tematisk finn vi mange fellestrekk. Uppdal skildrar spenningar og konfliktar mellom enkeltmenneska og samfunnet dei lever i. 
 
   h3 Nyrealismens skrivestil
 
@@ -198,7 +230,9 @@ PagePeriod(
     img(src="./Nyrealisme_Lyrikken_Tradisjonalisme_og_modernisme3.jpg" alt="Mann sit i stol og les bok. Foto.")
 
   h5 Olaf Bull
-  p Olaf Bull (1883–1933) var ein forfattar som sprengde grensene mellom tradisjonell og modernistisk lyrikk. Han var stort sett tradisjonell i forma og skreiv om sentrallyriske emne. Bull var svært oppteken av at ingenting kan vare, og mange av dikta er melankolske og stemningsladde. I det mest kjende diktet hans, ”Metope” frå samlinga Digte (1909), ser vi nettopp korleis kjærleiken blir sett opp mot tida og æva. Heller ikkje den sterke kjærleiken kan vare evig, for korleis kan eigentleg kjærleiken vere uforanderleg? Den livskjensla som diktet formidlar, er typisk modernistisk. Bull innser at ingenting er varig, men kunsten kan i alle fall halde fast augneblinken: Gjennom diktet kunne Bull gjere kvinna han var glad i, tidlaus.
+  p Olaf Bull (1883–1933) var ein forfattar som sprengde grensene mellom tradisjonell og modernistisk lyrikk. Han var stort sett tradisjonell i forma og skreiv om sentrallyriske emne. Bull var svært oppteken av at ingenting kan vare, og mange av dikta er melankolske og stemningsladde. I det mest kjende diktet hans, ”Metope” frå samlinga 
+    em Digte 
+    | (1909), ser vi nettopp korleis kjærleiken blir sett opp mot tida og æva. Heller ikkje den sterke kjærleiken kan vare evig, for korleis kan eigentleg kjærleiken vere uforanderleg? Den livskjensla som diktet formidlar, er typisk modernistisk. Bull innser at ingenting er varig, men kunsten kan i alle fall halde fast augneblinken: Gjennom diktet kunne Bull gjere kvinna han var glad i, tidlaus.
 
   h5 Kristofer Uppdal
   p Ein forfattar som i enda større grad leiker seg med modernistiske uttrykksformer, er Kristofer Uppdal (1878–1961). Uppdal var produktiv. I tillegg til å skrive romanar gav han ut 11 diktsamlingar i perioden 1905–1947. Som lyrikar var han først og fremst modernist. I dikta hans er det kjenslene og perspektiva til eg-et som fargar skildringa av den ytre verda, på same måten som i dei ekspresjonistiske måleria av Munch på slutten av 1800-talet.
@@ -231,9 +265,12 @@ PagePeriod(
 
   h5 Nokre av endringane
   ul
-    li Ustemde konsonantar i staden for stemde: bog > bok, rod > rot, løbe > løpe 
-    li Kortformer: have > ha, tage > ta, moder > mor, fader > far
-    li Fornorska substantivbøying: drænge > gutter, huse > hus
+    li Ustemde konsonantar i staden for stemde: 
+      em bog > bok, rod > rot, løbe > løpe 
+    li Kortformer: 
+      em have > ha, tage > ta, moder > mor, fader > far
+    li Fornorska substantivbøying: 
+      em drænge > gutter, huse > hus
 
   p Den nye språknorma vart kalla riksmål, og dei nye formene vart raskt tekne i bruk. Moltke Moe var den sentrale personen bak 1907-reforma, og han skulle vise seg å bli ein sentral person for seinare reformer der samnorsktanken var dominerande. 
 
@@ -241,15 +278,25 @@ PagePeriod(
     img(src="./Nyrealisme_Spraaket_i_perioden2.jpg" alt="Eldre frimerke med skriften Tanke og draum er himmelske køyrety. Foto.")
     figcaption Noregs Mållag feira 100 år i 2006. Foto: Posten Norge / Scanpix
   h5 Språklege interesseorganisasjonar 
-  p Tidleg på 1900-talet vart også dei språklege interesseorganisasjonane skipa: Noregs Mållag i 1906 og Riksmålsforbundet i 1907. Dei to målformene hadde no kvar sin interesseorganisasjon og kvar sine tilhengarar. Riksmålet hadde mange forkjemparar i mektige posisjonar i aviser og offentleg. Men også landsmålet vann stadig fleire brukarar. 
+  p Tidleg på 1900-talet vart også dei språklege interesseorganisasjonane skipa: 
+    em Noregs Mållag 
+    | i 1906 og 
+    em Riksmålsforbundet 
+    | i 1907. Dei to målformene hadde no kvar sin interesseorganisasjon og kvar sine tilhengarar. Riksmålet hadde mange forkjemparar i mektige posisjonar i aviser og offentleg. Men også landsmålet vann stadig fleire brukarar. 
 
-  p Éi gruppe følte seg likevel tilsidesett i utviklinga av både landsmålet og riksmålet, og det var dei som budde i bygdene på Austlandet. Talemålet deira låg langt unna både landsmål og riksmål. Derfor vart Østlandsk reisning etablert i 1916. Organisasjonen ville først og fremst arbeide for ei målform som låg tettare opp til dialektane i austlandsbygdene, og i praksis ønskte dei ein mellomting mellom landsmål og riksmål, det vil seie samnorsk. 
+  p Éi gruppe følte seg likevel tilsidesett i utviklinga av både landsmålet og riksmålet, og det var dei som budde i bygdene på Austlandet. Talemålet deira låg langt unna både landsmål og riksmål. Derfor vart 
+    em Østlandsk reisning 
+    | etablert i 1916. Organisasjonen ville først og fremst arbeide for ei målform som låg tettare opp til dialektane i austlandsbygdene, og i praksis ønskte dei ein mellomting mellom landsmål og riksmål, det vil seie samnorsk. 
 
   h5 1917-reforma 
   p I 1917 vedtok Stortinget ei ny reform. Denne gongen gjaldt reforma begge målformene. Politikarane ville ha ei fastare og meir konsekvent skrivenorm. Men samstundes fekk mange ord valfrie skrivemåtar som var like i bokmål og nynorsk. Ein kunne for eksempel ha a-ending i alle hokjønnssubstantiv: Bygda vart jamstilt med bygdi på landsmål og med bygden på riksmål. 1917-reforma møtte større motstand, særleg frå den konservative delen av riksmålsleiren. 
 
   h5 Nynorsk og bokmål 
-  p I 1929 vart det vedteke ei namneendring. Landsmålet vart frå no av kalla nynorsk, og riksmålet fekk namnet bokmål. Desse nemningane bruker vi også i dag. Noregs Mållag feira 100 år i 2006. 
+  p I 1929 vart det vedteke ei namneendring. Landsmålet vart frå no av kalla 
+    em nynorsk
+    | , og riksmålet fekk namnet 
+    em bokmål
+    | . Desse nemningane bruker vi også i dag. Noregs Mållag feira 100 år i 2006. 
 
   h3 Massemedium 
 
@@ -283,25 +330,35 @@ PagePeriod(
 
   img.col.col5.left-image.mt5(src="./Nyrealisme_Andre_kunstformer1.jpg" alt="Mannsskikkelse i geometirske former. Abstrakt måleri.")
   h5 Ekspresjonisme og kubisme
-  p Mens ekspresjonistar som Edvard Munch (1863–1944) ville framstille dei indre kjenslene og den subjektive opplevinga av verda, var kubistane meir interesserte i sjølve formuttrykket, og dei henta inspirasjon frå geometrien. Målarar som Pablo Picasso (1881–1973) og norske Per Krohg (1889–1965) forenkla motiva sine til geometriske former som kjegler, kuler og sirklar. Dei braut med tradisjonelle krav om djupneverknad og sentralperspektiv, og måla motiva frå fleire vinklar på same tid. Denne nye framstillingsforma bar namnet simultanperspektiv.
+  p Mens ekspresjonistar som Edvard Munch (1863–1944) ville framstille dei indre kjenslene og den subjektive opplevinga av verda, var 
+    em kubistane 
+    | meir interesserte i sjølve formuttrykket, og dei henta inspirasjon frå geometrien. Målarar som Pablo Picasso (1881–1973) og norske Per Krohg (1889–1965) forenkla motiva sine til geometriske former som kjegler, kuler og sirklar. Dei braut med tradisjonelle krav om djupneverknad og sentralperspektiv, og måla motiva frå fleire vinklar på same tid. Denne nye framstillingsforma bar namnet simultanperspektiv.
 
   img.col.col5.left-image.mt5(src="./Nyrealisme_Andre_kunstformer2.jpg" alt="Kunstnerisk uttrykk med sorte geometriske former. Illustrasjon.")
   h5 Futurisme 
-  p Lengst i brotet med gamle uttrykk og verdiar gjekk dei såkalla futuristane. Denne retninga hadde sitt utspring i Italia, og dei futuristiske kunstnarane uttrykte nesten forakt for fortida. Alt det gamle var totalt ubrukeleg! Berre det nye, teknologiske samfunnet hadde verdi. Retninga fekk lite gjennomslag i Norden, men den norske kunstnaren Alfred Hagn (1882–1958) måla både kubistiske og futuristiske bilete. 
+  p Lengst i brotet med gamle uttrykk og verdiar gjekk dei såkalla 
+    em futuristane
+    | . Denne retninga hadde sitt utspring i Italia, og dei futuristiske kunstnarane uttrykte nesten forakt for fortida. Alt det gamle var totalt ubrukeleg! Berre det nye, teknologiske samfunnet hadde verdi. Retninga fekk lite gjennomslag i Norden, men den norske kunstnaren Alfred Hagn (1882–1958) måla både kubistiske og futuristiske bilete. 
 
   .clear
   img.col.col5.left-image.mt5(src="./Nyrealisme_Andre_kunstformer3.jpg" alt="Et pissoar. Foto.i")
   h5 Dadaisme 
-  p Første verdskrigen er ein viktig milestolpe i denne perioden. Grufulle skildringar frå fronten fekk mellom anna dadaistane til å ta eit oppgjer med dei etablerte samfunnsverdiane og kunstnormene. Gjennom tilsynelatande useriøse forsøk på å lage kunst ønskte dei å kritisere det dei rekna som falsk kunst og falske verdiar. Dadaisten Marcel Duchamp (1887–1968) stilte for eksempel ut eit pissoar og kalla det kunst. Masseproduserte og kvardagslege gjenstandar skulle dra kunsten ned frå ein kunstig opphøgd posisjon. Leik og humor var sentrale kjennemerke for retninga, men under låg det altså ein alvorleg politisk bodskap. 
+  p Første verdskrigen er ein viktig milestolpe i denne perioden. Grufulle skildringar frå fronten fekk mellom anna 
+    em dadaistane 
+    | til å ta eit oppgjer med dei etablerte samfunnsverdiane og kunstnormene. Gjennom tilsynelatande useriøse forsøk på å lage kunst ønskte dei å kritisere det dei rekna som falsk kunst og falske verdiar. Dadaisten Marcel Duchamp (1887–1968) stilte for eksempel ut eit pissoar og kalla det kunst. Masseproduserte og kvardagslege gjenstandar skulle dra kunsten ned frå ein kunstig opphøgd posisjon. Leik og humor var sentrale kjennemerke for retninga, men under låg det altså ein alvorleg politisk bodskap. 
 
   h5 Noreg – eit utanforland 
   p I Noreg vekte dei modernistiske kunstuttrykka lite blest. Men kunstnarar som Olav Strømme (1909–1978) og Bjarne Engebret (1905–1985) var begge påverka av ekspresjonistiske og surrealistiske straumdrag i mellomkrigstida.
 
   img.col.col5.right-image.mt5(src="./Nyrealisme_Andre_kunstformer4.jpg" alt="Prektig grått mursteinsbygg. Foto.")
   h5 Arkitektur: eit enklare uttrykk 
-  p Innanfor arkitekturen var funksjonalismen den nye retninga som kom til å prege utviklinga gjennom store delar av 1900-talet. Arkitektane var inspirerte av kubistane og tok i bruk geometriske former i arbeida sine. Bygg som Ekebergrestauranten i Oslo viser korleis funksjonalistane forkasta tradisjonelle ideal om pynt og dekor. Dei satsa på moderne materiale som glas, stål, aluminium og betong. Bygningane var enkle i uttrykket, formålet var å gjere dei praktiske og brukarvennlege. 
+  p Innanfor arkitekturen var 
+    em funksjonalismen 
+    | den nye retninga som kom til å prege utviklinga gjennom store delar av 1900-talet. Arkitektane var inspirerte av kubistane og tok i bruk geometriske former i arbeida sine. Bygg som Ekebergrestauranten i Oslo viser korleis funksjonalistane forkasta tradisjonelle ideal om pynt og dekor. Dei satsa på moderne materiale som glas, stål, aluminium og betong. Bygningane var enkle i uttrykket, formålet var å gjere dei praktiske og brukarvennlege. 
 
-  p Ei kunstretning som tok avstand frå dei funksjonalistiske krava om det enkle, reine og strenge uttrykket, var art deco. Arkitektar og kunstnarar laga produkt som bogna av utsmykking og dekor, samstundes som dei var geometriske og symmetriske i forma. Denne stilarten var lite synleg i Noreg, men Chrysler-bygningen i New York er eit klassisk eksempel på Art deco.
+  p Ei kunstretning som tok avstand frå dei funksjonalistiske krava om det enkle, reine og strenge uttrykket, var 
+    em art deco
+    | . Arkitektar og kunstnarar laga produkt som bogna av utsmykking og dekor, samstundes som dei var geometriske og symmetriske i forma. Denne stilarten var lite synleg i Noreg, men Chrysler-bygningen i New York er eit klassisk eksempel på Art deco.
 
   img.col.col5.left-image.mt5(src="./Nyrealisme_Andre_kunstformer5.jpg" alt="Sideprofil av alvorlig mann i dress. Foto.")
   h5 Musikk: nye ideal og sjangrar 

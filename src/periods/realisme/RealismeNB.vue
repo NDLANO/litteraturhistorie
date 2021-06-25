@@ -253,14 +253,28 @@ PagePeriod(
   figure.col.col4.left-image
     img(src="./Realisme_De_fire_store_Kielland.jpg" alt="Portrettbilde av mann med hvitt hår, langt skinnskjegg, briller og sort dress. Foto.")
     figcaption Alexander Kielland
-  p <strong>Alexander Kielland (1849–1906)</strong> er kanskje den av de fire som mest konsekvent følger Brandes’ krav. Kielland setter søkelyset på dobbeltmoral og hykleri i hjem og samfunn. Han skriv åtte romaner, tre novellesamlinger og seks skuespill. De mest kjente romanene er Garman & Worse (1880), Gift (1883) og Sankt Hans Fest (1887). Her drøfter han forholdet mellom fattig og rik, han avslører religiøst hykleri, og han kritiserer latinpugget i skolen. I novelleteksten ”Karen” (1882) avslører han hvordan uskyldige jenter kan bli lurt av kyniske mannfolk. 
+  p <strong>Alexander Kielland (1849–1906)</strong> er kanskje den av de fire som mest konsekvent følger Brandes’ krav. Kielland setter søkelyset på dobbeltmoral og hykleri i hjem og samfunn. Han skriv åtte romaner, tre novellesamlinger og seks skuespill. De mest kjente romanene er 
+    em Garman & Worse 
+    | (1880), 
+    em Gift 
+    | (1883) og 
+    em Sankt Hans Fest 
+    | (1887). Her drøfter han forholdet mellom fattig og rik, han avslører religiøst hykleri, og han kritiserer latinpugget i skolen. I novelleteksten ”Karen” (1882) avslører han hvordan uskyldige jenter kan bli lurt av kyniske mannfolk. 
 
   .clear
   .mt20
   figure.col.col4.left-image
     img(src="./Realisme_De_fire_store_Lie.jpg" alt="Portrettbilde av mann med briller og sort hatt på hodet. Foto.")
     figcaption Jonas Lie
-  p <strong>Jonas Lie (1833–1908)</strong> er den fjerde av de kritiske realistene. Han er også påvirket av Brandes, men er ikke så skarp i pennen som de tre andre. Lie er romanforfatter, og hovedverket hans er Familjen på Gilje (1883), en skildring av en embetsmannsfamilie i et norsk bygdemiljø. Her setter han blant annet søkelyset på likestillingsspørsmålet og på manglende rettigheter for kvinner. I Livsslaven (også 1883) viser han hvordan fattigdom kan drepe det gode som bor i menneskene – egentlig et typisk naturalistisk tema. Kommandørens Døttre (1886) har noe av den samme tematikken som Familjen på Gilje. Jonas Lie viser ikke samme kritiske røst som de tre andre, men han var en populær og mye lest forfatter. 
+  p <strong>Jonas Lie (1833–1908)</strong> er den fjerde av de kritiske realistene. Han er også påvirket av Brandes, men er ikke så skarp i pennen som de tre andre. Lie er romanforfatter, og hovedverket hans er 
+    em Familjen på Gilje 
+    | (1883), en skildring av en embetsmannsfamilie i et norsk bygdemiljø. Her setter han blant annet søkelyset på likestillingsspørsmålet og på manglende rettigheter for kvinner. I 
+    em Livsslaven 
+    | (også 1883) viser han hvordan fattigdom kan drepe det gode som bor i menneskene – egentlig et typisk naturalistisk tema. 
+    em Kommandørens Døttre 
+    | (1886) har noe av den samme tematikken som 
+    em Familjen på Gilje
+    | . Jonas Lie viser ikke samme kritiske røst som de tre andre, men han var en populær og mye lest forfatter. 
 
   h3 Naturalismen
 
@@ -290,43 +304,71 @@ PagePeriod(
 
   figure.col.col4.left-image
     img.mt10(src="./Realisme_Naturalismen_Skram.jpg" alt="Portrettbilde av ei kvinne med blikket til siden. Foto.")
-  p <strong>Amalie Skram (1847–1905)</strong> regnes som en reindyrket naturalist. Romanserien Hellemyrsfolket (1887–1898) er hovedverket hennes og det fremste naturalistiske verket i norsk litteratur. Her skildrer hun en familie gjennom flere generasjoner, og hun får fram sammenhengen mellom arv, miljø og utvikling. Grunntonen er pessimistisk, og det ender dårlig for familien på Hellemyren. Amalie Skram setter søkelyset på miljøet som former menneskene, og hun vil vise at fattigdom og nød har sine årsaker. 
+  p <strong>Amalie Skram (1847–1905)</strong> regnes som en reindyrket naturalist. Romanserien 
+    em Hellemyrsfolket 
+    | (1887–1898) er hovedverket hennes og det fremste naturalistiske verket i norsk litteratur. Her skildrer hun en familie gjennom flere generasjoner, og hun får fram sammenhengen mellom arv, miljø og utvikling. Grunntonen er pessimistisk, og det ender dårlig for familien på Hellemyren. Amalie Skram setter søkelyset på miljøet som former menneskene, og hun vil vise at fattigdom og nød har sine årsaker. 
 
-  p I novellen ”Karens Jul” (1885) opplever vi hvordan ei fattigjente dør med et lite barn på fanget fordi hun mangler det sosiale nettverket som trengs for å klare seg i samfunnet. I ekteskapsromanene Constance Ring (1885) og Forraadt (1892) ender det også tragisk. Her møter vi unge jenter som blir tvunget inn i ekteskap med eldre menn. 
+  p I novellen ”Karens Jul” (1885) opplever vi hvordan ei fattigjente dør med et lite barn på fanget fordi hun mangler det sosiale nettverket som trengs for å klare seg i samfunnet. I ekteskapsromanene 
+    em Constance Ring 
+    | (1885) og 
+    em Forraadt 
+    | (1892) ender det også tragisk. Her møter vi unge jenter som blir tvunget inn i ekteskap med eldre menn. 
 
   figure.col.col4.left-image
     img(src="./Realisme_Naturalismen_Garborg.jpg" alt="Portrettbilde av en mann med kort hår og bart. Foto.")
-  p <strong>Arne Garborg (1851–1924)</strong> skrev romanen Bondestudentar i 1883. Her møter vi en ung student fra landet. Temaet er forholdet mellom by og land, bondekultur mot embetsstand, og vi opplever hvordan den unge studenten må gi avkall på forholdet til sin egen stand. I romanen Mannfolk (1886) setter Garborg søkelyset på seksual- og kjønnsmoralen, et tema som var aktuelt i 1880-årene, og som ble omtalt mer åpent i den naturalistiske litteraturen.
+  p <strong>Arne Garborg (1851–1924)</strong> skrev romanen 
+    em Bondestudentar 
+    | i 1883. Her møter vi en ung student fra landet. Temaet er forholdet mellom by og land, bondekultur mot embetsstand, og vi opplever hvordan den unge studenten må gi avkall på forholdet til sin egen stand. I romanen 
+    em Mannfolk 
+    | (1886) setter Garborg søkelyset på seksual- og kjønnsmoralen, et tema som var aktuelt i 1880-årene, og som ble omtalt mer åpent i den naturalistiske litteraturen.
 
   p Verken Ibsen, Bjørnson, Kielland eller Lie regnes som naturalister i norsk litteratur, men de var alle påvirket av naturalismen og skreiv diktverk med klare naturalistiske trekk i denne perioden. 
 
-  p Henrik Ibsen viser gjennom dramaet Gengangere (1881) hvordan Osvald, sønnen i huset, går til grunne av den arvelige sykdommen syfilis. Sykdommen har han arvet av faren, som har levd et utsvevende liv i ungdommen. Arven fra faren innhenter han. I dramaet Over Ævne I (1883) og i diktet ”Salme II” (1880) tar Bjørnstjerne Bjørnson et oppgjør med kristentroen sin og hyller Darwins utviklingslære. 
+  p Henrik Ibsen viser gjennom dramaet 
+    em Gengangere 
+    | (1881) hvordan Osvald, sønnen i huset, går til grunne av den arvelige sykdommen syfilis. Sykdommen har han arvet av faren, som har levd et utsvevende liv i ungdommen. Arven fra faren innhenter han. I dramaet 
+    em Over Ævne I 
+    | (1883) og i diktet ”Salme II” (1880) tar Bjørnstjerne Bjørnson et oppgjør med kristentroen sin og hyller Darwins utviklingslære. 
 
-  p Jonas Lie skriver i romanen Livsslaven (1883) om hvordan en fattig gutt blir satt bort og mishandlet som barn. Det går bra med gutten i en periode, men han blir innhentet av sin egen skjebne, og det ender tragisk. 
+  p Jonas Lie skriver i romanen 
+    em Livsslaven 
+    | (1883) om hvordan en fattig gutt blir satt bort og mishandlet som barn. Det går bra med gutten i en periode, men han blir innhentet av sin egen skjebne, og det ender tragisk. 
 
   p <strong>Kristiania-bohemen</strong> ”Bohemen” var navnet på en liten, intellektuell og livstrøtt gruppe som hadde tilhold på kafeene i Kristiania i 1880- og 1890-årene. Sammen med utviklingen av bylivet hadde kafeene blomstret opp som møtested for intellektuelle og kunstnere. Bohemene provoserte og sjokkerte medborgerne med sine angrep på borgerlig moral og livsførsel. De praktiserte ”fri kjærlighet” og var særlig kritiske til religion og ekteskap, som de mente hindret personlig frigjøring. Bohemkretsen møtte sterke reaksjoner og motstand – det borgerlige samfunnet så på dem som representanter for ”den moderne vantroen”. Det ble stadig tydeligere at samfunnet ikke lenger hadde et felles og uproblematisk grunnlag for holdninger, moral og livsstil. Dette skremte og provoserte.
   
   figure.col.col4.left-image
     img(src="./Realisme_Naturalismen_Jaeger.jpg" alt="Mann i sofa med jakke og hatt. Illustrasjon.")
-  p <strong>Hans Jæger (1854–1910)</strong> var en framstående person i denne kretsen av forfattere, kunstnere og intellektuelle. Selv om han ikke hadde særlig litterært talent, gav han ut flere romaner der han tok opp problemer knyttet til seksualitet og moral. Han rettferdiggjorde ”fri kjærlighet” og mente at det borgerlige ekteskapet og prostitusjonen var to sider av samme sak. I begge tilfeller levde kvinnen et ufritt liv på mannens premisser. Fra Kristiania-Bohêmen (1885) er hovedverket hans. Boka ble forbudt, og Jæger måtte i fengsel for umoralsk forfattervirksomhet. 
+  p <strong>Hans Jæger (1854–1910)</strong> var en framstående person i denne kretsen av forfattere, kunstnere og intellektuelle. Selv om han ikke hadde særlig litterært talent, gav han ut flere romaner der han tok opp problemer knyttet til seksualitet og moral. Han rettferdiggjorde ”fri kjærlighet” og mente at det borgerlige ekteskapet og prostitusjonen var to sider av samme sak. I begge tilfeller levde kvinnen et ufritt liv på mannens premisser. Fra 
+    em Kristiania-Bohêmen 
+    | (1885) er hovedverket hans. Boka ble forbudt, og Jæger måtte i fengsel for umoralsk forfattervirksomhet. 
 
   figure.col.col4.left-image
     img(src="./Realisme_Naturalismen_Krohg.jpg" alt="Portrettbilde av en mann med langt skjegg. Foto.")
   p
     strong Christian Krohg (1852–1925)
-    | skrev også en roman, Albertine (1886), som ble forbudt og stemplet som usømmelig. Romanen var et innlegg i debatten om kjønnsmoral og viser hvordan ei ung jente blir utnyttet og drevet ut i prostitusjon. Romanen er et godt eksempel på samfunnsengasjert tendenslitteratur, og boka mobiliserte til motstand mot prostitusjonen. Som en konsekvens av debatten som romanen reiste, ble offentlig prostitusjon avskaffet. Christian Krohg er mest kjent som maler, og han brukte også Albertine som motiv på flere bilder, blant annet det kjente bildet ”Albertine i politilegens venteværelse”. 
+    | skrev også en roman, 
+    em Albertine 
+    | (1886), som ble forbudt og stemplet som usømmelig. Romanen var et innlegg i debatten om kjønnsmoral og viser hvordan ei ung jente blir utnyttet og drevet ut i prostitusjon. Romanen er et godt eksempel på samfunnsengasjert tendenslitteratur, og boka mobiliserte til motstand mot prostitusjonen. Som en konsekvens av debatten som romanen reiste, ble offentlig prostitusjon avskaffet. Christian Krohg er mest kjent som maler, og han brukte også Albertine som motiv på flere bilder, blant annet det kjente bildet ”Albertine i politilegens venteværelse”. 
 
   h5 Reaksjonene på det moderne gjennombruddet – og gryende modernisme
 
   p Slutten av 1800-tallet tilhørte forfatterne. De hadde makt og innflytelse. Når de satte problemer under debatt, førte det til endringer på flere samfunnsområder. Kvinnesak, undertrykking, seksualmoral, kirkelig makt – dette er emner som forfatterne satte på dagsordenen, og endringene kom gradvis. Troen på at mennesket er fritt, at verden stadig går framover, og at en gjennom fornuften kan skape en bedre verden, var derfor tanker som vant fram i det norske folket. På mange måter er dette sentrale tanker i et moderne demokrati. 
 
-  p Men flere av de realistiske og naturalistiske tekstene møtte også motstand. At Nora i Et Dukkehjem forlater mann og barn for å bli et fritt menneske, var det ikke alle som var like fornøyd med. Frigjøring koster, og kanskje kan den koste litt for mye? Som vi har sett av de naturalistiske tekstene, trodde ikke alle forfatterne at mennesket var fritt, og at verden hele tida utviklet seg til det bedre. Noen var skeptiske til framskrittet. 
+  p Men flere av de realistiske og naturalistiske tekstene møtte også motstand. At Nora i 
+    em Et Dukkehjem 
+    | forlater mann og barn for å bli et fritt menneske, var det ikke alle som var like fornøyd med. Frigjøring koster, og kanskje kan den koste litt for mye? Som vi har sett av de naturalistiske tekstene, trodde ikke alle forfatterne at mennesket var fritt, og at verden hele tida utviklet seg til det bedre. Noen var skeptiske til framskrittet. 
 
   p Mot hundreårsskiftet ser vi at flere forfattere begynner å problematisere moderniteten. Vi kan se en endring i holdningen til modernitetens tre f-er: 
   ul
-    li Frigjøring: Er vi frie? Og hva kan vi i så fall bruke denne friheten til? Ikke alle opplevde den såkalte friheten som like positivt, for prosesser som urbanisering og sekularisering førte hos mange også til livssynskriser, fremmedgjøring og manglende følelse av å være til stede i verden. Disse emnene er også Ibsen inne på i sine skuespill fra 1880- og 1890-årene. 
-    li Framskritt: Går verden framover? Naturalismen la for dagen et deterministisk og pessimistisk livssyn, uten den samme troen på framskrittet som realistene gav uttrykk for. Hos Skram ser vi dette tydelig. Men også hos Ibsen, Lie og Garborg kan vi merke en utvikling mot et mindre positivt syn på livet, uten den sterke framskrittstroen fra tidligere år. 
-    li Fornuft: Er mennesket så fornuftig? Er det gjennom fornuften vi best kan forstå det særegne ved å være menneske i verden? Hva med følelser og de eksistensielle aspektene ved tilværelsen? Mot slutten av århundret begynner Ibsen å fokusere mer på det indre sjelelivet. Og i 1890-årene kritiserer Hamsun realistene og naturalistene for å være for opptatt av ”typer” i stedet for enkeltmennesker. Når vi nærmer oss 1900-tallet, ser vi en generell dreining mot mer psykologisk litteratur, der følelser står i sentrum.
+    li 
+      em Frigjøring
+      | : Er vi frie? Og hva kan vi i så fall bruke denne friheten til? Ikke alle opplevde den såkalte friheten som like positivt, for prosesser som urbanisering og sekularisering førte hos mange også til livssynskriser, fremmedgjøring og manglende følelse av å være til stede i verden. Disse emnene er også Ibsen inne på i sine skuespill fra 1880- og 1890-årene. 
+    li 
+      em Framskritt
+      | : Går verden framover? Naturalismen la for dagen et deterministisk og pessimistisk livssyn, uten den samme troen på framskrittet som realistene gav uttrykk for. Hos Skram ser vi dette tydelig. Men også hos Ibsen, Lie og Garborg kan vi merke en utvikling mot et mindre positivt syn på livet, uten den sterke framskrittstroen fra tidligere år. 
+    li 
+      em Fornuft
+      | : Er mennesket så fornuftig? Er det gjennom fornuften vi best kan forstå det særegne ved å være menneske i verden? Hva med følelser og de eksistensielle aspektene ved tilværelsen? Mot slutten av århundret begynner Ibsen å fokusere mer på det indre sjelelivet. Og i 1890-årene kritiserer Hamsun realistene og naturalistene for å være for opptatt av ”typer” i stedet for enkeltmennesker. Når vi nærmer oss 1900-tallet, ser vi en generell dreining mot mer psykologisk litteratur, der følelser står i sentrum.
 
   p Den litteraturen som nå følger, og som vi kaller nyromantisk og modernistisk, tematiserer nettopp de eksistensielle vilkårene for mennesker generelt og for den enkelte. Hva vil det si å leve i et samfunn? På hvilken måte virker industrialisering, urbanisering og sekularisering inn på menneskers liv? 
   
@@ -367,7 +409,13 @@ PagePeriod(
       img(src="./Realisme_Utviklingen_av_det_norske_spraaket_Knudsen.jpg" alt="Portrettbilde av en mann med sløyfe. Foto. ")
       figcaption Knud Knudsen
   h5 Landsmålet har framgang
-  p Ivar Aasen hadde nå gjort seg ferdig med grammatikk, ordbok og tekstprøver av det han kalte landsmålet. Flere forfattere følte seg mer hjemme i landsmålet enn i det danske skriftspråket. Aasmund Olavsson Vinje brukte bare landsmål i avisa Dølen, som kom ut fra 1858. Han utgav også reiseskildringer og diktsamlinger på landsmålet. Seinere fulgte Arne Garborg opp, blant annet i avisa Fedraheimen. Også romanene Bondestudentar og Fred og diktsamlingen Haugtussa (alle av Garborg) er eksempler på tekster på landsmål.
+  p Ivar Aasen hadde nå gjort seg ferdig med grammatikk, ordbok og tekstprøver av det han kalte landsmålet. Flere forfattere følte seg mer hjemme i landsmålet enn i det danske skriftspråket. Aasmund Olavsson Vinje brukte bare landsmål i avisa Dølen, som kom ut fra 1858. Han utgav også reiseskildringer og diktsamlinger på landsmålet. Seinere fulgte Arne Garborg opp, blant annet i avisa Fedraheimen. Også romanene 
+    em Bondestudentar 
+    | og 
+    em Fred 
+    | og diktsamlingen 
+    em Haugtussa 
+    | (alle av Garborg) er eksempler på tekster på landsmål.
 
   p I kirka fikk landsmålet etter hvert innpass, blant annet i konfirmasjonsundervisningen. Kjente salmediktere som Elias Blix og Anders Hovden brukte landsmål når de diktet, og flere prester brukte tekster på landsmål i gudstjenesten. 
 
@@ -378,13 +426,43 @@ PagePeriod(
 
   p I tråd med Knudsens tanker om en gradvis fornorsking av dansken kom det en rettskrivingsreform i 1862, og seinere i 1907, som førte skriftspråket nærmere ”det dannede” talemålet. En rekke danske skrivemåter ble forenklet eller avløst av skrivemåter som samsvarte bedre med norsk uttale.
   ul
-    li I dansk markerte en lang vokal med dobbeltvokal eller stum e. Nå skulle lang vokal ikke lenger markeres: Huus ble til ”Hus”, Meel til ”Mel” og troe til ”tro”. 
-    li En del fremmedord fikk forenklede skrivemåter: Philosoph og Charakteer skulle nå skrives ”Filosof” og ”Karakter”.
-    li Danske “bløte konsonanter” (b, d, g) ble erstattet med norske “harde konsonanter” (p, t, k): For eksempel ble greb byttet ut med ”grep”, kage med ”kake” og gade med ”gate”.
-    li Mange substantiv fikk norske flertallsformer: Dansk huse og heste forsvant ut, inn kom ”hus” og ”hester”. 
-    li En del verb fikk mer talemålsnære former og endinger. For eksempel kunne have og blive nå skrives ”ha” og ”bli”, og i stedet for kastede og levede hette det nå ”kastet” og ”levde”.
+    li I dansk markerte en lang vokal med dobbeltvokal eller stum e. Nå skulle lang vokal ikke lenger markeres: 
+      em Huus 
+      | ble til ”Hus”, 
+      em Meel 
+      | til ”Mel” og 
+      em troe 
+      | til ”tro”. 
+    li En del fremmedord fikk forenklede skrivemåter: 
+      em Philosoph 
+      | og 
+      em Charakteer 
+      | skulle nå skrives ”Filosof” og ”Karakter”.
+    li Danske “bløte konsonanter” (b, d, g) ble erstattet med norske “harde konsonanter” (p, t, k): For eksempel ble 
+      em greb 
+      | byttet ut med ”grep”, 
+      em kage 
+      | med ”kake” og 
+      em gade 
+      | med ”gate”.
+    li Mange substantiv fikk norske flertallsformer: Dansk 
+      em huse 
+      | og 
+      em heste 
+      | forsvant ut, inn kom ”hus” og ”hester”. 
+    li En del verb fikk mer talemålsnære former og endinger. For eksempel kunne 
+      em have 
+      | og 
+      em blive 
+      | nå skrives ”ha” og ”bli”, og i stedet for 
+      em kastede 
+      | og 
+      em levede 
+      | hette det nå ”kastet” og ”levde”.
 
-  p I 1887 ble rigsmål navnet på det norske skriftspråket som var tuftet på dansk. 
+  p I 1887 ble 
+    em rigsmål 
+    | navnet på det norske skriftspråket som var tuftet på dansk. 
 
   h5 De to målformene blir likestilt
   p I 1885 vedtok Stortinget at landsmålet og fornorsket dansk skulle være likestilte målformer i skolen og i det offentlige. Dette jamstillingsvedtaket åpnet for landsmål som hovedmål for norske skoleelever. Nå kunne skolekretsen selv velge hvilken målform elevene skulle skrive på. 
@@ -399,10 +477,14 @@ PagePeriod(
 
   p Malere som Christian Krohg (1852–1925) så på seg selv som vitenskapsmenn som skulle dokumentere det de observerte. I detalj malte de fattigfolk og skildret sosiale problemer, og de vakte debatt med bildene sine. Kunsten var en kommentar til hvordan det var å leve i den moderne verden. Industrialiseringen og urbaniseringen hadde sider ved seg som ikke var til det beste for menneskene. Uverdige arbeidsforhold, dårlige boliger, fyll, slagsmål og prostitusjon var også en del av bylivet. 
 
-  p Maleriet ”Albertine i politilegens venteværelse” (1886–1887) er eksempel på et typisk naturalistisk bilde. Her viser Christian Krohg fram livet til de prostituerte i Kristiania. Sammen med romanen Albertine, også skrevet av Krohg, førte bildet til endringer i samfunnet. Den offentlig godkjente prostitusjonen ble avskaffet. Nå kunne ikke politiet lenger innkalle prostituerte til legekontroll. Slike eksempler viser at også malerne var en del av det moderne gjennombruddet. De trodde på kunsten som virkemiddel i utviklingen mot et friere samfunn. 
+  p Maleriet ”Albertine i politilegens venteværelse” (1886–1887) er eksempel på et typisk naturalistisk bilde. Her viser Christian Krohg fram livet til de prostituerte i Kristiania. Sammen med romanen 
+    em Albertine
+    | , også skrevet av Krohg, førte bildet til endringer i samfunnet. Den offentlig godkjente prostitusjonen ble avskaffet. Nå kunne ikke politiet lenger innkalle prostituerte til legekontroll. Slike eksempler viser at også malerne var en del av det moderne gjennombruddet. De trodde på kunsten som virkemiddel i utviklingen mot et friere samfunn. 
 
   h5 Teknologiske framskritt forandrer kunsten 
-  p De teknologiske framskrittene på 1800-tallet førte med seg en nyvinning som skulle endre malerkunstens vilkår. Til nå var det malerne som hadde framstilt verden, men det endret seg da fotografiet kom. Rundt 1860 var utviklingen av fotografiapparatet kommet så langt at fotografiet nå kunne utfordre malerkunsten. Hvorfor male en kopi av omverdenen når en kunne avfotografere den? Fotografene tok portrettbilder av rike borgere – borgere som tidligere hadde betalt kunstnere for å male portretter av dem. I tillegg var fotografiet viktig for å formidle det som skjedde i den moderne verden. Dokumentar- og nyhetsbilder tok over for de kunstneriske scenebildene. Fotografiet formidlet et sannere bilde av verden slik den var – og folk fikk følelsen av å være til stede i hendingene.
+  p De teknologiske framskrittene på 1800-tallet førte med seg en nyvinning som skulle endre malerkunstens vilkår. Til nå var det malerne som hadde framstilt verden, men det endret seg da fotografiet kom. Rundt 1860 var utviklingen av fotografiapparatet kommet så langt at 
+    em fotografiet 
+    | nå kunne utfordre malerkunsten. Hvorfor male en kopi av omverdenen når en kunne avfotografere den? Fotografene tok portrettbilder av rike borgere – borgere som tidligere hadde betalt kunstnere for å male portretter av dem. I tillegg var fotografiet viktig for å formidle det som skjedde i den moderne verden. Dokumentar- og nyhetsbilder tok over for de kunstneriske scenebildene. Fotografiet formidlet et sannere bilde av verden slik den var – og folk fikk følelsen av å være til stede i hendingene.
 
   p Flere kunstnere prøvde å integrere fotografiet i kunsten sin. Ønsket fra realistene og naturalistene om å male dokumentarisk kan ses i sammenheng med dette. Andre kunstnere begynte å tenke i nye baner. Impresjonistene ville heller fange inn et inntrykk av en hending enn å dokumentere situasjonen fotografisk. De tok med seg malerutstyret ut for å male den moderne verden, som de realistiske malerne. Byen var et populært motiv, og kunstnerne var særlig opptatt av tilbudene som folk kunne gjøre bruk av i fritida. En kunstner som Edgar Degas (1834–1917) malte inntrykk fra operaen, kafeer, balletter og barer. 
 
@@ -431,7 +513,9 @@ PagePeriod(
   p 
     | Den største norske komponisten i siste halvdel av 1800-tallet var 
     strong Edvard Grieg (1843–1907). 
-    | Han regnes som den største klassiske komponisten her i landet noensinne. Grieg var først og fremst nasjonalromantisk i stilen, og han fikk stor betydning for identitets- og nasjonsbyggingen mot slutten av århundret. I 1876 fikk Grieg i oppdrag av Henrik Ibsen å komponere musikken til en teateroppsetting av Peer Gynt. 
+    | Han regnes som den største klassiske komponisten her i landet noensinne. Grieg var først og fremst nasjonalromantisk i stilen, og han fikk stor betydning for identitets- og nasjonsbyggingen mot slutten av århundret. I 1876 fikk Grieg i oppdrag av Henrik Ibsen å komponere musikken til en teateroppsetting av 
+    em Peer Gynt
+    | . 
 
   p
     strong Rikard Nordraak (1842–1866)
@@ -460,7 +544,9 @@ PagePeriod(
 
   p Den industrielle produksjonen skulle sikre framgang i samfunnet – symaskinen skulle gjøre det enklere og raskere å sy, skrivemaskinen skulle effektivisere skriving og lesing. Det var produktets funksjon som var viktig, all pynt og unødig utforming ble fjernet. 
 
-  p Ikke alle var like positive til denne utviklingen. Den såkalte Arts and Crafts Movement mente at bare håndverket kunne sikre framskritt og frihet for menneskene. De så på ”brølet” fra fabrikkene som et kulturelt forfall. 
+  p Ikke alle var like positive til denne utviklingen. Den såkalte 
+    em Arts and Crafts Movement 
+    | mente at bare håndverket kunne sikre framskritt og frihet for menneskene. De så på ”brølet” fra fabrikkene som et kulturelt forfall. 
 
 
 </template>

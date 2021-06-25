@@ -273,7 +273,13 @@ PagePeriod(
     figcaption Alexander Kielland
   p
     strong Alexander Kielland (1849–1906)
-    | er kanskje den av dei fire som mest konsekvent følgjer kravet til Brandes. Kielland set søkjelyset på dobbelmoral og hykleri i heim og samfunn. Han skriv åtte romanar, tre novellesamlingar og seks skodespel. Dei mest kjende romanane er Garman & Worse (1880), Gift (1883) og Sankt Hans Fest (1887). Her drøftar han forholdet mellom fattig og rik, han avslører religiøst hykleri, og han kritiserer latinpugget i skulen. I novelleteksten ”Karen” (1882) avslører han korleis kyniske mannfolk kan lure uskuldige jenter. 
+    | er kanskje den av dei fire som mest konsekvent følgjer kravet til Brandes. Kielland set søkjelyset på dobbelmoral og hykleri i heim og samfunn. Han skriv åtte romanar, tre novellesamlingar og seks skodespel. Dei mest kjende romanane er 
+    em Garman & Worse 
+    | (1880), 
+    em Gift 
+    | (1883) og 
+    em Sankt Hans Fest 
+    | (1887). Her drøftar han forholdet mellom fattig og rik, han avslører religiøst hykleri, og han kritiserer latinpugget i skulen. I novelleteksten ”Karen” (1882) avslører han korleis kyniske mannfolk kan lure uskuldige jenter. 
 
   .clear
   .mt20
@@ -282,7 +288,15 @@ PagePeriod(
     figcaption Jonas Lie
   p
     strong Jonas Lie (1833–1908)
-    | er den fjerde av dei kritiske realistane. Han er òg påverka av Brandes, men er ikkje så skarp i pennen som dei tre andre. Lie er romanforfattar, og hovudverket hans er Familjen på Gilje (1883), ei skildring av ein embetsmannsfamilie i eit norsk bygdemiljø. Her set han mellom anna søkjelyset på likestillingsspørsmålet og på manglande rettar for kvinner. I Livsslaven (også 1883) viser han korleis fattigdom kan drepe det gode som bur i menneska – eigentleg eit typisk naturalistisk tema. Kommandørens Døttre (1886) har noko av den same tematikken som Familjen på Gilje. Jonas Lie viser ikkje same kritiske røysta som dei tre andre, men han er ein populær og mykje lesen forfattar i samtida. 
+    | er den fjerde av dei kritiske realistane. Han er òg påverka av Brandes, men er ikkje så skarp i pennen som dei tre andre. Lie er romanforfattar, og hovudverket hans er 
+    em Familjen på Gilje 
+    | (1883), ei skildring av ein embetsmannsfamilie i eit norsk bygdemiljø. Her set han mellom anna søkjelyset på likestillingsspørsmålet og på manglande rettar for kvinner. I 
+    em Livsslaven 
+    | (også 1883) viser han korleis fattigdom kan drepe det gode som bur i menneska – eigentleg eit typisk naturalistisk tema. 
+    em Kommandørens Døttre 
+    | (1886) har noko av den same tematikken som 
+    em Familjen på Gilje
+    | . Jonas Lie viser ikkje same kritiske røysta som dei tre andre, men han er ein populær og mykje lesen forfattar i samtida. 
 
   h3 Naturalismen
 
@@ -314,21 +328,37 @@ PagePeriod(
     img.mt10(src="./Realisme_Naturalismen_Skram.jpg" alt="Portrettbilete av ei kvinne med blikket til sida. Foto.")
   p
     strong Amalie Skram (1847–1905)
-    | blir rekna som ein reindyrka naturalist. Romanserien Hellemyrsfolket (1887–1898) er hovudverket hennar og det fremste naturalistiske verket i norsk litteratur. Her skildrar ho ein familie gjennom fleire generasjonar, og ho får fram samanhengen mellom arv, miljø og utvikling. Grunntonen er pessimistisk, og det endar dårleg for familien på Hellemyren. Amalie Skram set søkjelyset på miljøet som formar menneska, og ho vil vise at fattigdom og nød har sine årsaker. 
+    | blir rekna som ein reindyrka naturalist. Romanserien 
+    em Hellemyrsfolket 
+    | (1887–1898) er hovudverket hennar og det fremste naturalistiske verket i norsk litteratur. Her skildrar ho ein familie gjennom fleire generasjonar, og ho får fram samanhengen mellom arv, miljø og utvikling. Grunntonen er pessimistisk, og det endar dårleg for familien på Hellemyren. Amalie Skram set søkjelyset på miljøet som formar menneska, og ho vil vise at fattigdom og nød har sine årsaker. 
 
-  p I novella ”Karens Jul” (1885) opplever vi korleis ei fattigjente døyr med eit lite barn på fanget fordi ho manglar det sosiale nettverket som trengst for å klare seg i samfunnet. I ekteskapsromanane Constance Ring (1885) og Forraadt (1892) endar det også tragisk. Her møter vi unge jenter som blir tvinga inn i ekteskap med eldre menn. 
+  p I novella ”Karens Jul” (1885) opplever vi korleis ei fattigjente døyr med eit lite barn på fanget fordi ho manglar det sosiale nettverket som trengst for å klare seg i samfunnet. I ekteskapsromanane 
+    em Constance Ring 
+    | (1885) og 
+    em Forraadt 
+    | (1892) endar det også tragisk. Her møter vi unge jenter som blir tvinga inn i ekteskap med eldre menn. 
 
   figure.col.col4.left-image
     img(src="./Realisme_Naturalismen_Garborg.jpg" alt="Portrettbilete av mann med kort hår og bart. Foto.")
   p
     strong Arne Garborg (1851–1924)
-    | skreiv romanen Bondestudentar i 1883. Her møter vi ein ung student frå landet. Temaet er forholdet mellom by og land, bondekultur mot embetsstand, og vi opplever korleis den unge studenten må gi avkall på forholdet til sin eigen stand. I romanen Mannfolk (1886) set Garborg søkjelyset på seksual- og kjønnsmoralen, eit tema som var aktuelt i 1880-åra, og som vart omtalt meir ope i den naturalistiske litteraturen. 
+    | skreiv romanen 
+    em Bondestudentar 
+    | i 1883. Her møter vi ein ung student frå landet. Temaet er forholdet mellom by og land, bondekultur mot embetsstand, og vi opplever korleis den unge studenten må gi avkall på forholdet til sin eigen stand. I romanen 
+    em Mannfolk 
+    | (1886) set Garborg søkjelyset på seksual- og kjønnsmoralen, eit tema som var aktuelt i 1880-åra, og som vart omtalt meir ope i den naturalistiske litteraturen. 
 
   p Verken Ibsen, Bjørnson, Kielland eller Lie blir rekna som naturalistar i norsk litteratur, men dei var alle påverka av naturalismen og skreiv diktverk med klare naturalistiske trekk i denne perioden. 
 
-  p Henrik Ibsen viser gjennom dramaet Gengangere (1881) korleis Osvald, sonen i huset, går til grunne av den arvelege sjukdommen syfilis. Sjukdommen har han arva av faren, som har levd eit utsvevande liv i ungdommen. Arven frå faren innhentar han. I dramaet Over Ævne I (1883) og i diktet ”Salme II” (1880) tek Bjørnstjerne Bjørnson eit oppgjer med kristentrua si og hyllar Darwins utviklingslære. 
+  p Henrik Ibsen viser gjennom dramaet 
+    em Gengangere 
+    | (1881) korleis Osvald, sonen i huset, går til grunne av den arvelege sjukdommen syfilis. Sjukdommen har han arva av faren, som har levd eit utsvevande liv i ungdommen. Arven frå faren innhentar han. I dramaet 
+    em Over Ævne I 
+    | (1883) og i diktet ”Salme II” (1880) tek Bjørnstjerne Bjørnson eit oppgjer med kristentrua si og hyllar Darwins utviklingslære. 
 
-  p Jonas Lie skriv i romanen Livsslaven (1883) om korleis ein fattig gut blir sett bort og mishandla som barn. Det går bra med guten i ein periode, men han blir innhenta av sin eigen lagnad, og det endar tragisk. 
+  p Jonas Lie skriv i romanen 
+    em Livsslaven 
+    | (1883) om korleis ein fattig gut blir sett bort og mishandla som barn. Det går bra med guten i ein periode, men han blir innhenta av sin eigen lagnad, og det endar tragisk. 
 
   p
     strong Kristiania-bohemen 
@@ -338,25 +368,37 @@ PagePeriod(
     img(src="./Realisme_Naturalismen_Jaeger.jpg" alt="Mann i sofa med jakke og hatt. Illustrasjon.")
   p
     strong Hans Jæger (1854–1910)
-    | var ein framståande person i denne krinsen av forfattarar, kunstnarar og intellektuelle. Enda han ikkje hadde særleg litterært talent, gav han ut fleire romanar der han tok opp problem knytte til seksualitet og moral. Han rettferdiggjorde ”fri kjærleik” og meinte at det borgarlege ekteskapet og prostitusjonen var to sider av same sak. I begge tilfella levde kvinna eit ufritt liv på mannens premissar. Fra Kristiania-Bohêmen (1885) er hovudverket hans. Boka vart forboden, og Jæger måtte i fengsel for umoralsk forfattarverksemd. 
+    | var ein framståande person i denne krinsen av forfattarar, kunstnarar og intellektuelle. Enda han ikkje hadde særleg litterært talent, gav han ut fleire romanar der han tok opp problem knytte til seksualitet og moral. Han rettferdiggjorde ”fri kjærleik” og meinte at det borgarlege ekteskapet og prostitusjonen var to sider av same sak. I begge tilfella levde kvinna eit ufritt liv på mannens premissar. Fra 
+    em Kristiania-Bohêmen 
+    | (1885) er hovudverket hans. Boka vart forboden, og Jæger måtte i fengsel for umoralsk forfattarverksemd. 
 
   figure.col.col4.left-image
     img(src="./Realisme_Naturalismen_Krohg.jpg" alt="Portrettbilete av en mann med langt skjegg. Foto.")
   p
     strong Christian Krohg (1852–1925)
-    | skreiv også ein roman, Albertine (1886), som vart forboden og stempla som usømeleg. Romanen var eit innlegg i debatten om kjønnsmoral og viser korleis ei ung jente blir utnytta og driven ut i prostitusjon. Romanen er eit godt eksempel på samfunnsengasjert tendenslitteratur, og boka mobiliserte til motstand mot prostitusjonen. Som ein konsekvens av debatten som romanen reiste, vart offentleg prostitusjon avskaffa. Christian Krohg er mest kjend som målar, og han brukte også Albertine som motiv på fleire bilete, mellom anna det kjende biletet ”Albertine i politilegens venteværelse”. 
+    | skreiv også ein roman, 
+    em Albertine 
+    | (1886), som vart forboden og stempla som usømeleg. Romanen var eit innlegg i debatten om kjønnsmoral og viser korleis ei ung jente blir utnytta og driven ut i prostitusjon. Romanen er eit godt eksempel på samfunnsengasjert tendenslitteratur, og boka mobiliserte til motstand mot prostitusjonen. Som ein konsekvens av debatten som romanen reiste, vart offentleg prostitusjon avskaffa. Christian Krohg er mest kjend som målar, og han brukte også Albertine som motiv på fleire bilete, mellom anna det kjende biletet ”Albertine i politilegens venteværelse”. 
 
   h5 Reaksjonane på det moderne gjennombrotet – og gryande modernisme
 
   p Slutten av 1800-talet tilhøyrde forfattarane. Dei hadde makt og innverknad. Når dei sette problem under debatt, førte det til endringar på fleire samfunnsområde. Kvinnesak, undertrykking, seksualmoral, kyrkjemakt – dette er emne som forfattarane sette på saklista, og endringane kom gradvis. Trua på at mennesket er fritt, at verda stadig går framover, og at ein gjennom fornufta kan skape ei betre verd, var derfor tankar som vann fram i det norske folket. På mange måtar er dette sentrale tankar i eit moderne demokrati. 
 
-  p Men fleire av dei realistiske og naturalistiske tekstane møtte også motstand. At Nora i Et Dukkehjem forlèt mann og barn for å bli eit fritt menneske, var det ikkje alle som var like nøgde med. Frigjering kostar, og kanskje kan ho koste litt for mykje? Som vi har sett av dei naturalistiske tekstane, trudde ikkje alle forfattarane at mennesket var fritt, og at verda heile tida utvikla seg til det betre. Somme var skeptiske til framsteget. 
+  p Men fleire av dei realistiske og naturalistiske tekstane møtte også motstand. At Nora i 
+    em Et Dukkehjem 
+    | forlèt mann og barn for å bli eit fritt menneske, var det ikkje alle som var like nøgde med. Frigjering kostar, og kanskje kan ho koste litt for mykje? Som vi har sett av dei naturalistiske tekstane, trudde ikkje alle forfattarane at mennesket var fritt, og at verda heile tida utvikla seg til det betre. Somme var skeptiske til framsteget. 
 
   p Mot hundreårsskiftet ser vi at fleire forfattarar byrjar å problematisere moderniteten. Vi kan sjå ei endring i haldninga til dei tre f-ane i moderniteten:
   ul
-    li Frigjering: Er vi frie? Og kva kan vi i så fall bruke denne fridommen til? Ikkje alle opplevde den såkalla fridommen som like positivt, for prosessar som urbanisering og sekularisering førte for mange også til livssynskriser, framandgjering og manglande kjensle av å vere til stades i verda. Desse emna er også Ibsen inne på i skodespela sine frå 1880- og 1890-åra. 
-    li Framsteg: Går verda framover? Naturalismen målbar eit deterministisk og pessimistisk livssyn, utan den same trua på framsteget som realistane uttrykte. Hos Skram ser vi dette tydeleg. Men også hos Ibsen, Lie og Garborg kan vi merke ei utvikling mot eit mindre positivt syn på livet, utan den sterke framstegstrua frå tidlegare år. 
-    li Fornuft: Er mennesket så fornuftig? Og er det gjennom fornufta vi best kan forstå det særmerkte ved å vere menneske i verda? Kva med kjensler og med dei eksistensielle aspekta ved tilværet? Mot slutten av hundreåret byrjar Ibsen å fokusere meir på det indre sjelelivet. Og i 1890-åra kritiserer Hamsun realistane og naturalistane for å vere for opptekne av ”typar” i staden for enkeltmenneske. Når vi nærmar oss 1900-talet, ser vi ei generell dreiing mot meir psykologisk litteratur, der kjensler står i sentrum.
+    li 
+      em Frigjering
+      | : Er vi frie? Og kva kan vi i så fall bruke denne fridommen til? Ikkje alle opplevde den såkalla fridommen som like positivt, for prosessar som urbanisering og sekularisering førte for mange også til livssynskriser, framandgjering og manglande kjensle av å vere til stades i verda. Desse emna er også Ibsen inne på i skodespela sine frå 1880- og 1890-åra. 
+    li 
+      em Framsteg
+      | : Går verda framover? Naturalismen målbar eit deterministisk og pessimistisk livssyn, utan den same trua på framsteget som realistane uttrykte. Hos Skram ser vi dette tydeleg. Men også hos Ibsen, Lie og Garborg kan vi merke ei utvikling mot eit mindre positivt syn på livet, utan den sterke framstegstrua frå tidlegare år. 
+    li 
+      em Fornuft
+      | : Er mennesket så fornuftig? Og er det gjennom fornufta vi best kan forstå det særmerkte ved å vere menneske i verda? Kva med kjensler og med dei eksistensielle aspekta ved tilværet? Mot slutten av hundreåret byrjar Ibsen å fokusere meir på det indre sjelelivet. Og i 1890-åra kritiserer Hamsun realistane og naturalistane for å vere for opptekne av ”typar” i staden for enkeltmenneske. Når vi nærmar oss 1900-talet, ser vi ei generell dreiing mot meir psykologisk litteratur, der kjensler står i sentrum.
 
   p Den litteraturen som no følgjer, og som vi kallar nyromantisk og modernistisk, tematiserer nettopp dei eksistensielle vilkåra for menneska generelt og for den enkelte. Kva vil det seie å leve i eit samfunn? På kva måte verkar industrialisering, urbanisering og sekularisering inn på liva til folk? 
 
@@ -395,7 +437,13 @@ PagePeriod(
       img(src="./Realisme_Utviklingen_av_det_norske_spraaket_Knudsen.jpg" alt="Portrettbilete av mann med sløyfe. Foto")
       figcaption Knud Knudsen
   h5 Landsmålet vinn fram
-  p Ivar Aasen hadde no gjort seg ferdig med grammatikk, ordbok og tekstprøver av det han kalla landsmålet. Fleire forfattarar kjende seg meir heime i landsmålet enn i det danske skriftspråket. Aasmund Olavsson Vinje brukte berre landsmål i avisa Dølen, som kom ut frå 1858. Han gav òg ut reiseskildringar og diktsamlingar på landsmålet. Seinare følgde Arne Garborg opp, mellom anna i avisa Fedraheimen. Også romanane Bondestudentar og Fred og diktsamlinga Haugtussa (alle av Garborg) er eksempel på tekstar på landsmålet. 
+  p Ivar Aasen hadde no gjort seg ferdig med grammatikk, ordbok og tekstprøver av det han kalla landsmålet. Fleire forfattarar kjende seg meir heime i landsmålet enn i det danske skriftspråket. Aasmund Olavsson Vinje brukte berre landsmål i avisa Dølen, som kom ut frå 1858. Han gav òg ut reiseskildringar og diktsamlingar på landsmålet. Seinare følgde Arne Garborg opp, mellom anna i avisa Fedraheimen. Også romanane 
+    em Bondestudentar 
+    | og 
+    em Fred 
+    | og diktsamlinga 
+    em Haugtussa 
+    | (alle av Garborg) er eksempel på tekstar på landsmålet. 
 
   p I kyrkja vann landsmålet etter kvart fram, mellom anna i konfirmasjonsundervisninga. Kjende salmediktarar som Elias Blix og Anders Hovden brukte landsmål når dei dikta, og fleire prestar brukte tekstar på landsmål i gudstenesta. 
 
@@ -406,13 +454,43 @@ PagePeriod(
 
   p I tråd med tankane til Knudsen om ei gradvis fornorsking av dansken kom det ei avgrensa rettskrivingsreform i 1862, og seinare ei meir omfattande reform i 1907, som førte det danske skriftspråket nærare ”det dannede” talemålet. Ei rekkje danske skrivemåtar vart forenkla eller avløyste av skrivemåtar som samsvarte betre med norsk uttale.
   ul
-    li I dansk markerte ein lang vokal med dobbeltvokal eller stum e. No skulle lang vokal ikkje lenger markerast: Huus vart til ”Hus”, Meel til ”Mel” og troe til ”tro”. 
-    li Ein del framandord fekk forenkla skrivemåtar: Philosoph og Charakteer skulle no skrivast ”Filosof” og ”Karakter”.
-    li Danske “blaute konsonantar” (b, d, g) vart erstatta med norske “harde konsonantar” (p, t, k): For eksempel vart greb bytt ut med ”grep”, kage med ”kake” og gade med ”gate”.
-    li Mange substantiv fekk norske fleirtalsformer: Dansk huse og heste forsvann ut, inn kom ”hus” og ”hester”. 
-    li Ein del verb fekk meir talemålsnære former og endingar. For eksempel kunne have og blive no skrivast ”ha” og ”bli”, og i staden for kastede og levede heitte det no ”kastet” og ”levde”.
+    li I dansk markerte ein lang vokal med dobbeltvokal eller stum e. No skulle lang vokal ikkje lenger markerast: 
+      em Huus 
+      | vart til ”Hus”, 
+      em Meel 
+      | til ”Mel” og 
+      em troe 
+      | til ”tro”. 
+    li Ein del framandord fekk forenkla skrivemåtar: 
+      em Philosoph 
+      | og 
+      em Charakteer 
+      | skulle no skrivast ”Filosof” og ”Karakter”.
+    li Danske “blaute konsonantar” (b, d, g) vart erstatta med norske “harde konsonantar” (p, t, k): For eksempel vart 
+      em greb 
+      | bytt ut med ”grep”, 
+      em kage 
+      | med ”kake” og 
+      em gade 
+      | med ”gate”.
+    li Mange substantiv fekk norske fleirtalsformer: Dansk 
+      em huse 
+      | og 
+      em heste 
+      | forsvann ut, inn kom ”hus” og ”hester”. 
+    li Ein del verb fekk meir talemålsnære former og endingar. For eksempel kunne 
+      em have 
+      | og 
+      em blive 
+      | no skrivast ”ha” og ”bli”, og i staden for 
+      em kastede 
+      | og 
+      em levede 
+      | heitte det no ”kastet” og ”levde”.
 
-  p I 1887 vart rigsmål nemninga på det norske skriftspråket som var tufta på dansk. 
+  p I 1887 vart 
+    em rigsmål 
+    | nemninga på det norske skriftspråket som var tufta på dansk. 
 
   h5 Dei to målformene blir jamstilte 
   p I 1885 vedtok Stortinget at landsmålet og fornorska dansk skulle vere jamstilte målformer i skulen og i det offentlege. Dette jamstillingsvedtaket opna for landsmål som hovudmål for norske skuleelevar. No kunne skulekrinsen sjølv velje kva målform elevane skulle skrive på. 
@@ -427,10 +505,14 @@ PagePeriod(
 
   p Målarar som Christian Krohg (1852–1925) såg på seg sjølve som vitskapsmenn som skulle dokumentere det dei observerte. I detalj måla dei fattigfolk og skildra sosiale problem, og dei vekte debatt med bileta sine. Kunsten var ein kommentar til korleis det var å leve i den moderne verda. Industrialiseringa og urbaniseringa hadde sider ved seg som ikkje var til det beste for menneska. Uverdige arbeidstilhøve, dårlege bustader, fyll, slagsmål og prostitusjon var også ein del av bylivet.
 
-  p Måleriet ”Albertine i politilegens venteværelse” (1886–1887) er eit eksempel på eit typisk naturalistisk bilete. Her viser Christian Krohg fram livet til dei prostituerte i Kristiania. Saman med romanen Albertine, også skriven av Krohg, førte biletet til endringar i samfunnet. Den offentleg godkjende prostitusjonen vart avvikla. No kunne ikkje politiet lenger kalle inn prostituerte til legekontroll. Slike eksempel viser at også målarane var ein del av det moderne gjennombrotet. Dei trudde på kunsten som verkemiddel i utviklinga mot eit friare samfunn. 
+  p Måleriet ”Albertine i politilegens venteværelse” (1886–1887) er eit eksempel på eit typisk naturalistisk bilete. Her viser Christian Krohg fram livet til dei prostituerte i Kristiania. Saman med romanen 
+    em Albertine
+    | , også skriven av Krohg, førte biletet til endringar i samfunnet. Den offentleg godkjende prostitusjonen vart avvikla. No kunne ikkje politiet lenger kalle inn prostituerte til legekontroll. Slike eksempel viser at også målarane var ein del av det moderne gjennombrotet. Dei trudde på kunsten som verkemiddel i utviklinga mot eit friare samfunn. 
 
   h5 Teknologiske framsteg endrar kunsten
-  p Dei teknologiske framstega på 1800-talet førte med seg ei nyvinning som skulle endre vilkåra for målarkunsten. Til no var det målarane som hadde framstilt verda, men det endra seg da fotografiet kom. Rundt 1860 hadde utviklinga av fotografiapparatet komme så langt at fotografiet no kunne utfordre målarkunsten. Kvifor måle ein kopi av omverda når ein kunne avfotografere henne? Fotografane tok portrettbilete av rike borgarar – borgarar som tidlegare hadde betalt kunstnarar for å måle portrett av dei. I tillegg var fotografiet viktig for å formidle det som skjedde i den moderne verda. Dokumentar- og nyheitsbilete tok over for dei kunstnarlege scenebileta. Fotografia formidla eit sannare bilete av verda slik ho var – og folk fekk kjensla av å vere til stades i hendingane.
+  p Dei teknologiske framstega på 1800-talet førte med seg ei nyvinning som skulle endre vilkåra for målarkunsten. Til no var det målarane som hadde framstilt verda, men det endra seg da 
+    em fotografiet 
+    | kom. Rundt 1860 hadde utviklinga av fotografiapparatet komme så langt at fotografiet no kunne utfordre målarkunsten. Kvifor måle ein kopi av omverda når ein kunne avfotografere henne? Fotografane tok portrettbilete av rike borgarar – borgarar som tidlegare hadde betalt kunstnarar for å måle portrett av dei. I tillegg var fotografiet viktig for å formidle det som skjedde i den moderne verda. Dokumentar- og nyheitsbilete tok over for dei kunstnarlege scenebileta. Fotografia formidla eit sannare bilete av verda slik ho var – og folk fekk kjensla av å vere til stades i hendingane.
 
   p Fleire kunstnarar prøvde å integrere fotografiet i kunsten sin. Ønsket frå realistane og naturalistane om å måle dokumentarisk kan sjåast i samanheng med dette. Andre kunstnarar tok til å tenkje i nye banar. Impresjonistane ville heller fange inn eit inntrykk av ei hending enn å dokumentere situasjonen fotografisk. Dei tok med seg målarutstyret ut for å måle den moderne verda, som dei realistiske målarane. Byen var eit populært motiv, og kunstnarane var særleg opptekne av tilboda som folk kunne gjere bruk av i fritida. Ein kunstnar som Edgar Degas (1834–1917) måla inntrykk frå operaen, kafear, ballettar og barar.
 
@@ -459,7 +541,9 @@ PagePeriod(
   p 
     | Den største norske komponisten i siste halvdelen av 1800-talet var 
     strong Edvard Grieg (1843–1907)
-    |. Han blir rekna som den største klassiske komponisten her i landet nokon gong. Grieg var først og fremst nasjonalromantisk i stilen, og han fekk mykje å seie for identitets- og nasjonsbygginga mot slutten av hundreåret. I 1876 fekk Grieg i oppdrag av Henrik Ibsen å komponere musikken til ei teateroppsetjing av Peer Gynt. 
+    |. Han blir rekna som den største klassiske komponisten her i landet nokon gong. Grieg var først og fremst nasjonalromantisk i stilen, og han fekk mykje å seie for identitets- og nasjonsbygginga mot slutten av hundreåret. I 1876 fekk Grieg i oppdrag av Henrik Ibsen å komponere musikken til ei teateroppsetjing av 
+    em Peer Gynt
+    | . 
 
   p
     strong Rikard Nordraak (1842–1866)
@@ -489,7 +573,9 @@ PagePeriod(
 
   p Den industrielle produksjonen skulle sikre framgang i samfunnet – symaskinen skulle gjere det enklare og raskare å sy, skrivemaskinen skulle effektivisere skriving og lesing. Det var funksjonen til produktet som var viktig, all pynt og unødig utforming vart fjerna. 
 
-  p Ikkje alle var like positive til denne utviklinga. Den såkalla Arts and Crafts Movement meinte at berre handverket kunne sikre framsteg og fridom for menneska. Dei såg på ”brølet” frå fabrikkane som eit kulturelt forfall. 
+  p Ikkje alle var like positive til denne utviklinga. Den såkalla 
+    em Arts and Crafts Movement 
+    | meinte at berre handverket kunne sikre framsteg og fridom for menneska. Dei såg på ”brølet” frå fabrikkane som eit kulturelt forfall. 
 
 </template>
 

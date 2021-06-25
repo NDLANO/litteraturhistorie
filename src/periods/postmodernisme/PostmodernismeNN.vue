@@ -26,7 +26,11 @@ PagePeriod(
 
   p I mai 1968 kom det til kraftige samanstøytar mellom studentar og politi i Paris. Opprøret utvikla seg raskt til å bli ei politisk massemønstring, som har gitt namn til ein generasjon radikale studentar over heile den vestlege verda – dei såkalla sekstiåttarane. 
 
-  p I USA voks hippiekulturen fram i 1960-åra. Hippie kjem av det engelske ordet ”hip”, eit slanguttrykk for ”moderne og frigjort menneske”. Rockemusikk, alternativ livsstil og rusmiddel var sentrale element i hippieprotesten mot materialistiske verdiar og mot USAs krigføring i Vietnam.
+  p I USA voks 
+    em hippiekulturen 
+    | fram i 1960-åra. 
+    em Hippie 
+    | kjem av det engelske ordet ”hip”, eit slanguttrykk for ”moderne og frigjort menneske”. Rockemusikk, alternativ livsstil og rusmiddel var sentrale element i hippieprotesten mot materialistiske verdiar og mot USAs krigføring i Vietnam.
 
   figure.col.col4.left-image
     img(src="./Postmodernisme_Tida_og_samfunnsforhold3.jpg" alt="Fredeleg demonstrasjonstog mot EEC på Karl Johan med Slottet i bakgrunnen.Foto.")
@@ -87,16 +91,22 @@ PagePeriod(
     figcaption Aker Brygge i Oslo kan stå som symbol på postmoderne arkitektur i Norge. Foto: Vegard Grøtt / NTB Scanpix
 
   h5 Postmodernitet
-  p Omgrepet postmodernitet har sidan 1980-åra vore brukt som ei samnemning på den økonomiske og kulturelle stoda i dei vestlege landa i samtida. Ordet kan omsetjast med ”tida eller tenkinga etter moderniteten”. For å forstå omgrepet må vi derfor vite kva modernitet er for noko. 
+  p Omgrepet 
+    em postmodernitet 
+    | har sidan 1980-åra vore brukt som ei samnemning på den økonomiske og kulturelle stoda i dei vestlege landa i samtida. Ordet kan omsetjast med ”tida eller tenkinga etter moderniteten”. For å forstå omgrepet må vi derfor vite kva modernitet er for noko. 
 
-  p Modernitet kallar vi epoken frå opplysningstida og fram til vår tid. Dei sentrale ideane i denne epoken har vore ”dei tre f-ane”: trua på fridom, framsteg og fornuft. Vitskapleg og teknologisk utvikling og politisk og personleg fridom skulle leggje grunnlaget for at menneska fekk eit stadig betre og meir lykkeleg liv. Med fornufta som rettesnor skulle det vere mogleg å komme fram til absolutte sanningar i både vitskap, politikk og samfunnsliv. 
+  p 
+    em Modernitet 
+    | kallar vi epoken frå opplysningstida og fram til vår tid. Dei sentrale ideane i denne epoken har vore ”dei tre f-ane”: trua på fridom, framsteg og fornuft. Vitskapleg og teknologisk utvikling og politisk og personleg fridom skulle leggje grunnlaget for at menneska fekk eit stadig betre og meir lykkeleg liv. Med fornufta som rettesnor skulle det vere mogleg å komme fram til absolutte sanningar i både vitskap, politikk og samfunnsliv. 
 
   figure.col.col4.left-image
     img(src="./Postmodernisme_Tanker_i_tiden2.jpg" alt="Portrett av mann i kvit skjorte. Foto.")
     figcaption Jean-François Lyotard. Foto: Bracha L. Ettinger / Wikimedia Commons
 
   h5 Kritikk av moderniteten
-  p Postmoderne tenkjarar er kritiske til desse ideane. I boka Den postmoderne tilstand: En rapport om kunnskap (1979) skriv den franske filosofen <strong>Jean-François Lyotard</strong> (1924–1998) at ”de store fortellingene er døde”: Dei overordna ideane som har prega utviklinga i Vesten dei siste tre–fire hundre åra, er ikkje lenger innlysande sanningar. Vitskapen har medverka til å utvikle atomvåpen og kjemiske våpen, og trass i at den teknologiske utviklinga og industrialiseringa har betra levekåra for mange menneske, har ho òg skapt store globale miljø- og fattigdomsproblem.
+  p Postmoderne tenkjarar er kritiske til desse ideane. I boka 
+    em Den postmoderne tilstand: En rapport om kunnskap 
+    | (1979) skriv den franske filosofen <strong>Jean-François Lyotard</strong> (1924–1998) at ”de store fortellingene er døde”: Dei overordna ideane som har prega utviklinga i Vesten dei siste tre–fire hundre åra, er ikkje lenger innlysande sanningar. Vitskapen har medverka til å utvikle atomvåpen og kjemiske våpen, og trass i at den teknologiske utviklinga og industrialiseringa har betra levekåra for mange menneske, har ho òg skapt store globale miljø- og fattigdomsproblem.
 
   h5 Det postsekulære samfunnet
   p Trua på fridom og fornuft i opplysningstida førte til ei kritisk gransking av alle slags autoritetar, også av kyrkja. Gjennom dei siste 200 åra har det skjedd ein sekulariseringsprosess der både enkeltmennesket, kulturen og samfunnet i stadig større grad har frigjort seg frå religiøse autoritetar og normer. 
@@ -143,14 +153,20 @@ PagePeriod(
   p Ein lyrikar som vanskeleg lèt seg plassere innanfor ei retning, er <a href="https://www.nrk.no/kultur/georg-johannesen-om-kassandra-1.6849754" target="_blank"><strong>Georg Johannesen</strong></a> (1931–2005). Han debuterte i slutten av 1950-åra, men var med på å prege norsk litteratur og norsk litterær debatt i fleire tiår. Som politisk radikalar engasjerte han seg sterkt gjennom både dikt, essay, romanar og sakprosatekstar – ofte med eit kritisk blikk på Noreg og nordmenn.
 
   h5 Kjøpt: ja – lesen: tja 
-  p I 1965 vart innkjøpsordninga for nyskriven norsk skjønnlitteratur etablert. Ordninga er ein føresetnad for det mangfaldet vi etter kvart får av diktsamlingar i Noreg. Stortinget gjer vedtak om at 1000 eksemplar av dei fleste norske skjønnlitterære bøkene, prosa, drama, lyrikk og gjendiktingar av lyrikk, skal kjøpast inn av staten. Norsk kulturråd administrerer ordninga, og bøkene blir sende ut til folkebiblioteka rundt om i landet. 
+  p I 1965 vart 
+    em innkjøpsordninga for nyskriven norsk skjønnlitteratur 
+    | etablert. Ordninga er ein føresetnad for det mangfaldet vi etter kvart får av diktsamlingar i Noreg. Stortinget gjer vedtak om at 1000 eksemplar av dei fleste norske skjønnlitterære bøkene, prosa, drama, lyrikk og gjendiktingar av lyrikk, skal kjøpast inn av staten. Norsk kulturråd administrerer ordninga, og bøkene blir sende ut til folkebiblioteka rundt om i landet. 
 
   figure.col.col6.right-image
     img(src="./Postmodernisme_Litteraturen4.jpg" alt="Tre menn i samtale rundt stovebordet. Foto.")
     figcaption «Dei tre unge opprørarane frå gruppa kring det litterære tidsskriftet Profil» var teksten til dette biletet då det sto på trykk i 1966. Tor Obrestad, Paal-Helge Haugen og Einar Økland.  Foto: NTB / Scanpix
 
   h5 Profil-gruppa
-  p I 1965 samla ei gruppe venstreorienterte unge studentar, skribentar, forfattarar og intellektuelle seg og gav ut litteraturtidsskriftet Profil. Profil-forfattarane eksperimenterte med både prosa og lyrikk, og dei lanserte ei ny form for modernisme – Profil-modernismen eller nyenkel dikting. 
+  p I 1965 samla ei gruppe venstreorienterte unge studentar, skribentar, forfattarar og intellektuelle seg og gav ut litteraturtidsskriftet Profil. Profil-forfattarane eksperimenterte med både prosa og lyrikk, og dei lanserte ei ny form for modernisme – 
+    em Profil-modernismen 
+    | eller 
+    em nyenkel 
+    | dikting. 
 
   p Profil-lyrikarane henta inspirasjon frå mellom anna austleg haikudikting og skreiv dikt med kvardagslege og konkrete motiv. Språkleg lét dei seg inspirere av kvardagsspråk, munnleg sjargong, poptekstar og reklamespråk. Kjende Profil-lyrikarar er <strong>Jan Erik Vold</strong> (1939– ), <strong>Eldrid Lunden</strong> (1940– ), <strong>Einar Økland</strong> (1940– ) og <strong>Paal Helge Haugen</strong> (1945– ).
 
@@ -251,7 +267,13 @@ PagePeriod(
     img(src="./Postmodernisme_Litteraturen22.jpg" alt="Skalla mann med skjegg poserar med handa bak hovudet. Foto.")
     figcaption Lars Saabye Christensen
 
-  p <strong>Lars Saabye Christensen</strong> (1953– ) er ein av dei forfattarane som har selt mest i nyare tid. Frå 1980-åra har Saabye Christensen lykkast i å skrive kritikarrost litteratur for den breie massen. Romanar som Beatles (1984), Herman (1988) og Halvbroren (2001) har nesten ikonisk status for generasjonen som var ungdom i 60-åra. Det er ofte ein outsiderkarakter vi følgjer i romanane – ein karakter som blir skildra med varme og humor. 
+  p <strong>Lars Saabye Christensen</strong> (1953– ) er ein av dei forfattarane som har selt mest i nyare tid. Frå 1980-åra har Saabye Christensen lykkast i å skrive kritikarrost litteratur for den breie massen. Romanar som 
+    em Beatles 
+    | (1984), 
+    em Herman 
+    | (1988) og 
+    em Halvbroren 
+    | (2001) har nesten ikonisk status for generasjonen som var ungdom i 60-åra. Det er ofte ein outsiderkarakter vi følgjer i romanane – ein karakter som blir skildra med varme og humor. 
 
   .clear 
   .mt20
@@ -260,7 +282,9 @@ PagePeriod(
     img(src="./Postmodernisme_Litteraturen23.jpg" alt="Portrett av langhåra mann med briller. Foto.")
     figcaption Ingvar Ambjørnsen
 
-  p <strong>Ingvar Ambjørnsen</strong> (1956– ) er ein annan forfattar som har skrive om outsiderar, og som tradisjonelt har hatt ein sterk posisjon i skulen. Romanen Hvite niggere (1986) er forteljinga om nokre kameratar som blir dregne meir og meir inn i eit rusmiljø. Tittelen siktar til at hovudpersonane oppfattar seg sjølve som utstøytte individ i samfunnet. Ambjørnsen er òg svært kritisk til tilbodet som psykiatriske pasientar får i Noreg, og gjennom bøkene sine om Elling skildrar han varmt og menneskeleg livet til ein psykiatrisk pasient. 
+  p <strong>Ingvar Ambjørnsen</strong> (1956– ) er ein annan forfattar som har skrive om outsiderar, og som tradisjonelt har hatt ein sterk posisjon i skulen. Romanen 
+    em Hvite niggere 
+    | (1986) er forteljinga om nokre kameratar som blir dregne meir og meir inn i eit rusmiljø. Tittelen siktar til at hovudpersonane oppfattar seg sjølve som utstøytte individ i samfunnet. Ambjørnsen er òg svært kritisk til tilbodet som psykiatriske pasientar får i Noreg, og gjennom bøkene sine om Elling skildrar han varmt og menneskeleg livet til ein psykiatrisk pasient. 
 
   NrkVideo(id="3244")
 
@@ -289,9 +313,13 @@ PagePeriod(
     figcaption Ei scene frå «Rambuku» av Jon Fosse på Det Norske Teatret, med Ragnhild Hilt og Svein  Erik Brodal. Foto: Carl Martin Nordby / Scanpix
 
   h5 Språkleik og sjangerblanding
-  p Litteraturen i tiåret før og etter tusenårsskiftet er omfattande og mangslungen. Tida vil vise kva som er mest karakteristisk for vår tid, men éi endring er tydeleg etter 1985: Postmodernismen er komen til Noreg. Forfattarane eksperimenterer med det litterære formspråket, dei blandar sjangrar, leiker med språkformer og stilar og kombinerer ”fint” og folkeleg. Dessutan låner dei frå andre tekstar og andre forfattarar, eit trekk vi kallar intertekstualitet. 
+  p Litteraturen i tiåret før og etter tusenårsskiftet er omfattande og mangslungen. Tida vil vise kva som er mest karakteristisk for vår tid, men éi endring er tydeleg etter 1985: 
+    em Postmodernismen 
+    | er komen til Noreg. Forfattarane eksperimenterer med det litterære formspråket, dei blandar sjangrar, leiker med språkformer og stilar og kombinerer ”fint” og folkeleg. Dessutan låner dei frå andre tekstar og andre forfattarar, eit trekk vi kallar intertekstualitet. 
 
-  p Postmoderne tekstar er ofte metafiksjonale. Med det meiner vi at forfattaren bruker grep som viskar ut grensene mellom røyndom og fiksjon. Forfattaren kan for eksempel kommentere skriveprosessen sin i forteljinga, eller han kan sjølv medverke som figur der. 
+  p Postmoderne tekstar er ofte 
+    em metafiksjonale
+    | . Med det meiner vi at forfattaren bruker grep som viskar ut grensene mellom røyndom og fiksjon. Forfattaren kan for eksempel kommentere skriveprosessen sin i forteljinga, eller han kan sjølv medverke som figur der. 
 
   p I kva grad kan språket skildre røyndomen? Og korleis kan det poetiske språket fange og skildre andre sider ved røyndomen enn den likeframme, realistiske framstillingsmåten? Er det i det heile nokon vits i å prøve? Slike spørsmål fengslar elles svært ulike forfattarar som Kjartan Fløgstad, Jon Fosse (1959– ) og Cecilie Løveid (1951– ). 
 
@@ -305,7 +333,9 @@ PagePeriod(
   h5 Kommersielle suksessar
   p I 1990- og 2000-åra peiker <strong>Anne B. Ragde</strong> (1957– ) og <strong>Tore Renberg</strong> (1972– ) seg ut som to tradisjonelle forfattarar med stor suksess – Ragde med sin romantrilogi om Torunn som arvar ein gard etter ein far ho aldri har kjent, og Renberg med sin serie om Jarle Klepp, ei humoristisk skildring av korleis det var å vere ung i 1990-åra.
 
-  p I tillegg kjem <strong>Jostein Gaarders</strong> (1952– ) filosofiske ungdomsroman Sofies verden (1991), som er omsett til 54 språk og har selt i over 30 millionar eksemplar. 
+  p I tillegg kjem <strong>Jostein Gaarders</strong> (1952– ) filosofiske ungdomsroman 
+    em Sofies verden 
+    | (1991), som er omsett til 54 språk og har selt i over 30 millionar eksemplar. 
 
   .flex.portretter
     figure.m1rem
@@ -362,9 +392,15 @@ PagePeriod(
     figcaption Gard B. Eidsvold og Helle Haugen i ei scene frå Centralteatret si oppsetjing av teaterstykket «Tatt av kvinnen», som byggjer på romanen til Erlend Loe. Foto: Erlend Aas / Scanpix
 
   h5 Den postmoderne mannen – ”tatt av kvinnen” 
-  p Også i den postmoderne litteraturen er kjønnsroller eit gjennomgangstema, og det postmoderne perspektivet er ofte mannens perspektiv. Mennene har mist evna til å ta initiativ overfor kvinna – dei veit ikkje lenger kva kvinner vil ha. Dette ser vi særleg i Fatso (2003) av <strong>Lars Ramslie</strong> (1974– ) og i Tatt av kvinnen (1993) av <strong>Erlend Loe</strong> (1969– ). Dei mannlege karakterane er her tafatte og einsame og heilt prisgitt ei aktiv kvinne. 
+  p Også i den postmoderne litteraturen er kjønnsroller eit gjennomgangstema, og det postmoderne perspektivet er ofte mannens perspektiv. Mennene har mist evna til å ta initiativ overfor kvinna – dei veit ikkje lenger kva kvinner vil ha. Dette ser vi særleg i 
+    em Fatso 
+    | (2003) av <strong>Lars Ramslie</strong> (1974– ) og i 
+    em Tatt av kvinnen 
+    | (1993) av <strong>Erlend Loe</strong> (1969– ). Dei mannlege karakterane er her tafatte og einsame og heilt prisgitt ei aktiv kvinne. 
 
-  p I Dyp rød 315 (2001) av <strong>Helene Uri</strong> (1964– ) møter vi ei kvinne som reduserer mannen til eit objekt og ein gjenstand på lik linje med skjerf og hanskar. Den kvinnelege hovudkarakteren Gina Beck solar seg i glansen av ein mann som ho trær på armen som ei ny veske. Og når denne mannen ikkje lenger tilfredsstiller behova hennes, byter ho han ut. 
+  p I 
+    em Dyp rød 315 
+    | (2001) av <strong>Helene Uri</strong> (1964– ) møter vi ei kvinne som reduserer mannen til eit objekt og ein gjenstand på lik linje med skjerf og hanskar. Den kvinnelege hovudkarakteren Gina Beck solar seg i glansen av ein mann som ho trær på armen som ei ny veske. Og når denne mannen ikkje lenger tilfredsstiller behova hennes, byter ho han ut. 
 
   figure.col.col4.right-image
     img(src="./Postmodernisme_Litteraturen41.jpg" alt="Kvinneleg forfattar på bokbad. Foto. ")
@@ -377,7 +413,11 @@ PagePeriod(
     img(src="./Postmodernisme_Litteraturen42.jpg" alt="Mann med kort hår, skjeggstubbar og skinnjakke. Foto. ")
     figcaption Karl Ove Knausgård. Foto: Tore Meek / Scanpix
 
-  p Desse spørsmåla har vorte særleg aktuelle etter dommen mot <strong>Åsne Seierstad</strong> (1970– ) i 2010. Seierstad vart dømd til å betale Shah Mohammad Rais erstatning for å ha basert romanen Bokhandleren i Kabul (2002) på livet til Rais og hans familie. Også det veldige seksbindsverket til <strong>Karl Ove Knausgård</strong> (1968– ), Min Kamp (2009–2011), synleggjer etiske dilemma ved å skrive så tett opp til eige liv og røynsle: Kva skjer når ekskoner, nære familiemedlemmer og ein avdød far blir romankarakterar? 
+  p Desse spørsmåla har vorte særleg aktuelle etter dommen mot <strong>Åsne Seierstad</strong> (1970– ) i 2010. Seierstad vart dømd til å betale Shah Mohammad Rais erstatning for å ha basert romanen 
+    em Bokhandleren i Kabul 
+    | (2002) på livet til Rais og hans familie. Også det veldige seksbindsverket til <strong>Karl Ove Knausgård</strong> (1968– ), 
+    em Min Kamp 
+    | (2009–2011), synleggjer etiske dilemma ved å skrive så tett opp til eige liv og røynsle: Kva skjer når ekskoner, nære familiemedlemmer og ein avdød far blir romankarakterar? 
 
   NrkVideo.mt20(id="5980")
 
@@ -463,7 +503,11 @@ PagePeriod(
     altText="Mannleg saksofonist på scene. Foto."    
     )
     h5 Jan Garbarek 
-    p (1947– ) er ein av få norske musikarar med internasjonal aksept som stilskapar innanfor jazzen. Garbarek er kjend for å blande inn folketonar i jazzen, og for sitt samarbeid med poeten Jan Erik Vold. Album som Briskeby Blues (1969) og Ingentings bjeller (1977) nådde eit breitt publikum. 
+    p (1947– ) er ein av få norske musikarar med internasjonal aksept som stilskapar innanfor jazzen. Garbarek er kjend for å blande inn folketonar i jazzen, og for sitt samarbeid med poeten Jan Erik Vold. Album som 
+      em Briskeby Blues 
+      | (1969) og 
+      em Ingentings bjeller 
+      | (1977) nådde eit breitt publikum. 
 
   ImageTextBlock(
     :image="require(`./Postmodernisme_Andre_kunstformer11.jpg`)"
@@ -481,9 +525,13 @@ PagePeriod(
     img(src="./Postmodernisme_Andre_kunstformer12.jpg" alt="Kvinne foran mange mikrofonar på ein pressekonferanse. Foto.")
     figcaption I dag finst det eit mangfald av tv- og radiokanalar som formidlar nyheiter til norske sjåarar og lyttarar. Biletet er teke i 2007 og viser ein pressekonferanse med dåverande LO-leiar Gerd-Liv Valla. Foto: Knut Erik Knudsen / VG /Scanpix
 
-  p Eit typisk trekk ved moderne mediehistorie er kommersialisering. Eit ledd i kommersialiseringa av media er meir tabloidisering og kjendisdyrking. Avisene VG og Dagbladet og vekebladet Se og Hør representerer på ulike måtar presse som bruker kjendis- og livsstilsstoff for å nå ut til eit større publikum. Men også tv og radio sel kjendisstoff – og dei skaper kjendisar. 
+  p Eit typisk trekk ved moderne mediehistorie er 
+    em kommersialisering
+    | . Eit ledd i kommersialiseringa av media er meir tabloidisering og kjendisdyrking. Avisene VG og Dagbladet og vekebladet Se og Hør representerer på ulike måtar presse som bruker kjendis- og livsstilsstoff for å nå ut til eit større publikum. Men også tv og radio sel kjendisstoff – og dei skaper kjendisar. 
 
-  p I dag er mediebiletet prega av globalisering. Store delar av verda er no berre eit tastetrykk eller ein av-og-på-knapp unna. Særleg har Internett sett fart i denne globaliseringstendensen. Både Internett og mobiltelefonen fekk sitt gjennombrot i midten av 1990-åra, og dei har sidan skapt store endringar i kvardagen til folk. 
+  p I dag er mediebiletet prega av 
+    em globalisering
+    | . Store delar av verda er no berre eit tastetrykk eller ein av-og-på-knapp unna. Særleg har Internett sett fart i denne globaliseringstendensen. Både Internett og mobiltelefonen fekk sitt gjennombrot i midten av 1990-åra, og dei har sidan skapt store endringar i kvardagen til folk. 
 
   p Eit anna typisk trekk ved media etter 2005 er den auka bruken av sosiale medium, for eksempel bloggar, Facebook, Twitter, YouTube og Instagram. Vi ser òg tendensar til at desse media påverkar tradisjonelle medium, og denne utviklinga vil vi sikkert sjå meir av i framtida. 
 
