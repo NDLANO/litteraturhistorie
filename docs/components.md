@@ -2,6 +2,18 @@
 
 For å forenkle innlegging av data har vi laget noen egne komponenter.
 
+## PagePeriod og PageBook
+
+Dette er hovedkomponentene for henholdsvis perioder og bøker. Alle artikkelsider for perioder og bøker bør bruke disse.
+
+I `src/books/_templastes` ligger det to tomme filer, en for bokmål, en for nynorsk, som kan brukes som utgangspunkt for både nye bøker og nye perioder.
+
+Her ligger `PageBook` som eneste komponent i roten. Skal man lage en ny periode erstattes denne med `PagePeriod`. **NB! Husk å oppdatere import og components i `<script>`-delen av koden også.**
+
+![Book template](./book_template.JPG)
+
+Alt innholdet legges en `tab` inn (og erstatter `p Bokmålsinnhold plasseres her`).
+
 ## NdlaAudio
 
 Komponenten brukes for å spille av lydfiler. Basert på [Plyr](https://plyr.io/) open source media player.
@@ -26,7 +38,7 @@ Komponent for å spille av video. Basert på [Plyr](https://plyr.io/) open sourc
 
 Har følgende parametre:
 
-`source` - URL til videofilen. Kan både være lokal eller ekstern URL.
+`source` - URL til videofilen. Kan både være lokal URL, ekstern URL eller URL til YouTube. For lokale URLer er roten `/public`.
 
 `captionsUrl` - URL til `.vtt` fil med teksting. Ikke nødvendig.
 
