@@ -223,7 +223,7 @@ export default [
     meta: {
       title: "Nyromantikk",
       from: "1890",
-      to: "1900",
+      to: "1905",
       color: "0xCC3300",
       fillColor: "0xe5997f",
       y: "0",
@@ -241,7 +241,7 @@ export default [
     meta: {
       title: "Nyromantikk",
       from: "1890",
-      to: "1900",
+      to: "1905",
       color: "0xCC3300",
       fillColor: "0xe5997f",
       y: "0",
@@ -258,7 +258,7 @@ export default [
     name: "NyrealismeNN",
     meta: {
       title: "Nyrealisme og modernisme",
-      from: "1900",
+      from: "1905",
       to: "1930",
       color: "0xFF9900",
       fillColor: "0xFFCC7F",
@@ -276,7 +276,7 @@ export default [
     name: "NyrealismeNB",
     meta: {
       title: "Nyrealisme og modernisme",
-      from: "1900",
+      from: "1905",
       to: "1930",
       color: "0xFF9900",
       fillColor: "0xFFCC7F",
