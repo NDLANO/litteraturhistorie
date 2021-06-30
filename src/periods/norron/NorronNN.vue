@@ -338,7 +338,7 @@ PagePeriod(
     figcaption Kong Sigurd og kong Baldvine rir frå Jorsalaborg til elva Jordan. Illustrasjon frå Snorre av Gerhard Munthe
 
   p
-    | Den norrøne perioden strekkjer seg over 600 år, frå litt før 800 til rundt år 1350. Språket som blir snakka i Noreg og på Island i denne perioden, kallar vi norrønt. Språket endrar seg sjølvsagt også gjennom desse 600 åra, men endringane er mindre og skjer litt etter litt. I boka Kongsspegelen kan du høyre norrønt slik vi trur det klang på 1200-talet.  
+    | Den norrøne perioden strekkjer seg over 600 år, frå litt før 800 til rundt år 1350. Språket som blir snakka i Noreg og på Island i denne perioden, kallar vi norrønt. Språket endrar seg sjølvsagt også gjennom desse 600 åra, men endringane er mindre og skjer litt etter litt.
 
   p
     | Runeinnskriftene er framleis ei viktig språkleg kjelde. Men mens det urnordiske runealfabetet omfatta 24 ulike teikn, er talet på runer redusert til 16 i norrøn tid. Somme av runeteikna står no for to eller fleire lydar. Teiknet u står for eksempel både for 
