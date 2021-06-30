@@ -92,7 +92,9 @@ PagePeriod(
   div.mb60
     figure.col.col4.left-image.mt5
       img(src="./Humanisme_Tanker_i_tida2.jpg" alt="Mann med langt hår og jakke som vinkar. Måleri.")
-      figcaption Copernicus med det nye biletet av universet, måleri av Jan Matejko
+      figcaption Copernicus med det nye biletet av universet. 
+        em Conversations with God
+        | . Måleri av Jan Matejko
     h5.mt20 Eit nytt menneskesyn 
     p
       | Synet på mennesket endrar seg. Gjennom heile mellomalderen har menneska orientert seg mot Gud og livet etter døden. Med renessansen kjem mennesket sjølv og det jordiske livet i fokus. 
