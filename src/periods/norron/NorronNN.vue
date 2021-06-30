@@ -223,7 +223,7 @@ PagePeriod(
 
 
 
-  h3 Den yngre Edda  
+  h3 Snorre og Den yngre Edda  
   ImageTextBlock(
     :image="require(`./Norroen_Den_yngre_Edda.jpg`)"
     imageColumns="5"
