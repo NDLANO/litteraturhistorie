@@ -297,7 +297,7 @@ PagePeriod(
   h5.mt40 URNORDISK TID  
   figure.col.col5.right-image.mt20
     img(src="./Norroen_Litt_om_spraaket1.jpg" alt="En kongelig mann med pelsjakke og hatt poserer med et alvorspreget uttrykk. Illustrasjon.")
-    figcaption Hunarkongen Attila (Atle), fra en svensk utgave av Den eldre Edda (1893)
+    figcaption Hunerkongen Attila (Atle), fra en svensk utgave av Den eldre Edda (1893)
   p
     | Den eldste perioden i språkhistorien vår heter urnordisk tid. Perioden strekker seg fra om lag år 200 til år 800. Den viktigste kilden til kunnskap om språket fra denne tida er runeinnskrifter. Et særtrekk ved urnordisk er at ordene er klangfulle, vokalrike og lange, med atskillig flere stavelser enn i moderne norsk. I utdraget av ”Atlekvadet” (professor Arne Torp) får du et inntrykk av hvordan urnordisk hørtes ut.  
 
