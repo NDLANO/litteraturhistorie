@@ -128,6 +128,9 @@ export const periods = [
     to: "2020",
     layer: 0,
     left: 0,
-    yearMarkings: [[1960, 930], [2020, 30]],
+    yearMarkings: [
+      [1960, 930],
+      [2020, 30],
+    ],
   },
 ];
