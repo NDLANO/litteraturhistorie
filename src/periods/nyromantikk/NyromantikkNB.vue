@@ -8,7 +8,10 @@ PagePeriod(
 
   h3 Tida og samfunnsforholdene
 
-  img.col.col5.left-image(src="./Nyromantikk_Tida_og_samfunnsforholdene1.jpg" alt="Åpningsseremoni med damplokomotiv og folkemengde. Foto.")
+  figure.col.col5.left-image
+    img(src="./Nyromantikk_Tida_og_samfunnsforholdene1.jpg" alt="Åpningsseremoni med damplokomotiv og folkemengde. Foto.")
+    figcaption Bilde fra sammenkoblingen av Bergensbanen
+
   p På slutten av 1800-tallet var Norge et samfunn i blomstring. En stadig større del av folket fikk skolegang og utdanning, og med industrien kom nye arbeidsplasser. Arbeiderklassen var i vekst og organiserte seg politisk, det samme gjorde kvinnene. Den teknologiske framgangen førte menneskene sammen – jernbane, bedre veier, telegraf og telefon gjorde det lettere å holde kontakt. 
 
   p Med den industrielle revolusjonen vokste det fram en helt ny samfunnsklasse, arbeiderklassen. Etter hvert ble dette en sterk samfunnsgruppe. Landsorganisasjonen (LO) ble grunnlagt i 1899, og fra nå av var det lettere for arbeiderne å stå samlet og støtte hverandre i kampen for rettigheter i arbeidslivet. I perioden 1884–1887 ble også de tre store politiske partiene Venstre, Høyre og Arbeiderpartiet stiftet. De to siste tiårene av 1800-tallet var i det hele en aktiv tid for utviklingen av norske organisasjoner.
@@ -27,7 +30,12 @@ PagePeriod(
 
   h3 Tanker i tida
 
-  img.col.col6.right-image(src="./Nyromantikk_Tanker_i_tida1.jpg" alt="Dame i festkjole og hårpynt. Maleri.")
+  figure.col.col6.right-image
+    img(src="./Nyromantikk_Tanker_i_tida1.jpg" alt="Dame i festkjole og hårpynt. Maleri.")
+    figcaption
+      em La Goulue ankommer Moulin Rouge. 
+      | (1892). Henri Toulouse-Lautrec. 
+
   h5 ”Fin de siècle”
   p ”Fin de siècle” er fransk og betyr slutten av århundret. Begrepet blir også brukt i betydningen slutten på en æra, og sammenfatter en grunnstemning som vi finner over hele Europa i perioden fra 1890 fram til første verdenskrig. Forfattere og andre kunstnere var opptatt av at århundret snart var slutt, og at en epoke var over. Men hva var det som skulle komme? Tida var preget av motstridende tankestrømmer og følelser: frykt for at det kjente samfunnet skulle gå under, men også en følelse av at nye og bedre tider var i vente. 
 
@@ -96,8 +104,12 @@ PagePeriod(
 
   //- .mt20
 
+  figure.col.col7.right-image
+    img(src="./Nyromantikk_og_det_ubevisste_sjaeleliv.jpg" alt="To personer jobber i hagen som ligger ved et vann. Maleri.")
+    figcaption
+      em Maimåne 
+      | av Nikolai Astrup
 
-  img.col.col7.right-image(src="./Nyromantikk_og_det_ubevisste_sjaeleliv.jpg" alt="To personer jobber i hagen som ligger ved et vann. Maleri.")
   p I 1890 holdt Knut Hamsun et foredrag med tittelen ”Fra det ubevidste sjæleliv”. Her kritiserte han realismen og kom med et programskrift for en ny type litteratur. Hamsun mente at realistene fokuserte for mye på ”forlovelser og ball og landturer”, det vil si den ytre handlingen, og at karakterene i de realistiske verkene var typer, ikke individer. Han hevdet at en litteratur for samtida heller burde interessere seg for sjelelige tilstander hos enkeltmennesket. 
 
   p Både Hamsun selv og Arne Garborg, Sigbjørn Obstfelder og Hans E. Kinck begynte nå å skildre stemninger og følelser, sjeleliv og spiritisme. De utforsket ofte de dunkle, irrasjonelle og mystiske sidene ved mennesket, og de hentet inspirasjon fra folkediktning, myter og religiøs tenkning. Denne nye retningen i litteraturen har fått navnet nyromantikken. 
@@ -138,7 +150,12 @@ PagePeriod(
 
   h3 Modernismen 
 
-  img.col.col7.right-image(src="./Nyromantikk_Modernismen1.jpg" alt="Konsentrert kunstner med pensler og lerret. Maleri.")
+  figure.col.col7.right-image
+    img(src="./Nyromantikk_Modernismen1.jpg" alt="Konsentrert kunstner med pensler og lerret. Maleri.")
+    figcaption
+      em Selvportrett 
+      | (1889). Vincent van Gogh
+
   p ”Make it new” kan stå som slagord for modernismen. Felles for alle de modernistiske tekstene er at de 
     em bryter 
     | med tradisjonelle kunstidealer. Gjennom eksperimenter med form og språk utfordres publikum til å tenke nytt. 

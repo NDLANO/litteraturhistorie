@@ -9,6 +9,8 @@ PagePeriod(
   h5 Kyrkja mister makt 
   figure.col.col6.right-image.mt5
     img(src="./Barokk_Tida_og_samfunnsforholdene1.jpg" alt="Portrettbilete av tre vaksne, ei lita jente og ein leikande hund. Måleri.")
+    figcaption Ludvig XIV av Frankrike og familien hans
+
   p.mt0
     | Kyrkja mister mykje av den makta ho hadde i mellomalderen, men denne makta går ikkje til folket. Det er kongane i dei ulike landa i Europa som samlar makta og får større kontroll over kyrkja. 
 
@@ -72,6 +74,9 @@ PagePeriod(
 
   figure.col.col4.left-image.mt5
     img(src="./Barokk_Kjennetegn_ved_barokkstilen2.jpg" alt="Mann blir korsfesta og tre personar prøver å løfte korset. Måleri.")    
+    figcaption
+      em Peters korsfesting
+      | . Måleri av Caravaggio
 
   h5 Konflikt og dramatikk 
   p 

@@ -7,7 +7,10 @@ PagePeriod(
 
   h3 Tida og samfunnstilhøva
 
-  img.col.col5.left-image(src="./Nyromantikk_Tida_og_samfunnsforholdene1.jpg" alt="Åpningsseremoni med damplokomotiv og folkemengde. Foto.")
+  figure.col.col5.left-image
+    img(src="./Nyromantikk_Tida_og_samfunnsforholdene1.jpg" alt="Åpningsseremoni med damplokomotiv og folkemengde. Foto.")
+    figcaption Bilde frå samankoplinga av Bergensbanen
+
   p På slutten av 1800-talet var Noreg eit samfunn i blomstring. Ein stadig større del av folket fekk skulegang og utdanning, og med industrien kom nye arbeidsplassar. Arbeidarklassen var i vekst og organiserte seg politisk, det same gjorde kvinnene. Dei teknologiske framstega førte menneska saman – jernbane, betre vegar, telegraf og telefon gjorde det lettare å halde kontakt. 
 
   p Med den industrielle revolusjonen voks det fram ein heilt ny samfunnsklasse, arbeidarklassen. Etter kvart vart dette ei sterk samfunnsgruppe. Landsorganisasjonen (LO) vart skipa i 1899, og frå no av var det lettare for arbeidarane å stå samla og støtte kvarandre i kampen for rettar i arbeidslivet. I perioden 1884–1887 vart også dei tre store politiske partia Venstre, Høgre og Arbeidarpartiet stifta. Dei to siste tiåra av 1800-talet var i det heile ei aktiv tid for utviklinga av norske organisasjonar. 
@@ -24,7 +27,12 @@ PagePeriod(
 
   h3 Tankar i tida
 
-  img.col.col6.right-image(src="./Nyromantikk_Tanker_i_tida1.jpg" alt="Dame i festkjole og hårpynt. Måleri.")
+  figure.col.col6.right-image
+    img(src="./Nyromantikk_Tanker_i_tida1.jpg" alt="Dame i festkjole og hårpynt. Måleri.")
+    figcaption
+      em La Goulue ankommer Moulin Rouge. 
+      | (1892). Henri Toulouse-Lautrec. 
+
   h5 ”Fin de siècle”
   p ”Fin de siècle” er fransk og tyder slutten av hundreåret. Omgrepet blir òg brukt i tydinga slutten på ein æra, og summerer opp ei grunnstemning som vi finn over heile Europa i perioden frå 1890 fram til første verdskrigen. Forfattarar og andre kunstnarar var opptekne av at hundreåret snart var slutt, og at ein epoke var over. Men kva var det som skulle kome? Tida var prega av motstridande tankestraumar og kjensler: frykt for at det kjende samfunnet skulle gå under, men òg ei kjensle av at nye og betre tider var i vente. 
 
@@ -94,7 +102,12 @@ PagePeriod(
 
   //- .mt20
 
-  img.col.col7.right-image(src="./Nyromantikk_og_det_ubevisste_sjaeleliv.jpg" alt="To personar jobber i hagen som ligg ved eit vatn. Måleri.")
+  figure.col.col7.right-image
+    img(src="./Nyromantikk_og_det_ubevisste_sjaeleliv.jpg" alt="To personar jobber i hagen som ligg ved eit vatn. Måleri.")
+    figcaption
+      em Maimåne 
+      | av Nikolai Astrup
+
   p I 1890 heldt Knut Hamsun eit foredrag med tittelen ”Fra det ubevidste sjæleliv”. Her kritiserte han realismen og kom med eit programskrift for ein ny type litteratur. Hamsun meinte at realistane fokuserte for mykje på ”forlovelser og ball og landturer”, det vil seie den ytre handlinga, og at karakterane i dei realistiske verka var typar, ikkje individ. Han hevda at ein litteratur for samtida heller burde interessere seg for sjelelege tilstandar hos enkeltmennesket. 
 
   p Både Hamsun sjølv og Arne Garborg, Sigbjørn Obstfelder og Hans E. Kinck byrja no å skildre stemningar og kjensler, sjeleliv og spiritisme. Dei utforska ofte dei dunkle, irrasjonelle og mystiske sidene ved mennesket, og dei henta inspirasjon frå folkedikting, mytar og religiøs tenking. Denne nye retninga i litteraturen har fått namnet nyromantikken. 
@@ -134,7 +147,11 @@ PagePeriod(
 
   h3 Modernismen 
 
-  img.col.col7.right-image(src="./Nyromantikk_Modernismen1.jpg" alt="Konsentrert kunstnar med penslar og lerret. Måleri.")
+  figure.col.col7.right-image
+    img(src="./Nyromantikk_Modernismen1.jpg" alt="Konsentrert kunstnar med penslar og lerret. Måleri.")
+    figcaption
+      em Selvportrett 
+      | (1889). Vincent van Gogh
   p ”Make it new” kan stå som slagord for modernismen. Felles for alle dei modernistiske tekstane er at dei 
     em bryt 
     | med dei tradisjonelle kunstideala. Gjennom eksperiment med form og språk blir publikum utfordra til å tenkje nytt. 

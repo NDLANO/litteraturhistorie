@@ -9,7 +9,9 @@ PagePeriod(
 
   figure
     img(src="./Romantikk_Tida_og_samfunnaforholdene1.jpg" alt="Mann som les omringa av ei forsamling som lyttar. Måleri.")
-    figcaption Riksforsamlinga på Eidsvoll i 1814. Måleri av Oscar Arnold Wergeland
+    figcaption
+      em Eidsvold 1814
+      | . Måleri av Oscar Arnold Wergeland
 
   h5 Debatt om kultur og språk
   p
@@ -50,7 +52,9 @@ PagePeriod(
   h3 Stilretninga
   figure.col.col4.left-image
     img(src="./Romantikk_Stilretningen1.jpg" alt="Menneske leikar utanfor eit stabbur på vinterstid. Måleri.")
-    figcaption Adolph Tidemand: ”Norsk Juleskik” (1846)
+    figcaption
+      em Norsk Juleskik 
+      | (1846) av Adolph Tidemand    
 
   h5 Ei ny retning og ei ny tid
   p
@@ -63,7 +67,10 @@ PagePeriod(
 
   figure
     img(src="./Romantikk_Stilretningen2.jpg" alt="Grønn vegetasjon rundt eit vatn. Måleri.")
-    figcaption Lars Hertervig: ”Skogtjern” (1865)
+    figcaption
+      em Skogtjern 
+      | (1865) av Lars Hertervig
+
 
   h5 Det gode livet
   p
@@ -76,7 +83,9 @@ PagePeriod(
 
   figure.col.col6.left-image.mt10
     img(src="./Romantikk_Nasjonalromantikken.jpg" alt="Grønt tre med fjellandskap i bakgrunnen. Måleri.")
-    figcaption J.C. Dahl:”Bjerk i storm” (1849). Eit symbol på den norske folkekarakteren?
+    figcaption
+      em Bjerk i storm 
+      | (1849). J.C. Dahl. Eit symbol på den norske folkekarakteren?
 
   h5 Romantikk og nasjonalkjensle
   p
@@ -99,7 +108,9 @@ PagePeriod(
 
   figure.col.col7.right-image
     img(src="./Romantikk_Litteraturen1.jpg" alt="Eit gigantisk sovande troll på toppen av eit fjell. Illustrasjon. ")
-    figcaption Theodor Kittelsens trollteikningar har prega oppfatninga vår av korleis troll ser ut. Her ”Trollet som grunner på hvor gammelt det er” frå 1911.
+    figcaption Theodor Kittelsens trollteikningar har prega oppfatninga vår av korleis troll ser ut. Her 
+      em Trollet som grunner på hvor gammelt det er 
+      | frå 1911.
 
   h5 Folkediktinga
   p

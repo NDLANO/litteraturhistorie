@@ -6,7 +6,12 @@ PagePeriod(
   // Content here
 
   h3 Framveksten av ei moderne verd 1600–1850
-  img(src="./Realisme_Framveksten_av_en_moderne_verden1.jpg" alt="Toppløs kvinne held det franske flagget. I forgrunnen er døde menneske. I bakgrunnen følgjer ei opprørsk folkemengd klar til kamp. Måleri.")
+  figure.col.col12.mb20
+    img(src='./Realisme_Framveksten_av_en_moderne_verden1.jpg' alt='Toppløs kvinne held det franske flagget. I forgrunnen er døde menneske. I bakgrunnen følgjer ei opprørsk folkemengd klar til kamp. Måleri.')
+    figcaption
+      em Den 28. juli. Friheten fører folket
+      | . Eugène Delacroix. Oljemåleri, 1830.
+
   p På 1600-talet byrjar ei vitskapleg, åndeleg, industriell og politisk utvikling i Europa som vi kan kalle modernitet. Nye vitskaplege oppdagingar set i gang gjennomgripande endringar på alle samfunnsområde. Vi kan seie at denne utviklinga er styrt av ”tre f-ar”: framsteg, fornuft og frigjering. Verda skal framover, menneska skal bli frie – og fornufta skal styre heile prosessen. 
 
   p Både 1700- og 1800-talet er prega av nye oppdagingar og oppfinningar, og dei politiske revolusjonane i Amerika (1776) og Frankrike (1789) gjer folkestyre og demokrati til eit ideal for mange. Moderniteten kjem for alvor inn i norsk litteratur omkring 1875, det såkalla moderne gjennombrotet. Forfattarane tek opp aktuelle samfunnsproblem og set dei under debatt. 
@@ -39,6 +44,9 @@ PagePeriod(
 
   figure.col.col5.left-image
     img(src="./Realisme_Tida_og_samfunnsforholdene3.jpg" alt="Jublande seiersherrer med tysk flagg. Illustrasjon.")
+    figcaption
+      em Berlin
+      | , 1848 (utsnitt)
 
   h5 Endra maktforhold
   p Maktforholda endrar seg dramatisk i siste halvdel av 1800-talet. Rundt 1850 er storparten av makta samla hos svenskekongen og norske embetsmenn. I siste halvdel av 1800-talet blir makta gradvis overført til folket.
@@ -51,8 +59,10 @@ PagePeriod(
 
   p Arbeidarrørsla blir etter kvart ein viktig maktfaktor. Samstundes med at nye arbeidsplassar veks fram, utviklar det seg eit motsetningsforhold mellom arbeidarar og fabrikkeigarar. Arbeidarane får mange med seg i kravet om allmenn stemmerett, rett til skulegang, fleire sosiale gode i samfunnet og betre tilhøve på arbeidsplassane.
 
-  .tac
-    img(src="./Realisme_Tida_og_samfunnsforholdene4.jpg" alt="Kvinne held eit skilt, omringa av nysgjerrige gutar og menn. Foto.")
+  figure.col.col12
+    img(src='./Realisme_Tida_og_samfunnsforholdene4.jpg' alt='Kvinne held eit skilt, omringa av nysgjerrige gutar og menn. Foto.')
+    figcaption Den amerikanske kvinnesaksforkjemparen Louisa May Alcott demonstrerer for røysterett. (1914)
+
   h5 Frigjering – også for kvinner?
   p I samsvar med kravet om frigjering og utvida demokratiske rettar for alle byrjar kvinnene no å krevje rett til deltaking i samfunnet. Alt på slutten av 1700-talet problematiserte Mary Wollstonecraft manglande rettar for kvinnene. Ho var ei opplysningskvinne som ville ha eit samfunn basert på fornuft. Ho meinte at menn og kvinner var like rasjonelle, derfor burde kvinna ha dei same økonomiske, politiske og sosiale rettane som mannen. John Stuart Mill førte desse tankane vidare tidleg på 1800-talet. 
 
@@ -311,11 +321,17 @@ PagePeriod(
   .mt40
 
 
-  img(src="./Realisme_Naturalismen1.jpg" alt="Bekymra kvinne med ein politimann, omringa av ei forsamling i eit trangt rom. Måleri.")
+  figure.col.col12
+    img(src='./Realisme_Naturalismen1.jpg' alt='Bekymra kvinne med ein politimann, omringa av ei forsamling i eit trangt rom. Måleri.')
+    figcaption
+      em Albertine i politilegens venteværelse 
+      | (1886), Christian Krohg 
+
   p I 1880-åra levde realistisk og naturalistisk dikting side om side. Naturalistisk dikting er ei vidareføring av den realistiske, men hos naturalistane er målet å trengje djupare ned i problema og vise samanhengen mellom samfunnstilhøva og liva til enkeltmenneska. 
 
   .clear 
   .mt20
+
   img.col.col6.right-image(src="./Realisme_Naturalismen_Zola.jpg" alt="Portrettbilete av en mann med skjegg, briller og alpelue. Foto.")
   p Den franske forfattaren Émile Zola (1840–1902) blir rekna som den første og største naturalisten. Idealet hans var den nye naturvitskapen og darwinismen, og diktinga skulle vere så dokumentarisk og objektiv som mogleg. Zola meinte at mennesket berre i liten grad hadde nokon fri vilje, det var meir eit produkt av arv og miljø. Derfor var livet for mange ein vond sirkel som det var vanskeleg å bryte ut av. Derfor var det vanskeleg å bryte ut av den klassen eller standen ein var fødd inn i. 
 
@@ -412,7 +428,10 @@ PagePeriod(
 
   figure.col.col6.right-image
     img(src="./Realisme_Naturalismen_Gengangere.jpg" alt="Mann grip handa til ei eldre kvinne, med ein kvinneleg tilskodar i bakgrunnen. Foto.")
-    figcaption Frå ei oppføring av Gengangere av Henrik Ibsen
+    figcaption Frå ei oppføring av 
+      em Gengangere 
+      | av Henrik Ibsen
+      
   p Det viktigaste som skjedde språkleg i denne perioden, var at Noreg fekk eit eige skriftspråk. Tidleg på 1800-talet var hovudargumentet at eit norsk skriftspråk ville vere med på å styrke den nasjonale identiteten. Seinare var det demokratiske og pedagogiske argument som tok over i språkdebatten. 
 
   p I 1850 var det enno mange analfabetar i Noreg. Grunnen var mellom anna dårleg skulegang og stor skilnad mellom det norske talemålet og det danske skriftspråket. Berre embetsmennene og den kondisjonerte klassen i Kristiania snakka ein slags dansk med norsk uttale. Det at folk ikkje kunne lese og skrive, var både eit demokratisk problem og eit hinder for personleg fridom og utvikling.

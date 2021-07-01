@@ -107,7 +107,9 @@ PagePeriod(
 
   figure
     img(src="./Opplysningstid_Litteraturen2.jpg" alt="Herskapelege menneske samla rundt noen bord. Måleri.")
-    figcaption Norske selskap
+    figcaption
+      em En aften i Det norske Selskab
+      | , Eilif Peterssen
 
   NdlaAudio(
     source="media/periods/opplysning/Norges_skaal.mp3"

@@ -6,7 +6,11 @@ PagePeriod(
   // Content here
 
   h3 Framveksten av en moderne verden 1600–1850
-  img(src="./Realisme_Framveksten_av_en_moderne_verden1.jpg" alt="Toppløs kvinne holder det franske flagget. I forgrunnen er døde mennesker. i bakgrunnen følger en opprørsk mengde klare til kamp. Maleri.")
+  figure.col.col12.mb20
+    img(src='./Realisme_Framveksten_av_en_moderne_verden1.jpg' alt='Toppløs kvinne holder det franske flagget. I forgrunnen er døde mennesker. i bakgrunnen følger en opprørsk mengde klare til kamp. Maleri.')
+    figcaption
+      em Den 28. juli. Friheten fører folket
+      | . Eugène Delacroix. Oljemaleri, 1830
 
   p På 1600-tallet begynner en vitenskapelig, åndelig, industriell og politisk utvikling i Europa som vi kan kalle modernitet. Nye vitenskapelige oppdagelser setter i gang gjennomgripende endringer på alle samfunnsområder. Vi kan si at denne utviklingen er styrt av ”tre f-er”: framskritt, fornuft og frigjøring. Verden skal framover, menneskene skal bli frie – og fornuften skal styre hele prosessen. 
 
@@ -41,6 +45,10 @@ PagePeriod(
 
   figure.col.col5.left-image
     img(src="./Realisme_Tida_og_samfunnsforholdene3.jpg" alt="Jublende seiersherrer med tysk flagg. Illustrasjon.")
+    figcaption
+      em Berlin
+      | , 1848 (utsnitt)
+
 
   h5 Nye maktforhold
   p Maktforholdene endrer seg dramatisk i siste halvdel av 1800-tallet. Rundt 1850 er storparten av makta samlet hos svenskekongen og norske embetsmenn. I siste halvdel av 1800-tallet blir makta gradvis overført til folket. 
@@ -53,8 +61,10 @@ PagePeriod(
 
   p Arbeiderbevegelsen blir etter hvert en viktig maktfaktor. Samtidig som nye arbeidsplasser vokser fram, utvikler det seg et motsetningsforhold mellom arbeidere og fabrikkeiere. Arbeiderne får mange med seg i kravet om allmenn stemmerett, rett til skolegang, flere sosiale goder i samfunnet og bedre forhold på arbeidsplassene. 
   
-  .tac
-    img(src="./Realisme_Tida_og_samfunnsforholdene4.jpg" alt="Kvinne holder et skilt, omringet av nysgjerrige gutter og menn. Foto.")
+  figure.col.col12
+    img(src='./Realisme_Tida_og_samfunnsforholdene4.jpg' alt='Kvinne holder et skilt, omringet av nysgjerrige gutter og menn. Foto.')
+    figcaption Den amerikanske kvinnesaksforkjemperen Louisa May Alcott demonstrerer for stemmerett. (1914)
+
   h5 Frigjøring – også for kvinner?
   p I tråd med kravet om frigjøring og utvidete demokratiske rettigheter for alle begynner nå kvinnene å kreve rett til deltakelse i samfunnet. Alt på slutten av 1700-tallet problematiserte Mary Wollstonecraft manglende rettigheter for kvinnene. Hun var en opplysningskvinne som ville ha et samfunn basert på fornuft. Hun mente at menn og kvinner var like rasjonelle, derfor burde kvinnen ha de samme økonomiske, politiske og sosiale rettigheter som mannen. John Stuart Mill videreførte disse tankene tidlig på 1800-tallet.
 
@@ -286,12 +296,17 @@ PagePeriod(
   //- )
 
   .mt40
+  figure.col.col12
+    img(src="./Realisme_Naturalismen1.jpg" alt="Bekymret kvinne med en politimann, omringet av en forsamling i et trangt rom. Maleri.")
+    figcaption
+      em Albertine i politilegens venteværelse 
+      | (1886), Christian Krohg 
 
-  img(src="./Realisme_Naturalismen1.jpg" alt="Bekymret kvinne med en politimann, omringet av en forsamling i et trangt rom. Maleri.")
   p I 1880-årene levde realistisk og naturalistisk diktning side om side. Naturalistisk diktning er en videreføring av den realistiske, men hos naturalistene er målet å trenge dypere ned i problemene og vise sammenhengen mellom samfunnsforhold og enkeltmenneskers liv. 
 
   .clear
   .mt20
+
   img.col.col6.right-image(src="./Realisme_Naturalismen_Zola.jpg" alt="Portrettbilde av en mann med skjegg, briller og alpelue. Foto.")
   p Den franske forfatteren Émile Zola (1840–1902) regnes som den første og største naturalisten. Idealet hans var den nye naturvitenskapen og darwinismen, og diktningen skulle være så dokumentarisk og objektiv som mulig. Zola mente at mennesket bare i liten grad hadde noen fri vilje, det var mer et produkt av arv og miljø. Derfor var det blant annet vanskelig å bryte ut av den klassen eller standen en var født inn i. 
 

@@ -9,7 +9,9 @@ PagePeriod(
 
   figure
     img(src="./Romantikk_Tida_og_samfunnaforholdene1.jpg" alt="Mann som leser omringet av forsamling som lytter. Maleri.")
-    figcaption Riksforsamlingen på Eidsvoll i 1814. Maleri av Oscar Arnold Wergeland
+    figcaption 
+      em Eidsvold 1814
+      | . Maleri av Oscar Arnold Wergeland
 
   h5 Debatt om kultur og språk
   p
@@ -54,7 +56,10 @@ PagePeriod(
 
   figure.col.col4.left-image
     img(src="./Romantikk_Stilretningen1.jpg" alt="Mennesker leker utenfor et stabbur på vinterstid. Maleri.")
-    figcaption Adolph Tidemand: ”Norsk Juleskik” (1846)
+    figcaption
+      em Norsk Juleskik 
+      | (1846) av Adolph Tidemand
+
   h5 En ny retning og en ny tid
   p
     | De nye idéstrømmene innenfor musikk, bildekunst og litteratur som preget åndslivet i Europa i første halvdel av 1800-tallet, kaller vi 
@@ -66,7 +71,9 @@ PagePeriod(
 
   figure
     img(src="./Romantikk_Stilretningen2.jpg" alt="Grønn vegetasjon rundt et vann. Maleri.")
-    figcaption Lars Hertervig: ”Skogtjern” (1865)
+    figcaption
+      em Skogtjern 
+      | (1865) av Lars Hertervig
 
   h5 Det gode livet
   p
@@ -78,7 +85,9 @@ PagePeriod(
   h3 Nasjonalromantikken
   figure.col.col6.left-image.mt10
     img(src="./Romantikk_Nasjonalromantikken.jpg" alt="Grønt tre med fjellandskap i bakgrunnen. Maleri. ")
-    figcaption J.C. Dahl:”Bjerk i storm” (1849). Et symbol på den norske folkekarakteren?
+    figcaption
+      em Bjerk i storm 
+      | (1849). J.C. Dahl. Et symbol på den norske folkekarakteren?
 
   h5 Romantikk og nasjonalfølelse
   p
@@ -100,7 +109,9 @@ PagePeriod(
   h3 Litteraturen 
   figure.col.col7.right-image
     img(src="./Romantikk_Litteraturen1.jpg" alt="Et gigantisk sovende troll på toppen av et fjell. Illustrasjon. ")
-    figcaption Theodor Kittelsens trolltegninger har preget oppfatningen vår av hvordan troll ser ut. Her ”Trollet som grunner på hvor gammelt det er” fra 1911.
+    figcaption Theodor Kittelsens trolltegninger har preget oppfatningen vår av hvordan troll ser ut. Her 
+      em Trollet som grunner på hvor gammelt det er 
+      | fra 1911.
 
   h5 Folkediktningen
   p

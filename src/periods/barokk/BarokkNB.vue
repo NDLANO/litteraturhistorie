@@ -10,6 +10,7 @@ PagePeriod(
   h5 Kirken mister makt
   figure.col.col6.right-image.mt5
     img(src="./Barokk_Tida_og_samfunnsforholdene1.jpg" alt="Portrettbilde av tre voksne, ei lita jente og en lekende hund. Maleri.")
+    figcaption Ludvig XIV av Frankrike og hans familie
 
   p
     | Kirken mister mye av sin makt etter middelalderen, men denne makta går ikke til folket. Det er kongene i de ulike landene i Europa som samler makta og får større kontroll over kirken. 
@@ -73,6 +74,9 @@ PagePeriod(
 
   figure.col.col4.left-image.mt5
     img(src="./Barokk_Kjennetegn_ved_barokkstilen2.jpg" alt="Mann blir korsfestet og tre personer prøver å løfte korset. Maleri.")
+    figcaption
+      em Peters korsfestelse
+      | . Maleri av Caravaggio
 
   h5 Konflikt og dramatikk  
   p
