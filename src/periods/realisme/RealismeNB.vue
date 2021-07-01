@@ -381,7 +381,10 @@ PagePeriod(
 
   figure.col.col6.right-image
     img(src="./Realisme_Naturalismen_Gengangere.jpg" alt="Mann griper hånden til ei eldre kvinne, med en kvinnelig tilskuer i bakgrunnen. Foto.")
-    figcaption Frå ei oppføring av Gengangere av Henrik Ibsen
+    figcaption Fra en oppføring av 
+      em Gengangere 
+      | av Henrik Ibsen
+      
   p Det viktigste som skjedde språklig i denne perioden, var at Norge fikk et eget skriftspråk. Tidlig på 1800-tallet var hovedargumentet at et norsk skriftspråk ville være med på å styrke den nasjonale identiteten. Seinere var det demokratiske og pedagogiske argumenter som ble utslagsgivende i språkdebatten. 
 
   p I 1850 var det fortsatt mange analfabeter i Norge. Grunnen var blant annet dårlig skolegang og store forskjeller mellom det norske talemålet og det danske skriftspråket. Bare embetsmennene og den kondisjonerte klassen i Kristiania snakket en slags dansk med norsk uttale. Det at folk ikke kunne lese og skrive, var både et demokratisk problem og et hinder for personlig frihet og utvikling. 

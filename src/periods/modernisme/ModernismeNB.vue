@@ -422,7 +422,9 @@ PagePeriod(
   .div
     figure.col.col6.right-image.mt5
       img(src="./Modernisme_Bildekunst5.jpg" alt="Kvinne viser frem to kunstverk på lerret. Foto.")
-      figcaption Inger Sitter viser maleriet «11. september 2001» på ei ustilling i Galleri Brandstrup. Foto: Rolf M. Aagaard / BONO / Scanpix
+      figcaption Inger Sitter viser maleriet 
+        em 11. september 2001 
+        | på ei ustilling i Galleri Brandstrup. Foto: Rolf M. Aagaard / BONO / Scanpix
     figure.col.col6.right-image.mt5
       img(src="./Modernisme_Bildekunst6.jpg" alt="Tom vrimlehall med store rosa glassvinduer. Foto.")
       figcaption Odd Tandbergs utsmykningsarbeider på det nye Rikshospitalet. Foto: Rolf Chr. Ulrichsen / Scanpix

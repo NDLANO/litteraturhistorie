@@ -52,7 +52,9 @@ PagePeriod(
 
   figure.col.col12
     img(src="./Nyrealisme_Tanker_i_tida1.jpg" alt="Folkemengde som feirer. Musikkkorps i forgrunnen. Maleri.")
-    figcaption «Demonstrasjon den 17. oktober 1905», skisse av Ilya Yefimovich Repin
+    figcaption
+      em Demonstrasjon den 17. oktober 1905
+      | , skisse av Ilya Yefimovich Repin
 
   h5 Sosialisme, kommunisme og sosialdemokrati 
   p
@@ -115,7 +117,9 @@ PagePeriod(
 
   figure.col.col6.right-image.mt5
     img(src="./Nyrealisme_En_etisk_realisme1.jpg" alt="Eldre kvinne blir servert mat på sengen. Foto.")
-    figcaption Frå stykket «Medmenneske» av Olav Duun på Det Norske Teater. Foto: NTB / Scanpix
+    figcaption Fra stykket 
+      em Medmenneske 
+      | av Olav Duun på Det Norske Teater. 
 
   p
     | I begynnelsen av 1900-tallet slo modernismen gjennom som kunstretning i Europa. Både forfattere, malere og komponister ble gradvis mer eksperimentelle i sitt formspråk. Men i Norge fikk vi i stedet et gjensyn med en mer realistisk uttrykksform. Hvorfor?  
@@ -131,7 +135,9 @@ PagePeriod(
 
   figure.col.col6.right-image.mt5
     img(src="./Nyrealisme_En_etisk_realisme2.jpg" alt="Kvinne holder et barn i armene. To menn ser på. Foto.")
-    figcaption «Kristin Lavransdatter» på Det Norske Teateret i 1958. Foto: Kåre Nymark / Aktuell / Scanpix
+    figcaption 
+      em Kristin Lavransdatter 
+      | på Det Norske Teateret i 1958. Foto: Kåre Nymark / Aktuell / Scanpix
 
   h5 Slektsromaner 
   p
@@ -234,7 +240,9 @@ PagePeriod(
 
   figure.col.col12
     img(src="./Nyrealisme_Lyrikken_Tradisjonalisme_og_modernisme1.jpg" alt="Snøtopper på nattestid. Maleri.")
-    figcaption Harald Sohlberg: «Vinternatt» (1914)
+    figcaption Harald Sohlberg: 
+      em Vinternatt 
+      | (1914)
 
   p
     | Etter et kort modernistisk mellomspill på slutten av 1800-tallet kom det tradisjonelle formspråket tilbake også i lyrikken. Forfatterne skrev stort sett dikt med rim og fast rytme. Noen få fortsatte likevel å eksperimentere med språk og form. Tematisk stod sentrallyrikken sterkt i denne perioden. Mange forfattere skrev tidløse dikt om de evige spørsmål – livet, døden og kjærligheten. Andre hadde mer politiske formål med diktningen sin, og arbeiderlyrikken vokste seg nå sterk. 

@@ -27,7 +27,9 @@ PagePeriod(
 
   figure.col.col6.right-image
     img(src="./Humanisme_Tida-og-samfunnsforholdene2.jpg" alt="Et stirrende gjenferd kryper opp ei tretrapp. Illustrasjon.")
-    figcaption ”Pesten i trappa”. Tegning av Theodor Kittelsen
+    figcaption 
+      em Pesten i trappa
+      | . Tegning av Theodor Kittelsen
 
   h5 Presteskapet og adelen har stor makt
   p
@@ -70,7 +72,9 @@ PagePeriod(
   h3 Tanker i tida 
   figure.col.col6.left-image.mt5
     img(src="./Humanisme_Tanker_i_tida1.jpg" alt="Kvinne i halvfigur har et gåtefullt blikk. Landskap i bakgrunnen. Maleri. ")
-    figcaption ”Mona Lisa” av Leonardo da Vinci
+    figcaption 
+      em Mona Lisa 
+      | av Leonardo da Vinci
 
   h5 Renessansen
   p

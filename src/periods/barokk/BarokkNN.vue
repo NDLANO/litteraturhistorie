@@ -201,12 +201,15 @@ PagePeriod(
   div.col.col6.display-ib.p5
     figure
       img(src="./Barokk_Bildekunst_og_arkitektur2.jpg" alt="To nakne kvinner som er omfavna av to menn, samt to hestar og eit barn.  Måleri.")
-      figcaption Peter Paul Rubens: ”Døtrene til Leukippos blir røva”
+      figcaption Peter Paul Rubens: 
+        em Døtrene til Leukippos blir røva
 
   div.col.col6.display-ib.p5
     figure
       img(src="./Barokk_Bildekunst_og_arkitektur3.jpg" alt="Skulptur av bøygd hovud med krøllete hår. Foto." style="min-height: 305px; object-fit: cover;")
-      figcaption Detalj frå skulpturen ”Den heilage Teresas ekstase” av Giovanni Lorenzo Bernini
+      figcaption Detalj frå skulpturen 
+        em Den heilage Teresas ekstase 
+        |  av Giovanni Lorenzo Bernini
 
 </template>
 

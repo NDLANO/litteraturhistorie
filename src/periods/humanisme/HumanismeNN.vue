@@ -27,7 +27,9 @@ PagePeriod(
 
   figure.col.col6.right-image
     img(src="./Humanisme_Tida-og-samfunnsforholdene2.jpg" alt="Eit stirrande gjenferd kryp opp ei tretrapp. Illustrasjon.")
-    figcaption ”Pesten i trappa”. Teikning av Theodor Kittelsen  
+    figcaption 
+      em Pesten i trappa
+      | . Teikning av Theodor Kittelsen  
   h5 Presteskapet og adelen har stor makt 
   p
    | Det er store skilnader mellom fattige og rike. Rikdom er det same som å eige jord, og jordeigarane er få og mektige. I mange land er det adelen og kyrkja som eig det meste av jorda. I tillegg har presteskapet og adelen fleire særrettar.   
@@ -70,7 +72,9 @@ PagePeriod(
   h3 Tankar i tida 
   figure.col.col6.left-image.mt5
     img(src="./Humanisme_Tanker_i_tida1.jpg" alt="Kvinne i halvfigur har eit gåtefullt blikk. Landskap i bakgrunnen. Måleri.")
-    figcaption ”Mona Lisa” av Leonardo da Vinci
+    figcaption 
+      em Mona Lisa 
+      | av Leonardo da Vinci
 
   h5 Renessansen 
   p

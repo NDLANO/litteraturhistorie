@@ -109,7 +109,9 @@ PagePeriod(
 
   figure.col.col7.right-image.tac
     img(class="tac" src="./Romantikk_Litteraturen2.jpg" alt="Omslag til eventyrbok med gullfarga illustrasjoner. Foto.")
-    figcaption(class="tal") Peter Chr. Asbjørnsens ”Norske Huldre-eventyr og Folkesagn” (1848). Typisk romantisk praktbind
+    figcaption(class="tal") Peter Chr. Asbjørnsens 
+      em Norske Huldre-eventyr og Folkesagn 
+      | (1848). Typisk romantisk praktbind
 
   h5 Norske segner og eventyr
   p
@@ -223,7 +225,13 @@ PagePeriod(
 
   figure.col.col7.right-image
     img(src="./Romantikk_Bildekunsten_og_musikken3.jpg" alt="Ein mann slappar av i frodig vegetasjon ved vatnkanten. Måleri.")
-    figcaption Beethoven komponerer ”Pastoralesymfonien” (symfoni nr. 6). Illustrasjon frå “Almanach der Musikgesellschaft”, Zürich 1834
+    figcaption
+      em Beethoven 
+      | komponerer 
+      em Pastoralesymfonien (Symfoni nr. 6)
+      | . Illustrasjon fra 
+      em Almanach der Musikgesellschaft
+      | , Zürich 1834
 
   h5 Musikken
   p

@@ -310,7 +310,9 @@ PagePeriod(
   h3 Litteraturen 1990–2010
   figure.col.col6.left-image
     img(src="./Postmodernisme_Litteraturen28.jpg" alt="Kvinne i kjole opptrer på scene. Mannleg kollega i bakgrunnen. Foto.")
-    figcaption Ei scene frå «Rambuku» av Jon Fosse på Det Norske Teatret, med Ragnhild Hilt og Svein  Erik Brodal. Foto: Carl Martin Nordby / Scanpix
+    figcaption Ei scene frå 
+      em Rambuku 
+      | av Jon Fosse på Det Norske Teatret, med Ragnhild Hilt og Svein  Erik Brodal. Foto: Carl Martin Nordby / Scanpix
 
   h5 Språkleik og sjangerblanding
   p Litteraturen i tiåret før og etter tusenårsskiftet er omfattande og mangslungen. Tida vil vise kva som er mest karakteristisk for vår tid, men éi endring er tydeleg etter 1985: 

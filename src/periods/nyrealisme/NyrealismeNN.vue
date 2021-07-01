@@ -45,7 +45,9 @@ PagePeriod(
 
   figure.col.col12
     img(src="./Nyrealisme_Tanker_i_tida1.jpg" alt="Folkemengd som feirar. Musikkkorps i forgrunnen. Måleri.")
-    figcaption «Demonstrasjon den 17. oktober 1905», skisse av Ilya Yefimovich Repin
+    figcaption
+      em Demonstrasjon den 17. oktober 1905
+      | , skisse av Ilya Yefimovich Repin
 
   h5 Sosialisme, kommunisme og sosialdemokrati
   p Sosialisme er ei samlenemning for politiske ideologiar der kravet om ei jamnare fordeling av ressursane står sentralt. Slagordet ”frå kvar og ein etter evne til kvar og ein etter behov” illustrerer den sosialistiske tanken om likskap. 
@@ -101,7 +103,9 @@ PagePeriod(
 
   figure.col.col6.right-image.mt5
     img(src="./Nyrealisme_En_etisk_realisme1.jpg" alt="Eldre kvinne blir servert mat på senga. Foto.")
-    figcaption Frå stykket «Medmenneske» av Olav Duun på Det Norske Teater. Foto: NTB / Scanpix
+    figcaption Frå stykket 
+      em Medmenneske 
+      | av Olav Duun på Det Norske Teater.
 
   p Tidleg på 1900-talet slo modernismen gjennom som kunstretning i Europa. Både forfattarar, målarar og komponistar vart gradvis meir eksperimentelle i formspråket sitt. Men i Noreg fekk vi i staden eit gjensyn med ei meir realistisk uttrykksform. Kvifor? 
 
@@ -115,7 +119,9 @@ PagePeriod(
 
   figure.col.col6.right-image.mt5
     img(src="./Nyrealisme_En_etisk_realisme2.jpg" alt="Kvinne held eit barn i armane. To menn ser på. Foto.")
-    figcaption «Kristin Lavransdatter» på Det Norske Teateret i 1958. Foto: Kåre Nymark / Aktuell / Scanpix
+    figcaption 
+      em Kristin Lavransdatter 
+      | på Det Norske Teateret i 1958. Foto: Kåre Nymark / Aktuell / Scanpix
 
   h5 Slektsromanar
   p Forfattarane var ofte opptekne av å vise at val kan få konsekvensar i lang tid framover, ja over fleire generasjonar. Det kom derfor mange fleirbindsverk, der vi følgjer ein familie over lengre tid og gjennom fleire generasjonar.
@@ -209,7 +215,9 @@ PagePeriod(
 
   figure.col.col12
     img(src="./Nyrealisme_Lyrikken_Tradisjonalisme_og_modernisme1.jpg" alt="Snøtoppar på nattestid. Måleri.")
-    figcaption Harald Sohlberg: «Vinternatt» (1914)
+    figcaption Harald Sohlberg: 
+      em Vinternatt 
+      | (1914)
 
   p Etter eit kort modernistisk mellomspel på slutten av 1800-talet kom det p tradisjonelle formspråket tilbake også i lyrikken. Forfattarane skreiv stort sett dikt med rim og fast rytme. Nokre få heldt likevel fram med å eksperimentere med språk og form. Tematisk stod sentrallyrikken sterkt i denne perioden. Mange forfattarar skreiv tidlause dikt om dei evige spørsmåla – livet, døden og kjærleiken. Andre hadde meir politiske formål med diktinga si, og arbeidarlyrikken voks seg no sterk. 
 

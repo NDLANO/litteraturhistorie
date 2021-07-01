@@ -109,7 +109,9 @@ PagePeriod(
     | . Folkediktningen har ikke navngitte forfattere. Tekstene har utviklet seg fra forteller til forteller, med større og mindre endringer underveis.
   figure.col.col7.right-image.tac
     img(class="tac" src="./Romantikk_Litteraturen2.jpg" alt="Omslag til eventyrbok med gullfarga illustrasjoner. Foto.")
-    figcaption(class="tal") Peter Chr. Asbjørnsens ”Norske Huldre-eventyr og Folkesagn” (1848). Typisk romantisk praktbind
+    figcaption(class="tal") Peter Chr. Asbjørnsens 
+      em Norske Huldre-eventyr og Folkesagn 
+      | (1848). Typisk romantisk praktbind
 
   h5 Norske sagn og eventyr
   p
@@ -203,15 +205,23 @@ PagePeriod(
     .col.col4
       figure.figure-left
         img(src="./Romantikk_Bildekunsten_og_musikken2.jpg" alt="Brudefølge i båt i fjord omkranset av fjell. Maleri.")
-        figcaption ”Brudefærden i Hardanger” malt av Adolph Tidemand og Hans Gude i 1848
+        figcaption 
+          em Brudefærden i Hardanger 
+          | malt av Adolph Tidemand og Hans Gude i 1848
     .col.col8
-      h5 Nasjonalromantikken i malerkunsten
+      h5.m0 Nasjonalromantikken i malerkunsten
       p
         | Nasjonalromantikken kom også til uttrykk i malerkunsten. J.C. Dahl og Tidemand og Gude malte norske landskap og mennesker i harmoni slik ingen hadde gjort det tidligere. ”Brudefærden i Hardanger” står fortsatt som et av de sterkeste symbolene på norsk nasjonalromantikk.
 
   figure.col.col7.right-image
     img(src="./Romantikk_Bildekunsten_og_musikken3.jpg" alt="En mann slapper av i frodig vegetasjon ved vannkanten. Maleri")
-    figcaption Beethoven komponerer ”Pastoralesymfonien” (symfoni nr. 6). Illustrasjon fra “Almanach der Musikgesellschaft”, Zürich 1834
+    figcaption 
+      em Beethoven 
+      | komponerer 
+      em Pastoralesymfonien (Symfoni nr. 6)
+      | . Illustrasjon fra 
+      em Almanach der Musikgesellschaft
+      | , Zürich 1834
 
   h5 Musikken
   p
