@@ -172,7 +172,7 @@ PagePeriod(
   NdlaAudio(
     source="media/periods/romantikk/tekst12_wergeland_sprogreformasjon.mp3"
     )
-  a(href="media/periods/romantikk/sprogreform.html" target="_blank") Henrik Wergeland: ”Om norsk Sprogreformation” (1832).
+  a(href="media/periods/romantikk/sprogreform.html" target="_blank") Henrik Wergeland: «Om norsk Sprogreformation» (1832).
   
   .mt40
   h5 Eit norsk universitet
@@ -198,25 +198,28 @@ PagePeriod(
     p
       | Dei romantiske målarane er opptekne av den ville, urørte naturen. Landskapet kan framstå som utilgjengeleg for menneske, og har dramatiske, eksotiske og mytiske trekk som vi i dag kjenner frå dataspel og fantasyfilm. Denne naturen kan ofte ha ei symbolsk meining. Landskapet speglar sjelelivet, og kunstnaren blir ofte skildra som einsam og opphøgd.
 
-  ImageTextBlock(
-    :image="require(`./Romantikk_Bildekunsten_og_musikken2.jpg`)"
-    imageColumns="4"
-    imageCaption="”Brudefærden i Hardanger” måla av Adolph Tidemand og Hans Gude i 1848"
-    altText="Brudefølge i båt i fjord omkransa av fjell. Måleri."
-    )
-    h5 Nasjonalromantikken i målarkunsten
-    p
-      | Nasjonalromantikken kjem òg til uttrykk gjennom målarkunsten. J.C. Dahl og Tidemand og Gude målar norske landskap og menneske i harmoni slik ingen har gjort det tidlegare. ”Brudefærden i Hardanger” står framleis som eit av dei sterkaste symbola på norsk nasjonalromantikk.
+  //- ImageTextBlock(
+  //-   :image="require(`./Romantikk_Bildekunsten_og_musikken2.jpg`)"
+  //-   imageColumns="4"
+  //-   imageCaption="”Brudefærden i Hardanger” måla av Adolph Tidemand og Hans Gude i 1848"
+  //-   altText="Brudefølge i båt i fjord omkransa av fjell. Måleri."
+  //-   )
+  //-   h5 Nasjonalromantikken i målarkunsten
+  //-   p
+  //-     | Nasjonalromantikken kjem òg til uttrykk gjennom målarkunsten. J.C. Dahl og Tidemand og Gude målar norske landskap og menneske i harmoni slik ingen har gjort det tidlegare. ”Brudefærden i Hardanger” står framleis som eit av dei sterkaste symbola på norsk nasjonalromantikk.
 
-  //- .flex.flex-wrap
-  //-   .col.col4
-  //-     figure.figure-left
-  //-       img(src="./Romantikk_Bildekunsten_og_musikken2.jpg" alt="”Brudefærden i Hardanger” måla av Adolph Tidemand og Hans Gude i 1848")
-  //-       figcaption ”Brudefærden i Hardanger” måla av Adolph Tidemand og Hans Gude i 1848
-  //-   .col.col8
-  //-     h5 Nasjonalromantikken i målarkunsten
-  //-     p
-  //-       | Nasjonalromantikken kjem òg til uttrykk gjennom målarkunsten. J.C. Dahl og Tidemand og Gude målar norske landskap og menneske i harmoni slik ingen har gjort det tidlegare. ”Brudefærden i Hardanger” står framleis som eit av dei sterkaste symbola på norsk nasjonalromantikk.
+  .clear
+  .flex.flex-wrap
+    .col.col4
+      figure.figure-left
+        img(src="./Romantikk_Bildekunsten_og_musikken2.jpg" alt="”Brudefærden i Hardanger” måla av Adolph Tidemand og Hans Gude i 1848")
+        figcaption 
+          em Brudefærden 
+          | i Hardanger måla av Adolph Tidemand og Hans Gude i 1848
+    .col.col8
+      h5.m0 Nasjonalromantikken i målarkunsten
+      p
+        | Nasjonalromantikken kjem òg til uttrykk gjennom målarkunsten. J.C. Dahl og Tidemand og Gude målar norske landskap og menneske i harmoni slik ingen har gjort det tidlegare. ”Brudefærden i Hardanger” står framleis som eit av dei sterkaste symbola på norsk nasjonalromantikk.
 
   figure.col.col7.right-image
     img(src="./Romantikk_Bildekunsten_og_musikken3.jpg" alt="Ein mann slappar av i frodig vegetasjon ved vatnkanten. Måleri.")

@@ -29,7 +29,7 @@ PagePeriod(
 
   figure.col.col6.left-image.mt5
     img(src="./Modernisme_Tida_og_samfunnsforholdene3.jpg" alt="En gruppe kvinner foran disken i en kolonial. Foto.")
-    figcaption Kø av folk som skal handle på et samvirkelag i Oslo i 1945. Begge foto: NTB Scanpix
+    figcaption Kø av folk som skal handle på et samvirkelag i Oslo i 1945. Foto: NTB Scanpix
 
   p
     | Ellers var krigsårene preget av strenge rasjoneringer og kontroll over samfunnslivet. Skoler og universitet ble stengt, aviser, litteratur og radio sensurert, og mange valgte å flykte til Sverige. En rekke lærere, forleggere, forfattere og intellektuelle ble arrestert og sendt til tyske konsentrasjonsleirer.  

@@ -88,7 +88,7 @@ PagePeriod(
 
   figure.col.col4.right-image.mt5
     img(src="./Barokk_Kjennetegn_ved_barokkstilen4.jpg" alt="Mann med et ark i hånden. Maleri.")
-    figcaption Johan Sebastian Bach
+    figcaption Johann Sebastian Bach
 
 
   h5 Sterke kontraster  

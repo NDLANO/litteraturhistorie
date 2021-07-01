@@ -321,7 +321,12 @@ PagePeriod(
     em metafiksjonale
     | . Med det meiner vi at forfattaren bruker grep som viskar ut grensene mellom røyndom og fiksjon. Forfattaren kan for eksempel kommentere skriveprosessen sin i forteljinga, eller han kan sjølv medverke som figur der. 
 
-  p I kva grad kan språket skildre røyndomen? Og korleis kan det poetiske språket fange og skildre andre sider ved røyndomen enn den likeframme, realistiske framstillingsmåten? Er det i det heile nokon vits i å prøve? Slike spørsmål fengslar elles svært ulike forfattarar som Kjartan Fløgstad, Jon Fosse (1959– ) og Cecilie Løveid (1951– ). 
+  p I kva grad kan språket skildre røyndomen? Og korleis kan det poetiske språket fange og skildre andre sider ved røyndomen enn den likeframme, realistiske framstillingsmåten? Er det i det heile nokon vits i å prøve? Slike spørsmål fengslar elles svært ulike forfattarar som 
+    strong Kjartan Fløgstad
+    | , 
+    strong Jon Fosse 
+    | (1959– ) og 
+    strong Cecilie Løveid (1951– ). 
 
   p I Noreg er det få forfattarar som omtaler seg sjølve som postmoderne, men vi finn eksempel på lyrikk inspirert av postmodernismen hos så ulike forfattarar som for eksempel <strong>Jan Erik Vold</strong> og <strong>Gro Dahle</strong>. 
 

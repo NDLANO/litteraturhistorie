@@ -9,7 +9,7 @@ PagePeriod(
 
   figure
     img(src="./Opplysningstid_Tida-og-samfunnsforholdene1.jpg" alt="Krigføring utanfor ein borg med røyk i bakgrunnen. Måleri.")
-    figcaption Stormen på Bastillen 14. juli 1789 Isaac Newton innleidde den franske revolusjonen
+    figcaption Storming av Bastillen 14. juli 1789 Isaac Newton innleidde den franske revolusjonen
 
   h5 Borgarskapet veks fram
   p

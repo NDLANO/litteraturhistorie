@@ -10,7 +10,7 @@ PagePeriod(
 
   figure
     img(src="./Opplysningstid_Tida-og-samfunnsforholdene1.jpg" alt="Krigføring utenfor en borg med røyk i bakgrunn. Maleri.")
-    figcaption Stormen på Bastillen 14. juli 1789  innledet den franske revolusjonen
+    figcaption Stormingen av Bastillen 14. juli 1789  innledet den franske revolusjonen
 
   h5 Borgerskapet vokser fram
   p
@@ -186,7 +186,7 @@ PagePeriod(
   h5 Ny musikkstil
   figure
     img(src="./Opplysningstid_Andre_kunstformer3.jpg" alt="Ei kvinne og to menn ved et orgel. Mannen på høyre side holder en fiolin. Maleri.")
-    figcaption Mozart spiller kammermusikk sammen med søstera og faren.
+    figcaption Mozart spiller kammermusikk sammen med søsteren og faren.
   p
     | Musikkstilen endrer seg også på 1700-tallet. Uttrykksformen går fra den tunge, kontrastfylte barokkstilen til en lettere og mer elegant form.
   h5 Kammermusikk

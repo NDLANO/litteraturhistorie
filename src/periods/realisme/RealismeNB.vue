@@ -155,7 +155,7 @@ PagePeriod(
   em Amtmandens Døttre 
   | regnes for den første tendensromanen i norsk litteratur. Denne betegnelsen bruker vi om en roman som er skrevet som innlegg i en samfunnsdebatt. Romanen tar opp den manglende friheten for kvinner. Romanen viser hvordan kvinners liv er styrt av menn, og hun kritiserer særlig de borgerlige fornuftsekteskapene. Camilla Collett var en helt sentral person i den gryende kampen for frigjøring av kvinner – for friheten til å velge hvem en vil gifte seg med, og friheten til å råde over eget liv. 
 
-  figure
+  figure.mt40.mb20
     img(src="./Realisme_Fra_romantikk_til_realisme5.jpg" alt="Jeger med gevær på skulderen og to hunder i bånd. Illustrasjon.")
     figcaption Illustrasjon til eventyret om Peer Gynt i «Norske Huldre-Eventyr og Folkesagn» av P. Chr. Asbjørnsen. Denne sagnfiguren inspirerte Ibsen til å skrive skuespillet Peer Gynt
   p <strong>Henrik Ibsen (1828–1906)</strong> og <strong>Bjørnstjerne Bjørnson (1832–1910)</strong> var på vei mot realismen i 1850- og 1860-årene. Tidlig i denne perioden skrev de begge tekster med utgangspunkt i norsk historie, de var påvirket av nasjonalromantikken og sagalitteraturen. Men mot slutten av perioden ble de begge farget av de nye tankene i tida. 
@@ -224,7 +224,9 @@ PagePeriod(
     em En Folkefiende 
     | (1882). I alle disse skuespillene tar han opp aktuelle samtidsemner, for eksempel dårlig forretningsmoral, utroskap og manglende frihet og rettigheter for kvinnene. Et underliggende tema i alle stykkene er også løgn og dobbeltmoral. Ibsen ville vise hvordan usannhet ødelegger individene, ja hele familier. 
 
-  .tac
+  .clear 
+
+  .tac.mt40.mb20
     img(src="./Realisme_Det_moderne_gjennombruddet2.jpg" alt="Tre ulike bilder av tre poserende kvinner ved sine arbeidsplasser. Foto.")
 
   p Utover i 1880-årene får Ibsens skuespill en annen karakter. Nå tematiserer han mer hvordan individet opplever å leve med moderniteten. De radikale endringene i samfunnet har også skapt problemer. Med disse tekstene peker Ibsen fram mot den modernismen som kommer til Norge i slutten av århundret. 
@@ -288,6 +290,8 @@ PagePeriod(
   img(src="./Realisme_Naturalismen1.jpg" alt="Bekymret kvinne med en politimann, omringet av en forsamling i et trangt rom. Maleri.")
   p I 1880-årene levde realistisk og naturalistisk diktning side om side. Naturalistisk diktning er en videreføring av den realistiske, men hos naturalistene er målet å trenge dypere ned i problemene og vise sammenhengen mellom samfunnsforhold og enkeltmenneskers liv. 
 
+  .clear
+  .mt20
   img.col.col6.right-image(src="./Realisme_Naturalismen_Zola.jpg" alt="Portrettbilde av en mann med skjegg, briller og alpelue. Foto.")
   p Den franske forfatteren Émile Zola (1840–1902) regnes som den første og største naturalisten. Idealet hans var den nye naturvitenskapen og darwinismen, og diktningen skulle være så dokumentarisk og objektiv som mulig. Zola mente at mennesket bare i liten grad hadde noen fri vilje, det var mer et produkt av arv og miljø. Derfor var det blant annet vanskelig å bryte ut av den klassen eller standen en var født inn i. 
 

@@ -172,15 +172,12 @@ PagePeriod(
 
   NdlaAudio(
     source="media/periods/romantikk/tekst12_wergeland_sprogreformasjon.mp3"
-    description="Henrik Wergeland: «Om norsk Sprogreformation» (1832)."
-  )
+    )
+  a(href="media/periods/romantikk/sprogreform.html" target="_blank") Henrik Wergeland: «Om norsk Sprogreformation» (1832).
 
   h5 Et norsk universitet
   p
     | Unionsoppløsningen og åpningen av Det Kongelige Frederiks Universitet (1811) aktualiserte spørsmålet om et norsk skriftspråk. Ludvig Holbergs og Nordahl Bruns tanker om et norsk akademi fikk endelig gjennomslag. (Se artikkel om opplysningstida og Norske Selskab.) Endelig kunne norsk ungdom ta høyere utdanning i sitt eget land.
-    
-  p  
-    a(href="media/periods/romantikk/sprogreform.html" target="_blank") Henrik Wergeland: ”Om norsk Sprogreformation” (1832).
     
   h5 Folkediktningen og språket
   p
@@ -201,6 +198,7 @@ PagePeriod(
     p
       | De romantiske malerne var opptatt av den ville, urørte naturen. Landskapet kan framstå som utilgjengelig for mennesker, og har dramatiske, eksotiske og mytiske trekk som vi i dag kjenner fra dataspill og fantasyfilm. Denne naturen kan ofte ha en symbolsk betydning. Landskapet speiler sjelelivet, og kunstneren blir ofte skildret som ensom og opphøyd.
 
+  .clear
   .flex.flex-wrap
     .col.col4
       figure.figure-left

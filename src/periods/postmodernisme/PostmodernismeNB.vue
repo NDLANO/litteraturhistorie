@@ -15,11 +15,6 @@ PagePeriod(
 
   p I 1969 ble det funnet olje i Nordsjøen. Inntektene fra oljeindustrien er den viktigste årsaken til at Norge stort sett har hatt en stabilt god økonomi de siste førti årene. 
 
-
-  figure
-    img(src="./Postmodernisme_Tida_og_samfunnsforhold2.jpg" alt="Fem personer med mye hår, store frakker og slengbukser poserer foran et utbrent hus. Foto.")
-    figcaption Rockebandet Steppenwolf, kjent for låten «Born to Be Wild». Foto: Henry Diltz / Corbis / Scanpix
-
   h5 Ungdomskultur og hippiebevegelse 
   p Siden 1950-årene hadde ungdomskulturen vært preget av opprør og motstand mot et materialistisk og konformt voksenliv. Mot slutten av 60-årene utviklet ungdomsopprøret seg til å bli et internasjonalt politisk opprør og en generell kamp for frigjøring og antiautoritære verdier. 
 
@@ -31,7 +26,12 @@ PagePeriod(
     em Hippie 
     | kommer av det engelske ordet ”hip”, et slanguttrykk for ”moderne og frigjort menneske”. Rockemusikk, alternativ livsstil og rusmidler var sentrale elementer i hippienes protest mot materialistiske verdier og mot USAs krigføring i Vietnam. 
 
-  figure.col.col4.left-image
+  figure
+    img(src="./Postmodernisme_Tida_og_samfunnsforhold2.jpg" alt="Fem personer med mye hår, store frakker og slengbukser poserer foran et utbrent hus. Foto.")
+    figcaption Rockebandet Steppenwolf, kjent for låten «Born to Be Wild». Foto: Henry Diltz / Corbis / Scanpix
+
+
+  figure.col.col4.right-image
     img(src="./Postmodernisme_Tida_og_samfunnsforhold3.jpg" alt="Fredelig demonstrasjonstog mot EEC på Karl Johan med Slottet i bakgrunnen.Foto.")
     figcaption Demonstrasjon mot EEC i 1972. Foto: Jan A. Martinsen / Aftenposten / Scanpix
 
@@ -171,7 +171,7 @@ PagePeriod(
 
   figure.col.col6.right-image
     img(src="./Postmodernisme_Litteraturen4.jpg" alt="Tre menn i samtale rundt stuebordet. Foto.")
-    figcaption «Dei tre unge opprørarane frå gruppa kring det litterære tidsskriftet Profil» var teksten til dette biletet då det sto på trykk i 1966. Tor Obrestad, Paal-Helge Haugen og Einar Økland.  Foto: NTB / Scanpix
+    figcaption «Dei tre unge opprørarane frå gruppa kring det litterære tidsskriftet Profil» var teksten til dette bildet da det sto på trykk i 1966. Tor Obrestad, Paal-Helge Haugen og Einar Økland.  Foto: NTB / Scanpix
 
   h5 Profil-gruppa
   p I 1965 samlet en gruppe venstreorienterte unge studenter, skribenter, forfattere og intellektuelle seg og gav ut litteraturtidsskriftet Profil. Profil-forfatterne eksperimenterte med både prosa og lyrikk, og de lanserte en ny form for modernisme – 
@@ -362,7 +362,9 @@ PagePeriod(
       img(src="./Postmodernisme_Litteraturen27.jpg" alt="Portrett av mann med langt lyst hår. Foto.")
       figcaption Triztán Vindtorn
 
-  p En forfatter som debuterte i 70-årene, men som først slo gjennom i 80-årene, er Triztán Vindtorn (1942–2009). Han er den mest rendyrkete surrealisten i norsk lyrikk, og skrev eksperimentelle dikt der han bryter de fleste språklige konvensjoner.
+  p En forfatter som debuterte i 70-årene, men som først slo gjennom i 80-årene, er 
+    strong Triztán Vindtorn 
+    | (1942–2009). Han er den mest rendyrkete surrealisten i norsk lyrikk, og skrev eksperimentelle dikt der han bryter de fleste språklige konvensjoner.
 
   h3 Litteraturen 1990–2010
 
@@ -379,7 +381,13 @@ PagePeriod(
     em metafiksjonale
     | . Med det mener vi at forfatteren bruker grep som visker ut grensene mellom virkelighet og fiksjon. Forfatteren kan for eksempel kommentere skriveprosessen sin i fortellingen, eller han kan selv opptre som figur i den. 
 
-  p I hvilken grad kan språket beskrive virkeligheten? Og hvordan kan det poetiske språket fange og skildre andre sider ved virkeligheten enn den likeframme, realistiske framstillingsmåten? Har det i det hele tatt noen hensikt å prøve? Slike spørsmål opptar ellers veldig ulike forfattere som Kjartan Fløgstad, Jon Fosse (1959– ) og Cecilie Løveid (1951– ). 
+  p I hvilken grad kan språket beskrive virkeligheten? Og hvordan kan det poetiske språket fange og skildre andre sider ved virkeligheten enn den likeframme, realistiske framstillingsmåten? Har det i det hele tatt noen hensikt å prøve? Slike spørsmål opptar ellers veldig ulike forfattere som 
+    strong Kjartan Fløgstad
+    | , 
+    strong Jon Fosse 
+    | (1959– ) og 
+    strong Cecilie Løveid 
+    | (1951– ). 
 
   p I Norge er det få forfattere som omtaler seg selv som postmoderne, men vi finner eksempler på lyrikk inspirert av postmodernismen hos så ulike forfattere som for eksempel 
     strong Jan Erik Vold 
@@ -629,7 +637,7 @@ PagePeriod(
 
   figure
     img(src="./Postmodernisme_Andre_kunstformer12.jpg" alt="Kvinne foran mange mikrofoner på en pressekonferanse. Foto.")
-    figcaption I dag fins det et mangfold av tvog radiokanaler som formidler nyheter til norske seere og lyttere. Bildet er tatt i 2007 og viser en pressekonferanse med daværende LO-leder Gerd-Liv Valla. Foto: Knut Erik Knudsen / VG /Scanpix
+    figcaption I dag fins det et mangfold av tv- og radiokanaler som formidler nyheter til norske seere og lyttere. Bildet er tatt i 2007 og viser en pressekonferanse med daværende LO-leder Gerd-Liv Valla. Foto: Knut Erik Knudsen / VG /Scanpix
 
   p Et typisk trekk ved moderne mediehistorie er 
     em kommersialisering

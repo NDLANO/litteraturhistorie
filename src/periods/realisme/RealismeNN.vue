@@ -162,7 +162,9 @@ PagePeriod(
     em Amtmandens Døttre 
     | er rekna for den første tendensromanen i norsk litteratur. Denne nemninga bruker vi om ein roman som er skriven som innlegg i ein samfunnsdebatt. Romanen tek opp den manglande fridommen for kvinner. Romanen viser korleis livet til kvinner er styrt av menn, og ho kritiserer særleg dei borgarlege fornuftsekteskapa. Camilla Collett var ein heilt sentral person i den gryande kampen for frigjering av kvinner – for fridommen til å velje kven ein vil gifte seg med, og fridommen til å rå over eige liv. 
 
-  figure
+  .clear 
+
+  figure.mt40.mb20
     img(src="./Realisme_Fra_romantikk_til_realisme5.jpg" alt="Jeger med gevær på skuldera og to hundar i bånd. Illustrasjon.")
     figcaption Illustrasjon til eventyret om Peer Gynt i «Norske Huldre-Eventyr og Folkesagn» av P. Chr. Asbjørnsen. Denne sagnfiguren inspirerte Ibsen til å skrive skodespelet Peer Gynt
 
@@ -238,7 +240,9 @@ PagePeriod(
     em En Folkefiende 
     | (1882). I alle desse skodespela tek han opp aktuelle samtidsemne, for eksempel dårleg forretningsmoral, utruskap og manglande fridom og rettar for kvinnene. Eit underliggjande tema i alle stykka er også løgn og dobbelmoral. Ibsen ville vise korleis løgna øydelegg individa, ja heile familiar. 
 
-  .tac
+  .clear 
+
+  .tac.mt40.mb20
     img(src="./Realisme_Det_moderne_gjennombruddet2.jpg" alt="Tre ulike bilete av tre poserande kvinner ved arbeidsplassane sine. Foto.")
 
   p Utover i 1880-åra får skodespela til Ibsen ein annan karakter. No tematiserer han meir korleis individet opplever å leve med moderniteten. Dei radikale endringane i samfunnet har også skapt problem. Med desse tekstane peiker Ibsen fram mot den modernismen som kjem til Noreg i slutten av hundreåret. 
@@ -310,6 +314,8 @@ PagePeriod(
   img(src="./Realisme_Naturalismen1.jpg" alt="Bekymra kvinne med ein politimann, omringa av ei forsamling i eit trangt rom. Måleri.")
   p I 1880-åra levde realistisk og naturalistisk dikting side om side. Naturalistisk dikting er ei vidareføring av den realistiske, men hos naturalistane er målet å trengje djupare ned i problema og vise samanhengen mellom samfunnstilhøva og liva til enkeltmenneska. 
 
+  .clear 
+  .mt20
   img.col.col6.right-image(src="./Realisme_Naturalismen_Zola.jpg" alt="Portrettbilete av en mann med skjegg, briller og alpelue. Foto.")
   p Den franske forfattaren Émile Zola (1840–1902) blir rekna som den første og største naturalisten. Idealet hans var den nye naturvitskapen og darwinismen, og diktinga skulle vere så dokumentarisk og objektiv som mogleg. Zola meinte at mennesket berre i liten grad hadde nokon fri vilje, det var meir eit produkt av arv og miljø. Derfor var livet for mange ein vond sirkel som det var vanskeleg å bryte ut av. Derfor var det vanskeleg å bryte ut av den klassen eller standen ein var fødd inn i. 
 

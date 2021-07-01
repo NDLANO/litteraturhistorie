@@ -78,7 +78,7 @@ PagePeriod(
       figcaption Hans E. Kinck
     figure.m1rem
       img(src="./Nyromantikk_Tanker_i_tida_Hamsun.jpg" alt="Sideprofil av mann med briller. Foto.")
-      figcaption Knut Hamsund
+      figcaption Knut Hamsun
 
   h5 Modernisme 
   p På slutten av hundreåret ser vi òg framveksten av det som skulle bli ei dominerande retning i kunst og litteratur framover – 
@@ -215,8 +215,10 @@ PagePeriod(
 
   img.col.col6.mt5.left-image(src="./Nyromantikk_Andre_kunstformer_Grieg.jpg" alt="Sjølvsikker mann med bart poserer med hendene i jakkekragen. Foto.")
   h5 Musikk 
-  p Perioden før og etter hundreårsskiftet er omtalt som sjølve gullalderen i norsk musikkhistorie. Edvard Grieg (1843–1907) er den mest kjende komponisten Noreg har fostra. Han blir rekna som ein nasjonalromantisk komponist, og den norske folkemusikken er den viktigaste inspirasjonskjelda hans. 
-  img.col.col12.mt20(src="./Nyromantikk_Andre_kunstformer2.jpg" alt="Noteark med tittel Allegro molto moderato. Illustrasjon.")
+  p Perioden før og etter hundreårsskiftet er omtalt som sjølve gullalderen i norsk musikkhistorie. Edvard Grieg (1843–1907) er den mest kjende komponisten Noreg har fostra. Han blir rekna som ein nasjonalromantisk komponist, og den norske folkemusikken er den viktigaste inspirasjonskjelda hans.
+
+  .clear
+  img.col.col12.mt40(src="./Nyromantikk_Andre_kunstformer2.jpg" alt="Noteark med tittel Allegro molto moderato. Illustrasjon.")
 
   .flex.flex-justify-space-evenly.mt40
     img.col.col4(src="./Nyromantikk_Andre_kunstformer_Sinding.jpg" alt="Portrett av mann med briller. Foto.")

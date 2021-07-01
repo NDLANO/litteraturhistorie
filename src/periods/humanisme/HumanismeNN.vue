@@ -54,7 +54,7 @@ PagePeriod(
    | Etter svartedauden ligg det meste nede her i landet, men i Italia startar ei ny utvikling. Der blomstrar handelen opp, og kjøpmennene kjem i kontakt med andre land og kulturar. Handelsborgarane i byane blir ei viktig samfunnsgruppe, og jordeigarane mister dermed noko av makta. Med auka handel får også pengeøkonomien etter kvart større plass. 
 
   h5 Boktrykkjarkunsten – ei ny tid 
-  img.col.col6.mt5.right-image.mt20(src="./Humanisme_Tida-og-samfunnsforholdene3.jpg" alt="Fire personar studerer eit stort ark inne i eit trykkeri. Måleri.")
+  img.col.col4.mt5.right-image.mt20(src="./Humanisme_Tida-og-samfunnsforholdene3.jpg" alt="Fire personar studerer eit stort ark inne i eit trykkeri. Måleri.")
 
   p
    | Johann Gutenberg (1397–1468) blir rekna som opphavsmann til boktrykkjarkunsten. Han konstruerer ei presse og blybokstavar til å trykkje med. Den første boka til Gutenberg er ein bibel som kjem på midten av 1400-talet. Den første vekeavisa blir trykt og utgitt i Strasbourg i 1609. Det første trykkjeriet i Noreg blir opna i 1643.
