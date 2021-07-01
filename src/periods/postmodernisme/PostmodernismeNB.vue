@@ -155,7 +155,7 @@ PagePeriod(
 
   p 
     strong Kolbein Falkeid 
-    | (1933– ) debuterte i 1962. Falkeid er kjent for å skrive en kombinasjon av sentrallyrikk og hverdagspoesi, og han er en folkekjær og mye lest poet. Samarbeidet med gruppa Vamp har også ført til at tekstene hans er formidlet til mange. 
+    | (1933–2021) debuterte i 1962. Falkeid er kjent for å skrive en kombinasjon av sentrallyrikk og hverdagspoesi, og han er en folkekjær og mye lest poet. Samarbeidet med gruppa Vamp har også ført til at tekstene hans er formidlet til mange. 
 
   NrkVideo(id="3284")
 
@@ -467,8 +467,6 @@ PagePeriod(
 
   NrkVideo(id="3412")
 
-  NrkVideo(id="3246")
-
   figure.col.col4.left-image
     img(src="./Postmodernisme_Litteraturen40.jpg" alt="Mann med ryggsekk sitter ved siden av ei kvinne under et laken på scenen. Foto.")
     figcaption Gard B. Eidsvold og Helle Haugen i en scene fra Centralteatrets oppsetning av skuespillet «Tatt av kvinnen», som bygger på Erlend Loes roman. Foto: Erlend Aas / Scanpix
@@ -487,6 +485,9 @@ PagePeriod(
     | (2001) av 
     strong Helene Uri 
     | (1964– ) møter vi en kvinne som reduserer mannen til et objekt og et tilbehør på lik linje med skjerf og hansker. Den kvinnelige hovedkarakteren Gina Beck soler seg i glansen av en mann som hun trer på armen som en ny veske. Og når denne mannen ikke lenger tilfredsstiller hennes behov, bytter hun ham ut. 
+
+  NrkVideo(id="3246")
+
 
   figure.col.col4.right-image
     img(src="./Postmodernisme_Litteraturen41.jpg" alt="Kvinnelig forfatter på bokbad. Foto. ")

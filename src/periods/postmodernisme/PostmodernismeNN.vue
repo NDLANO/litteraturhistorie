@@ -17,10 +17,6 @@ PagePeriod(
   p I 1969 vart det funne olje i Nordsjøen. Inntektene frå oljeindustrien er den viktigaste årsaka til at Noreg stort sett har hatt ein stabilt god økonomi dei siste førti åra.
 
 
-  figure
-    img(src="./Postmodernisme_Tida_og_samfunnsforhold2.jpg" alt="Fem personar med mye hår, store frakkar og slengbukser poserer foran eit utbrend hus. Foto.")
-    figcaption Rockebandet Steppenwolf, kjend for låta «Born to Be Wild». Foto: Henry Diltz / Corbis / Scanpix
-
   h5 Ungdoms- og hippiekultur
   p Sidan 1950-åra hadde ungdomskulturen vore prega av opprør og motstand mot eit materialistisk og konformt vaksenliv. Mot slutten av 60-åra utvikla ungdomsopprøret seg til å bli eit internasjonalt politisk opprør og ein generell kamp for frigjering og antiautoritære verdiar. 
 
@@ -32,7 +28,11 @@ PagePeriod(
     em Hippie 
     | kjem av det engelske ordet ”hip”, eit slanguttrykk for ”moderne og frigjort menneske”. Rockemusikk, alternativ livsstil og rusmiddel var sentrale element i hippieprotesten mot materialistiske verdiar og mot USAs krigføring i Vietnam.
 
-  figure.col.col4.left-image
+  figure
+    img(src="./Postmodernisme_Tida_og_samfunnsforhold2.jpg" alt="Fem personar med mye hår, store frakkar og slengbukser poserer foran eit utbrend hus. Foto.")
+    figcaption Rockebandet Steppenwolf, kjend for låta «Born to Be Wild». Foto: Henry Diltz / Corbis / Scanpix
+
+  figure.col.col4.right-image
     img(src="./Postmodernisme_Tida_og_samfunnsforhold3.jpg" alt="Fredeleg demonstrasjonstog mot EEC på Karl Johan med Slottet i bakgrunnen.Foto.")
     figcaption Demonstrasjon mot EEC i 1972. Foto: Jan A. Martinsen / Aftenposten / Scanpix
 
@@ -146,7 +146,7 @@ PagePeriod(
 
   p Ein lyrikar som debuterte i 1960, var <strong>Stein Mehren</strong> (1935–2017). Mehren skriv sentrallyriske dikt om død og kjærleik, og han skriv modernistisk om forholdet mellom språk og erkjenning. Mehrens poesi er intellektuell og filosofisk, med røter attende til romantikken, men med eit blikk fram mot moderniteten og postmoderniteten – som han ofte er veldig kritisk til. 
 
-  p <strong>Kolbein Falkeid</strong> (1933– ) debuterte i 1962. Falkeid er kjend for å skrive ein kombinasjon av eksistensiell sentrallyrikk og kvardagspoesi, og han er ein folkekjær og mykje lesen poet. Samarbeidet med gruppa Vamp har òg ført til at tekstane hans er formidla til mange. 
+  p <strong>Kolbein Falkeid</strong> (1933–2021) debuterte i 1962. Falkeid er kjend for å skrive ein kombinasjon av eksistensiell sentrallyrikk og kvardagspoesi, og han er ein folkekjær og mykje lesen poet. Samarbeidet med gruppa Vamp har òg ført til at tekstane hans er formidla til mange. 
 
   NrkVideo(id="3284")
 
@@ -392,8 +392,6 @@ PagePeriod(
 
   NrkVideo(id="3412")
 
-  NrkVideo(id="3246")
-
   figure.col.col4.left-image
     img(src="./Postmodernisme_Litteraturen40.jpg" alt="Mann med ryggsekk sit ved sidan av ei kvinne under eit laken på scenen. Foto.")
     figcaption Gard B. Eidsvold og Helle Haugen i ei scene frå Centralteatret si oppsetjing av teaterstykket «Tatt av kvinnen», som byggjer på romanen til Erlend Loe. Foto: Erlend Aas / Scanpix
@@ -408,6 +406,8 @@ PagePeriod(
   p I 
     em Dyp rød 315 
     | (2001) av <strong>Helene Uri</strong> (1964– ) møter vi ei kvinne som reduserer mannen til eit objekt og ein gjenstand på lik linje med skjerf og hanskar. Den kvinnelege hovudkarakteren Gina Beck solar seg i glansen av ein mann som ho trær på armen som ei ny veske. Og når denne mannen ikkje lenger tilfredsstiller behova hennes, byter ho han ut. 
+
+  NrkVideo(id="3246")
 
   figure.col.col4.right-image
     img(src="./Postmodernisme_Litteraturen41.jpg" alt="Kvinneleg forfattar på bokbad. Foto. ")

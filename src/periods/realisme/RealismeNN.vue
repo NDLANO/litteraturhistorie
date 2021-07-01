@@ -30,7 +30,7 @@ PagePeriod(
 
   figure.col.col5.right-image
     img(src="./Realisme_Tida_og_samfunnsforholdene2.jpg" alt="Dampskip i eit hamneområde. Illustrasjon.")
-    figcaption «Constitutionen», det første damskipet i Noreg, på hamna i Arendal
+    figcaption «Constitutionen», det første dampskipet i Norge, på hamna i Arendal
 
   h5 Industrialisering: 
   ul
@@ -382,8 +382,8 @@ PagePeriod(
     em Livsslaven 
     | (1883) om korleis ein fattig gut blir sett bort og mishandla som barn. Det går bra med guten i ein periode, men han blir innhenta av sin eigen lagnad, og det endar tragisk. 
 
+  h5 Kristiania-bohemen 
   p
-    strong Kristiania-bohemen 
     | ”Bohemen” var namnet på ei lita, intellektuell og livstrøytt gruppe som heldt til på kafeane i Kristiania i 1880- og 1890-åra. Saman med utviklinga av bylivet hadde kafeane blomstra opp som møtestad for intellektuelle og kunstnarar. Bohemane provoserte og sjokkerte medborgarane med sine åtak på borgarleg moral og livsførsel. Dei praktiserte ”fri kjærleik” og var særleg kritiske til religion og ekteskap, som dei meinte hindra personleg frigjering. Bohemkrinsen møtte sterke reaksjonar og motstand – det borgarlege samfunnet såg på dei som representantar for ”den moderne vantrua”. Det vart stadig tydelegare at samfunnet ikkje lenger hadde eit felles og uproblematisk grunnlag for haldningar, moral og livsstil. Dette skremde og provoserte. 
 
   figure.col.col4.left-image

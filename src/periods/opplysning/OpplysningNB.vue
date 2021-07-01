@@ -44,7 +44,7 @@ PagePeriod(
     | ”Cogito, ergo sum.” (”Jeg tenker, altså er jeg.”) Dette er grunntanken i Descartes’ filosofi. Å være rasjonell eller tenke rasjonelt har med menneskelig fornuft å gjøre. Rasjonalismen ser fornuften og tanken som grunnlaget for all kunnskap. Hos Holberg finner vi den samme tenkemåten: Jeg tviler, altså tenker jeg. For å kunne tro må en tvile. (Holberg-sitat)
   h5 Empirisme
   p
-    | Empirismen henger sammen med rasjonalismen. Empiristene mener at erfaring er den eneste sikre kilden til all kunnskap. Empiri betyr forskning, og vi finner ordet igjen i empirisk forskning. Idéhistorisk legger begge retningene et felles grunnlag for tenkemåten i opplysningstida.
+    | Empirismen henger sammen med rasjonalismen. Empiristene mener at erfaring er den eneste sikre kilden til all kunnskap. Empiri betyr noe som er erfart, og vi finner ordet igjen i empirisk forskning. Idéhistorisk legger begge retningene et felles grunnlag for tenkemåten i opplysningstida.
   h5 Menneskesyn
   p
     | Tankene til Descartes og Holberg er idéhistorisk viktige fordi de plasserer grunnlaget for en forståelse av verden i mennesket selv – altså i den menneskelige fornuften, ikke i religiøs tro. Det er i ferd med å vokse fram en oppfatning av at mennesket er et rasjonelt, tenkende vesen.

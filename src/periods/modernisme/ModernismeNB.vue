@@ -283,13 +283,10 @@ PagePeriod(
   p
     | I 1950-årene ble et modernistisk formspråk stadig vanligere i lyrikken. Fra nå av var tradisjonelle lyrikere som Arnulf Øverland og Herman Wildenvey i mindretall. I den store modernismedebatten på 1950-tallet gikk blant annet Øverland til kraftig angrep på modernistene. I foredraget ”Tungetale fra Parnasset” (1953) anklaget han modernistiske lyrikere for ikke å mestre lyrikkens håndverk. Han mente den moderne poesien var totalt uforståelig – lyrikerne skrev innadvendte tekster som ekskluderte vanlige lesere. Lyrikken var blitt en tungetale som bare de innvidde leserne kunne finne mening i. De modernistiske kunstuttrykkene var for Øverland ”[...] en tonekunst uten melodi, en billedkunst uten form og en ordets kunst uten mening”. Ettertida har nok vist at Øverland undervurderte det lesende publikum, og at det er rom for ulike formspråk i lyrikken. 
 
-  ImageTextBlock(
-    :image="require(`./Modernisme_Norske_lyrikere1.jpg`)"
-    altText="Mann med briller leser ved skrivebordet. Foto."
-    )
-    h5 Arnulf Øverland 
-    p
-      | Arnulf Øverland (1889–1968) var en svært framtredende samfunns- og kulturpersonlighet. Som leder av Riksmålsforbundet engasjerte han seg sterkt i norsk språkdebatt, under krigen var han aktiv motstandsmann, og han var sterkt kritisk til kirken og kristendommen. I tillegg var han en engasjert talsmann for den tradisjonelle lyrikkens formspråk. Øverlands egne dikt brakte det lyriske språket nærmere hverdagsspråket og prosaen. Ordvalget er ofte enkelt og hverdagslig, og han er kjent for en svært poengtert skrivemåte. 
+  h5 Arnulf Øverland 
+  p
+    | Arnulf Øverland (1889–1968) var en svært framtredende samfunns- og kulturpersonlighet. Som leder av Riksmålsforbundet engasjerte han seg sterkt i norsk språkdebatt, under krigen var han aktiv motstandsmann, og han var sterkt kritisk til kirken og kristendommen. I tillegg var han en engasjert talsmann for den tradisjonelle lyrikkens formspråk. Øverlands egne dikt brakte det lyriske språket nærmere hverdagsspråket og prosaen. Ordvalget er ofte enkelt og hverdagslig, og han er kjent for en svært poengtert skrivemåte. 
+
   NrkVideo.mb20(id="4621")
 
   ImageTextBlock(
@@ -347,6 +344,8 @@ PagePeriod(
   p
     | Etter krigen møtte samnorskpolitikken sterkere og sterkere motstand, særlig blant forkjemperne for riksmålet, det vil si den nokså dansknære varianten av bokmålet. Målsettingen om ett felles skriftspråk ble tonet ned, og etter 1960 var målet ikke lenger en sammensmelting av de to målformene, men en fredelig og likeverdig sameksistens.
 
+  NrkVideo(id="60241")
+
   h3 Radioen – et nytt medium 
 
   figure.col.col12
@@ -362,8 +361,6 @@ PagePeriod(
   p
     em Filmavisen 
     | viste nyheter fra den siste uka og gikk som forfilm på norske kinoer. Allerede fra slutten av 1920-årene var det blitt laget lokale nyhetsvarianter av Filmavisen, men i 1940 overtok tyske myndigheter denne produksjonen. Nå ble det laget en nasjonal versjon som den tyske okkupasjonsmakta brukte i propagandaøyemed. Etter krigen bygde Filmavisen seg opp til å bli en svært viktig kanal for nyheter og folkeopplysning. 
-
-  NrkVideo(id="60241")
 
   h3 Filmindustrien vokser fram 
 

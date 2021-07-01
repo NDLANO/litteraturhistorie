@@ -30,7 +30,7 @@ PagePeriod(
 
   figure.col.col5.right-image
     img(src="./Realisme_Tida_og_samfunnsforholdene2.jpg" alt="Dampskip i et havneområde. Illustrasjon.")
-    figcaption «Constitutionen», det første damskipet i Norge, på havna i Arendal
+    figcaption «Constitutionen», det første dampskipet i Norge, på havna i Arendal
 
   h5 Industrialisering:
 
@@ -160,10 +160,10 @@ PagePeriod(
 
   img.col.col4.left-image(src="./Realisme_Fra_romantikk_til_realisme4.jpg" alt="Portrettbilde av kvinne med kjole. Maleri.")
   p <strong>Camilla Collett (1813–1895)</strong> var en nybrottskvinne både innenfor litteratur og samfunnsdebatt. Hovedverket hennes, 
-  em Amtmandens Døttre 
-  | (1855), kom ut anonymt. Å være kvinnelig forfatter var nemlig helt uvanlig på midten av 1800-tallet. Her brøt Collett med datidas kvinneideal. 
-  em Amtmandens Døttre 
-  | regnes for den første tendensromanen i norsk litteratur. Denne betegnelsen bruker vi om en roman som er skrevet som innlegg i en samfunnsdebatt. Romanen tar opp den manglende friheten for kvinner. Romanen viser hvordan kvinners liv er styrt av menn, og hun kritiserer særlig de borgerlige fornuftsekteskapene. Camilla Collett var en helt sentral person i den gryende kampen for frigjøring av kvinner – for friheten til å velge hvem en vil gifte seg med, og friheten til å råde over eget liv. 
+    em Amtmandens Døttre 
+    | (1855), kom ut anonymt. Å være kvinnelig forfatter var nemlig helt uvanlig på midten av 1800-tallet. Her brøt Collett med datidas kvinneideal. 
+    em Amtmandens Døttre 
+    | regnes for den første tendensromanen i norsk litteratur. Denne betegnelsen bruker vi om en roman som er skrevet som innlegg i en samfunnsdebatt. Romanen tar opp den manglende friheten for kvinner. Romanen viser hvordan kvinners liv er styrt av menn, og hun kritiserer særlig de borgerlige fornuftsekteskapene. Camilla Collett var en helt sentral person i den gryende kampen for frigjøring av kvinner – for friheten til å velge hvem en vil gifte seg med, og friheten til å råde over eget liv. 
 
   figure.mt40.mb20
     img(src="./Realisme_Fra_romantikk_til_realisme5.jpg" alt="Jeger med gevær på skulderen og to hunder i bånd. Illustrasjon.")
@@ -353,7 +353,9 @@ PagePeriod(
     em Livsslaven 
     | (1883) om hvordan en fattig gutt blir satt bort og mishandlet som barn. Det går bra med gutten i en periode, men han blir innhentet av sin egen skjebne, og det ender tragisk. 
 
-  p <strong>Kristiania-bohemen</strong> ”Bohemen” var navnet på en liten, intellektuell og livstrøtt gruppe som hadde tilhold på kafeene i Kristiania i 1880- og 1890-årene. Sammen med utviklingen av bylivet hadde kafeene blomstret opp som møtested for intellektuelle og kunstnere. Bohemene provoserte og sjokkerte medborgerne med sine angrep på borgerlig moral og livsførsel. De praktiserte ”fri kjærlighet” og var særlig kritiske til religion og ekteskap, som de mente hindret personlig frigjøring. Bohemkretsen møtte sterke reaksjoner og motstand – det borgerlige samfunnet så på dem som representanter for ”den moderne vantroen”. Det ble stadig tydeligere at samfunnet ikke lenger hadde et felles og uproblematisk grunnlag for holdninger, moral og livsstil. Dette skremte og provoserte.
+  h5 Kristiania-bohemen
+  p
+    | ”Bohemen” var navnet på en liten, intellektuell og livstrøtt gruppe som hadde tilhold på kafeene i Kristiania i 1880- og 1890-årene. Sammen med utviklingen av bylivet hadde kafeene blomstret opp som møtested for intellektuelle og kunstnere. Bohemene provoserte og sjokkerte medborgerne med sine angrep på borgerlig moral og livsførsel. De praktiserte ”fri kjærlighet” og var særlig kritiske til religion og ekteskap, som de mente hindret personlig frigjøring. Bohemkretsen møtte sterke reaksjoner og motstand – det borgerlige samfunnet så på dem som representanter for ”den moderne vantroen”. Det ble stadig tydeligere at samfunnet ikke lenger hadde et felles og uproblematisk grunnlag for holdninger, moral og livsstil. Dette skremte og provoserte.
   
   figure.col.col4.left-image
     img(src="./Realisme_Naturalismen_Jaeger.jpg" alt="Mann i sofa med jakke og hatt. Illustrasjon.")
