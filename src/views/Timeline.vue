@@ -50,6 +50,7 @@
           :from="period.from"
           :to="period.to"
           :id="period.id"
+          :timeLabel="getTimeLabel(period)"
           :yearMarkings="period.yearMarkings"
           :sectionWidthMultiplier="period.widthMultiplier"
           :showBooks="showBooks"
