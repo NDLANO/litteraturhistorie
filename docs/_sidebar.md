@@ -1,5 +1,6 @@
 - [NDLA Statistikk](/)
   - [Oppbygging og filestruktur](filestructure.md)
+  - [Perioder](periods.md)
   - [Hvordan legge inn en ny bok](new_item.md)
   - [Komponenter](components.md)
   - [Mediafiler](mediafiles.md)
