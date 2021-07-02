@@ -44,7 +44,7 @@ export const periods = [
     nnTitle: "Barokk",
     nbTitle: "Barokk",
     from: "1600",
-    to: "1700",
+    to: "1750",
     layer: 0,
     left: 0,
     yearMarkings: [
@@ -54,8 +54,8 @@ export const periods = [
   },
   {
     id: "opplysning",
-    nnTitle: "Klassisisme og opplysningstid",
-    nbTitle: "Klassisisme og opplysningstid",
+    nnTitle: "Opplysningstid",
+    nbTitle: "Opplysningstid",
     from: "1700",
     to: "1800",
     nnTimeLabel: "1700-talet",
@@ -80,8 +80,8 @@ export const periods = [
   },
   {
     id: "realisme",
-    nnTitle: "Realisme og naturalisme",
-    nbTitle: "Realisme og naturalisme",
+    nnTitle: "Realisme, naturalisme og det moderne gjennombrotet",
+    nbTitle: "Realisme, naturalisme og det moderne gjennombruddet",
     from: "1850",
     to: "1890",
     layer: 0,
@@ -91,8 +91,8 @@ export const periods = [
   },
   {
     id: "nyromantikk",
-    nnTitle: "Nyromantikk",
-    nbTitle: "Nyromantikk",
+    nnTitle: "Nyromantikk og tidleg modernisme",
+    nbTitle: "Nyromantikk og tidlig modernisme",
     from: "1890",
     to: "1905",
     layer: 0,

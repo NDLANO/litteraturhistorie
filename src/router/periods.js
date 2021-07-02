@@ -79,7 +79,7 @@ export default [
     meta: {
       title: "Barokk",
       from: "1600",
-      to: "1700",
+      to: "1750",
       color: "0xCC3300",
       fillColor: "0xe5997f",
       y: "0",
@@ -97,7 +97,7 @@ export default [
     meta: {
       title: "Barokk",
       from: "1600",
-      to: "1700",
+      to: "1750",
       color: "0xCC3300",
       fillColor: "0xe5997f",
       y: "0",
@@ -113,7 +113,7 @@ export default [
     path: "/nn/periods/opplysning",
     name: "OpplysningNN",
     meta: {
-      title: "Klassisisme og opplysningstid",
+      title: "Opplysningstid",
       from: "1700",
       to: "1800",
       timeLabel: "1700-talet",
@@ -132,7 +132,7 @@ export default [
     path: "/nb/periods/opplysning",
     name: "OpplysningNB",
     meta: {
-      title: "Klassisisme og opplysningstid",
+      title: "Opplysningstid",
       from: "1700",
       to: "1800",
       timeLabel: "1700-tallet",
@@ -187,7 +187,7 @@ export default [
     path: "/nn/periods/realisme",
     name: "RealismeNN",
     meta: {
-      title: "Realisme og naturalisme",
+      title: "Realisme, naturalisme og det moderne gjennombrotet ",
       from: "1850",
       to: "1890",
       color: "0xFF9900",
@@ -205,7 +205,7 @@ export default [
     path: "/nb/periods/realisme",
     name: "RealismeNB",
     meta: {
-      title: "Realisme og naturalisme",
+      title: "Realisme, naturalisme og det moderne gjennombruddet",
       from: "1850",
       to: "1890",
       color: "0xFF9900",
@@ -223,7 +223,7 @@ export default [
     path: "/nn/periods/nyromantikk",
     name: "NyromantikkNN",
     meta: {
-      title: "Nyromantikk",
+      title: "Nyromantikk og tidleg modernisme",
       from: "1890",
       to: "1905",
       color: "0xCC3300",
@@ -241,7 +241,7 @@ export default [
     path: "/nb/periods/nyromantikk",
     name: "NyromantikkNB",
     meta: {
-      title: "Nyromantikk",
+      title: "Nyromantikk og tidlig modernisme",
       from: "1890",
       to: "1905",
       color: "0xCC3300",
