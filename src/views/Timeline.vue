@@ -164,6 +164,13 @@ export default {
 
       return period["nbTitle"];
     },
+    getTimeLabel(period) {
+      if (this.globalVars.langCode == "nn" || period["nnTimeLabel"])
+        return period["nnTimeLabel"];
+      if (this.globalVars.langCode == "nb" || period["nbTimeLabel"])
+        return period["nbTimeLabel"];
+      return "";
+    },
     onTimelineDragStart(e) {
       console.log("Timeline.onTimelineDragStart: removing ticker");
       gsap.ticker.remove(this.scrollInertia);

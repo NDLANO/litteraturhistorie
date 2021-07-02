@@ -14,7 +14,8 @@ li.sectionList_item
       .circleEra
         img(:src="require(`@/periods/${id}/sirkel_${id}.png`)")
         .circleEra_content
-          .circleEra_date {{ from }}-{{ to }}
+          .circleEra_date.timeLabel(v-if="timeLabel !== ''") {{ timeLabel }}
+          .circleEra_date.from-to(v-if="timeLabel === ''") {{ from }}-{{ to }}
           h2.circleEra_title {{ title }}
           button.btnEra(:id="id"
             @keyup.enter="onEraEnterKey"
@@ -96,6 +97,10 @@ export default {
     to: {
       type: String,
       default: "1350",
+    },
+    timeLabel: {
+      type: String,
+      default: "",
     },
     yearMarkings: {
       type: Array,

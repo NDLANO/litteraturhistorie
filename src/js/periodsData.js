@@ -58,6 +58,8 @@ export const periods = [
     nbTitle: "Klassisisme og opplysningstid",
     from: "1700",
     to: "1800",
+    nnTimeLabel: "1700-talet",
+    nbTimeLabel: "1700-tallet",
     layer: 0,
     left: 0,
     yearMarkings: [

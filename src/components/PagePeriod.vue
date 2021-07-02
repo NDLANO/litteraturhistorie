@@ -4,11 +4,12 @@
     .lo_pageTopBar
       ButtonBackArrow
       .pageTopBar_firstItem {{ title }}
-      .pageTopBar_secondItem {{ from }} - {{ to }}
+      .pageTopBar_secondItem(v-if="!timeLabel") {{ from }} - {{ to }}
+      .pageTopBar_secondItem(v-else) {{ timeLabel }}
     
     .page.page_period
       PageBanner(:src="bannerImage")
-      PagePeriodCircle(:src="circleImage" :title="title" :from="from" :to="to")
+      PagePeriodCircle(:src="circleImage" :title="title" :from="from" :to="to" :timeLabel="timeLabel")
       .page_content
         slot
 
@@ -24,7 +25,7 @@ import PagePeriodCircle from "@/components/PagePeriodCircle";
 import ButtonBackArrow from "@/components/ButtonBackArrow";
 
 export default {
-  name: "PageBook",
+  name: "PagePeriod",
   inject: ["globalVars"],
   props: {
     bannerImage: {
@@ -50,6 +51,9 @@ export default {
     },
     to() {
       return this.$route.meta.to;
+    },
+    timeLabel() {
+      return this.$route.meta.timeLabel;
     },
   },
 };

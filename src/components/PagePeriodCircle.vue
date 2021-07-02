@@ -2,7 +2,8 @@
 .page_circleEra
   img( :src="imageSrc")
   .circleEra_content
-    .circleEra_date {{ from }}-{{ to }}
+    .circleEra_date(v-if="!timeLabel") {{ from }}-{{ to }}
+    .circleEra_date(v-else) {{ timeLabel }}
     h2.circleEra_title {{ title }}
 </template>
 
@@ -25,6 +26,10 @@ export default {
     from: {
       type: String,
       default: "",
+    },
+    timeLabel: {
+      type: String,
+      default: undefined,
     },
   },
   data() {
