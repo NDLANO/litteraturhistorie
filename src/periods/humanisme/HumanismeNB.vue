@@ -87,6 +87,7 @@ PagePeriod(
   NdlaVideo(
     source="media/periods/humanisme/Othello.mp4"
     description="William Shakespeare: ”Othello”. Elevproduksjon laga av elevar ved Vågsbygd videregående skole. Regi: Ellen Kalvenes."
+    captionsUrl="media/periods/humanisme/Othello.nb-no.vtt"
   )  
 
   div.mb60

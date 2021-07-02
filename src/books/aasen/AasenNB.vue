@@ -123,6 +123,11 @@ PageBook
 
   p Vi vet lite om Ivar Aasens privatliv. Han frir og får nei to ganger, og deretter slår han fra seg tanken om giftermål. Han er ingen einstøing og går gjerne i teater, på konsert, i kneiper og salonger. Likevel føler han i perioder et sterkt savn etter noen å dele livet med. 
 
+  NdlaVideo(
+    source="media/books/aasen/Forfattaren_Ivar_Aasen.mp4"
+    captionsUrl="media/books/aasen/Forfattaren_Ivar_Aasen.nb-no.vtt"
+    )
+
   h3 Gamle former i Aasens landsmål
   p Aasen bruker det norrøne språket som rettesnor når han velger ut ordformene som skal være en del av landsmålet. Her følger noen eksempler:
 

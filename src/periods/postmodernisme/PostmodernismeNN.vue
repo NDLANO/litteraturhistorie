@@ -507,7 +507,8 @@ PagePeriod(
 
   ImageTextBlock(
     :image="require(`./Postmodernisme_Andre_kunstformer10.jpg`)"
-    altText="Mannleg saksofonist på scene. Foto."    
+    altText="Mannleg saksofonist på scene. Foto."   
+    imageCaption="Jan Garbarek. Foto: Knut Fjeldstad / Scanpix" 
     )
     h5 Jan Garbarek 
     p (1947– ) er ein av få norske musikarar med internasjonal aksept som stilskapar innanfor jazzen. Garbarek er kjend for å blande inn folketonar i jazzen, og for sitt samarbeid med poeten Jan Erik Vold. Album som 
@@ -518,7 +519,8 @@ PagePeriod(
 
   ImageTextBlock(
     :image="require(`./Postmodernisme_Andre_kunstformer11.jpg`)"
-    altText="Kvinneleg vokalist på scene. Foto."    
+    altText="Kvinneleg vokalist på scene. Foto."
+    imageCaption="Mari Boine. Foto: Mimsy Møller / Samfoto / Scanpix"  
     )
     h5 Mari Boine 
     p (1956– ) er ein annan norsk artist med internasjonal suksess. Musikken hennar er sterkt inspirert av samiske folketonar og joik. Ho bruker jazz og rock til å fornye og modernisere den samiske musikken – ein musikk som ofte blir omtalt som ”verdsmusikk”. 

@@ -616,6 +616,7 @@ PagePeriod(
   ImageTextBlock(
     :image="require(`./Postmodernisme_Andre_kunstformer10.jpg`)"
     altText="Mannlig saksofonist på scene. Foto."    
+    imageCaption="Jan Garbarek. Foto: Knut Fjeldstad / Scanpix" 
     )
     h5 Jan Garbarek 
     p 
@@ -628,6 +629,7 @@ PagePeriod(
   ImageTextBlock(
     :image="require(`./Postmodernisme_Andre_kunstformer11.jpg`)"
     altText="Kvinnelig vokalist på scene. Foto."    
+    imageCaption="Mari Boine. Foto: Mimsy Møller / Samfoto / Scanpix"  
     )
     h5 Mari Boine 
     p 

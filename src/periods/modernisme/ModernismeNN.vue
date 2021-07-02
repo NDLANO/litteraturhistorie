@@ -112,6 +112,7 @@ PagePeriod(
     figure.m1rem
       img(src="./Modernisme_Tanker_i_tida6.jpg" alt="Mann med skjegg og stor frakk sit med folda hender. Foto.")
       figcaption Fjodor Dostojevskij
+  .image-rights Foto: Scanpix
   p
     | Eksistensialismen har sitt opphav i ideane til den danske filosofen Søren Kierkegaard (1813–1855). Også filosofen Friedrich Wilhelm Nietzsche (1844–1900) og forfattaren Fjodor Dostojevskij (1821–1881) har spela ei rolle for framveksten av denne retninga.  
   p
