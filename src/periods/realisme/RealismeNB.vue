@@ -74,13 +74,17 @@ PagePeriod(
 
   h3 Tanker i tida 
 
-  img.col.col6.left-image(src="./Realisme_Tanker_i_tida1.jpg" alt="Portrettbilde av mann i dress. Foto.")
+  figure.col.col6.left-image
+    img(src="./Realisme_Tanker_i_tida1.jpg" alt="Portrettbilde av mann i dress. Foto.")
+    figcaption Auguste Comte
   h5 Positivismen
   p Allerede i 1830-årene lanserte filosofen Auguste Comte (1798–1857) en ny vitenskapelig tenkemåte. Comte argumenterte for fornuften som utgangspunkt for kunnskap. Han hevdet at all kunnskap er tuftet på erfaring, som vi får ved å observere livet og verden rundt oss. En slik tenkemåte, positivismen, forkaster alle spekulasjoner om at det finnes noe annet enn det vi selv kan oppleve eller sanse. 
 
   p Dette brøt med en tradisjonell forestilling om at det lå en guddommelig kraft bak verdens fenomener. Comtes tanker var fundamentale for den naturvitenskapelige tenkemåten, men det spesielle var at Comte utviklet positivismen som en metode i samfunnsvitenskap. Også mennesket så han i et positivistisk lys. Denne rasjonelle tilnærmingen til verden er typisk for modernitetens tenkemåte.
 
-  img.col.col6.left-image(src="./Realisme_Tanker_i_tida2.jpg" alt="Portrettbilde av mann med tykt skjegg. Foto.")
+  figure.col.col6.left-image
+    img(src="./Realisme_Tanker_i_tida2.jpg" alt="Portrettbilde av mann med tykt skjegg. Foto.")
+    figcaption Karl Marx
   h5 Kommunismen
   p I 1848 gav Karl Marx (1818–1883) og Friedrich Engels (1820–1895) ut boka 
     em Det kommunistiske manifest
@@ -88,22 +92,30 @@ PagePeriod(
 
   p I praksis fikk ikke de kommunistiske ideene særlig gjennomslag før den russiske revolusjonen i 1917. Da ble det første kommunistiske samfunnet grunnlagt. Men ideene til Marx og Engels har vært viktige for arbeiderne i kampen for frigjøring og bedre økonomiske og politiske rettigheter. 
 
-  img.col.col6.left-image(src="./Realisme_Tanker_i_tida3.jpg" alt="Portrett i sideprofil av mann med pudderparykk. Illustrasjon.")
+  figure.col.col6.left-image
+    img(src="./Realisme_Tanker_i_tida3.jpg" alt="Portrett i sideprofil av mann med pudderparykk. Illustrasjon.")
+    figcaption Adam Smith
   h5 Liberalismen
   p Liberalismen er en ideologi med røtter tilbake til opplysningstida. I utgangspunktet var liberalistene opptatt av å framheve de individuelle rettighetene. De ville redusere den nesten allmektige konge- og statsmakta. Men på 1700-tallet ser vi at liberalistene utvikler tanker om frihet også i økonomisk forstand. Sentralt her står filosofen Adam Smith (1723–1790). 
 
-  img.col.col6.left-image(src="./Realisme_Tanker_i_tida4.jpg" alt="Portrettbilde av mann med sløyfe. Illustrasjon.")
+  figure.col.col6.left-image
+    img(src="./Realisme_Tanker_i_tida4.jpg" alt="Portrettbilde av mann med sløyfe. Illustrasjon.")
+    figcaption John Stuart Mill    
   p En forkjemper for liberalismen på 1800-tallet, den engelske filosofen og økonomen John Stuart Mill (1806–1873), mente derimot at staten måtte spille en aktiv rolle for å sikre et velferdssamfunn for alle. Han kalles derfor 
     em sosialliberalismens 
     | far. I forlengelsen av et slikt syn ligger retten til å gjøre opprør mot urettferdige tilstander og arbeide for endringer i samfunnet. Mange forfattere og andre som la fram ideen om å bygge en nasjon, sluttet seg til dette synet. Det liberale partiet Venstre ble så stiftet som landets første parti i 1884.
 
-  img.col.col6.left-image(src="./Realisme_Tanker_i_tida5.jpg" alt="Portrettbilde av mann med hvite klær. Illustrasjon.")
-  h5 Kristen eksistensialisme
+  figure.col.col6.left-image
+    img(src="./Realisme_Tanker_i_tida5.jpg" alt="Portrettbilde av mann med hvite klær. Illustrasjon.")
+    figcaption Søren Kierkegaard
+  h5.mt20 Kristen eksistensialisme
   p En person som skulle få innflytelse på flere forfattere under det moderne gjennombruddet, var den danske teologen og filosofen Søren Kierkegaard (1813–1855). ”Subjektivitet er sannhet”, hevdet Kierkegaard. Med dette mente han at troen var noe personlig og subjektivt for enkeltmennesket. Og det er nettopp dette fokuset på at sannheten er individuell og subjektiv, som knytter han til moderniteten. 
 
   p Kierkegaard grunnla eksistensialismen. Men i motsetning til mange seinere eksistensialister, som var ateister, var Kierkegaard dypt kristen. Synet hans på kristendommen førte til konflikt med det etablerte kristenfolket i Danmark. For Kierkegaard handlet kristen tro som sagt om noe personlig. Han mente den danske kirka hadde et slapt og lite inderlig forhold til gudstro. 
 
-  img.col.col6.left-image(src="./Realisme_Tanker_i_tida6.jpg" alt="Portrett i sideprofil av mann med langt skjegg. Foto.")
+  figure.col.col6.left-image
+    img(src="./Realisme_Tanker_i_tida6.jpg" alt="Portrett i sideprofil av mann med langt skjegg. Foto.")
+    figcaption Charles Darwin
   h5 Darwinismen
   p I 1859 kom Charles Darwin (1809–1882) med boka 
     em On the Origin of Species (Om artenes opprinnelse)
@@ -111,7 +123,9 @@ PagePeriod(
 
   p I overensstemmelse med de positivistiske forskningsidealene baserte Darwin seg på observasjoner og innsamling av data. Darwin avviste en guddommelig plan med skaperverket og baserte sin vitenskap på fornuft.
 
-  img.col.col6.left-image(src="./Realisme_Tanker_i_tida7.jpg" alt="Portrettbilde av mann med stor bart. Foto.")
+  figure.col.col6.left-image
+    img(src="./Realisme_Tanker_i_tida7.jpg" alt="Portrettbilde av mann med stor bart. Foto.")
+    figcaption Friedrich Nietzsche
   h5 Sekularisering – frigjøring og livssynskrise
   p Med Darwin fikk kristentroen en utfordring. Mennesket var resultatet av en evolusjon. Også tidligere vitenskapelige oppdagelser, som at jorda ikke er sentrum i universet, hadde rokket ved den kristne læra. 
 
@@ -128,8 +142,13 @@ PagePeriod(
     | blir sekularisert, handler om at stadig færre individer i samfunnet har en religiøs tro. På 1800-tallet førte dette både til en følelse av frihet og til en livssynskrise. 
 
 
-  h3 Fra romantikk til realisme 
-  img(src="./Realisme_Fra_romantikk_til_realisme1.jpg" alt="Ei kvinne sitter og fletter håret til et barn. Maleri.")
+  h3 Fra romantikk til realisme
+
+  figure 
+    img(src="./Realisme_Fra_romantikk_til_realisme1.jpg" alt="Ei kvinne sitter og fletter håret til et barn. Maleri.")
+    figcaption
+      em Håret flettes 
+      | av Christian Krohg (1888)
 
   .mt40
     img.col.col4.left-image(src="./Realisme_Fra_romantikk_til_realisme2.jpg" alt="Portrettbilde av mann med sort bustete hår og sløyfe. Foto.")
@@ -167,7 +186,9 @@ PagePeriod(
 
   figure.mt40.mb20
     img(src="./Realisme_Fra_romantikk_til_realisme5.jpg" alt="Jeger med gevær på skulderen og to hunder i bånd. Illustrasjon.")
-    figcaption Illustrasjon til eventyret om Peer Gynt i «Norske Huldre-Eventyr og Folkesagn» av P. Chr. Asbjørnsen. Denne sagnfiguren inspirerte Ibsen til å skrive skuespillet Peer Gynt
+    figcaption Illustrasjon til eventyret om Peer Gynt i 
+      em Norske Huldre-Eventyr og Folkesagn 
+      | av P. Chr. Asbjørnsen. Denne sagnfiguren inspirerte Ibsen til å skrive skuespillet Peer Gynt
   p <strong>Henrik Ibsen (1828–1906)</strong> og <strong>Bjørnstjerne Bjørnson (1832–1910)</strong> var på vei mot realismen i 1850- og 1860-årene. Tidlig i denne perioden skrev de begge tekster med utgangspunkt i norsk historie, de var påvirket av nasjonalromantikken og sagalitteraturen. Men mot slutten av perioden ble de begge farget av de nye tankene i tida. 
 
   p Ibsen gav ut skuespillene 
@@ -184,7 +205,9 @@ PagePeriod(
 
   figure.col.col4.right-image
     img(src="./Realisme_Fra_romantikk_til_realisme6.jpg" alt="En mann holder hånden på skulderen til ei bekymret kvinne. Foto.")
-    figcaption Fra den svenske filmen «Synnöve Solbakken» (1919)
+    figcaption Fra den svenske filmen 
+      em Synnöve Solbakken 
+      | (1919)
   p Bjørnson utgav novellen ”Faderen” (1860) og romanene 
     em Synnøve Solbakken 
     | (1857) og 
@@ -495,7 +518,9 @@ PagePeriod(
 
   figure.col.col3.right-image
     img(src="./Realisme_Kunsten_og_moderniteten1.jpg" alt="To kvinner utenfor ei dør som er bevoktet av en politimann. Maleri.")
-    figcaption Detalj fra «Albertine i politilegens venteværelse» av Christian Krohg
+    figcaption Detalj fra 
+      em Albertine i politilegens venteværelse 
+      | av Christian Krohg
   h5 Hvordan framstille den moderne verden?
   p På lik linje med de realistiske forfatterne ville også kunstnerne i denne perioden få fram sannheten. De realistiske og naturalistiske malerne tok et oppgjør med det nasjonalromantiske idealet om å male vakkert. De ville male samfunnet slik det var. Motivene hentet de fra hverdagslivet, og på samme måte som realistisk diktning skulle malerkunsten gjenspeile hvordan folk levde, og hvilken samfunnsklasse de tilhørte. 
 
@@ -516,7 +541,9 @@ PagePeriod(
     .col.col5
       figure.figure-left.mt20
         img(src="./Realisme_Kunsten_og_moderniteten2.jpg" alt="Landskap med båt, vann og soloppgang. Maleri.")
-        figcaption Claude Monet: «Impression, soleil levant» (1872). Maleriet skal ha gitt navn til benevnelsen impresjonisme
+        figcaption Claude Monet: 
+          em Impression, soleil levant 
+          | (1872). Maleriet skal ha gitt navn til benevnelsen impresjonisme
     .col.col7
       p Den meste kjente impresjonisten var nok Claude Monet (1840–1926). Han var mer interessert i naturen enn i bylivet. Bare det viktigste – førsteinntrykket – skulle være med i bildet, og målet var å fange lyset i alle fasetter. Monet malte derfor det samme motivet på ulike tider av døgnet for å få fram de forskjellige fargene. 
 
@@ -524,7 +551,9 @@ PagePeriod(
     .col.col5
       figure.figure-left.mt20
         img(src="./Realisme_Kunsten_og_moderniteten3.jpg" alt="Mennesker samla rundt et bord i hagen. De hever glassene. Maleri.")
-        figcaption «Hip hip hurra! Kunstnerfest på Skagen» av P.S. Krøyer (1888)
+        figcaption 
+          em Hip hip hurra! Kunstnerfest på Skagen 
+          | av P.S. Krøyer (1888)
     .col.col7
       p I Skandinavia var det særlig Skagen-malerne som stod for en impresjonistisk stil. I Skagen på Jylland fant norske malere som Christian Krohg og Frits Thaulow (1847–1906) en samhørighet med de danske kunstnerne Peter S. Krøyer (1851–1909) og ekteparet Michael (1849–1927) og Anna Ancher (1859–1935). Motivet var ofte naturen, og de arbeidet med å fange det særpregete lyset ved danskekysten. 
 
