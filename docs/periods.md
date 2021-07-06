@@ -80,4 +80,4 @@ Periodene er definert i to filer. Disse inneholder til en hvis grad de samme dat
 
   `title`, `from`, `to` og `timeLabel` bør ha det samme innholdet som i `periodsData.js`.
 
-  Disse metadataene brukes i PagePeriod/Book.vue og PageBanner.
+  Disse metadataene brukes i PagePeriod/Book.vue og PagePeriodCircle.vue.
