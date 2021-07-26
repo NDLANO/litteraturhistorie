@@ -109,7 +109,7 @@ export const periods = [
     layer: 0,
     left: 0,
     widthMultiplier: 1.5,
-    yearMarkings: [[1900, 350]],
+    yearMarkings: [[1905, 350]],
   },
   {
     id: "modernisme",
