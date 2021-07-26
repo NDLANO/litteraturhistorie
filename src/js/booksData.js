@@ -337,7 +337,7 @@ export const books = [
     nbTitle: "Pan",
     author: "Knut Hamsun",
     year: 1894,
-    top: 390,
+    top: 425,
     left: 0,
     period: "",
   },
