@@ -44,7 +44,9 @@ export const periods = [
     nnTitle: "Barokk",
     nbTitle: "Barokk",
     from: "1600",
-    to: "1750",
+    to: "1700",
+    nnTimeLabel: "1600-1750",
+    nbTimeLabel: "1600-1750",
     layer: 0,
     left: 0,
     yearMarkings: [
