@@ -104,6 +104,12 @@ PageBook
   p Eventyret opnar med formelen «Det var en gang», som straks vekkjer heilt klare sjangerforventningar hos lesaren. Dramaturgien utnyttar den såkalla tretalslova: Jenta får tre oppdrag ho må løyse, og møter tre hjelparar. Samtalane mellom henne og hjelparane inneheld dei same replikkane tre gonger på rad. Gjentakingane skaper ein eigen rytme i teksten.
 
   p Og som dei fleste eventyra gjer, endar også dette godt til slutt. Jenta slepp unna dei arbeidsoppgåvene dei misunnelege kollegaene ville prakke på henne, og lever lykkeleg med prinsen alle sine dagar.
+
+  NdlaVideo(
+    source="media/books/asbjornsenmoe/de_tre_mostrene.mp4"
+    captionsUrl="media/books/asbjornsenmoe/de_tre_mostrene.nb-no.vtt"
+  )
+
   
   h3 Språket hos Asbjørnsen og Moe
 
