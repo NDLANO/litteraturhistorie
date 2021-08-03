@@ -93,8 +93,11 @@ PageBook
 
   h3 Naiv.Super 
   p Naiv.Super er Erlend Loes store kommersielle suksess, og den er oversatt til hele tjue forskjellige språk. Handlingen er tilsynelatende enkel – romanen handler om en ung mann som opplever en eksistensiell krise etter at han taper for broren sin i krokket. Han gir opp studiene og søker tilbake til barndommen. Sammen med faren går han runder rundt barndomshjemmet, han sparker ball med en fem år gammel gutt som heter Børre, og han banker på et Brio bankebrett. For en hel generasjon lesere ble dermed bankebrettet selve definisjonen på eksistensiell livskrise og en alternativ løsning for å håndtere en slik krise. 
-
-  NrkVideo(id="4365")
+  //- NrkVideo(id="4365")
+  NdlaVideo(
+    source="media/books/loe/naiv_super.mp4"
+    captionsUrl="media/books/loe/naiv_super.nb-no.vtt"
+  )
   
   h3 Hvordan skape mening i en meningsløs tilværelse? 
 
