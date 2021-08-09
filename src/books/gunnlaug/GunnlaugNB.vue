@@ -82,9 +82,9 @@ PageBook(:showAuthor="false")
     li Blodhevn står sentralt. Det er tvingende nødvendig å ta hevn, og det er en plikt å hevne.
     li Sagaene skildrer et mannssamfunn, men kvinnene er med i handlingen, og de viser ofte at de er både sterke og fargerike. 
     li Vi får ikke vite hva personene føler og tenker, fortellemåten er ordknapp, og underdrivelse er et vanlig virkemiddel. Mannen som får et spyd gjennom brystet, rekker akkurat å si: «Det traff godt,» før han faller død om. 
-    li Troen på skjebnen går igjen i alle islendingesagaer. En skal prøve å avverge katastrofen, men kommer den, skal en stå oppreist og bære nederlaget med rak rygg. 
-    em Å se skjebnen i øynene 
-    | er derfor et viktig punkt i alle ættesagaer. 
+    li Troen på skjebnen går igjen i alle islendingesagaer. En skal prøve å avverge katastrofen, men kommer den, skal en stå oppreist og bære nederlaget med rak rygg.
+      em &nbsp; Å se skjebnen i øynene 
+      | er derfor et viktig punkt i alle ættesagaer. 
 
   br
 

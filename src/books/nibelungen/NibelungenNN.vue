@@ -3,7 +3,7 @@ PageBook(:showAuthor="false")
 
   img.col.col6.left-image.mt20(src="./Nibelungen_utklipp.jpg" alt="Gamalt handskrive dokument med tekst i to spaltar. Rikt dekorert med ornamentale bokstavar. Foto")
 
-  p «Nibelungen-eposet» («Nibelungenlied») er eit tysk heltedikt som er nedskrive på 1200-talet. Det blir sett på som det tyske nasjonaleposet.
+  p.mt20 «Nibelungen-eposet» («Nibelungenlied») er eit tysk heltedikt som er nedskrive på 1200-talet. Det blir sett på som det tyske nasjonaleposet.
 
   p Diktet byggjer på segnmotiv frå folkevandringstida. Vi finn att stoffet i ulike versjonar både i Tyskland og dei nordiske landa. I norrøn dikting har helten fått namnet Sigurd Fåvnesbane. 
 
@@ -23,7 +23,7 @@ PageBook(:showAuthor="false")
     img(src="./Nibelungen_Handling2.jpg" alt="Mann stikk spyd i ryggen på ein annen mann som drikk frå eit horn. Ein tredje person, gøymt bak eit tre, ser på. Illustrasjon ")
     figcaption Hagen drep Siegfried mens han drikk av bekken. Gunther ser på utan å gjere noko for å hindre det.
 
-  p Brünhild er rasande og sver hemn, og det endar med at Hagen, ein venn av burgundarkongane, drep Siegfried. Gunther og brørne hans gjer ikkje noko for å hindre det. Hagen stel også Nibelung-skatten, ein gullskatt som Kriemhild har fått i morgongåve av Siegfried, og kastar han i Rhinen. Slik vil han hindre Kriemhild i å reise ein hær for å hemne ektemannen.
+  p.mt20 Brünhild er rasande og sver hemn, og det endar med at Hagen, ein venn av burgundarkongane, drep Siegfried. Gunther og brørne hans gjer ikkje noko for å hindre det. Hagen stel også Nibelung-skatten, ein gullskatt som Kriemhild har fått i morgongåve av Siegfried, og kastar han i Rhinen. Slik vil han hindre Kriemhild i å reise ein hær for å hemne ektemannen.
 
   p Andre delen handlar om korleis Kriemhild tek hemn. Ho gifter seg med hunarkongen Atle og ber brørne på besøk. Dei kjem, jamvel om dei aner uråd. Det endar med at alle burgundarane blir drepne, også Kriemhild sjølv, og ingen får nokon gong vite kvar Nibelung-skatten er gøymd. 
 

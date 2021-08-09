@@ -8,8 +8,8 @@ PageBook(:showAuthor="false")
   p På 1600-tallet finner vi også en økende interesse for folkespråk rundt om i Europa. Mange laget samlinger over særnorske ord, og de hadde gjerne et klart ønske om å vise at norsk er noe annet enn dansk. En av dem var Christen Jensson, sokneprest i Askvoll i Sunnfjord.
 
   p I 1646 fikk Jensson trykt en ordsamling som han kalte 
-  em Den Norske Dictionarium eller Glosebog
-  | . Boka omfatter rundt 850 norske oppslagsord. De fleste av disse ordene plukket han opp fra dagligtalen i hjembygda Askvoll. Selv sa Jensson at han også hadde brukt «adskillige gamle norske Bøger» som kilder for ordboka si. 
+    em Den Norske Dictionarium eller Glosebog
+    | . Boka omfatter rundt 850 norske oppslagsord. De fleste av disse ordene plukket han opp fra dagligtalen i hjembygda Askvoll. Selv sa Jensson at han også hadde brukt «adskillige gamle norske Bøger» som kilder for ordboka si. 
 
   p 
     em Den Norske Dictionarium eller Glosebog 

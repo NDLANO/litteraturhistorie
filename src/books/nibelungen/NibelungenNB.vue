@@ -3,8 +3,7 @@ PageBook(:showAuthor="false")
 
   img.col.col6.left-image.mt20(src="./Nibelungen_utklipp.jpg" alt="Gammelt håndskrevet dokument med tekst i to spalter. Rikt dekorert med ornamentale bokstaver. Foto")
 
-  p «Nibelungen-eposet» («Nibelungenlied») er et tysk heltedikt som er skrevet
-  ned på 1200-tallet. Det blir regnet som det tyske nasjonaleposet. 
+  p.mt20 «Nibelungen-eposet» («Nibelungenlied») er et tysk heltedikt som er skrevet ned på 1200-tallet. Det blir regnet som det tyske nasjonaleposet. 
 
   p Diktet bygger på sagnmotiv fra folkevandringstida. Stoffet går igjen i ulike versjoner både i Tyskland og de nordiske landene. I norrøn diktning har helten fått navnet Sigurd Fåvnesbane. 
 
@@ -21,9 +20,8 @@ PageBook(:showAuthor="false")
   figure.col.col6.right-image
     img(src="./Nibelungen_Handling2.jpg" alt="Mann stikker spyd i ryggen på en annen mann som drikker fra et horn.En tredje person, gjemt bak et tre, ser på. Illustrasjon ")
     figcaption Hagen dreper Siegfried mens han drikker av bekken. Gunther ser på uten å gjøre noe for å hindre det
-
-
-  p Brünhild er rasende og sverger hevn, og det ender med at Hagen, en venn av burgunderkongene, dreper Siegfried. Gunther og brødrene hans gjør ikke noe for å hindre det. Hagen stjeler også Nibelung-skatten, en gullskatt som Kriemhild har fått i morgengave av Siegfried, og kaster den i Rhinen. Slik vil han hindre Kriemhild i å reise en hær for å hevne ektemannen.
+  
+  p.mt20 Brünhild er rasende og sverger hevn, og det ender med at Hagen, en venn av burgunderkongene, dreper Siegfried. Gunther og brødrene hans gjør ikke noe for å hindre det. Hagen stjeler også Nibelung-skatten, en gullskatt som Kriemhild har fått i morgengave av Siegfried, og kaster den i Rhinen. Slik vil han hindre Kriemhild i å reise en hær for å hevne ektemannen.
 
   p Andre del handler om hvordan Kriemhild tar hevn. Hun gifter seg med hunerkongen Atle og ber brødrene på besøk. De kommer, selv om de aner uråd. Det ender med at alle burgunderne blir drept, også Kriemhild selv, og ingen får noen gang vite hvor Nibelung-skatten er skjult. 
 
