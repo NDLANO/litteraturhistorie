@@ -1011,6 +1011,10 @@ blockquote {
 
 .page_period,
 .page_book {
+  .page_banner_wrapper {
+    max-width: 80rem;
+    margin: 0 auto;
+  }
   .page_banner {
     //filter: blur(3px);
     margin-top: -3px;
