@@ -205,7 +205,7 @@ PagePeriod(
 
   div.col.col6.display-ib.p5
     figure
-      img(src="./Barokk_Bildekunst_og_arkitektur2.jpg" alt="To nakne kvinner som er omfavna av to menn, samt to hestar og eit barn.  Måleri.")
+      img(src="./Barokk_Peter-Paul-Rubens---nederst.jpg" alt="To nakne kvinner som er omfavna av to menn, samt to hestar og eit barn.  Måleri.")
       figcaption Peter Paul Rubens: 
         em Døtrene til Leukippos blir røva
 
