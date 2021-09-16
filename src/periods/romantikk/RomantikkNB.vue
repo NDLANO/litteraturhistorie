@@ -54,8 +54,8 @@ PagePeriod(
 
   h3 Stilretningen
 
-  figure.col.col4.left-image
-    img(src="./Romantikk_Stilretningen1.jpg" alt="Mennesker leker utenfor et stabbur på vinterstid. Maleri.")
+  figure.col.col5.left-image
+    img(src="./Romantikken_norsk-juleskikk.jpg" alt="Mennesker leker utenfor et stabbur på vinterstid. Maleri.")
     figcaption
       em Norsk Juleskik 
       | (1846) av Adolph Tidemand
@@ -70,7 +70,7 @@ PagePeriod(
     | Med romantikken kom de sterke følelsene inn i litteraturen og kunsten. Framfor alt var dikterne opptatt av den uforløste lengselen. Det kunne være lengselen etter kjærlighet, etter Gud eller evigheten, men også etter fortida. Kunstnerne følte seg ikke hjemme i samtida, de drømte om et bedre, harmonisk samfunn som de mente fantes en gang i fortida.
 
   figure
-    img(src="./Romantikk_Stilretningen2.jpg" alt="Grønn vegetasjon rundt et vann. Maleri.")
+    img(src="./Romatikken_skogtjern.jpg" alt="Grønn vegetasjon rundt et vann. Maleri.")
     figcaption
       em Skogtjern 
       | (1865) av Lars Hertervig
@@ -119,7 +119,7 @@ PagePeriod(
     em folkediktning
     | . Folkediktningen har ikke navngitte forfattere. Tekstene har utviklet seg fra forteller til forteller, med større og mindre endringer underveis.
   figure.col.col7.right-image.tac
-    img(class="tac" src="./Romantikk_Litteraturen2.jpg" alt="Omslag til eventyrbok med gullfarga illustrasjoner. Foto.")
+    img(class="tac" src="./Romantikken_norske-huldre-eventyr.jpg" alt="Omslag til eventyrbok med gullfarga illustrasjoner. Foto.")
     figcaption(class="tal") Peter Chr. Asbjørnsens 
       em Norske Huldre-eventyr og Folkesagn 
       | (1848). Typisk romantisk praktbind
@@ -202,7 +202,7 @@ PagePeriod(
   h3 Bildekunsten og musikken
 
   ImageTextBlock(
-    :image="require(`./Romantikk_Bildekunsten_og_musikken1.jpg`)"
+    :image="require(`./Romantikken_Casper-David-Friedrich.jpg`)"
     imageColumns="4"
     imageCaption="”Caspar David Friedrich: ”Der Wanderer über dem Nebelmeer” (1818)"
     altText="Mann med stokk står på en fjelltopp og kikker utover over landskapet. Maleri."
@@ -215,7 +215,7 @@ PagePeriod(
   .flex.flex-wrap
     .col.col4
       figure.figure-left
-        img(src="./Romantikk_Bildekunsten_og_musikken2.jpg" alt="Brudefølge i båt i fjord omkranset av fjell. Maleri.")
+        img(src="./Romantikken_Brudefærden-I-Hardanger.jpg" alt="Brudefølge i båt i fjord omkranset av fjell. Maleri.")
         figcaption 
           em Brudefærden i Hardanger 
           | malt av Adolph Tidemand og Hans Gude i 1848

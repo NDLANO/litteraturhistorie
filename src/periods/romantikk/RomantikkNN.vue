@@ -50,8 +50,8 @@ PagePeriod(
     | Kunstnaren er den som har best kontakt med verdsånda. Gjennom kunsten sin formidlar han det han ser og sansar til andre. Dette er ei ny kunstnarrolle. Før romantikken blei skaping av litteratur, musikk og biletkunst først og fremst vurdert som handverk. No blir verka vurderte som kunst, og kunstnaren blir rekna som ei skaparånd, eit geni. 
 
   h3 Stilretninga
-  figure.col.col4.left-image
-    img(src="./Romantikk_Stilretningen1.jpg" alt="Menneske leikar utanfor eit stabbur på vinterstid. Måleri.")
+  figure.col.col5.left-image
+    img(src="./Romantikken_norsk-juleskikk.jpg" alt="Menneske leikar utanfor eit stabbur på vinterstid. Måleri.")
     figcaption
       em Norsk Juleskik 
       | (1846) av Adolph Tidemand    
@@ -66,7 +66,7 @@ PagePeriod(
     | Med romantikken kjem dei sterke kjenslene inn i litteraturen og kunsten, og aller mest opptekne er diktarane av den uforløyste lengten. Det kan vere lengten etter kjærleik, etter Gud eller æva, men også etter fortida. Kunstnarane kjenner seg ikkje heime i samtida, dei drøymer om eit betre, harmonisk samfunn som dei meiner fanst ein gong i fortida.
 
   figure
-    img(src="./Romantikk_Stilretningen2.jpg" alt="Grønn vegetasjon rundt eit vatn. Måleri.")
+    img(src="./Romatikken_skogtjern.jpg" alt="Grønn vegetasjon rundt eit vatn. Måleri.")
     figcaption
       em Skogtjern 
       | (1865) av Lars Hertervig
@@ -119,7 +119,7 @@ PagePeriod(
     | . Folkediktinga har ikkje namngitte forfattarar. Tekstane har utvikla seg frå forteljar til forteljar, med større og mindre endringar undervegs.
 
   figure.col.col7.right-image.tac
-    img(class="tac" src="./Romantikk_Litteraturen2.jpg" alt="Omslag til eventyrbok med gullfarga illustrasjoner. Foto.")
+    img(class="tac" src="./Romantikken_norske-huldre-eventyr.jpg" alt="Omslag til eventyrbok med gullfarga illustrasjoner. Foto.")
     figcaption(class="tal") Peter Chr. Asbjørnsens 
       em Norske Huldre-eventyr og Folkesagn 
       | (1848). Typisk romantisk praktbind
@@ -202,7 +202,7 @@ PagePeriod(
   h3 Biletkunsten og musikken
 
   ImageTextBlock(
-    :image="require(`./Romantikk_Bildekunsten_og_musikken1.jpg`)"
+    :image="require(`./Romantikken_Casper-David-Friedrich.jpg`)"
     imageColumns="4"
     imageCaption="”Caspar David Friedrich: ”Der Wanderer über dem Nebelmeer” (1818)"
     altText="Mann med stokk står på ein fjelltopp og kikkar utover over landskapet. Illustrasjon."
@@ -225,7 +225,7 @@ PagePeriod(
   .flex.flex-wrap
     .col.col4
       figure.figure-left
-        img(src="./Romantikk_Bildekunsten_og_musikken2.jpg" alt="”Brudefærden i Hardanger” måla av Adolph Tidemand og Hans Gude i 1848")
+        img(src="./Romantikken_Brudefærden-I-Hardanger.jpg" alt="”Brudefærden i Hardanger” måla av Adolph Tidemand og Hans Gude i 1848")
         figcaption 
           em Brudefærden 
           | i Hardanger måla av Adolph Tidemand og Hans Gude i 1848
