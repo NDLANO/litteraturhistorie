@@ -57,8 +57,8 @@ PagePeriod(
     | Etter svartedauden ligger det meste nede her i landet, men i Italia starter en ny utvikling. Der blomstrer handelen opp, og kjøpmennene kommer i kontakt med andre land og kulturer. Handelsborgerne i byene blir en viktig samfunnsgruppe, og jordeierne mister dermed noe avmakta. Med økt handel får også pengeøkonomien etter hvert større plass.
 
 
+  img.col.col6.mt5.right-image(src="./Humanisme_Boktrykkerbilde.jpg" alt="Fire personer studerer et stort ark inne i et trykkeri. Maleri.")
   h5 Boktrykkerkunsten – en ny tid
-  img.col.col4.mt20.right-image(src="./Humanisme_Tida-og-samfunnsforholdene3.jpg" alt="Fire personer studerer et stort ark inne i et trykkeri. Maleri.")
   p
     | Johann Gutenberg (1397–1468) regnes som opphavsmann til boktrykkerkunsten. Han konstruerte en presse og blybokstaver til å trykke med. Den første boka til Gutenberg var en bibel som kom ut på midten av 1400-tallet. Den første ukeavisa ble trykt og utgitt i Strasbourg i 1609. Det første trykkeriet i Norge ble åpnet i 1643. 
 
@@ -158,7 +158,7 @@ PagePeriod(
   h3 Språket  
 
   figure
-    img(src="./Humanisme_Spraaket.jpg" alt="Brunt ark fylt med linjer av håndskrift. Illustrasjon.")
+    img(src="./Humanisme_Diplomatarium-Norvegicum.jpg" alt="Brunt ark fylt med linjer av håndskrift. Illustrasjon.")
     figcaption Diplomatarium Norvegicum: En side av et brev fra dronning Margrete til kong Håkon 6.<br/><a href="media/periods/humanisme/diplomatarium.html" target="_blandk">Les utskrift av dokumentet</a>
 
   h5 Norrønt skriftspråk går til grunne 
