@@ -58,8 +58,8 @@ PagePeriod(
   // * Om Stilen
   h3 Om stilen – klassisismen
 
-  figure.col.col4.right-image
-    img(src="./Opplysningstid_Klassisismen1.jpg" alt="Herskapelig bygg med bred trapp og høye søyler. Foto.")
+  figure.col.col6.right-image
+    img(src="./Opplysningstid_palladios-Villa-Rotonda.jpg" alt="Herskapelig bygg med bred trapp og høye søyler. Foto.")
     figcaption Palladios Villa Rotonda i Italia
 
   h5 Det klassiske idealet

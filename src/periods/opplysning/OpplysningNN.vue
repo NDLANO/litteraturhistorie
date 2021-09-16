@@ -57,8 +57,8 @@ PagePeriod(
 
   h3 Om stilen – klassisismen
 
-  figure.col.col4.right-image
-    img(src="./Opplysningstid_Klassisismen1.jpg" alt="Herskapeleg bygg med brei trapp og høge søyler. Foto.")
+  figure.col.col6.right-image
+    img(src="./Opplysningstid_palladios-Villa-Rotonda.jpg" alt="Herskapeleg bygg med brei trapp og høge søyler. Foto.")
     figcaption Palladios Villa Rotonda i Italia
 
 
