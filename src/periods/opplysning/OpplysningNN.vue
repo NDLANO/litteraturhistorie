@@ -57,8 +57,8 @@ PagePeriod(
 
   h3 Om stilen – klassisismen
 
-  figure.col.col4.right-image
-    img(src="./Opplysningstid_Klassisismen1.jpg" alt="Herskapeleg bygg med brei trapp og høge søyler. Foto.")
+  figure.col.col6.right-image
+    img(src="./Opplysningstid_palladios-Villa-Rotonda.jpg" alt="Herskapeleg bygg med brei trapp og høge søyler. Foto.")
     figcaption Palladios Villa Rotonda i Italia
 
 
@@ -70,7 +70,7 @@ PagePeriod(
     | Klassisismen er ein reaksjon på dei sterkt overdrivne effektane i barokkstilen. Idealet er harmoni og meir måtehald i bruken av verkemiddel.
 
   figure
-    img(src="./Opplysningstid_Klassisismen2.jpg" alt="Symmetrisk bygning med dekorativ balkong og tak. Foto.")
+    img(src="./Opplysningstid_Klassisistisk-arkitektur-Jenisch-Haus.jpg" alt="Symmetrisk bygning med dekorativ balkong og tak. Foto.")
     figcaption Klassisistisk arkitektur: Jenisch Haus i Hamburg
 
   h5 Samanfall i tid, stad og handling
@@ -193,7 +193,7 @@ PagePeriod(
     | Stilretninga som dominerer biletkunst, møblar og arkitektur på 1700-talet, kallar vi rokokko. Denne stilen bryt med barokkens bruk av overdådige verkemiddel. Det er ein enklare, meir elegant og mindre kjensleladd stil. 
   h5 Ny musikkstil
   figure
-  img(src="./Opplysningstid_Andre_kunstformer3.jpg" alt="Ei kvinne og to menn ved eit orgel. Mannen på høgre side held ein fiolin. Måleri.")
+  img(src="./Opplysningstiden_Mozart-spiller.jpg" alt="Ei kvinne og to menn ved eit orgel. Mannen på høgre side held ein fiolin. Måleri.")
   figcaption Mozart spelar kammermusikk saman med systera og faren
 
   p

@@ -58,8 +58,8 @@ PagePeriod(
   // * Om Stilen
   h3 Om stilen – klassisismen
 
-  figure.col.col4.right-image
-    img(src="./Opplysningstid_Klassisismen1.jpg" alt="Herskapelig bygg med bred trapp og høye søyler. Foto.")
+  figure.col.col6.right-image
+    img(src="./Opplysningstid_palladios-Villa-Rotonda.jpg" alt="Herskapelig bygg med bred trapp og høye søyler. Foto.")
     figcaption Palladios Villa Rotonda i Italia
 
   h5 Det klassiske idealet
@@ -70,7 +70,7 @@ PagePeriod(
     | Klassisismen er en reaksjon på de sterkt overdrevne effektene i barokkstilen. Idealet er harmoni og mer måtehold i bruken av virkemidler.
 
   figure
-    img(src="./Opplysningstid_Klassisismen2.jpg" alt="Symmetrisk bygning med dekorativ balkong og tak. Foto.")
+    img(src="./Opplysningstid_Klassisistisk-arkitektur-Jenisch-Haus.jpg" alt="Symmetrisk bygning med dekorativ balkong og tak. Foto.")
     figcaption Klassisistisk arkitektur: Jenisch Haus i Hamburg
 
   h5 Sammenfall i tid, sted og handling
@@ -187,7 +187,7 @@ PagePeriod(
     | Stilretningen som dominerer bildekunst, møbler og arkitektur på 1700-tallet, kaller vi rokokko. Denne stilen bryter med barokkens bruk av overdådige virkemidler. Det er en enklere, mer elegant og mindre følelsesladd stil.
   h5 Ny musikkstil
   figure
-    img(src="./Opplysningstid_Andre_kunstformer3.jpg" alt="Ei kvinne og to menn ved et orgel. Mannen på høyre side holder en fiolin. Maleri.")
+    img(src="./Opplysningstiden_Mozart-spiller.jpg" alt="Ei kvinne og to menn ved et orgel. Mannen på høyre side holder en fiolin. Maleri.")
     figcaption Mozart spiller kammermusikk sammen med søsteren og faren.
   p
     | Musikkstilen endrer seg også på 1700-tallet. Uttrykksformen går fra den tunge, kontrastfylte barokkstilen til en lettere og mer elegant form.
