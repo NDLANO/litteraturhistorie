@@ -27,12 +27,12 @@ PagePeriod(
     | kommer av det engelske ordet ”hip”, et slanguttrykk for ”moderne og frigjort menneske”. Rockemusikk, alternativ livsstil og rusmidler var sentrale elementer i hippienes protest mot materialistiske verdier og mot USAs krigføring i Vietnam. 
 
   figure
-    img(src="./Postmodernisme_Tida_og_samfunnsforhold2.jpg" alt="Fem personer med mye hår, store frakker og slengbukser poserer foran et utbrent hus. Foto.")
+    img(src="./Postmodernisme_Rockebandet-Steppenwolf.jpg" alt="Fem personer med mye hår, store frakker og slengbukser poserer foran et utbrent hus. Foto.")
     figcaption Rockebandet Steppenwolf, kjent for låten «Born to Be Wild». Foto: Henry Diltz / Corbis / Scanpix
 
 
-  figure.col.col4.right-image
-    img(src="./Postmodernisme_Tida_og_samfunnsforhold3.jpg" alt="Fredelig demonstrasjonstog mot EEC på Karl Johan med Slottet i bakgrunnen.Foto.")
+  figure.col.col5.right-image
+    img(src="./Postmodernisme_Demonstrasjon-mot-EEC.jpg" alt="Fredelig demonstrasjonstog mot EEC på Karl Johan med Slottet i bakgrunnen.Foto.")
     figcaption Demonstrasjon mot EEC i 1972. Foto: Jan A. Martinsen / Aftenposten / Scanpix
 
 
@@ -57,7 +57,7 @@ PagePeriod(
   p I de fleste østblokklandene gikk endringsprosessene i 1990-årene fredelig for seg, men i det tidligere Jugoslavia økte spenningene mellom de ulike folkegruppene. Den verste konflikten oppstod i Bosnia-Hercegovina, der over hundre tusen mennesker ble drept. Krigen gikk hardest ut over den muslimske delen av befolkningen. 
 
   figure.col.col4.left-image
-    img(src="./Postmodernisme_Tida_og_samfunnsforhold5.jpg" alt="To kvinner holder opp et banner der det står «lønna arbeid til alle kvinner. Husarbeid til alle menn». Foto.")
+    img(src="./Postmodernisme_Fane-til-kvinnedagen.jpg" alt="To kvinner holder opp et banner der det står «lønna arbeid til alle kvinner. Husarbeid til alle menn». Foto.")
     figcaption Fane til Kvinnedagen i 1982. Foto: Aftenposten/Scanpix
 
   h5 Likestillingskamp 
@@ -128,7 +128,7 @@ PagePeriod(
   p Fra 1960-årene og utover ser vi nye tendenser og strømninger innenfor kunst, arkitektur og litteratur som vi gjerne sammenfatter i begrepet postmodernisme. Postmodernisme er altså en estetisk teori, en lære om hva kunst er og vil, om forholdet mellom kunstverk og publikum og om forholdet mellom kunstens verden og virkeligheten. 
   
   figure.col.col4.right-image
-    img(src="./Postmodernisme_Tanker_i_tiden4.jpg" alt="Et par ser på vegg med mange like plakater av Campell hermetikkboks. Foto.")
+    img(src="./Postmodernisme_Campbells-Soup.jpg" alt="Et par ser på vegg med mange like plakater av Campell hermetikkboks. Foto.")
     figcaption Andy Warhol: «Campbell’s Soup». Foto: Nelson Almeida/AFP/Scanpix
 
   p Postmodernismen kan ses som et oppgjør med kravene til innhold og form i den modernistiske kunsten. Der høymodernistene bevisst brøt med tidligere kunstformer og tok avstand fra massekulturen, gjør postmodernistene det stikk motsatte: De kombinerer nytt og gammelt, høykultur og massekultur, de alluderer til kjente tekster, ironiserer over både egne og andres verk – og resultatet er ofte et lekent og frodig uttrykk.
@@ -453,7 +453,7 @@ PagePeriod(
       img(src="./Postmodernisme_Litteraturen35.jpg" alt="Portrett av smilende kvinne med kort, hvitt hår. Foto.")
       figcaption Hanne Ørstavik
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen36.jpg" alt="Portrett av kvinne med hånden på kinnet. Foto.")
+      img(src="./Postmodernisme_Trude-Marstein.jpg" alt="Portrett av kvinne med hånden på kinnet. Foto.")
       figcaption Trude Marstein
     figure.m1rem
       img(src="./Postmodernisme_Litteraturen37.jpg" alt="Halvnært portrett av mann som bøyer hodet litt og ser opp. Foto.")
