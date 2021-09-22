@@ -116,7 +116,7 @@ PagePeriod(
 
   p Men er Gud død? I 2005 var det 6,7 millioner besøk under gudstjenester i Den norske kirke. I 2010 var det 142 registrerte trossamfunn og 2 livssynssamfunn bare i Oslo og Akershus. Mange mennesker tror, men hva tror vi på? 
   figure.col.col4.left-image
-    img(src="./Postmodernisme_Tanker_i_tiden3.jpg" alt="Portrett av smilende mann i dress. Foto.")
+    img(src="./Postmodernisme_Jurgen-Habermas.jpg" alt="Portrett av smilende mann i dress. Foto.")
     figcaption Jürgen Habermas. Foto: Marit Hommedal / Scanpix
 
 
@@ -137,13 +137,13 @@ PagePeriod(
 
   .flex.portretter
     figure.m1rem
-      img(style="width: 198px" src="./Postmodernisme_Litteraturen1.jpg" alt="Portrett av mann med briller og halvlangt hår. Foto.")
+      img(style="width: 198px" src="./Postmodernisme_Mehren.jpg" alt="Portrett av mann med briller og halvlangt hår. Foto.")
       figcaption Stein Mehren
     figure.m1rem
-      img(style="width: 198px" src="./Postmodernisme_Litteraturen2.jpg" alt="Portrett av snakkende, eldre mann med skjegg i kofte. Foto.")
+      img(style="width: 198px" src="./Postmodernisme_Kolbein-Falkeid.jpg" alt="Portrett av snakkende, eldre mann med skjegg i kofte. Foto.")
       figcaption Kolbein Falkeid
     figure.m1rem
-      img(style="width: 198px" src="./Postmodernisme_Litteraturen3.jpg" alt="Portrett av en mann grått hår og skjegg, tørkle i halsen. Foto. ")
+      img(style="width: 198px" src="./Postmodernisme_Georg-Johannesen.jpg" alt="Portrett av en mann grått hår og skjegg, tørkle i halsen. Foto. ")
       figcaption Georg Johannesen
 
   h5 1960-årene: Sentrallyrikk i fokus
@@ -192,23 +192,90 @@ PagePeriod(
 
   .flex.portretter.portretter-4
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen5.jpg" alt="Portrett av mann med briller og grått hår. Foto.")
+      img(src="./Postmodernisme_Jan-Erik-Vold.jpg" alt="Portrett av mann med briller og grått hår. Foto.")
       figcaption Jan Erik Vold
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen6.jpg" alt="Smilende kvinne holder blomsterbukett. Foto.")
+      img(src="./Postmodernisme_Eldrid-Lunden.jpg" alt="Smilende kvinne holder blomsterbukett. Foto.")
       figcaption Eldrid Lunden
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen7.jpg" alt="Portrett av mann med briller. Foto.")
+      img(src="./Postmodernisme_Einar-Okland.jpg" alt="Portrett av mann med briller. Foto.")
       figcaption Einar Økland
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen8.jpg" alt="Portrett av mann med grå bart og hår. Foto.")
+      img(src="./Postmodernisme_Paal-Helge-Haugen.jpg" alt="Portrett av mann med grå bart og hår. Foto.")
       figcaption Paal Helge Haugen
 
   NdlaAudio(
     source="media/periods/postmodernisme/Vold_trikkeskinnediktetdiktet.mp3"
     description="Jan Erik Vold: Trikkeskinnediktet"
     )
-  
+    blockquote
+      strong «Trikkeskinnediktet»
+      br
+      br
+      | Tenkte jeg skulle skrive et dikt
+      br
+      | om trikkeskinner.
+      br
+      | Engang begynte jeg på ett: Byen ligger bundet
+      br
+      | i sitt nett av trikkeskinner
+      br
+      | – kom ikke lenger.
+      br
+      | Gå ut og se på trikkeskinnene, de binder ikke
+      br
+      | byen fast, de ligger nedfelt i gaten
+      br
+      | med brostein solidarisk på begge sider, gå ut
+      br
+      | og se på byen, den er ikke bundet, byer
+      br
+      | kan ikke bindes. Nei, trikkeskinner
+      br
+      | er til å legge femøringer på,
+      br
+      | trikken paraderte
+      br
+      | på brune mynter opp Theresegate, vi stod i portrom
+      br
+      | parat til å stikke av om trikken
+      br
+      | stanset, konduktøren ut! Flatklemte
+      br
+      | femøringer, store som engelske
+      br
+      | pennystykker (verdt 8 1/3 øre), gjerne
+      br
+      | klemt skjeve, ingen elg
+      br
+      | på femørene dengang men gode gamle hå syv. Trikkeskinner
+      br
+      | og sykling! en gang gikk jeg på hue
+      br
+      | foran læreren, det var i svingen ved Sporveisgata
+      br
+      | utenfor parfymeriet og lekebutikken der, bare med ballongdekk
+      br
+      | var man trygg (hadde
+      br
+      | halvballong). Om våren kommer
+      br
+      | den siste snøen seilende i klumper
+      br
+      | ned trikkeskinnene, skyver brunt vann foran seg
+      br
+      | med fine bølgestriper i. Siden blå menn
+      br
+      | som skyfler skinnene rene så solen
+      br
+      | skal få klatre uten sand i munnen
+      br
+      | opp bakken til Adamstua, der leira ligger våt
+      br
+      | og snart skal bli gras
+      br
+      | mellom skinnene.       
+    
   .mt40
 
   h5 1970-årene: Sosialrealistisk litteratur 
@@ -223,13 +290,13 @@ PagePeriod(
 
   .flex.portretter
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen9.jpg" alt="Halvnært portrett av mann med bustete hår og briller. Foto.")
+      img(src="./Postmodernisme_Dag-Solstad.jpg" alt="Halvnært portrett av mann med bustete hår og briller. Foto.")
       figcaption Dag Solstad
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen10.jpg" alt="Portrett av smilende mann med grått skjegg og rutete skjorte. Foto.")
+      img(src="./Postmodernisme_Espen-Haavardsholm.jpg" alt="Portrett av smilende mann med grått skjegg og rutete skjorte. Foto.")
       figcaption Espen Haavardsholm
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen11.jpg" alt="Portrett av mann med grått hår. Foto.")
+      img(src="./Postmodernisme_Tor-Obrestad.jpg" alt="Portrett av mann med grått hår. Foto.")
       figcaption Tor Obrestad
 
   figure.col.col6.right-image
@@ -251,19 +318,19 @@ PagePeriod(
 
   .flex.portretter.portretter-5
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen13.jpg" alt="Portrett av kvinne med oppsatt hår. Foto.")
+      img(style="width: 120px" src="./Postmodernisme_Bjorg-Vik.jpg" alt="Portrett av kvinne med oppsatt hår. Foto.")
       figcaption Bjørg Vik
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen14.jpg" alt="Portrett av glad kvinne med blondt hår og hjertesmykke. Foto.")
+      img(style="width: 120px" src="./Postmodernisme_Tove-Nilsen.jpg" alt="Portrett av glad kvinne med blondt hår og hjertesmykke. Foto.")
       figcaption Tove Nilsen
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen15.jpg" alt="Portrett av kvinne med halvlangt, hvitt hår. Foto.")
+      img(style="width: 120px" src="./Postmodernisme_Anne-Karin-Elstad.jpg" alt="Portrett av kvinne med halvlangt, hvitt hår. Foto.")
       figcaption Anne Karin Elstad
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen16.jpg" alt="Portrett av glad kvinne med mørkt, halvlangt hår. Foto.")
+      img(style="width: 120px" src="./Postmodernisme_Herbjorg-Wassmo.jpg" alt="Portrett av glad kvinne med mørkt, halvlangt hår. Foto.")
       figcaption Herbjørg Wassmo
     figure.m1rem
-      img(style="width: 120px" src="./Postmodernisme_Litteraturen17.jpg" alt="Portrett av mann med bart. Han ser ned. Foto.")
+      img(style="width: 120px" src="./Postmodernisme_Kjartan-Flogstad.jpg" alt="Portrett av mann med bart. Han ser ned. Foto.")
       figcaption Kjartan Fløgstad
 
   h5 Kjartan Fløgstad
@@ -286,13 +353,13 @@ PagePeriod(
 
   .flex.portretter
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen19.jpg" alt="Portrett av mann med langt hår, åpen skjorte med skjerf i halsen. Foto.")
+      img(src="./Postmodernisme_Lillebjorn-Nilsen.jpg" alt="Portrett av mann med langt hår, åpen skjorte med skjerf i halsen. Foto.")
       figcaption Lillebjørn Nilsen
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen20.jpg" alt="Sprudlende kvinne opptrer med banjo på scenen. Foto.")
+      img(src="./Postmodernisme_Kari-Svendsen.jpg" alt="Sprudlende kvinne opptrer med banjo på scenen. Foto.")
       figcaption Kari Svendsen
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen21.jpg" alt="Portrett av mann i sorte klær utendørs. Foto.")
+      img(src="./Postmodernisme_Lars-Klevstrand.jpg" alt="Portrett av mann i sorte klær utendørs. Foto.")
       figcaption Lars Klevstrand
 
   NrkVideo(id="74741")
@@ -311,7 +378,7 @@ PagePeriod(
 
   h5 Nostalgi og sjarmerende outsidere
   figure.col.col4.right-image
-    img(src="./Postmodernisme_Litteraturen22.jpg" alt="Skalla mann med skjegg poserer med hånden bak hode. Foto.")
+    img(src="./Postmodernisme_Lars-Saabye-Christensen.jpg" alt="Skalla mann med skjegg poserer med hånden bak hode. Foto.")
     figcaption Lars Saabye Christensen
 
   p       
@@ -329,7 +396,7 @@ PagePeriod(
 
   h5 Rus, vold og psykiatri 
   figure.col.col4.right-image
-    img(src="./Postmodernisme_Litteraturen23.jpg" alt="Portrett av langhåra mann med briller. Foto.")
+    img(src="./Postmodernisme_Ingvar-Ambjornsen.jpg" alt="Portrett av langhåra mann med briller. Foto.")
     figcaption Ingvar Ambjørnsen
   p       
     strong Ingvar Ambjørnsen
@@ -350,16 +417,16 @@ PagePeriod(
 
   .flex.portretter.portretter-4
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen24.jpg" alt="Portrett av smilende mann med briller. Foto.")
+      img(src="./Postmodernisme_Oyvind-Berg.jpg" alt="Portrett av smilende mann med briller. Foto.")
       figcaption Øyvind Berg
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen25.jpg" alt="Portrett av mann med høyhalsa genser. Foto.")
+      img(src="./Postmodernisme_Rune-Christiansen.jpg" alt="Portrett av mann med høyhalsa genser. Foto.")
       figcaption Rune Christiansen
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen26.jpg" alt="Portrett av kvinne med musefletter som holder hendene foran munnen. Foto.")
+      img(src="./Postmodernisme_Gro-Dahle.jpg" alt="Portrett av kvinne med musefletter som holder hendene foran munnen. Foto.")
       figcaption Gro Dahle
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen27.jpg" alt="Portrett av mann med langt lyst hår. Foto.")
+      img(src="./Postmodernisme_Triztan-Vindtorn.jpg" alt="Portrett av mann med langt lyst hår. Foto.")
       figcaption Triztán Vindtorn
 
   p En forfatter som debuterte i 70-årene, men som først slo gjennom i 80-årene, er 
@@ -416,13 +483,13 @@ PagePeriod(
 
   .flex.portretter
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen30.jpg" alt="Portrett av kvinne med kort, sort hår. Foto.")
+      img(src="./Postmodernisme_Anne-B.-Ragde.jpg" alt="Portrett av kvinne med kort, sort hår. Foto.")
       figcaption Anne B. Ragde
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen31.jpg" alt="Halvnært portrett av mann med kort hår. Foto.")
+      img(src="./Postmodernisme_Tore-Renberg.jpg" alt="Halvnært portrett av mann med kort hår. Foto.")
       figcaption Tore Renberg
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen32.jpg" alt="Portrett av mann med kort skjegg. Foto.")
+      img(src="./Postmodernisme_Jostein-Gaarder.jpg" alt="Portrett av mann med kort skjegg. Foto.")
       figcaption Jostein Gaarder
 
   ImageTextBlock.mt30(
@@ -450,25 +517,25 @@ PagePeriod(
 
   .flex.portretter.portretter-5
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen35.jpg" alt="Portrett av smilende kvinne med kort, hvitt hår. Foto.")
+      img(src="./Postmodernisme_Hanne-Orstavik.jpg" alt="Portrett av smilende kvinne med kort, hvitt hår. Foto.")
       figcaption Hanne Ørstavik
     figure.m1rem
       img(src="./Postmodernisme_Trude-Marstein.jpg" alt="Portrett av kvinne med hånden på kinnet. Foto.")
       figcaption Trude Marstein
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen37.jpg" alt="Halvnært portrett av mann som bøyer hodet litt og ser opp. Foto.")
+      img(src="./Postmodernisme_Lars-Ramslie.jpg" alt="Halvnært portrett av mann som bøyer hodet litt og ser opp. Foto.")
       figcaption Lars Ramslie
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen38.jpg" alt="Portrett av skallet mann med rutete skjorte. Foto. ")
+      img(src="./Postmodernisme_Erlend-Loe.jpg" alt="Portrett av skallet mann med rutete skjorte. Foto. ")
       figcaption Erlend Loe
     figure.m1rem
-      img(src="./Postmodernisme_Litteraturen39.jpg" alt="Portrett av smilende kvinne med langt mellomblondt hår. Foto.")
+      img(src="./Postmodernisme_Helene-Uri.jpg" alt="Portrett av smilende kvinne med langt mellomblondt hår. Foto.")
       figcaption Helene Uri
 
   NrkVideo(id="3412")
 
   figure.col.col4.left-image
-    img(src="./Postmodernisme_Litteraturen40.jpg" alt="Mann med ryggsekk sitter ved siden av ei kvinne under et laken på scenen. Foto.")
+    img(src="./Postmodernisme_Bilde-fra-Tatt-av-kvinnen.jpg" alt="Mann med ryggsekk sitter ved siden av ei kvinne under et laken på scenen. Foto.")
     figcaption Gard B. Eidsvold og Helle Haugen i en scene fra Centralteatrets oppsetning av skuespillet «Tatt av kvinnen», som bygger på Erlend Loes roman. Foto: Erlend Aas / Scanpix
 
   h5 Den postmoderne mannen – ”tatt av kvinnen” 
@@ -533,7 +600,7 @@ PagePeriod(
 
   h5 Bildekunst
   figure.col.col4.left-image
-    img(src="./Postmodernisme_Andre_kunstformer2.jpg" alt="Et par ser på vegg med mange like plakater av Campell hermetikkboks. Foto.")
+    img(src="./Postmodernisme_Campbells-Soup.jpg" alt="Et par ser på vegg med mange like plakater av Campell hermetikkboks. Foto.")
     figcaption Andy Warhol: «Campbell’s Soup»
 
   p Da 
@@ -541,7 +608,7 @@ PagePeriod(
     | (1928–1987) i 1960-årene stilte ut bilder av Campbell tomatsuppe, ble publikum tvunget til å tenke over hva kunst egentlig er. Warhol tok kjente produkter og gjenstander ut av sin vanlige sammenheng og gjorde dem til kunst. På den måten ble han en forløper for postmoderne kunstretninger der ideen bak kunstverket var viktigere enn selve produktet. 
 
   figure.col.col4.left-image
-    img(src="./Postmodernisme_Andre_kunstformer3.jpg" alt="Eldre mann med solbriller og dress foran tre av sine kunstverk. Foto.")
+    img(src="./Postmodernisme_Pushwagner_.jpg" alt="Eldre mann med solbriller og dress foran tre av sine kunstverk. Foto.")
     figcaption Pushwagner (Terje Brofos)
 
   p Den norske kunstneren 
@@ -556,8 +623,8 @@ PagePeriod(
     strong Odd Nerdrum 
     | (1944– ) seg som en av de mest sentrale postmoderne kunstnerne. I motsetning til andre samtidige kunstnere har Nerdrum valgt et formspråk lik barokkmalernes på 1600-tallet. Men motivene hans er hentet fra samtiden, og på den måten blander Nerdrum nytt og gammelt. Nerdrum kaller selv bildene sine kitsch, for å markere at han tar avstand fra samtidens etablerte kunstsyn. 
 
-  figure.col.col3.right-image
-    img.col.col12(src="./Postmodernisme_Andre_kunstformer4.jpg" alt="Kvinne sitter i en kunstinstallasjon med mange små glassfigurer. Foto.")
+  figure.col.col4.right-image
+    img.col.col12(src="./Postmodernisme_Marianne-Heske.jpg" alt="Kvinne sitter i en kunstinstallasjon med mange små glassfigurer. Foto.")
     figcaption Marianne Heske på en utstilling på Henie Onstad Kunstsenter. Foto: Rolf M. Aagaard / Aftenposten / Scanpix
 
   p En annen sentral norsk kunstner i den postmoderne tradisjonen er 
@@ -565,7 +632,7 @@ PagePeriod(
     | (1946– ). Marianne Heske bestiller produkter av lokale håndverkere, som hun så setter sammen til installasjoner, bilder eller skulpturer. En slik konseptuell kunst – der ideen er viktigere enn selve håndverket – er typisk for den postmoderne retningen.
 
   figure.col.col4.left-image
-    img(src="./Postmodernisme_Andre_kunstformer5.jpg" alt="Mann utkledd i kunstnerisk kostyme. Foto.")
+    img(src="./Postmodernisme_Kjartan-Slettemark.jpg" alt="Mann utkledd i kunstnerisk kostyme. Foto.")
     figcaption Kjartan Slettemark
 
 
@@ -573,9 +640,10 @@ PagePeriod(
     strong Kjartan Slettemark 
     | (1932–2008) er en annen sentral kunstner i denne perioden. Slettemarks kunst er både sterkt politisk, eksperimentell og lekende i formen. Slettemark er også kjent for å eksperimentere med ulike medier i kunsten og for sin performancekunst. 
 
+  .clear
   h5 Arkitektur 
 
-  figure.col.col5.left-image
+  figure.col.col5.right-image
     img(src="./Postmodernisme_Andre_kunstformer6.jpg" alt="Fasade på bygg med mye glass. Foto.")
     figcaption Aker Brygge
 
@@ -587,7 +655,7 @@ PagePeriod(
   p Fra 1960-årene og fram til vår tid har rock og pop vært de klart dominerende musikksjangrene. Det musikalske uttrykket spenner vidt – fra lett diskomusikk i 1970-årene til opprørsk punk i 1980-årene og glatte ”boyband” i 1990-årene. Felles er evnen til å formidle følelser, enten det er snakk om kjærlighetssorg, politisk urett eller gleden over å være ung. Sammen med filmen har pop- og rockemusikken en enestående identitetsskapende posisjon hos ungdom som annen litteratur og kunst aldri har hatt. 
 
   figure
-    img(src="./Postmodernisme_Andre_kunstformer7.jpg" alt="Mannlig vokalist på scenen foran stort publikum på en fotballstadion. Foto.")
+    img(src="./Postmodernisme_Stones.jpg" alt="Mannlig vokalist på scenen foran stort publikum på en fotballstadion. Foto.")
     figcaption Mick Jagger i aksjon under en Rolling Stones-konsert. Foto: Lynn Goldsmith / Corbis/ Scanpix
 
   p I 1960-årene var musikken knyttet til samtidens ungdomsopprør, og grupper som 
@@ -606,7 +674,7 @@ PagePeriod(
 
 
   figure
-    img(src="./Postmodernisme_Andre_kunstformer9.jpg" alt="Musikkgruppe fremfører låt på scene. Foto.")
+    img(src="./Postmodernisme_Aha.jpg" alt="Musikkgruppe fremfører låt på scene. Foto.")
     figcaption Den siste konserten til a-ha i Oslo Spektrum (2010). Foto: Knut Erik Knudsen / VG / Scanpix
 
   p Bandet 
@@ -641,8 +709,8 @@ PagePeriod(
   p Fram til 1982 hadde NRK monopol på å sende fjernsyns- og radioprogrammer, men så ble det åpnet opp for andre aktører. Både lokale kringkastere og internasjonale satellittoverførte kanaler skapte konkurranse. 
 
   figure
-    img(src="./Postmodernisme_Andre_kunstformer12.jpg" alt="Kvinne foran mange mikrofoner på en pressekonferanse. Foto.")
-    figcaption I dag fins det et mangfold av tv- og radiokanaler som formidler nyheter til norske seere og lyttere. Bildet er tatt i 2007 og viser en pressekonferanse med daværende LO-leder Gerd-Liv Valla. Foto: Knut Erik Knudsen / VG /Scanpix
+    img(src="./Postmodernisme_Gerd-Liv-Valla.jpg" alt="Kvinne foran mange mikrofoner på en pressekonferanse. Foto.")
+    figcaption I dag fins det et mangfold av tv- og radiokanaler som formidler nyheter til norske seere og lyttere. Bildet er tatt i 2007 og viser en pressekonferanse med daværende LO-leder Gerd-Liv Valla. 
 
   p Et typisk trekk ved moderne mediehistorie er 
     em kommersialisering
