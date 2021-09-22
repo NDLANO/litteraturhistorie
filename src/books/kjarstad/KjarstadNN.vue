@@ -24,8 +24,8 @@ PageBook
   p Jan Kjærstad er fødd i 1963 og oppvaksen på Grorud i Oslo. Etter vidaregåande utdanning på Oslo katedralskule studerte Kjærstad teologi ved Universitetet i Oslo. Teologistudia er noko ein tydeleg ser spor etter i forfattarskapen hans. Han skriv om dei store spørsmåla i tilværet, og han har referansar til ulike religionar i mange av tekstane sine.
 
   figure.col.col6.right-image.mt5
-    img(src='./kjarstad_Portrett3.jpg' alt='Mann står på eit torg omgitt av bygningar, bilar og menneske. Foto')
-    figcaption Jan Kjærstad fekk Nordisk råds litteraturpris i 2001. Her er han på veg til pressekonferanse saman med døtrene.Foto: Jan Tomas Espedal /  Aftenposten / Scanpix
+    img(src='./Forføreren_Bilde-av-Kjærstad-under-Fra-den-store-til-de-små-fortellingene.jpg' alt='Mann står på eit torg omgitt av bygningar, bilar og menneske. Foto')
+    //- figcaption Jan Kjærstad fekk Nordisk råds litteraturpris i 2001. Her er han på veg til pressekonferanse saman med døtrene.Foto: Jan Tomas Espedal /  Aftenposten / Scanpix
 
   p Men Kjærstad valde å ikkje jobbe som prest. Mot slutten av teologiutdanninga fann han ut at han ønskte å skrive fiksjonstekstar, og han debuterte med novellesamlinga 
     em Kloden dreier stille rundt 
@@ -103,7 +103,7 @@ PageBook
     | møter vi Jonas Wergeland idet han finn kona si – den store kjærleiken hans – drepen i deira eiga stove. Denne skilsetjande opplevinga er utgangspunktet for forteljingane om Jonas’ veg frå barndommen til suksessen som programskapar og rikskjendis. Jonas er ein moderne helt. Alt han tek i, blir til gull. Han forfører kvinner med sin «magiske penis», og han forfører eit heilt folk med tv-programmet sitt.
 
   NrkVideo(id="3966")
-  div Om tv-serien «Erobreren» fra 2012. Hvordan kler du opp 80 skuespillere og mer enn 2000 statister når handlingen strekker seg over fire tiår?
+    div.caption Om tv-serien «Erobreren» fra 2012. Hvordan kler du opp 80 skuespillere og mer enn 2000 statister når handlingen strekker seg over fire tiår?
   
   p I 
     em Erobreren 
@@ -112,10 +112,6 @@ PageBook
     | blir no presentert, utan at vi på nokon måte får eit heildekkjande bilete av kven Jonas er. Vi sit igjen med fleire ulike, og like sanne eller sannsynlege, bilete av Jonas. I 
     em Oppdageren 
     | møter lesaren Jonas idet han slepp ut av fengselet. Han vart dømd for drapet på Margrete, sjølv om det er uavklart om det er han som drap henne.
-
-  figure.col.col6.right-image.mt5
-    img(src='./kjarstad_Erobreren2.jpg' alt='Lærar står framfor ei tavle og peikar ut i klasserommet. Ein elev skriv på tavla i bakgrunnen. Foto')
-    figcaption Per Chr. Ellefsen som som lektor i matematikk under opptaka til tv-serien «Erobreren». Foto: Trond Solberg /VG / Scanpix
     
   p I tillegg til å vere ein leik med biografisjangeren, er trilogien om Jonas Wergeland eit stykke noregshistorie. Tv-programmet Jonas får suksess med, «Å tenke stort», er portrett av norske heltar, eller rettare sagt – nordmenn som også har vorte heltar i utlandet. Programma er laga som tv-portrett av nordmenn med ambisjonar. Ulike personlegdommar, som for eksempel Sonja Hennie, Gro Harlem Brundtland og Henrik Ibsen, speglar Noreg og den norske «folkesjela», noko Kjærstad leikar med, undersøkjer og ironiserer over i eit forsøk på å spegle kva det vil seie å vere norsk. At Jonas heiter Wergeland til etternamn, må også sjåast som ein del av Kjærstads leik med store nordmenn – og kva det vil seie å vere norsk.
   
@@ -128,7 +124,37 @@ PageBook
     source="media/books/kjarstad/Kjarstad.mp3"
     description="Jan Kjærstad om teksten som ein vev"
     )
-
+    blockquote
+      strong KVINNE:	
+      | Du skriver i boka om Jonas Wergeland, Oppdageren, at han «satt ved orgelet og spilte, eller, han spilte ikke – han vevde.» 
+      br
+      br
+      strong KJÆRSTAD:	
+      | Ja, det er litt sånn, med både musikk og skriving, at det er mye veving i det. Tekst kommer jo litt av – ja, som «Dichtung» på tysk, alt kommer til slutt ned på veveplanet. Det er et bilde jeg tror alle kunstnere har et sterkt forhold til. Hvis du tenker på Bachs cembalo-konserter og sånn, så er det jo som å se en vev – eller ikke bare én vev, men flere vever bak hverandre, så det blir en sånn magisk, transparent, gjennomsiktig, krystallinsk verdensvev, universal ... et spinn, rett og slett, et kosmisk spinn. 
+      br
+      br
+      strong KVINNE:	
+      | De komponistene, eller de som holder på med musikk, de kan gjøre noe som du aldri kan gjøre, nemlig å fortelle flere historier helt samtidig. 
+      br
+      br
+      strong KJÆRSTAD:	
+      | Ja, det er jeg fryktelig misunnelig på komponistene for, og særlig det at de kan legge tonene både vertikalt, som harmonier, og horisontalt, som melodier, det er noe ... Det har jeg prøvd så mange ganger, å skrive på den måten, men det går ikke, for en leser er dømt til å lese ordene etter hverandre. Du kan på en måte ikke si ti ord simultant. 
+      br
+      br
+      strong KVINNE:	
+      | Har du prøvd å skrive tre linjer, og så legge de ... 
+      br
+      br
+      strong KJÆRSTAD:	
+      | Jeg har prøvd. Særlig i begynnelsen, da jeg eksperimenterte mye. Jeg skrev mye noveller til å begynne med, da forsøkte jeg å legge masse ord under hverandre, lage setninger under hverandre. Jeg hadde en drøm om at leseren skulle se dem på likt, samtidig som man flytta blikket både nedover og til sida, samtidig. Men det er veldig vanskelig å kommandere en leser. 
+      br
+      br
+      strong KVINNE:	
+      | Du må begynne med førsteklassinger, kanskje, på skolen? 
+      br
+      br
+      strong KJÆRSTAD:	
+      | Ja, og da må det inn en helt ny leseteknikk. Men det er klart, med denne nye veven, «the web», altså internettet, ... når du tenker på hypertekster og sånn, får du inn en slags simultanitet, på en litt annen måte. Det kan godt være at de nye leserne – hvis vi da får barn til å lese i framtida – så kan det godt være de blir vant til å lese på en annen måte. Da er det en oppfordring til og en utfordring for forfatterne å begynne å pusle med nye måter å skrive på. 
   p Ein kan sjå komposisjonen i romanane som eit slags svar på påstanden om at dei store forteljingane er daude. Religion, modernitetens tru på framsteg, fornuft og fridom, og dei store politiske ideologiane har alle feila. I staden må ein byggje seg ei forståing av verda ut frå dei små forteljingane. Eit postmoderne individ er overlate til seg sjølv i forsøket på å skape meining i mangfaldet som møter han. Dette er også prosjektet i forteljingane om Jonas Wergeland. 
 
   NrkVideo(id="3305")

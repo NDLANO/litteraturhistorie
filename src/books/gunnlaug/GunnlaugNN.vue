@@ -2,7 +2,7 @@
 PageBook(:showAuthor="false")
 
   h3 Bakgrunn
-  img.col.col8.mt5.right-image(src="./Gunnlaug_Bakgrunn.jpg" alt="To menn står sentralt i ein ring av andre menn, mange med våpen. Illustrasjon")
+  img.col.col8.mt5.right-image(src="./Soga-om-Gunnlaug-Ormstunge_Maleri-I-starten.jpg" alt="To menn står sentralt i ein ring av andre menn, mange med våpen. Illustrasjon")
   p 
     em Soga om Gunnlaug Ormstunge 
     | er kort, berre på rundt førti små sider. Handlinga er lagd til tusenårsskiftet – ei uroleg tid på Island. Landnåmet er fullført, og dei største ættene driv ei rivalisering og ein kamp for å skaffe seg makt. Det er eit lovlaust samfunn der makta rår. Makta ligg hos den som har ei stor ætt og mange med seg. I eit slikt samfunn er det klokt å inngå gode giftarmål, og det er fedrane som alltid har det siste ordet før det unge paret får kvarandre. 
@@ -32,8 +32,21 @@ PageBook(:showAuthor="false")
   p Gunnlaug blir til for eksempel presentert slik: «Så er sagt om Gunnlaug at han var tidleg vaksen og stor og sterk, og hadde lysbrunt hår som fall vent. Han var svartøygd, med litt stygg nase, men hadde eit tiltalande andlet, var midjesmal og herdebrei, uvanleg velvaksen, storlåten i heile sitt huglynde, tidleg framfus, strid og hard i alt, ein stor skald, men laga gjerne nidviser og vart kalla Gunnlaug Ormstunge.»
 
   NdlaAudio(source="media/books/gunnlaug/Illuges_drøm.mp3" description="Illuges draum")
+    blockquote
+      p 
+        strong MANN:	        
+      p Han meg hogge ville,  
+      p hardt han mot meg søkte.  
+      p Men mitt skarpe stålsverd  
+      p sneidde fyrst hans legg.  
+      p Ørnen lik fekk lukte,  
+      p lauge seg i sårsjø.  
+      p Ravn da raskt mitt hovud  
+      p råka med si egg.  
 
-  img.col.col6.mt5.left-image(src="./Gunnlaug_Fortellermåten.jpg" alt="Mann med heildekkande hjelm held eit skjold framfor seg og ei øks i den andre handa. Foto")
+  .clear
+  br
+  img.col.col6.mt5.left-image(src="./Soga-om-Gunnlaug-Ormstunge_Viking-under-lydklipp-med-Illuges-drom.jpg" alt="Mann med heildekkande hjelm held eit skjold framfor seg og ei øks i den andre handa. Foto")
   
   p Underdriving er eit viktig verkemiddel: Under London-opphaldet er Gunnlaug i teneste for kongen, og ein dag kjem han i kamp med ein viking som heiter Tororm. Det går føre seg om lag slik: «– Ikkje er eg redd for det sverdet! roper Tororm. Gunnlaug hogg han da straks banehogg. Kongen takka han for verket.»
 
@@ -91,7 +104,7 @@ PageBook(:showAuthor="false")
 
 
   h5 Kva fortel ættesogene om samfunnstilhøva i landnåmstida?
-  img.col.col6.right-image.mt20(src="./Gunnlaug_Samfunnsforhold.jpg" alt="To menn set opp ein påle. Mann i raud kappe dirigerer arbeidet, omgitt av kvinner og barn som ser på. Illustrasjon")
+  img.col.col6.right-image.mt20(src="./Soga-om-Gunnlaug-Ormstunge_Siste-bilde.jpg" alt="To menn set opp ein påle. Mann i raud kappe dirigerer arbeidet, omgitt av kvinner og barn som ser på. Illustrasjon")
   ul
     li at ætta, det vil seie slekta, var viktig. Makta i det islandske samfunnet låg ikkje hos ein konge, men var fordelt mellom mektige familiar.
     li at slekta var viktigare enn enkeltmennesket.

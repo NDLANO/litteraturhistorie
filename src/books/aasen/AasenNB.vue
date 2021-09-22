@@ -22,7 +22,7 @@ PageBook
 
   h3 Dialekt- og ordsamler 
 
-  img(style="width: auto; float:right" src='./Aasen_Dialekt_og_ordsamlar.jpg' alt='Gammelt og skjoldet bokomslag, tittelen Grammatikk trykket med store bokstaver. Foto')
+  img(style="width: auto; float:right" src='./Det-norske-folkesprogs-grammatik_Bilde-av-boken-under-Dialekt--og-ordsamler.jpg' alt='Gammelt og skjoldet bokomslag, tittelen Grammatikk trykket med store bokstaver. Foto')
   p I 1841 drar Aasen til Bergen og kommer i kontakt med biskop Jacob Neumann. Biskopen er særlig interessert i sunnmørsgrammatikken som Aasen har laget, og hjelper han med å få et stipend fra Videnskabs-Selskabet i Trondheim. Aasen får nå i oppdrag å granske det norske folkemålet. 
 
   p I fire år, fra 1842 til 1846, reiser Aasen rundt i landet og studerer bygdemålene. Bymål og dialekter på Sør-Østlandet unngår han fordi han mener de er for mye oppblandet med dansk. Materialet han får samlet inn, utgjør grunnlaget for to vitenskapelige verk, 
@@ -123,10 +123,7 @@ PageBook
 
   p Vi vet lite om Ivar Aasens privatliv. Han frir og får nei to ganger, og deretter slår han fra seg tanken om giftermål. Han er ingen einstøing og går gjerne i teater, på konsert, i kneiper og salonger. Likevel føler han i perioder et sterkt savn etter noen å dele livet med. 
 
-  NdlaVideo(
-    source="media/books/aasen/Forfattaren_Ivar_Aasen.mp4"
-    captionsUrl="media/books/aasen/Forfattaren_Ivar_Aasen.nb-no.vtt"
-    )
+  NrkVideo(id="3380")
 
   h3 Gamle former i Aasens landsmål
   p Aasen bruker det norrøne språket som rettesnor når han velger ut ordformene som skal være en del av landsmålet. Her følger noen eksempler:
@@ -180,6 +177,7 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
@@ -187,6 +185,7 @@ export default {
     NdlaAudio,
     NdlaVideo,
     PageBook,
+    NrkVideo,
   },
 };
 </script>

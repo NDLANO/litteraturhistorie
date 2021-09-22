@@ -86,7 +86,7 @@ PageBook(:showAuthor="false")
     em Norske Folke- og Børneeventyr 
     | (1840). Eventyra har ei munnleg form, og heilt fram til våre dagar har dei vore mykje lesne og fortalde for barn.
 
-  img.col.col5.left-image.mt5(src='./Billedbog_Fra_illustrert_tekst_til_bildebok.jpg' alt='Ein bjørn risar ein mann. Illustrasjon')
+  img.col.col5.left-image.mt5(src='./Norsk-billedbog-for-børn_Bilde-av-bjørner.jpg' alt='Ein bjørn risar ein mann. Illustrasjon')
   p For dei fleste av oss er Theodor Kittelsens illustrasjonar av dei norske folkeeventyra uløyseleg knytte til Asbjørnsen og Moes eventyr, enda om desse illustrasjonane først kom ved hundreårsskiftet. Det var Kittelsen som skapte biletet av det norske trollet, slik dei fleste av oss tenkjer oss det i dag. I dyreteikningane hans har dyra menneskelege eigenskapar. Her ser vi kimen til seinare norske teikneseriar som 
     em Smørbukk 
     | og 
@@ -331,7 +331,7 @@ PageBook(:showAuthor="false")
 
   figure.col.col6.right-image
    img(src='./Billedbog_Laereboeker.jpg' alt='Bokside med bokstavar og bilete som illustrerer bokstavane. Foto')
-   figcaption Tysk illustrert ABC­bok frå 1830
+   figcaption Tysk illustrert ABC-­bok frå 1830
   p I 1739 vart det vedteke at barn hadde plikt til å gå på skule. Skulen skulle først og fremst gi konfirmasjonsopplæring. Frå 1848 omfatta «Lov om Almueskole» også barn i byane.
 
   p Den nye skulelova av 1860 gav skulen eit utvida mandat. I tillegg til å gi barna ei kristeleg oppseding skulle skulen no sjå til at barna fekk kunnskapar nok til å bli gode statsborgarar. Den første leseboka i skulen var P.A. Jensens 
@@ -343,7 +343,7 @@ PageBook(:showAuthor="false")
     | inneheldt litterære tekstar med tydeleg forankring i norsk kultur. Boka var i bruk i norsk skule heilt opp til 1960-åra.
 
   figure.col.col6.right-image
-   img(src='./Billedbog_Kvensk.jpg' alt='Dobbelt bokoppslag med tekst på begge sider. Kollasj')
+   img(src='./Norsk-billedbog-for-børn_Bilde-av-Kvensk-ABC.jpg' alt='Dobbelt bokoppslag med tekst på begge sider. Kollasj')
    figcaption 
     a(href="media/books/billedbog/Aapinen.pdf" target="_blank") Kvensk ABC
     br

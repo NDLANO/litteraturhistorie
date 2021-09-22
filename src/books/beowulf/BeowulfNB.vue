@@ -58,7 +58,7 @@ PageBook(:showAuthor="false")
   p De mest kjente europeiske heltediktene i tillegg til «Beowulf» er det franske «Rolandskvadet» fra 1000-tallet, det spanske heltediktet om El Cid, som ble skapt rundt 1140, og «Nibelungen-eposet» fra tidlig på 1200-tallet.   
 
   figure
-    img(src="./Beowulf_Heltedikt.jpg" alt="Mann med hjelm bærer en gammel mann. To kvinner ser på med et fortvilet uttrykk. Foto")
+    img(src="./Beowulf_Enes-som-flykter-fra-Troja.jpg" alt="Mann med hjelm bærer en gammel mann. To kvinner ser på med et fortvilet uttrykk. Foto")
     figcaption Eposet handler om helten Æneas som flykter fra Troja og senere blir stamfar til romerne.
 
 

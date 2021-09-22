@@ -32,7 +32,7 @@ PageBook
 
   NdlaAudio(source="media/books/kingo/kingo.mp3")
 
-  img.col.col3.right-image(src="./Kingo_Alter.jpg" alt="Rikt dekorert alter med forgylte ornament i front og ulike figurar i bakgrunnen. Foto")
+  img.col.col3.right-image(src="./Kingos-salmebok_Bilde-til-den-gyldne-sol-frembryder.jpg" alt="Rikt dekorert alter med forgylte ornament i front og ulike figurar i bakgrunnen. Foto")
   blockquote
     | Som den gyldne sol frembryder
     br

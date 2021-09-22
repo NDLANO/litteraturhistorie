@@ -1,7 +1,7 @@
 <template lang="pug">
 PageBook
   .mt40
-  img.col.col6.right-image.mt5(src="./Vinjeboka_Vinjeboka.jpg" alt="To hender held ei open bok. I boka er handskriven tekst og teikning av eit sverd. Foto")
+  img.col.col6.right-image.mt5(src="./Vinjeboka_Første-bilde-av-noen-som-blar-I-boka.jpg" alt="To hender held ei open bok. I boka er handskriven tekst og teikning av eit sverd. Foto")
   
   p 
     em Vinjeboka 
@@ -12,7 +12,8 @@ PageBook
   h3 Svartebøker
   figure.col.col6.right-image
     img(src="./Vinjeboka_Svarteboker.jpg" alt="Handskrive dokument med ulike skriftteikn og symbol. Foto")
-    figcaption Symbol frå Sefer Raziel HaMalakh
+    figcaption Symbol frå 
+      em Sefer Raziel HaMalakh
   p Ei 
     em svartebok 
     | er ei samling oppskrifter og formlar for dei som vil utøve magi eller trolldom. _ Svartebøkene har fått namnet sitt fordi dei omtaler «svartekunstar» eller 

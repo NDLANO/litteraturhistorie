@@ -29,7 +29,7 @@ PageBook(:showAuthor="false")
 
   NdlaVideo.mt40(
     source="https://www.youtube.com/watch?v=hQM97_iNXhk" 
-    description="Wagner - valkyrierittet fra operaens tredje akt"
+    description="Her kan du høyre det kjende «Valkyrierittet» frå Richard Wagners operasyklus Nibelungenringen."
     playerType="youtube")
 
 

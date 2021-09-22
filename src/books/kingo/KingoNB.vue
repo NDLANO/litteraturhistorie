@@ -32,7 +32,7 @@ PageBook
 
   NdlaAudio(source="media/books/kingo/kingo.mp3")
 
-  img.col.col3.right-image(src="./Kingo_Alter.jpg" alt="Rikt dekorert alter med forgylte ornamenter i front og ulike figurer i bakgrunnen. Foto")
+  img.col.col3.right-image(src="./Kingos-salmebok_Bilde-til-den-gyldne-sol-frembryder.jpg" alt="Rikt dekorert alter med forgylte ornamenter i front og ulike figurer i bakgrunnen. Foto")
 
   blockquote
     | Som den gyldne sol frembryder
@@ -83,7 +83,7 @@ PageBook
 
   figure.col.col6.left-image
    img(src='./Kingo_Om_salmelitteraturen.jpg' alt='Interiør fra kirke med alter, prekestol og orgelpiper. Forgylte dekorasjoner. Foto')
-   figcaption Alterparti og barokkorgel frå 1765 i Kongsberg kyrkje
+   figcaption Alterparti og barokkorgel fra 1765 i Kongsberg kirke
 
   p Salmene er skrevet til bruk hjemme og under gudstjenester i menigheten. De gjenspeiler høytidene i kirkeåret og den kirkelige liturgien. 
   p De fleste salmene er bygd opp etter et fast mønster som menigheten kan gjenkjenne. Formålet er å formidle et religiøst budskap. Gjennomgangsmotivet i barokksalmene er at alt skal forgå, men ved Guds nåde  kan mennesket få del i et liv etter døden. 

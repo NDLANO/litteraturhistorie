@@ -13,7 +13,13 @@ PageBook
 
   h3 Populærlitteraturen når nye lesergrupper
 
-  img.col.col12(src='./frich_Populaerlitteraturen1.jpg' alt='')
+  figure.col.col12
+    img(src='./frich_Populaerlitteraturen1.jpg' alt='')
+    figcaption
+      em Morgenstemning 
+      | (1885) av Gustav Wentzel 
+          
+  .clear
   p Romantikken (1800–1850) var en grotid for populærlitteraturen, både her til lands og i mange andre land. Maurits Hansen (1794–1842) skrev flere spennings- og kjærlighetsfortellinger i denne tidsperioden. 
 
   p Men gjennombruddet for populærlitteraturen kom først i andre halvdel av 1800-tallet. Nå lærte flere å lese, og flere fikk råd til å kjøpe litteratur. Byene var i vekst, og her hadde folk tilgang til elektrisk lys i seine kveldstimer. De mest kjente populærskribentene fra denne perioden er Jon Flatabø (1846–1930), Rudolf Muus (1862–1935) og Karen Sundt (1841–1924). 
@@ -25,7 +31,7 @@ PageBook
   h3 Skillingsviser 
 
   figure.col.col6.right-image.mt5
-   img(src='./frich_Skillingsviser1.jpg' alt='')
+   img(src='./Jonas-Fjeld_Illustrasjonen-under-Skillingsviser-er-på-kanten.jpg' alt='')
    figcaption Engelsk skillingstrykk fra 1833
 
   p 
@@ -100,8 +106,8 @@ PageBook
   h3  En populær sjanger 
 
   figure.col.col7.right-image.mt5
-   img(src='./frich_En_populaer_sjanger1.jpg' alt='')
-   figcaption Skodespelar Henny Moan i filmen «De dødes tjern», basert på boka med same namn av Bernhard Borge (Andre Bjerke). Foto: Scanpix
+   img(src='./Jonas-Fjeld_Bilde-fra-De-dødes-tjern.jpg' alt='')
+   figcaption Skuespiller Henny Moan i filmen «De dødes tjern», basert på boka med samme navn av Bernhard Borge (Andre Bjerke). Foto: Scanpix 
 
   p Tida fram til andre verdenskrig var en gullalder for krim- og spenningslitteratur. Nordahl Grieg (1902–1943) var en lovende ung journalist og forfatter. Sammen med Gyldendals redaktør Nils Lie (1902–1978) skrev han i 1929 
     em Bergenstoget plyndret i natt
@@ -124,7 +130,7 @@ PageBook
   .flex.flex-justify-center
     figure.col.col8
       img(src='./frich_En_populaer_sjanger2.jpg' alt='')
-      figcaption Kvart år deler Rivertonklubben ut prisen «Den Gylne Revolver» til forfattaren av den beste kriminalboka. I 1997 fekk Karin Fossum prisen. Litteraturprofessor Willy Dahl fekk Foreningen til kriminallitteraturens fremme sin ærespris. Foto: Bjørn Sigurdsøn / Scanpix
+      figcaption Hvert år deler Rivertonklubben ut prisen «Den Gylne Revolver» til forfatteren av den beste kriminalboka. I 1997 fikk Karin Fossum prisen. Litteraturprofessor Willy Dahl fikk Foreningen til kriminallitteraturens fremme sin ærespris. Foto: Bjørn Sigurdsøn / Scanpix 
   
 
   h3 Westernsjangeren 

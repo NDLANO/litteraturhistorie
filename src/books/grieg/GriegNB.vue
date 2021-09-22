@@ -7,8 +7,8 @@ PageBook
 
   p I tillegg var mellomkrigstida preget av økende politiske spenninger og av angrep på demokrati og menneskerettigheter i Europa. Mange var derfor opptatt av politiske spørsmål. Her hjemme kom det flere unge stemmer inn i samfunnsdebatten, og de utgjorde til sammen et radikalt opprør innenfor sentrale kulturinstitusjoner som aviser, tidsskrifter, teater og forlag. 
 
-  figure.col.col4.right-image.mt5
-   img(src='./grieg_Sosialpolitikk_og_kulturradikalisme2.jpg' alt='To eldre menn med briller sitter ved et bord. I bakgrunnen en kvinnelig servitør. Foto')
+  figure.col.col6.right-image.mt5
+   img(src='./Til-ungdommen_Bilde-av-Sigurd-Hoel-og-Helge-Krogh.jpg' alt='To eldre menn med briller sitter ved et bord. I bakgrunnen en kvinnelig servitør. Foto')
    figcaption Sigurd Hoel og Helge Krogh. Foto: Odd Nicolaysen / Aktuell / Scanpix
 
   p Kjente navn i denne sammenhengen er Sigurd Hoel, Arnulf Øverland, Helge Krog og Nordahl Grieg. De tre første blir gjerne omtalt som 
@@ -178,8 +178,8 @@ PageBook
   p Nordahl Grieg var ikke bare lyriker, dramatiker og romanforfatter. Han var også journalist og ikke minst krigsreporter. Etter krigsutbruddet i april 1940 meldte han seg til tjeneste, og han var med på den famøse gulltransporten gjennom Nord-Norge til England som sikret at gullbeholdningen i Norges Bank ikke falt i hendene på tyskerne. 
 
   .flex.flex-justify-center
-    figure.col.col10
-      img(src='./grieg_Journalisten_og_krigsreporteren.jpg' alt='Menn i uniform og redningsvester står foran et norsk flagg. Foto')
+    figure.col.col12
+      img(src='./Til-ungdommen_Forste-bilde-under-Journalisten-og-krigsreporteren.jpg' alt='Menn i uniform og redningsvester står foran et norsk flagg. Foto')
       figcaption
         strong Nordahl Grieg ble selv en krigshelt
         br

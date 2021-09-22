@@ -15,7 +15,7 @@ PageBook
   
   h3 Tanker og ideer i en ny tid
 
-  img.col.col4.left-image.mt5(src='./Kielland_Tanker_og_ideer_i_en_ny_tid.jpg' alt='Forsiden til en trykksak med tittelen Hovedstrømninger. Foto')
+  img.col.col4.left-image.mt5(src='./Gift_Bilde-av-boken-Hovedstrømninger.jpg' alt='Forsiden til en trykksak med tittelen Hovedstrømninger. Foto')
   p Den danske kritikeren og litteraturforskeren Georg Brandes var opptatt av framskritt, fornuft og frigjøring, og prosjektet hans var å få den unge forfattergenerasjonen til å sette søkelyset på uheldige og urettferdige samfunnsforhold. Alexander Kielland tok utfordringen. Han ville noe med diktningen sin, ville kritisere, avsløre og reformere, slik Brandes krevde. 
 
   p Kielland skrev om religion og kirke, samliv og ekteskap, latinundervisning og oppdragelse i skolen, pliktmoral og hykleri i samfunnet og forretningsmoral hos borgerskapet. En litteratur som handlet om slike emner, ville appellere til leserens fornuft, mente Brandes. Denne fornuften skulle føre samfunnet framover, samtidig som menneskene skulle bli mer opplyste og frie. I 1880-årene var ikke en slik målsetting urealistisk, for skjønnlitteraturen hadde mye mindre konkurranse fra andre medier enn i dag, og derfor større gjennomslagskraft. I tillegg fantes det på den tida en politisk vilje til å se kulturen i nær sammenheng med utviklingen i resten av samfunnet. 
@@ -34,6 +34,7 @@ PageBook
     | , en samling korte, episodiske fortellinger som gjerne tok utgangspunkt i en enkelthending eller et tilfeldig møte. 
 
   img.col.col12(src='./Kielland_En_stor_novellist.jpg' alt='Gruppe av kvinner og menn rundt et spisebord. I bakgrunnen to servitører. Illustrasjon')
+  .clear
   p En av novellettene i boka, “En Middag”, handler om den unge generasjonens rett til å frigjøre seg fra gammelt tankegods. Vi møter en grosserer som holder tale for den nylig hjemvendte sønnen sin. Faren slår om seg med store ord om hvordan de unge må få kvitte seg med gamle fordommer, tenke nytt og utvikle samfunnet videre til alles beste, men tar det ille opp når han like etter blir korrigert av sønnen i en diskusjon. Denne dobbeltkommunikasjonen viser avstanden mellom de overflatiske liberalistiske talemåtene og de dyptliggende konservative holdningene hos borgerskapet på Kiellands tid. 
 
   p Kielland fortsatte å skrive novelletter. I noen av dem er handlingen lagt til Danmark, blant annet i novellen Karen, en fortelling om hvordan et kynisk mannfolk lurer ei uskyldig jente. 

@@ -22,8 +22,8 @@ PageBook
     | trekløveret blant forfattarane i mellomkrigstida. Kulturradikalarane var venstreorienterte og samfunnskritiske, men samstundes ofte partiuavhengige.
 
   figure.col.col6.right-image.mt5
-   img(src='./hoel_kulturradikalen2.jpg' alt='Skrivebord med telefon, lampe og diverse trykksaker. Foto')
-   figcaption Foto: Morten Holm / NTB / Scanpix
+   img(src='./Veien-til-verdens-ende_Bilde-fra-kontoret.jpg' alt='Skrivebord med telefon, lampe og diverse trykksaker. Foto')
+   figcaption Foto: CC BY SA 
    
   p Det var Hoel sjølv som brukte omgrepet kulturradikalisme for første gong på norsk, i ein artikkel han skreiv i 1955. Her argumenterte han for at det finst ein «kulturradikal» tradisjon i Norden, som byrja allereie med Georg Brandes i 1870- åra, og som vart ført vidare mellom anna av Bjørnson, Ibsen, Øverland, Krog og han sjølv.
 

@@ -16,7 +16,7 @@ PageBook
 
   h3 Kjærlighet (1997)
 
-  img.col.col4.right-image.mt5(src='./orstavik_Kjaerlighet1.jpg' alt='Bomslag, silhuett av hus med eit opplyst vindauge mot mørkeblå nattehimmel. Foto')
+  img.col.col5.right-image.mt5(src='./Kjærlighet_Bilde-av-boken.jpg' alt='Bomslag, silhuett av hus med eit opplyst vindauge mot mørkeblå nattehimmel. Foto')
   p I gjennombrotsromanen 
     em Kjærlighet 
     | (1997) møter vi Vibeke og den ni år gamle sonen hennar Jon. Dei har nettopp flytt til ein liten tettstad nord i Noreg. Vibeke har fått jobb i kulturetaten i kommunen. Vi møter den vesle familien kvelden før Jons bursdag. Vibeke blir framstilt som ei kvinne som sluker bøker, og som elles er oppteken av utsjånaden sin og jakta på den perfekte mannen. Jon drøymer om samhald og lengtar etter mor si. Han gjer mykje for å fange merksemda hennar, men ho gir han få tilbakemeldingar.
@@ -70,7 +70,7 @@ PageBook
   h3 Å finne sitt eige språk
 
   figure.col.col12
-    img(src='./orstavik_Portrett4.jpg' alt='Portrett av ung kvinne med bleika og krøllete hår. Held i eit vindauge som er åpna innover i rommet. Foto')
+    img(src='./Kjærlighet_Bilde-av-Ørstavik-under-Å-finne-sitt-eget-språk.jpg' alt='Portrett av ung kvinne med bleika og krøllete hår. Held i eit vindauge som er åpna innover i rommet. Foto')
     figcaption Foto: Berit Roald / NTB / Scanpix
     
   p Hanne Ørstaviks forfattarskap kan på mange måtar delast inn i fire ulike fasar: 

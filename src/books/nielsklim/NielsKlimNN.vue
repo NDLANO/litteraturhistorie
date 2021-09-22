@@ -1,6 +1,7 @@
 <template lang="pug">
 PageBook
   
+  br
   img.col.col7.right-image(src='./NielsKlim_Utklipp.jpg' alt='Bokoppslag. På venstre side ein kappekledd mann, på høgre side tittelblad med tekst. Foto')
   p 
     em Niels Klims underjordiske rejse 
@@ -25,10 +26,9 @@ PageBook
 
   p Klim blir også kjend med fleire andre samfunn på planeten Nazar. Til sist fell han på nytt i ei hole og er med eitt tilbake i Bergen. Her får han vite at han har vore borte i tolv år. Ein gammal venn, borgarmeisteren Abelin, gir Klim husrom og skriv ned alt han fortel om reisa si.
 
-  .flex.flex-justify-space-evenly
-    img.col.col5(src="./NielsKlim_Innhold2.jpg" style="height: 100%; align-self: center" alt="Ei gruppe menn står rundt ein kropp som ligg på eit bord. Nokon held greiner i hendene. Illustrasjon")
-    img.col.col5(src="./NielsKlim_Innhold3.jpg" alt="Ein kappekledd figur med hale og langt krølla hår ser ut over eit landskap med fjell og palmar. Illustrasjon")
+  img.col.col12(src="./NielsKlim_Innhold2.jpg" style="height: 100%; align-self: center" alt="Ei gruppe menn står rundt ein kropp som ligg på eit bord. Nokon held greiner i hendene. Illustrasjon")
   
+  .clear
   h3 Sjanger
   p 
     em Niels Klims underjordiske rejse 

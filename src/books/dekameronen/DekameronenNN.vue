@@ -3,7 +3,6 @@ PageBook(:showAuthor="false")
   br
   img.col.col6.left-image.mt20(src="./Dekameronen_Innhold.jpg" alt="Gamalt handskrive dokument. Over teksten kan du sjå eit bilete av ei kvinne i ei seng. Framfor det sit ein mann med strengeinstrument. Eit anna bilete viser ei gruppe kvinner og menn. Foto ")
   
-  NdlaAudio(source="media/books/dekameronen/dekameronen_Giovanni_Boccaccio.mp3")
   p 
     em Dekameronen 
     | er ei samling på hundre noveller av den italienske diktaren Giovanni Boccaccio. Samlinga er truleg skriven i åra 1348–1353. Boka er hovudverket til Boccaccio og det einaste verket som er bevart. Boccaccio skreiv novellene sine på folkespråket, italiensk, og blir rekna for grunnleggjaren av den italienske prosadiktinga.
@@ -13,6 +12,8 @@ PageBook(:showAuthor="false")
     | tyder tidagarsverket. Rammeforteljinga i boka gir oss bakgrunnen for denne tittelen: Ti ungdommar flyktar frå pesten som heimsøkjer byen Firenze, til eit hus på landet. For å korte tida fortel dei kvarandre historier. Alle må finne på ei ny historie kvar dag, og etter ti dagar har dei fortalt hundre noveller. Så dreg dei attende til Firenze.
 
   p Dekameronen er eit bevisst komponert verk. Boccaccio samlar novellene tematisk ved hjelp av rammeforteljinga: Kvar dag vel ungdommane ein ny konge eller ei ny dronning, som så avgjer temaet som alle forteljingane denne dagen skal handle om. 
+
+  NdlaAudio(source="media/books/dekameronen/dekameronen_Giovanni_Boccaccio.mp3")
 
   NdlaVideo(
     source="media/books/dekameronen/Dekameronen.mp4"

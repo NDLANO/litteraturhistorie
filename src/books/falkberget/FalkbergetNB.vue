@@ -17,6 +17,61 @@ PageBook
     source="media/books/falkberget/Johan_Falkberget.mp3"
     description="Johan Falkberget forteller om arbeidet i gruva som barn. Foto: NTB / Scanpix"
   )
+    blockquote
+      strong MANN:	
+      | Hvor gammel var De egentlig, Dr. Falkberget, da De begynte å arbeide ved gruvene? 
+      br
+      br
+      strong FALKBERGET:	
+      | De fleste av oss, bergmannssønner var vi, i 8–9-årsalderen. 
+      br
+      br
+      strong MANN:	
+      | Og hvilket arbeid hadde så guttene ved gruva? 
+      br
+      br
+      strong FALKBERGET:	
+      | Vi måtte vaske kobbermalmen ut av gråberget. Det var litt slitsomt arbeid, det. Vi måtte ... stod under røyk, med kald vannsprut hele tiden. Arbeidet ni timer i døgnet. [utydelig 0:00:35] annenhver uke ut klokken tre om morgenen. 
+      br
+      br
+      strong MANN:	
+      | Men hva gjorde dere i de korte fristundene oppe ved gruvene? 
+      br
+      br
+      strong FALKBERGET:	
+      | Sov og sloss. 
+      br
+      br
+      strong MANN:	
+      | Hvordan artet egentlig arbeidslivet seg ved en gruve på den tid? 
+      br
+      br
+      strong FALKBERGET:	
+      | Det er jo en lang og dyster historie. Det er vanskelig å si det i noen få ord. Det var hardt arbeid. Vi visste jo ikke om noe annet. Og fant oss i det. 
+      br
+      br
+      strong MANN:	
+      | Det var vel et meget interessant miljø oppe ved gruvene – det kom vel folk fra nær sagt alle verdenshjørner? 
+      br
+      br
+      strong FALKBERGET:	
+      | Ja, vi lærte i grunnen å snakke norsk og svensk og tysk samtidig. Og ett og annet odiøst finsk ord også. 
+      br
+      br
+      strong MANN:	
+      | Hvor kom de faglærte bergmennene egentlig fra? 
+      br
+      br
+      strong FALKBERGET:	
+      | De kom fra Sokn. 
+      br
+      br
+      strong MANN:	
+      | Og en del kom kanskje fra Sverige? 
+      br
+      br
+      strong FALKBERGET:	
+      | Nåja, de senere betjentene fikk vel sin akademiske utdannelse i Falun.     
 
   h3 Historiefortelleren
 
@@ -84,9 +139,9 @@ PageBook
 
   p I 1920-årene var Arbeiderpartiet det største politiske partiet, og Johan Falkberget var en profilert støttespiller for arbeiderbevegelsen. Blant annet skrev han i Hvepsen, et humoristisk og satirisk vittighetsblad som kritiserte det borgerlige samfunnet. 
 
-  figure.col.col6.right-image.mt5
-   img(src='./Falkberget_Boer_Boerson.jpg' alt='To menn holder en kurv med bakverk. Den ene mannen har silkevest, den andre flosshatt og tversoversløyfe. Foto')
-   figcaption Paul Ottar Haga spilte rollen som Bør Børson på Det Norske Teatret i 2001. Rolv Wesenlund var Gammel-Bør. Foto: Knut Erik Knudsen / Scanpix
+  //- figure.col.col6.right-image.mt5
+  //-  img(src='./Falkberget_Boer_Boerson.jpg' alt='To menn holder en kurv med bakverk. Den ene mannen har silkevest, den andre flosshatt og tversoversløyfe. Foto')
+  //-  figcaption Paul Ottar Haga spilte rollen som Bør Børson på Det Norske Teatret i 2001. Rolv Wesenlund var Gammel-Bør. Foto: Knut Erik Knudsen / Scanpix
 
   p I 1920 kom 
     a(href="https://www.nb.no/items/72a525a76057f336475454839ea614c3?page=0&searchText=b%C3%B8r%20b%C3%B8rson" target="_blank") 
@@ -97,7 +152,7 @@ PageBook
 
   figure.col.col6.right-image.mt5
    img(src='./Falkberget_Ung_i_Valdres.jpg' alt='Skuespillere på en scene takker publikum. Foto')
-   figcaption Frå ei oppsetjing i regi av Ung i Valdres i 2008
+   figcaption Fra en oppsetning i regi av Ung i Valdres i 2008 
 
   p Bør Børson er stormannsgal og naiv oppkomling med ufortjent mye flaks, men vi får også sympati med han. Den dumsnille ungkaren fra Olderdalen driver landhandel og reiser ofte på handelsturer til Trondheim, der han blir fristet både av sjarmerende jomfruer og av innpåslitne aksjespekulanter. 
 
@@ -106,7 +161,7 @@ PageBook
   h3 Avismann, redaktør og politiker 
 
   figure.col.col12
-   img(src='./Falkberget_Avismann_redaktør_og_politiker.jpg' alt='Eldre mann sitter med en pipe i munnen foran et bord med stabler av bøker. Foto')
+   img(src='./Bor-Borson-Jr_Falkberget-pa-kontoret.jpg' alt='Eldre mann sitter med en pipe i munnen foran et bord med stabler av bøker. Foto')
    figcaption Johan Falkberget på kontoret i 1962. Foto: Sverre A. Børretzen / Aktuell / Scanpix
 
   p Falkberget skrev mye gjennom et langt liv, og han sa selv på sine eldre dager at han hadde produsert mer som journalist enn som skjønnlitterær forfatter.

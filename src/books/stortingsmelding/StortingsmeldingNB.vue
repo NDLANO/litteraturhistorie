@@ -12,7 +12,7 @@ PageBook(:showAuthor="false")
     | (amerikansk engelsk) som regnes som rettesnorer. 
 
   figure.col.col12
-   img(src='./Stortingsmelding_Skriftspraaknormering.jpg' alt='Lærer tegner på ei tavle og instruerer en elev. Foto')
+   img(src='./Stortingsmelding-nr.-31_Forste-bilde..jpg' alt='Lærer tegner på ei tavle og instruerer en elev. Foto')
    figcaption I Norge er det vanlig at folk snakker dialekt, vi trenger ikke å legge om til et normert talemål for å forstå hverandre. Men når de unge begynner å uttale ord annerledes enn tidligere, reagerer de voksne: «Det heter ikke sjærste, men kjæreste», sier lærer Anne Lise Kaarbø i klasse 9B på Kjelsås skole i Oslo. Tonje er en av de få i klassen som bruker kj-lyden. Foto: Rune Petter Ness / NTB / Scanpix
 
   p I engelsk og en del andre språk er det stor forskjell på talemål og skriftspråk. Det skyldes at disse skriftspråkene sjelden eller aldri er blitt normert. Det norske skriftspråket har derimot gjennomgått mange normeringer på vel hundre år. Dagens bokmål og nynorsk ligger derfor nokså langt unna dansk-norsken og landsmålet som folk skrev for hundre år siden. 
@@ -96,26 +96,31 @@ PageBook(:showAuthor="false")
 
   h5 Arbeiderpartiet 
 
-  figure.col.col5.right-image.mt20
-   img(src='./Stortingsmelding_Halvdan_Koht.jpg' alt='Portrett av eldre hvithåret mann, fulle bokhyller i bakgrunnen. Foto')
-   figcaption Halvdan Koht (1873– 1965) var en sentral aktør i norsk språkpolitikk. Han var nestformann i Østlandsk reisning, en organisasjon som arbeidet for at talemålet på Østlandet skulle få bredere plass i skriftmålene. Dessuten var han formann i Noregs Mållag i perioden 1921–1925 og medlem i nemnda som laget forslaget til 1938-reformen Foto Sverre A. Børretzen / Aktuell / Scanpix
-
   p Mange av de tradisjonelle velgerne til Arbeiderpartiet følte seg ikke hjemme verken i riksmål eller landsmål. Men Arbeiderpartiet prøvde lenge å unngå å ta stilling i språkstriden. Først i 1920-årene kom språkspørsmålet på dagsordenen også her. 
 
   p En viktig pådriver i den interne debatten var professor Halvdan Koht. Han mente at en måtte arbeide for et framtidig felles skriftspråk. Dette skriftspråket måtte bygge på folkemålet i hele landet. Koht fikk gjennomslag for synet sitt, og i 1936 gikk et flertall på Ap-landsmøtet inn for at skriftnormene skulle gi «bredere plass til folkemålet». 
 
+  ImageTextBlock.mt5(
+    :image="require(`./Stortingsmelding-nr.-31_Portrett-av-Halvdan-Koht.jpg`)"
+    imageColumns="4"
+    imageCaption="Foto Sverre A. Børretzen / Aktuell / Scanpix"
+    altText="Portrett av eldre hvithåret mann, fulle bokhyller i bakgrunnen. Foto"
+    )
+    p Halvdan Koht (1873– 1965) var en sentral aktør i norsk språkpolitikk. Han var nestformann i Østlandsk reisning, en organisasjon som arbeidet for at talemålet på Østlandet skulle få bredere plass i skriftmålene. Dessuten var han formann i Noregs Mållag i perioden 1921–1925 og medlem i nemnda som laget forslaget til 1938-reformen 
+
   .clear
 
-  .flex.flex-justify-center
-    figure.col.col10
-      img(src='./Stortingsmelding_Skolestart_i_Oslo.jpg' alt='Mødre følger sine døtre til skolen. Foto')
-      figcaption Oslo ca. 1935: Skolestart på en skole i Oslo. Første skoledag. Barn følges til skolen av mødrene, som er stilig kledd med kåper og hatter. Foto: NTB / Scanpix
-
   h5 Ny reform 
+
+  figure.col.col6.right-image
+    img(src='./Stortingsmelding_Skolestart_i_Oslo.jpg' alt='Mødre følger sine døtre til skolen. Foto')
+    figcaption Oslo ca. 1935: Skolestart på en skole i Oslo. Første skoledag. Barn følges til skolen av mødrene, som er stilig kledd med kåper og hatter. Foto: NTB / Scanpix
+
   p I 1934 vedtok stortingsflertallet å nedsette ei nemnd med todelt mandat. Nemnda skulle for det første komme med forslag om endringer i rettskriving, ordformer og bøyningsformer som kunne føre de to målformene nærmere sammen. For det andre skulle nemnda prøve å redusere antall dobbeltformer i begge skriftspråk. 
 
   p Medlemmene i nemnda mente at språket slik det ble snakket de fleste stedene i Norge, skulle være utgangspunkt for normeringen. Forslaget de la fram, vakte sterke reaksjoner både i bokmåls- og riksmålsleiren, men det ble vedtatt med enkelte endringer i 1937. Den nye rettskrivingen begynte å gjelde fra høsten 1938.  
   
+
   h3 Utviklingen i bokmål 
   p I første halvdel av 1900-tallet skjedde det omfattende endringer i begge skriftnormalene. Vi skal her se på noen sentrale punkter, og vi begynner med bokmål.  
   
@@ -178,8 +183,8 @@ PageBook(:showAuthor="false")
   h3 Utviklingen i nynorsk 
 
   figure.col.col5.right-image.mt5
-   img(src='./Stortingsmelding_Utviklingen_i_nynorsk.jpg' alt='Skilt med tekst på nynorsk: Ver gild ikkje røyk her. Foto')
-   figcaption Ver gild ikkje røyk her. Foto: Bjørn E. Larsen / VG / Scanpix
+   img(src='./Stortingsmelding-nr.-31_Ikkje-røyk-her-skilt.jpg' alt='Skilt med tekst på nynorsk: Livsfarleg å koma innåt leidningane eller festet deira. Foto')
+   figcaption Livsfarleg å koma innåt leidningane eller festet deira.
 
   p I motsetning til riksmålet bygde landsmålet fra starten av på norsk talemål i deler av landet. Men for dem som bodde på det sentrale Østlandet og snakket ulike byog bygdedialekter, var heller ikke landsmålet et skriftspråk de følte seg hjemme i. 
   
@@ -274,7 +279,7 @@ PageBook(:showAuthor="false")
 
   figure.col.col6.right-image.mt5
    img(src='./Stortingsmelding_Samnorskdyret.jpg' alt='Neshorn med to bakparter og uten hode. Illustrasjon')
-   figcaption Latterleggjering var eitt av verkemidla til riksmålsrørsla i kampen mot den nye bokmålsnormalen. Karikaturteikninga med «samnorskdyret» utan hovud skulle vise kva slags resultat ein fekk om ein prøvde å manipulere den «naturlege» språkutviklinga
+   figcaption Latterliggjøring var ett av virkemidlene til riksmålsbevegelsen i kampen mot den nye bokmålsnormalen. Karikaturtegningen med «samnorskdyret» uten hode skulle vise hva slags resultat man fikk om man prøvde å manipulere den «naturlige» språkutviklingen.
    
   p Etter krigen kom Riksmålsforbundet raskt på banen igjen, med dikteren Arnulf Øverland som leder. Riksmålsforbundet var godt organisert og hadde sterke støttespillere, blant annet de store konservative avisene Morgenbladet og Aftenposten. 
 
@@ -297,8 +302,8 @@ PageBook(:showAuthor="false")
   p Fram til 1940 økte tallet på nynorskbrukere jevnt, og mot slutten av andre verdenskrig hadde hver tredje elev i Norge nynorsk som hovedmål. NRK hadde gjort nynorsk til en del av hverdagen for radiolytterne, mye av reklamen i avisene var på nynorsk, og «Smørbukk» var en typisk nynorsk tegneserie. 
 
   .flex.flex-justify-center
-    figure.col.col10
-      img(src='./Stortingsmelding_Etter_andre_verdenskrig.jpg' alt='Mann sitter på et kontor bak en stabel med trykksaker. Foto')
+    figure.col.col12
+      img(src='./Stortingsmelding-nr.-31_Bilde-av-Formann-i-Norsk-Lytterforening.-Kan-gjores-mindre..jpg' alt='Mann sitter på et kontor bak en stabel med trykksaker. Foto')
       figcaption Formann i Norsk Lytterforening Alf Nielsen tel opp røystesetlar mot for mykje nynorsk i NRK i 1978. Foto: Oddvar Walle Jensen / NTB / Scanpix
 
   p Etter andre verdenskrig gikk tallet på nynorskbrukere nedover. Det tok blant annet mye lengre tid for Noregs Mållag enn for Riksmålsforbundet å komme i gang igjen med arbeidet etter krigen. Krigen førte òg til at nynorskfolket mistet et viktig argument, det nasjonale. Det nyttet ikke lenger å argumentere med at nynorsken var mer norsk enn bokmål. Nasjonal innstilling hadde vist seg gjennom å legge for dagen den rette holdningen overfor tyskere og NS, slik blant annet riksmålsforkjemperen Øverland hadde gjort. 
@@ -326,7 +331,7 @@ PageBook(:showAuthor="false")
   p Språkrådet arbeider med en ny rettskrivingsnormal for nynorsk som skal tas i bruk i 2012. Normen skal være «tydeleg, enkel og stram og utan sideformer», slik at det blir lettere for alle å skrive korrekt på nynorsk. 
 
   p.mt40 
-    | Kjelder:
+    | Kilder:
     br
     strong Fiskerstrand, Pernille
     br
@@ -345,6 +350,7 @@ import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
 import NrkVideo from "@/components/NrkVideo";
+import ImageTextBlock from "@/components/ImageTextBlock";
 
 export default {
   name: "Book",
@@ -353,6 +359,7 @@ export default {
     NdlaVideo,
     NrkVideo,
     PageBook,
+    ImageTextBlock,
   },
 };
 </script>

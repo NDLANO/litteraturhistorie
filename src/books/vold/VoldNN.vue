@@ -90,7 +90,74 @@ PageBook
     source="media/books/vold/Vold_trikkeskinnediktetdiktet.mp3"
     description="Trikkeskinnediktet"
     )
-
+    blockquote
+      strong «Trikkeskinnediktet»
+      br
+      br
+      | Tenkte jeg skulle skrive et dikt
+      br
+      | om trikkeskinner.
+      br
+      | Engang begynte jeg på ett: Byen ligger bundet
+      br
+      | i sitt nett av trikkeskinner
+      br
+      | – kom ikke lenger.
+      br
+      | Gå ut og se på trikkeskinnene, de binder ikke
+      br
+      | byen fast, de ligger nedfelt i gaten
+      br
+      | med brostein solidarisk på begge sider, gå ut
+      br
+      | og se på byen, den er ikke bundet, byer
+      br
+      | kan ikke bindes. Nei, trikkeskinner
+      br
+      | er til å legge femøringer på,
+      br
+      | trikken paraderte
+      br
+      | på brune mynter opp Theresegate, vi stod i portrom
+      br
+      | parat til å stikke av om trikken
+      br
+      | stanset, konduktøren ut! Flatklemte
+      br
+      | femøringer, store som engelske
+      br
+      | pennystykker (verdt 8 1/3 øre), gjerne
+      br
+      | klemt skjeve, ingen elg
+      br
+      | på femørene dengang men gode gamle hå syv. Trikkeskinner
+      br
+      | og sykling! en gang gikk jeg på hue
+      br
+      | foran læreren, det var i svingen ved Sporveisgata
+      br
+      | utenfor parfymeriet og lekebutikken der, bare med ballongdekk
+      br
+      | var man trygg (hadde
+      br
+      | halvballong). Om våren kommer
+      br
+      | den siste snøen seilende i klumper
+      br
+      | ned trikkeskinnene, skyver brunt vann foran seg
+      br
+      | med fine bølgestriper i. Siden blå menn
+      br
+      | som skyfler skinnene rene så solen
+      br
+      | skal få klatre uten sand i munnen
+      br
+      | opp bakken til Adamstua, der leira ligger våt
+      br
+      | og snart skal bli gras
+      br
+      | mellom skinnene.       
+    
   h3 Språk og form
   p Diktsamlinga er delt inn i seks delar. Kvar del inneheld frå sju til 32 dikt. Vold bruker svært sjeldan fast rim og rytme; han varierer mellom å skrive korte dikt i fri form, dikt med to og to eller fire og fire verselinjer i kvar strofe, og lange – nærmast prosaaktige og forteljande parti. Språket er munnleg og lite høgstemt. Og med unntak av den delen som blir kalla Byen H, er tekstane veldig konkrete og inneheld få bilete som krev tolking. I fleire av dikta blir lesaren presentert for fleire versjonar, og forfattaren reviderer sitt eige dikt i diktet. Eit eksempel er «Tale for loffen»:
 
@@ -146,10 +213,6 @@ PageBook
   p Da Vold i 1968 gav ut 
     em Mor Godhjertas glade versjon. Ja 
     | var han ein del av den såkalla Profil-krinsen. Profil var eit litteraturtidsskrift som vart gitt ut av ei gruppe samfunnskritiske og radikale forfattarar og studentar ved Universitetet i Oslo frå midten av 1960-talet. Saman med andre Profil-forfattarar som Dag Solstad (1941– ), Espen Haavardsholm (1945– ), Liv Køltzow (1945– ) og Einar Økland (1940– ) var Vold med på å fornye synet på korleis litteratur skulle skrivast og kva han skal handle om.
-
-  figure.col.col12
-    img(src='./vold_NRK1.jpg' alt='Fleire menn sit ved kvart sitt bord i eit TV-studio. Foto')
-    figcaption Profil-forfattarane i tv-studio. Du kan lære meir om Jan Erik Vold og denne tida på NRK Skole
 
   p Felles for Vold og dei andre lyrikarane i Profil-krinsen var opposisjonen deira mot den tradisjonelle etterkrigsmodernismen. Dei meinte han var for innovervend og alvorleg, og tyngd av komplekse symbol og metaforar. Lyrikk skal ikkje vere for «eliten», hevda dei, men for folk flest. Og diktaren er ikkje eit visjonært geni, men eit menneske som er engasjert i det samfunnet han eller ho er ein del av.
 

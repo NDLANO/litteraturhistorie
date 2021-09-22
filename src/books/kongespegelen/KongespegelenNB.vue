@@ -4,7 +4,9 @@ PageBook(:showAuthor="false")
   img.col.col6.right-image.mt20(src="./Kongespegelen_utklipp.jpg" alt="Gammelt håndskrevet dokument med tekst i to spalter. Foto")
   p Til den høviske litteraturen hører også Kongespeilet, ei lærebok i høflig framferd. Å være høvisk vil si å oppføre seg på en edel og moralsk måte. Boka er utformet som en dialog mellom far og sønn. Sønnen stiller spørsmål til faren, og faren gir råd om hvordan en ung mann skal oppføre seg, enten han er kjøpmann, ridder eller konge. Forfatteren av Kongespeilet er ukjent, men han viser stor kunnskap om det han skriver om. 
 
-  p Kongespeilet hører til det aller siste fra perioden norrøn litteratur, og er trolig nedskrevet rundt 1250. Boka er ei lærebok, og tittelen sier litt om hvem boka var tiltenkt. Trolig er den skrevet for sønnene til kong Håkon Håkonsson. 
+  p 
+    em Kongespeilet 
+    | hører til det aller siste fra perioden norrøn litteratur, og er trolig nedskrevet rundt 1250. Boka er ei lærebok, og tittelen sier litt om hvem boka var tiltenkt. Trolig er den skrevet for sønnene til kong Håkon Håkonsson. 
 
   h3 Høvisk litteratur 
   figure.col.col6.right-image

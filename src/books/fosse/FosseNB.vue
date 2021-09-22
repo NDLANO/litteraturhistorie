@@ -39,8 +39,8 @@ PageBook
   p Men også mentaliteten og kulturen som skildres, er ifølge Fosse typisk vestlandsk. Dialogen mellom menneskene er knapp, humoren underfundig, og hendelser blir ofte underdrevet. Tekstene er preget av en nøktern tone der språket er renset for patos og overflod. 
 
   figure.col.col12
-    img(src='./fosse_portrett2.jpg' alt='Portrett av mann som har hånda på haka og ser rett inn i kamera. Foto.')
-    figcaption Foto: Trygve Indrelid / Aftenposten / Scanpix
+    img(src='./Nokon-kjem-til-a-komme_Bildet-av-Fosse-under-Verdenskjent-forfatter.jpg' alt='Portrett av mann som har hånda på haka og ser rett inn i kamera. Foto.')
+    //- figcaption Foto: Trygve Indrelid / Aftenposten / Scanpix
 
 
   p Selv om både miljø og karakterer i litteraturen til Fosse kan oppfattes som uttrykk for en regional og kanskje litt sær norsk mentalitet, framstår karakterene som svært allmennmenneskelige – noe som kanskje er svaret på hvorfor Fosse slår så godt an internasjonalt. Tekstene er også ofte fylt av vemod og melankoli. Fosse sier selv av livet er grunnleggende trist. Alt du har kjært i livet, og du  selv, vil etter hvert forsvinne og bli borte. Denne vissheten om at livet er i stadig oppløsning og forvitring, er en allmennmenneskelig følelse. I Fosses litteratur kommer dette til uttrykk gjennom en indre uro og karakterer som er både skjøre og voldsomme på  samme tid. 
@@ -82,11 +82,11 @@ PageBook
   
   h3 Nokon kjem til å komme – ytre dialoger og indre monologer
 
-  figure.col.col6.right-image.mt5
-    img(src='./fosse_indre_monologer.jpg' alt='Et par sitter på en teaterscene. Kvinnen legger hodet på mannens skulder. Foto')
-    figcaption Jan Grønli og Unn Vibeke Hol i «Nokon kjem til å komme» på Det Norske Teateret i 1996.
-      br
-      | Foto: Helge Hansen / Aftenposten / Scanpix
+  //- figure.col.col6.right-image.mt5
+  //-   img(src='./fosse_indre_monologer.jpg' alt='Et par sitter på en teaterscene. Kvinnen legger hodet på mannens skulder. Foto')
+  //-   figcaption Jan Grønli og Unn Vibeke Hol i «Nokon kjem til å komme» på Det Norske Teateret i 1996.
+  //-     br
+  //-     | Foto: Helge Hansen / Aftenposten / Scanpix
 
   p I 1996 gav Jon Fosse ut 
     em Nokon kjem til å komme
@@ -127,6 +127,33 @@ PageBook
     source="media/books/fosse/Fosse.mp3"
     description="Jon Fosse om hva romanen har å si for menneskelivet"
     )
+    blockquote
+      strong Jon Fosse: 
+      | Eg vil jo då kanskje gå så langt som å meine at romanen er ... han skal ikkje moralisere og kjempe og alt sånt, berre vere ei openheit mot den andre, til dømes mot ein mann som drep ein annan på grunn av ein hund som blir drepen. Den typen forståing er noko av det som det er viktig å halde oppe – av moralske grunnar eller av politiske grunnar, nesten som ein slags antirasistisk innsats.  
+      br
+      br
+      strong Intervjuar: 
+      | I dette du seier no, gir du faktisk romanen veldig høg status i det menneskelege livet? 
+      br
+      br
+      strong Jon Fosse:  
+      | Ja. 
+      br
+      br
+      strong Intervjuar: 
+      | Du seier at det er først og fremst i romanen dette er mogleg, at ein kan gå inn i den andre, at fleire meiningar kan komme til uttrykk. Det er kanskje særleg viktig når vi lever i ein del av verda der folk flyttar på seg og der vi må forhalde oss til framande? 
+      br
+      br
+      strong Jon Fosse: 
+      | Heile tida, og den openheita for det forskjellige som ligg i europeisk kultur på sitt beste, den finn du ikkje mange andre plassar. Eg trur at nettopp den openheita ... Det verkar rimeleg for meg å seie at ein finn ho spesielt i romanen. Ein kan tenkje stort, renessanse og slikt, men du kan òg heilt praktisk tenkje på kor i samfunnet i Noreg i dag kan ein gå for å finne openheit for heilt forskjellige menneske med heilt forskjellige erfaringar. Kor kan du finne forståing for ein mann som har drepe ein mann fordi denne mannen drap hunden hans? Du kan finne det i litteraturen. Der kan du finne ein slags innsikt i mennesket, ikkje berre som intellekt eller som handlande vesen eller noko sånt, men som noko som er ein totalitet av stemningar og impulsar og alt mogleg sånt, i ei verd og ein situasjon der det skjer. 
+      br
+      br
+      strong Intervjuar: 
+      | Og tek hele dette mennesket på alvor og i forsvar? 
+      br
+      br
+      strong Jon Fosse: 
+      | Ja. Romanen seier ikkje: "Sånn skal det vere og sånn skal det vere, no skal vi få sosialisme" eller noko sånt. Den gode romanen seier ingenting sånt. Han er der berre – som eit barn er i verda.      
 
   // Medieinnhold: Vurdere alle filmene. Beholde bilder
 

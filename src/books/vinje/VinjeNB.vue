@@ -16,6 +16,7 @@ PageBook
   h3 Politikk og folkeopplysning 
 
   img.col.col12(src='./Vinje_Politikk_og_folkeopplysning.jpg' alt='Eldre mann med mørkt stort skjegg lener seg mot et bord med venstre arm. Foto')
+  .clear
   p Mellom 1843 og 1848 var Vinje lærer på borgerskolen i Mandal. Her ble han kjent med bondeføreren Søren Jaabæk, som sammen med Johan Sverdrup la grunnlaget for partiet Venstre. Jaabæk vakte den politiske interessen hos den unge telemarkingen, og Vinje begynte å skrive innlegg i aviser, både lokalt og sentralt. Fra nå av var han sterkt opptatt av politikk og  samfunnsforhold, og ikke minst av moderniseringen som den tekniske utviklingen medførte. 
 
   p Gjennom hele livet var folkeopplysning og arbeidet for dannelse og utdanning et viktig mål for Vinje. Han ville få folk til å tenke kritisk og gjøre seg opp selvstendige meninger. I en av avisartiklene sine fra tida i Drammens Tidende skrev han: «Sandheden er ikke noget fixt og færdigt, men en Proces, noget flydende. Det er alene grovslagne Mennesker som vil tage Sandheden og putte den i Lommen.» Denne kritiske grunnholdningen til etablerte sannheter og vanetenking preget også hele det journalistiske arbeidet hans. 
@@ -56,6 +57,60 @@ PageBook
     source="media/books/vinje/Vinje_Ferdaminne_aapningdikt_Nils_Erik.mp3"
     description="Vinje sitt åpningsdikt til reiseskildringen Ferdaminni frå Sumaren 1860"
     )
+    blockquote
+      p 
+        strong MANN:	
+        br 
+        | Dette diktet er åpninga på Vinjes store reiseskildring «Ferdaminne frå sumaren 1860». Boka er ei skildring av mennesker han møtte og plasser han fikk se mens han vandra til fots fra Eidsvoll til Trondheim. I dette åpningsdiktet beskriver han noen av de tankene og følelsene som melder seg ved avreisa fra hovedstaden. 
+        br
+        br
+      p 
+        strong Frå byen det berer 
+
+      p 
+        | Frå byen det berer. 
+        br
+        | Eg lyfter på hatt. 
+        br
+        | Gud veit no den dagen 
+        br
+        | når dit eg kjem att. 
+
+      p 
+        | Far vel, hovudstaden! 
+        br
+        | i deg var det best: 
+        br
+        | der fann eg dei beste, 
+        br
+        | der lærte eg mest. 
+
+      p 
+        | Lat sjå, du som alltid 
+        br
+        | på folk helder styr! 
+        br
+        | for du er den karen 
+        br
+        | som temja kan dyr. 
+
+      p 
+        | Men ufrisk i varmen 
+        br
+        | eg alltid deg fann. 
+        br
+        | Du er liksom tanken, 
+        br
+        | du elder din mann. 
+
+      p 
+        | Og derfor til fjells 
+        br
+        | vil eg draga som døl, 
+        br
+        | og kjenningar finna 
+        br
+        | og gløyme meg sjølv.     
 
 
   h3 «Grauten på Grut» 
@@ -91,7 +146,7 @@ PageBook
 
   p Mange av diktene til Vinje er blitt en del av den nasjonale lyrikkarven vår, ikke minst de som er tonesatt: «Ved Rondane», «Gamle Mor», «Våren», «Den dag kjem aldri» og «Blåmann».
 
-  img.col.col12(src='./Vinje_Vinje_som_lyriker.jpg' alt='En sti går innover i et fjellandskap. En varde med en rød T til venstre. Foto')
+  img.col.col12(src='./Dolen_Bilde-av-Rondane.jpg' alt='En sti går innover i et fjellandskap. En varde med en rød T til venstre. Foto')
 
   p Diktet «Ved Rondane» ble først trykt i 
     em Ferdaminni frå Sumaren 1860 

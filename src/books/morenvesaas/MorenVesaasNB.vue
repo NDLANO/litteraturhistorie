@@ -74,8 +74,8 @@ PageBook
 
   h3 Forelskelse og begjær 
 
-  figure.col.col4.right-image.mt5
-   img(src='./MorenVesaas_Frimerke.jpg' alt='Frimerke med tekst og portrett av Haldis Moren Vesaas. Foto')
+  figure.col.col5.right-image.mt5
+   img(src='./Harpe-og-dolk_Bilde-av-frimerke-under-Forelskelse-og-begjær.jpg' alt='Frimerke med tekst og portrett av Haldis Moren Vesaas. Foto')
    figcaption I 2007 var det hundre år siden Halldis Moren Vesaas ble født. Posten markerte hundreårsjubileet med et eget frimerke. Foto: Erik Johansen / Scanpix
    
   p Både Halldis Moren Vesaas, Aslaug Vaa og Inger Hagerup var pionerer i litteraturen. De skildret sider ved kvinnelivet som til da var blitt sett med mannens blikk, eller som det ikke hadde vært skrevet om i det hele tatt. Dette gjaldt særlig kvinners seksuelle drifter og erotiske lengsler. Halldis Moren Vesaas fikk kritikk for å skildre kvinnen som en aktiv part i det seksuelle samlivet. I diktet «Bølgje» fra samlingen 

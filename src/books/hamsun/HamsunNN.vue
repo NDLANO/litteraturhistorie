@@ -94,7 +94,7 @@ PageBook
 
   h3 Pan – den nyromantiske helten
 
-  img.col.col6.right-image.mt5(src='./Hamsun_Pan.jpg' alt='Jeger og hund står i skogbryninga. I forgrunnen graskledd bakke, i bakgrunnen furu- og granskog. Måleri')
+  img.col.col6.right-image.mt5(src='./Pan_Maleri-under-Pan-–-den-nyromantiske-helten.jpg' alt='Jeger og hund står i skogbryninga. I forgrunnen graskledd bakke, i bakgrunnen furu- og granskog. Måleri')
   p Hamsuns roman 
     em Pan 
     | frå 1894 er eit sentralt verk i den nyromantiske perioden. Hovudpersonen i boka er løytnant Thomas Glahn. Vi møter han «en nordlandssommer» i 1855. Glahn leiger ei jakthytte og bur der i lag med hunden sin, Esop. Han er ein typisk nyromantisk helt, rastlaus, kjenslevar og irrasjonell. Han søkjer ro i naturen fordi han ikkje kjenner seg heime i sivilisasjonen og det moderne bylivet.
@@ -110,7 +110,14 @@ PageBook
   h3 Språk og forteljemåte i Pan
 
   img.col.col12(src='./Hamsun_Spraak_og_fortellermaate_i_Pan.jpg' alt='Sjø, holmar og skjær i forgrunnen. I bakgrunnen reiser høge fjell seg mot himmelen frå havet. Foto')
-  NdlaAudio(source="media/books/hamsun/Fra_Pan_lest_av_Kjetil_Bang-Hansen.mp3" description="Frå Pan")
+  
+  NdlaAudio(
+    source="media/books/hamsun/Fra_Pan_lest_av_Kjetil_Bang-Hansen.mp3" 
+  )
+    template(v-slot:description) Frå Pan. 
+      a(href="https://www.nb.no/items/119ae64855efd3783e039a57ecd56d84?page=47&searchText=pan" target="blank") Les som tekst
+      | . 
+
   h5.mt20 Prosalyrisk stil
   p Framstillinga i 
     em Pan 
@@ -132,7 +139,7 @@ PageBook
     em Markens Grøde 
     | frå 1917. Det er denne romanen som også gav han nobelprisen i litteratur i 1920.
 
-  img.col.col6.right-image.mt5(src='./Hamsun_Markens_Groede.jpg' alt='To personar arbeider i ein mørk åker. I forgrunnen eit frukttre som blomstrar, i bakgrunnen fjord og grøne og snøkledde fjell. Måleri')
+  img.col.col6.right-image.mt5(src='./Pan_Maleri-under-Nyrealisme-og-nobelpris.jpg' alt='To personar arbeider i ein mørk åker. I forgrunnen eit frukttre som blomstrar, i bakgrunnen fjord og grøne og snøkledde fjell. Måleri')
   p 
     em Markens Grøde 
     | er kalla «jordbrukets evangelium». Romanen forkynner ein bodskap om sjølvberging som ideal, og namna på mange av karakterane er henta frå Bibelen. Hovudpersonen i romanen er bonden Isak Sellanraa, ein handlekraftig slitar som byggjer opp garden sin frå grunnen av. Isak kjem seg fram i verda gjennom hardt arbeid, ikkje gjennom intellektuelle kvalitetar. Han blir òg verande tru mot levemåten han har valt, same kva som skjer rundt han.

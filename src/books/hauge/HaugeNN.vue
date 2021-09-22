@@ -8,6 +8,9 @@ PageBook
     | . Dei fleste av dikta i denne samlinga hadde han alt skrive i 1920- og 1930-åra, og dei var haldne i tradisjonell bunden stil med faste strofemønster. Hauge uttrykte gjerne sinnsstemningar gjennom symbolske naturbilete, som i dette diktet:
 
   blockquote
+    | (utdrag)
+    br
+    br
     | I dag og i morgon 
     br
     | Eg er berre ein gneiste 
@@ -35,15 +38,14 @@ PageBook
     | Du skal skjelva i stormen 
     br
     | eit anna år. 
-    br
-    br
-    | (diktet har i alt åtte strofer) 
+
 
   h3 Frå bunden til ubunden stil
   p I 1950-åra tok Hauge til å eksperimentere med den forma som skulle bli særmerkt for han. Han la bort enderim og fast rytme og skreiv no kortare dikt med eit meir konkret innhald. Hauge tok gjerne utgangspunkt i noko kvardagsleg, som for eksempel ein situasjon, ein gjenstand eller eit dyr. Diktet «Gjer ein annan mann ei beine» handlar om ein mann som vil betale for ei teneste (ei beine) fordi han veit at han ikkje kan gjengjelde tenesta på anna vis:
 
   blockquote
     strong Gjer ein annan mann ei beine 
+    br
     br
     | Han kom or fjellet, skulde heim, 
     br
@@ -76,7 +78,9 @@ PageBook
     | og skauv ifrå. 
     br
     br
-    | Fra samlingen Seint rodnar skog i djuvet (1956) 
+    | Fra samlingen 
+    em Seint rodnar skog i djuvet 
+    | (1956) 
 
   p Den vesle historia fortel noko allment: Ein treng ikkje alltid betale for ei teneste, og dersom det ikkje er mogleg å få gjort ei motyting – så gjer ein annan mann ei beine då. Ein enkel leveregel – og samstundes god kvardagsfilosofi.
 
@@ -107,10 +111,10 @@ PageBook
 
   p Diktarspråket til Hauge er nynorsk, og det var utenkjeleg for han å skrive noko anna. Vi ser av ordvalet og formene han bruker, at det er eit arkaisk nynorsk. I dei eldste dikta bruker han former frå før 1938-reforma, som yver, kringum og stjernor. Han skriv substantivforma gjente for jente og talordet tvo for to. Også i seinare produksjon nyttar han stort sett dei eldste skriveformene.
 
+  //- img.col.col12(src='./Hauge_Portrett2.jpg' alt='Portrett av eldre mann framfor eit stativ med fleire mikrofonar. Foto')
   .clear
 
   h3 Ein lågmælt diktar
-  img.col.col12(src='./Hauge_Portrett2.jpg' alt='Portrett av eldre mann framfor eit stativ med fleire mikrofonar. Foto')
   p I samlinga 
     em Dropar i austavind 
     | (1966) går Hauge enda eit steg vidare i diktinga si. Her finn vi korte, tilsynelatande svært enkle dikt om kvardagslege ting: 

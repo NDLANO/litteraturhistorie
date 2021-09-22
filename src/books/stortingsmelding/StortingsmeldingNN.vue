@@ -12,7 +12,7 @@ PageBook(:showAuthor="false")
     | (amerikansk engelsk) som blir rekna for rettesnorer.
 
   figure.col.col12
-   img(src='./Stortingsmelding_Skriftspraaknormering.jpg' alt='Lærar teikner på ei tavle og instruerer ein elev. Foto')
+   img(src='./Stortingsmelding-nr.-31_Forste-bilde..jpg' alt='Lærar teikner på ei tavle og instruerer ein elev. Foto')
    figcaption I Noreg er det vanleg at folk snakkar dialekt, vi treng ikkje leggje om til eit normert talemål for å forstå kvarandre. Men når dei unge byrjar å uttale ord annleis enn tidlegare, reagerer dei vaksne: «Det heter ikke sjærste, men kjæreste», sier lærar Anne Lise Kaarbø i klasse 9B på Kjelsås skole i Oslo. Tonje er ei av dei få i klassen som bruker kj-lyden. Foto: Rune Petter Ness / NTB / Scanpix
    
   p I engelsk og ein del andre språk er det stor skilnad mellom talemål og skriftspråk. Det kjem av at desse skriftspråka sjeldan eller aldri har vorte normerte. Det norske skriftspråket har derimot gjennomgått mange normeringar på vel hundre år. Dagens bokmål og nynorsk ligg derfor nokså langt unna dansk-norsken og landsmålet som folk skreiv for hundre år sidan.
@@ -92,25 +92,29 @@ PageBook(:showAuthor="false")
   
   h5 Arbeidarpartiet
 
-  figure.col.col5.right-image.mt20
-   img(src='./Stortingsmelding_Halvdan_Koht.jpg' alt='Portrett av eldre kvithåra mann, fulle bokhyller i bakgrunnen. Foto')
-   figcaption Halvdan Koht (1873– 1965) var ein sentral aktør i norsk språkpolitikk. Han var nestformann i Østlandsk reisning, ein organisasjon som arbeidde for at talemålet på Austlandet skulle få breiare plass i skriftmåla. Dessutan var han formann i Noregs Mållag i perioden 1921–1925 og medlem i nemnda som laga framlegget til 1938-reforma. Foto Sverre A. Børretzen / Aktuell / Scanpix
-
   p Mange av dei tradisjonelle veljarane til Arbeidarpartiet kjende seg ikkje heime verken i riksmål eller landsmål. Men Arbeidarpartiet prøvde lenge å unngå å ta stilling i språkstriden. Først i 1920-åra kom språkspørsmålet på saklista også her.
 
   p Ein viktig pådrivar i den interne debatten var professor Halvdan Koht. Han meinte at ein måtte arbeide for eit framtidig felles skriftspråk. Dette skriftspråket laut byggje på folkemålet i heile landet. Koht fekk gjennomslag for synet sitt, og i 1936 gjekk eit fleirtal på Ap-landsmøtet inn for at skriftnormene skulle gi «bredere plass til folkemålet».
 
+  ImageTextBlock.mt5(
+    :image="require(`./Stortingsmelding-nr.-31_Portrett-av-Halvdan-Koht.jpg`)"
+    imageColumns="4"
+    imageCaption="Foto Sverre A. Børretzen / Aktuell / Scanpix"
+    altText="Portrett av eldre hvithåret mann, fulle bokhyller i bakgrunnen. Foto"
+  )
+    p Halvdan Koht (1873– 1965) var ein sentral aktør i norsk språkpolitikk. Han var nestformann i Østlandsk reisning, ein organisasjon som arbeidde for at talemålet på Austlandet skulle få breiare plass i skriftmåla. Dessutan var han formann i Noregs Mållag i perioden 1921–1925 og medlem i nemnda som laga framlegget til 1938-reforma. 
+
   .clear
 
-  .flex.flex-justify-center
-    figure.col.col10
-      img(src='./Stortingsmelding_Skolestart_i_Oslo.jpg' alt='Mødre følger døtrene sine til skolen. Foto')
-      figcaption Oslo ca. 1935: Skulestart på ein skule i Oslo. Første skuledag. Barn blir følgde til skulen av mødrene, som er stilig kledde med kåper og hattar. Foto: NTB / Scanpix
-
   h5 Ny reform
+
+  figure.col.col6.right-image
+    img(src='./Stortingsmelding_Skolestart_i_Oslo.jpg' alt='Mødre følger døtrene sine til skolen. Foto')
+    figcaption Oslo ca. 1935: Skulestart på ein skule i Oslo. Første skuledag. Barn blir følgde til skulen av mødrene, som er stilig kledde med kåper og hattar. Foto: NTB / Scanpix
   p I 1934 vedtok stortingsfleirtalet å setje ned ei nemnd med todelt mandat. Nemnda skulle for det første kome med framlegg om endringar i rettskriving, ordformer og bøyingsformer som kunne føre dei to målformene nærare saman. For det andre skulle nemnda prøve å redusere talet på dobbelformer i begge skriftspråka.
 
   p Medlemmene i nemnda meinte at språket slik det vart snakka dei fleste stadene i Noreg, skulle vere utgangspunktet for normeringa. Framlegget dei la fram, vekte sterke reaksjonar både i bokmåls- og riksmålsleiren, men det vart vedteke med nokre endringar i 1937. Den nye rettskrivinga tok til å gjelde frå hausten 1938.
+
   
   h3 Utviklinga i bokmål
   p I første halvdel av 1900-talet skjedde det omfattande endringar i begge skriftnormalane. Vi skal her sjå på nokre sentrale punkt, og vi byrjar med bokmål.
@@ -175,8 +179,8 @@ PageBook(:showAuthor="false")
   h3 Utviklinga i nynorsk
 
   figure.col.col5.right-image.mt5
-   img(src='./Stortingsmelding_Utviklingen_i_nynorsk.jpg' alt='Skilt med tekst på nynorsk: Ver gild ikkje røyk her. Foto')
-   figcaption Ver gild ikkje røyk her. Foto: Bjørn E. Larsen / VG / Scanpix
+   img(src='./Stortingsmelding-nr.-31_Ikkje-røyk-her-skilt.jpg' alt='Skilt med tekst på nynorsk: Livsfarleg å koma innåt leidningane eller festet deira. Foto')
+   figcaption Livsfarleg å koma innåt leidningane eller festet deira.
 
   p I motsetning til riksmålet bygde landsmålet frå starten av på norsk talemål i delar av landet. Men for dei som budde på det sentrale Austlandet og snakka ulike by- og bygdedialektar, var heller ikkje landsmålet eit skriftspråk dei kjende seg heime i.
   
@@ -294,8 +298,8 @@ PageBook(:showAuthor="false")
   p Fram til 1940 auka talet på nynorskbrukarar jamt, og mot slutten av andre verdskrigen hadde kvar tredje elev i Noreg nynorsk som hovudmål. NRK hadde gjort nynorsk til ein del av kvardagen for radiolyttarane, mykje av reklamen i avisene var på nynorsk, og «Smørbukk» var ein typisk nynorsk teikneserie.
 
   .flex.flex-justify-center
-    figure.col.col10
-      img(src='./Stortingsmelding_Etter_andre_verdenskrig.jpg' alt='Mann sit på eit kontor bak ein stabel med trykksaker. Foto')
+    figure.col.col12
+      img(src='./Stortingsmelding-nr.-31_Bilde-av-Formann-i-Norsk-Lytterforening.-Kan-gjores-mindre..jpg' alt='Mann sit på eit kontor bak ein stabel med trykksaker. Foto')
       figcaption Formann i Norsk Lytterforening Alf Nielsen tel opp røystesetlar mot for mykje nynorsk i NRK i 1978. Foto: Oddvar Walle Jensen / NTB / Scanpix
 
   p Etter andre verdskrigen gjekk talet på nynorskbrukarar nedover. Det tok mellom anna mykje lengre tid for Noregs Mållag enn for Riksmålsforbundet å kome i gang att med arbeidet etter krigen. Krigen førte òg til at nynorskfolket miste eit viktig argument, det nasjonale. Det nytta ikkje lenger å argumentere med at nynorsken var meir norsk enn bokmål. Nasjonal innstilling hadde synt seg gjennom å leggje for dagen den rette haldninga overfor tyskarar og NS, slik mellom anna riksmålsforkjemparen Øverland hadde gjort.
@@ -340,6 +344,7 @@ import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
 import NrkVideo from "@/components/NrkVideo";
+import ImageTextBlock from "@/components/ImageTextBlock";
 
 export default {
   name: "Book",
@@ -348,6 +353,7 @@ export default {
     NdlaVideo,
     NrkVideo,
     PageBook,
+    ImageTextBlock,
   },
 };
 </script>

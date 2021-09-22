@@ -22,9 +22,9 @@ PageBook(:showAuthor="false")
   ImageTextBlock.mt5(
     :image="require(`./Edda_Faeroeyene.jpg`)"
     imageColumns="4"
-    imageCaption="Frimerke med teksten Føroyar. Kappekledd kvinne omgitt av ornamental skog. Illustrasjon"
-    altText=""
-    )
+    imageCaption="Her er volva framstilt på et frimerke fra Færøyene."
+    altText="Frimerke med teksten Føroyar. Kappekledd kvinne omgitt av ornamental skog. Illustrasjon"
+    )    
     h3 «Voluspå» 
     p «Voluspå» er et gudedikt om jordas skapelse, hva som fører til jordas undergang, og om selve undergangen, det såkalte 
       em ragnarok
@@ -34,15 +34,17 @@ PageBook(:showAuthor="false")
   ImageTextBlock.mt5(
     :image="require(`./Edda_Tor_strir_med_jotnene.jpg`)"
     imageColumns="4"
-    imageCaption="Rødkledd kriger i vogn trukket av to geiter løfter en hammer. Lynet slår ned i fiendene han sloss mot. Maleri"
-    altText=""
+    altText="Rødkledd kriger i vogn trukket av to geiter løfter en hammer. Lynet slår ned i fiendene han sloss mot. Maleri"
     )
+    template(v-slot:caption)
+      em Tor strir med jotnene. 
+      | Maleri av Mårten Eskil Winge
+
     h3 «Trymskvida»
     p «Trymskvida» er et gudedikt som handler om jotnen Trym som stjeler hammeren til Tor. Tor må ha hjelp av den listige Loke for å få tilbake hammeren. Hammeren er både et forsvarsvåpen og et fruktbarhetssymbol for æsene, derfor er det svært viktig for Tor å få den tilbake. Men selv om gudene altså må løse et alvorlig problem, er handlingen skildret med mye humor. 
   
   figure.col.col6.right-image.mt5
     img(src="./Edda_Haavamaal.jpg" alt="Kriger med skjegg og sverd står foran dør som er dekorert med treskjæring. Teksten Håvamål er del av bildet. Illustrasjon")
-    figcaption Vatn og handduk han ventar å få, 
 
   h3 «Håvamål» 
   p «Håvamål» betyr «den høyes tale», det vil si at det er Odin som taler. «Håvamål» er på mange måter et læredikt, og det er Odin som gir råd og livsvisdom til menneskene i et samfunn fylt av fiendskap og farer. 
@@ -80,7 +82,7 @@ PageBook(:showAuthor="false")
   p Sigurd blir oppfostret av dvergen Regin. I diktet «Reginsmål» får vi høre om skatten som draken Fåvne vokter over. Fåvne er bror til Regin, og skatten er arven etter faren deres, Reidmar. Men Fåvne nekter å dele med bror sin. Da egger Regin Sigurd til å drepe Fåvne. Han smir om sverdet Gram, som Sigurd har arvet etter faren. Med dette sverdet skal han kjempe mot draken.
 
   figure.col.col3.left-image
-    img(src="./Edda_Hylestad.jpg" alt="Treskjæring. Kriger med sverd og skjold slåss mot dragelignende uhyre. Foto")
+    img(src="./Den-eldre-Edda_Utsnitt-fra-treskjering-Hylestad-stavkirke.jpg" alt="Treskjæring. Kriger med sverd og skjold slåss mot dragelignende uhyre. Foto")
     figcaption På Hylestad stavkirke er sagnet om Sigurd fremstilt.
 
   p «Fåvnesmål» forteller hvordan det går til når Sigurd dreper Fåvne. Før Fåvne dør, råder han Sigurd til å dra hjem uten skatten fordi gullet kommer til å bli hans bane. Dessuten advarer han Sigurd mot Regin. 

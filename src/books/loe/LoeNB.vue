@@ -31,7 +31,7 @@ PageBook
     | , bok nummer to i barnebokserien om truckfører Kurt, ble animasjonsfilm i 2008. 
 
   figure.col.col12
-    img(src='./loe_Kurt_blir_grusom2.jpg' alt='En stor dukke sitter i en truck. En gruppe mennesker poserer ved siden av denne. Foto')
+    img(src='./Naiv.Super_Bilde-fra-pressevisning-av-Kurt-blir-grusom.jpg' alt='En stor dukke sitter i en truck. En gruppe mennesker poserer ved siden av denne. Foto')
     figcaption Pressevisning av animasjonsfilmen «Kurt blir grusom». Erlend Loe bakerst. Foto: Terje Bendiksby / SCANPIXØverst: To av bøkene om Kurt. Foto: Jon-Are Berg-Jcobsen / Scanpix
   
   .clear

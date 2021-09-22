@@ -22,12 +22,71 @@ PageBook(:showAuthor="false")
   NdlaAudio(
     source="media/books/draumkvedet/tekst8_draumkvedet.mp3" description="Utdrag fra Draumkvedet"
     )
-    .flex
-      img.col.col6(src="./draumkvedetekst1.jpg" alt="Bokside som viser tekst fra Draumkvedet. Ornamenter på venstre side av teksten. Foto")
-      img.col.col6(src="./draumkvedetekst2.jpg" alt="")
+    blockquote
+      p 18. 
+        br
+        | Kjem eg meg åt Gjallarbrui, 
+        br
+        | ho heng'e så hågt i vinde; 
+        br
+        | ho er òll me gulle slegji 
+        br
+        | og saum i kvòrjom tinde. 
+
+      p 19. 
+        br
+        | Ormen høgg'e, og bikkja bit'e 
+        br
+        | og stuten stend mitte på leii; 
+        br
+        | tri er tingji på Gjallarbrui 
+        br
+        | og alle er gramme og vreide. 
+
+      p 20. 
+        br
+        | Bikkja bit, og ormen sting, 
+        br
+        | og stuten stend og stangar — 
+        br
+        | der slepp ingjen ivi Gjallarbrui, 
+        br
+        | som feller domane vrange. 
+
+      p 21. 
+        br
+        | Eg hev gjengji Gjallarbrui, 
+        br
+        | ho er båe bratt og lei; 
+        br
+        | vassa så hev eg dei Våsemyran', 
+        br
+        | no er eg kvitt'e dei. 
+        
+      p 22. 
+        br
+        | Va'i så hev eg dei Våsemyran', 
+        br
+        | der hev 'kje sta'i meg grunn; 
+        br
+        | no hev eg gjengji Gjallarbrui 
+        br
+        | med rapa moll i munn. 
+        br
+
+      p 23. 
+        br
+        | Eg hev gjengji Gjallarbrui, 
+        br
+        | og der var krokane på; 
+        br
+        | men eg totte tyngre dei Gaglemyran', 
+        br
+        | gud bære den dei skò gå!
+
 
   h3 Opphav 
-  img.col.col12(src="./Draumkvedet_Opphav.jpg" alt="Kvinne står i en lysning i skogen og blåser på en lur. Illustrasjon")
+  img.col.col12(src="./Draumkvedet_Maleri-av-jente-med-lur.jpg" alt="Kvinne står i en lysning i skogen og blåser på en lur. Illustrasjon")
   p Det var Jørgen Moe og Magnus B. Landstad som i 1840-årene gjorde de første nedskriftene av «Draumkvedet». 
 
   p Det finnes over hundre nedskrivninger av «Draumkvedet», og alle er funnet i ­Telemark. Noen av dem er bare små bruddstykker, og ingen av dem er helt fullstendige. Dessuten skiller de seg til dels sterkt fra hverandre. Den viktigste nedskrivningen er etter Maren Ramskeid fra Bronkeberg. 
@@ -46,7 +105,7 @@ PageBook(:showAuthor="false")
   p Forfatteren av «Draumkvedet» kjente nok til denne typen fortellinger, men i «Draumkvedet» er tonen mer menneskelig og forsonende. Samme tematikk som i «Draumkvedet» finner vi også i Edda-diktet «Solarljod» og i Dantes «Divina Commedia». Dantes verk blir for øvrig regnet for å være høydepunktet i visjonslitteraturen. 
 
   figure.col.col12
-    img(src="./Draumkvedet_Dante_og_Vergil_i_helvetet.jpg" alt="To menn står i en båt på opprørt hav. Omgitt av avkledde menn som drukner. Illustrasjon")
+    img(src="./Draumkvedet_Dante-og-Vergil.jpg" alt="To menn står i en båt på opprørt hav. Omgitt av avkledde menn som drukner. Illustrasjon")
     figcaption Dante og Vergil i helvetet. Måleri av Euène Delacroix
 
 

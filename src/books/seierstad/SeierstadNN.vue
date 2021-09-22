@@ -19,7 +19,7 @@ PageBook
     | om 22. juli og Anders Behring Breivik. I denne boka går ho tett inn på sentrale personar i familien og omgangskrinsen til Breivik. Også denne boka vart kritisert av kjelder som meinte seg feilsiterte og misbrukte av forfattaren.
 
   figure.col.col12
-    img(src='./seierstad_Bokhandleren_i_Kabul1.jpg' alt='Skalla mann med bart held fram ei bok med tittelen vendt mot fotografen. Foto')
+    img(src='./Bokhandleren-i-Kabul_Bilde-av-Shah-Mohammad-Rais-i-forste-avsnitt.jpg' alt='Skalla mann med bart held fram ei bok med tittelen vendt mot fotografen. Foto')
     figcaption Shah Mohammad Rais, den verkelege bokhandlaren i Kabul, på Gardermoen på veg til rettssak mot forfattaren. Foto: Thomas Björnflaten / TT / Scanpix
 
   .clear

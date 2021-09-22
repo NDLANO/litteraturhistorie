@@ -146,7 +146,7 @@ PageBook
   p «Tilgi dem ikke; de vet hva de gjør!» er ei omskriving av eit bibelvers frå Jesu lidingshistorie. Når Jesus blir krossfesta mellom to brotsmenn, seier han: «Far, tilgi dei, for dei veit ikkje kva dei gjer.» Med formuleringa si vil Øverland framheve at dei som set i verk overgrepa, berre veit så altfor godt kva dei gjer, dei kjenner til og med glede ved å sjå andre folk lide. Derfor finst det inga tilgiving for desse vonde handlingane.
 
   figure.col.col12
-   img(src='./Overland_Krigsfanger2.jpg' alt='Ei gruppe fangar marsjerer bak eit piggtrådgjerde i vinterlandskap. Foto')
+   img(src='./Den-rode-front_Bilde-fra-konsentrasjonsleir-under-Bibelske-allusjoner.jpg' alt='Ei gruppe fangar marsjerer bak eit piggtrådgjerde i vinterlandskap. Foto')
    figcaption Foto: Arnd Wiegmann / REUTERS / Scanpix
 
   p Ved å låne Bibelens språk låner Øverland også alvoret og autoriteten som denne boka representerer for dei fleste. Lidinga til kvart eit menneske veg for Øverland like tungt som lidingane Jesus måtte gå gjennom på krossen.

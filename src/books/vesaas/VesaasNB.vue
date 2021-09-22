@@ -65,16 +65,14 @@ PageBook
     em Kimen 
     | viser til at det like fullt finnes en kime av det gode i mennesket, midt i all ondskapen. 
 
-  NdlaVideo(
-    source="media/video/vesaas/TarjeVesaas2.mp4"
-    description="Ungdomstid og krig. Intervju med Tarjei Vesaas, blant annet om boka Kimen"
-  )
+  NrkVideo(id="4184")
+    div Ungdomstid og krig. Intervju med Tarjei Vesaas, blant annet om boka Kimen
 
   h3 Å dikte om seg selv
 
   figure.col.col6.right-image.mt5
     img(src='./Vesaas_Dikte_om_seg_selv.jpg' alt='Eldre mann med katt på skulderen. Foto')
-    figcaption Forfattaren Tarjei Vesaas hjemme på gården i Vinje (1965). Foto: Rolf Chr. Ulrichsen / Aftenposten / Scanpix
+    figcaption Forfatteren Tarjei Vesaas hjemme på gården i Vinje (1965). Foto: Rolf Chr. Ulrichsen / Aftenposten / Scanpix 
 
   p «Eg meiner sjølv at ein står i bøkene i alle slags forkledningar,» sa Vesaas i et intervju en gang. Han var en blyg person, tilbakeholden og ordknapp, og han snakket ofte om det som var «bortom det som seiest: draumen, lengten, visjonen». 
 
@@ -146,7 +144,7 @@ PageBook
 
   figure.col.col6.right-image.mt5
     img(src='./Vesaas_Teaterversjon_av_Fuglane.jpg' alt='En skuespiller på en teaterscene. Han holder i en stilisert åre. Foto')
-    figcaption Øyvind Brantzæg spelar Mattis i teaterversjonen av  Tarjei Vesaas’ Fuglane på Trøndelag Teater.  Foto: Thor Nielsen / VG / Scanpix
+    figcaption Øyvind Brantzæg spiller Mattis i teaterversjonen av Tarjei Vesaas’ Fuglane på Trøndelag Teater. Foto: Thor Nielsen / VG / Scanpix 
     
   p Tarjei Vesaas var en dikter som i stor grad brukte 
     em symbolet 

@@ -65,7 +65,10 @@ PageBook
   h5 Naturmytiske folkeviser
   p fortel om bergtaking og om folk som blir omskapte til bjørn, ulv og andre farlege dyr. Visene kan òg handle om korleis mennesket slåst mot slike lumske krefter, og korleis ein kan bli løyst frå trolldommen. «Villemann og Magnill» og «Olav Liljekrans» er naturmytiske folkeviser.
 
-  img.col.col5.right-image.mt5(src="./Olav_og_Kari_Norsk_billedbog_for_boern.jpg" alt="Bokomslag som viser barn som leikar. Illustrasjon")
+  figure.col.col5.right-image.mt5
+    img(src="./Olav_og_Kari_Norsk_billedbog_for_boern.jpg" alt="Bokomslag som viser barn som leikar. Illustrasjon")
+    figcaption Ei av dei første barnebøkene i Noreg (1888) inneheldt fleire dyre- og skjemteviser.
+
   h5 Kjempe- og trollviser
   p har mykje til felles med dei naturmytiske visene. Dei handlar oftast om menn i kamp mot kvarandre, eller i kamp med troll og risar. «Torekall» er eit døme på ei trollvise, mens «Roland og Magnus kongjen» er ei kjempevise.
 
@@ -76,7 +79,95 @@ PageBook
   p er eventyr i strofeform. Dei gjer narr av balladesjangeren og er reine parodiar. «Tor Brynjulv og fluga» og «Reven og bonden» er eksempel på slike viser.
 
   NdlaAudio(source="media/books/olavogkari/04_kjerringa_med_staven.mp3" description="Kjerringa med staven")
+    blockquote
+      strong Kjerringa med staven 
+      br
+      br
+      
+      p
+        | Kjerringa med staven 
+        br
+        | høgt oppi Hakadalen! 
+        br
+        | Åtte potter rømme,  
+        br
+        | fire merker smør, 
+        br
+        | såleis kinna Kari 
+        br
+        | Ola hadde før. 
+        br
+        | Kjerringa med staven. 
+      
+      p      
+        | Kjerringa med sekken 
+        br
+        | hoppa over bekken. 
+        br
+        | Og så datt ho uti, 
+        br
+        | og så vart ho blaut, 
+        br
+        | og så gjekk ho heim att 
+        br
+        | og så åt ho graut. 
+        br
+        | Kjerringa med sekken. 
+        br
+      
 
+      
+      p
+        | Kjerringa med sleiva, 
+        br
+        | sat høgt oppi kleiva. 
+        br
+        | Og så vart ho vare 
+        br
+        | Jutul-yten då: 
+        br
+        | «Jammen var det karar 
+        br
+        | før i verda òg!» 
+        br
+        | Kjerringa med sleiva. 
+        br
+      
+
+      
+      p
+        | Kjerringa ho stridde, 
+        br
+        | så kom ein kar og fridde: 
+        br
+        | «Vil du vera kjerring, 
+        br
+        | skal eg vera mann; 
+        br
+        | vil du koke kaffe, 
+        br
+        | skal eg bera vann.» 
+        br
+        | Kjerringa ho stridde, 
+        br
+        | så kom ein kar og fridde. 
+        br
+      
+
+      
+      p
+        | Sangeren synger «Kjerringa med kjeppen» i strofe to og «fyr» i stedet for «kar» i strofe fire. 
+        br
+        br
+        | Sangeren har også sløyfa en strofe.  
+
+      
+      p
+        | Kilde 
+        br
+        a(href="https://www.nynorsk.no/kjerringa-med-staven/" target="blank") Nynorsk kultursentrum. (u.å). Kjerringa med staven. 
+
+        
   h3 Balladeforma
 
   h5 To- eller firelinja strofeform

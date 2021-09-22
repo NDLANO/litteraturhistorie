@@ -11,7 +11,13 @@ PageBook
 
   h3 Populærlitteraturen når nye lesargrupper
 
-  img.col.col12(src='./frich_Populaerlitteraturen1.jpg' alt='')
+  figure.col.col12
+    img(src='./frich_Populaerlitteraturen1.jpg' alt='')
+    figcaption
+      em Morgenstemning 
+      | (1885) av Gustav Wentzel 
+
+  .clear
   p Romantikken (1800–1850) var ei blømingstid for populærlitteraturen, både her til lands og i mange andre land. Mauritz Hansen (1794–1842) skreiv fleire spennings- og kjærleiksforteljingar i denne tidsperioden.
 
   p Men gjennombrotet for populærlitteraturen kom først i andre halvdel av 1800-talet. No lærte fleire seg å lese, og fleire fekk råd til å kjøpe litteratur. Byane var i vekst, og her hadde folk tilgang til elektrisk lys i seine kveldstimar. Dei mest kjende populærskribentane frå denne perioden er Jon Flatabø (1846–1930), Rudolf Muus (1862–1935) og Karen Sundt (1841–1924).
@@ -23,7 +29,7 @@ PageBook
   h3 Skillingsviser
 
   figure.col.col6.right-image.mt5
-   img(src='./frich_Skillingsviser1.jpg' alt='')
+   img(src='./Jonas-Fjeld_Illustrasjonen-under-Skillingsviser-er-på-kanten.jpg' alt='')
    figcaption Engelsk skillingstrykk frå 1833
 
   p 
@@ -97,7 +103,7 @@ PageBook
   h3 Ein populær sjanger
 
   figure.col.col7.right-image.mt5
-   img(src='./frich_En_populaer_sjanger1.jpg' alt='')
+   img(src='./Jonas-Fjeld_Bilde-fra-De-dødes-tjern.jpg' alt='')
    figcaption Skodespelar Henny Moan i filmen «De dødes tjern», basert på boka med same namn av Bernhard Borge (Andre Bjerke). Foto: Scanpix
 
   p Tida fram til andre verdskrigen var ein gullalder for krim- og spenningslitteratur. Nordahl Grieg (1902–1943) var ein lovande ung journalist og forfattar. Saman med Gyldendals redaktør Nils Lie (1902–1978) skreiv han i 1929 

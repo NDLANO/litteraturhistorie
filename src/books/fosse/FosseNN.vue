@@ -38,8 +38,8 @@ PageBook
   p Men også mentaliteten og kulturen han skildrar, er ifølgje Fosse typisk vestlandsk. Dialogen mellom menneska er knapp, humoren underfundig, og hendingar blir ofte underdrive. Tekstane er prega av ein nøktern tone der språket er reinska for patos og overflod.
 
   figure.col.col12
-    img(src='./fosse_portrett2.jpg' alt='Portrett av mann som har handa på haka og ser rett inn i kamera. Foto.')
-    figcaption Foto: Trygve Indrelid / Aftenposten / Scanpix
+    img(src='./Nokon-kjem-til-a-komme_Bildet-av-Fosse-under-Verdenskjent-forfatter.jpg' alt='Portrett av mann som har handa på haka og ser rett inn i kamera. Foto.')
+    //- figcaption Foto: Trygve Indrelid / Aftenposten / Scanpix
 
   p Sjølv om både miljø og karakterar i litteraturen til Fosse kan oppfattast som uttrykk for ein regional og kanskje litt sær norsk mentalitet, står karakterane fram som svært allmennmenneskelege – noko som kanskje er svaret på kvifor Fosse slår så godt an internasjonalt. Tekstane er også ofte fylte av vemod og melankoli. Fosse seier sjølv av livet er grunnleggjande trist. Alt du har kjært i livet, og du sjølv, vil etter kvart forsvinne og bli borte. Denne vissa om at livet er i stadig oppløysing og forvitring, er ei allmennmenneskeleg kjensle. I litteraturen til Fosse kjem dette til uttrykk gjennom ei indre uro og karakterar som er både skjøre og valdsame på same tid.
 
@@ -80,11 +80,11 @@ PageBook
 
   h3 Nokon kjem til å komme – ytre dialogar og indre monologar
 
-  figure.col.col6.right-image.mt5
-    img(src='./fosse_indre_monologer.jpg' alt='Eit par sit på ei teaterscene. Kvinna legg hovudet på skuldra til mannen. Foto')
-    figcaption Jan Grønli og Unn Vibeke Hol i «Nokon kjem til å komme» på Det Norske Teateret i 1996.
-      br
-      | Foto: Helge Hansen / Aftenposten / Scanpix
+  //- figure.col.col6.right-image.mt5
+  //-   img(src='./fosse_indre_monologer.jpg' alt='Eit par sit på ei teaterscene. Kvinna legg hovudet på skuldra til mannen. Foto')
+  //-   figcaption Jan Grønli og Unn Vibeke Hol i «Nokon kjem til å komme» på Det Norske Teateret i 1996.
+  //-     br
+  //-     | Foto: Helge Hansen / Aftenposten / Scanpix
   p I 1996 gav Jon Fosse ut 
     em Nokon kjem til å komme
     | . Stykket handlar om ei namnlaus kvinne og ein namnlaus mann som kjøper seg eit hus nede ved sjøen. «Ho» og «Han» ønskjer å bu «aleine i kvarandre», men den «tosame einsemda» dei lever i, blir utfordra da den tidlegare eigaren av huset involverer seg i liva deira. Nærværet av den tidlegare huseigaren vekkjer sjalusi, uro og valdsame kjensler mellom dei to hovudkarakterane.
@@ -124,7 +124,33 @@ PageBook
     source="media/books/fosse/Fosse.mp3"
     description="Jon Fosse om kva romanen har å seie for menneskelivet"
     )
-
+    blockquote
+      strong Jon Fosse: 
+      | Eg vil jo då kanskje gå så langt som å meine at romanen er ... han skal ikkje moralisere og kjempe og alt sånt, berre vere ei openheit mot den andre, til dømes mot ein mann som drep ein annan på grunn av ein hund som blir drepen. Den typen forståing er noko av det som det er viktig å halde oppe – av moralske grunnar eller av politiske grunnar, nesten som ein slags antirasistisk innsats.  
+      br
+      br
+      strong Intervjuar: 
+      | I dette du seier no, gir du faktisk romanen veldig høg status i det menneskelege livet? 
+      br
+      br
+      strong Jon Fosse:  
+      | Ja. 
+      br
+      br
+      strong Intervjuar: 
+      | Du seier at det er først og fremst i romanen dette er mogleg, at ein kan gå inn i den andre, at fleire meiningar kan komme til uttrykk. Det er kanskje særleg viktig når vi lever i ein del av verda der folk flyttar på seg og der vi må forhalde oss til framande? 
+      br
+      br
+      strong Jon Fosse: 
+      | Heile tida, og den openheita for det forskjellige som ligg i europeisk kultur på sitt beste, den finn du ikkje mange andre plassar. Eg trur at nettopp den openheita ... Det verkar rimeleg for meg å seie at ein finn ho spesielt i romanen. Ein kan tenkje stort, renessanse og slikt, men du kan òg heilt praktisk tenkje på kor i samfunnet i Noreg i dag kan ein gå for å finne openheit for heilt forskjellige menneske med heilt forskjellige erfaringar. Kor kan du finne forståing for ein mann som har drepe ein mann fordi denne mannen drap hunden hans? Du kan finne det i litteraturen. Der kan du finne ein slags innsikt i mennesket, ikkje berre som intellekt eller som handlande vesen eller noko sånt, men som noko som er ein totalitet av stemningar og impulsar og alt mogleg sånt, i ei verd og ein situasjon der det skjer. 
+      br
+      br
+      strong Intervjuar: 
+      | Og tek hele dette mennesket på alvor og i forsvar? 
+      br
+      br
+      strong Jon Fosse: 
+      | Ja. Romanen seier ikkje: "Sånn skal det vere og sånn skal det vere, no skal vi få sosialisme" eller noko sånt. Den gode romanen seier ingenting sånt. Han er der berre – som eit barn er i verda. 
 </template>
 
 <script>

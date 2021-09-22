@@ -34,7 +34,7 @@ PageBook(:showAuthor="false")
     img(src="./Rolandskvadet_Chanson_de_Roland.jpg" alt="Ridder med vinger sitter på en hest. En soldat holder en skadet soldat i fanget. Over dette håndskrevet tekst. Faksimile")
     figcaption Et fargelagt manuskript til 
       em Chanson de Roland
-      | , frå 1300-talet
+      | , fra 1300-talet
 
   p De franske heltediktene kalles 
     em Chansons de geste

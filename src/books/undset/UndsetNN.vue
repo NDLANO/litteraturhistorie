@@ -120,7 +120,8 @@ PageBook
 
   h3 Eigenviljen og gudsviljen
 
-  img.col.col12(src='./undset_Egenviljen_og_gudsviljen.jpg' alt='Oppslått bibel framfor altertavle malt på tre. Foto')
+  img.col.col12(src='./Kristin-Lavransdatter_Bilde-under-Egenviljen-og-gudsviljen.jpg' alt='Oppslått bibel framfor altertavle malt på tre. Foto')
+  .clear
   p Er det ei motsetning mellom det å følgje sitt eige hjarte og det å følgje Gud? For å forstå kva som ligg i denne problematikken, 
     em eigenviljen 
     | mot 
