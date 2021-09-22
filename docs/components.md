@@ -38,6 +38,8 @@ Eksempel:
 
 ![ImageTextBlock Caption med slot](./ImageTextBlock_eksempel2.JPG)
 
+For å bruke komponenten må den legges til siden hvor man vil bruke den. Se seksjonen for **NrkVideo** under for hvordan dette gjøres, men erstatt `NrkVideo` med `ImageTextBlock`;
+
 ## NdlaAudio
 
 Komponenten brukes for å spille av lydfiler. Basert på [Plyr](https://plyr.io/) open source media player.
@@ -48,7 +50,11 @@ Den har to parametre:
 
 `description` - En tekst som vises under lydfilen.
 
-Komponenten har også en slot som kan brukes til å legge inn mer tekst. Hvis det legges noe i slotten vil playeren få en knapp "Vis tekst". Ved å trykke på denne kan brukeren få opp innholdet i slotten.
+Komponenten har også to slots som kan brukes til å legge inn henholdssvis mer tekst og description med HTML.
+
+Default slot brukes primært til å legge inn tekstversjon av det som sies i lydfilen. Hvis det legges noe i slotten vil playeren få en knapp "Vis tekst". Ved å trykke på denne kan brukeren få opp innholdet i slotten.
+
+Man kan også legge inn description ved å bruke `template(slot:description)` taggen. Dette kan f.eks. brukes til å legge inn en lenke i beskrivelsen av lydfilen. Hvis det både er lagt inn description som parameter og slot er det parameteret som vil vises.
 
 NB! Legger man inn bildetekst både som imageCaption og slot så vil det være imageCaption teksten som blir vist.
 
