@@ -27,7 +27,7 @@ li.sectionList_item
       li(v-if="showBooks" v-for="book in periodBooks" :key="book.id")
         ButtonBook(
           :id="book.id"
-          :title="book.nbTitle"
+          :title="getBookTitle(book)"
           :author="book.author"
           :style="getBookStyle(book)"
           :period="id"
@@ -209,6 +209,13 @@ export default {
     },
     onAuthorClick(author) {
       this.$emit("authorClick", this.$event, author);
+    },
+    getBookTitle(book) {
+      if (this.globalVars.langCode === "nb") {
+        return book.nbTitle;
+      }
+
+      return book.nnTitle;
     },
     getBookStyle(book) {
       let realLeftValue;
