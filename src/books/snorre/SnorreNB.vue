@@ -11,11 +11,6 @@ PageBook
 
   p Heimskringla består av i alt 17 kongesagaer. «Olav den helliges saga» er den mest omfattende. Kongesagaene er en blanding av historie og diktning. 
 
-  //- NdlaVideo(
-  //-   source="media/books/snorre/Skreiv_Snorre_Heimskringla.mp4"
-  //-   captionsUrl="media/books/snorre/Skreiv_Snorre_Heimskringla.nb-no.vtt"
-  //-   )
-  
   NrkVideo(id="3828")
 
   h3 Litt mer om Snorre Sturluson 

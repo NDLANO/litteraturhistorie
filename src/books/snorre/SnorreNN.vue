@@ -11,10 +11,6 @@ PageBook
 
   p Heimskringla omfattar totalt 17 kongesoger. «Soga om Olav den heilage» er den mest omfattande. Kongesogene er ei blanding av historie og dikting.
 
-  //- NdlaVideo(
-  //-   source="media/books/snorre/Skreiv_Snorre_Heimskringla.mp4"
-  //-   captionsUrl="media/books/snorre/Skreiv_Snorre_Heimskringla.nb-no.vtt"
-  //-   )
   NrkVideo(id="3828")
 
   h3 Litt meir om Snorre Sturluson
