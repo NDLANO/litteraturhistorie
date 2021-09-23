@@ -162,8 +162,8 @@ PagePeriod(
 
   NdlaVideo(
     source="media/periods/nyrealisme/kafka_lesekunst8_nrk.mp4" 
-    description="Film om Franz Kafka. Lende 02:49"
-    playertype="local"    
+    description="Film om Franz Kafka."
+    playertype="local"
     )
       
   .mt20
