@@ -21,7 +21,7 @@ PageBook(:showAuthor="false")
 
   ImageTextBlock.mt5(
     :image="require(`./Edda_Faeroeyene.jpg`)"
-    imageColumns="4"
+    :imageColumns="4"
     imageCaption="Her er volva framstilt på et frimerke fra Færøyene."
     altText="Frimerke med teksten Føroyar. Kappekledd kvinne omgitt av ornamental skog. Illustrasjon"
     )    
@@ -33,7 +33,7 @@ PageBook(:showAuthor="false")
   
   ImageTextBlock.mt5(
     :image="require(`./Edda_Tor_strir_med_jotnene.jpg`)"
-    imageColumns="4"
+    :imageColumns="4"
     altText="Rødkledd kriger i vogn trukket av to geiter løfter en hammer. Lynet slår ned i fiendene han sloss mot. Maleri"
     )
     template(v-slot:caption)

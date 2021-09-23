@@ -98,7 +98,7 @@ PageBook(:showAuthor="false")
 
   ImageTextBlock.mt5(
     :image="require(`./Stortingsmelding-nr.-31_Portrett-av-Halvdan-Koht.jpg`)"
-    imageColumns="4"
+    :imageColumns="4"
     imageCaption="Foto Sverre A. Børretzen / Aktuell / Scanpix"
     altText="Portrett av eldre hvithåret mann, fulle bokhyller i bakgrunnen. Foto"
   )

@@ -203,7 +203,7 @@ PagePeriod(
 
   ImageTextBlock(
     :image="require(`./Romantikken_Casper-David-Friedrich.jpg`)"
-    imageColumns="4"
+    :imageColumns="4"
     imageCaption="”Caspar David Friedrich: ”Der Wanderer über dem Nebelmeer” (1818)"
     altText="Mann med stokk står på ein fjelltopp og kikkar utover over landskapet. Illustrasjon."
     )
