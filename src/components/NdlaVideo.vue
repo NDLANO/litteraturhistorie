@@ -6,6 +6,7 @@ div.mt20.mb20
       v-if="captionsUrl!==''" 
       kind="captions"
       :src="captionsUrl"
+      default
       )
   
   .div.plyr__video-embed(id="ytplayer" v-if="playerType === 'youtube'" ref="ytplayer")
@@ -51,9 +52,16 @@ export default {
     // * Init plyr
     if (this.playerType === "youtube") {
       this.player = new Plyr(this.$refs.ytplayer);
-    } else {
-      this.player = new Plyr(this.$refs.player);
     }
+    // else {
+    // const playerElement = document.getElementById(this.$refs.player);
+    // this.player = new Plyr(this.$refs.player, {
+    // controls: ["play", "captions", "settings"],
+    // srcLang: "nb",
+    // captions: { active: true, language: "auto", update: true },
+    // settings: ["captions"],
+    //   });
+    // }
   },
 };
 </script>
