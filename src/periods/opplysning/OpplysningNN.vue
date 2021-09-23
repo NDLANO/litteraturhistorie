@@ -193,6 +193,7 @@ PagePeriod(
       p Og så kommer de inn og holder ... (Resten av setningen er uforståelig.) 
       p (Publikum ler.) 
       
+  .clear
   figure
     img(src="./Opplysningstid_Litteraturen2.jpg" alt="Herskapelege menneske samla rundt noen bord. Måleri.")
     figcaption
@@ -201,8 +202,76 @@ PagePeriod(
 
   NdlaAudio(
     source="media/periods/opplysning/Norges_skaal.mp3"
-    description="Norske selskap"
+    description="Norges Skaal"
   )
+    blockquote
+      p
+        | For Norge, Kiæmpers Fødeland,
+        br
+        | Vi denne Skaal vil tømme,
+        br
+        | Og naar vi først faae Blod paa Tand,
+        br
+        | Vi sødt om Frihed drømme;
+        br
+        | Dog vaagne vi vel op engang
+        br
+        | Og bryde Lænker, Baand og Tvang;
+        br
+        | For Norge, Kjæmpers Fødeland,
+        br
+        | Vi denne Skaal udtømme!
+
+      p
+        | Hver tapper Helt, blandt Klipper fød,
+        br
+        | Vi drikke vil til Ære;
+        br
+        | Hver ærlig Norsk, som Lænker brød,
+        br
+        | Skal evig elsket være!
+        br
+        | Den vrede Livvagts Vaabenbrag
+        br
+        | Forklarer trolig Nordmænds Sag.
+        br
+        | Hver ærlig Norsk, blandt Klipper fød,
+        br
+        | Vi drikke nu til Ære!
+
+      p
+        | En Skaal for Dig, min kjække Ven,
+        br
+        | Og for de norske Piger!
+        br
+        | Og har Du en, saa Skaal for den!
+        br
+        | Og Skam faae den, som sviger!
+        br
+        | Og Skam faae den, som elsker Tvang
+        br
+        | Og hader Piger, Viin og Sang!
+        br
+        | En Skaal for Dig min kjække Ven,
+        br
+        | Og for de norske Piger!
+
+      p
+        | Og nok en Skaal for Norges Fjeld,
+        br
+        | For Klipper, Snee og Bakker!
+        br
+        | Hør Dovres Echo raabe: “Held!”
+        br
+        | For Skaalen tre Gang takker.
+        br
+        | Ja tre Gang tre skal alle Fjeld
+        br
+        | For Norges Sønner raabe Held;
+        br
+        | Endnu en Skaal for Dig mit Fjeld,
+        br
+        | For Klipper, Snee og Bakker!    
 
   h5 Norsk studentmiljø i København
   p
