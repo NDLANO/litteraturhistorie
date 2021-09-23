@@ -33,10 +33,7 @@ PageBook
 
   p Helt fram til 1868 er Aasen nesten hvert år på språkreiser, gjerne til steder han ikke har vært før. Til sammen reiser han mer enn 400 mil og er innom alle fylker unntatt Finnmark. 
 
-  NdlaVideo(
-    source="media/books/aasen/Ivar_Aasen_landsmalet.mp4"
-    captionsUrl="media/books/aasen/Ivar_Aasen_landsmalet.nb-no.vtt"
-  )
+  NrkVideo(id="3378")
 
   h3 Oversetter og språkkonsulent 
 
