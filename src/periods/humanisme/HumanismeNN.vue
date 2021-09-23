@@ -16,10 +16,9 @@ PagePeriod(
    | I mellomalderen er grunnsynet på livet strengt religiøst. Mennesket er lite samanlikna med Gud, og enkeltmennesket blir ikkje sett på som viktig i seg sjølv. 
 
   .clear
-  NdlaVideo(
-    source="media/video/humanisme/dante_boccatio_lesekunst-003.mp4"
-    description="Dante Alighieri (1265–1321) er ein av dei første diktarane i mellomalderen som skriv på morsmålet i staden for latin. I ”Den guddommelege komedien” skildrar han si eiga (tenkte) reise gjennom helvete, skjærseld og til slutt paradiset. Samtidig flettar han inn tankar om både religion, filosofi, vitskap og politikk."
-    )
+
+  NrkVideo(id="186659")
+    .caption Dante Alighieri (1265–1321) er ein av dei første diktarane i mellomalderen som skriv på morsmålet i staden for latin. I ”Den guddommelege komedien” skildrar han si eiga (tenkte) reise gjennom helvete, skjærseld og til slutt paradiset. Samtidig flettar han inn tankar om både religion, filosofi, vitskap og politikk.
 
   h5 Standen avgjer kven du blir 
   p
@@ -188,6 +187,7 @@ PagePeriod(
 import PagePeriod from "@/components/PagePeriod";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
@@ -195,6 +195,7 @@ export default {
     NdlaAudio,
     NdlaVideo,
     PagePeriod,
+    NrkVideo,
   },
 };
 </script>

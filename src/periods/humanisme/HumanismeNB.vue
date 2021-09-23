@@ -16,11 +16,9 @@ PagePeriod(
     | I middelalderen er grunnsynet på livet strengt religiøst. Mennesket er lite i forhold til Gud, og enkeltmennesket blir ikke sett på som viktig i seg selv.
 
   .clear
-  NdlaVideo(
-    source="media/video/humanisme/dante_boccatio_lesekunst-003.mp4"
-    description="Dante Alighieri (1265–1321) er en av de første dikterne i middelalderen som skriver på morsmålet i stedet for latin. I «Den guddommelige komedie» skildrer han sin egen (tenkte) reise gjennom helvete, skjærsild og til slutt paradiset. Samtidig fletter han inn tanker om både religion, filosofi, vitenskap og politikk."
-    )
-  
+  NrkVideo(id="186659")
+    .caption Dante Alighieri (1265–1321) er en av de første dikterne i middelalderen som skriver på morsmålet i stedet for latin. I «Den guddommelige komedie» skildrer han sin egen (tenkte) reise gjennom helvete, skjærsild og til slutt paradiset. Samtidig fletter han inn tanker om både religion, filosofi, vitenskap og politikk.
+
   h5 Standen avgjør hvem du blir 
   p
     | Middelaldersamfunnet er delt opp i klart atskilte lag eller stender: Øverst står presteskapet (de som ber), så kommer adelen (de som slåss) og til slutt folket (de som arbeider). Standen avgjør rang, rettigheter og plikter. Eiendom og stand går i arv, og det er ikke lett å komme seg opp og fram i samfunnet, enda om en gjerne vil.
@@ -182,6 +180,7 @@ PagePeriod(
 import PagePeriod from "@/components/PagePeriod";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
@@ -189,6 +188,7 @@ export default {
     NdlaAudio,
     NdlaVideo,
     PagePeriod,
+    NrkVideo,
   },
 };
 </script>
