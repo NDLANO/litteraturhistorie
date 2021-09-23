@@ -11,9 +11,16 @@ PageBook(:showAuthor="false")
     em Il Decamerone 
     | tyder tidagarsverket. Rammeforteljinga i boka gir oss bakgrunnen for denne tittelen: Ti ungdommar flyktar frå pesten som heimsøkjer byen Firenze, til eit hus på landet. For å korte tida fortel dei kvarandre historier. Alle må finne på ei ny historie kvar dag, og etter ti dagar har dei fortalt hundre noveller. Så dreg dei attende til Firenze.
 
-  p Dekameronen er eit bevisst komponert verk. Boccaccio samlar novellene tematisk ved hjelp av rammeforteljinga: Kvar dag vel ungdommane ein ny konge eller ei ny dronning, som så avgjer temaet som alle forteljingane denne dagen skal handle om. 
+  p 
+    em 
+      a(href="https://www.nb.no/items/cd9f952d7ebfd65f7e0b8e7f84d3986c?page=9&searchText=dekameronen" target="blank") Dekameronen 
+    | er eit bevisst komponert verk. Boccaccio samlar novellene tematisk ved hjelp av rammeforteljinga: Kvar dag vel ungdommane ein ny konge eller ei ny dronning, som så avgjer temaet som alle forteljingane denne dagen skal handle om. 
 
   NdlaAudio(source="media/books/dekameronen/dekameronen_Giovanni_Boccaccio.mp3")
+    template(v-slot:description)
+      em Dekameronen
+      | . 
+      a(href="https://www.nb.no/items/cd9f952d7ebfd65f7e0b8e7f84d3986c?page=9&searchText=dekameronen" target="blank") Les teksten.
 
   NdlaVideo(
     source="media/books/dekameronen/Dekameronen.mp4"
@@ -21,7 +28,9 @@ PageBook(:showAuthor="false")
   )
 
   h3 Innhald
-  p Bakgrunnen for rammeforteljinga i Dekameronen er ein pestsjukdom som rammar Firenze. Denne pestsjukdommen er ein historisk realitet, for våren og sommaren 1348 vart byen heimsøkt av pesten.
+  p Bakgrunnen for rammeforteljinga i 
+    em Dekameronen 
+    | er ein pestsjukdom som rammar Firenze. Denne pestsjukdommen er ein historisk realitet, for våren og sommaren 1348 vart byen heimsøkt av pesten.
 
   p Samlinga inneheld ein del kjærleikshistorier, men også mange tekstar om heilt andre emne. Boccaccio er ikkje oppteken av å skildre fysisk kjærleik i detalj, men han vil vise kva for ei sterk kraft kjærleiken er, og kor mykje menneska er villige til å gjere for å vinne den dei elskar.
 
