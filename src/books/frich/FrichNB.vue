@@ -78,7 +78,9 @@ PageBook
 
   figure.col.col6.right-image.mt5
    img(src='./frich_Kritikk_av_ideologi_og_menneskesyn1.jpg' alt='')
-   figcaption Omslagsbilde til De udødelige dverge; Lille Jonas Fjeld; Storfjellets herre Øvre Richter Frich utgitt av Norild
+   figcaption Omslagsbilde til 
+    em De udødelige dverge; Lille Jonas Fjeld; Storfjellets herre 
+    | av Øvre Richter Frich. Utgitt av Norild
 
   p Det var få eller ingen i samtida som reagerte på menneskesynet som kom til uttrykk i Richter Frichs bøker. Hovedpersonen Jonas Fjeld blir framstilt som en blond, høyreist og bredskuldret mann av den ariske rase. Han er en heltefigur: lege av yrke, en mann som mestrer det meste, er iskald i alle situasjoner og en skarpskodd våpenbruker. Fiendene hans derimot er alltid utlendinger, og de blir framstilt som mindreverdige og nedbrytende elementer som driver med statskupp og annen undergravende virksomhet. Ofte er de av den såkalte slaviske rasen. 
 
