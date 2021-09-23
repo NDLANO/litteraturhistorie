@@ -21,4 +21,3 @@ export function readFileObject(file) {
     reader.readAsText(file, "UTF-8");
   });
 }
-

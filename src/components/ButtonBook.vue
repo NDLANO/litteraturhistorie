@@ -46,17 +46,16 @@ export default {
     };
   },
   methods: {
-    onEnterKey(event){
+    onEnterKey(event) {
       this.$emit("buttonClick");
       this.showLink();
     },
     onPointerDown(event) {
-
       this.mouseX = event.clientX;
       this.mouseY = event.clientY;
     },
     onPointerUp(event) {
-      console.log("OnPointerUp")
+      console.log("OnPointerUp");
       if (this.mouseX === event.clientX && this.mouseY === event.clientY) {
         console.log("ButtonBook.onPointerUp: both x and y is the same");
         this.$emit("buttonClick");

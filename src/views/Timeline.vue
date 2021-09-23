@@ -152,7 +152,6 @@ export default {
       this.$nextTick(() => {
         this.$refs.buttonCloseAuthor.focus();
       });
-
     },
     getPeriodId(periodPath) {
       return periodPath
