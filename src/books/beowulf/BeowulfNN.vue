@@ -1,6 +1,7 @@
 <template lang="pug">
 PageBook(:showAuthor="false")
-
+  br
+  .clear
   figure.col.col6.right-image
     img(src="./Beowulf_utklipp.jpg" alt="Gamalt handskrive dokument. Foto")
     figcaption Første side av ”Beowulf”-kvadet i eit manuskript skrive ein gong mellom 700 og 1000

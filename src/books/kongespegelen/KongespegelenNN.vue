@@ -1,6 +1,6 @@
 <template lang="pug">
 PageBook(:showAuthor="false")
-
+  br
   img.col.col6.right-image.mt20(src="./Kongespegelen_utklipp.jpg" alt="Gamalt handskrive dokument med tekst i to spaltar. Foto")
   p Til den høviske litteraturen høyrer også Kongsspegelen, ei lærebok i høvisk framferd. Å vere høvisk vil seie å gå fram på ein edel og moralsk måte. Boka er utforma som ein dialog mellom far og son. Sonen stiller spørsmål til faren, og faren gir råd om korleis ein ung mann skal te seg, anten han er kjøpmann, riddar eller konge. Forfattaren av Kongsspegelen er ukjend, men han viser stor kunnskap om det han skriv om.
 

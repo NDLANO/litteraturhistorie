@@ -1,6 +1,6 @@
 <template lang="pug">
 PageBook
-
+  br
   figure.col.col4.right-image
     img(src="./Dorothe_Engelbretsdotter_Taare-Offer.jpg" alt="Gamalt tittelblad med gotisk skrift. Foto")
     figcaption Omslag frå førsteutgåva av 
