@@ -164,7 +164,8 @@ PagePeriod(
     source="media/periods/nyrealisme/kafka_lesekunst8_nrk.mp4" 
     description="Film om Franz Kafka."
     playertype="local"
-    )
+    captionsUrl="media/periods/nyrealisme/Kafka_Lesekunst.nb-no.vtt"
+  )
       
   .mt20
   ImageTextBlock.mt5(
