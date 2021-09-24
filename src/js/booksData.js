@@ -497,7 +497,7 @@ export const books = [
     nbTitle: "Videre",
     author: "Inger Johanne Hagerup",
     year: 1945,
-    top: 55,
+    top: 45,
     left: 0,
     period: "",
   },
