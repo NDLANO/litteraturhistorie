@@ -314,6 +314,7 @@ export default {
         onDrag: this.onTimelineDrag,
         onDragEnd: this.onTimelineDragEnd,
       });
+      this.$refs.lo_sectionList.style.overflow = "hidden";
     }
 
     // * Set scroll left to the stored position
