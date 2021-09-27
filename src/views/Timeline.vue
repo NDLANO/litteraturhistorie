@@ -325,10 +325,13 @@ export default {
     const ucLangCode = this.globalVars.langCode.toUpperCase();
 
     // * Checks if app is running on mobile
+    const isIpad =
+      /Macintosh/.test(navigator.userAgent) && "ontouchend" in document;
     if (
       /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
         navigator.userAgent,
-      )
+      ) ||
+      isIpad
     ) {
       // * Disables gsap Draggable if on mobile
       // * This gives a much smoother experience on mobile
