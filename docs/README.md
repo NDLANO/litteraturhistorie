@@ -14,16 +14,40 @@ HTML-sidene er bygget med [PUG](https://pugjs.org/api/getting-started.html), CSS
 
 - [vue-router](https://router.vuejs.org/) - Sidestruktur
 - [vue-i18n](https://github.com/kazupon/vue-i18n) - Språkhåndtering for UI
+- [plyr](https://plyr.io/) - Videospiller
+- [gsap](https://greensock.com/gsap/) - Drag-funksjonalitet på timeline.
+- [core-js](https://github.com/zloirock/core-js) - JS polyfills
 
 ## Build pakker
 
 ESLint, Prettier, Sass, Pug satt opp vha [Vue CLI](https://cli.vuejs.org/)
+
+## Redigering av kode
+
+Hvis man skal gjøre endringer i koden anbefales det å klone prosjeket fra Github, gjøre endringer lokalt og teste med utviklingsserveren som er en del av prosjektoppsettet.
+
+Når man redigerer Pug-filer kan man risikere å gjøre endringer som gjør at man får feilmelding under en build. Tester man endringer på dev-server lokalt fanger man opp feilene opp tidligere å man unngår at kode med feil blir liggende i Github repositoryet.
+
+Alternativt kan man også gjøre endringer direkte på Github, enten ved å gå inn på filen man vil redigere og trykke "Edit"-knappen (blyant-ikon) eller endre github.com til github.dev i URLen. Sistnevnte vil gjøre at man får opp en online editor i nettleseren som ligner på VS Code
+
+### Anbefalt editor
+
+Det anbefales å bruke Visual Studio Code som editor.
+
+Anbefalte extensions:
+
+- **Vetur** - Støtte for `.vue` filer
+- **Prettier** - Autoformattering av koden
+- **indent-rainbow** - Visualisering av tabulator-innrykk
+- **ESLint** - Kontrollerer koden for feil o.l.
 
 ## Språkvalg
 
 Man velger mellom forskjellige versjoner ved å bruke `/nb/` eller `/nn/` i URLen rett etter domenet. Hvis dette ikke er definert eller man har definert ugyldige verdier så vil man bli videresendt til bokmålsversjonen (`/nb/`)
 
 ## Kodetips
+
+Se [egen side]("./pug.md") for mer informasjon om Pug.
 
 ### Runde periode-bilder i timeline
 
@@ -48,7 +72,7 @@ export default {
 
 Deretter kan man bruke den på følgende måte
 
-```javascript
+```
   p
     | Les
     a(:href="globalVars.publicPath + 'media/books/edda/haavamaal.html'" target="_blank") utdrag
