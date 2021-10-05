@@ -37,7 +37,7 @@ Filnavnet er låst og må være **sirkel\_\<periode-id\>.png**, f.eks. `sirkel_n
 
 Det er ikke alle lenkene som går til eksterne sider eller router-sider. Noen ligger som statiske filer i `public` folderen. For å lenke til disse må man bruke den globale variabelen `globalVars.publicPath`.
 
-For å få tilgang til denne må man injecte den i script-delen
+For å få tilgang til denne må man injecte den i script-delen.
 
 ```javascript
 export default {
