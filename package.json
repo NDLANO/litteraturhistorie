@@ -6,6 +6,7 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "build_dep": "vue-cli-service build && node deploy_dev",
+    "build_test": "vue-cli-service build && node deploy_test",
     "deploy": "node deploy_dev",
     "lint": "vue-cli-service lint"
   },
