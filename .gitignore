@@ -86,3 +86,4 @@ login_prefs.js
 sftp-cache.json
 public/media/video
 old_media
+deploy_test.js
