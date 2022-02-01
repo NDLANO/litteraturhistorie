@@ -562,6 +562,10 @@ blockquote {
     color: white;
     border-color: $main-color;
   }
+  &:focus {
+    outline-style: none;
+    box-shadow: 0 0 0 0.2rem rgba($main-color, 0.5);
+  }
 }
 
 // BOOKLIST
