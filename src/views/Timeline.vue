@@ -35,6 +35,7 @@
 
   // * MAIN CONTENT
   div.lo_sectionList-wrapper(ref="lo_sectionList")
+    ButtonCC
     main.lo_sectionList
       .lo_sectionsIntroPage
         //.startInstructions
@@ -65,6 +66,7 @@
 <script>
 import { gsap } from "gsap";
 import { Draggable } from "gsap/Draggable";
+import ButtonCC from "@/components/ButtonCC";
 import ButtonBook from "@/components/ButtonBook";
 import ButtonAuthor from "@/components/ButtonAuthor";
 import ButtonCheckbox from "@/components/ButtonCheckbox";
@@ -87,6 +89,7 @@ export default {
     MenuIcon,
     NdlaLogo,
     TimelineSection,
+    ButtonCC,
   },
   data() {
     return {
@@ -152,7 +155,6 @@ export default {
       this.$nextTick(() => {
         this.$refs.buttonCloseAuthor.focus();
       });
-
     },
     getPeriodId(periodPath) {
       return periodPath

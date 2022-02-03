@@ -315,6 +315,27 @@ blockquote {
   }
 }
 
+// CC Button
+.buttonCC {
+  display: block;
+  width: 2rem;
+  height: 2rem;
+  margin: 4.25rem 1rem -6.25rem 1rem;
+  position: absolute;
+  z-index: 1;
+  fill: $dark-grey;
+  border-radius: 50%;
+
+  &:hover {
+    fill: $main-color;
+  }
+
+  &:focus {
+    outline-style: none;
+    box-shadow: 0 0 0 0.2rem rgba($main-color, 0.5);
+  }
+}
+
 /// PART ON THE LEFT OF THE TIMELINE > INSTRUCTIONS
 
 .startInstructions h1 {
@@ -1011,6 +1032,10 @@ blockquote {
   .btn_close {
     padding: $base-line-height/2;
   }
+}
+
+.page_copyright {
+  margin-top: 6rem;
 }
 
 .page_period,

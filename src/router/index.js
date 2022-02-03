@@ -4,6 +4,9 @@ import Periods from "./periods";
 
 import Timeline from "@/views/Timeline.vue";
 
+import CopyrightNB from "@/views/CopyrightNB.vue";
+import CopyrightNN from "@/views/CopyrightNN.vue";
+
 const routes = [
   // * If no language code param is added, reroute to bokmål (/nb)
   {
@@ -21,6 +24,16 @@ const routes = [
     path: "/nn/",
     name: "HomeNN",
     component: Timeline,
+  },
+  {
+    path: "/Opphavsrett/nb/",
+    name: "CopyrightNB",
+    component: CopyrightNB,
+  },
+  {
+    path: "/Opphavsrett/nn/",
+    name: "CopyrightNN",
+    component: CopyrightNN,
   },
   ...Books,
   ...Periods,
