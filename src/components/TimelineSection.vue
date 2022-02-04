@@ -12,7 +12,10 @@ li.sectionList_item
     // * The circle and link in the middle of the era
     .lo_circleEra
       .circleEra
-        img(:src="require(`@/periods/${id}/sirkel_${id}.png`)")
+        img(
+          :src="require(`@/periods/${id}/sirkel_${id}.png`)" 
+          :alt="mainImageAltText"
+          )
         .circleEra_content
           .circleEra_date.timeLabel(v-if="timeLabel !== ''") {{ timeLabel }}
           .circleEra_date.from-to(v-if="timeLabel === ''") {{ from }}-{{ to }}
@@ -84,6 +87,10 @@ export default {
     title: {
       type: String,
       default: "_Norrøn tid",
+    },
+    mainImageAltText: {
+      type: String,
+      default: "",
     },
     id: {
       type: String,

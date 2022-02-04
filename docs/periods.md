@@ -13,6 +13,10 @@ Periodene er definert i to filer. Disse inneholder til en hvis grad de samme dat
     id: "opplysning", // ID. Må være unik
     nnTitle: "Opplysningstid", // Nynorsk tittel
     nbTitle: "Opplysningstid", // Bokmålstittel
+    nbMainImageAltText:
+      "Rundt utsnitt av et fotografi som viser en åker med valmuer i bakgrunnen. Åkeren er inngjerdet. I forgrunnen står en soldat med en bajonett.", // Bokmål alt tekst for hovedbilde for perioden
+    nnMainImageAltText:
+      "Rundt utsnitt av eit fotografi som viser ein åker med valmuar i bakgrunnen. Åkeren er inngjerda. I framgrunnen står ein soldat med ein bajonett.", // Nynorsk alt tekst for hovedbilde for perioden
     from: "1700", // Når perioden starter
     to: "1800", // Når perioden slutter
     nnTimeLabel: "1700-talet", // Nynorsk tidsbeskrivelse, ikke påkrevd

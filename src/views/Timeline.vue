@@ -48,6 +48,7 @@
           v-for="(period, index) in periods" :key="period.id"
           :index="index",
           :title="getPeriodTitle(period)"
+          :mainImageAltText="getPeriodMainImageAltText(period)"
           :from="period.from"
           :to="period.to"
           :id="period.id"
@@ -166,6 +167,11 @@ export default {
       if (this.globalVars.langCode == "nn") return period["nnTitle"];
 
       return period["nbTitle"];
+    },
+    getPeriodMainImageAltText(period) {
+      if (this.globalVars.langCode == "nn") return period["nnMainImageAltText"];
+
+      return period["nbMainImageAltText"];
     },
     getTimeLabel(period) {
       if (this.globalVars.langCode == "nn" || period["nnTimeLabel"])
