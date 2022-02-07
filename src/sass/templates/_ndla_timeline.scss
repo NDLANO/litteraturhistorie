@@ -592,7 +592,6 @@ blockquote {
 // BOOKLIST
 
 .bookList {
-  border-bottom: 2px dashed white;
   height: $circleEraHeight;
 
   li {
@@ -661,7 +660,9 @@ blockquote {
 }
 
 .authorsList {
-  margin-top: $base-line-height; // * 2;
+  border-top: solid 0.125rem $main-color;
+  box-shadow: inset 0 1rem 1rem -1rem $main-color;
+  padding-top: $base-line-height; // * 2;
   height: $authorsHeight;
   li {
     position: relative;
@@ -700,11 +701,12 @@ blockquote {
 }
 
 .separatorAuthor {
-  width: 12rem;
   padding-left: 1rem;
   position: absolute;
-  top: $circleEraHeight;
+  left: 0;
+  top: $circleEraHeight + 2rem;
   z-index: 1;
+  color: $dark-grey;
 }
 
 /// PAGES
