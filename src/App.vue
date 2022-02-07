@@ -29,6 +29,7 @@ export default {
     $route(to) {
       console.log("App route watcher: route change to ", to);
       if (!this.languageInitiated) this.initLanguage();
+      document.title = "NDLA Litteraturhistorie";
     },
   },
   computed: {
