@@ -60,9 +60,11 @@ export default {
 
       let messages = {};
       if (this.globalVars.langCode == "nn") {
+        document.documentElement.setAttribute("lang", "nn");
         // * window.litteraturhistorieDictionaryNn/Nb is loaded by index.html
         messages = window.litteraturhistorieDictionaryNn;
       } else {
+        document.documentElement.setAttribute("lang", "nb");
         messages = window.litteraturhistorieDictionaryNb;
       }
 
