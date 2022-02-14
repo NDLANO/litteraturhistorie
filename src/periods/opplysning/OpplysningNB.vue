@@ -176,9 +176,6 @@ PagePeriod(
   h3 Andre kunstformer
 
   figure
-    img(src="./Opplysningstid_Andre_kunstformer1.jpg" alt="Interiør i kirke med benker og hvite, utsmykkende vegger. Foto.")
-    figcaption Kirke i rokokkostil, Ottobeuren i Böhmen.
-  figure
     img(src="./Opplysningstid_Andre_kunstformer2.jpg" alt="En gruppe mennesker i skogen. Maleri.")
     figcaption Maleri av Jean-Antoine Watteau (1721)
 

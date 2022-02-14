@@ -181,9 +181,6 @@ PagePeriod(
   h3 Andre kunstformer
 
   figure
-    img(src="./Opplysningstid_Andre_kunstformer1.jpg" alt="Interiør i kirke med benkar og kvite, utsmykka vegger. Foto.")
-    figcaption Kyrkje i rokokkostil, Ottobeuren i Böhmen.
-  figure
     img(src="./Opplysningstid_Andre_kunstformer2.jpg" alt="Ei gruppe menneske i skogen. Måleri.")
     figcaption Måleri av Jean-Antoine Watteau (1721)
 

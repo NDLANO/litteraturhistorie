@@ -464,7 +464,7 @@ PagePeriod(
 
   figure.col.col3.right-image
     img.col.col12(src="./Postmodernisme_Andre_kunstformer4.jpg" alt="Kvinne sit i ein kunstinstallasjon med mange små glassfigurar. Foto.")
-    figcaption Marianne Heske på ei utstilling på Henie Onstad Kunstsenter. Foto: Rolf M. Aagaard / Aftenposten / Scanpix
+    figcaption Marianne Heske på ei utstilling på Henie Onstad Kunstsenter. Foto: Mimsy Møller / Samfoto / NTB
 
   p Ein annan sentral norsk kunstnar i den postmoderne tradisjonen er <strong>Marianne Heske</strong> (1946– ). Marianne Heske tingar produkt av lokale handverkarar, som ho så set saman til installasjonar, bilete eller skulpturar. Ein slik konseptuell kunst – der ideen er viktigare enn sjølve handverket – er typisk for den postmoderne retninga. 
 
@@ -487,7 +487,7 @@ PagePeriod(
 
   figure
     img(src="./Postmodernisme_Andre_kunstformer7.jpg" alt="Mannleg vokalist på scenen foran stort publikum på ein fotballstadion. Foto.")
-    figcaption Mick Jagger i aksjon under ein Rolling Stones-konsert. Foto: Lynn Goldsmith / Corbis/  Scanpix
+    figcaption Mick Jagger i aksjon under ein Rolling Stones-konsert.
 
 
   p I 1960-åra var musikken knytt til ungdomsopprøret i samtida, og grupper som <strong>Beatles</strong> og <strong>Rolling Stones</strong> vart saman med <strong>Bob Dylan</strong> (1941– ) viktige symbol for ungdomane den gong. I 70-åra tok den litt meir svevande og drøymande hippiekulturen over, og artistar som <strong>Janis Joplin</strong> (1943–1970), <strong>Jimi Hendrix</strong> (1942–1970) og <strong>Jim Morrison</strong> (1943–1971, med gruppa Doors) var viktige stemmer her. 
@@ -500,7 +500,7 @@ PagePeriod(
 
   figure
     img(src="./Postmodernisme_Andre_kunstformer9.jpg" alt="Musikkgruppe framfører låt på scene. Foto.")
-    figcaption Den siste konserten til a-ha i Oslo Spektrum (2010). Foto: Knut Erik Knudsen / VG / Scanpix
+    figcaption Foto: Knut Snare / Aftenposten / NTB
   
 
   p Bandet <strong>a-ha</strong> er utan tvil den største internasjonale norske musikksuksessen i perioden etter 1960. A-ha greidde med ”Take on me” noko ingen norske band har greidd verken før eller seinare – dei selde til førsteplass på den amerikanske ”billboard”-lista. 

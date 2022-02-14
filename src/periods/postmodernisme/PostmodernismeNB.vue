@@ -558,7 +558,7 @@ PagePeriod(
 
   figure.col.col3.right-image
     img.col.col12(src="./Postmodernisme_Andre_kunstformer4.jpg" alt="Kvinne sitter i en kunstinstallasjon med mange små glassfigurer. Foto.")
-    figcaption Marianne Heske på en utstilling på Henie Onstad Kunstsenter. Foto: Rolf M. Aagaard / Aftenposten / Scanpix
+    figcaption Marianne Heske på en utstilling på Henie Onstad Kunstsenter. Foto: Mimsy Møller / Samfoto / NTB
 
   p En annen sentral norsk kunstner i den postmoderne tradisjonen er 
     strong Marianne Heske 
@@ -588,7 +588,7 @@ PagePeriod(
 
   figure
     img(src="./Postmodernisme_Andre_kunstformer7.jpg" alt="Mannlig vokalist på scenen foran stort publikum på en fotballstadion. Foto.")
-    figcaption Mick Jagger i aksjon under en Rolling Stones-konsert. Foto: Lynn Goldsmith / Corbis/ Scanpix
+    figcaption Mick Jagger i aksjon under en Rolling Stones-konsert.
 
   p I 1960-årene var musikken knyttet til samtidens ungdomsopprør, og grupper som 
     strong Beatles 
@@ -607,7 +607,7 @@ PagePeriod(
 
   figure
     img(src="./Postmodernisme_Andre_kunstformer9.jpg" alt="Musikkgruppe fremfører låt på scene. Foto.")
-    figcaption Den siste konserten til a-ha i Oslo Spektrum (2010). Foto: Knut Erik Knudsen / VG / Scanpix
+    figcaption Foto: Knut Snare / Aftenposten / NTB
 
   p Bandet 
     strong a-ha 

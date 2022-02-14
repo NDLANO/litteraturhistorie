@@ -169,10 +169,6 @@ PageBook
     em Is-slottet 
     | er en utforskning av pubertetens psykologi, og det er en fortelling om at mennesket er grunnleggende ensomt, til tross for lengselen etter å overvinne følelsen av å stå aleine. 
 
-  figure.col.col12
-    img(src='./Vesaas_Aapningsscene.jpg' alt='Fjellandskap i tussmørke. Foto')
-    figcaption Åpningsscenen i filmen «Is-slottet»
-
   p Som i romanen 
     em Fuglane 
     | møter vi også her en omfattende symbolikk: Den ene jenta går inn i en labyrint av is og dør. Den andre berger seg så vidt etter å ha frigjort seg fra sin egen dødsangst. 

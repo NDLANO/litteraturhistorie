@@ -107,7 +107,6 @@ PageBook
     em Dalen Portland 
     | fornya Kjartan Fløgstad den norske sosiale romanen. Som dei sosialrealistiske forfattarane på 70-talet har også Fløgstad ofte hatt som formål å skildre levekåra til arbeidarklassen, særleg da industriarbeidarane. Mange av karakterane hans høyrer heime i eit industriarbeidarmiljø. Men i motsetnad til dei stiliserte sosialrealistiske romanane mange av forfattarane frå Profil-krinsen gav ut, har Fløgstad heile tida skrive med ein meir eksperimentell og leikande tone.
 
-  img.col.col4.right-image.mt5(src='./flogstad_Dalen_Portland2.jpg' alt='Dokument med stempel for Portland Cement. Foto')
   p «Demringa i Norge», overskrifta på siste delen av 
     em Dalen Portland
     | , er eit døme på den leikande tonen til Fløgstad. Tittelen refererer til eit dikt av Welhaven, «Norges Dæmring». Dette diktet var eit innlegg i debatten om Noreg og norsk sjølvstende på 1800-talet. Rasmus Høysands euforiske oppvakning som AKP-ar kan også lesast som ein klar parodi på ein romankarakter i ein av Dag Solstads sosialrealistiske romanar – Arild Asnes.

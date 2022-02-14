@@ -392,10 +392,6 @@ PagePeriod(
 
   h3 Biletkunst  
 
-  figure.col.col4.right-image.mt5
-    img(src="./Modernisme_Bildekunst1.jpg" alt="Russisk plakat med soldat løftar geværet i lufta. Illustrasjon.")
-    figcaption Sovjetisk propagandaplakat frå andre verdskrigen.
-
   h5 Kunst som propaganda 
   p
     | I mellomkrigstida og under andre verdskrigen var ein stor del av kunstverda dominert av politiske retningar eller kontrollert av styresmaktene. I Sovjetunionen nekta Stalin kunstnarane å måle nonfigurativt fordi han meinte at slik kunst ikkje hjelpte til med å fremme det sosialistiske prosjektet.  

@@ -161,7 +161,7 @@ PagePeriod(
     | Den nyrealistiske litteraturen blir ofte oppfattet som ”et skritt tilbake” i forhold til de modernistiske strømningene på slutten av 1800-tallet. Vi ser en dreining bort fra eksperimenter med form og sjanger og over mot en mer tradisjonell og realistisk framstillingsform. Der de modernistiske forfatterne skildret det moderne mennesket, pekte de nyrealistiske forfatterne på det de syntes det moderne mennesket hadde mistet i møte med den moderne verden. Løsningen de så for seg, var å vende tilbake til førmoderne og førindustrielle verdier.  
 
   NdlaVideo(
-    source="media/periods/nyrealisme/kafka_lesekunst8_nrk.mp4" 
+    source="media/periods/nyrealisme/kafka_lesekunst8_nrk_widescreen.mp4" 
     description="Film om Franz Kafka. Lende 02:49"
     playertype="local"    
     )

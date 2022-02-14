@@ -32,7 +32,7 @@ PageBook
 
   figure.col.col12
     img(src='./loe_Kurt_blir_grusom2.jpg' alt='Ei stor dokke sit i ein truck. Ei gruppe menneske poserer ved sida av denne. Foto')
-    figcaption Presseframsyning av animasjonsfilmen «Kurt blir grusom». Erlend Loe bakarst. Foto: Terje Bendiksby / SCANPIXØvst: To av bøkene om Kurt. Foto: Jon-Are Berg-Jcobsen / Scanpix
+    figcaption Presseframsyning av animasjonsfilmen «Kurt blir grusom». Erlend Loe bakarst. Foto: Terje Bendiksby / SCANPIX. Øvst: To av bøkene om Kurt. Foto: Jon-Are Berg-Jcobsen / Scanpix
   
   .clear
 
