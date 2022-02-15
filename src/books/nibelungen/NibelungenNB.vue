@@ -25,12 +25,7 @@ PageBook(:showAuthor="false")
 
   p Andre del handler om hvordan Kriemhild tar hevn. Hun gifter seg med hunerkongen Atle og ber brødrene på besøk. De kommer, selv om de aner uråd. Det ender med at alle burgunderne blir drept, også Kriemhild selv, og ingen får noen gang vite hvor Nibelung-skatten er skjult. 
 
-  NdlaVideo.mt40(
-    source="https://www.youtube.com/watch?v=hQM97_iNXhk" 
-    description="Wagner - valkyrierittet fra operaens tredje akt"
-    playerType="youtube")
-
-  // Medieinnhold: beholde både bilder og lydspor om mulig
+  a(href='https://www.youtube.com/watch?v=hQM97_iNXhk' target="_blank") Wagner - valkyrierittet fra operaens tredje akt
   
 </template>
 

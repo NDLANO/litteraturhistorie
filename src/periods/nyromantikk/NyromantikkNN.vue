@@ -210,9 +210,7 @@ PagePeriod(
 
   p Dei fleste bøkene i landet vart gitt ut i Danmark, for Noreg hadde fram til slutten av hundreåret berre eitt forlag, Cappelen. I 1888 etablerte Aschehoug seg med eigen forlagsdel. Same året gav dei ut den første barneboka si og den første skjønnlitterære boka for vaksne. I 1890 vart også Olaf Norlis Forlag etablert. Forlaget gav ut både skjønnlitteratur og lærebøker. Gyldendal forlag eksisterte òg på den tida, men var framleis eit dansk føretak. 
 
-  NdlaVideo(source="https://www.youtube.com/embed/4nj0vEO4Q6s" playerType="youtube")
-
-  p Den mest spektakulære nyvinninga var nok filmen. Den første filmframsyninga i verda skjedde 28. desember 1895 i Paris. Brørne Auguste (1862–1954) og Louis Lumière (1864–1948) var ansvarlege for framsyninga. Titlane ”Arbeiderne forlater fabrikken” og ”Toget kommer til stasjonen” seier litt om at flyktige hendingar frå dagleglivet vart festa til lerretet. Ein Victor grammofon frå omkring 1907 
+  p Den mest spektakulære nyvinninga var nok filmen. #[a(href='https://www.youtube.com/watch?v=4nj0vEO4Q6s' target="_blank") Den første filmframsyninga i verda skjedde 28. desember 1895 i Paris.] Brørne Auguste (1862–1954) og Louis Lumière (1864–1948) var ansvarlege for framsyninga. Titlane ”Arbeiderne forlater fabrikken” og ”Toget kommer til stasjonen” seier litt om at flyktige hendingar frå dagleglivet vart festa til lerretet. Ein Victor grammofon frå omkring 1907 
 
   h3 Andre kunstformer
 

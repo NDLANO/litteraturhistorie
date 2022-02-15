@@ -15,11 +15,7 @@ PageBook
   h3 Hva er et menneske? 
   p Et grunnleggende spørsmål i hele Kjærstads forfatterskap er spørsmålet om hva det vil si å være menneske. Kjærstad bruker fortellingens språk og form til å formidle innsikt og gi mulige svar på dette spørsmålet. I bunnen ligger en tanke om at fortellinger kan skape identitet. Fortellinger kan skape mening og sammenheng i et liv som ellers kan virke fragmentert og styrt av ulike krefter i et globalt medie- og informasjonssamfunn. 
 
-  NdlaVideo(
-    source="https://www.youtube.com/watch?v=ohIPlcG-ow8" 
-    playerType="youtube"
-    description="Jan Kjærstad om romanen «Menneskets vidde»"
-    )
+  a(href='https://www.youtube.com/watch?v=ohIPlcG-ow8' target="_blank") Jan Kjærstad om romanen «Menneskets vidde»
   
   h3 Fra den store til de små fortellingene 
   p Jan Kjærstad er født i 1963 og oppvokst på Grorud i Oslo. Etter videregående utdanning på Oslo katedralskole studerte Kjærstad teologi ved Universitetet i Oslo. Teologistudiene er noe man tydelig ser spor etter i Kjærstads forfatterskap. Han skriver om livets store spørsmål, og han har referanser til ulike religioner i mange av tekstene sine. 
