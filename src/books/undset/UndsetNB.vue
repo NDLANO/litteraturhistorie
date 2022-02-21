@@ -117,7 +117,8 @@ PageBook
   blockquote Ti sed og skikk forandres meget, alt som tidene lider, og menneskenes tro forandres og de tænker anderledes om mange ting. Men menneskenes hjerter forandres aldeles intet i alle dager.  
 
   h3 Egenviljen og gudsviljen 
-  img.col.col12(src='./undset_Egenviljen_og_gudsviljen.jpg' alt='Oppslått bibel foran altertavle malt på tre. Foto')
+  img.col.col12(src='./Kristin-Lavransdatter_Bilde-under-Egenviljen-og-gudsviljen.jpg' alt='Oppslått bibel foran altertavle malt på tre. Foto')
+  .clear
   p Er det en motsetning mellom det å følge sitt eget hjerte og det å følge Gud? For å forstå hva som ligger i denne problematikken, 
     em egenviljen 
     | mot 

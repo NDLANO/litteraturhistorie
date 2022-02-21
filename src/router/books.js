@@ -114,7 +114,7 @@ export default [
     name: "SnorreNB",
     meta: {
       author: "Snorre Sturluson",
-      title: "Snorres kongesoger",
+      title: "Snorres kongesagaer",
       year: 1220,
       cover: 4,
     },
@@ -210,7 +210,7 @@ export default [
     name: "GunnlaugNB",
     meta: {
       author: "",
-      title: "Soga om Gunnlaug Ormstunge",
+      title: "Sagaen om Gunnlaug Ormstunge",
       year: 1290,
       cover: 2,
     },

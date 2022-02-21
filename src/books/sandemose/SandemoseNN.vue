@@ -24,7 +24,7 @@ PageBook
 
   figure.col.col6.right-image.mt5
    img(src='./Sandemose_Mot_Dag.jpg' alt='Skrivebord med telefon, lampe og diverse trykksaker. Foto')
-   figcaption Tidsskriftet Mot Dag på skrivebordet i ein leilighet som var moderne på 1930-talet. Frå Folkemuseet i Oslo. Foto: Morten Holm / Scanpix
+   figcaption Tidsskriftet “Mot Dag” på skrivebordet i ein leilighet som var moderne på 1930-talet. Frå Folkemuseet i Oslo. Foto: Morten Holm / Scanpix
 
   p I Oslo kom han inn i den litterære krinsen rundt det kulturradikale tidsskriftet Mot Dag, men han vart sjølv aldri medlem. Han var ein antiborgarleg opprørar som aldri gjekk i takt med nokon.
 

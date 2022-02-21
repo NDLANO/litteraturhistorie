@@ -323,6 +323,7 @@ export default {
         onDrag: this.onTimelineDrag,
         onDragEnd: this.onTimelineDragEnd,
       });
+      this.$refs.lo_sectionList.style.overflow = "hidden";
     }
 
     // * Set scroll left to the stored position
@@ -333,10 +334,13 @@ export default {
     const ucLangCode = this.globalVars.langCode.toUpperCase();
 
     // * Checks if app is running on mobile
+    const isIpad =
+      /Macintosh/.test(navigator.userAgent) && "ontouchend" in document;
     if (
       /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(
         navigator.userAgent,
-      )
+      ) ||
+      isIpad
     ) {
       // * Disables gsap Draggable if on mobile
       // * This gives a much smoother experience on mobile

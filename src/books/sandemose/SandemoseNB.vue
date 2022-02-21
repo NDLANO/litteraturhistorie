@@ -24,7 +24,7 @@ PageBook
 
   figure.col.col6.right-image.mt5
    img(src='./Sandemose_Mot_Dag.jpg' alt='Skrivebord med telefon, lampe og diverse trykksaker. Foto')
-   figcaption Tidsskriftet Mot Dag på skrivebordet i en leilighet som var moderne på 1930-talet. Fra Folkemuseet i Oslo. Foto: Morten Holm / Scanpix
+   figcaption Tidsskriftet “Mot Dag” på skrivebordet i en leilighet som var moderne på 1930-tallet. Fra Folkemuseet i Oslo. Foto: Morten Holm / Scanpix 
    
   p I Oslo kom han inn i den litterære kretsen rundt det kulturradikale tidsskriftet Mot Dag, men han ble selv aldri medlem. Han var en antiborgerlig opprører som aldri gikk i takt med noen. 
 
@@ -81,7 +81,7 @@ PageBook
 
   figure.col.col6.right-image.mt5
     img(src='./Sandemose_Aksel_og_Hanne.jpg' alt='Mann og kvinne står på delvis snødekket vei ved et hus. Foto')
-    figcaption Forfattaren Aksel Sandemose i byen der han vart fødd, Nykøbing, eller «Jante», som han kallar han i romanane sine. Her med kona Hanne Sandemose. Foto: Aage Storløkken / Aktuell / Scanpix
+    figcaption Forfatteren Aksel Sandemose i byen der han ble født, Nykøbing, eller «Jante», som han kaller byen i romanene sine. Her med kona Hanne Sandemose. Foto: Aage Storløkken / Aktuell / Scanpix
     
   p Både Arnakke og Torson er mordere. Arnakke er likevel det egentlige offeret, ødelagt av et jantesamfunn og av maktmennesker. Han drives av et kjærlighetshat og preges av disharmoni og ambivalens. Torson på sin side har fortrengt sine ugjerninger. Han prøver intenst å oppklare et mord han selv har begått, men altså ikke husker. Fremmedfølelsen og det indre kaoset er her altoverskyggende. 
 

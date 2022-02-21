@@ -15,7 +15,7 @@ PageBook
     | I 1840 gav Maurits Hansen ut 
     a(href="https://www.nb.no/nbsok/nb/0ec6c7e96e537d15f788a734e3424879?lang=no#0" target="_blank") 
       em Mordet paa Maskinbygger Roolfsen
-    | , ei bok som seinere er omtalt som Norges første kriminalroman. Boka kom faktisk ut ett år før Edgar Allan Poes fortelling The Murders in the Rue Morgue, som av mange blir regnet for verdens første kriminalfortelling. 
+    | , ei bok som seinere er omtalt som Norges første kriminalroman. Boka kom faktisk ut ett år før Edgar Allan Poes fortelling “The Murders in the Rue Morgue”, som av mange blir regnet for verdens første kriminalfortelling. 
 
   p I samtida ble Hansen gjerne regnet som den største forfatteren. Han var også den mest leste og en inspirasjonskilde for mange etterfølgende forfattere, for eksempel Henrik Wergeland, Jørgen Moe, Peter Christen Asbjørnsen, Camilla Collett og Henrik Ibsen.
 

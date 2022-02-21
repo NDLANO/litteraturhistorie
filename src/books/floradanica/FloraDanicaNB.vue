@@ -2,7 +2,7 @@
 PageBook(:showAuthor="false")
 
   .mt40
-  img.col.col6.right-image(src="./Flora_Danica_Flora_Danica.jpg" alt="Oppslått bok med illustrasjoner av planter. Foto")
+  img.col.col6.right-image(src="./Flora-Danica_Første-bilde.jpg" alt="Oppslått bok med illustrasjoner av planter. Foto")
 
   p 
     em Flora Danica 
@@ -26,7 +26,7 @@ PageBook(:showAuthor="false")
     em Flora Danica
     | . Med seg hadde han en illustratør som tegnet alle plantene som ble registrert. Tegningene ble overført til kopperplater, som så ble brukt i trykkeprosessen. Det ble utgitt både kolorerte (fargelagte) og ukolorerte hefter med disse kopperstikkene. 
 
-  img.col.col6.left-image.mt5(src="./Flora_Danica_Flora_Norvegica.jpg" alt="Illustrasjon av detalj fra plante. Foto")
+  img.col.col6.left-image.mt5(src="./Flora-Danica_Liten-tegning-av-gresstust.jpg" alt="Illustrasjon av detalj fra plante. Foto")
 
   p Flere norske botanikere deltok i arbeidet med verket, blant annet Hans Strøm, biskop Johann Ernst Gunnerus, som også gav ut 
     em Flora Norvegica
@@ -64,7 +64,7 @@ PageBook(:showAuthor="false")
   h3 Andre læreverk i opplysningstida 
 
   figure.col.col4.left-image.mt5
-    img(src="./Flora_Danica_Andre_læreverk.jpg" alt="Gammelt tittelblad med landskapsbilde under teksten. Foto")
+    img(src="./Flora-Danica_Bildet-av-Det-første-Forsøg-på-Norges-naturlige-opphav.jpg" alt="Gammelt tittelblad med landskapsbilde under teksten. Foto")
     figcaption Tittelbladet på Det første Forsøg paa Norges naturlige Historie av Erik Pontoppidan
 
   p I samme periode kom det ut flere opplysningsbøker, blant annet reiseskildringer og bøker om språk, geografi og historie. Den danskfødte bergensbiskopen Erik Pontoppidan gav ut ei norsk ordbok i 1749, og en skildring av norsk historie i 1755. Mest kjent er han nok likevel for sin forklaring til Luthers katekisme. Den ble brukt i kristendomsopplæringen i Norge til langt ut på 1900-tallet. 

@@ -31,8 +31,8 @@ PageBook
     | , bok nummer to i barnebokserien om truckføraren Kurt, vart animasjonsfilm i 2008.
 
   figure.col.col12
-    img(src='./loe_Kurt_blir_grusom2.jpg' alt='Ei stor dokke sit i ein truck. Ei gruppe menneske poserer ved sida av denne. Foto')
-    figcaption Presseframsyning av animasjonsfilmen «Kurt blir grusom». Erlend Loe bakarst. Foto: Terje Bendiksby / SCANPIX. Øvst: To av bøkene om Kurt. Foto: Jon-Are Berg-Jcobsen / Scanpix
+    img(src='./Naiv.Super_Bilde-fra-pressevisning-av-Kurt-blir-grusom.jpg' alt='Ei stor dokke sit i ein truck. Ei gruppe menneske poserer ved sida av denne. Foto')
+    figcaption Presseframsyning av animasjonsfilmen «Kurt blir grusom». Erlend Loe bakarst. Foto: Terje Bendiksby / SCANPIX Øvst: To av bøkene om Kurt. Foto: Jon-Are Berg-Jcobsen / Scanpix
   
   .clear
 
@@ -94,11 +94,7 @@ PageBook
   h3 Naiv.Super
   p Naiv.Super er den store kommersielle suksessen til Erlend Loe, og er omsett til heile tjue ulike språk. Handlinga er tilsynelatande enkel – romanen handlar om ein ung mann som opplever ei eksistensiell krise etter at han taper for broren sin i krokket. Han gir opp studia og søkjer tilbake til barndommen. Saman med far sin går han rundar rundt barndomsheimen, han sparkar ball med ein fem år gammal gut som heiter Børre, og han bankar på eit Brio bankebrett. For ein heil generasjon lesarar vart dermed bankebrettet sjølve definisjonen på eksistensiell livskrise og ei alternativ løysing for å handtere ei slik krise. 
 
-  //- NrkVideo(id="4365")
-  NdlaVideo(
-    source="media/books/loe/naiv_super.mp4"
-    captionsUrl="media/books/loe/naiv_super.nb-no.vtt"
-  )
+  NrkVideo(id="81047")
 
   
   h3 Korleis skape meining i eit meiningslaust tilvære?

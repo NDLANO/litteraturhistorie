@@ -43,7 +43,7 @@ PageBook
 
   figure.col.col6.right-image
    img(src='./Obstfelder_Charles_Baudelaire.jpg' alt='Mann sitter på en seng og leser en bok. På bordet ved siden av er en fjærpenn. Maleri')
-   figcaption Forfatteren Charles Baudelaire var en viktig foregangs-mann for modernismen i dikterkunsten. Baudelaire tar utgangspunkt i storbyen Paris og alt det nye det urbane livet fører med seg.
+   figcaption Forfatteren Charles Baudelaire var en viktig foregangs&shy;mann for modernismen i dikterkunsten. Baudelaire tar utgangspunkt i storbyen Paris og alt det nye det urbane livet fører med seg.
 
   p Obstfelder var også inspirert av  den franske forfatteren Charles Baudelaire (1821–1867). Baudelaire hadde allerede i 1850-årene skrevet såkalte prosalyriske tekster. Typisk for denne sjangeren er en blanding av fortellende prosa og lyriske virkemidler som klang, rytme, gjentakelse og poetisk bildebruk. Men mens en del forfattere hadde innslag av prosalyrikk i sine romaner, skrev Obstfelder reine prosalyriske tekster. 
 
@@ -53,8 +53,11 @@ PageBook
 
   NdlaAudio(
     source="media/books/obstfelder/Sigbjoern_Obstfelder_Jeg_ser_Ny_versjon.mp3"
-    description="Sigbjørn Obstfelder: Jeg ser"
   )
+    template(v-slot:description)
+      a(href="https://www.bokselskap.no/boker/digte/jegser" target="blank") Les 
+        em Jeg ser
+        | .
 
   a(href="https://www.nb.no/items/155422348a5a997f7f3c6b97fcdacbdf?page=33&searchText=digte" target="_blank") Les «Digte»
 
@@ -66,7 +69,41 @@ PageBook
    figcaption «Aften på Karl Johan» av Edvard Munch (1892)
 
   NdlaAudio(source="media/books/obstfelder/Sigbjoern_Obstfelder_Byen.mp3")
+    blockquote
+      p 
+        strong Byen 
+      
+      p Jeg bor i fjellet. I uker har jeg ikke sett et menneske, ikke hørt min egen røst. Jeg hører meg selv tenke, mens tjernet skvulper. 
+      
+      p Røde skyer drar forbi. Det mørknes, fjellvannet blir sort, lommen skriker. 
+      
+      p Der farer en angst igjennom meg. Hvor er de nu alle? Lever de ennu? Lever mine brødre, menneskene? 
+      
+      p Og fjellet blir plutselig så isnende koldt. Det har intet hjerte. Jeg må ned, bak den borteste blåne, sønnenfor de brede sletter, der hvor hjerter slår, der hvor tusener hjerter slår i kor. 
+      
+      p Jeg iler til dalen, jeg gjemmer meg i kupeen. Hele natten pruster jernvognen, lyner av sted i mulm og mørke, gjennom lange, dype daler, over brede sletter. 
+      
+      p Neste aften står jeg på den stenlagte gate. Der er ingen skog lenger, men hus og hus og vinduer, ingen sus gjennom blader, men surren av vogner, larm av utallige føtter. 
+      
+      p Langt borte hører jeg et forferdelig skrik. Hvem lider? 
+      
+      p Jeg løper etter skriket. Og hører ut fra åpne vinduer en brølende røst: 
+      
+      p «Forferdes, I menn og kvinner, I råtne kar, Eders skittenhet er verre enn øglers. Eders synder er utallige som havets sand.» – 
+      
+      p Angst løper jeg videre. Jeg kommer forbi et hus, hvor der er mange mennesker. Jeg ser dem sitte langs veggen, de snakker ikke til hinannen, de smiler ikke til hinannen. 
+      
+      p Og jeg blir mer og mer angst. Jeg kommer forbi dansebuler med menn og kvinner, der sparker hinannen til blods. 
+      
+      p Er dette mine brødre, menneskene? 
+      
+      p Jeg løper videre og videre. Jeg blir mer og mer angst. Ingen taler til hinannen, ingen smiler til hinannen. De farer av sted, som var de piskede, og ut fra de små hus hører jeg gråt og hulken, bak meg gråter det, gråter, gråter … 
+      
+      p Og omsider går det opp for meg, omsider ser jeg det: De er vanvittige, de piskes av sin egen skygge. Og jeg ser meg om, jeg ser på deres øyne, deres miner, deres ilen og løpen: 
+      
+      p Ja, de er vanvittige, de er vanvittige. 
 
+      
   p I den prosalyriske teksten «Byen» møter vi en jeg-person som ikke finner ro der han er. Han bor på fjellet og har ikke sett noe menneske på mange uker. Livet hans er preget av absolutt stillhet og ensomhet, han hører ikke annet enn sine egne tanker og bølgeskvulpet i tjernet. Plutselig kjenner han angst og et savn etter andre mennesker, og fjellet framstår nå som kaldt, det har «intet hjerte». 
 
   p For å finne indre ro og menneskelig fellesskap reiser han med toget til byen. Men i byen møter han ikke det han drømmer om. I stedet finner han mennesker som er fremmede for hverandre og ulykkelige: «De snakker ikke til hinanden, de smiler ikke til hinanden.» Dessuten iler og haster de ustanselig, «som var de piskede». Jeg-personen fylles av angst i møte med disse menneskene og konkluderer med at de er vanvittige. 

@@ -34,10 +34,6 @@ PageBook
 
   h3 Symbolisme, marxisme  og spanskspråklig kultur 
 
-  figure.col.col6.right-image.mt5
-    img(src='./flogstad_NRK1.jpg' alt='Ung mann med halvlangt hår og bart leser i ei bok. Foto')
-    figcaption Se en ung Kjartan Fløgstad snakke om lyrikken sin på NRK Skole
-    
   p De to første diktsamlingene til Kjartan Fløgstad er modernistiske. De kan plasseres i en symbolistisk tradisjon. Mange av diktene er rike på symboler, de er komplekse, bildetunge – og uten fast rim og rytme. Det er et godt stykke fra disse diktene til dikt Fløgstad har skrevet seinere i forfatterskapet. I flere av romanene hans finner man dikt – disse er tradisjonelle i  formen, og likner mer på sangbare viser. 
 
   p Fløgstads dikt har også blitt framført til musikk, av gruppa Vestlandsfanden. I 1993 gav Fløgstad ut 

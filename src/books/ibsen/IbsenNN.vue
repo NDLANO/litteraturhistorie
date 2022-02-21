@@ -20,7 +20,9 @@ PageBook
 
   figure.col.col6.right-image.mt5
    img(src='./ibsen_Fra_nasjonalromantikk_til_modernisme1.jpg' alt='Kvinne står framfor mann, begge ser mot si høgre side. Kvinna er kledd i raudt, mannen i svart. Foto')
-   figcaption Liv Ullmann som Agnes i Det Norske Teatret si oppsetjing av teaterstykket «Brand» av Henrik Ibsen. Svein Erik Brodal spelar rolla som Brand. Foto: NTB / Scanpix
+   figcaption Liv Ullmann som Agnes i Det Norske Teatret si oppsetjing av teaterstykket 
+    em Brand 
+    | av Henrik Ibsen. Svein Erik Brodal spelar rolla som Brand. Foto: NTB / Scanpix
    
   p Forfattarskapen til Ibsen kan delast i fire fasar. I førstninga skreiv Ibsen 
     em historiske drama 
@@ -92,7 +94,9 @@ PageBook
 
   figure.col.col6.right-image
    img(src='./ibsen_Kristisk_realisme_og_det_moderne_gjennombruddet1.jpg' alt='Svartkledd kvinne i forgrunnen, noko ute av fokus. I bakgrunnen ei utstillingsdokke i barnestørrelse i fokus. Foto')
-   figcaption Fru Alving spelt av Marit Østbye i Riksteatret si oppsetjing av Gengangere. Foto: Lise Åse-rud / Scanpix
+   figcaption Fru Alving spelt av Marit Østbye i Riksteatret si oppsetjing av 
+    em Gengangere
+    | . Foto: Lise Åserud / Scanpix
 
   p 
     | I 

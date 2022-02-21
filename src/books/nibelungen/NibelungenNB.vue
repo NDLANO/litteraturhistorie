@@ -13,7 +13,7 @@ PageBook(:showAuthor="false")
 
   figure.col.col12.mt20
     img(src="./Nibelungen_Handling1.jpg" alt="Kvinne står foran en gruppe menn som bærer skjold og våpen. Illustrasjon")
-    figcaption Styrkeprøven. Brünhild kaster et spyd mot Gunthe
+    figcaption Styrkeprøven. Brünhild kaster et spyd mot Gunther.
 
   p Etter noen år kommer Kriemhild og Siegfried på besøk til Burgund. Brünhild, som er svært stolt, krangler med Kriemhild om hvem som har høyest rang, Gunther eller Siegfried. Krangelen fører til at Kriemhild røper at det var Siegfried som vant over Brünhild, ikke Gunther. 
 

@@ -31,7 +31,7 @@ PageBook
 
   figure.col.col6.right-image.mt5
     img(src='./rehman_Portrett3.jpg' alt='Kvinne og mann poserer for fotografen. Kvinnen holder en blomsterbukett, mannen et trofe. Foto')
-    figcaption Shabana Rehman fekk Fritt Ord-prisen i 2002  saman med politikaren Aslam Ahsan.  Foto: Linda Næsfeldt / VG / Scanpix
+    figcaption Shabana Rehman fikk Fritt Ord-prisen i 2002 sammen med politikeren Aslam Ahsan. Foto: Linda Næsfeldt / VG / Scanpix
 
   p 
     em Nå 

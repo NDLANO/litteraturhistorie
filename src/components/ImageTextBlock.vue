@@ -4,6 +4,8 @@
     figure.figure-left.mt5
       img(:src="image" :alt="altText")
       figcaption(v-if="imageCaption !== ''") {{ imageCaption }}
+      figcaption(v-if="imageCaption === ''")
+        slot(name="caption")
   .image-text-block__text.col(:class="'col' + textWidth")
     slot
 </template>

@@ -17,7 +17,12 @@ PageBook
     em nasjonalromantikken
     | . 
 
-  img.col.col6.left-image.mt5(src='./asbjornsenmoe_01.jpg' alt='Gutt med ryggsekk og vandringsstav ser innover i bildet mot fjelltopper med sollys på. Maleri')
+  figure.col.col6.left-image.mt5
+    img(src='./asbjornsenmoe_01.jpg' alt='Gutt med ryggsekk og vandringsstav ser innover i bildet mot fjelltopper med sollys på. Maleri')
+    figcaption
+      em Soria Moria slott 
+      | (1900) av Theodor Kittelsen
+
   p Prosten Andreas Faye gav ut den første samlingen av norske sagn i 1833. I 1840-årene kom så Peter Christen Asbjørnsen og Jørgen Moe med sin første samling av norske eventyr og sagn. I tillegg var det flere andre som samlet inn eventyr, sagn og viser i Norge.  
   
   h3 Asbjørnsen og Moe 
@@ -54,13 +59,12 @@ PageBook
       | som «Reveenka», «De tre bukkene Bruse» og «Hanen og høna»: Hovedpersonene er dyr som blir tillagt spesielle egenskaper. Bjørnen er for eksempel oftest sterk, men dum, mens reven er en luring. 
     li 
       strong Skjemteeventyr 
-      | som «Pannekaka», «Mannen som skulle stelle heime» og 
-      a(href="http://runeberg.org/folkeven/027.html" target="_blank") «Presten og klokkeren»
-      | : Disse eventyrene har ofte en satirisk form og henger ut negative egenskaper som det å være grådig, dum eller innbilsk. 
+      | som «Pannekaka», «Mannen som skulle stelle heime» og «Presten og klokkeren»: Disse eventyrene har ofte en satirisk form og henger ut negative egenskaper som det å være grådig, dum eller innbilsk. 
       NdlaAudio(
         source="media/books/asbjornsenmoe/AsbjogMoe_Prestenogklokkeren_med_HaukAabel.mp3"
-        description="«Presten og klokkeren»"
         )
+        template(v-slot:description)
+          a(href="http://runeberg.org/folkeven/027.html" target="_blank") «Presten og klokkeren»
     li 
       strong Legendeeventyr 
       | som «Gjertrudsfuglen» og «Jomfru Maria og svala»: Dette er religiøse fortellinger der hovedpersonen er Jomfru Maria, St. Peter, Olav den hellige eller Vårherre. Mange av fortellingene illustrerer religiøse eller moralske sannheter. 
@@ -78,18 +82,32 @@ PageBook
 
   p De fleste eventyrene følger et enkelt grunnmønster: Helten møter en utfordring eller et problem som skal løses. Slutten er aldri noe å lure på: Helten lykkes, mens det går dårlig med motstanderne. Spenningen ligger i hva helten må gjøre for å vinne over motstanderne. Handlingen blir alltid fortalt kronologisk, uten frampek eller tilbakeblikk. 
 
-  img.col.col4.right-image(src='./asbjornsenmoe_05.jpg' alt='Isbjørn går gjennom skogen. På ryggen sitter en jente med krone på hodet og blomsterkrans i hånden. Maleri')
+  figure.col.col4.right-image
+    img(src='./asbjornsenmoe_05.jpg' alt='Isbjørn går gjennom skogen. På ryggen sitter en jente med krone på hodet og blomsterkrans i hånden. Maleri')
+    figcaption
+      em Kvitebjørn kong Valemon 
+      | (1912) av Theodor Kittelsen
+
   p Karakterene i eventyret er endimensjonale og statiske. De er enten gode eller slemme, og de endrer seg aldri. Et annet typisk sjangertrekk ved eventyrene er bruken av faste formler som «det var en gang» og «snipp, snapp, snute». Gjentakelse blir gjerne brukt for å øke spenningen: Det er ikke første eller andre gang, men tredje gangen som gjelder. 
 
   p Eventyr finnes i alle kulturer, og ofte går de samme historiene igjen i litt forskjellig form i ulike land. Eventyret om «Kvitebjørn Kong Valamon» er en norsk versjon av det eventyret som Disney-filmen «Skjønnheten og udyret» bygger på.  
   
   h3 Folkedikting 
 
-  img.col.col6.right-image.mt5(src='./asbjornsenmoe_06.jpg' alt='En edderkopplignende skikkelse med lysende øyne dukker opp av et vann. Skogen reflekteres i vannet som er fylt av blader fra vannliljer. Maleri')
+  figure.col.col6.right-image.mt5
+    img(src='./asbjornsenmoe_06.jpg' alt='En edderkopplignende skikkelse med lysende øyne dukker opp av et vann. Skogen reflekteres i vannet som er fylt av blader fra vannliljer. Maleri')
+    figcaption
+      em Nøkken 
+      | (1904) av Theodor Kittelsen 
+
   p Asbjørnsen og Moes samlinger inneholder ikke bare eventyr, men også flere sagn, for eksempel «Mannen som gikk i vargham» og «Tuftefolket på Sandflesa». 
 
   .clear
-  img.col.col6.right-image.mt20(src='./asbjornsenmoe_07.jpg' alt='En gruppe hvitkledde kvinner danser i ring i en lysning i skogen. Illustrasjon')
+  figure.col.col6.right-image.mt20
+    img(src='./asbjornsenmoe_07.jpg' alt='En gruppe hvitkledde kvinner danser i ring i en lysning i skogen. Illustrasjon')
+    figcaption
+      em Fugl Dam 
+      | (1907) av Theodor Kittelsen
   p 
     em Sagnet 
     | skiller seg fra eventyret ved at sagnet gjerne er knyttet til et bestemt sted og en bestemt tid. Sagnet gir ofte overnaturlige forklaringer på naturfenomener eller historiske hendinger. 
@@ -113,7 +131,12 @@ PageBook
 
   h3 Språket hos Asbjørnsen og Moe 
 
-  img.col.col4.left-image.mt5(src='./asbjornsenmoe_08.jpg' alt='Bokomslag med tittel og illustrasjoner av ulike skapninger. Sentral i bildet er en kvinne i en skog. Illustrasjon')
+  figure.col.col4.left-image.mt5
+    img(src='./Norske-folkeeventyr_Bildet-av-boken-Folke-og-Huldre-Eventyr.jpg' alt='Bokomslag med tittel og illustrasjoner av ulike skapninger. Sentral i bildet er en kvinne i en skog. Illustrasjon')
+    figcaption Asbjørnsen og Moes 
+      em Norske Folke- og Huldre-Eventyr
+      | . Utgave fra 1896.
+
   p Eventyr og sagn er muntlig litteratur som er blitt fortalt fra generasjon til generasjon. De som påtar seg å skrive ned slike tekster, står derfor overfor en utfordring: Hvordan kan en ta vare på det muntlige i skriftlig form? Resultatet er at eventyrspråket har fått en muntlig setningsbygning med mange sidestilte setninger og et stort innslag av replikker. 
 
   p Da Asbjørnsen og Moe gikk i gang med å skrive ned norske folkeeventyr og sagn, fantes det fortsatt ikke noe eget norsk skriftspråk. Eventyrene ble derfor skrevet ned på dansk. Men Asbjørnsen og Moe prøvde å ta hensyn til den muntlige originalteksten og brukte mange norske dialektord. 

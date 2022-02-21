@@ -164,6 +164,7 @@ PagePeriod(
     source="media/periods/nyrealisme/kafka_lesekunst8_nrk_widescreen.mp4" 
     description="Film om Franz Kafka. Lende 02:49"
     playertype="local"    
+    captionsUrl="media/periods/nyrealisme/Kafka_Lesekunst.nb-no.vtt"
     )
       
   .mt20
@@ -380,7 +381,10 @@ PagePeriod(
   // * Andre kunstformer
   h3 Andre kunstformer  
 
-  NdlaVideo(source="media/video/nyrealisme/Modernisme_innen_arkitekturen.mp4")
+  NdlaVideo(
+    source="media/video/nyrealisme/Modernisme_innen_arkitekturen.mp4"
+    captionsUrl="media/video/nyrealisme/Modernisme_innen_arkitekture.nb-NO.vtt"
+  )
 
   h5 Bildekunst: eksperimentering og formbrudd 
   p

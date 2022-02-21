@@ -254,8 +254,8 @@ PageBook
 
   h3 Fra Rudolf Nilsen til Lillebjørn Nilsen 
   figure.col.col6.right-image.mt5
-   img(src='./Nilsen_Lars_Klevstrand.jpg' alt='Middelaldrende mann foran en statue som vises som en silhuett. Foto')
-   figcaption Visesangeren Lars Klevstrand ved statuen av Rudolf Nilsen. Foto: VG / Scanpix
+   img(src='./På-stengrunn_Bilde-av-Klevestrand-nederst.jpg' alt='Middelaldrende mann foran en statue som vises som en silhuett. Foto')
+   figcaption Visesangeren Lars Klevstrand ved statuen av Rudolf Nilsen. Foto: CC BY SA 
    
   p Rudolf Nilsen mente at forfatteren ikke kunne la være å ta stilling i klassekampen. Pennen skulle brukes som et våpen for revolusjonen. Dette synet på forfatterrollen går igjen hos radikale forfattere tidlig i 1970-årene, for eksempel hos Dag Solstad. Forfatterne skulle skrive for folket, og litteraturen skulle tjene arbeiderklassen. 
 

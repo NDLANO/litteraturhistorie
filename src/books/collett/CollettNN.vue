@@ -34,8 +34,13 @@ PageBook
       em Amtmandens Døttre 
     | &nbsp;i lang tid da boka kom ut anonymt i 1855. Romanen blir i dag rekna som det første realistiske og samfunnskritiske verket i norsk litteratur, og som den første tendensromanen. Kritikken rettar seg mot oppsedinga og dei samfunnsnormene som hindra unge jenter i å rå over eige liv.
 
-  img.col.col12(src='./Collett_Amtmandens_Døttre1.jpg' alt='Mann sit ved eit klaver, omkransa av festkledde kvinner og menn. Måleri')
+  figure.col.col12
+    img(src='./Amtmannens-dotre_Bilde-av-mann-som-spiller-flygel.jpg' alt='Mann sit ved eit klaver, omkransa av festkledde kvinner og menn. Måleri')
+    figcaption Utsnitt av 
+      em Schubertiade 
+      | (1897) av Julius Schmid.    
 
+  .clear
   p Handlinga i romanen er lagd til ein amtmannsgard. Den yngste amtmannsdottera, Sofie, opplever at systrene blir gifte bort. Ho ser derfor med gru på at ho sjølv skal ende opp i eit arrangert ekteskap utan kjærleik. Da ho møter den nytilsette fullmektigen på amtmannskontoret, oppstår det søt musikk mellom dei. Men mistolkingar og uheldige samantreff gjer at det ikkje blir noko meir av forholdet. At Sofie seinare får avklart kva som hindra henne i å få sin store kjærleik, hjelpte ikkje. Da var det for seint. Sofie var allereie gift bort til ein eldre enkjemann og prest.
 
   p Bodskapen i romanen er at fornuftsekteskap ofte fører til undertrykking av individa, særleg kvinna. Collett går så langt at ho omtaler kvinner som «varer». Kvinna er eit objekt i eit mannssamfunn, seier ho.
@@ -48,7 +53,7 @@ PageBook
     | . Ho argumenterer ikkje for at menn og kvinner er like og derfor bør ha dei same rettane. Ho tek utgangspunkt i at menn og kvinner er ulike, men at kvinner må respekterast på lik linje med menn. Derfor er det retten til å bli høyrt og sett – som kvinne – ho kjempar for.
 
   figure.col.col12
-   img(src='./Collett_Kvinnesak.jpg' alt='Ei pynta kvinne stig inn i ei vagn kjørt av to kvinner. To menn passar barn og vasker klede. Illustrasjon')
+   img(src='./Amtmannens-dotre_Vitseteikning-fra-1869.jpg' alt='Ei pynta kvinne stig inn i ei vagn kjørt av to kvinner. To menn passar barn og vasker klede. Illustrasjon')
    figcaption Vitseteikning frå 1869 som viser omsnudde kjønnsroller
 
   p Ein del av samfunnsendringane som skjer mot slutten av 1800-talet, fører gradvis til eit nytt kvinnesyn. Dei teknologiske og industrielle framstega gjer at fleire kvinner får lønnsarbeid. Urbanisering og meir utdanning medverkar òg til ei gradvis endring i synet på kvinnas posisjon i samfunnet.
@@ -91,7 +96,7 @@ PageBook
 
   p Utover i 1870-åra er det fleire teikn på at kampen for kvinnerettar er i ferd med å gi resultat. Tida er no open for å setje kritisk søkjelys på emne som har med samfunnsrettane til kvinner å gjere. Andre store forfattarar, som Ibsen, Kielland og Lie, skriv no samfunnskritiske tekstar som alle rommar sterke, sjølvstendige kvinner med styrke og vilje, og dei har det til felles at dei er i opposisjon til hykleri og undertrykking. Ei ny tid og nye haldningar er i emning.
 
-  img.col.col6.right-image.mt5(src='./Collett_Grav.jpg' alt='Ei gravstøtte med blomer på venstre side, natursteinsmur i bakkant. Påskrifta inneheld namnet Camilla Collett. Foto ')
+  img.col.col6.right-image.mt5(src='./Amtmannens-dotre_Gravstein.jpg' alt='Ei gravstøtte med blomer på venstre side, natursteinsmur i bakkant. Påskrifta inneheld namnet Camilla Collett. Foto ')
   p I 1884 vart Norsk Kvindesagsforening etablert. Kampen motstraums hadde gitt resultat. Camilla Collett var sjølv ein stor inspirator både for Amalie Skram og andre unge kvinner som skulle kome seinare.
 
 

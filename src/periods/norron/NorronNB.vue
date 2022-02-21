@@ -145,7 +145,7 @@ PagePeriod(
   // * Norrøn litteratur
   h3 Norrøn litteratur  
 
-  img(src="./Norroen_Norroen_litteratur.jpg" alt="En mann med skjegg står og gestikulerer, mens en annen mann sitter og er opptatt med et håndverk. Maleri.")
+  img(src="./norron-tid_trestikk-av-Snorre.jpg" alt="En mann med skjegg står og gestikulerer, mens en annen mann sitter og er opptatt med et håndverk. Maleri.")
   p
     | Med norrøn litteratur mener vi litteraturen som blir skapt i Norge og på Island i norrøn tid, det vil si mellom ca. 800 og 1350.  
 
@@ -328,7 +328,7 @@ PagePeriod(
   h5 NORRØN TID  
 
   figure
-    img(src="./Norroen_Litt_om_spraaket2.jpg" alt="En konge rir på hest sammen med to tjenestemenn. Illustrasjon.")
+    img(src="./norron-tid_Kong-Sigurd-og-kong-Baldvine.jpg" alt="En konge rir på hest sammen med to tjenestemenn. Illustrasjon.")
     figcaption Kong Sigurd og kong Baldvine rir fra Jorsalaborg til elva Jordan. Illustrasjon fra Snorre av Gerhard Munthe
 
   p

@@ -22,7 +22,7 @@ PageBook
 
   h3 Dialekt- og ordsamlar
 
-  img(style="width: auto; float:right" src='./Aasen_Dialekt_og_ordsamlar.jpg' alt='Gamalt og skjoldete bokomslag, tittelen Grammatikk trykt med store bokstavar. Foto')
+  img(style="width: auto; float:right" src='./Det-norske-folkesprogs-grammatik_Bilde-av-boken-under-Dialekt--og-ordsamler.jpg' alt='Gamalt og skjoldete bokomslag, tittelen Grammatikk trykt med store bokstavar. Foto')
   p I 1841 dreg Aasen til Bergen og kjem i kontakt med biskop Jacob Neumann. Biskopen er særleg interessert i sunnmørsgrammatikken som Aasen har laga, og hjelper han med å få eit stipend frå Videnskabs-Selskabet i Trondheim. Aasen får no i oppdrag å granske det norske folkemålet.
 
   p I fire år, frå 1842 til 1846, reiser Aasen rundt om i landet og studerer bygdemåla. Bymåla og dialektane på Sør-Austlandet unngår han fordi han meiner dei er for mykje oppblanda med dansk. Materialet han får samla inn, utgjer grunnlaget for to vitskaplege verk, 
@@ -33,10 +33,7 @@ PageBook
 
   p Heilt fram til 1868 er Aasen nesten kvart år på språkreiser, gjerne til stader han ikkje har vore før. Til saman reiser han meir enn 400 mil og er innom alle fylka bortsett frå Finnmark.
 
-  NdlaVideo(
-    source="media/books/aasen/Ivar_Aasen_landsmalet.mp4"
-    captionsUrl="media/books/aasen/Ivar_Aasen_landsmalet.nb-no.vtt"
-  )
+  NrkVideo(id="3378")
 
   h3 Omsetjar og språkkonsulent
   
@@ -120,11 +117,7 @@ PageBook
 
   p Vi veit lite om Ivar Aasens privatliv. Han frir og får nei to gonger, og deretter slår han frå seg tanken om giftarmål. Han er ingen einstøing og går gjerne i teater, på konsert, i kneiper og salongar. Likevel kjenner han i periodar eit sterkt sakn etter nokon å dele livet med.
 
-  NdlaVideo(
-    source="media/books/aasen/Forfattaren_Ivar_Aasen.mp4"
-    captionsUrl="media/books/aasen/Forfattaren_Ivar_Aasen.nb-no.vtt"
-  )
-
+  NrkVideo(id="3380")
 
   h3 Gamle former i Aasens landsmål
   p Aasen bruker det norrøne språket som rettesnor når han vel ut ordformene som skal vere ein del av landsmålet. Her følgjer nokre eksempel:
@@ -177,6 +170,7 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
@@ -184,6 +178,7 @@ export default {
     NdlaAudio,
     NdlaVideo,
     PageBook,
+    NrkVideo,
   },
 };
 </script>

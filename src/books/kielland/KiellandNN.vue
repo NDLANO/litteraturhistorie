@@ -15,7 +15,7 @@ PageBook
   
   h3 Tankar og idear i ei ny tid
 
-  img.col.col4.left-image.mt5(src='./Kielland_Tanker_og_ideer_i_en_ny_tid.jpg' alt='Forsiden til ein trykksak med tittelen Hovedstrømninger. Foto')
+  img.col.col4.left-image.mt5(src='./Gift_Bilde-av-boken-Hovedstrømninger.jpg' alt='Forsiden til ein trykksak med tittelen Hovedstrømninger. Foto')
   p Den danske kritikaren og litteraturforskaren Georg Brandes var oppteken av framsteg, fornuft og frigjering, og prosjektet hans var å få den unge forfattargenerasjonen til å setje søkjelyset på uheldige og urettferdige samfunnstilhøve. Alexander Kielland tok utfordringa. Han ville noko med diktinga si, ville kritisere, avsløre og reformere, slik Brandes kravde.
 
   p Kielland skreiv om religion og kyrkje, samliv og ekteskap, latinundervisning og oppseding i skulen, pliktmoral og hykleri i samfunnet og forretningsmoral hos borgarskapet. Ein litteratur som handla om slike emne, ville appellere til fornufta hos lesaren, meinte Brandes. Denne fornufta skulle føre samfunnet framover, samstundes som menneska skulle bli meir opplyste og frie. I 1880-åra var ikkje ei slik målsetjing urealistisk, for skjønnlitteraturen hadde mykje mindre konkurranse frå andre medium enn i dag, og derfor større gjennomslagskraft. I tillegg fanst det på den tida ein politisk vilje til å sjå kulturen i nær samanheng med utviklinga i resten av samfunnet.
@@ -31,6 +31,7 @@ PageBook
     | , ei samling korte, episodiske forteljingar som gjerne tok utgangspunkt i ei enkelthending eller eit tilfeldig møte.
 
   img.col.col12(src='./Kielland_En_stor_novellist.jpg' alt='Gruppe av kvinner og menn rundt eit spisebord. I bakgrunnen to servitørar. Illustrasjon')
+  .clear
   p Ei av novellettene i boka, “Ein Middag”, handlar om retten som den unge generasjonen har til å frigjere seg frå gammalt tankegods. Vi møter ein grosserar som held tale for den nyss heimkomne sonen sin. Faren slår om seg med store ord om korleis dei unge må få Ein analyse av novella «Ein middag» kvitte seg med gamle fordommar, ten - kje nytt og utvikle samfunnet vidare til alles beste, men tek det ille opp når han like etter blir korrigert av sonen i ein diskusjon. Denne dobbelkommu - nikasjonen viser avstanden mellom dei overflatiske liberalistiske talemåtane og dei djuptliggande konservative haldnin - gane hos borgarskapet på Kiellands tid.
 
   p Kielland heldt fram med å skrive novelletter. I somme av dei er handlinga lagd til Danmark, mellom anna i novella Karen, ei forteljing om korleis eit kynisk mannfolk lurer ei uskuldig jente.

@@ -11,7 +11,13 @@ PageBook
 
   h3 Populærlitteraturen når nye lesargrupper
 
-  img.col.col12(src='./frich_Populaerlitteraturen1.jpg' alt='')
+  figure.col.col12
+    img(src='./frich_Populaerlitteraturen1.jpg' alt='')
+    figcaption
+      em Morgenstemning 
+      | (1885) av Gustav Wentzel 
+
+  .clear
   p Romantikken (1800–1850) var ei blømingstid for populærlitteraturen, både her til lands og i mange andre land. Mauritz Hansen (1794–1842) skreiv fleire spennings- og kjærleiksforteljingar i denne tidsperioden.
 
   p Men gjennombrotet for populærlitteraturen kom først i andre halvdel av 1800-talet. No lærte fleire seg å lese, og fleire fekk råd til å kjøpe litteratur. Byane var i vekst, og her hadde folk tilgang til elektrisk lys i seine kveldstimar. Dei mest kjende populærskribentane frå denne perioden er Jon Flatabø (1846–1930), Rudolf Muus (1862–1935) og Karen Sundt (1841–1924).
@@ -23,7 +29,7 @@ PageBook
   h3 Skillingsviser
 
   figure.col.col6.right-image.mt5
-   img(src='./frich_Skillingsviser1.jpg' alt='')
+   img(src='./Jonas-Fjeld_Illustrasjonen-under-Skillingsviser-er-på-kanten.jpg' alt='')
    figcaption Engelsk skillingstrykk frå 1833
 
   p 
@@ -70,7 +76,10 @@ PageBook
 
   figure.col.col6.right-image.mt5
    img(src='./frich_Kritikk_av_ideologi_og_menneskesyn1.jpg' alt='')
-   figcaption Omslagsbilete til De udødelige dverge; Lille Jonas Fjeld; Storfjellets herre Øvre Richter Frich utgitt av Norild
+   figcaption Omslagsbilete til 
+    em De udødelige dverge; Lille Jonas Fjeld; Storfjellets herre 
+    | av Øvre Richter Frich utgitt av Norild
+    
   p Det var få eller ingen i samtida som reagerte på menneskesynet som kom til uttrykk i bøkene til Richter Frich. Hovudpersonen Jonas Fjeld vert framstilt som ein blond, høgreist og breiskuldra mann av den ariske rasen. Han er ein heltefigur: lege av yrke, ein mann som meistrar det meste, er iskald i alle situasjonar og ein skarpskodd våpenbrukar. Fiendane hans derimot er alltid utlendingar, og dei blir framstilte som mindreverdige og nedbrytande element som driv med statskupp og anna undergravande verksemd. Ofte er dei av den såkalla slaviske rasen.
 
   p Litteraturforskaren Willy Dahl har omtalt Øvre Richter Frich som «den mest erklærte rasist og voldsromantiker» i norsk populærlitteratur. Men i mellomkrigsåra var ikkje menneskesynet til Richter Frich noko ekstremt eller spesielt. Det var samtidas syn på framande folk og kulturar som kom til uttrykk i populærlitteraturen frå denne tida, og det gjaldt ikkje minst den populærlitteraturen som vart utgitt under nemninga kristen litteratur.
@@ -97,7 +106,7 @@ PageBook
   h3 Ein populær sjanger
 
   figure.col.col7.right-image.mt5
-   img(src='./frich_En_populaer_sjanger1.jpg' alt='')
+   img(src='./Jonas-Fjeld_Bilde-fra-De-dødes-tjern.jpg' alt='')
    figcaption Skodespelar Henny Moan i filmen «De dødes tjern», basert på boka med same namn av Bernhard Borge (Andre Bjerke). Foto: Scanpix
 
   p Tida fram til andre verdskrigen var ein gullalder for krim- og spenningslitteratur. Nordahl Grieg (1902–1943) var ein lovande ung journalist og forfattar. Saman med Gyldendals redaktør Nils Lie (1902–1978) skreiv han i 1929 

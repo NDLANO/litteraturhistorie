@@ -16,7 +16,7 @@ PageBook
 
   figure.col.col6.right-image
    img(src='./Garborg_Jaerbu_og_fritenker.jpg' alt='Hvitmalt hus med rødt tak av teglstein. I kortenden en endeskut med natursteinsmur. Foto')
-   figcaption På denne garden på Jæren voks Garborg opp.
+   figcaption På denne gården på Jæren vokste Garborg opp.
 
   p Arne Garborg var odelsgutt til en gård på Jæren, men han viste tidlig mer interesse for boklig lærdom enn gårdsarbeid, og det var naturlig for han å ta lærerutdanning. I tillegg hadde han et sterkt behov for å komme seg bort. Han gikk lærerseminaret i Holt i Aust-Agder fra 1868 til 1870, deretter var han lærer i Søndeled et års tid. 
 
@@ -55,11 +55,12 @@ PageBook
     em Albertine
     | , der hovedpersonen er ei fattig jente som ender opp som prostituert. Boka til Krohg ble stoppet og beslaglagt, og Krohg ble dømt for usedelig virksomhet. Mannfolk ble ikke stoppet, men reaksjonene var kraftige fra både politisk og kulturelt hold, og Garborg mistet jobben som statsrevisor året etter på grunn av boka og debattinnleggene sine.
 
-  .flex.flex-justify-center
-    figure.col.col12
-    img(src='./Garborg_Mannfolk.jpg' alt='Mange kvinner står inne i et rom. En politimann sperrer en dør til et annet rom. Maleri')
-    figcaption Chr. Krohg: «Albertine i politilægens venteværelse»
-
+  figure.col.col12
+    img(src='./Mannfolk_Albertine-i--politilegens-venteverelse.jpg' alt='Mange kvinner står inne i et rom. En politimann sperrer en dør til et annet rom. Maleri')
+    figcaption Christian Krohg: 
+      em Albertine i politilægens venteværelse 
+      | (1887) 
+  .clear
   h3 Trætte Mænd – en dekadanseroman 
   p Rundt 1890 hadde Garborg fått et forfatternavn utenfor Norge, og i Tyskland var han en periode den mest leste av alle nordiske forfattere. 
     em Trætte Mænd 
@@ -102,6 +103,93 @@ PageBook
     source="media/books/garborg/Garborg_haugtussa_Maaneskinsmoyane_Nils_Erik.mp3"
     description="Måneskinsmøyane"
   )
+    blockquote
+      strong Arne Garborg: Måneskinsmøyane 
+      br
+
+      p
+        | Jordi søv i sitt vinterlin. 
+        br
+        | Bjørki den unge, rimkvit og fin,  
+        br
+        | stend som i sylvet skori, 
+        br
+        | eller som bygd av stjerneskin. 
+
+      p
+        | Jordi søv i sin vinterblund. 
+        br
+        | Månen lyser på himmelrund. 
+        br
+        | Tusen av diamantar  
+        br
+        | glimar om grein i den frosne lund. 
+
+      p
+        | Bråkveikt blenkjande, strålerein 
+        br
+        | bivrar den glitring om kvist og grein. 
+        br
+        | Det er liksom lunden levde, 
+        br
+        | strådd med perler og glimestein. 
+
+      p
+        | Stirande inn i den sylvblå glans 
+        br
+        | Veslemøy stend utan hugs og sans; 
+        br
+        | då ser ho med ein gong møyar, 
+        br
+        | kvite møyar som gjeng i dans. 
+
+      p
+        | Kvite møyar som gjeng i ring; 
+        br
+        | stille sviv dei i steg og sving. 
+        br
+        | Det er som ein dans i draumar 
+        br
+        | til takt av stillsleg sylvklokke-kling.  
+
+      p
+        | Bygde er dei av lufti blå; 
+        br
+        | kjolar av måneflor hev dei på, 
+        br
+        | sauma med stjerneglitter, 
+        br
+        | løynande lett dei barmar små. 
+
+      p
+        | Håret flyt i vallande flaum 
+        br
+        | ned over rygg som ein sylvgrå straum. 
+        br
+        | Over dei bleike vangar 
+        br
+        | stjerne-augo i stille draum. 
+
+      p
+        | Aldri såg dei den varme dag; 
+        br
+        | stilt det er i det ungdomslag. 
+        br
+        | Stivt dei i dansen smiler. 
+        br
+        | Kalde søv desse andlets-drag. 
+      
+
+      p
+        | Lenge trylt må Veslemøy stå, 
+        br
+        | drøymd den dansen stirande på. 
+        br
+        | Då nikkar dei som til helsing, 
+        br
+        | og kverv i luft som ein frostrøyk grå.  
+        br
+          
 
   h3 Journalisten Garborg 
 

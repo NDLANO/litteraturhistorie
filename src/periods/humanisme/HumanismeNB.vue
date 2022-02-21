@@ -16,11 +16,9 @@ PagePeriod(
     | I middelalderen er grunnsynet på livet strengt religiøst. Mennesket er lite i forhold til Gud, og enkeltmennesket blir ikke sett på som viktig i seg selv.
 
   .clear
-  NdlaVideo(
-    source="media/video/humanisme/dante_boccatio_lesekunst-003.mp4"
-    description="Dante Alighieri (1265–1321) er en av de første dikterne i middelalderen som skriver på morsmålet i stedet for latin. I «Den guddommelige komedie» skildrer han sin egen (tenkte) reise gjennom helvete, skjærsild og til slutt paradiset. Samtidig fletter han inn tanker om både religion, filosofi, vitenskap og politikk."
-    )
-  
+  NrkVideo(id="186659")
+    .caption Dante Alighieri (1265–1321) er en av de første dikterne i middelalderen som skriver på morsmålet i stedet for latin. I «Den guddommelige komedie» skildrer han sin egen (tenkte) reise gjennom helvete, skjærsild og til slutt paradiset. Samtidig fletter han inn tanker om både religion, filosofi, vitenskap og politikk.
+
   h5 Standen avgjør hvem du blir 
   p
     | Middelaldersamfunnet er delt opp i klart atskilte lag eller stender: Øverst står presteskapet (de som ber), så kommer adelen (de som slåss) og til slutt folket (de som arbeider). Standen avgjør rang, rettigheter og plikter. Eiendom og stand går i arv, og det er ikke lett å komme seg opp og fram i samfunnet, enda om en gjerne vil.
@@ -57,8 +55,8 @@ PagePeriod(
     | Etter svartedauden ligger det meste nede her i landet, men i Italia starter en ny utvikling. Der blomstrer handelen opp, og kjøpmennene kommer i kontakt med andre land og kulturer. Handelsborgerne i byene blir en viktig samfunnsgruppe, og jordeierne mister dermed noe avmakta. Med økt handel får også pengeøkonomien etter hvert større plass.
 
 
+  img.col.col6.mt5.right-image(src="./Humanisme_Boktrykkerbilde.jpg" alt="Fire personer studerer et stort ark inne i et trykkeri. Maleri.")
   h5 Boktrykkerkunsten – en ny tid
-  img.col.col4.mt20.right-image(src="./Humanisme_Tida-og-samfunnsforholdene3.jpg" alt="Fire personer studerer et stort ark inne i et trykkeri. Maleri.")
   p
     | Johann Gutenberg (1397–1468) regnes som opphavsmann til boktrykkerkunsten. Han konstruerte en presse og blybokstaver til å trykke med. Den første boka til Gutenberg var en bibel som kom ut på midten av 1400-tallet. Den første ukeavisa ble trykt og utgitt i Strasbourg i 1609. Det første trykkeriet i Norge ble åpnet i 1643. 
 
@@ -85,9 +83,9 @@ PagePeriod(
     | Det oppstod også en sterk interesse for gresk og romersk språk og litteratur, og dessuten for historie og filosofi. Denne delen av renessansen kalles humanisme. Humanismen hadde også sitt utspring i Italia på 1300-tallet. Nord for Alpene fikk ikke humanismen gjennomslag før omkring år 1500. En framstående representant for humanismen var Leonardo da Vinci (1452–1519). Han var både vitenskapsmann og kunstner.
   
   NdlaVideo(
-    source="media/periods/humanisme/Othello.mp4"
+    source="media/video/humanisme/Othello.mp4"
     description="William Shakespeare: ”Othello”. Elevproduksjon laga av elevar ved Vågsbygd videregående skole. Regi: Ellen Kalvenes."
-    captionsUrl="media/periods/humanisme/Othello.nb-no.vtt"
+    captionsUrl="media/video/humanisme/Othello.nb-no.vtt"
   )  
 
   div.mb60
@@ -158,7 +156,7 @@ PagePeriod(
   h3 Språket  
 
   figure
-    img(src="./Humanisme_Spraaket.jpg" alt="Brunt ark fylt med linjer av håndskrift. Illustrasjon.")
+    img(src="./Humanisme_Diplomatarium-Norvegicum.jpg" alt="Brunt ark fylt med linjer av håndskrift. Illustrasjon.")
     figcaption Diplomatarium Norvegicum: En side av et brev fra dronning Margrete til kong Håkon 6.<br/><a href="media/periods/humanisme/diplomatarium.html" target="_blandk">Les utskrift av dokumentet</a>
 
   h5 Norrønt skriftspråk går til grunne 
@@ -183,6 +181,7 @@ PagePeriod(
 import PagePeriod from "@/components/PagePeriod";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
@@ -190,6 +189,7 @@ export default {
     NdlaAudio,
     NdlaVideo,
     PagePeriod,
+    NrkVideo,
   },
 };
 </script>

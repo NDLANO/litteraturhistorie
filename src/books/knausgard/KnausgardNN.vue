@@ -45,24 +45,49 @@ PageBook
   
   h3 Min kamp
 
-  NdlaAudio(source="media/books/knausgard/Knausgard.mp3")
-  
-  img.col.col6.right-image.mt5(src='./knausgaard_Min_kamp1.jpg' alt='Ei mengde bokomslag med tittelen Min Kamp, nummerert frå 1 til 6. Foto')
+  NdlaAudio(
+    source="media/books/knausgard/Knausgard.mp3"
+    description="Karl Ove Knausgård les utdrag frå «Min kamp 1» "
+    )
+    blockquote
+      p (Gitarspill høres først.) 
+
+      p I dag er det den 27. februar 2008. Klokken er 23.43. Jeg som skriver dette, Karl Ove Knausgård, ble født i desember 1968, og er altså i skrivende stund 39 år gammel. Jeg har tre barn, Vanja, Heidi og John, er gift for andre gang, med Linda Boström Knausgård. Alle fire ligger og sover i rommene rundt meg i en leilighet i Malmø, hvor vi har bodd i halvannet år.  
+
+      p Med unntak av noen av foreldrene til barna i Vanjas og Heidis barnehage kjenner vi ingen her. Noe savn er det ikke, i alle fall ikke for meg, det sosiale får jeg ingenting ut av. Jeg sier aldri det jeg egentlig tenker, aldri det jeg egentlig mener, men legger meg alltid tett opp til den jeg til enhver tid prater med, later som om det de sier interesserer meg, bortsett fra når jeg drikker, da går jeg som oftest for langt den andre veien, for å våkne til overskridelsens angst, som bare har vokst med årene og nå kan vare i uker.  
+
+      p Når jeg drikker, får jeg også blackouts og mister helt kontrollen over mine handlinger, som som oftest blir desperate og idiotiske, men også iblant desperate og farlige. Derfor drikker jeg ikke lenger. Jeg vil ikke at noen skal nå meg, jeg vil ikke at noen skal se meg, og slik har det også blitt: Ingen når meg, og ingen ser meg. Det er dette som må ha satt seg i ansiktet, det er dette som må ha gjort det så stivt og maskeaktig og nesten umulig å forbinde med meg selv når jeg tilfeldigvis støter på det i et vindu på gaten.  
+
+      p Den natten Vanja ble født, lå hun og så på oss i flere timer. Øynene hennes var som to svarte lykter. Kroppen hennes var blodig, det lange håret var klistret mot hodet, og når hun flyttet på seg, var det med et krypdyrs langsomme bevegelser. Hun så ut som noe fra skogen der hun lå på magen til Linda og stirret på oss. Vi kunne ikke få nok av henne og blikket hennes. Men hva var det som fantes i det? Ro, alvor, mørke. Jeg rakte ut tungen, det gikk et minutt, så rakte hun ut tungen. Aldri har det vært så mye framtid i livet mitt som da, aldri så mye glede.  
+
+      p Nå er hun fire år, og alt er annerledes. Øynene hennes er kvikke, fylles like raskt av sjalusi som av glede, av sorg som av vrede, hun er alt dreven i verden og kan være så frekk at jeg fullstendig mister besinnelsen og kan stå og rope til henne, eller riste henne til hun begynner å grine. Men ofte bare ler hun. Sist det hendte, sist jeg var så sint at jeg ristet henne, og hun bare lo, fikk jeg en innskytelse og la hånden på brystet hennes. Hjertet hennes hamret. Å, hvor det hamret.  
+
+      p Klokken er noen minutter over åtte om morgenen. Det er den 4. mars 2008. Jeg sitter inne på kontoret, omgitt av bøker fra gulv til tak, og hører på det svenske bandet Dungen mens jeg tenker på det jeg har skrevet og hvor det leder hen. Linda og John ligger og sover i rommet ved siden av, Vanja og Heidi er i barnehagen, hvor jeg leverte dem for en halvtime siden. På det enorme Hilton-hotellet utenfor, som fortsatt ligger i skygge, glir heisene hele tiden opp og ned i de tre glass-sjaktene på fasaden. Ved siden av det står en rød murbygning, som etter alle karnapper, arker og buer å dømme må være fra slutten av 1800-tallet eller begynnelsen av 1900-tallet. Bortenfor det igjen skimtes en liten flik av Magistrat-parken, med sine bladløse trær og grønne gress, hvor et gråspraglet murhus med syttitallspreg ender utsikten og tvinger blikket opp mot himmelen, som for første gang på flere uker er klar og blå. 
+
+      p Etter å ha bodd her i halvannet år, kjenner jeg denne utsikten og alle dens uttrykk gjennom dagene og året, men knyttet til den er jeg ikke. Ingenting av det jeg ser her, betyr noe for meg. Kanskje har jeg vært ute etter akkurat det, for det finnes absolutt noe i det tilknytningsløse jeg liker, kanskje til og med trenger, men noe bevisst valg har det ikke vært. For seks år siden var det Bergen jeg satt og skrev i, og om jeg ikke hadde tenkt å bo i den byen resten av livet mitt, hadde jeg ingen planer om å forlate verken landet eller hun jeg var gift med da. Tvert imot, vi så for oss at vi skulle få barn og kanskje flytte til Oslo, hvor jeg skulle skrive flere romaner og hun arbeide videre med radio og fjernsyn.  
+
+      p Men den framtiden vi hadde, som vel egentlig bare var en forlengelse av den daværende nåtiden, med sine hverdagsrutiner og sine middager med venner og kjente, sine ferieturer og sine besøk til foreldre og svigerforeldre, alt beriket av de barna vi tenkte oss, ble det ingenting av. Noe hendte, og fra den ene dagen til den andre dro jeg til Stockholm, først bare for å komme meg unna noen uker, og så ble det plutselig livet mitt. Ikke bare ble byen og landet skiftet ut i det, men også alle menneskene. Om det er merkelig at jeg gjorde det, er det enda merkeligere at jeg så godt som aldri tenker på det. Hvordan havnet jeg her? Hvorfor var det slik det ble? 
+
+  img.col.col6.right-image.mt5(src='./Min-kamp_Bilde-av-bøkene.jpg' alt='Ei mengde bokomslag med tittelen Min Kamp, nummerert frå 1 til 6. Foto')
   p I 
     em Min kamp 
     | gjenfortel Knausgård mange av historiene frå dei to førre romanane. Henrik Vankel blir erstatta av romankarakteren Karl Ove Knausgård, og historiene om han blir sette inn i ein biografisk kontekst, altså forfattaren Karl Ove Knausgårds livshistorie. Dette skiftet i perspektiv er heilt klart eit risikoprosjekt – gjenforteljingane kan «trøytte» lesarane av forfattarskapen hans. Samstundes bidreg det til ei spaning i tekstane hans; kor mykje er basert på sjølvopplevde hendingar, og kor mykje er rein fiksjon?
+
+  .clear
+  br
+  figure.col.col6.right-image
+    img(src='./knausgaard_Min_kamp2.jpg' alt='Bygard med butikkar på gateplan, bussstopp og tre i forgrunnen. Foto')
+    figcaption I sjuande etasje i denne bygården i Malmø budde Karl Ove Knausgård med kona og dei tre borna då han skreiv «Min Kamp». Foto: Eivind Griffith Brænde / VG / Scanpix
 
   p Også innad i 
     em Min kamp
     | -serien gjenfortel og gjentek Knausgård same historier og episodar – med somme nyanseskilnader og endringar. Gjentakingane bidreg derfor til å problematisere både røyndomsperspektivet og sanningsgraden i tekstane hans. Når dei ulike gjenforteljingane ofte er litt ulike, blir minna og fortida frigjorde frå røyndommen. 
 
-  figure.col.col12
-    img(src='./knausgaard_Min_kamp2.jpg' alt='Bygard med butikkar på gateplan, bussstopp og tre i forgrunnen. Foto')
-    figcaption I sjuande etasje i denne bygården i Malmø budde Karl Ove Knausgård med kona og dei tre borna då han skreiv «Min Kamp». Foto: Eivind Griffith Brænde / VG / Scanpix
-
+  .clear
+  br
   figure.col.col6.right-image.mt5
-    img(src='./knausgaard_Min_kamp3.jpg' alt='Kvinne sit på ein hagestol framfor eit kvitt hus. Foto')
-    figcaption Linda Boström Knausgård utanfor huset ved Ystad i Sverige som dei kjøpte etter suksessen med «Min kamp». Foto: Annemor Larsen / VG / Scanpix
+    img(src='./Min-kamp_Bilde-av-kona.jpg' alt='Kvinne sit på ein hagestol framfor eit kvitt hus. Foto')
+    figcaption Linda Boström Knausgård. Foto: CC BY SA
 
   p Romanprosjektet 
     em Min Kamp 
@@ -102,10 +127,6 @@ PageBook
     | inneheld fleire diskusjonar og refleksjonar kring kva god litteratur er, og kva litteraturen bør prøve å formidle. Gjennom desse refleksjonane set Knausgård sitt eige prosjekt inn i ein litterær samanheng.
 
   h3 Notid og fortid
-
-  figure.col.col6.right-image.mt5
-    img(src='./knausgaard_Portrett3.jpg' alt='Portrett av middelaldrande mann med halvlangt hår og skjegg. Held hendene i pyramideform framfor ansiktet. Foto')
-    figcaption Foto: © Fredrik Bjerknes / Dagsavisen / Samfoto / Scanpix
 
   p Knausgård problematiserer og granskar tilhøvet mellom notid og fortid. I 
     em Ute av verden 

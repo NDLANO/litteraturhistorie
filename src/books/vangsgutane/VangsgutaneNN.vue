@@ -42,9 +42,10 @@ PageBook(:showAuthor="false")
   p I 1970-åra skjedde det ei endring. Vi fekk fleire nye historiske teikneseriealbum som fortalde om hendingar i eldre eller nyare historisk tid, og også meir eksperimentelle teikneseriehefte med sterkare kunstnarleg og litterær profil. I vår tid har teikneseriane ofte ein sarkastisk undertone og figurane er forankra i moderne storbyliv, som for eksempel «Olaf G» og «Nemi».
 
   figure.col.col12
-   img(src='./Vangsgutane_Lise_Myhre.jpg' alt='Ei kvinne framfor bilde av teikneseriestriper. Foto')
+   img(src='./Vangsgutane_Bilde-av-Lise-Myhre.jpg' alt='Ei kvinne framfor bilde av teikneseriestriper. Foto')
    figcaption Lise Myhre teikner serien «Nemi». Foto: Erlend Aas / SCANPIX
 
+  .clear
   h3 «Vangsgutane»
   p Dei første teikneseriestripene om Vangsgutane stod å lese i Nynorsk Vekeblad i 1940. Frå 1941 til 1983 vart serien gitt ut som julehefte. I nyare tid er serien omsett til amerikansk under tittelen «The Boys From Vangen».
 
@@ -54,11 +55,11 @@ PageBook(:showAuthor="false")
 
   p Tekstforfattaren er Leif Halse, og dei to gutane i serien fekk namna sine etter sønene hans. Dei første seriehefta vart teikna av Jens R. Nilssen. Teikningane er delvis realistiske og delvis karikerande og humoristiske, noko som gjorde serien svært populær. Seinare overtok andre illustratørar oppgåva med å formgi historiene om Vangsgutane.
 
-  p I serien møter vi dei to brørne Steinar og Kåre Vangen frå Todalen på Nordmøre. Det er to snille og prektige bondegutar, i motsetning til den rampete husmannsguten Larris. Heftet var ein slags moralsk kontrast til meir tvilsame teikneseriar som for eksempel «Knoll og Tott». I «Knoll og Tott» ligg sympatien hos dei som driv med rampestrekar. I «Vangsgutane» møter vi derimot ansvarsfulle gutar som gjer rette moralske val og er gode førebilete for andre.
-
   figure.col.col6.right-image.mt5
-   img(src='./Vangsgutane_2.jpg' alt='Gut sit på trappa framfor ei dør med skilt som seier inngang forbode. Kvinne og gut med ein kalv ser på. Teikning')
+   img(src='./Vangsgutane_Bilde-av-Vangsgutane-til-høyre-for-Ingeniør-Knut-Berg-på-eventyr.jpg' alt='Gut sit på trappa framfor ei dør med skilt som seier inngang forbode. Kvinne og gut med ein kalv ser på. Teikning')
    figcaption «Vangsgutane». Illustratør: Jens R. Nilssen Foto: Jens R. Nilssen
+
+  p I serien møter vi dei to brørne Steinar og Kåre Vangen frå Todalen på Nordmøre. Det er to snille og prektige bondegutar, i motsetning til den rampete husmannsguten Larris. Heftet var ein slags moralsk kontrast til meir tvilsame teikneseriar som for eksempel «Knoll og Tott». I «Knoll og Tott» ligg sympatien hos dei som driv med rampestrekar. I «Vangsgutane» møter vi derimot ansvarsfulle gutar som gjer rette moralske val og er gode førebilete for andre.
 
   p Ein moderne lesar vil nok ha etiske motførestellingar når husmannsguten Larris konsekvent blir framstilt som dum og stygg, mens Steinar og Kåre, dei to gutane på bondegarden, alltid er heltane. I 1930- og 1940-åra var det meir akseptert og vanleg å knyte moralske eigenskapar til etniske og sosiale grupper enn det er i dag.
 

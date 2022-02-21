@@ -6,13 +6,14 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "build_dep": "vue-cli-service build && node deploy_dev",
+    "build_test": "vue-cli-service build && node deploy_test",
     "deploy": "node deploy_dev",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
     "core-js": "^3.6.5",
     "gsap": "^3.6.0",
-    "plyr": "^3.6.4",
+    "plyr": "^3.6.8",
     "vue": "^3.0.0",
     "vue-i18n": "^9.0.0",
     "vue-router": "^4.0.0-0"

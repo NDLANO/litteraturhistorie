@@ -21,7 +21,7 @@ PageBook
   h3 Forfattaren
 
   ImageTextBlock(
-    :image="require(`./Bergens_Kapitelsbok_Forfatteren.jpg`)"
+    :image="require(`./Bergens-kapitelbok_Tegning-av-Anne-Pedersdotter-som-blir-brent.jpg`)"
     :imageColumns="5"
     imageCaption="Anne Pedersdotter, Absalons kone, vart dømd som heks og brend på bålet. Saka mot henne er ein av dei best dokumenterte hekseprosessane i Noreg."
     altText="Tilskodarar ser på at ei kvinne blir brend på bål. Illustrasjon"

@@ -107,7 +107,7 @@ PageBook
 
   figure.col.col6.right-image.mt5
    img(src='./hagerup_Familieportrett1.jpg' alt='En eldre kvinne sitter omkranset av tre menn. Alle holder bøker i hendene eller fanget. Foto')
-   figcaption Inger Hagerup saman med ektemannen og dei to sønene sine. Foto: Ivar Aaserud / Aktuell / Scanpix
+   figcaption Inger Hagerup sammen med ektemannen og de to sønnene sine. Foto: Ivar Aaserud / Aktuell / Scanpix 
    
   p I malerkunsten og litteraturen har kvinner tradisjonelt fått tildelt tre nokså snevre roller: De er enten blitt framstilt som 
     em madonnaer
@@ -193,7 +193,7 @@ PageBook
 
   figure.col.col6.right-image.mt5
    img(src='./hagerup_Barnepoesi1.jpg' alt='Kvinne og mann foran en montasje som viser premierte barnebøker i 1961. Foto')
-   figcaption Inger Hagerup og Jan-Magnus fekk Kyrkjedepartementet sine prisar for beste barnebøker i 1961. Foto: Arne Tjensvold / Aftenposten / Scanpix
+   figcaption Inger Hagerup og Jan-Magnus fikk Kirkedepartementets priser for beste barnebøker i 1961. Foto: Arne Tjensvold / Aftenposten / Scanpix 
    
   p Hvis vi ser nærmere på Hagerups formspråk, oppdager vi mer enn tradisjonelle rim og taktfaste rytmer. Det mest åpenbare finner vi i barnediktene. Her velger Hagerup å bryte med tradisjonen, hun skaper sin egen form. Slik ble Hagerups barnedikt et gjennombrudd for en ny type barnepoesi. 
 

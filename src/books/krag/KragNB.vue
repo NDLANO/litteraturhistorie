@@ -54,7 +54,12 @@ PageBook
 
   h3 Inspirasjon utenfra – det eksotiske og fremmede 
 
-  img.col.col12(src='./Krag_Det_eksotiske_og_fremmede.jpg' alt='Kvinne og mann omfavner og kjærtegner hverandre. Maleri')
+  figure.col.col12
+    img(src='./Krag_Det_eksotiske_og_fremmede.jpg' alt='Kvinne og mann omfavner og kjærtegner hverandre. Maleri')
+    figcaption
+      em Kysset 
+      | (1907) av Gustav Klimt
+
   p Et typisk nyromantisk trekk ved «Fandango» er fascinasjonen for det fjerne og eksotiske, for steder og kulturer som de fleste knapt hadde hørt om. Vi finner mange slike eksotiske elementer i diktet: Her spiller de 
     em janitsjarmusikk 
     | og danser 
@@ -67,7 +72,8 @@ PageBook
 
   h3 Inspirasjon utenfra – dekadansedikterne 
 
-  img.col.col12(src='./Krag_Dekadansedikterne1.jpg' alt='Mann i bar overkropp sitter ansikt til ansikt med en gepard med menneskehode. Kollasj')
+  img.col.col12(src='./Digte_Forste-bilde-under-Inspirasjon-utenfra-–-dekadansedikterne.jpg' alt='Mann i bar overkropp sitter ansikt til ansikt med en gepard med menneskehode. Kollasj')
+  .clear
   p Med «Fandango» hadde Krag fanget inn strømmene i tida. Han var nemlig slett ikke den eneste dikteren i samtida som skrev om hvordan alt vakkert og levende bærer i seg kimen til sin egen undergang. De såkalte dekadansedikterne dyrket det eksotiske, sanselige og vakre, samtidig som de var opptatt av forfallet og det heslige. 
 
   img.col.col4.left-image.mt5(src='./Krag_Dekadansedikterne2.jpg' alt='To lettkledde kvinner sitter foran en busk i utfordrende positur. Illustrasjon')
@@ -77,7 +83,12 @@ PageBook
 
   h3 Inspirasjon utenfra – symbolismen 
 
-  img.col.col4.left-image.mt5(src='./Krag_Symbolismen.jpg' alt='I forgrunnen en person står på en bro og holder seg for ørene. To personer som silhuetter i bakgrunnen. Et abstrakt kystlandsskap i solnedgang. Maleri')
+  figure.col.col4.left-image.mt5
+    img(src='./Krag_Symbolismen.jpg' alt='I forgrunnen en person står på en bro og holder seg for ørene. To personer som silhuetter i bakgrunnen. Et abstrakt kystlandsskap i solnedgang. Maleri')
+    figcaption
+      em Skrik 
+      | (1893) av Edvard Munch
+      
   p Krag og de andre nyromantiske dikterne hentet også inspirasjon fra symbolismen, en litterær retning som vokste fram i Frankrike og Belgia i andre halvdel av 1800-tallet. Symbolistene ville ikke at kunsten skulle være realistisk eller samfunnskritisk. De ønsket en kunst som uttrykte ideer og følelser, men på en indirekte måte. Motivet i et maleri eller et dikt skulle ha symbolsk (overført) innhold og stå for noe annet og mer enn seg selv.  
 
   p Diktet «Der skreg en fugl», som også er hentet fra Krags debutsamling, kan sies å være et godt eksempel i så måte. Det skildrer et kort øyeblikk, noen få sanseinntrykk, som formidler en sinnstilstand av dyp melankoli: 
@@ -109,7 +120,7 @@ PageBook
   p Krag skaper en forestilling om Sørlandet som en egen landsdel, og han prøver å gi folket som bor der, en identitet. I en artikkel i Morgenbladet fra 1902 foreslår han å kalle landsdelen med kyststripe fra Risør til Flekkefjord for Sørlandet. Forslaget fikk raskt gjennomslag. 
 
   figure.col.col6.right-image
-   img(src='./Krag_Sange_fra_min_oe.jpg' alt='Kystlandskap med person i robåt i forgrunnen. Flere øyer danner et sund i bakgrunnen. Maleri')
+   img(src='./Digte_Morgen-i-Ny-Hellesund.jpg' alt='Kystlandskap med person i robåt i forgrunnen. Flere øyer danner et sund i bakgrunnen. Maleri')
    figcaption «Morgen i Ny Hellesund» av Amaldus Nielsen
   blockquote
     | O Sørland, du min moderjord, 

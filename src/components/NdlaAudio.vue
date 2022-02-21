@@ -1,7 +1,10 @@
 <template lang="pug">
 audio(ref="player" controls)
     source(:src="source")
-.description {{ description }}
+.description(v-if="description !== ''") {{ description }}
+.description(v-if="description === ''")
+  slot(name="description")
+  
 button.audioplayer.mt10(v-if="false" ref="textButton" @click="onTextButtonClick") {{ showText ? $t("audioplayer.hideText") : $t("audioplayer.showText")}}
 button.btn_audioText(v-if="gotSlotContent" ref="textButton" @click="onTextButtonClick")
   .btn_audioText_icon

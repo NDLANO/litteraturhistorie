@@ -1,6 +1,7 @@
 <template lang="pug">
 PageBook(:showAuthor="false")
-
+  br
+  .clear
   figure.col.col6.right-image
     img(src="./Beowulf_utklipp.jpg" alt="Gammelt håndskrevet dokument. Foto")
     figcaption Første side av ”Beowulf”-kvadet i et manuskript skrevet en gang mellom 700 og 1000.
@@ -19,10 +20,8 @@ PageBook(:showAuthor="false")
     em Ringenes herre
     | . Tolkien var professor i litteratur i Oxford og hadde studert kvadet nøye. 
 
-  p Det finnes dessuten to moderne filmversjoner av Beowulf. 
-
   h3 Innhold
-  figure.col.col6.left-image
+  figure.col.col6.left-image.mb20
     img(src="./Beowulf_film.jpg" alt="Mann i bar overkropp retter et sverd mot en person i forgrunnen. Personene står ansikt til ansikt. Foto")
     figcaption Det finst også to moderne filmversjoner av Beowulf.
 
@@ -30,18 +29,18 @@ PageBook(:showAuthor="false")
 
   p Seinere blir Beowulf konge i hjemlandet sitt, Gautland (kanskje dagens Götaland i Sør-Sverige). Siste del av kvadet skildrer hvordan han drar ut sammen med mennene sine for å drepe en drake som ødelegger landet hans. Men det er bare én av mennene som tør å møte draken sammen med han. Beowulf greier å ta livet av draken, men blir selv drept. Han blir så hauglagt av mennene sine. 
 
-  figure.col.col4.left-image
-    img(src="./Beowulf_Gautland.jpg" alt="En gruppe bygninger ligger på toppen av en gresskledd åsrygg. Foto")
-    figcaption Senere blir Beowulf konge i hjemlandet sitt, Gautland
+  figure.col.col6.left-image
+    img(src="./Beowulf_i_kamp_med_draken.jpg" alt="Kriger med langt skjegg holder et skjold opp som vern mot flammer fra en drake. Mannen bærer et sverd i den andre hånda. Maleri")
+    figcaption Beowulf i kamp med dragen.
 
   p Samfunnet som skildres i eposet, legger stor vekt på egenskaper som æresfølelse og mot. Kongens oppgave er å forsvare landet. Derfor trenger han menn som gjør krigstjeneste for han, og han lønner dem med våpen, rikdommer og land. Krigerne er høyt verdsatt i denne typen samfunn. 
 
   p Helten Beowulf er preget av en sterk skjebnetro. Han er overbevist om at det er skjebnen som bestemmer når han skal dø. Denne skjebnetroen er dypt forankret i germansk krigertradisjon. Vi finner den samme troen også i de norrøne heltediktene og i islendingesagaene. 
-  
+
+
+
+
   h3 Heltedikt 
-  figure.col.col6.right-image
-    img(src="./Beowulf_i_kamp_med_draken.jpg" alt="Kriger med langt skjegg holder et skjold opp som vern mot flammer fra en drake. Mannen bærer et sverd i den andre hånda. Maleri")
-    figcaption Beowulf i kamp med dragen. Til høyre gravhaugen i Skalunda i Götaland der Beowulf skal være hauglagt.
 
   p Alle stammer og nasjoner har sagn og myter som bekrefter hvem de er, hvor de kommer fra, og formidler tenkemåter og verdier som er viktige for dem. 
 
@@ -57,10 +56,10 @@ PageBook(:showAuthor="false")
 
   p Fra og med 900-tallet blir mange europeiske heltedikt skrevet ned. Samtidig blir de utvidet til omfattende helteepos etter mønster av sine antikke forbilder, med brede skildringer og tallrike parallellhandlinger. 
 
-  p De mest kjente europeiske heltediktene i tillegg til «Beowulf «er det franske «Rolandskvadet» fra 1000-tallet, det spanske heltediktet om El Cid, som ble skapt rundt 1140, og «Nibelungen-eposet» fra tidlig på 1200-tallet.   
+  p De mest kjente europeiske heltediktene i tillegg til «Beowulf» er det franske «Rolandskvadet» fra 1000-tallet, det spanske heltediktet om El Cid, som ble skapt rundt 1140, og «Nibelungen-eposet» fra tidlig på 1200-tallet.   
 
   figure
-    img(src="./Beowulf_Heltedikt.jpg" alt="Mann med hjelm bærer en gammel mann. To kvinner ser på med et fortvilet uttrykk. Foto")
+    img(src="./Beowulf_Enes-som-flykter-fra-Troja.jpg" alt="Mann med hjelm bærer en gammel mann. To kvinner ser på med et fortvilet uttrykk. Foto")
     figcaption Eposet handler om helten Æneas som flykter fra Troja og senere blir stamfar til romerne.
 
 

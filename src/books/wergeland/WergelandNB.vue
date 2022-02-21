@@ -78,7 +78,7 @@ PageBook
 
   h3 Giftermål og siste leveår 
 
-  img.col.col3.left-image(src='./Sprogreformation_Amalie_Sofie.jpg' alt='Portrett av kvinne med blå kjole og brunt hår med krøller. Maleri')
+  img.col.col3.left-image(src='./Om-norsk-Sprogreformation_Bilde-av-Amalie-Sofie-Bekkevold.jpg' alt='Portrett av kvinne med blå kjole og brunt hår med krøller. Maleri')
   p I 1838 ble Wergeland forlovet med Amalie Sofie Bekkevold. Han søkte flere prestekall, men fikk aldri noen stilling. Kong Karl Johan berget han til slutt og innvilget diktergasje. 
 
   p I 1839 giftet Wergeland seg med Amalie Sofie. Året etter sørget kongen for at Wergeland fikk en stilling som byråsjef ved Riksarkivet. Denne hjelpa fra kongen gjorde at han skaffet seg enda flere uvenner. Mange mente han fikk fordeler framfor andre, og de syntes ikke det var riktig at Wergeland som republikaner mottok økonomisk støtte fra kongen. 
@@ -86,32 +86,30 @@ PageBook
   p Med stilling i embetsverket og diktergasje hadde Wergeland råd til å bygge dikterboligen Grotten i 1841. Men i 1844 fikk han lungebetennelse som utviklet seg til tuberkulose. Han kom også i et økonomisk uføre og måtte flytte til et lite hus i Pilestredet. 
 
   figure.col.col12
-   img(src='./Sprogreformation_Wergelands_kontor.jpg' alt='Interiørbilde med stol og bord i forgrunnen. Skrivebord med stol til høyre for dette. Foto')
+   img(src='./Om-norsk-Sprogreformation_Wergelands-kontor.jpg' alt='Interiørbilde med stol og bord i forgrunnen. Skrivebord med stol til høyre for dette. Foto')
    figcaption Som riksarkivar hadde Wergeland dette kontoret på Akershus festning
   p 
-    | Wergeland ble stadig dårligere, men skrev fortsatt hele tida. Noen av de vakreste og mest kjente diktene hans ble skapt på dødsleiet i 1845. Til disse diktene hører «Til Foraaret» og 
-    a(href="https://www.dokpro.uio.no/wergeland/WI3/WI3141.html" target="_blank") «Til min Gyldenlak»
-    | . I juli 1845 døde han, bare 37 år gammel. 
-
+    | Wergeland ble stadig dårligere, men skrev fortsatt hele tida. Noen av de vakreste og mest kjente diktene hans ble skapt på dødsleiet i 1845. Til disse diktene hører «Til Foraaret» og «Til min Gyldenlak». I juli 1845 døde han, bare 37 år gammel. 
   NdlaAudio(
     source="media/books/wergeland/Henrik_Wergeland__Til_min_Gyldenlak.mp3"
-    description="«Til min Gyldenlak»"
   )
+    template(v-slot:description)
+      a(href="https://www.dokpro.uio.no/wergeland/WI3/WI3141.html" target="_blank") «Til min Gyldenlak»
+
 
   h3 «Til Foraaret» (1845) 
 
   NdlaAudio(
     source="media/books/wergeland/Henrik_Wergeland__Til_Foraaret.mp3"
-    description="«Til Foraaret»"
   )
+    template(v-slot:description)
+      a(href="https://www.dokpro.uio.no/wergeland/WI3/WI3140.html" target="_blank") «Til Foraaret»
 
   figure.col.col6.right-image
    img(src='./Sprogreformation_Wergeland_tegnet_av_Christian_Olsen.jpg' alt='Mann med skjegg sitter i en seng, svart sløyfe i halsen. På et bord står en rose i et glass vann. Tegning')
    figcaption Wergeland tegnet av Christian Olsen i 1844
   p 
-    | Like før han døde, i mai 1845, skrev Wergeland diktet 
-    a(href="https://www.dokpro.uio.no/wergeland/WI3/WI3140.html" target="_blank") «Til Foraaret»
-    | . Wergeland lå syk og visste at han skulle dø. Diktet hans er en fortvilt og lidenskapelig bønn til naturen om at han må få leve videre. 
+    | Like før han døde, i mai 1845, skrev Wergeland diktet «Til Foraaret». Wergeland lå syk og visste at han skulle dø. Diktet hans er en fortvilt og lidenskapelig bønn til naturen om at han må få leve videre. 
 
   p Wergeland påkaller våren – og plantene og dyra som hører våren til: det første gresset, symra, løvetanna, hestehoven, svalene som er kommet tilbake, og det gamle treet som har fått nye knopper. Han ber dem vitne om kjærligheten han føler for dem. 
 

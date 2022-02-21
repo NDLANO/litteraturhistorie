@@ -16,10 +16,9 @@ PagePeriod(
    | I mellomalderen er grunnsynet på livet strengt religiøst. Mennesket er lite samanlikna med Gud, og enkeltmennesket blir ikkje sett på som viktig i seg sjølv. 
 
   .clear
-  NdlaVideo(
-    source="media/video/humanisme/dante_boccatio_lesekunst-003.mp4"
-    description="Dante Alighieri (1265–1321) er ein av dei første diktarane i mellomalderen som skriv på morsmålet i staden for latin. I ”Den guddommelege komedien” skildrar han si eiga (tenkte) reise gjennom helvete, skjærseld og til slutt paradiset. Samtidig flettar han inn tankar om både religion, filosofi, vitskap og politikk."
-    )
+
+  NrkVideo(id="186659")
+    .caption Dante Alighieri (1265–1321) er ein av dei første diktarane i mellomalderen som skriv på morsmålet i staden for latin. I ”Den guddommelege komedien” skildrar han si eiga (tenkte) reise gjennom helvete, skjærseld og til slutt paradiset. Samtidig flettar han inn tankar om både religion, filosofi, vitskap og politikk.
 
   h5 Standen avgjer kven du blir 
   p
@@ -55,8 +54,8 @@ PagePeriod(
   p
    | Etter svartedauden ligg det meste nede her i landet, men i Italia startar ei ny utvikling. Der blomstrar handelen opp, og kjøpmennene kjem i kontakt med andre land og kulturar. Handelsborgarane i byane blir ei viktig samfunnsgruppe, og jordeigarane mister dermed noko av makta. Med auka handel får også pengeøkonomien etter kvart større plass. 
 
+  img.col.col6.mt5.right-image(src="./Humanisme_Boktrykkerbilde.jpg" alt="Fire personar studerer eit stort ark inne i eit trykkeri. Måleri.")
   h5 Boktrykkjarkunsten – ei ny tid 
-  img.col.col4.mt5.right-image.mt20(src="./Humanisme_Tida-og-samfunnsforholdene3.jpg" alt="Fire personar studerer eit stort ark inne i eit trykkeri. Måleri.")
 
   p
    | Johann Gutenberg (1397–1468) blir rekna som opphavsmann til boktrykkjarkunsten. Han konstruerer ei presse og blybokstavar til å trykkje med. Den første boka til Gutenberg er ein bibel som kjem på midten av 1400-talet. Den første vekeavisa blir trykt og utgitt i Strasbourg i 1609. Det første trykkjeriet i Noreg blir opna i 1643.
@@ -89,8 +88,9 @@ PagePeriod(
     | Det veks også fram ei sterk interesse for gresk og romersk språk og litteratur, og for historie og filosofi. Denne delen av renessansen kallar vi humanisme. Også humanismen har sitt utspring i Italia på 1300-talet. Nord for Alpane får ikkje humanismen gjennomslag før omkring år 1500. Ein framståande representant for humanismen er Leonardo da Vinci (1452–1519). Han er både vitskapsmann og kunstnar. 
 
   NdlaVideo(
-    source="media/periods/humanisme/Othello.mp4"
+    source="media/video/humanisme/Othello.mp4"
     description="William Shakespeare: ”Othello”. Elevproduksjon laga av elevar ved Vågsbygd videregående skole. Regi: Ellen Kalvenes."
+    captionsUrl="media/video/humanisme/Othello.nn-no.vtt"
   )  
   
   div.mb60
@@ -162,7 +162,7 @@ PagePeriod(
   h3 Språket  
 
   figure
-    img(src="./Humanisme_Spraaket.jpg" alt="Brunt ark fylt med linjer av handskrift. Illustrasjon.")
+    img(src="./Humanisme_Diplomatarium-Norvegicum.jpg" alt="Brunt ark fylt med linjer av handskrift. Illustrasjon.")
     figcaption Diplomatarium Norvegicum: Ei side av eit brev frå dronning Margrete til kong Håkon 6. <br/><a href="media/periods/humanisme/diplomatarium.html" target="_blandk">Les utskrift av dokumentet</a>
 
   h5 Norrønt skriftspråk går til grunne  
@@ -188,6 +188,7 @@ PagePeriod(
 import PagePeriod from "@/components/PagePeriod";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
@@ -195,6 +196,7 @@ export default {
     NdlaAudio,
     NdlaVideo,
     PagePeriod,
+    NrkVideo,
   },
 };
 </script>

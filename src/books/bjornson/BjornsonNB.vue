@@ -23,7 +23,7 @@ PageBook
   h3 Bondefortellingene – kultivering av bonden
   p Bjørnsons bondefortellinger kom ut i tidsrommet 1857–1860. De vakte oppsikt i samtida med sin nyskapende og dristige form. Bjørnson skildret bøndene på en måte som brøt med den romantiske framstillingen som vi kjenner fra blant annet Maurits Hansen noen tiår tidligere.
 
-  img.col.col6.left-image.mt5(src='./Bjornson_Bondefortellingene.jpg' alt='To kvinner hviler i gresset. Bak dem skimtes et rødt bygg mellom furutrær. Maleri')
+  img.col.col6.left-image.mt5(src='./Faderen_Bilde-av-to-kvinner-som-tar-en-pause.jpg' alt='To kvinner hviler i gresset. Bak dem skimtes et rødt bygg mellom furutrær. Maleri')
   p Hos Bjørnson møter vi bonden i et røft hverdagsmiljø. Han skildret blant annet fyll og slagsmål. Samtidig fikk Bjørnson kritikk for å idealisere livet til bøndene, og for å omtale dem som festkledde idealpersoner. Men for Bjørnson lå det en pedagogisk tanke bak bondefortellingene. Ønsket var å «kultivere» nordmennene, og da særlig bøndene – slik nasjonsbyggerne så dem som bærere av typisk norske verdier. 
 
   p Personene i bondefortellingene er levende mennesker med sammensatte, ofte konfliktfylte sinn, og vi møter dem i livssituasjoner der de må gjøre valg. I 
@@ -32,7 +32,7 @@ PageBook
   
   h3 Fortellemåten i bondefortellingene 
 
-  img.col.col6.right-image.mt5(src='./Bjornson_Lokkeleg.jpg' alt='Side fra en bok med et dikt av Bjørnson. Foto')
+  img.col.col6.right-image.mt5(src='./Faderen_Bilde-av-diktet-Lokkeleg.jpg' alt='Side fra en bok med et dikt av Bjørnson. Foto')
   p Når det gjelder fortellemåten, lot Bjørnson seg inspirere av sagastilen. Framstillingen er scenisk og sparsom på kommentarer. Vi kommer rett inn i handlingen og lærer personene å kjenne gjennom det de sier og gjør, med andre ord gjennom dialoger og handling.
 
   p Bjørnson er ordknapp i skildringen. Det ser vi for eksempel i innledningen til En glad gutt: «Øyvind hette han og gråt da han ble født.» Også her er det sagastilen som har vært en viktig inspirasjon. I tillegg lot Bjørnson seg inspirere av folkediktningen. Den muntlige stilen i tekstene hans var inspirert av folkeeventyrene. Han tok også i bruk rim og regler, slik folkevisene gjør. 
@@ -79,7 +79,7 @@ PageBook
 
   p Det nye livssynet kommer til uttrykk i samlingen Salme II (1880). Her formidler Bjørnson de nye tankene han er påvirket av, blant annet at alle levende organismer har utviklet seg fra det enkle og primitive til det mer kompliserte og høytstående. 
 
-  img.col.col12(src='./Bjornson_tre.jpg' alt='Greiner fra et frukttre i blomst. Foto')
+  img.col.col12(src='./Faderen_Bilde-av-blomstrende-tre.jpg' alt='Greiner fra et frukttre i blomst. Foto')
   
   h3.mt40 Politiker og folketaler
 
@@ -96,7 +96,10 @@ PageBook
 
   figure.col.col12
    img(src='./Bjornson_Aulestad.jpg' alt='En gruppe kvinner og menn sitter rundt et bord.Ved den høyre kortenden sitter Bjørnson. Tegning')
-   figcaption Bjørnson på Aulestad
+   figcaption 
+    em Middagsbordet på Aulestad 
+    | tegnet av P.S. Krøyer
+
   p I språkkampen hevdet han blant annet at forskjellen mellom riksmål og landsmål var like stor som mellom norsk og portugisisk. I vår tid er det nok flere som vil mene at enkelte av standpunktene hans til tider var mer preget av fordommer enn av rasjonalisme.  
   
   h3 Bjørnson – et nasjonalt symbol 
@@ -108,7 +111,7 @@ PageBook
 
   p Til tross for at det til tider stormet rundt han, var han en høyt elsket personlighet. Gravferden hans vitner om det – den var en konge verdig.            
 
-  img.col.col12(src='./Bjornson_Grav.jpg' alt='Gravstein med illustrasjon av en bygning og tekst som forteller at dette er Bjørnsons grav. Foto')
+  img.col.col12(src='./Faderen_Bilde-av-gravstein.jpg' alt='Gravstein med illustrasjon av en bygning og tekst som forteller at dette er Bjørnsons grav. Foto')
 
   .clear.mt40
   // Medieinnhold: Beholde bilder, pluss opptak av Bjørnson som holder tale. 

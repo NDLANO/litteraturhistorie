@@ -1,6 +1,7 @@
 <template lang="pug">
 PageBook(:showAuthor="false")
-
+  br
+  .clear
   figure.col.col6.right-image
     img(src="./Beowulf_utklipp.jpg" alt="Gamalt handskrive dokument. Foto")
     figcaption Første side av ”Beowulf”-kvadet i eit manuskript skrive ein gong mellom 700 og 1000
@@ -19,20 +20,19 @@ PageBook(:showAuthor="false")
     em Ringenes herre
     | . Tolkien var professor i litteratur i Oxford og hadde studert kvadet nøye.
 
-  p Det finst òg to moderne filmversjonar av Beowulf.
-
 
   h3 Innhald
-  figure.col.col6.left-image
+  figure.col.col6.left-image.mb50
     img(src="./Beowulf_film.jpg" alt="Mann i bar overkropp rettar eit sverd mot ein person i forgrunnen. Personane står ansikt til ansikt. Foto")
     figcaption Det finst òg to moderne filmversjonar av Beowulf.
+
   p Handlinga i eposet er lagd til Danmark og Sverige i urnordisk tid. Uhyret Grendel herjar i riket til danskekongen Hrothgar. Kvar natt heimsøkjer Grendel kongshallen og drep mennene til kongen. Da dreg helten Beowulf ut for å hjelpe Hrothgar. Han nedkjempar først Grendel og deretter mor hans, som prøver å hemne sonen.
 
   p Seinare blir Beowulf konge i heimlandet sitt, Gautland (kanskje dagens Götaland i Sør Sverige). Siste del av kvadet skildrar korleis han dreg ut saman med mennene sine for å drepe ein drake som legg landet hans i øyde. Men det er berre éin av mennene som torer møte draken saman med han. Beowulf maktar å ta livet av draken, men blir sjølv drepen. Han blir så hauglagd av mennene sine.
 
-  figure.col.col4.left-image
-    img(src="./Beowulf_Gautland.jpg" alt="Ei gruppe bygningar ligg på toppen av ein gresskledd åsrygg. Foto")
-    figcaption Seinare blir Beowulf konge i heimlandet sitt, Gautland
+  figure.col.col6.left-image.mb50
+    img(src="./Beowulf_i_kamp_med_draken.jpg" alt="Kriger med langt skjegg held eit skjold opp som vern mot flammer frå ein drake. Mannen ber eit sverd i den andre handa. Måleri")
+    figcaption Beowulf i kamp med draken. 
 
   p Samfunnet som blir skildra i eposet, legg stor vekt på eigenskapar som ærekjensle og mot. Oppgåva til kongen er å forsvare landet. Derfor treng han menn som gjer krigsteneste for han, og han lønner mennene sine med våpen, rikdommar og land. Krigarane er høgt verdsette i denne typen samfunn. 
 
@@ -40,9 +40,6 @@ PageBook(:showAuthor="false")
 
 
   h3 Heltedikt
-  figure.col.col6.right-image
-    img(src="./Beowulf_i_kamp_med_draken.jpg" alt="Kriger med langt skjegg held eit skjold opp som vern mot flammer frå ein drake. Mannen ber eit sverd i den andre handa. Måleri")
-    figcaption Beowulf i kamp med draken. Til høgre gravhaugen i Skalunda i Götaland der Beowulf skal vere hauglagd.
   p Alle stammar og nasjonar har segner og mytar som stadfestar kven dei er, kvar dei kjem frå, og formidlar tenkjemåtar og verdiar som er viktige for dei.
 
   p Dikta som byggjer på slike segner og mytar frå ei heroisk fortid, kallar vi heltedikt.
@@ -60,7 +57,7 @@ PageBook(:showAuthor="false")
   p Dei mest kjende europeiske heltedikta i tillegg til ”Beowulf” er det franske ”Rolandskvadet” frå 1000-talet, det spanske heltediktet om El Cid, som blei skapt rundt 1140, og ”Nibelungen-eposet” frå tidleg på 1200-talet.
 
   figure
-    img(src="./Beowulf_Heltedikt.jpg" alt="Mann med hjelm ber ein gamal mann. To kvinner ser på med eit fortvila uttrykk. Foto")
+    img(src="./Beowulf_Enes-som-flykter-fra-Troja.jpg" alt="Mann med hjelm ber ein gamal mann. To kvinner ser på med eit fortvila uttrykk. Foto")
     figcaption Eposet handlar om helten Æneas som flyktar frå Troja og seinare blir stamfar til romarane.
 
 

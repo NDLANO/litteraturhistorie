@@ -17,6 +17,62 @@ PageBook
     source="media/books/falkberget/Johan_Falkberget.mp3"
     description="Johan Falkberget om arbeidet i gruva som barn. Foto: NTB / Scanpix"
   )
+    blockquote
+      strong MANN:	
+      | Hvor gammel var De egentlig, Dr. Falkberget, da De begynte å arbeide ved gruvene? 
+      br
+      br
+      strong FALKBERGET:	
+      | De fleste av oss, bergmannssønner var vi, i 8–9-årsalderen. 
+      br
+      br
+      strong MANN:	
+      | Og hvilket arbeid hadde så guttene ved gruva? 
+      br
+      br
+      strong FALKBERGET:	
+      | Vi måtte vaske kobbermalmen ut av gråberget. Det var litt slitsomt arbeid, det. Vi måtte ... stod under røyk, med kald vannsprut hele tiden. Arbeidet ni timer i døgnet. [utydelig 0:00:35] annenhver uke ut klokken tre om morgenen. 
+      br
+      br
+      strong MANN:	
+      | Men hva gjorde dere i de korte fristundene oppe ved gruvene? 
+      br
+      br
+      strong FALKBERGET:	
+      | Sov og sloss. 
+      br
+      br
+      strong MANN:	
+      | Hvordan artet egentlig arbeidslivet seg ved en gruve på den tid? 
+      br
+      br
+      strong FALKBERGET:	
+      | Det er jo en lang og dyster historie. Det er vanskelig å si det i noen få ord. Det var hardt arbeid. Vi visste jo ikke om noe annet. Og fant oss i det. 
+      br
+      br
+      strong MANN:	
+      | Det var vel et meget interessant miljø oppe ved gruvene – det kom vel folk fra nær sagt alle verdenshjørner? 
+      br
+      br
+      strong FALKBERGET:	
+      | Ja, vi lærte i grunnen å snakke norsk og svensk og tysk samtidig. Og ett og annet odiøst finsk ord også. 
+      br
+      br
+      strong MANN:	
+      | Hvor kom de faglærte bergmennene egentlig fra? 
+      br
+      br
+      strong FALKBERGET:	
+      | De kom fra Sokn. 
+      br
+      br
+      strong MANN:	
+      | Og en del kom kanskje fra Sverige? 
+      br
+      br
+      strong FALKBERGET:	
+      | Nåja, de senere betjentene fikk vel sin akademiske utdannelse i Falun.
+
 
   h3 Historieforteljaren 
 
@@ -107,7 +163,7 @@ PageBook
   h3 Avismann, redaktør og politikar
   
   figure.col.col12
-   img(src='./Falkberget_Avismann_redaktør_og_politiker.jpg' alt='Eldre mann sit med ei pipe i munnen framfor eit bord med stablar av bøker. Foto')
+   img(src='./Bor-Borson-Jr_Falkberget-pa-kontoret.jpg' alt='Eldre mann sit med ei pipe i munnen framfor eit bord med stablar av bøker. Foto')
    figcaption Johan Falkberget på kontoret i 1962. Foto: Sverre A. Børretzen / Aktuell / Scanpix
 
   p Falkberget skreiv mykje gjennom eit langt liv, og han sa sjølv på sine eldre dagar at han hadde produsert meir som journalist enn som skjønnlitterær forfattar.

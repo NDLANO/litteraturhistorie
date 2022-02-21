@@ -1,6 +1,6 @@
 <template lang="pug">
 PageBook
-
+  br
   figure.col.col4.right-image
     img(src="./Dorothe_Engelbretsdotter_Taare-Offer.jpg" alt="Gammelt tittelblad med gotisk skrift. Foto")
     figcaption Omslag fra førsteutgaven av 
@@ -56,7 +56,36 @@ PageBook
   NdlaAudio(
     source="media/books/dorothe/julesalme_D_Engelbretsdatter_nrk.mp3"
     description="Julesalme"
-  )  
+  )
+    blockquote
+      strong Dorothe Engelbretsdatter: En julesang 
+      br
+
+      p
+        | På jorden fred og glede 
+        br
+        | må vi med jubel kvede, 
+        br
+        | o salig julenatt. 
+        br
+        | Nu er oss født og båren 
+        br
+        | den Jesse rot utkåren 
+        br
+        | og rette himmelskatt.  
+
+      p
+        | Velkommen frelser milde, 
+        br
+        | velkommen Jesu lille, 
+        br
+        | ah, vær velkommen hit. 
+        br
+        | Fryd deg, du Zions dronning, 
+        br
+        | se, nu er ærens konning 
+        br
+        | født i en salig tid. 
 
   h3 Dorothe Engelbretsdotter i samtida
   p Dorothe var den første kjente kvinnelige dikteren i Norge. På 1600-tallet var det ennå nokså uhørt at en kvinne skulle være dikter. Dette var noe menn drev med, var den vanlige oppfatningen. Men Dorothe nøt stor respekt i samtida, og samtidige forfattere som Petter Dass og Thomas Kingo satte stor pris på diktningen hennes.

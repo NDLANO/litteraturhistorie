@@ -1,7 +1,7 @@
 <template lang="pug">
 PageBook(:showAuthor="false")
   .mt40
-  img.col.col6.right-image.mt5(src="./Vinjeboka_Vinjeboka.jpg" alt="To hender holder en åpen bok. I boka er håndskrevet tekst og tegning av et sverd. Foto")
+  img.col.col6.right-image.mt5(src="./Vinjeboka_Første-bilde-av-noen-som-blar-I-boka.jpg" alt="To hender holder en åpen bok. I boka er håndskrevet tekst og tegning av et sverd. Foto")
   
   p 
     em Vinjeboka 
@@ -13,7 +13,8 @@ PageBook(:showAuthor="false")
 
   figure.col.col6.right-image
     img(src="./Vinjeboka_Svarteboker.jpg" alt="Håndskrevet dokument med ulike skrifttegn og symboler. Foto")
-    figcaption Symbol frå Sefer Raziel HaMalakh
+    figcaption Symbol fra 
+      em Sefer Raziel HaMalakh
 
   p Ei 
     em svartebok 
@@ -53,7 +54,7 @@ PageBook(:showAuthor="false")
 
   figure.col.col6.right-image.mt5
     img(src="./Vinjeboka_Svartebok_fra_Jeloya.jpg" alt="Håndskrevet dokument som angir ulike steder og årstall. Foto")
-    figcaption Tittelblad på ei svartebok fra Jeløya fra slutten av 1700-talet. Tittelen begynner med «Siprianus Kunste Bog».
+    figcaption Tittelblad på ei svartebok fra Jeløya fra slutten av 1700-tallet. Tittelen begynner med «Siprianus Kunste Bog».
 
   p De eldste svartebøkene blir ofte omtalt som 6. og 7. Mosebok. ­Etter folketroen skal disse bøkene være en hemmelig del av den jødisk-kristne bibelen og fortelle om de trolldomskunstene Moses lærte hos egypterne.
 

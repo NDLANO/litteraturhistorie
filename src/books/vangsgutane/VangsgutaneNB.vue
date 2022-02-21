@@ -43,9 +43,10 @@ PageBook(:showAuthor="false")
   p I 1970-årene skjedde det en endring. Vi fikk flere nye historiske tegneseriealbum som fortalte om hendinger i eldre eller nyere historisk tid, og også mer eksperimentelle tegneseriehefter med sterkere kunstnerisk og litterær profil. I vår tid har tegneseriene ofte en sarkastisk undertone og figurene er forankret i moderne storbyliv, som for eksempel «Olaf G» og «Nemi». 
 
   figure.col.col12
-   img(src='./Vangsgutane_Lise_Myhre.jpg' alt='En kvinne foran bilde av tegneseriestriper. Foto')
+   img(src='./Vangsgutane_Bilde-av-Lise-Myhre.jpg' alt='En kvinne foran bilde av tegneseriestriper. Foto')
    figcaption Lise Myhre tegner serien «Nemi». Foto: Erlend Aas / SCANPIX
 
+  .clear
   h3 «Vangsgutane» 
   p De første tegneseriestripene om Vangsgutane stod å lese i Nynorsk Vekeblad i 1940. Fra 1941 til 1983 ble serien utgitt som julehefte. I nyere tid er serien oversatt til amerikansk under tittelen «The Boys From Vangen». 
 
@@ -57,11 +58,12 @@ PageBook(:showAuthor="false")
 
   p I serien møter vi de to brødrene Steinar og Kåre Vangen fra Todalen på Nordmøre. Det er to snille og prektige bondegutter, i motsetning til den rampete husmannsgutten Larris. Heftet var en slags moralsk kontrast til mer tvilsomme tegneserier som for eksempel «Knoll og Tott». I «Knoll og Tott» ligger sympatien hos dem som driver med rampestreker. I «Vangsgutane» møter vi derimot ansvarsfulle gutter som tar riktige moralske valg og er gode forbilder for andre. 
 
+  figure.col.col6.right-image.mt5
+   img(src='./Vangsgutane_Bilde-av-Vangsgutane-til-høyre-for-Ingeniør-Knut-Berg-på-eventyr.jpg' alt='Gutt sitter på trappa foran en dør med skilt som sier inngang forbudt. Kvinne og gutt med en kalv ser på. Tegning')
+   figcaption «Vangsgutane». Illustratør: Jens R. Nilssen Foto: Jens R. Nilssen
+
   p En moderne leser vil nok ha etiske motforestillinger når husmannsgutten Larris konsekvent blir framstilt som dum og stygg, mens Steinar og Kåre, de to guttene på bondegarden, alltid er heltene. I 1930- og 1940-årene var det mer akseptert og vanlig å knytte moralske egenskaper til etniske og sosiale grupper enn det er i dag. 
 
-  figure.col.col6.right-image.mt5
-   img(src='./Vangsgutane_2.jpg' alt='Gutt sitter på trappa foran en dør med skilt som sier inngang forbudt. Kvinne og gutt med en kalv ser på. Tegning')
-   figcaption «Vangsgutane». Illustratør: Jens R. Nilssen Foto: Jens R. Nilssen
    
   h3 «Ingeniør Knut Berg på eventyr» 
   p En annen svært populær tegneserie på denne tida var fortellingen om ingeniør Knut Berg. Seriestripene ble trykt i Nynorsk Vekeblad i 1941 under tittelen «Knut Berg på eventyr i Austerland» og utkom seinere som eget hefte. Serien har form av en sciencefictionfortelling.

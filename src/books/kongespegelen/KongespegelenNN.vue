@@ -1,10 +1,12 @@
 <template lang="pug">
 PageBook(:showAuthor="false")
-
+  br
   img.col.col6.right-image.mt20(src="./Kongespegelen_utklipp.jpg" alt="Gamalt handskrive dokument med tekst i to spaltar. Foto")
   p Til den høviske litteraturen høyrer også Kongsspegelen, ei lærebok i høvisk framferd. Å vere høvisk vil seie å gå fram på ein edel og moralsk måte. Boka er utforma som ein dialog mellom far og son. Sonen stiller spørsmål til faren, og faren gir råd om korleis ein ung mann skal te seg, anten han er kjøpmann, riddar eller konge. Forfattaren av Kongsspegelen er ukjend, men han viser stor kunnskap om det han skriv om.
 
-  p Kongsspegelen høyrer til det aller siste frå perioden norrøn litteratur, og er truleg nedskriven rundt 1250. Boka er ei lærebok, og tittelen seier litt om kven boka var tiltenkt. Truleg er ho skriven for sønene til kong Håkon Håkonsson.
+  p 
+    em Kongsspegelen 
+    | høyrer til det aller siste frå perioden norrøn litteratur, og er truleg nedskriven rundt 1250. Boka er ei lærebok, og tittelen seier litt om kven boka var tiltenkt. Truleg er ho skriven for sønene til kong Håkon Håkonsson.
 
   h3 Høvisk litteratur
   figure.col.col6.right-image

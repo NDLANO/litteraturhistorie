@@ -27,10 +27,8 @@ PageBook
     em Forraadt 
     | frå 1892. Her møter vi den sytten år gamle Ory som blir gift bort til ein sjøkaptein som er femten år eldre. Uvitande om det meste som har med ekteskap og samliv å gjere, blir Ory plassert om bord på ei seglskute med ektemann og mannskap på veg til England. Det endar tragisk også her. 
 
-  NdlaVideo(
-    source="media/video/skram/Amalie-Skram.mp4"
-    captionsUrl="media/video/skram/Amalie-Skram.nb-no.vtt"
-  )
+  NrkVideo(id="3702")
+
   p Amalie Skram kritiserer dobbelmoralen i den borgarlege oppsedinga og viser kva dei store skilnadene mellom menn og kvinner fører til. Det er ikkje berre ungjenta Ory som blir forrådd, men like mykje mannen ho blir gift bort til. Begge er underlagde det miljøet dei voks opp i, og dei normene som er rådande i samfunnet.
 
   h3 «Karens jul» 
@@ -99,6 +97,7 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
@@ -106,6 +105,7 @@ export default {
     NdlaAudio,
     NdlaVideo,
     PageBook,
+    NrkVideo,
   },
 };
 </script>

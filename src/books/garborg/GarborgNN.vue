@@ -54,11 +54,13 @@ PageBook
     em Albertine
     | , der hovudpersonen er ei fattig jente som endar opp som prostituert. Boka til Krohg vart stoppa og beslaglagd, og Krohg vart dømd for usedeleg verksemd. Mannfolk vart ikkje stoppa, men reaksjonane var kraftige frå både politisk og kulturelt hald, og Garborg miste jobben som statsrevisor året etter på grunn av boka og debattinnlegga sine.
 
-  .flex.flex-justify-center
-    figure.col.col8
-      img(src='./Garborg_Mannfolk.jpg' alt='Mange kvinner står inne i eit rom. Ein politimann sperrar ei dør til eit anna rom. Måleri')
-      figcaption Chr. Krohg: «Albertine i politilægens venteværelse»
+  figure.col.col12
+    img(src='./Mannfolk_Albertine-i--politilegens-venteverelse.jpg' alt='Mange kvinner står inne i eit rom. Ein politimann sperrar ei dør til eit anna rom. Måleri')
+    figcaption Christian Krohg: 
+      em Albertine i politilægens venteværelse 
+      | (1887) 
 
+  .clear
   h3.mt40 Trætte Mænd – ein dekadanseroman
   p Rundt 1890 hadde Garborg fått eit forfattarnamn utanfor Noreg, og i Tyskland var han ein periode den mest lesne av alle nordiske forfattarane. Romanen 
     em Trætte Mænd 
@@ -101,7 +103,93 @@ PageBook
     source="media/books/garborg/Garborg_haugtussa_Maaneskinsmoyane_Nils_Erik.mp3"
     description="Måneskinsmøyane"
   )
-  
+    blockquote
+      strong Arne Garborg: Måneskinsmøyane 
+      br
+
+      p
+        | Jordi søv i sitt vinterlin. 
+        br
+        | Bjørki den unge, rimkvit og fin,  
+        br
+        | stend som i sylvet skori, 
+        br
+        | eller som bygd av stjerneskin. 
+
+      p
+        | Jordi søv i sin vinterblund. 
+        br
+        | Månen lyser på himmelrund. 
+        br
+        | Tusen av diamantar  
+        br
+        | glimar om grein i den frosne lund. 
+
+      p
+        | Bråkveikt blenkjande, strålerein 
+        br
+        | bivrar den glitring om kvist og grein. 
+        br
+        | Det er liksom lunden levde, 
+        br
+        | strådd med perler og glimestein. 
+
+      p
+        | Stirande inn i den sylvblå glans 
+        br
+        | Veslemøy stend utan hugs og sans; 
+        br
+        | då ser ho med ein gong møyar, 
+        br
+        | kvite møyar som gjeng i dans. 
+
+      p
+        | Kvite møyar som gjeng i ring; 
+        br
+        | stille sviv dei i steg og sving. 
+        br
+        | Det er som ein dans i draumar 
+        br
+        | til takt av stillsleg sylvklokke-kling.  
+
+      p
+        | Bygde er dei av lufti blå; 
+        br
+        | kjolar av måneflor hev dei på, 
+        br
+        | sauma med stjerneglitter, 
+        br
+        | løynande lett dei barmar små. 
+
+      p
+        | Håret flyt i vallande flaum 
+        br
+        | ned over rygg som ein sylvgrå straum. 
+        br
+        | Over dei bleike vangar 
+        br
+        | stjerne-augo i stille draum. 
+
+      p
+        | Aldri såg dei den varme dag; 
+        br
+        | stilt det er i det ungdomslag. 
+        br
+        | Stivt dei i dansen smiler. 
+        br
+        | Kalde søv desse andlets-drag. 
+      
+
+      p
+        | Lenge trylt må Veslemøy stå, 
+        br
+        | drøymd den dansen stirande på. 
+        br
+        | Då nikkar dei som til helsing, 
+        br
+        | og kverv i luft som ein frostrøyk grå.  
+        br
+
   h3 Journalisten Garborg
 
   figure.col.col6.right-image

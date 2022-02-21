@@ -3,14 +3,16 @@ PageBook
   p Johan Herman Wessel (1742–1785) kom fra Vestby i Akershus. Han var prestesønn og gikk på latinskole i Oslo. Nitten år gammel reiste han til København for å studere videre på universitetet, men han var ingen flittig student og tok aldri noen eksamen. Derimot var han aktiv i Norske Selskab, en litterær og patriotisk klubb for nordmenn i København. Her var han i godt selskap med Johan Nordahl Brun, Johan Vibe, Jens Zetlitz og flere andre som skrev dikt og annen skjønnlitteratur. 
 
   figure.col.col12
-   img(src='./Wessel_Huset_i_Vestby.jpg' alt='Et rødmalt hus med hvit dør omgitt av trær. Foto')
+   img(src='./Wessels-skrifter_Huset-hvor-Wessel-ble-fodt.jpg' alt='Et rødmalt hus med hvit dør omgitt av trær. Foto')
    figcaption Huset i Vestby i Akershus der Johan Herman Wessel ble født
   
   h3.mt40 Kierlighed uden Strømper 
 
   figure.col.col4.right-image
    img(src='./Wessel_Kierlighed_uden_Strømper.jpg' alt='Tittelblad med trykt gotisk skrift. Foto')
-   figcaption Titelbladet på den første utgaven av Kierlighed uden Strømper fra 1772
+   figcaption Tittelbladet på den første utgaven av 
+    em Kierlighed uden Strømper 
+    | fra 1772 
 
   p Wessel er berømt for de elegante versene og de komiske fortellingene sine. Blant annet skrev han en parodi på de franske klassisistiske tragediene: 
     em Kierlighed uden Strømper
@@ -21,9 +23,11 @@ PageBook
   h3 Andre skrifter av Wessel 
   p Wessel skrev flere teaterstykker, men ingen av dem ble noen suksess. Derimot utgav han en rekke humoristiske fortellinger på verseform som ble populære, for eksempel «Herremanden», «Hundemordet», «Mosters Pølser», «Gaffelen» og «Smeden og Bageren». Også småversene og improvisasjonene hans ble raskt allemannseie. 
 
-  figure.col.col6.left-image.mt5
-   img(src='./Wessel_En_aften_i_Det_norske_Selskab.jpg' alt='En gruppe menn sitter rundt et bord. De holder vinglass i hendene. Maleri')
-   figcaption Detalj frå «En aften i Det norske Selskab» av Eilif Peterssen. Mannen med glaset er Wessel.
+  figure.col.col12
+   img(src='./Wessels-skrifter_Detalj-fra-En-aften-i-Det-norske-selskap.jpg' alt='En gruppe menn sitter rundt et bord. De holder vinglass i hendene. Maleri')
+   figcaption Detalj fra 
+    em En aften i Det norske Selskab 
+    | av Eilif Peterssen. Mannen med glasset er Wessel.
 
   p En av grunnene til at Wessel er blitt stående i ettertid, er at han var slagferdig og humoristisk. Han deklamerte egne tekster i Norske Selskab og var en mester i å improvisere, til stor begeistring for alle. 
 

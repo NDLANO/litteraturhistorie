@@ -14,6 +14,32 @@ Her ligger `PageBook` som eneste komponent i roten. Skal man lage en ny periode 
 
 Alt innholdet legges en `tab` inn (og erstatter `p Bokmålsinnhold plasseres her`).
 
+## ImageTextBlock
+
+Plasserer et bilde til venstre og tekst til høyre.
+
+![ImageTextBlock eksempel](./ImageTextBlock.JPG)
+
+Parametre:
+`image`: Filnavn relativt til lokasjonen til filen den brukes i. Ligger innholdsfil og bilde i samme folder kan image f.eks. bli `./mitt-bilde.jpg`.
+
+`imageColumns`: Hvor mange kolonner (av 12) bildet skal ta. Standard er 4. Ikke nødvendig.
+
+`imageCaption`: Bildetekst. Ikke nødvendig. NB! Man kan også bruke slots til bildetekst (se forklaring under).
+
+`altText`: Alt-tekst til bildet. Ikke nødvendig, men påkrevd hvis man skal følge reglene for universell utforming.
+
+Teksten som kommer til høyre legges inn i selve taggen. I PUG-koden vil det si at den må ha et innrykk i forhold til `ImageTextBlox`. Eksempel:
+![ImageTextBlock bruk](./ImageTextBlock_eksempel1.JPG)
+
+Må man bruke HTML i bildeteksten, for eksempel for å få kursiv i tittelen som i bildet av Tor over, må man legge teksten i en såkalt "slot" i steden for å bruke `imageCaption`. Dette gjør man ved å legge bildeteksten i følgende tag: `template(slot:caption)`.
+
+Eksempel:
+
+![ImageTextBlock Caption med slot](./ImageTextBlock_eksempel2.JPG)
+
+For å bruke komponenten må den legges til siden hvor man vil bruke den. Se seksjonen for **NrkVideo** under for hvordan dette gjøres, men erstatt `NrkVideo` med `ImageTextBlock`;
+
 ## NdlaAudio
 
 Komponenten brukes for å spille av lydfiler. Basert på [Plyr](https://plyr.io/) open source media player.
@@ -24,7 +50,13 @@ Den har to parametre:
 
 `description` - En tekst som vises under lydfilen.
 
-Komponenten har også en slot som kan brukes til å legge inn mer tekst. Hvis det legges noe i slotten vil playeren få en knapp "Vis tekst". Ved å trykke på denne kan brukeren få opp innholdet i slotten.
+Komponenten har også to slots som kan brukes til å legge inn henholdssvis mer tekst og description med HTML.
+
+Default slot brukes primært til å legge inn tekstversjon av det som sies i lydfilen. Hvis det legges noe i slotten vil playeren få en knapp "Vis tekst". Ved å trykke på denne kan brukeren få opp innholdet i slotten.
+
+Man kan også legge inn description ved å bruke `template(slot:description)` taggen. Dette kan f.eks. brukes til å legge inn en lenke i beskrivelsen av lydfilen. Hvis det både er lagt inn description som parameter og slot er det parameteret som vil vises.
+
+NB! Legger man inn bildetekst både som imageCaption og slot så vil det være imageCaption teksten som blir vist.
 
 **Eksempel på bruk**
 

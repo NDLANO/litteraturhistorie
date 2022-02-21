@@ -2,7 +2,7 @@
 PageBook
   h3 Heimstaddikting
   
-  img.col.col6.right-image.mt5(src='./Loeland_heimstaddikning.jpg' alt='Ei lysning i skogen. I bakgrunnen skogkledde åsar og eit vatn. Foto')
+  img.col.col6.right-image.mt5(src='./Første-maleri_Kvitebjørnen.jpg' alt='Ei lysning i skogen. I bakgrunnen skogkledde åsar og eit vatn. Foto')
 
   p Tida kring hundreårsskiftet var prega av motstridande tankestraumar. På den eine sida skapte den teknologiske utviklinga ei forventning om nye og betre tider. Mange flytte frå landet til byane for å få seg arbeid i ulike bedrifter og fabrikkar. På den andre sida sakna folk levesettet i bondesamfunnet som dei kom frå. Dei frykta at samfunnet slik dei kjende det, ville gå tapt, og dei lengta heim.
 
@@ -29,7 +29,6 @@ PageBook
 
   h3 Kvitebjørnen
   
-  img.col.col6.left-image.mt5(src='./Loeland_Kvitebjoernen.jpg' alt='Kulturlandskap med beitande sauar. I bakgrunnen skogkledde fjellsider. Foto')
   p 
     | Barneboka 
     a(href="https://www.nb.no/items/90132b3343b4529f708162de4f888c4e?page=7&searchText=kvitebj%C3%B8rnen" target="_blank") 

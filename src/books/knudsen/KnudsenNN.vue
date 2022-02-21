@@ -12,7 +12,7 @@ PageBook
 
   figure.col.col4.left-image.mt5
    img(src='./Knudsen_Hesthagen_i_Holt.jpg' alt='Eit lite raudmalt hus omgitt av løvskog, i forgrunnen eit enkelt gjerde. Foto')
-   figcaption I dette huset frå husmannsplassen Hesthagen i Holt i Tvedestrand voks Knud Knudsen opp
+   figcaption I dette huset frå husmanns&shy;plassen Hesthagen i Holt i Tvedestrand voks Knud Knudsen opp.
   p Som lærar og pedagog såg Knud Knudsen kor viktig det var for elevane å få eit skriftspråk som var betre tilpassa til norsk daglegtale enn det danske skriftspråket dei måtte lære seg.
 
   p I tillegg var Knudsen ein pådrivar i arbeidet med å utvikle latinskulen til ein meir allmenndannande skule. Knudsen meinte at dei klassiske språkfaga latin og gresk hadde ein altfor dominerande plass i den høgare allmennskulen. Han ønskte at denne skuletypen skulle vere noko meir enn eit forstadium til universitetet. Etter hans syn burde modersmålsfaget stå sentralt, med vekt på norsk språk, litteratur og kultur. På dette området fekk han tidleg gjennomslag for ideane sine. Alt i 1857 vart latinstilen avskaffa til studenteksamen, og i 1869 vart realartium innført som eit alternativ til latinlinja. 
