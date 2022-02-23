@@ -21,7 +21,8 @@ li.sectionList_item
           .circleEra_date.from-to(v-if="timeLabel === ''") {{ from }}-{{ to }}
           h2.circleEra_title {{ title }}
           button.btnEra(:id="id"
-            @keyup.enter="onEraEnterKey"
+            @keydown.enter="onEraEnterKeyDown"
+            @keyup.enter="onEraEnterKeyUp"
             @pointerdown="onPointerDown"
             @pointerup="onEraPointerUp"
           ) {{ $t("general.periodTimelineButton")}}                  
@@ -145,6 +146,8 @@ export default {
       authorRowHeight: 45,
       mouseX: 0,
       mouseY: 0,
+      eraPointerDown: false,
+      eraEnterKeyDown: false,
     };
   },
   inject: ["globalVars"],
@@ -189,6 +192,7 @@ export default {
 
       this.mouseX = event.clientX;
       this.mouseY = event.clientY;
+      this.eraPointerDown = true;
     },
     onAuthorPointerUp(author, event) {
       if (this.mouseX === event.clientX && this.mouseY === event.clientY) {
@@ -201,6 +205,9 @@ export default {
       }
     },
     onEraPointerUp(event) {
+      if (!this.eraPointerDown) return; // * if down was not registered inside button, do not do anything on up
+
+      this.eraPointerDown = false;
       this.$emit("buttonClick");
       if (this.mouseX === event.clientX && this.mouseY === event.clientY) {
         console.log("TimelineSection.onEraPointerUp: both x and y is the same");
@@ -210,7 +217,13 @@ export default {
         console.log("TimelineSection.onEraPointerUp: mouse has moved");
       }
     },
-    onEraEnterKey(event) {
+    onEraEnterKeyDown(event) {
+      this.eraEnterKeyDown = true;
+    },
+    onEraEnterKeyUp(event) {
+      if (!this.eraEnterKeyDown) return; // * if enter down was not registered inside button, do not do anything on up
+
+      this.eraEnterKeyDown = false;
       const route = `/${this.globalVars.langCode}/periods/${this.id}`;
       this.$router.push(route);
     },
