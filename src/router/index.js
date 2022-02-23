@@ -26,12 +26,12 @@ const routes = [
     component: Timeline,
   },
   {
-    path: "/Opphavsrett/nb/",
+    path: "/nb/Opphavsrett/",
     name: "CopyrightNB",
     component: CopyrightNB,
   },
   {
-    path: "/Opphavsrett/nn/",
+    path: "/nn/Opphavsrett/",
     name: "CopyrightNN",
     component: CopyrightNN,
   },

@@ -1,5 +1,5 @@
 <template>
-  <router-link :to="`/Opphavsrett/${globalVars.langCode}`" class="buttonCC">
+  <router-link :to="`/${globalVars.langCode}/Opphavsrett/`" class="buttonCC">
     <svg
       version="1.0"
       id="Layer_1"
