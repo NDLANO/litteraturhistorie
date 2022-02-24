@@ -93,7 +93,7 @@ PageBook
 
   figure.col.col6.right-image.mt5
     img(src='./kjarstad_Erobreren1.jpg' alt='Tre unge menn i en gruppe. To av dem holder en stabel med bøker. Foto')
-    figcaption "Skuespilleren Jakob Oftebro som Jonas Wergeland under opptakene til tv-serien «Erobreren». Foto: Trond Solberg/VG / Scanpix"
+    figcaption Skuespilleren Jakob Oftebro som Jonas Wergeland under opptakene til tv-serien «Erobreren». Foto: Trond Solberg/VG / Scanpix
     
   p I 
     em Forføreren 
