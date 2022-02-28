@@ -35,8 +35,9 @@
 
   // * MAIN CONTENT
   div.lo_sectionList-wrapper(ref="lo_sectionList")
-    ButtonCC
     main.lo_sectionList
+    
+      ButtonCC
       .lo_sectionsIntroPage
         //.startInstructions
           NdlaLogo(style="width: 84px")

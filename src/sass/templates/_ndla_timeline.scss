@@ -320,11 +320,11 @@ blockquote {
   display: block;
   width: 2rem;
   height: 2rem;
-  margin: 4.25rem 1rem -6.25rem 1rem;
-  position: absolute;
-  z-index: 1;
+  margin: 1rem 1rem -6.25rem 1rem;
+  z-index: 2;
   fill: $dark-grey;
   border-radius: 50%;
+  position:absolute;
 
   &:hover {
     fill: $main-color;
