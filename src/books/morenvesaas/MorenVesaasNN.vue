@@ -31,7 +31,7 @@ PageBook
    img(src='./MorenVesaas_Grind.jpg' alt='')
    figcaption Foto: Rolf Chr. Ulrichsen / Aftenposten / Scanpix
 
-  h5.mt20 Grind
+  h5.mt20 Ord over grind
   blockquote
     | Du går fram til mi inste grind, 
     br

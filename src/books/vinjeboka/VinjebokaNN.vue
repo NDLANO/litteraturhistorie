@@ -68,15 +68,16 @@ PageBook
     | finn vi den kjende satorrotas-formelen, som også blir kalla «Satans fem linjer»:
 
   p
-    S A T O R
+    | S A T O R
     br
-    A R E P O
+    | A R E P O
     br
-    T E N E T
+    | T E N E T
     br
-    O P E R A
+    | O P E R A
     br
-    R O T A S
+    | R O T A S
+    br
 
   p Formelen er eit 
     em palindrom

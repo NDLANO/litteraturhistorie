@@ -89,8 +89,9 @@ PageBook(:showAuthor="false")
   .clear
 
   h3 Opphav
-  img.col.col12(src="./Draumkvedet_Maleri-av-jente-med-lur.jpg" alt="Kvinne står i ei lysning i skogen og blåser på ein lur. Illustrasjon")
-  p Det er Jørgen Moe og Magnus B. Landstad som i 1840-åra gjer dei første nedskrivingane av «Draumkvedet».
+  figure.col.col12
+    img.col.col12(src="./Draumkvedet_Maleri-av-jente-med-lur.jpg" alt="Kvinne står i ei lysning i skogen og blåser på ein lur. Illustrasjon")
+    figcaption Det er Jørgen Moe og Magnus B. Landstad som i 1840-åra gjer dei første nedskrivingane av «Draumkvedet».
 
   p Det finst over hundre nedskrivingar av «Draumkvedet», og alle er funne i Telemark. Somme av dei er berre små brotstykke, og ingen av dei er heilt fullstendige. Dessutan skil dei seg til dels sterkt frå kvarandre. Den viktigaste nedskrivinga er etter Maren Ramskeid frå Bronkeberg.
 

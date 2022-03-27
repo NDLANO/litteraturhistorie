@@ -30,7 +30,7 @@ PagePeriod(
 
   figure.col.col5.right-image
     img(src="./Realisme_Tida_og_samfunnsforholdene2.jpg" alt="Dampskip i eit hamneområde. Illustrasjon.")
-    figcaption «Constitutionen», det første dampskipet i Norge, på hamna i Arendal
+    figcaption «Constitutionen», det første dampskipet i Noreg, på hamna i Arendal
 
   h5 Industrialisering: 
   ul
@@ -153,9 +153,7 @@ PagePeriod(
 
   .mt40
     img.col.col4.left-image(src="./Realisme_Fra_romantikk_til_realisme2.jpg" alt="Portrettbilete av mann med sort bustete hår og sløyfe. Foto.")
-  p
-    strong Eilert Sundt (1817–1875)
-    | var den første samfunnsforskaren i Noreg. I 1850-åra reiste han rundt i bygd og by for å sjå korleis folk levde. Deretter skreiv han rapportar om ”Sædelighedstilstanden i Norge”, ”Ædruelighedstilstanden i Norge” og ”Renslighedsstellet i Norge”. Her viser han fram eit heller skrøpeleg og lite romantisk bilete av situasjonen. Avsløringane til Eilert Sundt stod derfor i kontrast til det glansbiletet av Noreg som dei romantiske og nasjonalromantiske diktarane hadde teikna. 
+  p <strong>Eilert Sundt (1817–1875)</strong> var den første samfunnsforskaren i Noreg. I 1850-åra reiste han rundt i bygd og by for å sjå korleis folk levde. Deretter skreiv han rapportar om ”Sædelighedstilstanden i Norge”, ”Ædruelighedstilstanden i Norge” og ”Renslighedsstellet i Norge”. Her viser han fram eit heller skrøpeleg og lite romantisk bilete av situasjonen. Avsløringane til Eilert Sundt stod derfor i kontrast til det glansbiletet av Noreg som dei romantiske og nasjonalromantiske diktarane hadde teikna. 
 
   p Noreg ligg i utkanten av Europa, og det tok derfor litt tid før dei nye modernitetstankane nådde oss. Men dei nye ideane, og avsløringane til Eilert Sundt om korleis det verkeleg stod til rundt om i landet, fekk fleire av dei nye forfattarane til å sjå behovet for ein meir realistisk litteratur. 
 
@@ -172,9 +170,7 @@ PagePeriod(
   p Av aktive forfattarar i 1850- og 1860-åra nemner vi Aasmund Olavsson Vinje, Camilla Collett, Henrik Ibsen og Bjørnstjerne Bjørnson. 
 
   img.col.col4.left-image(src="./Realisme_Fra_romantikk_til_realisme3.jpg" alt="Portrettbilete av mann med skjegg. Foto.")
-  p
-    strong Aasmund Olavsson Vinje (1818–1870)
-    | kom frå enkle kår, men var ein sentral norsk folkeopplysar. Etter fleire år som omgangsskulelærar og sjølvlært student reiste han til Kristiania for å studere jus. Han tok juridisk embetseksamen 38 år gammal, men vart aldri jurist. I staden vart Vinje avismann og forfattar. Frå 1858 gav han ut bladet Dølen. Her skreiv han kritisk og ironisk om det som rørte seg i tida. 
+  p <strong> Aasmund Olavsson Vinje (1818–1870)</strong> kom frå enkle kår, men var ein sentral norsk folkeopplysar. Etter fleire år som omgangsskulelærar og sjølvlært student reiste han til Kristiania for å studere jus. Han tok juridisk embetseksamen 38 år gammal, men vart aldri jurist. I staden vart Vinje avismann og forfattar. Frå 1858 gav han ut bladet Dølen. Her skreiv han kritisk og ironisk om det som rørte seg i tida. 
 
   p Hovudverket hans er 
     em Ferdaminni frå Sumaren 1860
@@ -183,9 +179,7 @@ PagePeriod(
     | inneheld artiklar om mellom anna seterdrift og jordbruk, og skildringar av folk han møter på reisa. Vinje er kritisk til mykje av det gamle og skriv med entusiasme om det nye industrisamfunnet som er i ferd med å vekse fram. Vinje er derfor ein talsmann for det teknologiske framsteget i Noreg. 
 
   img.col.col4.left-image(src="./Realisme_Fra_romantikk_til_realisme4.jpg" alt="Portrettbilete av kvinne med kjole. Måleri.")
-  p 
-    strong Camilla Collett (1813–1895)
-    | var ei nybrotskvinne både innanfor litteratur og samfunnsdebatt. Hovudverket hennar, 
+  p <strong>Camilla Collett (1813–1895)</strong> var ei nybrotskvinne både innanfor litteratur og samfunnsdebatt. Hovudverket hennar, 
     em Amtmandens Døttre 
     | (1855), kom ut anonymt. Å vere kvinneleg forfattar var nemleg heilt uvanleg på midten av 1800-talet. Her braut Collett med kvinneidealet i datida. 
     em Amtmandens Døttre 
@@ -201,9 +195,7 @@ PagePeriod(
 
   p
     strong Henrik Ibsen (1828–1906) 
-    | og 
-    strong Bjørnstjerne Bjørnson (1832–1910)
-    | var på veg mot realismen i 1850- og 1860-åra. Tidleg i denne perioden skreiv dei begge tekstar med utgangspunkt i norsk historie, dei var påverka av nasjonalromantikken og sogelitteraturen. Men mot slutten av perioden vart dei begge farga av dei nye tankane i tida. 
+    | og <strong> Bjørnstjerne Bjørnson (1832–1910)</strong> var på veg mot realismen i 1850- og 1860-åra. Tidleg i denne perioden skreiv dei begge tekstar med utgangspunkt i norsk historie, dei var påverka av nasjonalromantikken og sogelitteraturen. Men mot slutten av perioden vart dei begge farga av dei nye tankane i tida. 
 
   p Ibsen gav ut skodespela 
     em Brand 
@@ -261,9 +253,7 @@ PagePeriod(
   figure.col.col4.left-image
     img(src="./Realisme_De_fire_store_Ibsen.jpg" alt="Portrettbilete av mann med kvitt hår, langt skinnskjegg, briller og sort dress. Foto.")
     figcaption Henrik Ibsen
-  p
-    strong Henrik Ibsen
-    | er påverka av kravet om å ”setje problema under debatt”. Det gjer han i både 
+  p <strong>Henrik Ibsen</strong> er påverka av kravet om å ”setje problema under debatt”. Det gjer han i både 
     em Samfundets støtter 
     | (1877), 
     em Et Dukkehjem 
@@ -293,9 +283,7 @@ PagePeriod(
         img(src="./Realisme_De_fire_store_Bjoernson.jpg" alt="Portrettbilete av mann med kvitt hår, briller og sort dress. Foto.")
         figcaption Bjørnstjerne Bjørnson
     .col.col8
-      p
-        strong Bjørnstjerne Bjørnson
-        | tek også opp aktuelle tema i tida. I 1875 gir han ut 
+      p <strong>Bjørnstjerne Bjørnson</strong> tek også opp aktuelle tema i tida. I 1875 gir han ut 
         em En Fallit
         | , der han går til åtak på snuskete forretningsmoral. I 
         em Magnhild 
@@ -308,9 +296,7 @@ PagePeriod(
   figure.col.col4.left-image
     img(src="./Realisme_De_fire_store_Kielland.jpg" alt="Portrettbilete av mann med kvitt hår, langt skinnskjegg, briller og sort dress. Foto.")
     figcaption Alexander Kielland
-  p
-    strong Alexander Kielland (1849–1906)
-    | er kanskje den av dei fire som mest konsekvent følgjer kravet til Brandes. Kielland set søkjelyset på dobbelmoral og hykleri i heim og samfunn. Han skriv åtte romanar, tre novellesamlingar og seks skodespel. Dei mest kjende romanane er 
+  p <strong>Alexander Kielland (1849–1906)</strong> er kanskje den av dei fire som mest konsekvent følgjer kravet til Brandes. Kielland set søkjelyset på dobbelmoral og hykleri i heim og samfunn. Han skriv åtte romanar, tre novellesamlingar og seks skodespel. Dei mest kjende romanane er 
     em Garman & Worse 
     | (1880), 
     em Gift 
@@ -323,9 +309,7 @@ PagePeriod(
   figure.col.col4.left-image
     img(src="./Realisme_De_fire_store_Lie.jpg" alt="Portrettbilete av mann med briller og sort hatt på hovudet. Foto.")
     figcaption Jonas Lie
-  p
-    strong Jonas Lie (1833–1908)
-    | er den fjerde av dei kritiske realistane. Han er òg påverka av Brandes, men er ikkje så skarp i pennen som dei tre andre. Lie er romanforfattar, og hovudverket hans er 
+  p <strong>Jonas Lie (1833–1908)</strong> er den fjerde av dei kritiske realistane. Han er òg påverka av Brandes, men er ikkje så skarp i pennen som dei tre andre. Lie er romanforfattar, og hovudverket hans er 
     em Familjen på Gilje 
     | (1883), ei skildring av ein embetsmannsfamilie i eit norsk bygdemiljø. Her set han mellom anna søkjelyset på likestillingsspørsmålet og på manglande rettar for kvinner. I 
     em Livsslaven 
@@ -371,9 +355,7 @@ PagePeriod(
   
   figure.col.col4.left-image
     img.mt10(src="./Realisme_Naturalismen_Skram.jpg" alt="Portrettbilete av ei kvinne med blikket til sida. Foto.")
-  p
-    strong Amalie Skram (1847–1905)
-    | blir rekna som ein reindyrka naturalist. Romanserien 
+  p <strong>Amalie Skram (1847–1905)</strong> blir rekna som ein reindyrka naturalist. Romanserien 
     em Hellemyrsfolket 
     | (1887–1898) er hovudverket hennar og det fremste naturalistiske verket i norsk litteratur. Her skildrar ho ein familie gjennom fleire generasjonar, og ho får fram samanhengen mellom arv, miljø og utvikling. Grunntonen er pessimistisk, og det endar dårleg for familien på Hellemyren. Amalie Skram set søkjelyset på miljøet som formar menneska, og ho vil vise at fattigdom og nød har sine årsaker. 
 
@@ -385,9 +367,7 @@ PagePeriod(
 
   figure.col.col4.left-image
     img(src="./Realisme_Naturalismen_Garborg.jpg" alt="Portrettbilete av mann med kort hår og bart. Foto.")
-  p
-    strong Arne Garborg (1851–1924)
-    | skreiv romanen 
+  p <strong> Arne Garborg (1851–1924)</strong> skreiv romanen 
     em Bondestudentar 
     | i 1883. Her møter vi ein ung student frå landet. Temaet er forholdet mellom by og land, bondekultur mot embetsstand, og vi opplever korleis den unge studenten må gi avkall på forholdet til sin eigen stand. I romanen 
     em Mannfolk 
@@ -411,17 +391,13 @@ PagePeriod(
 
   figure.col.col4.left-image
     img(src="./Realisme_Naturalismen_Jaeger.jpg" alt="Mann i sofa med jakke og hatt. Illustrasjon.")
-  p
-    strong Hans Jæger (1854–1910)
-    | var ein framståande person i denne krinsen av forfattarar, kunstnarar og intellektuelle. Enda han ikkje hadde særleg litterært talent, gav han ut fleire romanar der han tok opp problem knytte til seksualitet og moral. Han rettferdiggjorde ”fri kjærleik” og meinte at det borgarlege ekteskapet og prostitusjonen var to sider av same sak. I begge tilfella levde kvinna eit ufritt liv på mannens premissar. Fra 
+  p <strong> Hans Jæger (1854–1910)</strong> var ein framståande person i denne krinsen av forfattarar, kunstnarar og intellektuelle. Enda han ikkje hadde særleg litterært talent, gav han ut fleire romanar der han tok opp problem knytte til seksualitet og moral. Han rettferdiggjorde ”fri kjærleik” og meinte at det borgarlege ekteskapet og prostitusjonen var to sider av same sak. I begge tilfella levde kvinna eit ufritt liv på mannens premissar. Fra 
     em Kristiania-Bohêmen 
     | (1885) er hovudverket hans. Boka vart forboden, og Jæger måtte i fengsel for umoralsk forfattarverksemd. 
 
   figure.col.col4.left-image
     img(src="./Realisme_Naturalismen_Krohg.jpg" alt="Portrettbilete av en mann med langt skjegg. Foto.")
-  p
-    strong Christian Krohg (1852–1925)
-    | skreiv også ein roman, 
+  p <strong> Christian Krohg (1852–1925)</strong> skreiv også ein roman, 
     em Albertine 
     | (1886), som vart forboden og stempla som usømeleg. Romanen var eit innlegg i debatten om kjønnsmoral og viser korleis ei ung jente blir utnytta og driven ut i prostitusjon. Romanen er eit godt eksempel på samfunnsengasjert tendenslitteratur, og boka mobiliserte til motstand mot prostitusjonen. Som ein konsekvens av debatten som romanen reiste, vart offentleg prostitusjon avskaffa. Christian Krohg er mest kjend som målar, og han brukte også Albertine som motiv på fleire bilete, mellom anna det kjende biletet ”Albertine i politilegens venteværelse”. 
 

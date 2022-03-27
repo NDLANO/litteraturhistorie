@@ -334,8 +334,6 @@ PageBook
     source="media/books/vesaas/Tarjei_Vesaas_-_Bakkane_heime.mp3"    
   )
 
-  a(href='https://www.nb.no/items/f5b6300a509b5f0013a30f7ab4f9dc58?page=63&searchText=Bakkane heime' target='_blank') Bakkane heime
-
 </template>
 
 <script>

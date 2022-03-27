@@ -159,7 +159,7 @@ PagePeriod(
   figure.flex
     img(src="./Romantikk_Litteraturen4.jpg" alt="Portrett av mann med små briller. Maleri. ")
     img(src="./Romantikk_Litteraturen5.jpg" alt="Portrett av mann i sort antrekk med stor sløyfe. Maleri.")
-  div Henrik Wergeland og Johan Sebastian Welhaven. Begge bildene er malt i 1842 av Carl Peter Lehmann
+  figcaption Henrik Wergeland og Johan Sebastian Welhaven. Begge bildene er malt i 1842 av Carl Peter Lehmann
   br
   h5 Henrik Wergeland
   p
@@ -204,7 +204,7 @@ PagePeriod(
   ImageTextBlock(
     :image="require(`./Romantikken_Casper-David-Friedrich.jpg`)"
     :imageColumns="4"
-    imageCaption="”Caspar David Friedrich: ”Der Wanderer über dem Nebelmeer” (1818)"
+    imageCaption="Caspar David Friedrich: ”Der Wanderer über dem Nebelmeer” (1818)"
     altText="Mann med stokk står på en fjelltopp og kikker utover over landskapet. Maleri."
     )
     h5 Malerkunsten

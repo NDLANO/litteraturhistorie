@@ -42,7 +42,7 @@ PageBook
 
   figure.col.col6.right-image.mt5
    img(src='./ibsen_idedrama_og_eksistensielle_spoersmaal1.jpg' alt='Mann held rundt ei delvis avkledd kvinne. Ei anna kvinne kjem mot dei. Foto')
-   figcaption Dennis Storhøi i rollen som Peer Gynt, i møtet med seterjentene. Foto: Kristoffer Øverli Andersen / VG / Scanpix
+   figcaption Dennis Storhøi i rolla som Peer Gynt, i møtet med seterjentene. Foto: Kristoffer Øverli Andersen / VG / Scanpix
 
   p Ibsens store gjennombrot som dramatikar kom i 1866 med idédramaet Brand. Stykket handlar om presten Brand og dei ufråvikelege, harde krava han stiller til seg sjølv og omverda. Brand er først ein populær prest i ei lita fjellbygd, men han driv bodskapen sin så langt at kyrkjelyden til slutt jagar han opp på fjellet. Eit snøskred tek med seg både Brand og bygda.
 

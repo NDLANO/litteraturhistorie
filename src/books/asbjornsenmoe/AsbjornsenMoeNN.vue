@@ -25,6 +25,8 @@ PageBook
           
   p Prosten Andreas Faye gir ut den første samlinga av norske segner i 1833. I 1840åra kjem så Peter Christen Asbjørnsen og Jørgen Moe med si første samling av norske eventyr og segner. I tillegg er det fleire andre som samlar inn eventyr, segner og viser i Noreg. 
 
+  br
+
   h3 Asbjørnsen og Moe
   p Dei to unggutane Peter Christen Asbjørnsen frå Christiania og Jørgen Moe frå Hole i Buskerud går saman på Norderhov skole vinteren 1826. Her vaknar interessa for norsk folkekultur. Dei reiser rundt på bygdene, snakkar med folk og skriv ned eventyr og segner frå ulike bygdelag. Nedskrivingane frå desse reisene resulterer etter kvart i fleire samlingar med norske eventyr og segner.
 
@@ -62,10 +64,9 @@ PageBook
       | som «Pannekaka», «Mannen som skulle stelle heime» og «Presten og klokkeren»: Desse eventyra har ofte ei satirisk form og hengjer ut negative eigenskapar som det å vere grådig, dum eller innbilsk.
       NdlaAudio(
         source="media/books/asbjornsenmoe/AsbjogMoe_Prestenogklokkeren_med_HaukAabel.mp3"
-        description="«Presten og klokkeren»"
         )
         template(v-slot:description)
-          a(href="http://runeberg.org/folkeven/027.html" target="_blank") «Presten og klokkeren»        
+          a(href="http://runeberg.org/folkeven/027.html" target="_blank") «Presten og klokkeren»     
     li 
       strong Legendeeventyr 
       | som «Gjertrudsfuglen» og «Jomfru Maria og svala»: Dette er religiøse forteljingar der hovudpersonen er jomfru Maria, St. Peter, Heilag-Olav eller Vårherre. Mange av forteljingane illustrerer religiøse eller moralske sanningar.
@@ -137,7 +138,7 @@ PageBook
     img(src='./Norske-folkeeventyr_Bildet-av-boken-Folke-og-Huldre-Eventyr.jpg' alt='Bokomslag med tittel og illustrasjonar av ulike skapningar. Sentral i biletet er ei kvinne i ein skog. Illustrasjon')
     figcaption Asbjørnsen og Moes 
       em Norske Folke- og Huldre-Eventyr
-      | . Utgave fra 1896.
+      | . Utgåve fra 1896.
 
   p Eventyr og segner er munnleg litteratur fortald frå generasjon til generasjon. Dei som tek på seg å skrive ned desse tekstane, står derfor overfor ei utfordring: Korleis kan ein ta vare på det munnlege i skriftleg form? Resultatet er at eventyrspråket har fått ein munnleg setningsbygnad med mange jamstilte setningar og eit stort innslag av replikkar.
 

@@ -135,6 +135,7 @@ PageBook
   blockquote
     strong Ljåen 
     br
+    br
     | Eg er so gamal 
     br
     | at eg held meg til ljå. 
@@ -159,6 +160,7 @@ PageBook
   blockquote
     strong Eg dreg ifrå glaset 
     br
+    br
     | Eg dreg ifrå glaset fyrr eg legg meg, 
     br
     | eg vil sjå det levande myrkret når eg vaknar, 
@@ -181,6 +183,7 @@ PageBook
 
   blockquote
     strong Ord 
+    br
     br
     | Eit ord 
     br
@@ -211,6 +214,7 @@ PageBook
 
   blockquote
     strong T’ao Ch’ien 
+    br
     br
     | Kjem T’ao Ch’ien 
     br

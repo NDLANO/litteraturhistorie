@@ -52,9 +52,9 @@ PageBook
    img(src='./Sprogreformation_lapp.jpg' alt='Avrive ark av papir med handskrive notat. Foto')
    figcaption På denne lappen har Henrik Wergeland skrive: «Væk med Fylla! Boka, men ikke Flaska, på Hylla!» A-endingar var ikkje vanlege i skriftspråket i 1845.
   ol
-  li Eit <strong>stilistisk</strong> argument: Ein norsk kunstnar treng ein norsk reiskap for å kunne skape eit bilete av norsk kultur og eigenart.
-  li Eit <strong>nasjonalt</strong> argument: Eit sjølvstendig folk må ha sitt eige språk.
-  li Eit <strong>demokratisk</strong> argument: Fleire og fleire vil ta i bruk det nye skriftspråket dersom det liknar meir på talespråket. Her argumenterer Wergeland for opplysningstanken. Berre gjennom opplysning vil folket få eit betre liv, meiner han. Og for å få meir kunnskap må dei lese og skrive meir. Da treng dei eit skriftspråk dei kan kjenne seg heime i.
+    li Eit <strong>stilistisk</strong> argument: Ein norsk kunstnar treng ein norsk reiskap for å kunne skape eit bilete av norsk kultur og eigenart.
+    li Eit <strong>nasjonalt</strong> argument: Eit sjølvstendig folk må ha sitt eige språk.
+    li Eit <strong>demokratisk</strong> argument: Fleire og fleire vil ta i bruk det nye skriftspråket dersom det liknar meir på talespråket. Her argumenterer Wergeland for opplysningstanken. Berre gjennom opplysning vil folket få eit betre liv, meiner han. Og for å få meir kunnskap må dei lese og skrive meir. Da treng dei eit skriftspråk dei kan kjenne seg heime i.
 
   h3 Striden mellom Wergeland og Welhaven
   p Etter at Wergeland i 1830 har publisert 

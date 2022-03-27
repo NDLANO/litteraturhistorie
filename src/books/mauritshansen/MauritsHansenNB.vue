@@ -54,7 +54,8 @@ PageBook
 
   p Departementet syntes disse endringane var altfor radikale og tillot ikke skolene å bruke slik rettskriving. Det skulle gå nesten tretti år før skolebarna fikk lov til å skrive slik Hansen hadde foreslått. Først i 1862 endret departementet syn. Nå var både språkmannen Knud Knudsen (1812–1895) og en rekke skolefolk kommet på banen og anbefalte endringene. Men Maurits Hansen var helt klart med på å rydde vei for fornorskingen av det danske skriftspråket. 
 
-  p Praktisk Veiledning i Modersmaalet Forsøg til en hensigtsmæssig barnets første bog   
+  a(href="http://www-bib.hive.no/tekster/umistelige/24/06.html" target="_blank") 
+    Praktisk Veiledning i Modersmaalet Forsøg til en hensigtsmæssig barnets første bog   
 
   //Medieinnhold: Få bilder her. Finne flere til å illustrerer Luren? 
 

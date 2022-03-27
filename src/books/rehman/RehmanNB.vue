@@ -100,7 +100,7 @@ PageBook
   p Ofte henvender hun seg personlig og direkte til leseren. Hun bruker «jeg», «meg» og «mitt» – «du», «vi», og «vårt». «Jeg er også opptatt av helbredelse», skriver hun – i et kritisk innlegg mot nok et utsagn om at homofili kan kureres. Hun argumenterer med at hun tror på helbredelse – av «legningsfobi og sneversynthet». Og i en tekst om kroppsfiksering og skjønnhetshysteri skriver hun: «Du tror Amerikas menn bare tenker på terrorkrigen. Feil. De tenker på magen sin.» 
 
   p Tekstene er i stor grad preget av forfatterens holdninger, tanker og følelser. Til tross for humoren og ironien er det lett å få tak i Rehmans personlige meninger. Hun setter et personlig avtrykk i alle tekstene sine, alltid lojal mot sine grunnleggende verdier. I forordet skriver hun: «Les denne boken, del mine emosjoner; bli glad, forbannet og gå ut og hiss opp verden. Til fred.»             
-
+  
   NdlaVideo(
     source="media/video/rehman/Shabana_Rehman.mp4"
     captionsUrl="media/video/rehman/Shabana_Rehman.nb-no.vtt"

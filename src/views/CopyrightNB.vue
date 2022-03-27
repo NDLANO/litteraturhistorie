@@ -364,13 +364,6 @@
               >
             </li>
             <li>
-              Johann Michael Feuchtmayer / Greudin /
-              <a
-                href="http://en.wikipedia.org/wiki/File:Ottobeuren-basilika.jpg"
-                >Wikimedia Commons</a
-              >&nbsp;
-            </li>
-            <li>
               Antoine Watteau: "Pilgrimage to Cythera" (1721) / Eloquence /
               <a
                 href="http://en.wikipedia.org/wiki/File:Antoine_Watteau_035.jpg"
@@ -402,6 +395,7 @@
           </ol>
           <h2>Video og lyd</h2>
           <ol>
+            <li>NRK</li>
             <li>NRK</li>
             <li>NRK</li>
             <li>DialektXperten</li>
@@ -1499,7 +1493,7 @@
               >
             </li>
             <li>
-              3:<a href="https://commons.wikimedia.org/wiki/User:Palnatoke"
+              <a href="https://commons.wikimedia.org/wiki/User:Palnatoke"
                 >Palnatoke</a
               >
               / https://commons.wikimedia.org/wiki/File:Roland_Kleine.jpg
@@ -3265,6 +3259,12 @@
             <li>Line M&oslash;ller / VG / Scanpix / CC BY-NC-SA</li>
             <li>NRK</li>
           </ol>
+          
+          
+          <h2>Video og lyd</h2>
+          <ol>
+            <li>NRK&nbsp;</li>
+          </ol>
           <h1><strong>Kjartan Fl&oslash;gstad: Dalen Portland</strong></h1>
           <h2>Bilder</h2>
           <ol>
@@ -3298,7 +3298,8 @@
           </ol>
           <h2>Video og lyd</h2>
           <ol>
-            <li>NRK&nbsp;</li>
+            <li>NRK Skole</li>
+            <li>NRK</li>
           </ol>
           <h1><strong>Jan Kj&aelig;rstad: Forf&oslash;reren</strong></h1>
           <h2>Bilder</h2>

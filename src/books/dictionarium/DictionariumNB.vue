@@ -82,6 +82,18 @@ PageBook(:showAuthor="false")
     strong Alm 
     |Er it slags Træ / huie grene gifuis Fæ om Vinteren / oc er saa gaat som Høe / men Barcken aftagen gifuet smaa Kalfue. 
 
+
+
+  h3 Norsk hverdagsliv på 1600-tallet
+  p Den Norske Dictionarium eller Glosebog inneholder mye stoff om norsk hverdagsliv, blant annet denne oppskriften på gomme fra Sunnfjord: 
+
+  blockquote «Gombe er en slags Oest, som sydes  (kokes) aff fersk Melck hen ved 3 Bytter oc sydes saa ner en Dag, ved idelig Rørelse, indtil det blifuer til Oest, men lidet førend Oesten blifuer, tagis der tynd Rømme af et Kar eller to, oc ladis i samme Melck, oc lader det saa lidet syde til haabe, siden ladis derpaa Osten, Eggeblommer oc smeltet Smør, samme Oest blifuer baaren til Barsel-Quinder i Barsøl, som en Baars Øels føøne (av fooner, foiner: det ein tok med til barsel eller bryllaup), oc kaldis Sengie Konne-Matt» 
+  NdlaAudio(
+    source="media/books/dictionarium/tekst11b_den_norske_dictionarium_1646.mp3"
+  )
+
+  p Christen Jensson skrev om urter og blomster, fugler og dyr, jordbruk og fiske. Han tok også med tegninger av primstaven, som har et symbol for hver merkedag i året. Den ene sida på staven viser merkedagene i vinterhalvåret, den andre sida viser merkedagene i sommerhalvåret. 
+
   figure.col.col12
     img(src="./Den_Norske_Dictionarium_Primstav_Sommerhalvaaret.jpg" alt="Sommersiden av en primstav med tidslinje og symboler. Foto")
     figcaption Sommarhalvåret
@@ -94,16 +106,6 @@ PageBook(:showAuthor="false")
 
   p Les mer om privstaven i 
     a(href="https://snl.no/primstav") Store Norske Leksikon
-
-  h3 Norsk hverdagsliv på 1600-tallet
-  p Den Norske Dictionarium eller Glosebog inneholder mye stoff om norsk hverdagsliv, blant annet denne oppskriften på gomme fra Sunnfjord: 
-
-  blockquote «Gombe er en slags Oest, som sydes  (kokes) aff fersk Melck hen ved 3 Bytter oc sydes saa ner en Dag, ved idelig Rørelse, indtil det blifuer til Oest, men lidet førend Oesten blifuer, tagis der tynd Rømme af et Kar eller to, oc ladis i samme Melck, oc lader det saa lidet syde til haabe, siden ladis derpaa Osten, Eggeblommer oc smeltet Smør, samme Oest blifuer baaren til Barsel-Quinder i Barsøl, som en Baars Øels føøne (av fooner, foiner: det ein tok med til barsel eller bryllaup), oc kaldis Sengie Konne-Matt» 
-  NdlaAudio(
-    source="media/books/dictionarium/tekst11b_den_norske_dictionarium_1646.mp3"
-  )
-
-  p Christen Jensson skrev om urter og blomster, fugler og dyr, jordbruk og fiske. Han tok også med tegninger av primstaven, som har et symbol for hver merkedag i året. Den ene sida på staven viser merkedagene i vinterhalvåret, den andre sida viser merkedagene i sommerhalvåret. 
 
   h3 Norske ordsamlinger og ordbøker
   p Det var ikke bare Christen Jensson som samlet inn norske ord på 1600-tallet. Vi finner liknende skrifter fra andre deler av landet. De eldste norske ordsamlingene fra 1600-tallet er opptegnelser over lokale dialektord. Det kan være litt vilkårlig hvilke ord som er kommet med, og hvordan de blir skrevet.

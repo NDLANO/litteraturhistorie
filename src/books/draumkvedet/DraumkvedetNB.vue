@@ -86,8 +86,9 @@ PageBook(:showAuthor="false")
 
 
   h3 Opphav 
-  img.col.col12(src="./Draumkvedet_Maleri-av-jente-med-lur.jpg" alt="Kvinne står i en lysning i skogen og blåser på en lur. Illustrasjon")
-  p Det var Jørgen Moe og Magnus B. Landstad som i 1840-årene gjorde de første nedskriftene av «Draumkvedet». 
+  figure.col.col12
+    img.col.col12(src="./Draumkvedet_Maleri-av-jente-med-lur.jpg" alt="Kvinne står i en lysning i skogen og blåser på en lur. Illustrasjon")
+    figcaption Det var Jørgen Moe og Magnus B. Landstad som i 1840-årene gjorde de første nedskriftene av «Draumkvedet». 
 
   p Det finnes over hundre nedskrivninger av «Draumkvedet», og alle er funnet i ­Telemark. Noen av dem er bare små bruddstykker, og ingen av dem er helt fullstendige. Dessuten skiller de seg til dels sterkt fra hverandre. Den viktigste nedskrivningen er etter Maren Ramskeid fra Bronkeberg. 
 
@@ -106,7 +107,7 @@ PageBook(:showAuthor="false")
 
   figure.col.col12
     img(src="./Draumkvedet_Dante-og-Vergil.jpg" alt="To menn står i en båt på opprørt hav. Omgitt av avkledde menn som drukner. Illustrasjon")
-    figcaption Dante og Vergil i helvetet. Måleri av Euène Delacroix
+    figcaption Dante og Vergil i helvetet. Maleri av Euène Delacroix
 
 
 </template>

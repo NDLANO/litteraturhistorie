@@ -169,7 +169,7 @@ PagePeriod(
   p Av aktive forfattere i 1850- og 1860-årene nevner vi Aasmund Olavsson Vinje, Camilla Collett, Henrik Ibsen og Bjørnstjerne Bjørnson. 
 
   img.col.col4.left-image(src="./Realisme_Fra_romantikk_til_realisme3.jpg" alt="Portrettbilde av mann med skjegg. Foto.")
-  p <strong>Aasmund Olavsson Vinje (1818–1870)</strong>kom fra enkle kår, men var en sentral norsk folkeopplyser. Etter flere år som omgangsskolelærer og selvlært student reiste han til Kristiania for å studere jus. Han tok juridisk embetseksamen 38 år gammel, men ble aldri jurist. I stedet ble Vinje avismann og forfatter. Fra 1858 gav han ut bladet Dølen. Her skrev han kritisk og ironisk om det som rørte seg i tida. 
+  p <strong>Aasmund Olavsson Vinje (1818–1870)</strong> kom fra enkle kår, men var en sentral norsk folkeopplyser. Etter flere år som omgangsskolelærer og selvlært student reiste han til Kristiania for å studere jus. Han tok juridisk embetseksamen 38 år gammel, men ble aldri jurist. I stedet ble Vinje avismann og forfatter. Fra 1858 gav han ut bladet Dølen. Her skrev han kritisk og ironisk om det som rørte seg i tida. 
 
   p Hovedverket hans er 
     em Ferdaminni frå Sumaren 1860
@@ -388,9 +388,7 @@ PagePeriod(
 
   figure.col.col4.left-image
     img(src="./Realisme_Naturalismen_Krohg.jpg" alt="Portrettbilde av en mann med langt skjegg. Foto.")
-  p
-    strong Christian Krohg (1852–1925)
-    | skrev også en roman, 
+  p <strong>Christian Krohg (1852–1925)</strong> skrev også en roman, 
     em Albertine 
     | (1886), som ble forbudt og stemplet som usømmelig. Romanen var et innlegg i debatten om kjønnsmoral og viser hvordan ei ung jente blir utnyttet og drevet ut i prostitusjon. Romanen er et godt eksempel på samfunnsengasjert tendenslitteratur, og boka mobiliserte til motstand mot prostitusjonen. Som en konsekvens av debatten som romanen reiste, ble offentlig prostitusjon avskaffet. Christian Krohg er mest kjent som maler, og han brukte også Albertine som motiv på flere bilder, blant annet det kjente bildet ”Albertine i politilegens venteværelse”. 
 

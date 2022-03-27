@@ -35,9 +35,6 @@ PageBook(:showAuthor="false")
     a(href='http://www.fjukstads.net/21256291' target='_blank') «Nils og Blåmann»
     | . Denne serien ble skapt i 1927 og ble utgitt fast i førti år. 
   
-  p
-    a(href='http://www.notem.no/nils/utgivelser.html' target='_blank') Oversikt over norske tegneserier
-  
 
   h5 Nye undersjangrer 
   p I 1970-årene skjedde det en endring. Vi fikk flere nye historiske tegneseriealbum som fortalte om hendinger i eldre eller nyere historisk tid, og også mer eksperimentelle tegneseriehefter med sterkere kunstnerisk og litterær profil. I vår tid har tegneseriene ofte en sarkastisk undertone og figurene er forankret i moderne storbyliv, som for eksempel «Olaf G» og «Nemi». 
@@ -83,11 +80,8 @@ PageBook(:showAuthor="false")
   p
     a(href='https://nynorsksenteret.no/teikneseriar/KnutBerg.html' target='_blank') Se en stripe fra tegneserien «Ingeniør Knut Berg på eventyr»
 
-  p
-    a(href='http://www.minetegneserier.no/pls/htmldb/f?p=100:11:0::NO::P11_SERIE_GRUPPER_ID:542&cs=18A9D3F0D5ED9E261D211F02BB14576B6' target='_blank') Forsider til tegneserien «Ingeniør Knut Berg på eventyr»
 
   NrkVideo(id="3708") 
-  p NRK Skole: Tegneserie som sjanger
 
   h3 «Smørbukk» 
 

@@ -29,12 +29,7 @@ PagePeriod(
   h3 Tankar i tida
   h5 Attende til naturen
   p
-    | Allereie midt på 1700-talet hevdar den franske filosofen Rousseau (1712–1778) at sivilisasjonen øydelegg menneska. Verken vitskap eller kunst har klart å skape eit betre samfunn. Vi må attende til naturen. Tankane hans er først omstridde, men dei får gjennomslag etter kvart. Frå slutten av 1700-talet får vi ein motreaksjon mot opplysningstidas fornuftstru, og mot det klassisistiske, regelstyrte stilidealet.
-
-  //NdlaAudio(
-    source="media/periods/romantikk/romantikken_rocketekster_Morten_Moi_nrk_lesekunst.mp3"
-    description="Forlagsredaktør Morten Moi har arbeidd med samanhengen mellom romantisk dikting og rockemusikk. Begge byggjer på opprør, på folkeleg veremåte (”romance” tyder folkeleg) og på bruk av sterke metaforar. Forfattarar som Goethe og Wergeland hadde i sine unge dagar status som ikoniske figurar i samtida si, ikkje ulikt popstjernene i dag."
-  | )    
+    | Allereie midt på 1700-talet hevdar den franske filosofen Rousseau (1712–1778) at sivilisasjonen øydelegg menneska. Verken vitskap eller kunst har klart å skape eit betre samfunn. Vi må attende til naturen. Tankane hans er først omstridde, men dei får gjennomslag etter kvart. Frå slutten av 1700-talet får vi ein motreaksjon mot opplysningstidas fornuftstru, og mot det klassisistiske, regelstyrte stilidealet.   
 
   .mt40
   h5 Ein ny tenkjemåte
@@ -158,8 +153,8 @@ PagePeriod(
 
   figure.flex
     img(src="./Romantikk_Litteraturen4.jpg" alt="Portrett av mann med små briller. Måleri. ")
-    img(src="./Romantikk_Litteraturen5.jpg" alt="Portrett av mann i sort antrekk med stor sløyfe. Måleri.")
-  div Henrik Wergeland og Johan Sebastian Welhaven. Begge bileta er måla i 1842 av Carl Peter Lehmann
+    img(src="./Romantikk_Litteraturen5.jpg" alt="Portrett av mann i sort antrekk med stor sløyfe. Måleri.") 
+  figcaption Henrik Wergeland og Johan Sebastian Welhaven. Begge bileta er måla i 1842 av Carl Peter Lehmann
   br
   h5 Henrik Wergeland
   p
@@ -204,7 +199,7 @@ PagePeriod(
   ImageTextBlock(
     :image="require(`./Romantikken_Casper-David-Friedrich.jpg`)"
     :imageColumns="4"
-    imageCaption="”Caspar David Friedrich: ”Der Wanderer über dem Nebelmeer” (1818)"
+    imageCaption="Caspar David Friedrich: ”Der Wanderer über dem Nebelmeer” (1818)"
     altText="Mann med stokk står på ein fjelltopp og kikkar utover over landskapet. Illustrasjon."
     )
     h5 Målarkunsten

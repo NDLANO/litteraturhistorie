@@ -58,7 +58,7 @@ PageBook
 
   figure.col.col6.right-image.mt5
     img(src='./seierstad_Bokhandleren_i_Kabul4.jpg' alt='Gate med bokhandel. Framffor butikken bord og stolar og ein parasoll. Foto')
-    figcaption Butikken til bok-handlaren  i Kabul.  Foto: Tor Arne  Andreassen  / Aftenposten / Scanpix
+    figcaption Butikken til bokhandlaren  i Kabul.  Foto: Tor Arne  Andreassen  / Aftenposten / Scanpix
     
   p Men først og fremst handlar boka om kvardagen til familien Khan heime i leilegheita i Kabul. Familien Khan er ingen typisk afghansk familie. Familien tilhøyrer det ein kan kalle ein middelklasse i eit land som elles er prega av store skilnader mellom rike og fattige – dei fleste afghanarar er fattige analfabetar. Familien Khan er relativt velståande, og fleire i familien har utdanning. Seierstad skriv sjølv at årsaka til at ho valde denne familien, er at han inspirerte henne. Familien gjorde også forteljinga mogleg gjennom at dei tok imot henne og lét henne få leve tett innpå seg. Dette gav forfattaren eit unikt innblikk i kvardagen og røyndommen til familien.
 

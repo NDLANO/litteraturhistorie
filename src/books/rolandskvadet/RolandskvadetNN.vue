@@ -23,7 +23,7 @@ PageBook(:showAuthor="false")
     img(src="./Rolandskvadet_Grandes_chroniques_de_France.jpg" alt="Ein riddar ber for ein døande person. I bakgrunnen går det føre seg eit slag. Illustrasjon")
     figcaption Slaget ved Roncesvalles i 778. Rolands død, frå «Grandes chroniques de France», miniatyrmåleri av Jean Fouquet.
 
-  p Vi har berre éi historisk kjelde som fortel om Roland, og det erEinhard, ein lærd historikar som skreiv ein biografi om Karl den store få år etter at keisaren var død. I 778 drog Karl den store på eit felttog mot maurarane (arabarane), som hadde erobra store delar av Spania. På veg attende til Frankrike vart baktroppen hans overfallen ved Roncesvalles, eit fjellpass i Pyreneane. Det var baskarar, ikkje maurarar, som stod bak overfallet.
+  p Vi har berre éi historisk kjelde som fortel om Roland, og det er Einhard, ein lærd historikar som skreiv ein biografi om Karl den store få år etter at keisaren var død. I 778 drog Karl den store på eit felttog mot maurarane (arabarane), som hadde erobra store delar av Spania. På veg attende til Frankrike vart baktroppen hans overfallen ved Roncesvalles, eit fjellpass i Pyreneane. Det var baskarar, ikkje maurarar, som stod bak overfallet.
 
   p Einhard nemner i biografien at både Hruodland, som var markgreve iBritannia (Bretagne), og fleire andre vart drepne i slaget ved Roncesvalles i 778. Det gjekk mange hundre år før dei kristne vann tilbake Spania og Portugal. Først i 1492 vart den siste mauriske herskaren kasta ut av Granada.
 

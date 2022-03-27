@@ -9,7 +9,7 @@ PagePeriod(
 
   figure.col.col6.right-image.mt5
     img(src="./Nyrealisme_Tida_og_samfunnsforholdene1.jpg" alt="To menn handhelsar. Den eine har eit barn på armen. Foto.")
-    figcaption Kong Haakon VII (tidlegare prins Carl av Danmark) kjem til landet med Kronprins Olav på armen. Statsminister Christian Michelsen ønskjer velkommen til Norge
+    figcaption Kong Haakon VII (tidlegare prins Carl av Danmark) kjem til landet med Kronprins Olav på armen. Statsminister Christian Michelsen ønskjer velkommen til Noreg
 
   img.col.col6.right-image(src="./Nyrealisme_Tida_og_samfunnsforholdene2.jpg" alt="Det norske flagget datert 13.august 1905 med påskrifta Ja vi elsker dette landet. Foto.")
 
@@ -30,7 +30,7 @@ PagePeriod(
 
   figure.col.col5.left-image.mt5
     img(src="./Nyrealisme_Tida_og_samfunnsforholdene4.jpg" alt="Portrettbilete av ei glad kvinne. Foto.")
-    figcaption Ida Cecilie Thoresen Krog, Norges første kvinnelige student
+    figcaption Ida Cecilie Thoresen Krog, Noregs første kvinnelige student
 
   h5 Røysterett for kvinner
   p Ei anna gruppe som gradvis fekk meir makt i samfunnet, var kvinnene. Dei hadde vore ei nokså usynleg gruppe, men i 1913 fekk dei allmenn røysterett. Også i dei andre nordiske landa fekk kvinnene røysterett rundt dette tidspunktet. Berre nokre få land i verda var enda tidlegare ute, mellom anna New Zealand og Australia. Dei to første tiåra av 1900-talet fekk kvinnene røysterett både i USA og i dei fleste europeiske landa. 

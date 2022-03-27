@@ -27,7 +27,9 @@ PageBook
 
   h3 Jord og jern (1933)
 
-  NdlaAudio(source="media/books/jacobsen/jacobsen_byens_metafysikk.mp3" description="Byens metafysikk")
+  NdlaAudio(
+    source="media/books/jacobsen/jacobsen_byens_metafysikk.mp3" 
+    )
     template(v-slot:description)
       div Byens metafysikk. 
         a(href="https://www.nb.no/items/6716907b4d3ba91974f43a923fb92141?page=73&searchText=Jord%20og%20jern" target="blank") Les teksten.

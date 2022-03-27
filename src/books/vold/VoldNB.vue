@@ -260,6 +260,7 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
@@ -267,6 +268,7 @@ export default {
     NdlaAudio,
     NdlaVideo,
     PageBook,
+    NrkVideo
   },
 };
 </script>

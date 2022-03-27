@@ -31,7 +31,7 @@ PageBook
    img(src='./MorenVesaas_Grind.jpg' alt='')
    figcaption Foto: Rolf Chr. Ulrichsen / Aftenposten / Scanpix
 
-  h5.mt20 Grind
+  h5.mt20 Ord over grind
 
   blockquote
     | Du går fram til mi inste grind, 
@@ -138,7 +138,7 @@ PageBook
   NdlaAudio(source="media/books/morenvesaas/Halldis_Moren_Vesaas_-_No_plantar_kvinna.mp3")
     strong No plantar kvinna 
     br
-    | Frå  samlinga Tung tids tale 1945
+    | Fra  samlinga Tung tids tale 1945
     blockquote
       br
       | No plantar kvinna i verda eit tre.

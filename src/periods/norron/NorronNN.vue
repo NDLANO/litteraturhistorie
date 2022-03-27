@@ -48,9 +48,7 @@ PagePeriod(
   p
     | Norrøn mytologi er gudelæra som er utbreidd i Norden i førkristen tid. Ei viktig kjelde til denne kunnskapen er Snorres 
     em Edda
-    | . Boka er skriven på 1200-talet, to hundre år 
-
-  etter at kristendommen blei innført. 
+    | . Boka er skriven på 1200-talet, to hundre år etter at kristendommen blei innført. 
 
   h5 Gudar, jotnar og menneske  
   p

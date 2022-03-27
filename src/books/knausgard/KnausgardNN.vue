@@ -31,7 +31,7 @@ PageBook
 
   figure.col.col6.right-image.mt5
     img(src='./knausgaard_Fjordgaard1.jpg' alt='Vinterlandskap med fjell og fjord. Vegskilt med teksten Fjordgård i forgrunnen. Foto')
-    figcaption Fjordgård på Senja i Troms der Karl Ove Knausgård jobba som lærar-vikar etter gymnaset. Foto: Terje Mortensen / VG / Scanpix
+    figcaption Fjordgård på Senja i Troms der Karl Ove Knausgård jobba som lærarvikar etter gymnaset. Foto: Terje Mortensen / VG / Scanpix
 
   p I 
     em Ute av verden 
@@ -87,7 +87,7 @@ PageBook
   br
   figure.col.col6.right-image.mt5
     img(src='./Min-kamp_Bilde-av-kona.jpg' alt='Kvinne sit på ein hagestol framfor eit kvitt hus. Foto')
-    figcaption Linda Boström Knausgård. Foto: CC BY SA
+    figcaption Linda Boström Knausgård. Foto: 
 
   p Romanprosjektet 
     em Min Kamp 

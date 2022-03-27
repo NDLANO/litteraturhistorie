@@ -137,7 +137,6 @@ PageBook
     em Bogen nævner op de ord, som det til brug for den skrivende i øjeblikket kan blive spørsmål om, for at han ej skal være nød til at hangle igjennom med det fremmede eller mindre gode, fordi han ikke er i stand til at hitte på noget av vore indenlandske og bedre.
 
   p Ein del av dei avløysarorda Knudsen tilrådde, er i vanleg bruk i dag: 
-  img.col.col5.right-image(src='./Knudsen_avloeserord.jpg' alt='Skjermdump av nettside frå Språkrådet. Skjermdump ')
   ul
     li absence – fråvær 
     li debat – ordskifte 

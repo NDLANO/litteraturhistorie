@@ -25,6 +25,8 @@ PageBook
 
   p Prosten Andreas Faye gav ut den første samlingen av norske sagn i 1833. I 1840-årene kom så Peter Christen Asbjørnsen og Jørgen Moe med sin første samling av norske eventyr og sagn. I tillegg var det flere andre som samlet inn eventyr, sagn og viser i Norge.  
   
+  br
+
   h3 Asbjørnsen og Moe 
   p De to ungguttene Peter Christen Asbjørnsen fra Christiania og Jørgen Moe fra Hole i Buskerud gikk sammen på Norderhov skole vinteren 1826. Her våknet interessen for norsk folkekultur. De to reiste rundt på bygdene, snakket med folk og skrev ned eventyr og sagn fra ulike bygdelag. Nedtegnelsene fra disse reisene resulterte etter hvert i flere samlinger med norske eventyr og sagn. 
 

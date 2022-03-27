@@ -31,7 +31,7 @@ PageBook
 
   figure.col.col12
    img(src='./hagerup_Det_ene_diktet1.jpg' alt='Ei rekke av tyske soldatar marsjerer. Foto')
-   figcaption Tyske tropper marsjerer nedover Karl Johans gate i Oslo 20. april 1940. Foto: Ingvald Møllerstad / Aftenposten / Scanpix
+   figcaption Tyske troppar marsjerer nedover Karl Johans gate i Oslo 20. april 1940. Foto: Ingvald Møllerstad / Aftenposten / Scanpix
 
   p Inger Hagerup debuterte med diktsamlinga 
     em Jeg gikk meg vill i skogene 

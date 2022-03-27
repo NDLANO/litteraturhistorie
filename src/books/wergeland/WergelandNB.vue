@@ -119,7 +119,7 @@ PageBook
 
   figure.col.col12
    img(src='./Sprogreformation_Vaar_frelsers_gravlund.jpg' alt='Samling av gravmonumenter på en gravplass. Foto')
-   figcaption «Taknemmelige jøder udenfor Norriges grændser reiste ham dette minde,» står det på monumentet som svenske og danske jøder fekk reist på Wergelands gravsted på Vår Frelsers gravlund i Christiania (Oslo) i 1849
+   figcaption «Taknemmelige jøder udenfor Norriges grændser reiste ham dette minde,» står det på monumentet som svenske og danske jøder fikk reist på Wergelands gravsted på Vår Frelsers gravlund i Christiania (Oslo) i 1849
 
 
 

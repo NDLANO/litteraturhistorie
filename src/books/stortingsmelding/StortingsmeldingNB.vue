@@ -304,7 +304,7 @@ PageBook(:showAuthor="false")
   .flex.flex-justify-center
     figure.col.col12
       img(src='./Stortingsmelding-nr.-31_Bilde-av-Formann-i-Norsk-Lytterforening.-Kan-gjores-mindre..jpg' alt='Mann sitter på et kontor bak en stabel med trykksaker. Foto')
-      figcaption Formann i Norsk Lytterforening Alf Nielsen tel opp røystesetlar mot for mykje nynorsk i NRK i 1978. Foto: Oddvar Walle Jensen / NTB / Scanpix
+      figcaption Formann i Norsk Lytterforening Alf Nielsen teller opp stemmesedler mot for mye nynorsk i NRK i 1978. Foto: Oddvar Walle Jensen / NTB / Scanpix
 
   p Etter andre verdenskrig gikk tallet på nynorskbrukere nedover. Det tok blant annet mye lengre tid for Noregs Mållag enn for Riksmålsforbundet å komme i gang igjen med arbeidet etter krigen. Krigen førte òg til at nynorskfolket mistet et viktig argument, det nasjonale. Det nyttet ikke lenger å argumentere med at nynorsken var mer norsk enn bokmål. Nasjonal innstilling hadde vist seg gjennom å legge for dagen den rette holdningen overfor tyskere og NS, slik blant annet riksmålsforkjemperen Øverland hadde gjort. 
   

@@ -306,8 +306,7 @@ PagePeriod(
 
   p Eksempel på kansellistil:
     br
-    img.col.col12(src="./Egede.jpg" alt="") 
-    //a(href="media/periods/opplysning/Egede.jpg" target="_blank") Hans Egede: ”Grønlands Naturell Historie” (1741)
+    a(href="media/periods/opplysning/Egede.jpg" target="_blank") Hans Egede: ”Grønlands Naturell Historie” (1741)
     NdlaAudio(
       source="media/periods/opplysning/tekst5_Egede_gronlands_naturelle_historie.mp3"
     )
@@ -327,8 +326,7 @@ PagePeriod(
 
   p Eksempel på språket i opplysningslitteraturen: 
     br
-    img.col.col12(src="./Pontoppidan.jpg" alt="")
-    //a(href="media/periods/opplysning/Pontoppidan.jpg" target="_blank") Pontoppidan: «Geografisk Oplysning til Kartet over sydlige Norge» (1785) 
+    a(href="media/periods/opplysning/Pontoppidan.jpg" target="_blank") Pontoppidan: «Geografisk Oplysning til Kartet over sydlige Norge» (1785) 
     NdlaAudio(
       source="media/periods/opplysning/tekst6_Pontoppidan_Geografisk_beskivelse.mp3"
     )

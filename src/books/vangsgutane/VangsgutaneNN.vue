@@ -35,8 +35,7 @@ PageBook(:showAuthor="false")
     a(href='http://www.fjukstads.net/21256291' target='_blank') «Nils og Blåmann»
     | . Denne serien vart skapt i 1927 og kom ut fast i førti år.
 
-  p
-    a(href='http://www.notem.no/nils/utgivelser.html' target='_blank') Oversikt over norske tegneserier
+
   
   h5 Nye undersjangrar
   p I 1970-åra skjedde det ei endring. Vi fekk fleire nye historiske teikneseriealbum som fortalde om hendingar i eldre eller nyare historisk tid, og også meir eksperimentelle teikneseriehefte med sterkare kunstnarleg og litterær profil. I vår tid har teikneseriane ofte ein sarkastisk undertone og figurane er forankra i moderne storbyliv, som for eksempel «Olaf G» og «Nemi».
@@ -79,14 +78,11 @@ PageBook(:showAuthor="false")
 
   p Etter kvart som serien utviklar seg, står kampen mellom skurken Dr. Panga og helten Knut Berg ikkje berre om jordkloden, men om heile verdsrommet. Ved hjelp av ingeniørkunstane sine legg Knut Berg under seg fjerne galaksar. Slik sett kan vi seie at ingeniør Knut Berg var den første nordmannen i verdsrommet!
 
-  p
-    a(href='https://nynorsksenteret.no/teikneseriar/KnutBerg.html' target='_blank') Sjå ei stripe frå teikneserien «Ingeniør Knut Berg på eventyr»
 
   p
     a(href='http://www.minetegneserier.no/pls/htmldb/f?p=100:11:0::NO::P11_SERIE_GRUPPER_ID:542&cs=18A9D3F0D5ED9E261D211F02BB14576B6' target='_blank') Framsider til teikneserien «Ingeniør Knut Berg på eventyr»
 
   NrkVideo(id="3708")
-  p NRK Skole: Teikneserie som sjanger
 
   h3 «Smørbukk» 
 

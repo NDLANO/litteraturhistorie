@@ -36,7 +36,7 @@ PagePeriod(
   h3 Litt om tenkemåten 
 
   h5 Eneveldet  
-  figure.col.col4.left-image.mt5
+  figure.col.col4.right-image.mt5
     img(src="./Barokk_Litt_om_tenkemaaten.jpg" alt="Bord med hodeskalle. Illustrasjon.")
     figcaption Detalj fra tittelstikket på førsteutgaven av boka Taare-Offer av Dorothe Engelbretsdotter
 

@@ -134,6 +134,7 @@ PageBook
   blockquote
     strong Ljåen 
     br
+    br
     | Eg er so gamal 
     br
     | at eg held meg til ljå. 
@@ -157,6 +158,7 @@ PageBook
 
   blockquote
     strong Eg dreg ifrå glaset 
+    br
     br
     | Eg dreg ifrå glaset fyrr eg legg meg, 
     br
@@ -182,6 +184,7 @@ PageBook
 
   blockquote
     strong Ord 
+    br
     br
     | Eit ord 
     br
@@ -212,6 +215,7 @@ PageBook
 
   blockquote
     strong T’ao Ch’ien 
+    br
     br
     | Kjem T’ao Ch’ien 
     br
@@ -300,6 +304,7 @@ PageBook
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import NrkVideo from "@/components/NrkVideo";
 
 export default {
   name: "Book",
@@ -307,6 +312,7 @@ export default {
     NdlaAudio,
     NdlaVideo,
     PageBook,
+    NrkVideo
   },
 };
 </script>

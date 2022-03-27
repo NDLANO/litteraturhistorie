@@ -30,7 +30,7 @@ PageBook
 
   figure.col.col6.right-image.mt5
     img(src='./knausgaard_Fjordgaard1.jpg' alt='Vinterlandskap med fjell og fjord. Veiskilt med teksten Fjordgård i forgrunnen. Foto')
-    figcaption Fjordgård på Senja i Troms der Karl Ove Knausgård jobbet som lærer-vikar etter gymnaset. Foto: Terje Mortensen / VG / Scanpix
+    figcaption Fjordgård på Senja i Troms der Karl Ove Knausgård jobbet som lærervikar etter gymnaset. Foto: Terje Mortensen / VG / Scanpix
     
   p I 
     em Ute av verden 
@@ -88,7 +88,7 @@ PageBook
   br
   figure.col.col6.right-image.mt5
     img(src='./Min-kamp_Bilde-av-kona.jpg' alt='Kvinne sitter på en hagestol foran et hvitt hus. Foto')
-    figcaption Linda Boström Knausgård. CC BY SA
+    figcaption Linda Boström Knausgård. 
 
   p Romanprosjektet 
     em Min Kamp 
@@ -176,7 +176,7 @@ PageBook
     | -serien hyller på den ene siden prosjektet som banebrytende, nettopp som en del av en slags pseudovirkelighet. På den andre siden er mange svært kritiske til at han trekker inn – med eller uten samtykke – virkelige personer i sitt romanprosjekt. Og for de involverte partene, blant annet Knausgårds ekskone, oppleves ikke romanprosjektet som en pseudovirkelighet, men som en utlevering av intime følelser og hendelser. 
   
   h3 En problematisk sjanger 
-  Men hvordan skal offentligheten møte et romanprosjekt og en sjanger som bevisst blander virkelighet og fiksjon? Noe av spenningen i prosjektet ligger nettopp i at vi ikke vet når Karl Ove Knausgård utleverer seg helt, og når han poserer og iscenesetter seg selv – altså når han forteller sannhet, og når han dikter. Samtidig utfordrer sjangeren helt klart etiske og juridiske spørsmål. Kan man skrive hva man vil om andre mennesker under dekke av at det er fiksjon? 
+  p Men hvordan skal offentligheten møte et romanprosjekt og en sjanger som bevisst blander virkelighet og fiksjon? Noe av spenningen i prosjektet ligger nettopp i at vi ikke vet når Karl Ove Knausgård utleverer seg helt, og når han poserer og iscenesetter seg selv – altså når han forteller sannhet, og når han dikter. Samtidig utfordrer sjangeren helt klart etiske og juridiske spørsmål. Kan man skrive hva man vil om andre mennesker under dekke av at det er fiksjon? 
 
   p Romanprosjektet til Knausgård tematiserer på mange måter hva som kan være følgene av at «de store fortellingene er døde», og at vi mennesker er overlatt til oss selv i forsøket på å skape mening i tilværelsen. Hvordan kan vi finne vår egen identitet i et mylder av valgmuligheter? Hvor går grensene for hvor mye man kan si og skrive om andre mennesker i et forsøk på å forstå seg selv? 
 
