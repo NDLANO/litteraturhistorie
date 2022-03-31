@@ -1,6 +1,6 @@
 <template lang="pug">
 div.mt20.mb20
-  video(ref="player" v-if="playerType === 'local'" playsinline controls :data-poster="poster")
+  video(ref="player" v-if="playerType === 'local'" playsinline controls :data-poster="poster").NdlaVideo
     source(:src="source")
     track(
       v-if="captionsUrl!==''" 
