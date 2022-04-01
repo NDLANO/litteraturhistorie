@@ -119,6 +119,9 @@ PageBook
     | (1966) går Hauge enda et skritt videre i diktningen sin. Her finner vi korte, tilsynelatende svært enkle dikt om hverdagslige ting: 
 
   blockquote
+    strong Dropar i austavind
+    br
+    br
     | Katten sit 
     br
     | i tunet 

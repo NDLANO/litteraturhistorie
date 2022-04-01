@@ -138,10 +138,6 @@ PageBook
 
   p I 1920-åra var Arbeidarpartiet det største politiske partiet, og Johan Falk ­ berget var ein profilert støttespelar for arbeidarrørsla. Mellom anna skreiv han i Hvepsen, eit humoristisk og satirisk skjemteblad som kritiserte det borgarlege samfunnet.
 
-  figure.col.col6.right-image.mt5
-   img(src='./Falkberget_Boer_Boerson.jpg' alt='To menn held ei kurv med bakverk. Den eine mannen har silkevest, den andre flosshatt og tversoversløyfe. Foto')
-   figcaption Paul Ottar Haga spilte rollen som Bør Børson på Det Norske Teatret i 2001. Rolv Wesenlund var Gammel-Bør. Foto: Knut Erik Knudsen / Scanpix
-
   p I 1920 kom 
     a(href="https://www.nb.no/items/72a525a76057f336475454839ea614c3?page=0&searchText=b%C3%B8r%20b%C3%B8rson" target="_blank") 
       em Bør Børson jr.

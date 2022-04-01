@@ -78,9 +78,9 @@ PageBook(:showAuthor="false")
 
   p Etter kvart som serien utviklar seg, står kampen mellom skurken Dr. Panga og helten Knut Berg ikkje berre om jordkloden, men om heile verdsrommet. Ved hjelp av ingeniørkunstane sine legg Knut Berg under seg fjerne galaksar. Slik sett kan vi seie at ingeniør Knut Berg var den første nordmannen i verdsrommet!
 
-
   p
-    a(href='http://www.minetegneserier.no/pls/htmldb/f?p=100:11:0::NO::P11_SERIE_GRUPPER_ID:542&cs=18A9D3F0D5ED9E261D211F02BB14576B6' target='_blank') Framsider til teikneserien «Ingeniør Knut Berg på eventyr»
+    a(href='https://nynorsksenteret.no/teikneseriar/KnutBerg.html' target='_blank') Sjå ei stripe frå teikneserien «Ingeniør Knut Berg på eventyr»
+
 
   NrkVideo(id="3708")
 
