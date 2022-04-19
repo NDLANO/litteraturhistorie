@@ -156,7 +156,7 @@ PagePeriod(
     em Landstads Norske Folkeviser 
     | fra 1853.
 
-  figure.flex
+  figure.flex(style={margin: '0px'})
     img(src="./Romantikk_Litteraturen4.jpg" alt="Portrett av mann med små briller. Maleri. ")
     img(src="./Romantikk_Litteraturen5.jpg" alt="Portrett av mann i sort antrekk med stor sløyfe. Maleri.")
   figcaption Henrik Wergeland og Johan Sebastian Welhaven. Begge bildene er malt i 1842 av Carl Peter Lehmann

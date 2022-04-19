@@ -151,7 +151,7 @@ PagePeriod(
     em Landstads Norske Folkeviser 
     | frå 1853.
 
-  figure.flex
+  figure.flex(style={margin: '0px'})
     img(src="./Romantikk_Litteraturen4.jpg" alt="Portrett av mann med små briller. Måleri. ")
     img(src="./Romantikk_Litteraturen5.jpg" alt="Portrett av mann i sort antrekk med stor sløyfe. Måleri.") 
   figcaption Henrik Wergeland og Johan Sebastian Welhaven. Begge bileta er måla i 1842 av Carl Peter Lehmann

@@ -87,7 +87,7 @@ PageBook
   br
   figure.col.col6.right-image.mt5
     img(src='./Min-kamp_Bilde-av-kona.jpg' alt='Kvinne sit på ein hagestol framfor eit kvitt hus. Foto')
-    figcaption Linda Boström Knausgård. Foto: 
+    figcaption Linda Boström Knausgård.
 
   p Romanprosjektet 
     em Min Kamp 

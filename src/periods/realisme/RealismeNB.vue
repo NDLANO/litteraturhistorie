@@ -569,16 +569,13 @@ PagePeriod(
     | . 
 
   p
-    strong Rikard Nordraak (1842–1866)
-    | er best kjent for å ha komponert melodien til ”Ja, vi elsker”. Han var fetter av Bjørnstjerne Bjørnson, og Nordraak tonesatte flere av Bjørnsons tekster. 
+    <strong>Rikard Nordraak (1842–1866)</strong> er best kjent for å ha komponert melodien til ”Ja, vi elsker”. Han var fetter av Bjørnstjerne Bjørnson, og Nordraak tonesatte flere av Bjørnsons tekster. 
 
   p
-    strong Johan Svendsen (1840–1911)
-    | levde storparten av livet i København. Han er mest kjent for romanser for fiolin og orkester. På samme måte som Edvard Grieg var Svendsen inspirert av den norske folkemusikken. Han gjorde internasjonal karriere både som dirigent og som komponist. 
+    <strong>Johan Svendsen (1840–1911)</strong> levde storparten av livet i København. Han er mest kjent for romanser for fiolin og orkester. På samme måte som Edvard Grieg var Svendsen inspirert av den norske folkemusikken. Han gjorde internasjonal karriere både som dirigent og som komponist. 
 
   p
-    strong Agathe Backer Grøndahl (1847–1907)
-    | studerte både i Tyskland og i Italia og var en fremragende konsertpianist. Backer Grøndahl komponerte i alt 70 verk for piano. Hun var en nær venn av Edvard Grieg og er kjent for å ha framført musikken hans ute i Europa.
+    <strong>Agathe Backer Grøndahl (1847–1907)</strong> studerte både i Tyskland og i Italia og var en fremragende konsertpianist. Backer Grøndahl komponerte i alt 70 verk for piano. Hun var en nær venn av Edvard Grieg og er kjent for å ha framført musikken hans ute i Europa.
 
   p Europeisk musikk ellers var dominert av komponister som Franz Liszt (1811–1886), Richard Wagner (1813–1883), Johann Strauss d.y. (1825–1899), Johannes Brahms (1833–1897), Georges Bizet (1838–1875) og Pjotr Tsjaikovskij (1840–1893). 
 
