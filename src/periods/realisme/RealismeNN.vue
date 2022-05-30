@@ -338,7 +338,6 @@ PagePeriod(
 
   .clear 
   .mt20
-
   img.col.col6.right-image(src="./Realisme_Naturalismen_Zola.jpg" alt="Portrettbilete av en mann med skjegg, briller og alpelue. Foto.")
   p Den franske forfattaren Émile Zola (1840–1902) blir rekna som den første og største naturalisten. Idealet hans var den nye naturvitskapen og darwinismen, og diktinga skulle vere så dokumentarisk og objektiv som mogleg. Zola meinte at mennesket berre i liten grad hadde nokon fri vilje, det var meir eit produkt av arv og miljø. Derfor var livet for mange ein vond sirkel som det var vanskeleg å bryte ut av. Derfor var det vanskeleg å bryte ut av den klassen eller standen ein var fødd inn i. 
 
@@ -395,6 +394,8 @@ PagePeriod(
     em Kristiania-Bohêmen 
     | (1885) er hovudverket hans. Boka vart forboden, og Jæger måtte i fengsel for umoralsk forfattarverksemd. 
 
+  .clear
+  .mt20
   figure.col.col4.left-image
     img(src="./Realisme_Naturalismen_Krohg.jpg" alt="Portrettbilete av en mann med langt skjegg. Foto.")
   p <strong> Christian Krohg (1852–1925)</strong> skreiv også ein roman, 

@@ -89,9 +89,9 @@ PagePeriod(
     | Det veks også fram ei sterk interesse for gresk og romersk språk og litteratur, og for historie og filosofi. Denne delen av renessansen kallar vi humanisme. Også humanismen har sitt utspring i Italia på 1300-talet. Nord for Alpane får ikkje humanismen gjennomslag før omkring år 1500. Ein framståande representant for humanismen er Leonardo da Vinci (1452–1519). Han er både vitskapsmann og kunstnar. 
 
   NdlaVideo(
-    source="media/video/humanisme/Othello.mp4"
+    source="media/periods/humanisme/Othello.mp4"
     description="William Shakespeare: ”Othello”. Elevproduksjon laga av elevar ved Vågsbygd videregående skole. Regi: Ellen Kalvenes."
-    captionsUrl="media/video/humanisme/Othello.nn-no.vtt"
+    captionsUrl="media/periods/humanisme/Othello.nn-no.vtt"
   )  
   
   div.mb60

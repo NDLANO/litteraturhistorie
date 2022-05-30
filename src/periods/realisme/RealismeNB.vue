@@ -329,7 +329,6 @@ PagePeriod(
 
   .clear
   .mt20
-
   img.col.col6.right-image(src="./Realisme_Naturalismen_Zola.jpg" alt="Portrettbilde av en mann med skjegg, briller og alpelue. Foto.")
   p Den franske forfatteren Émile Zola (1840–1902) regnes som den første og største naturalisten. Idealet hans var den nye naturvitenskapen og darwinismen, og diktningen skulle være så dokumentarisk og objektiv som mulig. Zola mente at mennesket bare i liten grad hadde noen fri vilje, det var mer et produkt av arv og miljø. Derfor var det blant annet vanskelig å bryte ut av den klassen eller standen en var født inn i. 
 
@@ -384,8 +383,10 @@ PagePeriod(
     img(src="./Realisme_Naturalismen_Jaeger.jpg" alt="Mann i sofa med jakke og hatt. Illustrasjon.")
   p <strong>Hans Jæger (1854–1910)</strong> var en framstående person i denne kretsen av forfattere, kunstnere og intellektuelle. Selv om han ikke hadde særlig litterært talent, gav han ut flere romaner der han tok opp problemer knyttet til seksualitet og moral. Han rettferdiggjorde ”fri kjærlighet” og mente at det borgerlige ekteskapet og prostitusjonen var to sider av samme sak. I begge tilfeller levde kvinnen et ufritt liv på mannens premisser. Fra 
     em Kristiania-Bohêmen 
-    | (1885) er hovedverket hans. Boka ble forbudt, og Jæger måtte i fengsel for umoralsk forfattervirksomhet. 
+    | (1885) er hovedverket hans. Boka ble forbudt, og Jæger måtte i fengsel for umoralsk forfattervirksomhet.
 
+  .clear
+  .mt20
   figure.col.col4.left-image
     img(src="./Realisme_Naturalismen_Krohg.jpg" alt="Portrettbilde av en mann med langt skjegg. Foto.")
   p <strong>Christian Krohg (1852–1925)</strong> skrev også en roman, 
