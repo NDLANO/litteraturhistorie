@@ -84,6 +84,6 @@ Temporary Items
 .apdisk
 login_prefs.js
 sftp-cache.json
-public/media/video
+public/media/videos
 old_media
 deploy_test.js

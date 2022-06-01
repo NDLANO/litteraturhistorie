@@ -180,9 +180,6 @@ PagePeriod(
   p
     | Dansk er administrasjonsspråket på 1600-talet. Dei fleste embetsmenn er danske, og dei skriv og taler dansk. Offentlege dokument og sakspapir (såkalla diplom) blir skrivne på dansk. 
 
-  p
-    a(href="media/periods/barokk/anfind.html" target="_blank") Les folkevisa ”Anfind han gjenghir” frå ”Tiende lystige Norske Viser”
-
   h5 Bygdemålstekstar  
   p
     | Det finst likevel tekstar med innslag av dialekt og norsk syntaks. Dette er tekstar som blir nytta til bryllaup og festlege lag. Det finst også jordbøker (dokument om eigedommar), lover og brev der teksten er farga av dialekten til forfattaren. Slike tekstar kallar vi gjerne bygdemålstekstar. 

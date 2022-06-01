@@ -21,7 +21,7 @@ Lyd- og videofiler som er **under 100Mb** og tilhørende tekstingsfiler ligger i
 
 Github er i utgangspunktet ikke laget for store binærfiler som video og lyd. På grunn av dette støttes ikke opplasting av filer over 100Mb.
 
-Filer over 100Mb må defor kopieres **manuelt** til webserveren hvor filene skal ligge og legges i `/public/media/video`. Her er det ikke egne foldere for bøker og perioder, men ellers følges samme navngivingsstruktur som over. Eksempel: `/public/media/video/wergeland/Henrik_Wergeland.mp4`.
+Filer over 100Mb må defor kopieres **manuelt** til webserveren hvor filene skal ligge og legges i `/public/media/videos`. Her er det ikke egne foldere for bøker og perioder, men ellers følges samme navngivingsstruktur som over. Eksempel: `/public/media/videos/wergeland/Henrik_Wergeland.mp4`.
 
 For enkelhets skyld legges også tekstingsfiler som hører til videofilene her.
 

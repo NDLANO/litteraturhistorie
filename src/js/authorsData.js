@@ -171,7 +171,7 @@ export const authors = [
     nnText:
       "<li> <b>Jens Nilsson</b> (1538-1600) er den tredje humanisten. Han var opprinneleg dansk, men voks opp i Oslo. Difor vert han rekna som humanisten kring oslo-miljøet.</li><li> Han var også skulemann, men blei seinare biskop.</li><li>Hovudverket til Jens Nilsson er <i>Biskop Jens Nilssøns visitatbøger og reiseoptegnelser</i>. Her fortel han om reiser han gjorde som biskop.</li>",
     nbText:
-      "<li> <b>Peder Clausson Friis</b> (1545-1614) tilhørte det humanistiske miljøet rundt katedralskolen i Stavanger.</li><li> Han kom fra Lindesnes på Sørlandet og skreiv ei geografibok med tittelen <i>Norrigis Bescriffuelse</i>.</li><li> Peder Clausson Friis omsatte også tekster fra norrønt til dansk, blant annet <i>Snorres kongesagaer</i>.</li>",
+      "<li> <b>Jens Nilsson</b> (1538-1600) er den tredje humanisten. Han var opprinnelig dansk, men vokste opp i Oslo. Derfor blir han regnet som humanisten rundt oslo-miljøet.</li><li> Han var også skolemann, men ble senere biskop.</li><li>Hovedverket til Jens Nilsson er <i>Biskop Jens Nilssøns visitatbøger og reiseoptegnelser.</i> Her forteller han om reiser han gjorde som biskop.</li>",
     type: "1",
     sted: "1",
   },

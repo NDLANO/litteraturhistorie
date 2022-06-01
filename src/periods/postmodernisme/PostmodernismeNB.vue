@@ -10,12 +10,12 @@ PagePeriod(
     img(src="./Postmodernisme_Tida_og_samfunnsforhold1.jpg" alt="Mann i dress fyller bilen med bensin fra ei kanne. Foto.")
     figcaption I 1970 kunne industriminister Sverre Walter Rostoft helle den første norskproduserte bensinen på bilen sin. Foto: NTB / Scanpix
 
-  h4 Velferdsstat og oljeøkonomi
+  h5 Velferdsstat og oljeøkonomi
   p I 1960-årene hadde de fleste landene i Europa reist seg etter andre verdenskrig. Parallelt med en stadig økende velstand ble det skapt et velferdssamfunn. Loven om folketrygd kom i 1967 og sørget for at alle borgere fikk rett til alderspensjon og økonomisk hjelp ved for eksempel sykdom, arbeidsledighet, svangerskap og fødsel. 
 
   p I 1969 ble det funnet olje i Nordsjøen. Inntektene fra oljeindustrien er den viktigste årsaken til at Norge stort sett har hatt en stabilt god økonomi de siste førti årene. 
 
-  h4 Ungdomskultur og hippiebevegelse 
+  h5 Ungdomskultur og hippiebevegelse 
   p Siden 1950-årene hadde ungdomskulturen vært preget av opprør og motstand mot et materialistisk og konformt voksenliv. Mot slutten av 60-årene utviklet ungdomsopprøret seg til å bli et internasjonalt politisk opprør og en generell kamp for frigjøring og antiautoritære verdier. 
 
   p I mai 1968 kom det til kraftige opptøyer mellom studenter og politi i Paris. Opprøret utviklet seg fort til å bli en politisk massemønstring, som har gitt navn til en generasjon radikale studenter i hele den vestlige verden – de såkalte sekstiåtterne. 
@@ -36,10 +36,10 @@ PagePeriod(
     figcaption Demonstrasjon mot EEC i 1972. Foto: Jan A. Martinsen / Aftenposten / Scanpix
 
 
-  h4 EU-kamp i Norge 
+  h5 EU-kamp i Norge 
   p Både i 1972 og i 1994 ble det holdt folkeavstemning om EU-medlemskap i Norge, og begge gangene stemte et knapt flertall mot medlemskap i unionen. Gjennom den såkalte EØS-avtalen er norsk økonomi og handel i dag likevel sterkt påvirket av EU-landenes lovverk og politikk.
 
-  h4 Kald krig og et delt Europa
+  h5 Kald krig og et delt Europa
   p Forholdet mellom Sovjetunionen og USA utviklet seg etter andre verdenskrig til å bli svært spent. Denne ”kalde krigen” påvirket hele verdenssamfunnet. Europa var delt i to – de vesteuropeiske landene var stort sett USAs allierte, mens de østeuropeiske landene var i allianse med Sovjetunionen. 
 
   figure.col.col7.right-image
@@ -50,20 +50,20 @@ PagePeriod(
 
   p Først mot slutten av 1980-årene forandret situasjonen seg. I 1985 ble Mikhail Gorbatsjov (1931– ) president i Sovjetunionen. Han innførte såkalt perestrojka, økonomiske reformer, og glasnost, åpenhet, og revolusjonerte styreformen i landet på bare få år. 
 
-  h4 Østblokklandene frigjør seg 
+  h5 Østblokklandene frigjør seg 
   p Høsten 1989 skjedde det en revolusjon i Øst-Europa som førte til at kommunistregimene i de ulike landene kollapset etter tur. I november 1989 falt også muren mellom Øst- og Vest-Berlin, som hadde delt byen i to helt siden 1961. I 1990 ble Vest- og Øst-Tyskland samlet igjen, og i 1991 gikk Sovjetunionen i oppløsning. 
 
-  h4 Bosnia-krigen 
+  h5 Bosnia-krigen 
   p I de fleste østblokklandene gikk endringsprosessene i 1990-årene fredelig for seg, men i det tidligere Jugoslavia økte spenningene mellom de ulike folkegruppene. Den verste konflikten oppstod i Bosnia-Hercegovina, der over hundre tusen mennesker ble drept. Krigen gikk hardest ut over den muslimske delen av befolkningen. 
 
   figure.col.col4.left-image
     img(src="./Postmodernisme_Fane-til-kvinnedagen.jpg" alt="To kvinner holder opp et banner der det står «lønna arbeid til alle kvinner. Husarbeid til alle menn». Foto.")
     figcaption Fane til Kvinnedagen i 1982. Foto: Aftenposten/Scanpix
 
-  h4 Likestillingskamp 
+  h5 Likestillingskamp 
   p 1950-årene var preget av konservative familieverdier: Far jobbet og deltok i samfunnslivet, mor passet hjem og barn. Utover i 60- og 70-årene vokste det fram en sterk kvinnebevegelse både i USA og i Vest-Europa, med krav om likestilling mellom kjønnene. Mange rettigheter som kvinnene kjempet for den gang, er i dag en selvfølge for kvinner i vestlige land.
 
-  h4 Miljøkamp
+  h5 Miljøkamp
   p I 1970-årene ble stadig flere opptatt av miljøspørsmål også. Mange var kritiske til et høyt forbruk og bekymret for konsekvensene det kunne få for miljø og mennesker. Særlig skapte byggingen av atomkraftverk sterk motstand, og i flere sentraleuropeiske land ble det stiftet ”grønne partier”.
 
   p I 1980-årene kom avskoging og utslipp av klimagasser på den miljøpolitiske dagsordenen. Utfordringene er ikke blitt mindre på 2000-tallet. Klimaendringene vi ser i dag, er mest sannsynlig menneskeskapte, men arbeidet med å redusere CO2-utslipp går likevel langsomt. 
@@ -72,7 +72,7 @@ PagePeriod(
     img(src="./Postmodernisme_Tida_og_samfunnsforhold6.jpg" alt="To skyskrapere med røyk og eksplosjon. Foto.")
     figcaption Angrepet på World Trade Center 11. september 2001. Foto: Carmen Taylor / AP / Scanpix
 
-  h4 Kampen mot terror 
+  h5 Kampen mot terror 
   p 11. september 2001 står som et veiskille i moderne internasjonal politikk og samfunnsliv. Nesten tre tusen mennesker ble drept i terrorangrepet som rammet World Trade Center i New York og Pentagon, det amerikanske militære hovedkvarteret. Ansvarlig for aksjonen var Al-Qaida, en ekstremistisk islamistgruppe ledet av Osama bin Laden. 
 
   p USA reagerte på terrorangrepet med å lansere krigen mot terrorisme, en global kampanje for å bekjempe internasjonale terroristgrupper og terrornettverk. Men også i perioden etter 2001 har islamistiske grupper gjennomført en rekke terroranslag, ikke bare i vestlige land, men også i Afrika, Midtøsten og Asia. 
@@ -81,7 +81,7 @@ PagePeriod(
     img(src="./Postmodernisme_Tida_og_samfunnsforhold7.jpg" alt="Syv glade ungdommer med ulik hudfarge poserer på rekke. Foto.")
     figcaption Gode venner på tvers av livssyn, verdier og levesett. Foto: Kerstin Mertens / Samfoto / Scanpix
 
-  h4 Et mer mangfoldig Norge 
+  h5 Et mer mangfoldig Norge 
   p I 1970 var det 50 000 innvandrere og norskfødte med innvandrerforeldre i Norge, i dag er det 552 000. Vi er blitt kjent med ulike livssyn, verdier og levesett som både utfordrer og beriker norsk kultur og samfunnsliv. 
 
   h3 Tanker i tida 
@@ -91,7 +91,7 @@ PagePeriod(
     figcaption Aker Brygge i Oslo kan stå som symbol på postmoderne arkitektur i Norge. Foto: Vegard Grøtt / NTB Scanpix
   
 
-  h4 Postmodernitet 
+  h5 Postmodernitet 
   p Begrepet 
     em postmodernitet 
     | har siden 1980-årene vært brukt som en fellesbetegnelse på den økonomiske og kulturelle tilstanden i de vestlige land i vår samtid. Ordet kan oversettes med ”tiden eller tenkningen etter moderniteten”. For å forstå begrepet må vi derfor vite hva som menes med modernitet. 
@@ -104,14 +104,14 @@ PagePeriod(
     img(src="./Postmodernisme_Tanker_i_tiden2.jpg" alt="Portrett av mann i hvit skjorte. Foto.")
     figcaption Jean-François Lyotard. Foto: Bracha L. Ettinger / Wikimedia Commons
 
-  h4 Kritikk av moderniteten
+  h5 Kritikk av moderniteten
   p Postmoderne tenkere er kritiske til disse ideene. I boka 
     em Den postmoderne tilstand: En rapport om kunnskap 
     | (1979) skriver den franske filosofen 
     strong Jean-François Lyotard 
     | (1924–1998) at ”de store fortellingene er døde”: De overordnete ideene som har preget utviklingen i Vesten de siste tre–fire hundre år, er ikke lenger uomstridte sannheter. Vitenskapen har bidratt til utviklingen av atomvåpen og kjemiske våpen, og den teknologiske utviklingen og industrialiseringen har riktignok gitt mange mennesker bedre levekår, men den har også skapt store globale miljø- og fattigdomsproblemer. 
 
-  h4 Det postsekulære samfunnet 
+  h5 Det postsekulære samfunnet 
   p Opplysningstidens tro på frihet og fornuft førte til en kritisk gransking av alle slags autoriteter, også av kirken. Gjennom de siste 200 årene har det skjedd en sekulariseringsprosess der både enkeltmennesket, kulturen og samfunnet i stadig større grad har løsrevet seg fra religiøse autoriteter og normer. 
 
   p Men er Gud død? I 2005 var det 6,7 millioner besøk under gudstjenester i Den norske kirke. I 2010 var det 142 registrerte trossamfunn og 2 livssynssamfunn bare i Oslo og Akershus. Mange mennesker tror, men hva tror vi på? 
@@ -124,7 +124,7 @@ PagePeriod(
     strong Jürgen Habermas 
     | (1929– ) omtaler våre vestlige samfunn i dag som postsekulære. Han mener at religionen har en sentral plass, både i enkeltmenneskers liv og i internasjonal storpolitikk. Den dominerende konflikten internasjonalt knyttes i dag til radikal islam, og vi ser en stadig økende interesse for ulike religioner og livssyn. Mennesker søker etter mening og sammenheng i tilværelsen, og åpner opp for både Gud, engler og troen på et liv etter døden. 
 
-  h4 Postmodernisme
+  h5 Postmodernisme
   p Fra 1960-årene og utover ser vi nye tendenser og strømninger innenfor kunst, arkitektur og litteratur som vi gjerne sammenfatter i begrepet postmodernisme. Postmodernisme er altså en estetisk teori, en lære om hva kunst er og vil, om forholdet mellom kunstverk og publikum og om forholdet mellom kunstens verden og virkeligheten. 
   
   figure.col.col4.right-image
@@ -146,7 +146,7 @@ PagePeriod(
       img(style="width: 198px" src="./Postmodernisme_Georg-Johannesen.jpg" alt="Portrett av en mann grått hår og skjegg, tørkle i halsen. Foto. ")
       figcaption Georg Johannesen
 
-  h4 1960-årene: Sentrallyrikk i fokus
+  h5 1960-årene: Sentrallyrikk i fokus
   p I 1960 er tungetaledebatten, det vil si debatten om den modernistiske lyrikken, lagt død. Det er lite omstridt å skrive dikt uten taktfast rytme eller enderim. Men det skrives fortsatt tradisjonell lyrikk, selv om den frie formen nå dominerer. 
 
   p En lyriker som debuterte i 1960, var 
@@ -164,7 +164,7 @@ PagePeriod(
       strong Georg Johannesen 
     | (1931–2005). Han debuterte i slutten av 1950-årene, men var med på å prege norsk litteratur og norsk litterær debatt i flere tiår. Som politisk radikaler engasjerte han seg sterkt gjennom både dikt, essay, romaner og sakprosatekster – ofte med et kritisk blikk på Norge og nordmenn. 
 
-  h4 Kjøpt: ja – lest: tja 
+  h5 Kjøpt: ja – lest: tja 
   p I 1965 etableres 
     em innkjøpsordningen for nyskrevet norsk skjønnlitteratur
     | . Ordningen er en forutsetning for det mangfoldet vi etter hvert får av diktsamlinger i Norge. Stortinget vedtar at 1000 eksemplarer av de fleste norske skjønnlitterære bøker, prosa, drama, lyrikk og gjendiktninger av lyrikk, skal kjøpes inn av staten. Norsk kulturråd administrerer ordningen, og bøkene deles ut til folkebibliotek rundt om i landet.
@@ -173,7 +173,7 @@ PagePeriod(
     img(src="./Postmodernisme_Litteraturen4.jpg" alt="Tre menn i samtale rundt stuebordet. Foto.")
     figcaption «Dei tre unge opprørarane frå gruppa kring det litterære tidsskriftet Profil» var teksten til dette bildet da det sto på trykk i 1966. Tor Obrestad, Paal-Helge Haugen og Einar Økland.  Foto: NTB / Scanpix
 
-  h4 Profil-gruppa
+  h5 Profil-gruppa
   p I 1965 samlet en gruppe venstreorienterte unge studenter, skribenter, forfattere og intellektuelle seg og gav ut litteraturtidsskriftet Profil. Profil-forfatterne eksperimenterte med både prosa og lyrikk, og de lanserte en ny form for modernisme – 
     em Profil-modernismen 
     | eller 
@@ -278,7 +278,7 @@ PagePeriod(
     
   .mt40
 
-  h4 1970-årene: Sosialrealistisk litteratur 
+  h5 1970-årene: Sosialrealistisk litteratur 
   p 
     | I 1973 ble et nytt, radikalt parti stiftet: Arbeidernes Kommunistparti (marxist-leninistene) – forkortet AKP (m-l). 
     strong Dag Solstad 
@@ -303,7 +303,7 @@ PagePeriod(
     img(src="./Postmodernisme_Litteraturen12.jpg" alt="Demonstrasjonstog for kvinnefrigjøring. Foto.")
     figcaption Kvinnefronten i 8. marstog i 1973. Foto: Svein Erik Dahl / Samfoto / Scanpix
 
-  h4 Nye kjønnsroller og sosiale endringer
+  h5 Nye kjønnsroller og sosiale endringer
   p Det feministiske engasjementet i 1970-årene førte til radikale endringer i familielivet og til en økt andel kvinner i utdanning og arbeid. Fra 1970-årene får vi derfor en bølge av romaner som tematiserer kjønnsrollene og de sosiale endringene som fulgte av kvinnekampen. 
 
   p Forfattere som 
@@ -333,10 +333,10 @@ PagePeriod(
       img(style="width: 120px" src="./Postmodernisme_Kjartan-Flogstad.jpg" alt="Portrett av mann med bart. Han ser ned. Foto.")
       figcaption Kjartan Fløgstad
 
-  h4 Kjartan Fløgstad
+  h5 Kjartan Fløgstad
   p (1944– ) er en annen sentral forfatter som debuterte i slutten av 1960-årene. Fløgstad har ofte industriarbeidere og sjømenn som hovedpersoner i romanene sine. Han skriver eksperimentelt og lekende, romanene hans er inspirert av modernistiske uttrykksformer og av den latinamerikanske magiske realismen.
 
-  h4 Lyrikken i 1970-årene
+  h5 Lyrikken i 1970-årene
   p Også lyrikken i 1970-årene er preget av politikk og samfunnsengasjement, og kamp- og brukslyrikken får derfor en ny oppblomstring. I kampen for et bedre og mer rettferdig samfunn blir det igjen mer akseptert å skrive dikt med fast rytme og enderim. 
 
   figure
@@ -376,7 +376,7 @@ PagePeriod(
 
   h3 Litteraturen i 1980-åra
 
-  h4 Nostalgi og sjarmerende outsidere
+  h5 Nostalgi og sjarmerende outsidere
   figure.col.col4.right-image
     img(src="./Postmodernisme_Lars-Saabye-Christensen.jpg" alt="Skalla mann med skjegg poserer med hånden bak hode. Foto.")
     figcaption Lars Saabye Christensen
@@ -394,7 +394,7 @@ PagePeriod(
   .clear 
   .mt20
 
-  h4 Rus, vold og psykiatri 
+  h5 Rus, vold og psykiatri 
   figure.col.col4.right-image
     img(src="./Postmodernisme_Ingvar-Ambjornsen.jpg" alt="Portrett av langhåra mann med briller. Foto.")
     figcaption Ingvar Ambjørnsen
@@ -406,7 +406,7 @@ PagePeriod(
 
   NrkVideo(id="3244")
 
-  h4 Lyrikken i 1980-årene
+  h5 Lyrikken i 1980-årene
   p I løpet av 1980-årene debuterer lyrikere som 
     strong Øyvind Berg 
     | (1959– ), 
@@ -441,7 +441,7 @@ PagePeriod(
       em Rambuku 
       | av Jon Fosse på Det Norske Teatret, med Ragnhild Hilt og Svein Erik Brodal. Foto: Carl Martin Nordby / Scanpix
 
-  h4 Språklek og sjangerblanding
+  h5 Språklek og sjangerblanding
   p Litteraturen i tiåret før og etter tusenårsskiftet er omfattende og mangfoldig. Tiden vil vise hva som er mest karakteristisk for vår tid, men én endring er tydelig etter 1985: 
     em Postmodernismen 
     | er kommet til Norge. Forfatterne eksperimenterer med det litterære formspråket, de blander sjangrer, leker med språkformer og stiler og kombinerer ”fint” og folkelig. Dessuten låner de fra andre tekster og andre forfattere, et trekk vi kaller intertekstualitet. 
@@ -468,7 +468,7 @@ PagePeriod(
     img(src="./Postmodernisme_Litteraturen29.jpg" alt="Statister i militære kostymer ved kulisser til en sceneoppsetning. Foto. ")
     figcaption Fra innspillingen av filmen«Sofies verden», som bygger på Jostein Gaarders roman. Her er det en scene fra den franske revolusjonen som blir spilt inn. Foto: Rolf Øhman / Scanpix
 
-  h4 Kommersielle suksesser 
+  h5 Kommersielle suksesser 
   p I 1990- og 2000-årene peker 
     strong Anne B. Ragde 
     | (1957– ) og 
@@ -496,7 +496,7 @@ PagePeriod(
     :image="require(`./Postmodernisme_Litteraturen33.jpg`)"
     altText="Nærbilete av mann med gitar i bakgrunnen. Foto."    
     )
-    h4 Jan Kjærstad 
+    h5 Jan Kjærstad 
     p 
       | (1953– ) regnes som en av de mest sentrale postmoderne forfatterne i norsk litteratur. I sine romaner fra 1980- og 1990-årene eksperimenterer han med form, fortelleteknikk, komposisjon og karakterbygging.  
 
@@ -504,11 +504,11 @@ PagePeriod(
     :image="require(`./Postmodernisme_Litteraturen34.jpg`)"
     altText="Portrett av mann med hånden på haka. Foto."    
     )
-    h4 Jon Fosse 
+    h5 Jon Fosse 
     p 
       | (1959– ) er blitt kalt ”den nye Ibsen”. Fra 1990-årene har Fosse hatt stor internasjonal suksess med dramaene sine, og i likhet med Ibsen er hans teaterteknikk nyskapende og utforskende. Fosses forfatterskap er allerede av stort omfang – han har gitt ut en rekke verk og har også skrevet romaner og lyrikk.
 
-  h4 Familien i en postmoderne tid
+  h5 Familien i en postmoderne tid
   p 
     strong Hanne Ørstavik 
     |  (1969– ) og 
@@ -538,7 +538,7 @@ PagePeriod(
     img(src="./Postmodernisme_Bilde-fra-Tatt-av-kvinnen.jpg" alt="Mann med ryggsekk sitter ved siden av ei kvinne under et laken på scenen. Foto.")
     figcaption Gard B. Eidsvold og Helle Haugen i en scene fra Centralteatrets oppsetning av skuespillet «Tatt av kvinnen», som bygger på Erlend Loes roman. Foto: Erlend Aas / Scanpix
 
-  h4 Den postmoderne mannen – ”tatt av kvinnen” 
+  h5 Den postmoderne mannen – ”tatt av kvinnen” 
   p Også i den postmoderne litteraturen er kjønnsroller et gjennomgangstema, og det postmoderne perspektivet er ofte mannens perspektiv. Mennene har mistet evnen til å ta initiativ overfor kvinnen – de vet ikke lenger hva kvinner vil ha. Dette ser vi særlig i 
     em Fatso (2003) av 
     strong Lars Ramslie 
@@ -560,7 +560,7 @@ PagePeriod(
     img(src="./Postmodernisme_Litteraturen41.jpg" alt="Kvinnelig forfatter på bokbad. Foto. ")
     figcaption Åsne Seierstad på Litteraturhuset i 2008. Foto: Knut Falch / Scanpix
 
-  h4 Nye problemstillinger
+  h5 Nye problemstillinger
   p De store konfliktene i litteraturen i dag handler ikke lenger om form, men om grensene mellom fiksjon og sakprosa og om de verdivalg forfatterne gjør. I hvor stor grad kan man basere seg på virkelige personer og hendinger når man skriver skjønnlitteratur? Hva er forskjellen på en roman og en dokumentarbok? 
 
   figure.col.col4.left-image
@@ -585,7 +585,7 @@ PagePeriod(
     img(src="./Postmodernisme_Spraaket_i_perioden1.jpg" alt="Mann får gave mens flere mennesker ser på. Foto.")
     figcaption Elever fra Oddernes gymnas overleverte i 1975 ca. 25 000 underskrifter til stortingspresident Guttorm Hansen (til høyre) for å be Stortinget om å ta sidemålsstilen opp til revisjon. Men sidemålsundervisningen i skolen står støtt også i dag. Foto: Erik Berglund / Aftenposten / Scanpix
 
-  h4 Språkfred
+  h5 Språkfred
   p Mens språksituasjonen i Norge i 1950-årene var preget av konflikt og massiv motstand mot samnorskpolitikken, så vi ved inngangen til 1960-årene tegn til mildvær i språkstriden. Da en komité – populært kalt språkfredskomiteen – ble oppnevnt i 1963, hadde den ikke mandat til å lage forslag til en ny rettskrivingsreform. Komiteen skulle komme med forslag til hvordan vi kunne ta vare på og utvikle den norske språkarven. Samnorsktanken var for betent til at de politiske partiene ønsket å gå videre med dette arbeidet. 
 
   p I tiden etter 1960 stabiliserte språksituasjonen i Norge seg i det todelte landskapet som vi også har i dag. Bokmål er den helt klart dominerende målformen, mens nynorsk har en oppslutning på rundt 15 prosent. Nynorsk står sterkest på Vestlandet, men har også en sterk posisjon innen litteratur og utdanning. I skolen er det fortsatt obligatorisk sidemålsundervisning, og i enkelte humanistiske fag på universitetene står nynorsk også sterkt. 
@@ -598,7 +598,7 @@ PagePeriod(
     img(src="./Postmodernisme_Andre_kunstformer1.jpg" alt="Kunstverk av sovende barn i ramme. Foto. ")
     figcaption Odd Nerdrum: «Baby» (1993). Foto: Bjørn Reese / VG / Scanpix
 
-  h4 Bildekunst
+  h5 Bildekunst
   figure.col.col4.left-image
     img(src="./Postmodernisme_Campbells-Soup.jpg" alt="Et par ser på vegg med mange like plakater av Campell hermetikkboks. Foto.")
     figcaption Andy Warhol: «Campbell’s Soup»
@@ -641,7 +641,7 @@ PagePeriod(
     | (1932–2008) er en annen sentral kunstner i denne perioden. Slettemarks kunst er både sterkt politisk, eksperimentell og lekende i formen. Slettemark er også kjent for å eksperimentere med ulike medier i kunsten og for sin performancekunst. 
 
   .clear
-  h4 Arkitektur 
+  h5 Arkitektur 
 
   figure.col.col5.right-image
     img(src="./Postmodernisme_Andre_kunstformer6.jpg" alt="Fasade på bygg med mye glass. Foto.")
@@ -651,7 +651,7 @@ PagePeriod(
     strong Aker Brygge 
     | i Oslo kan stå som symbol på postmoderne arkitektur i Norge. Fram til 1982 var Aker Brygge et travelt industristed der Akers mekaniske Verksted bygde skip. Etter at denne virksomheten ble lagt ned, ble hele industriområdet gjort om til et sted for underholdning, forretninger og boliger for pengesterke mennesker. Stedet kan dermed symbolisere overgangen fra et industrisamfunn til et kommersielt mediesamfunn. Arkitekturen er også typisk for den postmoderne estetikken – arkitektene har nemlig integrert de gamle industrihallene i de moderne bygningene som ble oppført. Denne blandingen av ny og gammel arkitektur er et typisk postmoderne trekk.
 
-  h4 Musikk
+  h5 Musikk
   p Fra 1960-årene og fram til vår tid har rock og pop vært de klart dominerende musikksjangrene. Det musikalske uttrykket spenner vidt – fra lett diskomusikk i 1970-årene til opprørsk punk i 1980-årene og glatte ”boyband” i 1990-årene. Felles er evnen til å formidle følelser, enten det er snakk om kjærlighetssorg, politisk urett eller gleden over å være ung. Sammen med filmen har pop- og rockemusikken en enestående identitetsskapende posisjon hos ungdom som annen litteratur og kunst aldri har hatt. 
 
   figure
@@ -686,7 +686,7 @@ PagePeriod(
     altText="Mannlig saksofonist på scene. Foto."    
     imageCaption="Jan Garbarek. Foto: Knut Fjeldstad / Scanpix" 
     )
-    h4 Jan Garbarek 
+    h5 Jan Garbarek 
     p 
       | (1947– ) er en av få norske musikere med internasjonal anerkjennelse som stilskaper innen jazzen. Garbarek er kjent for å blande inn folketoner i jazzen, og for sitt samarbeid med poeten Jan Erik Vold. Album som 
       em Briskeby Blues 
@@ -699,11 +699,11 @@ PagePeriod(
     altText="Kvinnelig vokalist på scene. Foto."    
     imageCaption="Mari Boine. Foto: Mimsy Møller / Samfoto / Scanpix"  
     )
-    h4 Mari Boine 
+    h5 Mari Boine 
     p 
       | (1956– ) er en annen norsk artist med internasjonal suksess. Musikken hennes er sterkt inspirert av samiske folketoner og joik. Hun bruker jazz og rock til å fornye og modernisere den samiske musikken – en musikk som ofte blir omtalt som ”verdensmusikk”. 
       
-  h4 Massemedier
+  h5 Massemedier
   p Etter at NRK ble offisielt åpnet i 1960, vokste tv-mediet fort. Satellitter gjorde det tidlig mulig å få inn hele verden i stua, og i 1969 kunne vi følge århundrets store begivenhet: De første skrittene på månen ble direkte overført på tv. 
 
   p Fram til 1982 hadde NRK monopol på å sende fjernsyns- og radioprogrammer, men så ble det åpnet opp for andre aktører. Både lokale kringkastere og internasjonale satellittoverførte kanaler skapte konkurranse. 

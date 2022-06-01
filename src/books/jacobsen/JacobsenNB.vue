@@ -64,10 +64,10 @@ PageBook
 
   p Men dette sies ikke direkte i diktet. Menneskene nevnes faktisk ikke i det hele tatt, de er usynlige bak maskinene sine. Slik kan leseren få inntrykk av at den ødeleggende utviklingen har sin egen dynamikk, uavhengig av alt og alle. Den kan ikke stoppes. 
 
-  h3 Politisk engasjement og samfunnskritikk 
-  p Jacobsen så også tidlig faresignaler ved medie- og forbrukssamfunnet som utviklet seg i etterkrigsårene. Hans påstand var at kommersialiseringen av samfunnet førte folk bort fra hverandre og bort fra seg selv. 
-
   NrkVideo(id="4370")
+
+  h3 Politisk engasjement og samfunnskritikk 
+  p Jacobsen så også tidlig faresignaler ved medie- og forbrukssamfunnet som utviklet seg i etterkrigsårene. Hans påstand var at kommersialiseringen av samfunnet førte folk bort fra hverandre og bort fra seg selv.
 
   figure.col.col12
    img(src='./jacobsen_Politisk_engasjement1.jpg' alt='Menneskemengde går gjennom en utbombet bygate. Foto')

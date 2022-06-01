@@ -382,8 +382,8 @@ PagePeriod(
   h3 Andre kunstformer  
 
   NdlaVideo(
-    source="media/video/nyrealisme/Modernisme_innen_arkitekturen.mp4"
-    captionsUrl="media/video/nyrealisme/Modernisme_innen_arkitekture.nb-NO.vtt"
+    source="media/videos/nyrealisme/Modernisme_innen_arkitekturen.mp4"
+    captionsUrl="media/videos/nyrealisme/Modernisme_innen_arkitekture.nb-NO.vtt"
   )
 
   h5 Bildekunst: eksperimentering og formbrudd 

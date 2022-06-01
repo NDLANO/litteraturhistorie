@@ -209,7 +209,7 @@ PagePeriod(
     em Peer Gynt 
     | handlar om identitetsspørsmålet: Har mennesket ein indre kjerne, eller er identitet noko som endrar seg frå situasjon til situasjon? I skodespela sine problematiserer Ibsen trua på éi sanning, som i tillegg er overlevert gjennom tradisjonar. Denne grunnleggjande tvilen er eit typisk trekk ved moderniteten og det moderne mennesket. 
 
-  figure
+  figure.col.col4.right-image
     img(src="./Realisme_Fra_romantikk_til_realisme6.jpg" alt="Ein mann held handa på skulda til ei bekymra kvinne. Foto.")
     figcaption Frå den svenske filmen 
       em Synnöve Solbakken 

@@ -13,8 +13,8 @@ PageBook
   p Henrik Wergeland er både romantikar og fornuftsdyrkar på same tid. Begeistringa hans for naturen, fantasiflukta og dei sterke kjenslene han formidlar i dikta sine, knyter Wergeland til romantikken. Samstundes er han ein engasjert samfunnsdebattant. Han kjempar mellom anna for full religionsfridom i landet, og han ønskjer eit fritt og sjølvstendig Noreg. I tillegg ivrar han for opplysningsarbeid, han skriv for bønder og arbeidarar og er med på å etablere folkebibliotek fleire stader i landet. 
 
   NdlaVideo(
-    source="media/video/wergeland/Henrik_Wergeland.mp4"
-    captionsUrl="media/video/wergeland/Henrik_Wergeland.nb-no.vtt"
+    source="media/videos/wergeland/Henrik_Wergeland.mp4"
+    captionsUrl="media/videos/wergeland/Henrik_Wergeland.nb-no.vtt"
     )
 
   h3 Wergeland som diktar
