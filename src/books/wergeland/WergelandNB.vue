@@ -14,7 +14,7 @@ PageBook
 
   NdlaVideo(
     source="media/videos/wergeland/Henrik_Wergeland.mp4"
-    captionsUrl="media/videos/wergeland/Henrik_Wergeland.nb-no.vtt"
+    captionsUrl="media/books/wergeland/Henrik_Wergeland.nb-no.vtt"
     )
 
 

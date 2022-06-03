@@ -103,7 +103,7 @@ PageBook
   
   NdlaVideo(
     source="media/videos/rehman/Shabana_Rehman.mp4"
-    captionsUrl="media/videos/rehman/Shabana_Rehman.nb-no.vtt"
+    captionsUrl="media/books/rehman/Shabana_Rehman.nb-no.vtt"
   )
 
 

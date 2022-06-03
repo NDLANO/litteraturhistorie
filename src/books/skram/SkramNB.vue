@@ -28,8 +28,8 @@ PageBook
     | fra 1892. Her møter vi den sytten år gamle Ory som blir giftet bort til en sjøkaptein som er femten år eldre. Uvitende om det meste som har med ekteskap og samliv å gjøre, blir Ory plassert om bord på en seilskute med ektemann og mannskap på vei til England. Det ender tragisk også her.  
 
   NdlaVideo(
-  source="media/videos/skram/Amalie_Skram.mp4"
-  captionsUrl="media/videos/skram/Amalie_Skram.nb-no.vtt"
+  source="media/videos/skram/Amalie-Skram.mp4"
+  captionsUrl="media/books/skram/Amalie-Skram.nb-no.vtt"
   )
 
 

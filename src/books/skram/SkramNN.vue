@@ -28,8 +28,8 @@ PageBook
     | frå 1892. Her møter vi den sytten år gamle Ory som blir gift bort til ein sjøkaptein som er femten år eldre. Uvitande om det meste som har med ekteskap og samliv å gjere, blir Ory plassert om bord på ei seglskute med ektemann og mannskap på veg til England. Det endar tragisk også her. 
 
   NdlaVideo(
-  source="media/videos/skram/Amalie_Skram.mp4"
-  captionsUrl="media/videos/skram/Amalie_Skram.nb-no.vtt"
+  source="media/videos/skram/Amalie-Skram.mp4"
+  captionsUrl="media/books/skram/Amalie-Skram.nb-no.vtt"
   )
 
   p Amalie Skram kritiserer dobbelmoralen i den borgarlege oppsedinga og viser kva dei store skilnadene mellom menn og kvinner fører til. Det er ikkje berre ungjenta Ory som blir forrådd, men like mykje mannen ho blir gift bort til. Begge er underlagde det miljøet dei voks opp i, og dei normene som er rådande i samfunnet.

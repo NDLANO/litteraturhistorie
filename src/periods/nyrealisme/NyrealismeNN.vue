@@ -334,7 +334,7 @@ PagePeriod(
 
   NdlaVideo(
     source="media/videos/nyrealisme/Modernisme_innen_arkitekturen.mp4"
-    captionsUrl="media/videos/nyrealisme/Modernisme_innen_arkitekture.nn-NO.vtt"
+    captionsUrl="media/periods/nyrealisme/Modernisme_innen_arkitekture.nn-NO.vtt"
   )
   
   h5 Biletkunst: eksperimentering og formbrot
