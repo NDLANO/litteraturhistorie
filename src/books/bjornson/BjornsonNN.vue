@@ -121,7 +121,7 @@ export default {
   name: "Book",
   components: {
     NdlaAudio,
-    Brightcove
+    Brightcove,
     NdlaVideo,
     PageBook,
   },
