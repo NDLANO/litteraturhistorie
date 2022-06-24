@@ -153,7 +153,7 @@ PageBook
 <script>
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
-import Brightcove from "@/components/Brightcove";
+import Brightcove from "@/components/BrightcoveVideo";
 import NdlaAudio from "@/components/NdlaAudio";
 import NrkVideo from "@/components/NrkVideo";
 

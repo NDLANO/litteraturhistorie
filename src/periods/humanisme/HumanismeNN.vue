@@ -185,7 +185,7 @@ PagePeriod(
 import PagePeriod from "@/components/PagePeriod";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
-import Brightcove from "@/components/Brightcove";
+import Brightcove from "@/components/BrightcoveVideo";
 import NrkVideo from "@/components/NrkVideo";
 
 export default {
