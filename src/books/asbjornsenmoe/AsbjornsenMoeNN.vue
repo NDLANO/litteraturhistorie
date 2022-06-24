@@ -126,10 +126,7 @@ PageBook
 
   p Og som dei fleste eventyra gjer, endar også dette godt til slutt. Jenta slepp unna dei arbeidsoppgåvene dei misunnelege kollegaene ville prakke på henne, og lever lykkeleg med prinsen alle sine dagar.
 
-  NdlaVideo(
-    source="media/books/asbjornsenmoe/de_tre_mostrene.mp4"
-    captionsUrl="media/books/asbjornsenmoe/de_tre_mostrene.nb-no.vtt"
-  )
+  Brightcove("6308378220112")
 
   
   h3 Språket hos Asbjørnsen og Moe
@@ -156,6 +153,7 @@ PageBook
 <script>
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
+import Brightcove from "@/components/Brightcove";
 import NdlaAudio from "@/components/NdlaAudio";
 import NrkVideo from "@/components/NrkVideo";
 
@@ -163,6 +161,7 @@ export default {
   name: "Book",
   components: {
     NdlaAudio,
+    Brightcove,
     NdlaVideo,
     NrkVideo,
     PageBook,

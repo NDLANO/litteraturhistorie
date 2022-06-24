@@ -12,10 +12,7 @@ PageBook
 
   p Henrik Wergeland er både romantikar og fornuftsdyrkar på same tid. Begeistringa hans for naturen, fantasiflukta og dei sterke kjenslene han formidlar i dikta sine, knyter Wergeland til romantikken. Samstundes er han ein engasjert samfunnsdebattant. Han kjempar mellom anna for full religionsfridom i landet, og han ønskjer eit fritt og sjølvstendig Noreg. I tillegg ivrar han for opplysningsarbeid, han skriv for bønder og arbeidarar og er med på å etablere folkebibliotek fleire stader i landet. 
 
-  NdlaVideo(
-    source="media/videos/wergeland/Henrik_Wergeland.mp4"
-    captionsUrl="media/books/wergeland/Henrik_Wergeland.nb-no.vtt"
-    )
+  Brightcove("5796138271001")
 
   h3 Wergeland som diktar
 
@@ -124,12 +121,14 @@ PageBook
 <script>
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
+import Brightcove from "@/components/Brightcove";
 import NdlaAudio from "@/components/NdlaAudio";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
+    Brightcove,
     NdlaVideo,
     PageBook,
   },

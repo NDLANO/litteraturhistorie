@@ -160,12 +160,7 @@ PagePeriod(
   p
     | Den nyrealistiske litteraturen blir ofte oppfattet som ”et skritt tilbake” i forhold til de modernistiske strømningene på slutten av 1800-tallet. Vi ser en dreining bort fra eksperimenter med form og sjanger og over mot en mer tradisjonell og realistisk framstillingsform. Der de modernistiske forfatterne skildret det moderne mennesket, pekte de nyrealistiske forfatterne på det de syntes det moderne mennesket hadde mistet i møte med den moderne verden. Løsningen de så for seg, var å vende tilbake til førmoderne og førindustrielle verdier.  
 
-  NdlaVideo(
-    source="media/periods/nyrealisme/kafka_lesekunst8_nrk_widescreen.mp4" 
-    description="Film om Franz Kafka. Lende 02:49"
-    playertype="local"    
-    captionsUrl="media/periods/nyrealisme/Kafka_Lesekunst.nb-no.vtt"
-    )
+  Brightcove("6308378186112")
       
   .mt20
   ImageTextBlock.mt5(
@@ -381,10 +376,7 @@ PagePeriod(
   // * Andre kunstformer
   h3 Andre kunstformer  
 
-  NdlaVideo(
-    source="media/videos/nyrealisme/Modernisme_innen_arkitekturen.mp4"
-    captionsUrl="media/periods/nyrealisme/Modernisme_innen_arkitekture.nb-NO.vtt"
-  )
+  Brightcove("5796252787001")
 
   h5 Bildekunst: eksperimentering og formbrudd 
   p
@@ -446,6 +438,7 @@ PagePeriod(
 import ImageTextBlock from "@/components/ImageTextBlock";
 import PagePeriod from "@/components/PagePeriod";
 import NdlaVideo from "@/components/NdlaVideo";
+import Brightcove from "@/components/Brightcove";
 import NdlaAudio from "@/components/NdlaAudio";
 
 export default {
@@ -453,6 +446,7 @@ export default {
   components: {
     ImageTextBlock,
     NdlaAudio,
+    Brightcove,
     NdlaVideo,
     PagePeriod,
   },

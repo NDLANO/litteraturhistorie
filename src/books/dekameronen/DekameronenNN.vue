@@ -22,10 +22,7 @@ PageBook(:showAuthor="false")
       | . 
       a(href="https://www.nb.no/items/cd9f952d7ebfd65f7e0b8e7f84d3986c?page=9&searchText=dekameronen" target="blank") Les teksten.
 
-  NdlaVideo(
-    source="media/books/dekameronen/Dekameronen.mp4"
-    captionsUrl="media/books/dekameronen/Dekameronen.nb-no.vtt"
-  )
+  Brightcove("5796643528001")
 
   h3 Innhald
   p Bakgrunnen for rammeforteljinga i 
@@ -51,12 +48,14 @@ PageBook(:showAuthor="false")
 <script>
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
+import Brightcove from "@/components/Brightcove";
 import NdlaAudio from "@/components/NdlaAudio";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
+    Brightcove,
     NdlaVideo,
     PageBook,
   },

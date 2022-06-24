@@ -66,10 +66,8 @@ PageBook
 
   h3 Melodiøs lyrikk og livssynskrise
 
-  NdlaVideo(
-    source="media/books/bjornson/Ja_vi_elsker.mp4"
-    captionsUrl="media/books/bjornson/Ja_vi_elsker.nb-no.vtt"
-  )
+  Brightcove("5796151893001")
+
   p Bjørnstjerne Bjørnson skreiv mange songar og dikt. Mest kjend er nok nasjonalsongen «Ja, vi elsker» (1859). I 1870 kom samlinga 
     em Digte og Sange 
     | ut for første gong, og som tittelen vitnar om, skreiv Bjørnson gjerne melodiøs lyrikk. Fleire komponistar har sett tonar til dikta hans, og på den måten har Bjørnson vore ein viktig bidragsytar til den norske songtradisjonen.
@@ -82,9 +80,7 @@ PageBook
   
   h3.mt40 Politiker og folketaler
 
-  NdlaVideo.mt40(
-    source="media/books/bjornson/Bjornson_taler_stumt.mp4"
-  )
+  Brightcove.mt40("6308377872112")
 
   p Bjørnson var ein mann som meinte mykje om stort og smått – språk, union, seksualmoral og religion, småfuglar og jernbane. Han var kjend for å vere svært engasjert, og han var langt ifrå redd for konfliktar. Heilt frå han var ung, heldt han foredrag, og han reiste mykje rundt for å tale i ulike slags forsamlingar. Han talte for eksempel i Det Norske Studentersamfund, og han heldt tale for konservative norskamerikanarar i USA, på riksmålssamlingar og på folkemøte om unionsoppløysinga. Bjørnson hadde store talegåver og var ein retorikar av dei sjeldne. Ikkje alt han sa, var like godt grunngitt, og derfor storma det ofte rundt Bjørnson når han heldt innlegga sine.
 
@@ -118,12 +114,14 @@ PageBook
 <script>
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
+import Brightcove from "@/components/Brightcove";
 import NdlaAudio from "@/components/NdlaAudio";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
+    Brightcove
     NdlaVideo,
     PageBook,
   },

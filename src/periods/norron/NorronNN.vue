@@ -360,6 +360,7 @@ PagePeriod(
 <script>
 import PagePeriod from "@/components/PagePeriod";
 import NdlaVideo from "@/components/NdlaVideo";
+import Brightcove from "@/components/Brightcove";
 import NdlaAudio from "@/components/NdlaAudio";
 import ImageTextBlock from "@/components/ImageTextBlock";
 
@@ -368,6 +369,7 @@ export default {
   components: {
     ImageTextBlock,
     NdlaAudio,
+    Brightcove,
     NdlaVideo,
     PagePeriod,
   },
