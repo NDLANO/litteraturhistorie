@@ -125,7 +125,7 @@ PageBook
 
   p Og slik eventyrene gjør, ender også dette godt til slutt. Jenta slipper unna de arbeidsoppgavene de misunnelige kollegaene ville prakke på henne, og lever lykkelig med prinsen alle sine dager. 
 
-  Brightcove("6308378220112")
+  Brightcove(id="6308378220112")
 
 
   h3 Språket hos Asbjørnsen og Moe 

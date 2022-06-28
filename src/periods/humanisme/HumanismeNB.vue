@@ -83,7 +83,7 @@ PagePeriod(
   p
     | Det oppstod også en sterk interesse for gresk og romersk språk og litteratur, og dessuten for historie og filosofi. Denne delen av renessansen kalles humanisme. Humanismen hadde også sitt utspring i Italia på 1300-tallet. Nord for Alpene fikk ikke humanismen gjennomslag før omkring år 1500. En framstående representant for humanismen var Leonardo da Vinci (1452–1519). Han var både vitenskapsmann og kunstner.
   
-  Brightcove("5796127594001")
+  Brightcove(id="5796127594001")
 
   div.mb60
     figure.col.col4.left-image.mt5

@@ -22,7 +22,7 @@ PageBook(:showAuthor="false")
       | . 
       a(href="https://www.nb.no/items/cd9f952d7ebfd65f7e0b8e7f84d3986c?page=9&searchText=dekameronen" target="blank") Les teksten.
 
-  Brightcove("5796643528001")
+  Brightcove(id="5796643528001")
 
   h3 Innhald
   p Bakgrunnen for rammeforteljinga i 

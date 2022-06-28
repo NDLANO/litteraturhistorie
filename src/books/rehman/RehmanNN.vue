@@ -101,7 +101,7 @@ PageBook
 
   p Tekstane er i stor grad prega av haldningane, tankane og kjenslene til forfattaren. Trass i humoren og ironien er det lett å få tak i Rehmans personlege meiningar. Ho set eit personleg avtrykk i alle tekstane sine, alltid lojal mot dei grunnleggjande verdiane sine. I forordet skriv ho: «Les denne boken, del mine emosjoner; bli glad, forbannet og gå ut og hiss opp verden. Til fred.»
 
-  Brightcove("5796536035001")
+  Brightcove(id="5796536035001")
 
 </template>
 

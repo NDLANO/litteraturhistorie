@@ -160,7 +160,7 @@ PagePeriod(
   p
     | Den nyrealistiske litteraturen blir ofte oppfattet som ”et skritt tilbake” i forhold til de modernistiske strømningene på slutten av 1800-tallet. Vi ser en dreining bort fra eksperimenter med form og sjanger og over mot en mer tradisjonell og realistisk framstillingsform. Der de modernistiske forfatterne skildret det moderne mennesket, pekte de nyrealistiske forfatterne på det de syntes det moderne mennesket hadde mistet i møte med den moderne verden. Løsningen de så for seg, var å vende tilbake til førmoderne og førindustrielle verdier.  
 
-  Brightcove("6308378186112")
+  Brightcove(id="6308378186112")
       
   .mt20
   ImageTextBlock.mt5(
@@ -376,7 +376,7 @@ PagePeriod(
   // * Andre kunstformer
   h3 Andre kunstformer  
 
-  Brightcove("5796252787001")
+  Brightcove(id="5796252787001")
 
   h5 Bildekunst: eksperimentering og formbrudd 
   p

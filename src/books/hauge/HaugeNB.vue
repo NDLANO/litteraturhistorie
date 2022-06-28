@@ -315,7 +315,7 @@ export default {
     NdlaAudio,
     NdlaVideo,
     PageBook,
-    NrkVideo
+    NrkVideo,
   },
 };
 </script>

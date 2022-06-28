@@ -66,7 +66,7 @@ PageBook
 
   h3 Melodiøs lyrikk og livssynskrise
 
-  Brightcove("5796151893001")
+  Brightcove(id="5796151893001")
 
   p Bjørnstjerne Bjørnson skrev mange sanger og dikt. Mest kjent er nok nasjonalsangen «Ja, vi elsker» (1859). I 1870 kom samlingen 
     em Digte og Sange 
@@ -80,7 +80,7 @@ PageBook
   
   h3.mt40 Politiker og folketaler
 
-  Brightcove.mt40("6308377872112")
+  Brightcove(id="6308377872112")
 
   p Bjørnson var en mann som mente mye om stort og smått – språk, union, seksual - moral og religion, småfugler og jernbane. Han var kjent for å være svært engasjert, og han var langt ifra redd for konflikter. Helt fra han var ung, holdt han foredrag, og han reiste mye rundt for å tale i ulike typer forsamlinger. Han talte for eksempel i Det Norske Studentersamfund, og han holdt tale for konservative norskamerikanere i USA, på riksmålssamlinger og på folkemøter om  unionsoppløsningen. Bjørnson hadde store talegaver og var en retoriker av de sjeldne. Ikke alt han sa, var like godt begrunnet, og derfor stormet det ofte rundt Bjørnson når han holdt innleggene sine. 
 

@@ -291,7 +291,7 @@ PagePeriod(
 
   h3 Litt om språket 
 
-  Brightcove("5796516199001")
+  Brightcove(id="5796516199001")
 
   .mt40
   h5 URNORDISK TID  
@@ -308,7 +308,7 @@ PagePeriod(
   p
     | ”Atlekvadet” er eit heltedikt frå rundt år 400. I dette diktet møter vi to personar som faktisk har levd, hunarkongen Attila (norrønt Atli) og burgundarkongen Gunnar. Mennene til Atle tek Gunnar og broren Hogne til fange. Atle vil presse dei to til å røpe gøymestaden for ein stor gullskatt som ligg på botnen av Rhinen. Gunnar er redd for at broren skal røpe løyndommen, og krev at han skal drepast. Atles menn prøver først å narre Gunnar med hjartet til trælen Hjalle den feige, men Gunnar tek ikkje imot. Så får han det rette hjartet.  
 
-  Brightcove("5796643532001")  
+  Brightcove(id="5796643532001")  
   br
   a(href="media/periods/norron/atlekvadet.html" target="_blank") Les utdrag fra Atlekvadet
 

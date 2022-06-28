@@ -140,7 +140,7 @@ PagePeriod(
   h5 Eit steg tilbake?
   p Den nyrealistiske litteraturen blir ofte oppfatta som ”eit steg tilbake” i høve til dei modernistiske straumdraga på slutten av 1800-talet. Vi ser ei dreiing bort frå eksperiment med form og sjanger og over mot ei meir tradisjonell og realistisk framstillingsform. Der dei modernistiske forfattarane skildra det moderne mennesket, peikte dei nyrealistiske forfattarane på det dei meinte det moderne mennesket hadde mist i møte med den moderne verda. Løysinga dei såg for seg, var å vende tilbake til førmoderne og førindustrielle verdiar.
 
-  Brightcove("6308378186112")
+  Brightcove(id="6308378186112")
 
   .mt20
   ImageTextBlock.mt5(
@@ -327,7 +327,7 @@ PagePeriod(
 
   h3 Andre kunstformer
 
-  Brightcove("5796252787001")
+  Brightcove(id="5796252787001")
   
   h5 Biletkunst: eksperimentering og formbrot
   p I byrjinga av 1900-talet skjedde det ei nærast eksplosiv utvikling innanfor kunsten. Det voks fram ulike modernistiske kunstuttrykk som alle tok eit oppgjer med dei tradisjonelle kunstformene. Retningar som ekspresjonisme, kubisme, futurisme og dadaisme tok i bruk nye uttrykksformer for å skildre tida slik kunstnarane opplevde henne.
