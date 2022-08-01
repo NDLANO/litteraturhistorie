@@ -19,11 +19,6 @@ PagePeriod(
   p
     | De som har makt i samfunnet, blir dyrket. Det er stor avstand mellom de få rike og resten av folket. Herskerne utnytter religionen til å rettferdiggjøre makt og posisjon. Ifølge Luther har kongen fått sin makt fra Gud fordi all makt kommer fra Gud.   
 
-  
-  Brightcove(
-    id="6305600320112"
-  )
-  
   .clear
 
   h5 Eneveldet
@@ -221,14 +216,12 @@ PagePeriod(
 import PagePeriod from "@/components/PagePeriod";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
-import Brightcove from "@/components/BrightcoveVideo";
 
 export default {
   name: "Book",
   components: {
     NdlaAudio,
     NdlaVideo,
-    Brightcove,
     PagePeriod,
   },
 };
