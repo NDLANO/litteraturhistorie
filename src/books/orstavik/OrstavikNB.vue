@@ -97,7 +97,7 @@ PageBook
     em Uke 43 
     | dreier det seg om det litterære språket, mens presten Liv i 
     em Presten 
-    | ikke greier å formidle tanker om tro, tvil og kall. I 2006 gav Ørstavik ut sin foreløpig siste roman, nemlig 
+    | ikke greier å formidle tanker om tro, tvil og kall. I 2006 gav Ørstavik ut en roman med tittelen 
     em kallet – romanen
     | . Denne romanen har et klart metaperspektiv – den tematiserer nemlig skrive- og leseprosesser og hvordan leseren også har et ansvar for at kommunikasjonen mellom verk og leser skal fungere. 
 

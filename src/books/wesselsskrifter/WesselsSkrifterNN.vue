@@ -209,7 +209,7 @@ PageBook
   img.col.col6.right-image(src='./Wessel_Smeden.jpg' alt='Grovbygd mann med skjegg, held ei slegge i høgre hånd. Illustrasjon')
   p «Smeden og Bageren» er ei humoristisk forteljing som kritiserer rettsstellet og mangelen på fornuft i samfunnet. Handlinga går føre seg i ein liten by der det finst to bakarar og éin smed.
 
-  p Smeden er ein kranglefant og skaffar seg ein fiende i den eine bakaren. Ein dag møtest dei to på vertshuset. Dei tek til å krangle, og krangelen endar med at smeden slår den andre i hel.
+  p Smeden er ein kranglefant og skaffar seg ein fiende. Ein dag møtest dei to på vertshuset. Dei tek til å krangle, og krangelen endar med at smeden slår den andre i hel.
 
   p I retten hevdar dommaren prinsippet om at «liv for liv maae bødes»: Dersom ein tek liv, må ein sjølv bøte med livet. Men så seier fleire av borgarane at dei berre har éin smed i byen, og han er det viktig å ta vare på. Derfor må dommaren vise smeden nåde, meiner dei. Sidan byen har to bakarar, kan heller den eine av dei, ein gammal og skrøpeleg kar, ta straffa. Og slik endar det: Bakaren blir uskuldig dømd, og den skuldige går fri.
 

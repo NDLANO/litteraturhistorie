@@ -110,7 +110,7 @@ PagePeriod(
     img(src="./Humanisme_Tanker_i_tida3.jpg" alt="Halvnært portrett av mann i sort tøy og hatt. Maleri.")
     figcaption Martin Luther malt av Lucas Cranach i 1529
 
-  h5 En modig opprører 
+  h5 En kritisk stemme 
   p
     | Martin Luther (1483–1546) var en tysk prest som stilte seg kritisk til denne praksisen. Han syntes menneskene ble holdt nede av autoritære religiøse regler og ordninger. Luther hevdet blant annet at det bare var troen som frelste, ikke gjerninger eller avlat. Konflikten endte med at kirken ble splittet i en katolsk og en protestantisk (evangelisk-luthersk) retning. 
 

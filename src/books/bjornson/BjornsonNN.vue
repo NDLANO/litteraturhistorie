@@ -78,7 +78,7 @@ PageBook
 
   img.col.col12(src='./Faderen_Bilde-av-blomstrende-tre.jpg' alt='Greiner frå eit frukttre i blomst. Foto')
   
-  h3.mt40 Politiker og folketaler
+  h3.mt40 Politikar og folketalar
 
   Brightcove.mt40(id="6308377872112")
 

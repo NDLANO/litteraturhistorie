@@ -36,8 +36,8 @@ PageBook
   .clear
   img.col.col3.left-image.mt5(src='./asbjornsenmoe_03.jpg' alt='Portrett av eldre mann med markerte øyenbryn og sort sløyfe i halsen. Illustrasjon')
   p Jørgen Moe var prest i Krødsherad og i Drammen, seinere biskop i Kristiansand. Han var mest opptatt av religiøse folkeeventyr og legender. Også han gav ut egne dikt og fortellinger, blant annet den kjente barneboka 
-    em I Brønden og i Kjærnet
-    | . 
+    em I Brønden og i Tjærnet
+    |  (1850). 
 
   .clear
   

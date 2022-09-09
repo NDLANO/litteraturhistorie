@@ -9,7 +9,7 @@ PageBook(:showAuthor="false")
 
   p Tittelen 
     em Il Decamerone 
-    | tyder tidagarsverket. Rammeforteljinga i boka gir oss bakgrunnen for denne tittelen: Ti ungdommar flyktar frå pesten som heimsøkjer byen Firenze, til eit hus på landet. For å korte tida fortel dei kvarandre historier. Alle må finne på ei ny historie kvar dag, og etter ti dagar har dei fortalt hundre noveller. Så dreg dei attende til Firenze.
+    | tyder tidagarsverket. Rammeforteljinga i boka gir oss bakgrunnen for denne tittelen: Ti ungdommar flyktar frå svartedauden som heimsøkjer byen Firenze, til eit hus på landet. For å korte tida fortel dei kvarandre historier. Alle må finne på ei ny historie kvar dag, og etter ti dagar har dei fortalt hundre noveller. Så dreg dei attende til Firenze.
 
   p 
     em 

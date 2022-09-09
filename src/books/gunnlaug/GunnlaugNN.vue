@@ -89,16 +89,14 @@ PageBook(:showAuthor="false")
 
   h5 Nokre kjennemerke ved sogelitteraturen
   ul
-    li Sogene skildrar eit ættesamfunn der strid og konflikt er vanleg.
-    li Det er stor grad av realisme og objektivitet i framstillinga, og her er mange personar. 
-    li Forteljemåten er enkel, ordknapp og sakleg.
-    li Draumar og draumetyding er vanlege innslag, og vi får kjennskap til den norrøne mytologien.
+    li Sogene skildrar eit ættesamfunn der strid og konflikt er vanleg. Sjølv om det er eit mannssamfunn, er kvinnene med i handlinga, og dei viser ofte at dei er både sterke og fargerike.
     li Blodhemn står sentralt. Det er tvingande nødvendig å ta hemn, og det er ei plikt å hemne.
-    li Sogene skildrar eit mannssamfunn, men kvinnene er med i handlinga, og dei viser ofte at dei er både sterke og fargerike.
-    li Vi får ikkje vite kva personane føler og tenkjer, forteljemåten er ordknapp, og underdriving er eit vanleg verkemiddel. Mannen som får eit spyd gjennom brystet, rekk akkurat å seie: «Det råka godt,» før han fell død om.
+    li Draumar og draumetyding er vanlege innslag, og vi får kjennskap til den norrøne mytologien.
     li Trua på lagnaden går igjen i alle islendingesoger. Ein skal prøve å avverje katastrofen, men kjem han, skal ein stå oppreist og bere nederlaget med rak rygg. 
-    em Å sjå lagnaden i auga 
-    | er derfor eit viktig punkt i alle ættesoger. 
+      em Å sjå lagnaden i auga 
+      | er derfor eit viktig punkt i alle ættesoger. 
+    li Det er stor grad av realisme og objektivitet i framstillinga, og her er mange personar. 
+    li Forteljemåten er enkel, ordknapp og sakleg. Vi får ikkje vite kva personane føler og tenkjer, forteljemåten er ordknapp, og underdriving er eit vanleg verkemiddel. Mannen som får eit spyd gjennom brystet, rekk akkurat å seie: «Det råka godt,» før han fell død om.
 
   br
 

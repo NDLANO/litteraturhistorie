@@ -9,7 +9,7 @@ PageBook(:showAuthor="false")
 
   p Tittelen 
     em Il Decamerone 
-    | betyr tidagersverket. Rammefortellingen i boka gir oss bakgrunnen for denne tittelen: Ti ungdommer flykter fra pesten som hjemsøker byen Firenze, til et hus på landet. For å få tida til å gå forteller de hverandre historier. Alle må finne på en ny historie hver dag, og etter ti dager har de fortalt hundre noveller. Så drar de tilbake til Firenze.
+    | betyr tidagersverket. Rammefortellingen i boka gir oss bakgrunnen for denne tittelen: Ti ungdommer flykter fra svartedauden som hjemsøker byen Firenze, til et hus på landet. For å få tida til å gå forteller de hverandre historier. Alle må finne på en ny historie hver dag, og etter ti dager har de fortalt hundre noveller. Så drar de tilbake til Firenze.
 
   p 
     em 

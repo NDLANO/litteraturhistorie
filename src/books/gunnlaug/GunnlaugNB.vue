@@ -88,16 +88,14 @@ PageBook(:showAuthor="false")
 
   h5 Noen kjennetegn ved sagalitteraturen 
   ul
-    li Sagaene skildrer et ættesamfunn der strid og konflikt er vanlig. 
-    li Det er stor grad av realisme og objektivitet i framstillingen, og her er mange personer. 
-    li Fortellemåten er enkel, ordknapp og saklig. 
-    li Drømmer og drømmetyding er vanlige innslag, og vi får kjennskap til den norrøne mytologien. 
+    li Sagaene skildrer et ættesamfunn der strid og konflikt er vanlig. Selv om det er et mannssamfunn, er kvinnene med i handlingen, og de viser ofte at de er både sterke og fargerike.  
     li Blodhevn står sentralt. Det er tvingende nødvendig å ta hevn, og det er en plikt å hevne.
-    li Sagaene skildrer et mannssamfunn, men kvinnene er med i handlingen, og de viser ofte at de er både sterke og fargerike. 
-    li Vi får ikke vite hva personene føler og tenker, fortellemåten er ordknapp, og underdrivelse er et vanlig virkemiddel. Mannen som får et spyd gjennom brystet, rekker akkurat å si: «Det traff godt,» før han faller død om. 
+    li Drømmer og drømmetyding er vanlige innslag, og vi får kjennskap til den norrøne mytologien.
     li Troen på skjebnen går igjen i alle islendingesagaer. En skal prøve å avverge katastrofen, men kommer den, skal en stå oppreist og bære nederlaget med rak rygg.
       em &nbsp; Å se skjebnen i øynene 
       | er derfor et viktig punkt i alle ættesagaer. 
+    li Det er stor grad av realisme og objektivitet i framstillingen, og her er mange personer. 
+    li Fortellemåten er enkel, ordknapp og saklig. Vi får ikke vite hva personene føler og tenker, fortellemåten er ordknapp, og underdrivelse er et vanlig virkemiddel. Mannen som får et spyd gjennom brystet, rekker akkurat å si: «Det traff godt,» før han faller død om. 
 
   br
 

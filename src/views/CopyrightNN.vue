@@ -13,11 +13,10 @@
             Tekst: Oddvar Engan, Marion Federl, Ragna Marie T&oslash;rdal, Heidi
             Mobekk Solbakken, Jorunn &Oslash;veland Nyhus, Anita Ramberg
           </p>
-          <p>Utvikling, design og produksjon: &Oslash;yvind H&oslash;ie</p>
           <p>Lisens innhold: (CC-BY-NC-SA)</p>
           <h1><strong>Bilde- og medieliste</strong></h1>
-          <h1><strong>Norr&oslash;n tid</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Norr&oslash;n tid</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Christian Krohg / Finn Bjorklid /
@@ -114,13 +113,13 @@
               >&nbsp;
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK&nbsp;</li>
             <li>NRK&nbsp;</li>
           </ol>
-          <h1><strong>Humanisme og renessanse</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Humanisme og renessanse</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Leonardo da Vinci /Luc Viatour /
@@ -182,14 +181,14 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK Skole</li>
             <li>DialektXperten&nbsp;</li>
             <li>Ellen Kalvenes / Kristin Eriksen Vold / NDLA</li>
           </ol>
-          <h1><strong>Barokk</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Barokk</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Dirk van der Made / DirkvdM /
@@ -299,12 +298,12 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>Arne Torp / DialektXperten&nbsp;</li>
           </ol>
-          <h1><strong>Opplysningstid</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Opplysningstid</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Ukjent / Ragesoss /
@@ -393,7 +392,7 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
             <li>NRK</li>
@@ -401,8 +400,8 @@
             <li>DialektXperten</li>
             <li>DialektXperten</li>
           </ol>
-          <h1><strong>Romantikk</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Romantikk</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Caspar David Friedrich: "Der Wanderer &uuml;ber dem Nebelmeer"
@@ -524,14 +523,14 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>Arne Torp / DialektXperten</li>
           </ol>
-          <h1>
+          <h2>
             <strong>Realisme, naturalisme og det moderne gjennombruddet</strong>
-          </h1>
-          <h2>Bilder</h2>
+          </h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Christian Krohg: "Albertine i politil&aelig;gens
@@ -819,8 +818,8 @@
               >
             </li>
           </ol>
-          <h1><strong>Nyromantikk og tidlig modernisme</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Nyromantikk og tidlig modernisme</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Harald Sohlberg: "Vinternatt" (1914) / Jt68 /
@@ -963,9 +962,8 @@
               >&nbsp;
             </li>
           </ol>
-          <p><br /><br /></p>
-          <h1><strong>Nyrealisme og modernisme</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Nyrealisme og modernisme</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>Arkivfoto Scanpix Sverige / CC BY-NC-SA</li>
             <li>
@@ -1101,13 +1099,13 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK&nbsp;</li>
             <li>Terranova</li>
           </ol>
-          <h1><strong>Modernisme og realisme</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Modernisme og realisme</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               AFBorchert /
@@ -1222,7 +1220,7 @@
             </li>
             <li>AP / Scanpix / CC BY-NC-SA</li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
             <li>NRK</li>
@@ -1233,8 +1231,8 @@
             <li>NRK Skole</li>
             <li>NRK Skole&nbsp;</li>
           </ol>
-          <h1><strong>Postmodernisme og realisme&nbsp;</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Postmodernisme og realisme&nbsp;</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>Heiko Junge / NTB / CC BY-NC</li>
             <li>NTB / Scanpix / CC BY-NC-SA</li>
@@ -1393,7 +1391,7 @@
             <li>Mimsy M&oslash;ller / Samfoto / Scanpix / CC BY-NC-SA</li>
             <li>Erik Norrud / Dagsavisen / Samfoto / NTB / CC BY-NC</li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK Skole</li>
             <li>NRK</li>
@@ -1404,8 +1402,8 @@
             <li>NRK Skole</li>
           </ol>
           <h1><strong>B&Oslash;KER</strong></h1>
-          <h1><strong>Beowulf</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Beowulf</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               EugeneZelenko /
@@ -1436,12 +1434,12 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>British Library</li>
           </ol>
-          <h1><strong>Den eldre Edda</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Den eldre Edda</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Anker Eli Petersen: "V&ouml;lusp&aacute;" (2003) / Arne List /
@@ -1472,12 +1470,12 @@
               >&nbsp;
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
           </ol>
-          <h1><strong>Rolandskvadet</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Rolandskvadet</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Ukjent / Sigune /
@@ -1499,9 +1497,8 @@
               / https://commons.wikimedia.org/wiki/File:Roland_Kleine.jpg
             </li>
           </ol>
-          <p><br /><br /></p>
-          <h1><strong>Snorres kongesagaer</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Snorres kongesagaer</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Christian Krohg: "Snorre Sturalson" (ca. 1890) / Jorunn /
@@ -1562,15 +1559,15 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK Skole</li>
             <li>NRK</li>
             <li>NRK</li>
             <li>NRK</li>
           </ol>
-          <h1><strong>Kongespeilet</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Kongespeilet</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Haabet /
@@ -1592,8 +1589,8 @@
               >
             </li>
           </ol>
-          <h1><strong>Nibelungen-eposet</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Nibelungen-eposet</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Ukjent / Solver /
@@ -1617,8 +1614,8 @@
               >
             </li>
           </ol>
-          <h1><strong>Sagaen om Gunnlaug Ormstunge</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Sagaen om Gunnlaug Ormstunge</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Ukjent / Berig /
@@ -1653,13 +1650,12 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
           </ol>
-          <p><br /><br /></p>
-          <h1><strong>Dekameronen</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Dekameronen</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Ukjent / Shakko /
@@ -1676,13 +1672,13 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
             <li>NRK</li>
           </ol>
-          <h1><strong>Olav og Kari</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Olav og Kari</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Codex Manesse, utsnitt / GDK /
@@ -1733,13 +1729,13 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
             <li>NRK</li>
           </ol>
-          <h1><strong>Draumkvedet</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Draumkvedet</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Theodor Kittelsen: "Op under Fjeldet toner en Lur" (1900)/
@@ -1757,12 +1753,12 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>Arne Torp / DialektXperten</li>
           </ol>
-          <h1><strong>Vinjeboka</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Vinjeboka</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Kulturr&aring;det /
@@ -1793,14 +1789,14 @@
               >
             </li>
             <li>
-              U<a
+              <a
                 href="http://www.hf.uio.no/ikos/forskning/samlinger/norsk-folkeminnesamling/svartebok/bok/Jeloen.html"
-                >io.no</a
+                >Uio.no</a
               >&nbsp;
             </li>
           </ol>
-          <h1><strong>Bergens Kapitelsbok</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Bergens Kapitelsbok</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Hieronymus Scholeus / Nina-no /
@@ -1830,9 +1826,8 @@
               >
             </li>
           </ol>
-          <p><br /><br /></p>
-          <h1><strong>Den Norske Dictionarium eller Glosebog</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Den Norske Dictionarium eller Glosebog</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>Christen Jensson / NRK</li>
             <li>Arild Nyb&oslash; / NRK</li>
@@ -1844,14 +1839,13 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>DialektXperten</li>
             <li>DialektXperten</li>
           </ol>
-          <p><br /><br /></p>
-          <h1><strong>Flora Danica</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Flora Danica</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>Tom Knudsen / NDLA</li>
             <li>
@@ -1875,15 +1869,15 @@
               >&nbsp;
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
             <li>NRK</li>
           </ol>
-          <h1>
+          <h2>
             <strong>Dorothe Engelbretsdotter: Sj&aelig;lens Sang-Offer</strong>
-          </h1>
-          <h2>Bilder</h2>
+          </h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Ukjent / Ranveig /
@@ -1903,12 +1897,12 @@
               (1887) / Grev Wedels Plass Auksjoner
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
           </ol>
-          <h1><strong>Petter Dass: Nordlands Trompet</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Petter Dass: Nordlands Trompet</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               John Lerli / Ranveig /
@@ -1925,12 +1919,12 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>DialektXperten</li>
           </ol>
-          <h1><strong>Thomas Kingo: Kingos salmebok</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Thomas Kingo: Kingos salmebok</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Arne List /
@@ -1962,14 +1956,14 @@
               >&nbsp;
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
           </ol>
-          <h1>
+          <h2>
             <strong>Ludvig Holberg: Niels Klims underjordiske rejse</strong>
-          </h1>
-          <h2>Bilder</h2>
+          </h2>
+          <h3>Bilder</h3>
           <ol>
             <li>Tom Knudsen / NDLA</li>
             <li>
@@ -1999,13 +1993,12 @@
               >&nbsp;
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>DialektXperten</li>
           </ol>
-          <p><br /><br /></p>
-          <h1><strong>Johan Herman Wessel: Wessels skrifter</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Johan Herman Wessel: Wessels skrifter</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Mahlum /
@@ -2035,12 +2028,12 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
           </ol>
-          <h1><strong>Maurits Christoffer Hansen: Luren</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Maurits Christoffer Hansen: Luren</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Ukjent / Mahlum /
@@ -2050,9 +2043,8 @@
               >
             </li>
           </ol>
-          <p><br /><br /></p>
-          <h1><strong>Henrik Wergeland: Om norsk Sprogreformation</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Henrik Wergeland: Om norsk Sprogreformation</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               O.F. Knudsen: Daguerrotypi av Henrik Wergeland (1842) / Mahlum /
@@ -2106,16 +2098,16 @@
             </li>
             <li>O. V&aelig;ring / Nasjonalbiblioteket&nbsp;</li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
             <li>NRK</li>
             <li>NRK</li>
           </ol>
-          <h1>
+          <h2>
             <strong>Asbj&oslash;rnsen og Moe: Norske folkeeventyr</strong>
-          </h1>
-          <h2>Bilder</h2>
+          </h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Theodor Kittelsen: "Soria Moria" (1900) /Lipothymia /
@@ -2171,14 +2163,14 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
             <li>Ellen Kalvenes / Kristin Eriksen Vold / NDLA</li>
             <li>NRK</li>
           </ol>
-          <h1><strong>Johan Sebastian Welhaven: Nyere Digte</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Johan Sebastian Welhaven: Nyere Digte</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Johan Sebastian Welhaven: Selvportrett (ca. 1825) / Ranveig /
@@ -2201,12 +2193,12 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
           </ol>
-          <h1><strong>Bj&oslash;rnstjerne Bj&oslash;rnson: Faderen</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Bj&oslash;rnstjerne Bj&oslash;rnson: Faderen</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Karl Anderson (1904) / K&aring;re-Olav /
@@ -2282,13 +2274,13 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
             <li>NRK</li>
           </ol>
-          <h1><strong>Ivar Aasen: Det norske Folkesprogs Grammatik</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Ivar Aasen: Det norske Folkesprogs Grammatik</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Carl Christian Wischmann (1881) / Mahlum /
@@ -2326,14 +2318,13 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK Skole</li>
             <li>NRK Skole</li>
           </ol>
-          <p><br /><br /></p>
-          <h1><strong>Camilla Collett: Amtmandens D&oslash;ttre</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Camilla Collett: Amtmandens D&oslash;ttre</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Nicolai Wergeland / Orland /
@@ -2372,12 +2363,12 @@
               >&nbsp;
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK Skole</li>
           </ol>
-          <h1><strong>Aasmund Olavsson Vinje: D&oslash;len</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Aasmund Olavsson Vinje: D&oslash;len</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Ukjent / Mahlum /
@@ -2441,13 +2432,13 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>Nils Erik Kvamme / NDLA</li>
             <li>Nils Erik Kvamme / NDLA</li>
           </ol>
-          <h1><strong>Knud Knudsen: Unorsk og norsk</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Knud Knudsen: Unorsk og norsk</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Ukjent / Rart /
@@ -2462,8 +2453,8 @@
               >
             </li>
           </ol>
-          <h1><strong>Alexander Kielland: Gift</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Alexander Kielland: Gift</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Ukjent / Kjetil r /
@@ -2507,8 +2498,8 @@
               >
             </li>
           </ol>
-          <h1><strong>Arne Garborg: Mannfolk</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Arne Garborg: Mannfolk</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Ukjent / Ranveig /
@@ -2559,13 +2550,12 @@
               >&nbsp;
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>Nils Erik Kvamme / NDLA</li>
           </ol>
-          <p><br /><br /></p>
-          <h1><strong>Norsk Billedbog for B&oslash;rn</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Norsk Billedbog for B&oslash;rn</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Maria Giovanni Cl&eacute;menti: "Enfants de Charles-Emmanuel III"
@@ -2602,13 +2592,13 @@
             </li>
             <li>Kvensk institutt</li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>Morten R&oslash;hrt / NDLA</li>
             <li>Terje Aronsen / DialektXperten</li>
           </ol>
-          <h1><strong>Henrik Ibsen: Hedda Gabler</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Henrik Ibsen: Hedda Gabler</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>Scanpix / CC BY-NC-SA</li>
             <li>NTB / Scanpix / CC BY-NC-SA</li>
@@ -2620,8 +2610,8 @@
             <li>Tor G. Stenersen / Scanpix / CC BY-NC-SA</li>
             <li>Jarl Fr. Erichsen / Scanpix / CC BY-NC-SA</li>
           </ol>
-          <h1><strong>Vilhelm Krag: Digte</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Vilhelm Krag: Digte</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Gustav Vigeland: "Vilhelm Krag" (ca 1960) / &copy; Vigeland-museet
@@ -2675,12 +2665,12 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>Morten R&oslash;hrt / Amendor / NDLA</li>
           </ol>
-          <h1><strong>Amalie Skram: Forr&aring;dt</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Amalie Skram: Forr&aring;dt</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Ukjent / ThorRune /
@@ -2717,12 +2707,12 @@
               >&nbsp;
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK Skole</li>
           </ol>
-          <h1><strong>Knut Hamsun: Pan</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Knut Hamsun: Pan</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Alfredo Andersen (1891) / Orland /
@@ -2775,13 +2765,13 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK Skole</li>
             <li>Ragnhild Wigdahl</li>
           </ol>
-          <h1><strong>Sigbj&oslash;rn Obstfelder: Byen</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Sigbj&oslash;rn Obstfelder: Byen</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Oda Krogh / K&aring;re-Olav /
@@ -2823,13 +2813,13 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>Morten R&oslash;hrt / NDLA</li>
             <li>Morten R&oslash;hrt / NDLA</li>
           </ol>
-          <h1><strong>Rasmus L&oslash;land: Kvitebj&oslash;rnen</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Rasmus L&oslash;land: Kvitebj&oslash;rnen</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               B&aring;rd L&oslash;ken / Samfoto / NTB Scanpix / CC
@@ -2850,8 +2840,8 @@
               >&nbsp;
             </li>
           </ol>
-          <h1><strong>&Oslash;vre Richter Frich: Jonas Fjeld</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>&Oslash;vre Richter Frich: Jonas Fjeld</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Gustav Wentzel: Frokost II / Morgenstemning (1885) / Orland /
@@ -2897,8 +2887,8 @@
             <li>Bj&oslash;rn Sigurds&oslash;n / Scanpix / CC BY-NC-SA</li>
             <li>Terje H.T. Andersen / Aftenposten / Scanpix / CC BY-NC-SA</li>
           </ol>
-          <h1><strong>Sigrid Undset: Kristin Lavransdatter</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Sigrid Undset: Kristin Lavransdatter</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Ukjent / Sandivas /
@@ -2947,16 +2937,16 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK Skole</li>
             <li>NRK Skole</li>
             <li>NRK Skole</li>
           </ol>
-          <h1>
+          <h2>
             <strong>Johan Falkberget: B&oslash;r B&oslash;rson jr.</strong>
-          </h1>
-          <h2>Bilder</h2>
+          </h2>
+          <h3>Bilder</h3>
           <ol>
             <li>NTB / Scanpix / CC BY-NC-SA</li>
             <li>NTB / Scanpix / CC BY-NC-SA</li>
@@ -2980,12 +2970,12 @@
               Sverre A. B&oslash;rretzen / Aktuell / Scanpix / NTB / CC BY-NC
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
           </ol>
-          <h1><strong>Rudolf Nilsen: P&aring; stengrunn</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Rudolf Nilsen: P&aring; stengrunn</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>Scanpix / CC BY-NC-SA</li>
             <li>
@@ -3006,12 +2996,12 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
           </ol>
-          <h1><strong>Olav Duun: Medmenneske</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Olav Duun: Medmenneske</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Anders Beer Wilse /
@@ -3028,8 +3018,8 @@
               >
             </li>
           </ol>
-          <h1><strong>Halldis Moren Vesaas: Harpe og dolk</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Halldis Moren Vesaas: Harpe og dolk</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Ukjent / Orland /
@@ -3041,16 +3031,16 @@
             <li>Erik Johansen / Scanpix / CC BY-NC-SA</li>
             <li>Rolf Chr. Ulrichsen / Aftenposten / Scanpix / CC BY-NC-SA</li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
             <li>Unn Vibeke Hol / NDLA</li>
             <li>Unn Vibeke Hol / NDLA</li>
           </ol>
-          <h1>
+          <h2>
             <strong>Aksel Sandemose: En flyktning krysser sitt spor</strong>
-          </h1>
-          <h2>Bilder</h2>
+          </h2>
+          <h3>Bilder</h3>
           <ol>
             <li>Bj&oslash;rn Fj&oslash;rtoft / Scanpix / CC BY-NC-SA</li>
             <li>Morten Holm / Scanpix / CC BY-NC-SA</li>
@@ -3065,8 +3055,8 @@
               <a href="http://www.scanpix.no/">Scanpix / CC BY-NC-SA</a>
             </li>
           </ol>
-          <h1><strong>Nordahl Grieg: Til ungdommen</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Nordahl Grieg: Til ungdommen</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>NRK</li>
             <li>Odd Nicolaysen / Aktuell / Scanpix / CC BY-NC-SA</li>
@@ -3086,13 +3076,13 @@
             <li>Scanpix / CC BY-NC-SA</li>
             <li>Scanpix / CC BY-NC-SA</li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
             <li>NRK</li>
           </ol>
-          <h1><strong>Rolf Jacobsen: Jord og jern</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Rolf Jacobsen: Jord og jern</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>Scanpix / CC BY-NC-SA</li>
             <li>Aftenposten / Scanpix / CC BY-NC-SA</li>
@@ -3102,17 +3092,16 @@
             <li>Jon Eeg / NTB / Scanpix / CC BY-NC-SA</li>
             <li>Helge Sunde / Samfoto / Scanpix / CC BY-NC-SA</li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
             <li>NRK Skole</li>
             <li>NRK Skole</li>
           </ol>
-          <p><br /><br /></p>
-          <h1>
+          <h2>
             <strong>Arnulf &Oslash;verland: Den r&oslash;de front</strong>
-          </h1>
-          <h2>Bilder</h2>
+          </h2>
+          <h3>Bilder</h3>
           <ol>
             <li>Aage Storl&oslash;kken / Aktuell / Scanpix / CC BY-NC-SA</li>
             <li>Aage Storl&oslash;kken / Aktuell / Scanpix / CC BY-NC-SA</li>
@@ -3122,12 +3111,12 @@
               Ingvald M&oslash;llerstad / Aftenposten / Scanpix / CC BY-NC-SA
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
           </ol>
-          <h1><strong>Stortingsmelding nr. 31</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Stortingsmelding nr. 31</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>Rune Petter N&aelig;ss / NTB / CC BY-NC</li>
             <li>
@@ -3154,12 +3143,12 @@
             <li>NTB / Scanpix / CC BY-NC-SA</li>
             <li>Oddvar Walle Jensen / NTB / Scanpix / CC BY-NC-SA</li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK Skole</li>
           </ol>
-          <h1><strong>Vangsgutane</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Vangsgutane</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Ukjent / Mahlum /
@@ -3202,12 +3191,12 @@
             </li>
             <li>Lise &Aring;serud / Scanpix / CC BY-NC-SA</li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK Skole</li>
           </ol>
-          <h1><strong>Inger Johanne Hagerup: Videre</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Inger Johanne Hagerup: Videre</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>Aage Storl&oslash;kken / Aktuell / Scanpix / CC BY-NC-SA</li>
             <li>Scanpix / CC BY-NC-SA</li>
@@ -3220,13 +3209,13 @@
             <li>Arne Tjensvold / Aftenposten / Scanpix / CC BY-NC-SA</li>
             <li>Erik Thorberg / NTB / Scanpix / CC BY-NC-SA</li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>Unn Vibeke Hol / NDLA</li>
             <li>Unn Vibeke Hol / NDLA</li>
           </ol>
-          <h1><strong>Tarjei Vesaas: Is-slottet</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Tarjei Vesaas: Is-slottet</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>NTB / Scanpix / CC BY-NC-SA</li>
             <li>Novosti / Scanpix / CC BY-NC-SA</li>
@@ -3244,28 +3233,27 @@
               >
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
             <li>NRK Skole</li>
             <li>Unn Vibeke Hol / NDLA</li>
             <li>Unn Vibeke Hol / NDLA</li>
           </ol>
-          <h1><strong>Olav H. Hauge: Dropar i austavind</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Olav H. Hauge: Dropar i austavind</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>NTB / Scanpix / CC BY-NC-SA</li>
             <li>Posten Norge / Scanpix / CC BY-NC-SA</li>
             <li>Line M&oslash;ller / VG / Scanpix / CC BY-NC-SA</li>
             <li>NRK</li>
           </ol>
-
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK&nbsp;</li>
           </ol>
-          <h1><strong>Kjartan Fl&oslash;gstad: Dalen Portland</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Kjartan Fl&oslash;gstad: Dalen Portland</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>Rolf M. Aagaard / Aftenposten / Scanpix</li>
             <li>Kyrre Lien / Scanpix / CC BY-NC-SA</li>
@@ -3274,10 +3262,10 @@
             <li>Bernt Eide / Samfoto / Scanpix</li>
             <li>Luca Kleve-Ruud / Samfoto / Scanpix</li>
           </ol>
-          <h1>
+          <h2>
             <strong>Jan Erik Vold: Mor Godhjertas glade versjon. Ja</strong>
-          </h1>
-          <h2>Bilder</h2>
+          </h2>
+          <h3>Bilder</h3>
           <ol>
             <li>Olav Olsen / Aftenposten / Scanpix</li>
             <li>NTB / Scanpix / CC BY-NC-SA</li>
@@ -3295,13 +3283,13 @@
               Alf &Oslash;ystein St&oslash;tvig / VG / Scanpix / CC BY-NC-SA
             </li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK Skole</li>
             <li>NRK</li>
           </ol>
-          <h1><strong>Jan Kj&aelig;rstad: Forf&oslash;reren</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Jan Kj&aelig;rstad: Forf&oslash;reren</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               <a href="https://commons.wikimedia.org/wiki/User:Bep"
@@ -3316,14 +3304,14 @@
             <li>Jan Petter Lynau / VG / Scanpix / CC BY-NC-SA</li>
             <li>Trond Solberg / VG / Scanpix / CC BY-NC-SA</li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK Skole</li>
             <li>NRK</li>
             <li>NRK Skole</li>
           </ol>
-          <h1><strong>Erlend Loe: Naiv.Super</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Erlend Loe: Naiv.Super</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>Lise &Aring;serud / NTB / Scanpix / CC BY-NC-SA</li>
             <li>Jon-Are Berg-Jcobsen / Scanpix / CC BY-NC-SA&nbsp;</li>
@@ -3334,25 +3322,25 @@
             <li>Tor G. Stenersen / Aftenposten / Scanpix / CC BY-NC-SA</li>
             <li>Bj&oslash;rn Reese / VG / Scanpix / CC BY-NC-SA</li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK Skole</li>
             <li>NRK Skole</li>
           </ol>
-          <h1><strong>Jon Fosse: Nokon kjem til &aring; komme</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Jon Fosse: Nokon kjem til &aring; komme</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>Tom A. Kolstad / Aftenposten / Scanpix / CC BY-NC-SA</li>
             <li>B&aring;rd L&oslash;ken / Samfoto / Scanpix / CC BY-NC-SA</li>
             <li>Eggert J&oacute;hannesson / NTB / CC BY-NC-SA</li>
             <li>Tom A. Kolstad / Aftenposten / Scanpix / CC BY-NC-SA</li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
           </ol>
-          <h1><strong>Hanne &Oslash;rstavik: Kj&aelig;rlighet</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Hanne &Oslash;rstavik: Kj&aelig;rlighet</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>Berit Roald / NTB / Scanpix / CC BY-NC-SA</li>
             <li>Oktober forlag</li>
@@ -3361,13 +3349,12 @@
             <li>Rolf M. Aagaard / Aftenposten / Scanpix / CC BY-NC-SA</li>
             <li>Berit Roald / NTB / Scanpix / CC BY-NC-SA</li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
           </ol>
-          <p><br /><br /></p>
-          <h1><strong>Shabana Rehman: Mullal&oslash;ft</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Shabana Rehman: Mullal&oslash;ft</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>Tom-Egil Jensen / VG / Scanpix / CC BY-NC-SA</li>
             <li>
@@ -3378,13 +3365,13 @@
             <li>Paul Sigve Amundsen / VG / Scanpix / CC BY-NC-SA</li>
             <li>Annemor Larsen / VG / Scanpix / CC BY-NC-SA</li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
             <li>NRK</li>
           </ol>
-          <h1><strong>&Aring;sne Seierstad: Bokhandleren i Kabul</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>&Aring;sne Seierstad: Bokhandleren i Kabul</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>
               Luca Kleve-Ruud / Samfoto Dagsavisen / Scanpix / CC BY-NC-SA
@@ -3395,12 +3382,12 @@
             <li>Tor Arne Andreassen / Aftenposten / Scanpix / CC BY-NC-SA</li>
             <li>Kjell Odegard / TT / Scanpix / CC BY-NC-SA</li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK</li>
           </ol>
-          <h1><strong>Karl Ove Knausg&aring;rd: Min kamp</strong></h1>
-          <h2>Bilder</h2>
+          <h2><strong>Karl Ove Knausg&aring;rd: Min kamp</strong></h2>
+          <h3>Bilder</h3>
           <ol>
             <li>Daniel Nilsson / TT / Scanpix / CC BY-NC-SA</li>
             <li>Terje Mortensen / VG / Scanpix / CC BY-NC-SA</li>
@@ -3420,7 +3407,7 @@
             <li>Aktuell / Scanpix / CC BY-NC-SA</li>
             <li>Daniel Nilsson / Scanpix / CC BY-NC-SA</li>
           </ol>
-          <h2>Video og lyd</h2>
+          <h3>Video og lyd</h3>
           <ol>
             <li>NRK Skole&nbsp;</li>
             <li>NRK</li>
@@ -3438,7 +3425,7 @@
               width="24"
             >
               <path
-                d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z"
+                d="M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13h30v-2z"
               />
             </svg>
 

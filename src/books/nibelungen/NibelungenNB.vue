@@ -25,7 +25,10 @@ PageBook(:showAuthor="false")
 
   p Andre del handler om hvordan Kriemhild tar hevn. Hun gifter seg med hunerkongen Atle og ber brødrene på besøk. De kommer, selv om de aner uråd. Det ender med at alle burgunderne blir drept, også Kriemhild selv, og ingen får noen gang vite hvor Nibelung-skatten er skjult. 
 
-  a(href='https://www.youtube.com/watch?v=hQM97_iNXhk' target="_blank") Wagner - valkyrierittet fra operaens tredje akt
+  p 
+    | Den tyske komponisten Richard Wagner skreiv en opera inspirert av Nibelungen-eposet.
+    br
+    a(href='https://www.youtube.com/watch?v=hQM97_iNXhk' target="_blank") Wagner - valkyrierittet fra operaens tredje akt
   
 </template>
 
