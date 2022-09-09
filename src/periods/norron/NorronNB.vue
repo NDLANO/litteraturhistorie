@@ -291,7 +291,7 @@ PagePeriod(
 
   h3 Litt om språket
 
-  NdlaVideo(source="media/periods/norron/Spraket_i_Norge_på_1200-tallet.mp4")
+  Brightcove(id="5796516199001")
 
   .mt40
   h5.mt40 URNORDISK TID  
@@ -305,7 +305,7 @@ PagePeriod(
   p
     | ”Atlekvadet” er et heltedikt fra rundt år 400. I dette diktet møter vi to personer som faktisk har levd, hunerkongen Attila (norrønt Atli) og burgunderkongen Gunnar. Atles menn tar Gunnar og broren Hogne til fange. Atle vil presse de to til å røpe gjemmestedet for en stor gullskatt som ligger på bunnen av Rhinen. Gunnar er redd for at broren skal røpe hemmeligheten, og krever at han skal drepes. Atles menn prøver først å narre Gunnar med hjertet til trellen Hjalle den feige, men Gunnar avslår. Så får han det riktige hjertet.
 
-  NdlaVideo(source="media/periods/norron/urnordisk_atlekvadet.mp4")
+  Brightcove(id="5796643532001")
   br
   a(href="media/periods/norron/atlekvadet.html" target="_blank") Les utdrag fra Atlekvadet
 
@@ -354,12 +354,14 @@ PagePeriod(
 import PagePeriod from "@/components/PagePeriod";
 import NdlaVideo from "@/components/NdlaVideo";
 import NdlaAudio from "@/components/NdlaAudio";
+import Brightcove from "@/components/BrightcoveVideo";
 import ImageTextBlock from "@/components/ImageTextBlock";
 
 export default {
   name: "Book",
   components: {
     ImageTextBlock,
+    Brightcove,
     NdlaAudio,
     NdlaVideo,
     PagePeriod,

@@ -3248,7 +3248,6 @@
             <li>Line M&oslash;ller / VG / Scanpix / CC BY-NC-SA</li>
             <li>NRK</li>
           </ol>
-          
           <h3>Video og lyd</h3>
           <ol>
             <li>NRK&nbsp;</li>

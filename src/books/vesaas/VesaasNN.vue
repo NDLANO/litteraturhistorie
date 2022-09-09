@@ -66,10 +66,7 @@ PageBook
     em Kimen 
     | viser til at det like fullt finst ein kime av det gode i mennesket, midt i all vondskapen.
 
-  NdlaVideo(
-  source="media/videos/vesaas/TarjeVesaas2.mp4"
-  description="Ungdomstid og krig. Intervju med Tarjei Vesaas, mellom anna om boka Kimen"
-  )
+  NrkVideo(id="11370")
 
   h3 Å dikte om seg sjølv
 

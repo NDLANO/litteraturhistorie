@@ -101,10 +101,7 @@ PageBook
 
   p Tekstene er i stor grad preget av forfatterens holdninger, tanker og følelser. Til tross for humoren og ironien er det lett å få tak i Rehmans personlige meninger. Hun setter et personlig avtrykk i alle tekstene sine, alltid lojal mot sine grunnleggende verdier. I forordet skriver hun: «Les denne boken, del mine emosjoner; bli glad, forbannet og gå ut og hiss opp verden. Til fred.»             
   
-  NdlaVideo(
-    source="media/videos/rehman/Shabana_Rehman.mp4"
-    captionsUrl="media/books/rehman/Shabana_Rehman.nb-no.vtt"
-  )
+  Brightcove(id="5796536035001")
 
 
   //Medieinnhold: Beholde bilder. Sjekke siste video.      
@@ -114,6 +111,7 @@ PageBook
 <script>
 import PageBook from "@/components/PageBook";
 import NdlaVideo from "@/components/NdlaVideo";
+import Brightcove from "@/components/BrightcoveVideo";
 import NdlaAudio from "@/components/NdlaAudio";
 import NrkVideo from "@/components/NrkVideo";
 
@@ -121,6 +119,7 @@ export default {
   name: "Book",
   components: {
     NdlaAudio,
+    Brightcove,
     NdlaVideo,
     NrkVideo,
     PageBook,
