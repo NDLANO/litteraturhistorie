@@ -53,7 +53,7 @@ PagePeriod(
     em dekadent 
     | blir til vanleg brukt i negativ tyding og viser til ein danna og forfina, men også utagerande levemåte, som gjerne blir tolka som symptom på at eit samfunn er i ferd med å miste livskrafta. Mot slutten av 1800-talet var det fleire tenkjarar og forfattarar som meinte at samtida bar preg av nettopp eit slikt moralsk og kulturelt forfall.
 
-  p Samstundes finn vi òg ei gruppe forfattarar som heilt medvite tok avstand frå det borgarlege samfunnet, og som insisterte på at kunsten ikkje hadde nokon nytteverdi, han var til for eigen del. Førebiletet for desse kunstnarane var den franske diktaren Charles Baudelaire (1821–1867), og ein typisk representant for gruppa var den irske forfattaren Oscar Wilde (1854–1900). Han er òg kjend for eit omflakkande og utagerande liv. 
+  p Samstundes finn vi òg ei gruppe forfattarar som heilt medvite tok avstand frå det borgarlege samfunnet, og som insisterte på at kunsten ikkje hadde nokon nytteverdi, han var til for eigen del. Førebiletet for desse kunstnarane var den franske diktaren Charles Baudelaire (1821–1867), og ein typisk representant for gruppa var den irske forfattaren Oscar Wilde (1854–1900). Han er òg kjend for eit omflakkande og utagerande liv. På toppen av karrieren sin vart han dømd og fengsla for homofili.
 
   ImageTextBlock(
     :image="require(`./Nyromantikk_Tanker_i_tida_Freud.jpg`)"

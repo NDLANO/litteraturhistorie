@@ -80,7 +80,7 @@ PageBook
 
   img.col.col12(src='./Faderen_Bilde-av-blomstrende-tre.jpg' alt='Greiner frå eit frukttre i blomst. Foto')
   
-  h3.mt40 Politiker og folketaler
+  h3.mt40 Politikar og folketalar
 
   NdlaVideo.mt40(
     source="media/books/bjornson/Bjornson_taler_stumt.mp4"

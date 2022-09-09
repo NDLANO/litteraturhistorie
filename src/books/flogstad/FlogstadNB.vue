@@ -2,7 +2,7 @@
 PageBook
   h3 Fra Lovra til Latin-Amerika
 
-  figure.col.col12
+  figure.col.col6.left-image.mt5
     img(src='./flogstad_Portrett1.jpg' alt='Portrett av middelaldrende mann med bart. Bildet er skråstilt. Foto')
     figcaption Foto: Rolf M. Aagaard / Aftenposten / Scanpix
     
