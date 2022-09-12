@@ -27,7 +27,7 @@ PageBook(:showAuthor="false")
   h3 Innhald
   p Bakgrunnen for rammeforteljinga i 
     em Dekameronen 
-    | er ein pestsjukdom som rammar Firenze. Denne pestsjukdommen er ein historisk realitet, for våren og sommaren 1348 vart byen heimsøkt av pesten.
+    | er ein pestsjukdom som rammar Firenze. Denne pestsjukdommen er ein historisk realitet, for våren og sommaren 1348 vart byen heimsøkt av svartedauden.
 
   p Samlinga inneheld ein del kjærleikshistorier, men også mange tekstar om heilt andre emne. Boccaccio er ikkje oppteken av å skildre fysisk kjærleik i detalj, men han vil vise kva for ei sterk kraft kjærleiken er, og kor mykje menneska er villige til å gjere for å vinne den dei elskar.
 

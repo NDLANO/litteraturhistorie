@@ -107,7 +107,7 @@ PageBook
     em Der alt er klart 
     | (2009) er eit samarbeid med den franske biletbokkunstnaren Pierre Duba. I denne illustrerte romanen er handlinga lagd til Svalbard. Lesaren møter ei kvinne som har teke seg jobb i kullgruvene der i håp om å lære den døde faren sin betre å kjenne. Faren omkom under Kings Bayulykka i 1962.
 
-  p Felles for dei ulike fasane i Ørstaviks forfattarskap er korleis ho filosoferer over kva språk er, og kva det kan brukast til. Dette ser vi også i Ørstaviks førebels siste roman 
+  p Felles for dei ulike fasane i Ørstaviks forfattarskap er korleis ho filosoferer over kva språk er, og kva det kan brukast til. Dette ser vi også i Ørstaviks roman 
     em 48 rue Defacqz 
     | (2009) der Ørstavik mellom anna utforskar tilhøvet mellom kjønn og språk. Eit språk som er gjennomsyra av den postmoderne medieverdas formuleringar og perspektiv, er eit falskt språk – og eit falskt språk fortrengjer både den personlege stemmen og den  eigne tanken.
 
