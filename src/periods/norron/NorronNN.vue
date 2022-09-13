@@ -346,7 +346,9 @@ PagePeriod(
     | Andre språklege kjelder er skaldekvada. Dei blir til på 800- og 900-talet. Desse kvada går i arv gjennom fleire hundre år, men blir ikkje skrivne ned før på 1200- og 1300-talet.  
 
   p
-    | Vikingane kjem i kontakt med mange framande språk – frå nære språk som gammalfrisisk og gammalengelsk, til svært fjerne språk som arabisk og tyrkisk. Møtet med andre kulturar fører til at vikingane tek opp nye ord i språket sitt. Frå frisisk har norrønt for eksempel fått lånord som 
+    | Vikingane kjem i kontakt med mange framande språk – frå nære språk som gammalfrisisk og gammalengelsk, til svært fjerne språk som arabisk og tyrkisk. Møtet med andre kulturar fører til at vikingane tek opp nye ord i språket sitt. Frå 
+    a(href="https://snl.no/frisisk" target="_blank") frisisk
+    |  har norrønt for eksempel fått lånord som 
     em klædi 
     | og 
     em sekkr

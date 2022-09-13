@@ -339,7 +339,9 @@ PagePeriod(
   p
     | Andre språklige kilder er skaldekvadene. De blir skapt på 800- og 900-tallet. Disse kvadene går i arv gjennom flere hundre år, men blir ikke skrevet ned før på 1200- og 1300-tallet.  
   p
-    | Vikingene kom i kontakt med mange fremmede språk – fra nære språk som gammelfrisisk og gammelengelsk, til svært fjerne språk som arabisk og tyrkisk. Møtet med andre kulturer førte til at vikingene tok opp nye ord i språket sitt. Fra frisisk har norrønt for eksempel fått lånord som 
+    | Vikingene kom i kontakt med mange fremmede språk – fra nære språk som gammelfrisisk og gammelengelsk, til svært fjerne språk som arabisk og tyrkisk. Møtet med andre kulturer førte til at vikingene tok opp nye ord i språket sitt. Fra 
+    a(href="https://snl.no/frisisk" target="_blank") frisisk
+    |  har norrønt for eksempel fått lånord som 
     em klædi 
     | og 
     em sekkr
